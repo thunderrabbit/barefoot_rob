@@ -9,5 +9,6 @@ theme = "purehugo"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
 	description = "keep expanding"
+	hideShareOptions = true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
