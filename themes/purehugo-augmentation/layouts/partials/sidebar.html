@@ -36,10 +36,25 @@
                 </li>
                 {{ end }}
                 <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} home{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "journal" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} journal{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "blog" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} blog{{ end }}
+                    </a>
+                </li>
+                <!-- li class="nav-item">
                     <a class="pure-button" href='{{ "index.xml" | absURL }}'>
                         <i class="fa fa-rss"></i>{{ if not .Site.Params.hideSidebarIconText }} rss{{ end }}
                     </a>
-                </li>
+                </li -->
             </ul>
         </nav>
     </div>
