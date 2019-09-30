@@ -2,3 +2,5 @@ baseURL = "https://new.robnugen.com/"
 languageCode = "en-us"
 title = "Barefoot Rob"
 theme = "purehugo"
+[permalinks]
+    blog = "/blog/:year/:month/:day/:title/"
