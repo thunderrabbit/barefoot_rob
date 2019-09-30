@@ -2,5 +2,12 @@ baseURL = "https://new.robnugen.com/"
 languageCode = "en-us"
 title = "Barefoot Rob"
 theme = "purehugo"
+[params]
+	author = "Rob Nugen"
+	twitter = "thunderrabbit"
+	github = "thunderrabbit"
+	facebook = "barefootrob"
+	linkedin = "robnugen"
+	description = "keep expanding"
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
