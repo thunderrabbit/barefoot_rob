@@ -1,7 +1,7 @@
 baseURL = "https://new.robnugen.com/"
 languageCode = "en-us"
 title = "Barefoot Rob"
-theme = "purehugo"
+theme = ["purehugo-augmentation", "purehugo" ]
 [params]
 	author = "Rob Nugen"
 	twitter = "thunderrabbit"
