@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Barefoot Rob"
 theme = ["purehugo-augmentation", "purehugo" ]
 [params]
-	author = "Rob Nugen"
+    mainSections = ["blog"]
+  	author = "Rob Nugen"
 	twitter = "thunderrabbit"
 	github = "thunderrabbit"
 	facebook = "barefootrob"

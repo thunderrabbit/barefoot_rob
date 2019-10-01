@@ -8,8 +8,8 @@
         <div>
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
-                {{ $paginate := .Paginate (where .Data.Pages "Type" "blog") }}
-                {{ range $paginate.Pages }}
+                {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+                {{ range $pages }}
                 <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
                 <section class="post">
                     <header class="post-header">
@@ -33,7 +33,7 @@
                 </section>
                 {{ end }}
             </div>
-            {{ partial "pagination.html" (dict "context" . "Paginator" $paginate ) }}
+            {{ partial "pagination.html" $pages }}
             {{ template "_internal/pagination.html" . }}
             {{ partial "footer.html" . }}
         </div>
