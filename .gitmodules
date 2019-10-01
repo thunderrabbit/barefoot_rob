@@ -1,3 +1,6 @@
 [submodule "themes/purehugo"]
 	path = themes/purehugo
 	url = https://github.com/dplesca/purehugo.git
+[submodule "content/journal"]
+	path = content/journal
+	url = git@bitbucket.org:thunderrabbit/robnugen-journal-entries.git
