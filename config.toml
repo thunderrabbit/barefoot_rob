@@ -13,3 +13,4 @@ theme = ["purehugo-augmentation", "purehugo" ]
 	hideShareOptions = true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
+    journal = "/journal/:year/:month/:day/:title/"
