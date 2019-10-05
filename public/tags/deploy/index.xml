@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deploy on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/deploy/</link>
+    <description>Recent content in deploy on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2016 09:38:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tweaked build script</title>
+      <link>https://new.robnugen.com/journal/2016/12/04/tweaked-build-script/</link>
+      <pubDate>Sun, 04 Dec 2016 09:38:57 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/04/tweaked-build-script/</guid>
+      <description>09:38 Sunday 04 December 2016 JST My build script was like this:
+#!/bin/bash echo &amp;quot;pushing&amp;quot; git push echo &amp;quot;pulling&amp;quot; cd ~/journal-hugo git submodule foreach git pull echo &amp;quot;building&amp;quot; hugo echo &amp;quot;deploying&amp;quot; rsync -r public/* newrobnugen:/home/nrnc/new.robnugen.com rsync public/.* newrobnugen:/home/nrnc/new.robnugen.com  But now the last two lines can be replaced with these, I think:
+cd public git add . git commit -m &amp;quot;Published on `date`&amp;quot; git push origin master  Let&amp;rsquo;s see if it works.</description>
+    </item>
+    
+    <item>
+      <title>putting gohugo output in source control</title>
+      <link>https://new.robnugen.com/journal/2016/12/04/putting-gohugo-output-in-source-control/</link>
+      <pubDate>Sun, 04 Dec 2016 09:01:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/04/putting-gohugo-output-in-source-control/</guid>
+      <description> 09:01 Sunday 04 December 2016 JST I think this is the short version of what I ended up doing:
+On server:
+cd /var/www/public git init git add . git commit -m &amp;quot;website now in version control&amp;quot; git config receive.denyCurrentBranch updateInstead  On local:
+cd ~/gohugo/ rm -rf public/ git clone remote:/var/www/public public  Rebuild site with Hugo
+cd public git add . git commit -m &amp;quot;Changes from local&amp;quot; git push origin master  </description>
+    </item>
+    
+  </channel>
+</rss>

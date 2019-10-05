@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clean on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/clean/</link>
+    <description>Recent content in clean on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Dec 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/clean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>wiping my screenshots directory</title>
+      <link>https://new.robnugen.com/journal/2014/12/11/wiping-my-screenshots-directory/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/12/11/wiping-my-screenshots-directory/</guid>
+      <description>##21:48 Thursday 11 December 2014 JST##
+I&amp;rsquo;ve got a bunch of crap in my ~/screenshots/ directory. I&amp;rsquo;m going through and deleting most, but posting a few:</description>
+    </item>
+    
+  </channel>
+</rss>

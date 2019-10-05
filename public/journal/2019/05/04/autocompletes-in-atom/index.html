@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>autocompletes in Atom &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="autocompletes in Atom &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="autocompletes in Atom &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">04 May 2019, 22:06</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2019/05/04/autocompletes-in-atom/" class="post-title">autocompletes in Atom</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h5 id="22-06-saturday-04-may-2019-jst">22:06 Saturday 04 May 2019 JST</h5>
+
+<p>Fantastic!  <a href="https://atom.io">Atom</a> has a pretty easy way to auto-complete my custom strings in markdown format.  I now can type <code>cs</code> and it will offer to autocomplete &lsquo;Caret Splitter&rsquo; as <code>[Caret Splitter](/parts/caret-splitter/)</code></p>
+
+<p>Here is the first draft of <code>snippets.cson</code>, before expanding the URLs to their full selves (and save a redirect with each click).</p>
+
+<pre><code>'.source.gfm':
+  'Back Right Medium Landing Zone':
+    'prefix': 'brmlz'
+    'body': '[Back Right Medium Landing Zone](/p/brmlz)'
+  'Bar Below Circle by Caret Splitter':
+    'prefix': 'bbcbcs'
+    'body': '[Bar Below Circle by Caret Splitter](/p/bbcbcs)'
+  'Bearing':
+    'prefix': 'bearing'
+    'body': '[Bearing](/p/bearing)'
+  'Below Lower Zig Zag Track':
+    'prefix': 'blzzt'
+    'body': '[Below Lower Zig Zag Track](/p/blzzt)'
+  'Caret Splitter Backboard':
+    'prefix': 'csb'
+    'body': '[Caret Splitter Backboard](/p/csb)'
+  'Caret Splitter Feeder Extension Reflection Second Stanchion':
+    'prefix': 'csfer2s'
+    'body': '[Caret Splitter Feeder Extension Reflection Second Stanchion](/p/csfer2s)'
+  'Caret Splitter Feeder Extension Reflection Stanchion':
+    'prefix': 'csfers'
+    'body': '[Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers)'
+  'Caret Splitter Feeder Extension Reflection':
+    'prefix': 'csfer'
+    'body': '[Caret Splitter Feeder Extension Reflection](/p/csfer)'
+  'Caret Splitter Feeder Extension':
+    'prefix': 'csfe'
+    'body': '[Caret Splitter Feeder Extension](/p/csfe)'
+  'Caret Splitter Feeder':
+    'prefix': 'csf'
+    'body': '[Caret Splitter Feeder](/p/csf)'
+  'Caret Splitter Right Hand Inner Side':
+    'prefix': 'csrhis'
+    'body': '[Caret Splitter Right Hand Inner Side](/p/csrhis)'
+  'Caret Splitter Right Track':
+    'prefix': 'csrt'
+    'body': '[Caret Splitter Right Track](/p/csrt)'
+  'Caret Splitter Rudder':
+    'prefix': 'csr'
+    'body': '[Caret Splitter Rudder](/parts/caret-splitter-rudder/)'
+  'Caret Splitter':
+    'prefix': 'cs'
+    'body': '[Caret Splitter](/parts/caret-splitter/)'
+  'Circle by the Caret Splitter':
+    'prefix': 'cbtcs'
+    'body': '[Circle by the Caret Splitter](/p/cbtcs)'
+  'Decorative Walls after the Lowest Small-Medium Splitter':
+    'prefix': 'dwatlsms&quot;'
+    'body': '[Decorative Walls after the Lowest Small-Medium Splitter](/p/dwatlsms&quot;)'
+  'Eighth Placed Outer Spiral Support':
+    'prefix': '8poss'
+    'body': '[Eighth Placed Outer Spiral Support](/p/8poss)'
+  'Fifth Placed Outer Spiral Support':
+    'prefix': '5poss'
+    'body': '[Fifth Placed Outer Spiral Support](/p/5poss)'
+  'First Placed Outer Spiral Support':
+    'prefix': '1poss'
+    'body':  '[First Placed Outer Spiral Support](/p/1poss)'
+  'First Snake-Installed Rail':
+    'prefix': 'fsir'
+    'body': '[First Snake-Installed Rail](/p/fsir)'
+  'Fourth Placed Outer Spiral Support':
+    'prefix': '4poss'
+    'body': '[Fourth Placed Outer Spiral Support](/p/4poss)'
+  'Front Left Medium Landing Zone':
+    'prefix': 'flmlz'
+    'body': '[Front Left Medium Landing Zone](/p/flmlz)'
+  'Guides into Back Right Medium Landing Zone':
+    'prefix': 'gibrmlz'
+    'body': '[Guides into Back Right Medium Landing Zone](/p/gibrmlz)'
+  'Left Side Small Landing Zone':
+    'prefix': 'lsslz'
+    'body': '[Left Side Small Landing Zone](/p/lsslz)'
+  'Little Wiggly Track':
+    'prefix': 'lwt'
+    'body': '[Little Wiggly Track](/p/lwt)'
+  'Lower Curver off the Lowest Small-Medium Splitter':
+    'prefix': 'lcotlsms'
+    'body': '[Lower Curver off the Lowest Small-Medium Splitter](/p/lcotlsms)'
+  'Lower Zig Zag 2 ban top':
+    'prefix': 'lzz2bt'
+    'body': '[Lower Zig Zag 2 ban top](/p/lzz2bt)'
+  'Lower Zig Zag 2 ban':
+    'prefix': 'lzz2b'
+    'body': '[Lower Zig Zag 2 ban](/p/lzz2b)'
+  'Lower Zig Zag 3 ban base':
+    'prefix': 'lzz3bb'
+    'body': '[Lower Zig Zag 3 ban base](/p/lzz3bb)'
+  'Lower Zig Zag 3 ban':
+    'prefix': 'lzz3b'
+    'body': '[Lower Zig Zag 3 ban](/p/lzz3b)'
+  'Lower Zig Zag 3ban Upper Base Base':
+    'prefix': 'lzz3bubb'
+    'body': '[Lower Zig Zag 3ban Upper Base Base](/p/lzz3bubb)'
+  'Lower Zig Zag Net':
+    'prefix': 'lzzn'
+    'body': '[Lower Zig Zag Net](/p/lzzn)'
+  'Lower Zig Zag':
+    'prefix': 'lzz'
+    'body': '[Lower Zig Zag](/parts/lower_zig_zag/)'
+  'Lowest Back Left Small Marble Curve':
+    'prefix': 'lblsmc'
+    'body': '[Lowest Back Left Small Marble Curve](/p/lblsmc)'
+  'Lowest Largest Backtracking Chopstick':
+    'prefix': 'llbc'
+    'body': '[Lowest Largest Backtracking Chopstick](/p/llbc)'
+  'Lowest Largest Backtracking Popsicle Stick':
+    'prefix': 'llbps'
+    'body': '[Lowest Largest Backtracking Popsicle Stick](/p/llbps)'
+  'Lowest Largest U-Turn':
+    'prefix': 'llut&quot;'
+    'body': '[Lowest Largest U-Turn](/p/llut&quot;)'
+  'Medium Catcher Below Triple Splitter':
+    'prefix': 'mcbts'
+    'body': '[Medium Catcher Below Triple Splitter](/p/mcbts)'
+  'Ninth Placed Outer Spiral Support':
+    'prefix': '9poss'
+    'body': '[Ninth Placed Outer Spiral Support](/p/9poss)'
+  'Outer Spiral':
+    'prefix': 'os'
+    'body': '[Outer Spiral](/p/os)'
+  'Right Side Small Landing Zone':
+    'prefix': 'rsslz'
+    'body': '[Right Side Small Landing Zone](/p/rsslz)'
+  'Second Placed Outer Spiral Support':
+    'prefix': '2poss'
+    'body': '[Second Placed Outer Spiral Support](/p/2poss)'
+  'Seventh Placed Outer Spiral Support':
+    'prefix': '7poss'
+    'body': '[Seventh Placed Outer Spiral Support](/p/7poss)'
+  'Sixth Placed Outer Spiral Support':
+    'prefix': '6poss'
+    'body': '[Sixth Placed Outer Spiral Support](/p/6poss)'
+  'Snake Plate Chopstick':
+    'prefix': 'spc'
+    'body': '[Snake Plate Chopstick](/p/spc)'
+  'Snake Plate U Turn':
+    'prefix': 'sput'
+    'body': '[Snake Plate U Turn](/p/sput)'
+  'Snake Plate U-Turn Berm':
+    'prefix': 'sputb&quot;'
+    'body': '[Snake Plate U-Turn Berm](/p/sputb&quot;)'
+  'Snake Plate U-turn Berm Bar':
+    'prefix': 'sputbb'
+    'body': '[Snake Plate U-turn Berm Bar](/p/sputbb)'
+  'Snake Plate':
+    'prefix': 'sp'
+    'body': '[Snake Plate](/p/sp)'
+  'The First Track':
+    'prefix': 'tft'
+    'body': '[The First Track](/p/tft)'
+  'Third Placed Outer Spiral Support':
+    'prefix': '3poss'
+    'body': '[Third Placed Outer Spiral Support](/p/3poss)'
+  'Triple Splitter Small Feeder Inner Bar Lower Support':
+    'prefix': 'tssfibls'
+    'body': '[Triple Splitter Small Feeder Inner Bar Lower Support](/p/tssfibls)'
+  'Triple Splitter Small Feeder Inner Bar':
+    'prefix': 'tssfib'
+    'body': '[Triple Splitter Small Feeder Inner Bar](/p/tssfib)'
+  'Triple Splitter Small Feeder Outer Bar Lower Support':
+    'prefix': 'tssfobls'
+    'body': '[Triple Splitter Small Feeder Outer Bar Lower Support](/p/tssfobls)'
+  'Triple Splitter Small Feeder Outer Bar':
+    'prefix': 'tssfob'
+    'body': '[Triple Splitter Small Feeder Outer Bar](/p/tssfob)'
+  'Triple Splitter Small Feeder':
+    'prefix': 'tssf'
+    'body': '[Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/)'
+  'Triple Splitter':
+    'prefix': 'ts'
+    'body': '[Triple Splitter](/parts/triple_splitter/)'
+  'Two Ends Chopped Off Triple Splitter':
+    'prefix': 'tecots'
+    'body': '[Two Ends Chopped Off Triple Splitter](/p/tecots)'
+  'Upper Splitter off the Lowest Small-Medium Splitter':
+    'prefix': 'usotlsms'
+    'body': '[Upper Splitter off the Lowest Small-Medium Splitter](/p/usotlsms)'
+  'the Lowest Small-Medium Splitter':
+    'prefix': 'tlsms'
+    'body': '[the Lowest Small-Medium Splitter](/p/tlsms)'
+  'the Triple Splitter Small Marble Catcher':
+    'prefix': 'ttssmc'
+    'body': '[the Triple Splitter Small Marble Catcher](/p/ttssmc)'
+  '円周螺旋':
+    'prefix': 'os'
+    'body': '[円周螺旋](/p/os)'
+</code></pre>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2019/05/06/lins-bag-today/" rel="prev" style="float: left!important">❮ Lin&#39;s bag today</a>
+                  <a href="https://new.robnugen.com/journal/2019/05/04/how-to-find-last-slash-on-line-while-recording-macro-in-atom/" rel="next" style="float: right!important"> how to find last slash on line while recording macro in Atom ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

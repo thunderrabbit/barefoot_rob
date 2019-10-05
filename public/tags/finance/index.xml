@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finance on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/finance/</link>
+    <description>Recent content in finance on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2017 16:05:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Suica so far in October</title>
+      <link>https://new.robnugen.com/journal/2017/10/22/suica-so-far-in-october/</link>
+      <pubDate>Sun, 22 Oct 2017 16:05:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/22/suica-so-far-in-october/</guid>
+      <description>16:05 Sunday 22 October 2017 JST Not sure if I should put this online, but I think anyone who cares can get the info in other ways, so here is link to a doc which has aa backup of my Suica info
+https://docs.google.com/document/d/18iviJj_fnekTNBPaWQp9aXLCuYMLV-aDKl8KJVyPC-Q/edit</description>
+    </item>
+    
+    <item>
+      <title>money tracker</title>
+      <link>https://new.robnugen.com/journal/2017/10/19/money-tracker/</link>
+      <pubDate>Thu, 19 Oct 2017 21:35:16 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/19/money-tracker/</guid>
+      <description>21:35 Thursday 19 October 2017 JST file:///Users/thunderrabbit/shizzle.html?t1=717&amp;amp;c1=start&amp;amp;t2=10717&amp;amp;c2=add%20money%2016%20Oct&amp;amp;t3=15717&amp;amp;c3=add%20money%2016%20Oct&amp;amp;t4=19717&amp;amp;c4=add%20money%2016%20Oct&amp;amp;t5=19306&amp;amp;c5=Noborito%20to%20Otemachi%2017%20Oct&amp;amp;t6=19141&amp;amp;c6=Nihonbashi%20to%20Hiroo%2017%20Oct&amp;amp;t7=18848&amp;amp;c7=food%20and%20drink%2017%20Oct&amp;amp;t8=18467&amp;amp;c8=Nogizaka%20to%20Noborito%2017%20Oct&amp;amp;t9=18165&amp;amp;c9=Noborito%20to%20Kawasaki%2018%20Oct&amp;amp;t10=17959&amp;amp;c10=bus%20Kawasaki%20to%20JB%2018%20Oct&amp;amp;t11=17753&amp;amp;c11=bus%20JB%20to%20Kawasaki%2018%20Oct&amp;amp;t12=17451&amp;amp;c12=Kawasaki%20to%20Noborito%2018%20Oct&amp;amp;t13=17149&amp;amp;c13=Noborito%20to%20Kawasaki%2019%20Oct&amp;amp;t14=16761&amp;amp;c14=Kawasaki%20to%20Akihabara%2019%20Oct&amp;amp;t15=16596&amp;amp;c15=Akihabara%20to%20Shinjuku%2019%20Oct&amp;amp;t16=16349&amp;amp;c16=Shinjuku%20to%20Noborito%2019%20Oct&amp;amp;mode=0&amp;amp;fs3=1&amp;amp;ft2=1&amp;amp;f3t1=1&amp;amp;f4t0=1&amp;amp;d=:&amp;amp;o1=1&amp;amp;fps=
+I know you cannot use this, but I will make it a webpage sometime &amp;ldquo;soon&amp;rdquo;
+15:40 Friday 20 October 2017 JST Okay here is a version you can use
+https://thunderrabbit.github.io/balance-differ/?t1=717&amp;amp;c1=start&amp;amp;t2=10717&amp;amp;c2=add%20money%2016%20Oct&amp;amp;t3=15717&amp;amp;c3=add%20money%2016%20Oct&amp;amp;t4=19717&amp;amp;c4=add%20money%2016%20Oct&amp;amp;t5=19306&amp;amp;c5=Noborito%20to%20Otemachi%2017%20Oct&amp;amp;t6=19141&amp;amp;c6=Nihonbashi%20to%20Hiroo%2017%20Oct&amp;amp;t7=18848&amp;amp;c7=food%20and%20drink%2017%20Oct&amp;amp;t8=18467&amp;amp;c8=Nogizaka%20to%20Noborito%2017%20Oct&amp;amp;t9=18165&amp;amp;c9=Noborito%20to%20Kawasaki%2018%20Oct&amp;amp;t10=17959&amp;amp;c10=bus%20Kawasaki%20to%20JB%2018%20Oct&amp;amp;t11=17753&amp;amp;c11=bus%20JB%20to%20Kawasaki%2018%20Oct&amp;amp;t12=17451&amp;amp;c12=Kawasaki%20to%20Noborito%2018%20Oct&amp;amp;t13=17149&amp;amp;c13=Noborito%20to%20Kawasaki%2019%20Oct&amp;amp;t14=16761&amp;amp;c14=Kawasaki%20to%20Akihabara%2019%20Oct&amp;amp;t15=16596&amp;amp;c15=Akihabara%20to%20Shinjuku%2019%20Oct&amp;amp;t16=16349&amp;amp;c16=Shinjuku%20to%20Noborito%2019%20Oct&amp;amp;mode=0&amp;amp;fs3=1&amp;amp;ft2=1&amp;amp;f3t1=1&amp;amp;f4t0=1&amp;amp;d=:&amp;amp;o1=1&amp;amp;fps=
+Basically, I enter the balances of my Suica card in order and the script calculates the difference between the balances, so I can enter the differences into my budget tracking software.
+The script is basically a slight modification of https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

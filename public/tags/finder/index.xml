@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finder on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/finder/</link>
+    <description>Recent content in finder on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Feb 2016 09:43:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/finder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>reason number 8160 to stop using OS X</title>
+      <link>https://new.robnugen.com/journal/2016/02/21/reason-number-8160-to-stop-using-os-x/</link>
+      <pubDate>Sun, 21 Feb 2016 09:43:53 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/02/21/reason-number-8160-to-stop-using-os-x/</guid>
+      <description>09:43 Sunday 21 February 2016 JST Okay so I&amp;rsquo;m trying to post a sad+funny thing about IBM customer service. I took a screenshot of the email they sent and opened my screenshot directory in Finder.
+or tried to open the directory in Finder, but it just showed the loading gif and didn&amp;rsquo;t load the directory contents.
+So I force-quit Finder and it quit, but now will not reload.
+ CPU is at 7% usage.</description>
+    </item>
+    
+    <item>
+      <title>reason 8159 to hate Apple</title>
+      <link>https://new.robnugen.com/journal/2016/01/16/reason-8159-to-hate-apple/</link>
+      <pubDate>Sat, 16 Jan 2016 00:11:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/16/reason-8159-to-hate-apple/</guid>
+      <description>00:11 Saturday 16 January 2016 JST Most of the shortcuts in Finder have vanished for the upload file dialog. The shortcut sidebar is there, but it starts with Volumes and not Favorites, which are the shortcuts to Desktop, Downloads, etc. Is there an option to turn if off or something? fuck.</description>
+    </item>
+    
+    <item>
+      <title>Reasons 8,150 and 8,151 to hate Apple</title>
+      <link>https://new.robnugen.com/journal/2015/12/17/reasons-8150-and-8151-to-hate-apple/</link>
+      <pubDate>Thu, 17 Dec 2015 10:27:09 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/17/reasons-8150-and-8151-to-hate-apple/</guid>
+      <description>10:27 Thursday 17 December 2015 JST Oh Finder, why can&amp;rsquo;t you find things?
+The directory I&amp;rsquo;d like you to open doesn&amp;rsquo;t even have many things in it. I rebooted the computer yesterday
+OH! That reminds me that this is reason 8,151!
+fack I can&amp;rsquo;t even keep up.
+Yesterday my shit suddenly rebooted for an update which I clicked CANCEL do not update.. surprise in the middle of work I had to wait for 25 minutes or so for an update.</description>
+    </item>
+    
+    <item>
+      <title>stupid Finder</title>
+      <link>https://new.robnugen.com/journal/2015/03/29/stupid-finder/</link>
+      <pubDate>Sun, 29 Mar 2015 10:15:43 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/29/stupid-finder/</guid>
+      <description>10:15 Sunday 29 March 2015 JST Mail.app wouldn&amp;rsquo;t respond after Finder.app isn&amp;rsquo;t loading. I forced relaunch of Finder, but it hasn&amp;rsquo;t relaunched yet.
+Here&amp;rsquo;s what I wrote to Apple when the dialog said &amp;ldquo;oh you killed Mail app; do you want to report it?&amp;rdquo;
+Finder won’t start. I don’t know if that’s affecting Mail, but I had to kill finder because its one (1) single window couldn’t display ten (10) ten little (less than 1MB each) images.</description>
+    </item>
+    
+  </channel>
+</rss>

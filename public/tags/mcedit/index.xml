@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mcedit on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mcedit/</link>
+    <description>Recent content in mcedit on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mcedit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Added building to Minecraft world</title>
+      <link>https://new.robnugen.com/journal/2014/11/17/added-building-to-minecraft-world/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/17/added-building-to-minecraft-world/</guid>
+      <description>##07:50 Tuesday 18 November 2014 JST##
+And by add, I mean using MCEdit, I injected an schematic of the Empire State Building (unfinished) by Avalanche_Ali
+I placed it in the middle of a plain at first, but then thought it would look weirder in a forest, so I put it there instead.
+Beautifully, without having really tried hard, the minecart track I had built went straight into the center of the building, aligned perfectly.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brother on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/brother/</link>
+    <description>Recent content in brother on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2019 13:07:20 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/brother/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to set the server key on Brother scanner</title>
+      <link>https://new.robnugen.com/journal/2019/08/08/how-to-set-the-server-key-on-brother-scanner/</link>
+      <pubDate>Thu, 08 Aug 2019 13:07:20 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/08/08/how-to-set-the-server-key-on-brother-scanner/</guid>
+      <description>13:07 Thursday 08 August 2019 JST Dreamhosts lists their server key as something like
+canyonville.dreamhost.com,64.90.48.21 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABA&amp;hellip;&amp;hellip;
+But in order to install it on my Brother printer for its scan-to-sftp function, the key needed to start with ssh-rsa. So I removed &amp;ldquo;canyonville&amp;hellip;..21&amp;rdquo; from the front of the key and it works fine.
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnJdr5AbHwfaU+F+pv4BzcgNnPBBvbCh7&amp;hellip;&amp;hellip;
+Is Dreamhost confused about how to show their server keys? Is Brother behind the times in accepting latest standards?</description>
+    </item>
+    
+    <item>
+      <title>mt3</title>
+      <link>https://new.robnugen.com/journal/2018/02/01/mt3/</link>
+      <pubDate>Thu, 01 Feb 2018 16:35:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/01/mt3/</guid>
+      <description>16:35 Thursday 01 February 2018 JST Today I did 1.5 hours of live stream to get about 1 second of new video added to Dragonframe&amp;rsquo;s ongoing take.
+In the foreground on the left, the cutter cut a piece (I decided to redo about 7 frames to get his cut lined up properly) which the gluer glued into place. In the foreground on the right, the 8th rib is being put into place.</description>
+    </item>
+    
+    <item>
+      <title>Met Lin&#39;s aunt and uncle 2</title>
+      <link>https://new.robnugen.com/journal/2017/12/17/met-lins-aunt-and-uncle-2/</link>
+      <pubDate>Sun, 17 Dec 2017 16:33:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/17/met-lins-aunt-and-uncle-2/</guid>
+      <description>16:33 Sunday 17 December 2017 -02 Met A-ni-su and A-ni-su-mei at their restaurant and then went to a bbq party on the other side of town. I chatted with 三木（みき）in English, and his friend talked about the organization whose name includes a pronunciation pun on the phrase &amp;ldquo;innovate yourself&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>import on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/import/</link>
+    <description>Recent content in import on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/import/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Importing journal entries from Perl journal</title>
+      <link>https://new.robnugen.com/journal/2014/11/08/importing-journal-entries-from-perl-journal/</link>
+      <pubDate>Sat, 08 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/08/importing-journal-entries-from-perl-journal/</guid>
+      <description>##23:06 Saturday 08 November 2014 JST##
+I&amp;rsquo;ve spent a few hours today processing my old school journal entries for inclusion in my hakyll journal. I have been doing it all in emacs, with some macros to speed up the process (of processing them).
+The first macro redacts email address domains from comments:
+(fset &#39;rn-00-redact-emails-in-comments [?\C-s ?c ?o ?m ?m ?e ?n ?t return return ?\C-s ?@ return ?\C-k ? ?* ?</description>
+    </item>
+    
+  </channel>
+</rss>

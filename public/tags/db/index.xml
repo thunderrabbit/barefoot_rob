@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>db on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/db/</link>
+    <description>Recent content in db on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2015 22:32:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Today worked on AB DB</title>
+      <link>https://new.robnugen.com/journal/2015/02/16/today-worked-on-ab-db/</link>
+      <pubDate>Mon, 16 Feb 2015 22:32:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/16/today-worked-on-ab-db/</guid>
+      <description>##22:32 Monday 16 February 2015 JST##
+AB DB primarily consists of two big tables. Table U has 77k records, and 160 columns. Table B has maybe 40k records and maybe 70 columns. There&amp;rsquo;s a 1-to-many relationship from B to U. Doing joins on them takes about 3 or 4 seconds.
+That ain&amp;rsquo;t good, considering the joins are done all the frickin time.
+I guess that&amp;rsquo;s why when I got the original data, a lot of what&amp;rsquo;s now in the B table was in the U table.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codin on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/codin/</link>
+    <description>Recent content in codin on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Aug 2015 18:43:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/codin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Side effects</title>
+      <link>https://new.robnugen.com/journal/2015/08/25/side-effects/</link>
+      <pubDate>Tue, 25 Aug 2015 18:43:05 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/08/25/side-effects/</guid>
+      <description>18:43 Tuesday 25 August 2015 JST There were two multiple side effects that caused a problem with the live AB server the other day.
+I wrote some code, tested it and found it working perfectly.
+Added another function call above that code and tested it. Also worked perfectly.
+Testing complete! Ship it!
+Fortunately, I had asked the client to call me before she ran the code the first time. I checked the output and &amp;hellip; hmmm half of the changes didn&amp;rsquo;t get made.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meetup on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/meetup/</link>
+    <description>Recent content in meetup on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 15:25:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State of My Life Address</title>
+      <link>https://new.robnugen.com/journal/2018/04/01/state-of-my-life-address/</link>
+      <pubDate>Sun, 01 Apr 2018 15:25:24 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/04/01/state-of-my-life-address/</guid>
+      <description>15:25 Sunday 01 April 2018 JST  I started a Meetup group ManKind Project Tokyo which will soon be linked to the Mankind Project Pro Meetup account. Men&amp;rsquo;s group meetings are now every Tuesday (since March). We had been meeting twice a month since about August 2015. The group has slowly grown and now twice a month is not enough for every man to do his work. SOGO is still going, although the leadership is changing.</description>
+    </item>
+    
+  </channel>
+</rss>

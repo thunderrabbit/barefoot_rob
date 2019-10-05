@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/bash/</link>
+    <description>Recent content in bash on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Apr 2017 08:32:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bash one liner</title>
+      <link>https://new.robnugen.com/journal/2017/04/25/bash-one-liner/</link>
+      <pubDate>Tue, 25 Apr 2017 08:32:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/04/25/bash-one-liner/</guid>
+      <description>08:32 Tuesday 25 April 2017 JST I sent this to Fred yesterday:
+I often type `gits` to get the status of git. There is one directory on my filesystem that has a filename starting with 0x0x which I must not commit to git, but I need to see each time I get git status. I wrote this alias gits=&#39;git status; if [[ -f 0x0x* ]]; then echo; ls -1 0x0x*; fi&#39; And it works to *not* complain if there is no 0x0x* file, but does not show the file if it is present.</description>
+    </item>
+    
+  </channel>
+</rss>

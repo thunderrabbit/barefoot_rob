@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reboot on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/reboot/</link>
+    <description>Recent content in reboot on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2019 06:20:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/reboot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>reboot fixed USB yay</title>
+      <link>https://new.robnugen.com/journal/2019/09/23/reboot-fixed-usb-yay/</link>
+      <pubDate>Mon, 23 Sep 2019 06:20:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/23/reboot-fixed-usb-yay/</guid>
+      <description>Actually I am writing this before the reboot. Let&amp;rsquo;s see&amp;hellip;
+17:39 next day The reboot didn&amp;rsquo;t help, but turning off one of my USB cameras helped. Hard to know what is causing the issue.
+It seems like it might be this USB 4-splitter I got. What types of things would cause it to suddenly fail?</description>
+    </item>
+    
+  </channel>
+</rss>

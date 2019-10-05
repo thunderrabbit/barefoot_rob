@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vending on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/vending/</link>
+    <description>Recent content in vending on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2015 23:13:44 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/vending/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>whiskey vending machine</title>
+      <link>https://new.robnugen.com/journal/2015/12/26/whiskey-vending-machine/</link>
+      <pubDate>Sat, 26 Dec 2015 23:13:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/26/whiskey-vending-machine/</guid>
+      <description>23:13 Saturday 26 December 2015 JST On the way home we saw a soft drink machine next to an alcohol machine which offered beer and two types of liquor.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bah on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/bah/</link>
+    <description>Recent content in bah on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2019 11:37:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/bah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>huh.  index.md broke my website</title>
+      <link>https://new.robnugen.com/journal/2019/09/13/huh.-index.md-broke-my-website/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:56 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/13/huh.-index.md-broke-my-website/</guid>
+      <description>Well, by the time you can read this online, it will be fixed (unless you are reading a git repo!), but at the moment, my journal (up to 11 Sep) and Blog (up to 29 Aug) are only online because my setup does not overwrite all the existing files after Hugo makes the site.
+I guess I need to read the docs again.
+17:09 Friday 13 September 2019 JST Okay the best I have figured out so far is that if I put _index.</description>
+    </item>
+    
+    <item>
+      <title>battery dead</title>
+      <link>https://new.robnugen.com/journal/2019/04/12/battery-dead/</link>
+      <pubDate>Fri, 12 Apr 2019 13:05:08 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/04/12/battery-dead/</guid>
+      <description>09:05 Monday 01 January 2018 JST The battery on my Mac is so dead that it cannot even remember the date. Today is actually April 12th, 2019, not Jan 1st, 2018.
+14:09 Friday 12 April 2019 JST That&amp;rsquo;s more like it.</description>
+    </item>
+    
+    <item>
+      <title>technical debt</title>
+      <link>https://new.robnugen.com/journal/2018/04/13/technical-debt/</link>
+      <pubDate>Fri, 13 Apr 2018 16:37:48 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/04/13/technical-debt/</guid>
+      <description>16:37 Friday 13 April 2018 JST I gotta figure out how to make the AB project go more smoothly.
+ one: The system was designed to work with Customers logging in to the frontend, and Admin logging into the backend. two: A couple years ago, Admin asked if there is a way for SuperCustomers to log into the front end. three: I had to adjust the way people log into the site to allow them to be either Customers or SuperCustomers four: On the backend, I adjusted the way Inquiries were created because Customers and SuperCustomers will both need Inquiries five: Now I need to adjust the way Sets are created (Redmine ticket 3167) and I thought it would take 2 hours six: Oh crap it is taking way more than 2 hours to do correctly, because it affects how Customers are created, which is new, due to step 3  Fortunately, Nate understands, but it will take a while to do much about it.</description>
+    </item>
+    
+    <item>
+      <title>super sidetracked</title>
+      <link>https://new.robnugen.com/journal/2018/03/30/super-sidetracked/</link>
+      <pubDate>Fri, 30 Mar 2018 12:54:56 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/30/super-sidetracked/</guid>
+      <description>12:54 Friday 30 March 2018 JST Actually have gotten three (3) meetings done online: Prentiss and Ari helped with Mankind Project Tokyo; Ari said he will write some stuff for either Mankind Project Tokyo Meetup or My Power Circle. Oriane and I checked in with each other on our respective projects.
+Planning to ask which inkan I can use for my personal seal today; maybe I will go do that now on my way to work at TY.</description>
+    </item>
+    
+    <item>
+      <title>typo close to legalese</title>
+      <link>https://new.robnugen.com/journal/2018/02/16/typo-close-to-legalese/</link>
+      <pubDate>Fri, 16 Feb 2018 10:59:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/16/typo-close-to-legalese/</guid>
+      <description>10:59 Friday 16 February 2018 JST I cannot decide if I should care that my accountants apparently cannot spell or cannot hire proofreaders or what. Does it make a difference? Should I complain? Stop using them? Is this just a case of English language changing?
+I mean language is a tool to transmit meaning between people and written language is a tool to transmit meaning across time as well. I know what they mean, but could there be a case where it&amp;rsquo;s not clear?</description>
+    </item>
+    
+    <item>
+      <title>unconfirmed transaction</title>
+      <link>https://new.robnugen.com/journal/2018/01/16/unconfirmed-transaction/</link>
+      <pubDate>Tue, 16 Jan 2018 23:34:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/01/16/unconfirmed-transaction/</guid>
+      <description>23:34 Tuesday 16 January 2018 JST I used blockchain.info to send my almost-one bitcoin to a guy and used their suggested fee&amp;hellip; and it has not confirmed after 13 hours.
+https://blockchain.info/tx/b92c3e8166a44fecef691a14fb20f5f94088b66c2dc4009dee4f5f3365941573
+
+Now that I have this problem, I see https://bitcoinfees.earn.com/ suggests fees to get transactions through quickly.
+So I will use that next time, but &amp;hellip; dang not sure when next time will be haha.
+11:38 Wednesday 17 January 2018 JST The transaction confirmed after nearly 24 hours.</description>
+    </item>
+    
+    <item>
+      <title>productivitaint</title>
+      <link>https://new.robnugen.com/journal/2017/08/05/productivitaint/</link>
+      <pubDate>Sat, 05 Aug 2017 19:21:28 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/08/05/productivitaint/</guid>
+      <description>19:21 Saturday 05 August 2017 JST https://robospunk.com/post/163792255416/productivity-i-have-so-many-things-to-do-today
+
+This was me until now today. Now I am going to work on xcode stuff.
+19:42 Saturday 05 August 2017 JST applememory_total is the thing on GameCenter, but I cannot seem to get it to work.
+21:47 Saturday 05 August 2017 JST Thank you! Using https://parse.buddy.com is a drop-in replacement for Parse and I am super stoked (ahem, and late to the game) but still super stoked!</description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://new.robnugen.com/journal/2017/07/08/work/</link>
+      <pubDate>Sat, 08 Jul 2017 21:37:16 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/08/work/</guid>
+      <description>21:37 Saturday 08 July 2017 JST Having trouble getting work done for AB. I finished the one thing they wanted done, but cannot seem to figure out the thing I really want to do.</description>
+    </item>
+    
+    <item>
+      <title>mailchimp</title>
+      <link>https://new.robnugen.com/journal/2017/06/07/mailchimp/</link>
+      <pubDate>Wed, 07 Jun 2017 21:55:20 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/06/07/mailchimp/</guid>
+      <description>21:55 Wednesday 07 June 2017 JST I would like to send an email reminder every 1st and 3rd Tuesday. Doesn&amp;rsquo;t look like it&amp;rsquo;s possible with basic Mailchimp interface. I might be able to use their API to do it.
+11:15 Friday 09 June 2017 JST Ah nice. They can do monthly campaigns, so I can just set up two campaigns. Their help support team sent me screenshots and great detail on how to set it up.</description>
+    </item>
+    
+    <item>
+      <title>moe joe work not working</title>
+      <link>https://new.robnugen.com/journal/2017/02/05/moe-joe-work-not-working/</link>
+      <pubDate>Sun, 05 Feb 2017 06:39:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/02/05/moe-joe-work-not-working/</guid>
+      <description>06:39 Sunday 05 February 2017 JST Now ansible is reporting it cannot connect to AWS though I am sure nothing has changed on this virtual machine. Especially nothing related to the AWS keys.
+I&amp;rsquo;m spinning up a new box now; if that doesn&amp;rsquo;t work, then I&amp;rsquo;ll assume the problem is not on my end and switch to a different project.
+06:45 Sunday 05 February 2017 JST Huh. new box works.</description>
+    </item>
+    
+    <item>
+      <title>Gripes about Star Wars VII</title>
+      <link>https://new.robnugen.com/journal/2015/12/23/gripes-about-star-wars-vii/</link>
+      <pubDate>Wed, 23 Dec 2015 00:38:03 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/23/gripes-about-star-wars-vii/</guid>
+      <description>00:38 Wednesday 23 December 2015 JST It was a cool movie with great effects, music, acting. But the writing left me shaking my head and hating it.
+https://www.reddit.com/r/StarWars/comments/3xpzs7/spoilers_the_force_awakens_discussion_megathread/cy7s6az</description>
+    </item>
+    
+    <item>
+      <title>why angry?</title>
+      <link>https://new.robnugen.com/journal/2015/11/21/why-angry/</link>
+      <pubDate>Sat, 21 Nov 2015 12:13:23 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/21/why-angry/</guid>
+      <description>late Friday 20 November 2015 JST (written 12:13 Saturday 21 November 2015 JST) Last night I wanted to support Lin to help her relax after work. I know she wants the house to be tidy before going to bed, whereas idgaf how messy it is. I was like, &amp;ldquo;can we talk tonight?&amp;rdquo; and she goes, &amp;ldquo;no way I&amp;rsquo;m tired&amp;rdquo; because she thought I asked something else. I inexplicably go, &amp;ldquo;okay but if you stay up cleaning everything I&amp;rsquo;ll be really angry,&amp;rdquo; which right up there near the top of several lists of things not to say at various times.</description>
+    </item>
+    
+    <item>
+      <title>Bah Apple</title>
+      <link>https://new.robnugen.com/journal/2015/11/04/bah-apple/</link>
+      <pubDate>Wed, 04 Nov 2015 15:46:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/04/bah-apple/</guid>
+      <description>15:46 Wednesday 04 November 2015 JST Tried to update Apple TV according to the instructions Apple sent via email. Doesn&amp;rsquo;t work. Had to download the update manually and Option click to load it.</description>
+    </item>
+    
+    <item>
+      <title>Bah Xcode</title>
+      <link>https://new.robnugen.com/journal/2015/10/13/bah-xcode/</link>
+      <pubDate>Tue, 13 Oct 2015 23:40:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/13/bah-xcode/</guid>
+      <description>23:40 Tuesday 13 October 2015 JST Bah. It seems I cannot submit an osTV app to TestFlight without having an Apple TV device connected to my computer. I hope that&amp;rsquo;s a bug, not an attempt to sell more devices. Bah.</description>
+    </item>
+    
+    <item>
+      <title>images bah</title>
+      <link>https://new.robnugen.com/journal/2015/10/13/images-bah/</link>
+      <pubDate>Tue, 13 Oct 2015 18:45:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/13/images-bah/</guid>
+      <description>18:45 Tuesday 13 October 2015 JST What I really want is a way to email pictures to my website, AND to keep them in findable folder structures. Hmmm. Okay, maybe not email, but to easily push them up to my site from my phone. My site. My server. My directory structure. My backend code.</description>
+    </item>
+    
+    <item>
+      <title>Can&#39;t remember how I made journal entries on Debian</title>
+      <link>https://new.robnugen.com/journal/2015/09/30/cant-remember-how-i-made-journal-entries-on-debian/</link>
+      <pubDate>Wed, 30 Sep 2015 11:25:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/09/30/cant-remember-how-i-made-journal-entries-on-debian/</guid>
+      <description>11:25 Tuesday 30 September 2015 JST I just added all the crap above by tweaking a copy from a previous entry. Didn&amp;rsquo;t I have a slick way to make entries on this Debian box? Emacs would be my guess, but I don&amp;rsquo;t see it installed. wut.
+Maybe I just didn&amp;rsquo;t set it up again after I wiped the machine and installed everything (else) again.</description>
+    </item>
+    
+    <item>
+      <title>connectivity</title>
+      <link>https://new.robnugen.com/journal/2015/07/15/connectivity/</link>
+      <pubDate>Wed, 15 Jul 2015 05:44:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/15/connectivity/</guid>
+      <description>05:44 Wednesday 15 July 2015 JST isup.me says it&amp;rsquo;s up, but I can&amp;rsquo;t connect to my site. booo.
+silver-monkey:~ thunderrabbit$ traceroute robnugen.com traceroute to robnugen.com (69.163.241.249), 64 hops max, 52 byte packets 1 ntt.setup (192.168.1.1) 1.915 ms 1.257 ms 1.249 ms 2 yoknik37.asahi-net.or.jp (202.224.42.247) 3.910 ms 4.466 ms 3.880 ms 3 yoknik37-v1.asahi-net.or.jp (202.224.42.181) 4.215 ms 4.173 ms 3.896 ms 4 tkybi6-v53.asahi-net.or.jp (202.224.42.130) 6.739 ms 5.921 ms 15.795 ms 5 kddni3.</description>
+    </item>
+    
+    <item>
+      <title>Bah still evaluating static site generators</title>
+      <link>https://new.robnugen.com/journal/2015/04/22/bah-still-evaluating-static-site-generators/</link>
+      <pubDate>Wed, 22 Apr 2015 10:24:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/22/bah-still-evaluating-static-site-generators/</guid>
+      <description>10:24 Wednesday 22 April 2015 JST Actually I can&amp;rsquo;t say I&amp;rsquo;ve been working on it hard as I&amp;rsquo;ve been filling free time with Unity programming, but I haven&amp;rsquo;t settled on a static site generator. I might post a query on Hugo forums to ask how to get all-Japanese titles to work in URLs.
+I still haven&amp;rsquo;t given Jekyll a good shake, and I can&amp;rsquo;t remember why I didn&amp;rsquo;t like Hexo.</description>
+    </item>
+    
+    <item>
+      <title>wow your Japanese is so gooood</title>
+      <link>https://new.robnugen.com/journal/2015/04/21/wow-your-japanese-is-so-gooood/</link>
+      <pubDate>Tue, 21 Apr 2015 16:11:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/21/wow-your-japanese-is-so-gooood/</guid>
+      <description>16:11 Tuesday 21 April 2015 JST If I hear someone say &amp;ldquo;hello&amp;rdquo; in English, I say &amp;ldquo;hi&amp;rdquo; or something.
+I don&amp;rsquo;t say &amp;ldquo;your English is so good!&amp;rdquo;
+I wish my Japanese was good enough to explain gently why こんにちは should not be returned with laughter.
+After she laughed, I said 「面白いですね〜」and walked out. I know that&amp;rsquo;s not the right response when someone laughs after I say the equivalent of hello, but fuck.</description>
+    </item>
+    
+    <item>
+      <title>stupid Finder</title>
+      <link>https://new.robnugen.com/journal/2015/03/29/stupid-finder/</link>
+      <pubDate>Sun, 29 Mar 2015 10:15:43 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/29/stupid-finder/</guid>
+      <description>10:15 Sunday 29 March 2015 JST Mail.app wouldn&amp;rsquo;t respond after Finder.app isn&amp;rsquo;t loading. I forced relaunch of Finder, but it hasn&amp;rsquo;t relaunched yet.
+Here&amp;rsquo;s what I wrote to Apple when the dialog said &amp;ldquo;oh you killed Mail app; do you want to report it?&amp;rdquo;
+Finder won’t start. I don’t know if that’s affecting Mail, but I had to kill finder because its one (1) single window couldn’t display ten (10) ten little (less than 1MB each) images.</description>
+    </item>
+    
+    <item>
+      <title>Got level selection menu in Stencyl working</title>
+      <link>https://new.robnugen.com/journal/2015/01/09/got-level-selection-menu-in-stencyl-working/</link>
+      <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/09/got-level-selection-menu-in-stencyl-working/</guid>
+      <description>##03:52 Saturday 10 January 2015 JST##
+But now the level isn&amp;rsquo;t working correctly (though I don&amp;rsquo;t think I changed it).
+Gotta go to bed.</description>
+    </item>
+    
+    <item>
+      <title>unproductive blues</title>
+      <link>https://new.robnugen.com/journal/1997/09/29/unproductive-blues/</link>
+      <pubDate>Mon, 29 Sep 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/1997/09/29/unproductive-blues/</guid>
+      <description>Today I felt really bummed out at work and I just wanted to quit. That was actually my impetus for starting my previous journal entry. After getting nothing done almost all day, I talked to Dave my supervisor, who I&amp;rsquo;ve known from back in the days since before he was a supervisor.  &amp;ldquo;Grrr.&amp;rdquo; I essentially said. That helped.  We talked a bit and I determined that I&amp;rsquo;ve felt all bummed out and useless at work since my project deadline keeps getting set back(!</description>
+    </item>
+    
+  </channel>
+</rss>

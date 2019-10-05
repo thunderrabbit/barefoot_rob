@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>new cache on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/new-cache/</link>
+    <description>Recent content in new cache on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jun 2018 11:26:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/new-cache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mak^Hde first geocache</title>
+      <link>https://new.robnugen.com/journal/2018/06/23/makhde-first-geocache/</link>
+      <pubDate>Sat, 23 Jun 2018 11:26:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/06/23/makhde-first-geocache/</guid>
+      <description>11:26 Saturday 23 June 2018 JST I plan to placed my first geocache today.
+I got support from Turbo-7, who sent me links to English and Japanese notes to place on the cache.
+I tweaked the notes to include my email address, but have not put them online yet because they break the CSS of my site when displayed in the index, and I cannot figure out how to override the Hugo index the way I want.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journals &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Journals &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Journals &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">08 Nov 2018, 13:18</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/11/08/check-if-password-has-been-compromised/" class="post-title">check if password has been compromised</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="13-18-thursday-08-november-2018-jst">13:18 Thursday 08 November 2018 JST</h5>
+
+<p>I wanted to write a Bash script which would take a file with a list of
+passwords and throw each one at Troy Hunt&rsquo;s collection of compromised
+passwords.</p>
+
+<p>I probably won&rsquo;t do it soon because I found a <a href="https://medium.com/@monliclican/bash-one-liner-to-check-your-password-s-via-pwnedpasswords-coms-api-using-the-k-anonymity-method-a5807a9a8056">bash one-liner which
+checks to see if a password was compromised</a>.</p>
+
+<p>I had to modify it slightly, but this line works on my Mac:</p>
+
+<pre><code>echo &quot;pass&gt; &quot;; read -s pass_str; sha1=$(echo -n $pass_str | tr -d '\n' | shasum); echo &quot;Hash prefix: ${sha1:0:5}&quot;; echo &quot;Hash suffix: ${sha1:5:35}&quot;; result=$(curl https://api.pwnedpasswords.com/range/${sha1:0:5} 2&gt;/dev/null | grep $(echo ${sha1:5:35} | tr '[:lower:]' '[:upper:]')); echo &quot;Count: ${result#*:}&quot;
+</code></pre>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">07 Nov 2018, 22:03</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/11/07/ab-site-progress/" class="post-title">AB site progress</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="22-03-wednesday-07-november-2018-jst">22:03 Wednesday 07 November 2018 JST</h5>
+
+<p>I have been upgrading AB&rsquo;s PHP to the standards described in
+<a href="https://leanpub.com/mlaphp">Paul Jones&rsquo; Modernizing Legacy Applications in PHP</a>.
+So far I am still in the Autoloading section, but have done nearly
+half of the classes.  Almost all of the &ldquo;data&rdquo; classes are done, but
+none of the search or factory classes are done.</p>
+
+<p>(I put data in quotes above because I think that is just a name we
+came up with ..  not sure if it has a meaning outside our project.)</p>
+
+<p>But that is not why I am writing.  I was just reading Troy Hunt
+talking about passwords and want to add the HIBP password check to the
+site.  I am glad we do not really limit the passwords (much; we do
+crop them at a few hundred characters, but I now know to not do that),
+but I am not sure I can get buy-in to require everyone to have good
+passwords.</p>
+
+<p>I am thinking I will log if passwords have been cracked, but that may
+be a security issue itself.  Not sure.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">03 Nov 2018, 12:54</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/11/03/going-to-charus/" class="post-title">going to charu&#39;s</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="12-54-saturday-03-november-2018-jst">12:54 Saturday 03 November 2018 JST</h5>
+
+<p>Lin and I are headed to her sister&rsquo;s for some family thing.  Dinner
+and brownies (with coconut yuck).  I forgot to bring any puzzles for
+the kids to play with.</p>
+
+<p>Oh, speaking of puzzles, I gave/loaned to Atsuko the kinda-easy
+star-shaped ring puzzle that I bought in Brazil.</p>
+
+<h5 id="18-05-saturday-03-november-2018-jst">18:05 Saturday 03 November 2018 JST</h5>
+
+<p>Now going to see if we can play Minecraft with the kids.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">02 Nov 2018, 17:26</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/11/02/conswi-dipendra/" class="post-title">conswi dipendra</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="17-26-friday-02-november-2018-jst">17:26 Friday 02 November 2018 JST</h5>
+
+<p>Today I met with Tariq and Dipendra to talk about ConSwi.  They are
+all excited about the graphics and I am in the camp of getting a
+minimum viable product out. I want to empower Dipendra to update the
+graphics in the app.  He got a copy of Conswi from Github.  Instead of
+giving him write access to the app, I had him create his own account
+and push to his own ConSwi.</p>
+
+<p>Although it is a fork, I assume it is not counted as a fork from
+Github&rsquo;s point of view.  I wonder if that is possible to make happen.
+Probably not if it has not been implemented already.</p>
+
+<p>Dang it is 5:30 and already dark.  I remember our 5pm picture in Sao
+Paolo was like noon here.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">31 Oct 2018, 21:37</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/31/pics/" class="post-title">pics</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="21-37-wednesday-31-october-2018-jst">21:37 Wednesday 31 October 2018 JST</h5>
+
+<p>Hanging out with Michael Shell in Midtown and found the egg.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_oct_20_midtown.jpg"><img src="//b.robnugen.com/journal/2018/thumbs/2018_oct_20_midtown.jpg" alt="2018 oct 20 midtown" /></a></p>
+
+<p>Hanging out with Lin at home and found this cat.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_oct_25_jennie_in_sun.jpg"><img src="//b.robnugen.com/journal/2018/thumbs/2018_oct_25_jennie_in_sun.jpg" alt="2018 oct 25 jennie in sun" /></a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">31 Oct 2018, 09:16</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/31/hanayama-marble-at-wednesday-morning-lesson/" class="post-title">Hanayama Marble at Wednesday morning lesson</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="09-16-wednesday-31-october-2018-jst">09:16 Wednesday 31 October 2018 JST</h5>
+
+<p>The lessons I teach on Wednesday morning used to be on Thursday
+mornings.  They were one of the first lessons I taught for JB.  Pretty
+convenient when Lin and I lived near Kawasaki station, but now it
+takes over an hour to go each way for an hour lesson.</p>
+
+<p>Once I win the lottery, this will be one of the first lessons I
+release because I have to leave the house by 5:45 to get a seat on the
+train on the way there (or leave by 6:15 and stand for 40 minutes
+total on (two) trains).</p>
+
+<p>Two years ago, Mayumi gave me
+<a href="https://duckduckgo.com/?q=hanayama+marble+images&amp;ia=images">Hanayama Marble</a>.
+After playing with it for weeks, I nearly solved it, but in a fit of
+frustration gave up and looked up the answer online.  Upon seeing the
+solution, I thought &ldquo;ahhhh crap of course!!!&rdquo;  It is such an elegant
+solution and I was nearly there.</p>
+
+<p>Four weeks ago, in this class, we started playing a pattern matching
+word game.  For fun, I started with the same word one of the students
+had started with.</p>
+
+<ul>
+<li>Haneda Airport</li>
+<li>LA International Airport</li>
+<li>Mt Fuji</li>
+<li>Kobe Airport</li>
+</ul>
+
+<p>I thought they would be able to solve it quickly, but this went on for
+four weeks until I finally had to pull the plug because one of the
+students expression was like <em>fuck this</em>.  I ended up giving them the
+answer and the same student was like &ldquo;ahhhh crap of course!!!&rdquo;</p>
+
+<p>So in honor of that, today I brought my Hanayama Marble puzzle and
+left it with one of the students to play with.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">30 Oct 2018, 17:47</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/30/headed-to-integration-group/" class="post-title">headed to integration group</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="17-47-tuesday-30-october-2018-jst">17:47 Tuesday 30 October 2018 JST</h5>
+
+<p>Headed to Tuesday night men&rsquo;s circle.  Train is nice and warm and I
+want to fall asleep.</p>
+
+<h5 id="21-44">21:44</h5>
+
+<p>Great meeting with 8 men in attendance!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">30 Oct 2018, 17:37</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/30/worked-on-ab/" class="post-title">worked on AB</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="17-37-tuesday-30-october-2018-jst">17:37 Tuesday 30 October 2018 JST</h5>
+
+<p>Still going through MLAPHP for the AB project.  I guess I am about
+halfway through the step of naming all the class definition files so
+they can be loaded via the autoloader.</p>
+
+<p>During this process I found <a href="https://www.mabl.com/">Mabl</a> which
+features a short domain name and some tools for automated testing.
+Pretty easy onboarding, and they are giving the site a good onceover
+every day.</p>
+
+<p>Eventually need to create a staging system with fake data so they can
+give the backend a daily look as well.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">30 Oct 2018, 17:35</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/30/training-ty/" class="post-title">training ty</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="17-35-tuesday-30-october-2018-jst">17:35 Tuesday 30 October 2018 JST</h5>
+
+<p>Helped with training at TY&rsquo;s today.  Onboarding new instructors is a
+learning process in itself.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">29 Oct 2018, 17:37</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/29/no-mixed-gender-meeting/" class="post-title">no mixed gender meeting</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>(written 17:37 Tuesday 30 October 2018 JST)</p>
+
+<p>No mixed gender meeting last night nor the week before.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+      <a href="/journal/page/24/" class="post-list-pagination-item pure-button post-list-pagination-item-prev">
+        <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+      </a>
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 25 of 707</span>
+    
+      <a href="/journal/page/26/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yesterday on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/yesterday/</link>
+    <description>Recent content in yesterday on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 08:39:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/yesterday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>work yesterday</title>
+      <link>https://new.robnugen.com/journal/2018/01/16/work-yesterday/</link>
+      <pubDate>Tue, 16 Jan 2018 08:39:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/01/16/work-yesterday/</guid>
+      <description>08:39 Tuesday 16 January 2018 JST I worked for four companies yesterday. First was my lesson in Akabanebashi for Tariq. Then walked to Nishi Azabu for MR Laboratories client (company DNE yet). Then walked across the Nishi Azabu intersection to a lesson for TESS. Then bus and train to Kawasaki for 2 hours of lessons at my favorite, SCC. Came home and had one more lesson for MR Laboratories.</description>
+    </item>
+    
+    <item>
+      <title>bad day</title>
+      <link>https://new.robnugen.com/journal/2017/01/28/bad-day/</link>
+      <pubDate>Sat, 28 Jan 2017 11:08:03 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/01/28/bad-day/</guid>
+      <description>11:08 Sunday 29 January 2017 JST yesterday was kindof a bad day. Worried about my presentation, missed Japanese lesson, moe joe.</description>
+    </item>
+    
+  </channel>
+</rss>

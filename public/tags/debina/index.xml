@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debina on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/debina/</link>
+    <description>Recent content in debina on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2015 11:25:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/debina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can&#39;t remember how I made journal entries on Debian</title>
+      <link>https://new.robnugen.com/journal/2015/09/30/cant-remember-how-i-made-journal-entries-on-debian/</link>
+      <pubDate>Wed, 30 Sep 2015 11:25:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/09/30/cant-remember-how-i-made-journal-entries-on-debian/</guid>
+      <description>11:25 Tuesday 30 September 2015 JST I just added all the crap above by tweaking a copy from a previous entry. Didn&amp;rsquo;t I have a slick way to make entries on this Debian box? Emacs would be my guess, but I don&amp;rsquo;t see it installed. wut.
+Maybe I just didn&amp;rsquo;t set it up again after I wiped the machine and installed everything (else) again.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lyrebird on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/lyrebird/</link>
+    <description>Recent content in lyrebird on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Mar 2018 09:38:10 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/lyrebird/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>messing around with lyrebird.ai</title>
+      <link>https://new.robnugen.com/journal/2018/03/06/messing-around-with-lyrebird.ai/</link>
+      <pubDate>Tue, 06 Mar 2018 09:38:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/06/messing-around-with-lyrebird.ai/</guid>
+      <description>09:38 Tuesday 06 March 2018 JST I think of it as Liar Bird because it ostensibly can create recordings of me saying anything. I recorded 30+ sentences using Mr Big voice. He speaks very slowly and deliberately, sortakinda like an Ent in Lord of Rings movies. The results are far less than stellar, but they are reasonable for a beta, plus only having recorded the minimum number of sentences.</description>
+    </item>
+    
+  </channel>
+</rss>

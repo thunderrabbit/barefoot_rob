@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zero on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/zero/</link>
+    <description>Recent content in zero on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2017 14:25:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/zero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inbox Zero status</title>
+      <link>https://new.robnugen.com/journal/2017/07/10/inbox-zero-status/</link>
+      <pubDate>Mon, 10 Jul 2017 14:25:32 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/10/inbox-zero-status/</guid>
+      <description>14:25 Monday 10 July 2017 JST I am at Inbox Zero, but with 130 Starred messages, down from 165 starred messages earlier today. (not 300, as I guessed, which was at least in correct order of magnitude)</description>
+    </item>
+    
+  </channel>
+</rss>

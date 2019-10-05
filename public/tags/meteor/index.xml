@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meteor on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/meteor/</link>
+    <description>Recent content in meteor on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2016 03:01:44 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/meteor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trying to finish the meteor course</title>
+      <link>https://new.robnugen.com/journal/2016/01/22/trying-to-finish-the-meteor-course/</link>
+      <pubDate>Fri, 22 Jan 2016 03:01:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/22/trying-to-finish-the-meteor-course/</guid>
+      <description>03:01 Friday 22 January 2016 PST (8pm JST) This is the first entry I&amp;rsquo;m writing after setting my clock back 17 hours to our new local time where clocks will indicate we landed 7.5 hours before we departed.
+03:57 Well crapdogs I can&amp;rsquo;t seem to figure out how to extract data from URL via iron:router (without reading documentation (and I can&amp;rsquo;t find the code on my machine booooo))
+As long as I have internet access, I wonder if I&amp;rsquo;ll get it done by Sunday (when it&amp;rsquo;s due).</description>
+    </item>
+    
+    <item>
+      <title>meteor course on Coursera might be too easy</title>
+      <link>https://new.robnugen.com/journal/2015/12/26/meteor-course-on-coursera-might-be-too-easy/</link>
+      <pubDate>Sat, 26 Dec 2015 11:55:41 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/26/meteor-course-on-coursera-might-be-too-easy/</guid>
+      <description>11:55 Saturday 26 December 2015 JST But I enjoyed doing the first week.
+
+https://www.coursera.org/learn/meteor-development/peer/W7bag/install-meteor-and-edit-some-templates/review/OSaUAat5EeWfHwqjLjBT9w</description>
+    </item>
+    
+  </channel>
+</rss>

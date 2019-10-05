@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tile shape matching algorithm &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Tile shape matching algorithm &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Tile shape matching algorithm &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">21 Dec 2017, 08:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/12/21/tile-shape-matching-algorithm/" class="post-title">Tile shape matching algorithm</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h2 id="8-27-thursday-21-december-2017-03">8:27 Thursday 21 December 2017 -03</h2>
+
+<p>I am making a swipe game which requires the user to swipe specific shapes.</p>
+
+<pre><code>XX
+XX
+</code></pre>
+
+<p>or</p>
+
+<pre><code>XXXX
+</code></pre>
+
+<p>or</p>
+
+<pre><code>X
+X
+X
+X
+</code></pre>
+
+<p>excetera (haha)</p>
+
+<p>I will have a list of tile coordinates which were swiped.</p>
+
+<pre><code>(3,3)
+(3,4)
+(3,5)
+(3,6)
+</code></pre>
+
+<p>Above coordinates would match the horizontal XXXX (or is it vertical? Anyway,)</p>
+
+<p>I can imagine comparing the above list to a list calculated from</p>
+
+<pre><code>f((3,3))
+</code></pre>
+
+<p>which would return the same list of coordinates by adding (0,0) (0,1) (0,1) (0,1)</p>
+
+<p>But that is error prone beyond my tolerance. (Esp given that it needs to work both directions, or in eight (8)! directions for the square shape)</p>
+
+<p>I would like to just give a list of acceptable shapes as ASCII art like my XXXX above and let code do the rest.</p>
+
+<p>What would this kinda algorithm be called?  Is it easiest to just grok
+A* path finding or is that overkill?</p>
+
+<h2 id="18-44-thursday-21-december-2017-03">18:44 Thursday 21 December 2017 -03</h2>
+
+<p>I figured out an algorithm in four parts:</p>
+
+<pre><code>1) Parse
+2) Sort
+3) Diff
+4) Compare
+</code></pre>
+
+<p>Parse is optional, and is used to process my definitions in a shape library:</p>
+
+<pre><code>Library = {Square: [
+0,0,0,0,
+0,1,1,0,
+0,1,1,0
+0,0,0,0
+],
+
+Tee: [
+1,1,1,0,
+0,1,0,0,
+0,1,0,0,
+0,0,0,0
+]}
+</code></pre>
+
+<p>However, the above (1) wastes space, and (2) is limited to 4x4 shapes.</p>
+
+<p>So, add one more digit to tell the parser when to flip to the next line (increment y)</p>
+
+<p>Then we have:</p>
+
+<pre><code>Library = {Square: [2,
+1,1,
+1,1
+],
+
+Tee: [3,
+1,1,1,
+0,1,0,
+0,1,0
+],
+
+Vert5: [1,
+1,1,1,1,1],
+
+Horiz5: [5,
+1,1,1,1,1]}
+</code></pre>
+
+<p>Parse algorithm is annoying to type out well, but it basically poops out an array of Vector2s</p>
+
+<p>Parse(Square) results in</p>
+
+<pre><code>[(1,1),(1,2),(2,1),(2,2)]
+</code></pre>
+
+<p>in the first Library above, and</p>
+
+<pre><code>[(0,0),(0,1),(1,0),(1,1)]
+</code></pre>
+
+<p>in the second Library above.</p>
+
+<p>Having different definitions for the same shape won&rsquo;t work, so we Sort the Vector2s (actually they are sorted above) and Diff them:</p>
+
+<p>Define Diff as</p>
+
+<pre><code>Array[(0,0),
+Next-Current for each adjacent pair]
+</code></pre>
+
+<p>Bingo, consistent definitions for same shapes, no matter what shape or where in the grid they are defined.</p>
+
+<pre><code>Diff(Sort(Parse (Square)))
+</code></pre>
+
+<p>is always</p>
+
+<pre><code>[(0,0),(0,1),(1,-1),(0,1)]
+</code></pre>
+
+<p>I haven&rsquo;t done Tee yet, but</p>
+
+<pre><code>Diff(Sort(Parse([4,
+0,1,1,0,
+0,1,0,1,
+0,1,1,1])))
+</code></pre>
+
+<p>is always</p>
+
+<pre><code>[(0,0),(0,1),(0,1),(1,-2),(0,2),(1,-1)(0,1)]
+</code></pre>
+
+<p>On the game grid, swiping a square results in an array of Vector2s which can be processed starting with Sort above and get the same Diff output.</p>
+
+<p>Yay</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2017/12/21/beach-day/" rel="prev" style="float: left!important">❮ beach day</a>
+                  <a href="https://new.robnugen.com/journal/2017/12/20/relaxing-on-the-beach-in-fortaleza/" rel="next" style="float: right!important"> Relaxing on the beach in Fortaleza ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

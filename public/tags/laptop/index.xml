@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laptop on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/laptop/</link>
+    <description>Recent content in laptop on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Dec 2016 10:07:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/laptop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rebooting computer now</title>
+      <link>https://new.robnugen.com/journal/2016/12/19/rebooting-computer-now/</link>
+      <pubDate>Mon, 19 Dec 2016 10:07:58 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/19/rebooting-computer-now/</guid>
+      <description>10:07 Monday 19 December 2016 JST I&amp;rsquo;m rebooting my laptop now because it&amp;rsquo;s got a full day ahead, and last night its response wasn&amp;rsquo;t as fast as I wanted.
+17:01 Monday 19 December 2016 JST Good day at work. Got 1.5 things finished, including a new page on an old site. (/features/lottery)</description>
+    </item>
+    
+    <item>
+      <title>maybe new laptop</title>
+      <link>https://new.robnugen.com/journal/2015/06/27/maybe-new-laptop/</link>
+      <pubDate>Sat, 27 Jun 2015 23:01:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/27/maybe-new-laptop/</guid>
+      <description>23:01 Saturday 27 June 2015 JST I was looking at each of these systems online when Travis pointed out I haven&amp;rsquo;t actually touched either one. They&amp;rsquo;re each around $1000 from Think Penquin, with difference being the CPU, USB ports, and screen size.
+Snares Penguin GNU / Linux Notebook
+ Processor: Intel Core i5-4200M (3M Cache, 3.10 GHz turbo) Hard Drive: 1TB Memory: 16GB DDR3 Wireless N: Wireless N (TPE-NHMPCIE) Matte Screen Upgrade (non-glossy): Glossy Wide Screen Mouse: Traditional Wired Optical Mouse (for notebooks) Notebook Warranty: 1 Yr Ltd Hardware Warranty Distribution to Install: Debian 8 Jessie AC Adapter: Japan - Plug Type JIS8303 Keyboard Layout: United States  Korora Penguin GNU / Linux Notebook</description>
+    </item>
+    
+  </channel>
+</rss>

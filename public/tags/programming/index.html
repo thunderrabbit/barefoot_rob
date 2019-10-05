@@ -1,0 +1,450 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>programming &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="programming &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="programming &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">20 Dec 2018, 20:28</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/12/20/thank-you-emacs/" class="post-title">Thank you, Emacs</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="20-28-thursday-20-december-2018-jst">20:28 Thursday 20 December 2018 JST</h5>
+
+<p>Super nice: I was able to figure out how to create a function to
+simplify the creation of web pages for Marble Track 3
+Parts](<a href="https://www.marbletrack3.com/parts/">https://www.marbletrack3.com/parts/</a>).  Now I just type <code>C-c p</code>
+in Emacs, then enter the title, tags, and shortcode to produce a file
+for a new Part in the Marble Track 3 website.</p>
+
+<p>Today, with said shortcode, I started the page for
+<a href="/p/mcbts">Medium Catcher Below Triple Splitter</a>.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">29 Oct 2015, 17:58</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/10/29/got-the-highlight-working-on-uitableviewcontroller-in-swift/" class="post-title">Got the highlight working on UITableViewController in Swift</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="17-58-thursday-29-october-2015-jst">17:58 Thursday 29 October 2015 JST</h2>
+
+<pre>
+override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
+        NSNotificationCenter.defaultCenter().postNotificationName(Constants.NotificationKey.SelectedWordFromList, object: nil, userInfo: ["word": allVocabularyWords[indexPath.row]])
+}
+</pre>
+
+<p>Now, I understand the code inside the function is a laugh and <sup>1</sup>&frasl;<sub>2</sub>, but
+it works and I&rsquo;m leaving it until I know how to do it in a more
+canonical way.  But anyway, highlighting words in the word list will
+now cause the words&rsquo; deets to be displayed on the detail pane.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">24 Feb 2015, 18:31</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/02/24/shell-scripting/" class="post-title">shell scripting</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##18:31 Tuesday 24 February 2015 JST##</p>
+
+<p>I made the md5 cheater script, and want to augment it a bit to do
+something entirely different.  I have never really programmed shell
+scripts, so we&rsquo;ll see how it goes.</p>
+
+<p>I wonder if I should search for Bash scripting tutorials or stay with
+more fundamental *nix code?  I think I&rsquo;ll go for Bash; this project
+ain&rsquo;t very important, and I just want to get it done, plus I&rsquo;m
+probably the only person who will use it, and I only use Bash.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">09 May 2013, 18:06</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/05/09/helping-reinforce-all-beautiful-code-starts-ugly/" class="post-title">helping reinforce &#39;all beautiful code starts ugly</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##18:06 Thursday 09 May 2013</p>
+
+<p><strong>5:52pm Thursday 9 May 2013</strong></p>
+
+<p>&ldquo;<a href="https://nbsoftsolutions.com/blog/all-beautiful-code-starts-ugly">All beautiful code starts ugly</a>&rdquo; was my mantra today as I hacked in some changes to the abstract search class.  It now features a new function</p>
+
+<pre><code>    public function setRidiculousStationJoin($bool = true) {
+        $this-&gt;ridiculous_station_join = $bool;
+    }
+</code></pre>
+
+<p>The search() function went from this</p>
+
+<pre><code>     protected function search($search_text = &quot;&quot;, $limit = 0, $page_num = 1){
+         return $this-&gt;runSearchLimitOffset($search_text, $limit, $limit * (($page_num &gt; 0) ? $page_num - 1 : 0));
+     }
+</code></pre>
+
+<p>to this</p>
+
+<pre><code>     protected function search($search_text = &quot;&quot;, $limit = 0, $page_num = 1){
+         if($this-&gt;ridiculous_station_join) {
+             $this-&gt;creating_temp_table = true;
+             $this-&gt;runSearchLimitOffset($search_text, $limit, $limit * (($page_num &gt; 0) ? $page_num - 1 : 0));
+         }
+         $this-&gt;creating_temp_table = false;
+         if($this-&gt;ridiculous_station_join) {
+             $this-&gt;join_temp_table = true;
+         }
+         return $this-&gt;runSearchLimitOffset($search_text, $limit, $limit * (($page_num &gt; 0) ? $page_num - 1 : 0));
+    }
+</code></pre>
+
+<p>AND, inside runSearchLimitOffset are a buncha if statements asking if $this-&gt;create_temp_table / $this-&gt;join_temp_table are true, and behaving differently accordingly.</p>
+
+<p>However, for the ugly hackiness, it works pretty well.</p>
+
+<p>My sincere hope is one of two things:</p>
+
+<p>1) we can convince the client that the request doesn&rsquo;t result in a good UX (*)  (30% likely)</p>
+
+<p>2) I can clean up the code, or at least make it a bit more generalized</p>
+
+<hr />
+
+<p>(*) The request is to add another option to the select that tells what sort order to show results.</p>
+
+<p>They want to add a &ldquo;group by&rdquo; option&hellip;  it makes no sense!  A user should be able to group by something <em>and</em> sort at the same time, but with this request, they can only do one or the other.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">09 May 2013, 13:35</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/05/09/awesome-example-requiring-temp-tables/" class="post-title">awesome example requiring temp tables</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##13:35 Thursday 09 May 2013</p>
+
+<p><strong>1:26pm Thursday 9 May 2013</strong></p>
+
+<p>I&rsquo;ve realized that the obtuse requirements for a certain report will be a lot easier to create with temporary tables.</p>
+
+<p>While digging around for info on temp tables, I found this <a href="https://blog.brianhartsock.com/2009/02/04/using-mysql-temporary-tables-to-save-your-brain/">gem of an DB example</a> by Brian Hartsock:</p>
+
+<pre><code>CREATE TABLE `dogs` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+)
+CREATE TABLE `legs` (
+  `id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `dog_id` INT(10) UNSIGNED NOT NULL,
+  PRIMARY KEY (`id`)
+)
+CREATE TABLE `nails` (
+  `id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `leg_id` INT(10) UNSIGNED NOT NULL,
+  `last_clipped` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+)
+</code></pre>
+
+<p>Hooray for toenail ids!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">06 May 2013, 22:07</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/05/06/finally-learned-how-to-make-two-targets-in-xcode/" class="post-title">finally learned how to make two targets in xcode</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##22:07 Monday 06 May 2013</p>
+
+<p><strong>9:55pm Monday 6 May 2013</strong></p>
+
+<p>The first few apps we made were all separate projects.  The apps were all similar, so I had a huge mess of code for making updates.  Specs were all confuzzed in my head; code was all over the place, possibly changed, possibly not.  Basically making updates wasn&rsquo;t fun.</p>
+
+<p>The most recent app started its life as a mess of blocks, which confuzzed iOS enough to keep crashing the app.  I rewrote the whole thing using Matt&rsquo;s suggestion that the object instantiation look like a tree, not spaghetti.   The code was lovely and the app is pretty much finished but we&rsquo;re going to wait for Tariq&rsquo;s company iOS dev account to be created before we submit it.</p>
+
+<p>However, the next app will be something like this app plus xyz, so I looked up on SO how to do it and came up with a github repo that shows <a href="https://github.com/brennanMKE/MultipleTargets">multiple targets in xcode</a>.  Thanks, Brennan!</p>
+
+<p>So now one target does pronunciation practice then listening practice, while the other jumps straight into listening practice.  Yay!!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">20 Mar 2013, 18:05</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/03/20/caught-up-with-old-functionality-in-refactored-%E6%A5%BD%E3%81%97%E3%81%84%E7%99%BA%E9%9F%B3/" class="post-title">caught up with old functionality in refactored 楽しい発音</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##18:05 Wednesday 20 March 2013</p>
+
+<p>Thanks to Matt&rsquo;s suggestion of making the object instantiations look like a tree, I&rsquo;ve got 楽しい発音 working without any pesky crashes caused by my confoozed way of using blocks.  Today I actually added some functionality that was not in the previous version: now I can display sets of words instead of just all the words.  Word.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">14 Mar 2013, 22:17</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/03/14/refactoring-%E6%A5%BD%E3%81%97%E3%81%84%E7%99%BA%E9%9F%B3/" class="post-title">refactoring 楽しい発音</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##22:17 Thursday 14 March 2013</p>
+
+<p>My crappy code featuring blocks was too convoluted for my brain to figure out how to make it all work, so now the project features a nice tree of classes with a ViewController at the top.</p>
+
+<p>The Game class and GameView class don&rsquo;t even know the other exists.  Everything goes through the ViewController.  GameView has an array of CardViews.  Game has an array of Cards.   The CardViews and Cards do not know the others exist.</p>
+
+<p>Now that I&rsquo;ve got that sorted, it&rsquo;s much easier in my mind to figure out what&rsquo;s next.  So far, at least.</p>
+
+<p>I just need to add a game over image and I could fuckitship.it, but I&rsquo;m sure we&rsquo;ll polish it up a lot more.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">11 Mar 2013, 23:11</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/03/11/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-my-soon-to-be-new-meditation-timer/" class="post-title">瞑想頑張れ, my soon to be new meditation timer</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##23:11 Monday 11 March 2013</p>
+
+<p>This weekend I mostly put together what I&rsquo;m calling the <a href="https://github.com/thunderrabbit/meiso-gambare">瞑想頑張れ meditation timer</a>, which is a bit like referring to &ldquo;ATM machines&rdquo; but hey at least it&rsquo;s two different languages.</p>
+
+<p>It&rsquo;s now available on github: <a href="https://github.com/thunderrabbit/meiso-gambare">瞑想頑張れ</a> at <a href="https://github.com/thunderrabbit/meiso-gambare">https://github.com/thunderrabbit/meiso-gambare</a>.</p>
+
+<p>There are several meditation timers on the app store, but I hadn&rsquo;t found one with the unique feature I wanted.</p>
+
+<p>Sometimes when I meditate, I really get into it and don&rsquo;t want to stop when the original time is up.  And I would like to know how much longer I remained in meditation.  It&rsquo;s possible to reset the timer, but that pretty much breaks the meditative state for me.</p>
+
+<p>So, <a href="https://github.com/thunderrabbit/meiso-gambare">瞑想頑張れ meditation timer</a> counts down the predetermined time, &hellip; and then counts up until I click stop.  Simple.</p>
+
+<p>The name comes from two words in Japanese that probably don&rsquo;t fit well together, but they work for me.  瞑想 can be transliterated as &ldquo;meiso,&rdquo; and means meditation.  頑張れ can be transliterated as &ldquo;gambare&rdquo; and means something like &ldquo;do one&rsquo;s best.&rdquo;</p>
+
+<p>So, I hope it proves useful to me and others!</p>
+
+<p>瞑想頑張れ is not yet available in the app store, but I hope to submit it within maybe a month.  Gotta get it polished a bit, plus put some icons on it.  I might strip out the FB stuff for the first version if I can&rsquo;t get it working soon.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">12 Feb 2013, 23:43</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2013/02/12/redesign-for-side-menu-in-new-card-game/" class="post-title">redesign for side menu in new card game</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##23:43 Tuesday 12 February 2013</p>
+
+<p>Tariq and I worked on the card game yesterday for about five hours.  Lin was out with her aunt and uncle so I cooked the pizza Lin made so Tariq and I enjoyed that during our work time.</p>
+
+<p>He suggested a complete overhaul of the side menu, that which was supposed to be &ldquo;the same for all our card game apps.&rdquo;</p>
+
+<p>I was like moe joe at first, but after thinking about it a bit, the suggested solution does solve several problems, including UI and UX.</p>
+
+<p>It causes a couple of problems for me in the coding department, but it&rsquo;s just a simple matter of programming.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 1 of 2</span>
+    
+      <a href="/tags/programming/page/2/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

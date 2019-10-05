@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>troyhunt on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/troyhunt/</link>
+    <description>Recent content in troyhunt on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Nov 2018 13:18:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/troyhunt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>check if password has been compromised</title>
+      <link>https://new.robnugen.com/journal/2018/11/08/check-if-password-has-been-compromised/</link>
+      <pubDate>Thu, 08 Nov 2018 13:18:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/11/08/check-if-password-has-been-compromised/</guid>
+      <description>13:18 Thursday 08 November 2018 JST I wanted to write a Bash script which would take a file with a list of passwords and throw each one at Troy Hunt&amp;rsquo;s collection of compromised passwords.
+I probably won&amp;rsquo;t do it soon because I found a bash one-liner which checks to see if a password was compromised.
+I had to modify it slightly, but this line works on my Mac:
+echo &amp;quot;pass&amp;gt; &amp;quot;; read -s pass_str; sha1=$(echo -n $pass_str | tr -d &#39;\n&#39; | shasum); echo &amp;quot;Hash prefix: ${sha1:0:5}&amp;quot;; echo &amp;quot;Hash suffix: ${sha1:5:35}&amp;quot;; result=$(curl https://api.</description>
+    </item>
+    
+  </channel>
+</rss>

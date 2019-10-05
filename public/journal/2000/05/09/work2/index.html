@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work2 &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Work2 &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Work2 &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">09 May 2000, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2000/05/09/work2/" class="post-title">Work2</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p><title>Work</title>
+<p class=date>11:33pm CDT Tuesday 9 May 2000</p></p>
+
+<p>Ack.  I just got a call from Kevin.  He booted our webserver
+tonight and it's not coming back up.  After it checks the memory,
+finds the disks, gets past the "press spacebar to use last known good
+configuration", it flashes error codes and restarts.
+
+<p>I'm going in to work now.
+
+<p class=date>3:45am CDT Wednesday 10 May 2000</p>
+
+<p><p>Sure enough, when I arrive the server was still rebooting itself as
+described above.  I didn&rsquo;t know what to try, except maybe reinstalling
+Win NT on the machine&hellip; maybe it would allow us to refresh the system
+files instead of overwriting everything.  We really didn&rsquo;t want to
+lose any data.</p>
+
+<p><p>I asked Kevin if it was more important to save the data or just
+blast through and reinstall, which would (probably) be faster.  He
+said saving the data is more important.</p>
+
+<p><p>Called Microsoft support, paid $245, and the short version of the
+story is that all data was safe.</p>
+
+<p><p>Mostly just in talking to the tech guy (Derek (sp)), I worked
+myself through my own solution.</p>
+
+<p><p>First brainstorm: we have two drives in the machine, and they are
+mirrored.  So presumably, we can take one drive out, have the copy of
+the data there, fix the other drive, restore the data.</p>
+
+<p><p>Took one drive out, and magically, the other drive booted no
+problem.  And all the data was there..  Except it was all one week
+old.</p>
+
+<p><p>Swapped the drives, and magically, the other other drive booted no
+problem.  And all the data was there.  And it was up to date.</p>
+
+<p><p>The theory is that when we had a power outage last week, one drive
+was corrupted, and hadn&rsquo;t been written to since.  When we tried to
+boot with both drives, the OS said, &ldquo;hey these drives aren&rsquo;t
+mirrored!&rdquo; and wouldn&rsquo;t boot.</p>
+
+<p><p>Low level formatted the week-old-data drive, recreated the mirror,
+everything is happy.</p>
+
+<p><p>During the low level format, I got to talk to Hillary on AOL IM.
+That was great fun!  Now I&rsquo;m going to bed.</p>
+
+<p><p><img src='/images/rob/wL-ROB.gif'></p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2000/05/09/work/" rel="prev" style="float: left!important">❮ Work</a>
+                  <a href="https://new.robnugen.com/journal/2000/05/08/dream/" rel="next" style="float: right!important"> Dream ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

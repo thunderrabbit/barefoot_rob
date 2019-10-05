@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/hugo/</link>
+    <description>Recent content in hugo on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 14:13:45 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I think I fixed pagination on my site</title>
+      <link>https://new.robnugen.com/journal/2019/10/02/i-think-i-fixed-pagination-on-my-site/</link>
+      <pubDate>Wed, 02 Oct 2019 14:13:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/10/02/i-think-i-fixed-pagination-on-my-site/</guid>
+      <description>(written 14:13 Wednesday 02 October 2019 JST)
+Well it has taken longer than I wanted, but I learned that I can get lots of code samples by searching GitHub. For some reason dredging through the documentation did not work for me. It&amp;rsquo;s like there&amp;rsquo;s tons of pieces and various similar words and my little brain is like ummmmmmmmmmmmm
+but digging through Github like https://github.com/search?p=6&amp;amp;q=where+site.RegularPages+%22Type%22+%22in%22+.Site.Params.mainSections&amp;amp;type=Code
+or https://github.com/search?q=paginator+Paginate+internal+pagination&amp;amp;type=Code
+and boom lots of examples and I got it sorted in less than an hour.</description>
+    </item>
+    
+    <item>
+      <title>How Netlify helped me fix my website</title>
+      <link>https://new.robnugen.com/journal/2019/09/25/how-netlify-helped-me-fix-my-website/</link>
+      <pubDate>Wed, 25 Sep 2019 07:46:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/25/how-netlify-helped-me-fix-my-website/</guid>
+      <description>My website stopped working recently. More accurately, Hugo stopped rendering the /blog and /journal portions of my website. The last time it worked was 2 weeks ago. I noticed that my local version of Hugo had gotten updated (*) and checked the releases.. sure enough there was a change to something related to that I had tweaked regarding indices.
+The problem languished for a while until I remembered that Netlify allows choosing which version of Hugo to use.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo 0.58</title>
+      <link>https://new.robnugen.com/journal/2019/09/24/hello-hugo-0.58/</link>
+      <pubDate>Tue, 24 Sep 2019 23:08:28 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/24/hello-hugo-0.58/</guid>
+      <description>Hello
+I have a rather large Hugo site which I have pared down into one bite sized repository.
+I made some tweaks to the top page to only show Page type Blog (in content and in pagination)
+There are also page type. journal which I would like to be displayed under /journal
+This all worked a few versions of Hugo ago.
+I upgraded Hugo to 0.58 recently and it stopped working.</description>
+    </item>
+    
+    <item>
+      <title>huh.  index.md broke my website</title>
+      <link>https://new.robnugen.com/journal/2019/09/13/huh.-index.md-broke-my-website/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:56 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/13/huh.-index.md-broke-my-website/</guid>
+      <description>Well, by the time you can read this online, it will be fixed (unless you are reading a git repo!), but at the moment, my journal (up to 11 Sep) and Blog (up to 29 Aug) are only online because my setup does not overwrite all the existing files after Hugo makes the site.
+I guess I need to read the docs again.
+17:09 Friday 13 September 2019 JST Okay the best I have figured out so far is that if I put _index.</description>
+    </item>
+    
+    <item>
+      <title>How to find next page in section in Hugo</title>
+      <link>https://new.robnugen.com/journal/2019/07/08/how-to-find-next-page-in-section-in-hugo/</link>
+      <pubDate>Mon, 08 Jul 2019 15:36:42 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/07/08/how-to-find-next-page-in-section-in-hugo/</guid>
+      <description>15:36 Monday 08 July 2019 JST Wow Hugo rules. Thank you, Bep!
+I got my journal/ and blog/ indices separated by adding a bit of code to the pagination.
+https://github.com/thunderrabbit/purehugo-tr/commit/16559a8ffa3ec74f57af7398a90f259f41972675
+And now the Prev and Next links work based on section.
+https://github.com/thunderrabbit/purehugo-tr/commit/97b09a88d01a493374ba6231185bf8cb9b723e0b
+ &amp;lt;div class=&amp;quot;pager&amp;quot;&amp;gt; {{with .NextInSection}} &amp;lt;a href=&amp;quot;{{.Permalink}}&amp;quot; rel=&amp;quot;prev&amp;quot; style=&amp;quot;float: left!important&amp;quot;&amp;gt;❮ {{.Title}}&amp;lt;/a&amp;gt;{{end}} {{with .PrevInSection}} &amp;lt;a href=&amp;quot;{{.Permalink}}&amp;quot; rel=&amp;quot;next&amp;quot; style=&amp;quot;float: right!important&amp;quot;&amp;gt; {{.Title}} ❯&amp;lt;/a&amp;gt;{{end}} &amp;lt;/div&amp;gt;  Nice!</description>
+    </item>
+    
+    <item>
+      <title>Hugo top page correctly paginates only one section</title>
+      <link>https://new.robnugen.com/journal/2019/07/05/hugo-top-page-correctly-paginates-only-one-section/</link>
+      <pubDate>Fri, 05 Jul 2019 01:05:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/07/05/hugo-top-page-correctly-paginates-only-one-section/</guid>
+      <description>01:05 Friday 05 July 2019 JST Nice. I got Hugo pagination figured out. Go figure that the documentation for pagination would have the right answer.
+https://gohugo.io/templates/pagination/
+https://bitbucket.org/thunderrabbit/purehugo/src/16559a8ffa3ec74f57af7398a90f259f41972675/layouts/index.html#lines-10</description>
+    </item>
+    
+    <item>
+      <title>evaluating several hugo themes</title>
+      <link>https://new.robnugen.com/journal/2019/06/25/evaluating-several-hugo-themes/</link>
+      <pubDate>Tue, 25 Jun 2019 15:19:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/06/25/evaluating-several-hugo-themes/</guid>
+      <description>15:19 Tuesday 25 June 2019 JST I have gone through all the themes in the repo for All Hugo&amp;rsquo;s Themes and come up with a list of several which do a lot of these things:
+ content on top page list page for blog/ list page for journal/ paginate blog/ paginate journal/ show tags paginate tags show categories paginate categories nicely show Youtube videos  I don&amp;rsquo;t know if a single one does all the above things, but here is my list so far:</description>
+    </item>
+    
+    <item>
+      <title>cleaned up tags in journal entries</title>
+      <link>https://new.robnugen.com/journal/2019/06/20/cleaned-up-tags-in-journal-entries/</link>
+      <pubDate>Thu, 20 Jun 2019 18:15:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/06/20/cleaned-up-tags-in-journal-entries/</guid>
+      <description>18:15 Thursday 20 June 2019 JST But localhost cannot even load the page which shows all the tags. Dang. That must be a lot of tags.</description>
+    </item>
+    
+    <item>
+      <title>journal not working on Netlify yet</title>
+      <link>https://new.robnugen.com/journal/2019/03/28/journal-not-working-on-netlify-yet/</link>
+      <pubDate>Thu, 28 Mar 2019 08:26:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/03/28/journal-not-working-on-netlify-yet/</guid>
+      <description>08:26 Thursday 28 March 2019 HST Hmm Hugo is erroring and not compiling my journal entries.
+Building sites … ERROR 2019/03/27 16:47:38 render of &amp;quot;taxonomy&amp;quot; failed: &amp;quot;/Users/thunderrabbit/journal-hugo/themes/purehugo-tr/layouts/_default/list.html:5:27&amp;quot;: execute of template failed: template: _default/list.html:35:15: executing &amp;quot;_default/list.html&amp;quot; at &amp;lt;partial &amp;quot;pagination....&amp;gt;: error calling partial: &amp;quot;/Users/thunderrabbit/journal-hugo/themes/purehugo-tr/layouts/partials/pagination.html:5:27&amp;quot;: execute of template failed: template: partials/pagination.html:5:27: executing &amp;quot;partials/pagination.html&amp;quot; at &amp;lt;.Paginator.NextPage....&amp;gt;: can&#39;t evaluate field NextPage in type *hugolib.Pager ERROR 2019/03/27 16:47:38 render of &amp;quot;taxonomy&amp;quot; failed: &amp;quot;/Users/thunderrabbit/journal-hugo/themes/purehugo-tr/layouts/_default/list.html:5:27&amp;quot;: execute of template failed: template: _default/list.</description>
+    </item>
+    
+    <item>
+      <title>nearly finished v2 of Marble Track 3 website</title>
+      <link>https://new.robnugen.com/journal/2018/11/16/nearly-finished-v2-of-marble-track-3-website/</link>
+      <pubDate>Fri, 16 Nov 2018 15:29:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/11/16/nearly-finished-v2-of-marble-track-3-website/</guid>
+      <description>15:29 Friday 16 November 2018 JST I have been working on a new version of Marble Track 3 website for a few days.. The new version completely hides the livestreams and just focuses on the workers, the track pieces they make, and people who helped with the project.
+There are a few rough spots, but it will likely be up within a week.</description>
+    </item>
+    
+    <item>
+      <title>using template for journal entries</title>
+      <link>https://new.robnugen.com/journal/2018/07/22/using-template-for-journal-entries/</link>
+      <pubDate>Sun, 22 Jul 2018 17:40:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/07/22/using-template-for-journal-entries/</guid>
+      <description>17:40 Sunday 22 July 2018 JST I write journal entries with Emacs because I never learned vi. Anyway, I just tweaked my journal creation macros to use templates instead of embedded strings.
+Much easier to tweak and easier on the eyes.
+Next step is to make a macro for episodes on my new website marbletrack3.com</description>
+    </item>
+    
+    <item>
+      <title>trying to use castanet theme</title>
+      <link>https://new.robnugen.com/journal/2018/07/19/trying-to-use-castanet-theme/</link>
+      <pubDate>Thu, 19 Jul 2018 22:20:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/07/19/trying-to-use-castanet-theme/</guid>
+      <description> 22:20 Thursday 19 July 2018 JST I am trying to use castanet but cannot get it to show blog entries.
+I guess I should more carefully read the docs for castanet.
+07:02 Friday 20 July 2018 JST One problem was having tags listed not in quotes. I had to change this
+tags: [ &amp;ldquo;mt3&amp;rdquo; ]
+to this
+tags: [ &amp;quot;mt3&amp;quot; ]  </description>
+    </item>
+    
+    <item>
+      <title>Hugo journal entries with Emacs</title>
+      <link>https://new.robnugen.com/journal/2017/11/08/hugo-journal-entries-with-emacs/</link>
+      <pubDate>Wed, 08 Nov 2017 13:42:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/11/08/hugo-journal-entries-with-emacs/</guid>
+      <description>13:42 Wednesday 08 November 2017 JST To kick off this little journal entry, I type C-c j and then enter the title, as many tags as I like, then hit enter a few times to confirm the date, and get the following YAML meta data for the entry:
+--- title: &amp;quot;Hugo journal entries with Emacs&amp;quot; tags: [ &amp;quot;emacs&amp;quot;, &amp;quot;journal&amp;quot;, &amp;quot;quotes&amp;quot;, &amp;quot;hugo&amp;quot; ] author: Rob Nugen date: 2017-11-08T13:42:06+09:00 --- ## 13:42 Wednesday 08 November 2017 JST  Today I modified my code to add quotes around the title (so my Marble Track 3 entries can have titles including colons: &amp;ldquo;mt3: started last track&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>easy hugo</title>
+      <link>https://new.robnugen.com/journal/2017/07/20/easy-hugo/</link>
+      <pubDate>Thu, 20 Jul 2017 08:41:28 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/20/easy-hugo/</guid>
+      <description>08:41 Thursday 20 July 2017 JST I have just cloned Emacs Easy Hugo to see if it provides things I like.
+10:03 Thursday 20 July 2017 JST Could not get it to do anything; it just says &amp;ldquo;hugo not installed&amp;rdquo; and I do not see how to tell Emacs where it has been installed.</description>
+    </item>
+    
+    <item>
+      <title>I got hugo running on shared hosting</title>
+      <link>https://new.robnugen.com/journal/2016/11/19/i-got-hugo-running-on-shared-hosting/</link>
+      <pubDate>Sat, 19 Nov 2016 18:16:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/19/i-got-hugo-running-on-shared-hosting/</guid>
+      <description>18:16 Saturday 19 November 2016 JST I spun up a Debian box on Amazon, installed git, lynx, go, and then compiled hugo.
+sudo apt-get update sudo apt-get upgrade sudo apt-get install git-core sudo apt-get install lynx lynx https://golang.org/dl/ sudo tar -C /usr/local/ -xzf go1.7.3.linux-amd64.tar.gz export GOPATH=$HOME/go export PATH=$PATH:/usr/local/go/bin go get -v github.com/spf13/hugo  I copied that to my shared host and it works, though it runs more slowly than on my local box.</description>
+    </item>
+    
+    <item>
+      <title>updated to hugo 0.17</title>
+      <link>https://new.robnugen.com/journal/2016/11/15/updated-to-hugo-0.17/</link>
+      <pubDate>Tue, 15 Nov 2016 13:25:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/15/updated-to-hugo-0.17/</guid>
+      <description>13:25 Tuesday 15 November 2016 JST I upgrade hugo by doing
+brew update brew upgrade hugo  Hugo 0.16 compiled my journal like this:
+5834 pages created 55 non-page files copied 2094 paginator pages created 821 tags created 8 categories created in 7390 ms  Hugo 0.17 compiled my journal like this:
+5835 pages created 55 non-page files copied 2095 paginator pages created 822 tags created 8 categories created total in 6502 ms  But deploy via rsync is still slow as heck, I guess because all the files are recreated.</description>
+    </item>
+    
+    <item>
+      <title>Go go Hugo Go!</title>
+      <link>https://new.robnugen.com/journal/2015/11/09/go-go-hugo-go/</link>
+      <pubDate>Mon, 09 Nov 2015 02:47:48 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/09/go-go-hugo-go/</guid>
+      <description>02:47 Monday 09 November 2015 JST Oh my goodness Hugo is way faster than Middleman.
+Here&amp;rsquo;s my script which I run from my ~/journal directory to put most recent entries online:
+#!/bin/bash echo &amp;quot;pushing&amp;quot; git push echo &amp;quot;yayer&amp;quot; cd ~/journal-hugo git submodule foreach git pull origin master echo &amp;quot;building&amp;quot; hugo echo &amp;quot;deploying&amp;quot; rsync -r public/* newrobnugen:/home/newrob/new.robnugen.com echo &amp;quot;coming back&amp;quot; cd ~/journal echo &amp;quot;back jack&amp;quot;  Thanks to https://fredrikloch.me/post/automatic_hugo_deploy/ for the rsync line.</description>
+    </item>
+    
+    <item>
+      <title>Getting Hugo working for my journal</title>
+      <link>https://new.robnugen.com/journal/2015/11/07/getting-hugo-working-for-my-journal/</link>
+      <pubDate>Sat, 07 Nov 2015 18:20:49 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/07/getting-hugo-working-for-my-journal/</guid>
+      <description>18:20 Saturday 07 November 2015 JST Middleman suddenly stopped working (I think I deleted a library or something), and I decided to check out Hugo again. I&amp;rsquo;ve found a few themes which seem to work pretty well for my journal entries. Once this is posted, it will probably be made with Hugo.</description>
+    </item>
+    
+    <item>
+      <title>might use hugo soon</title>
+      <link>https://new.robnugen.com/journal/2015/06/17/might-use-hugo-soon/</link>
+      <pubDate>Wed, 17 Jun 2015 16:14:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/17/might-use-hugo-soon/</guid>
+      <description>16:14 Wednesday 17 June 2015 JST On brief glance, I&amp;rsquo;ve got the top page and journal pages working in Hugo with the same content and URLs as Middleman has been producing for new.robnugen.com. (though I haven&amp;rsquo;t checked the Japanese-titled entries (or entries with multi-word titles. (okay okay I only checked one entry))) Next I need to add the samples repos and make sure those URLs all work nicely.
+After all that, I might convert all my journal entries tags sections to use the format Hugo expects.</description>
+    </item>
+    
+  </channel>
+</rss>

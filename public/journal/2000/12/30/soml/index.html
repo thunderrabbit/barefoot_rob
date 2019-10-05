@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOML &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="SOML &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="SOML &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">30 Dec 2000, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2000/12/30/soml/" class="post-title">SOML</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p><title>State of My Life Address 30 December 2000</title>
+<p class=date>8:35am CST Saturday 30 December 2000</p>
+<p class=note>(partially transcribed out of my diary)</p></p>
+
+<p>I cannot believe how long it's been since I've written!!!  I'm so
+totally sorry to have neglected you.</p>
+
+<p>ACTUALLY I'm just kiddin'.  I've been writing on my website
+www.robnugen.com.  The truth is that I've basically entirely switched
+over to writing online instead of physically writing in here.</p>
+
+<h3>STATE OF MY LIFE ADDRESS 30 DEC 2000</h3>
+
+<ul>
+<li><p>I'm not that amazed with the new year.  After the zeroes rolled
+over the yeardometer, nothing can really top that.  Maybe 2222 but
+probably not even that.  I will live that long, you know.  That's why
+and because I'm learning new stuff all the time.</p></li>
+
+<li><p>I can ride a unicycle!  Basically I learned in one year.  Now I
+can ride up humps and down curbs.  I can't go up curbs yet nor jump
+over anything, but I'll keep practicing.  Actually I haven't tried to
+jump.  Maybe I will today.</p></li>
+
+<li><p>I'm at the laundry mat now washing (actually drying (actually
+watching the dryer spin as it apparently dries)) ANYWAY I'm washing
+the comforter.  It was still relatively covered in cat hair when I got
+it out of the big washer.</p></li>
+
+<li><p>Wende and I are about to start "marriage" (we're not married
+yet) counseling.  She's been not feeling horny and I've been unable to
+not feel horny it seems.  That's one bottom line dynamic.  Also she's
+been working a ton to keep the house clean while I have not as much
+even though she is at work more than me (even though I think she
+doesn't have to be)</p></li>
+
+<li><p>I've written a cool generic model at work - actually 2
+different ones.</p>
+
+<ol type=I>
+<li><p>One is geared toward 360 Feedback surveys: ("I" rate myself and
+am rated by peers, direct reports, managers.  then "I" get a compiled
+report of ratings, then try to improve on these areas that apparently
+need improvement.  This model requires "me" to request feedback from
+certain people who may or may not be in our dataset (add them if not)
+and they get emails sent to them with unique username & password.
+They log in to our site, have to change their password, and then
+provide feedback for "me" or others like "me" who have requested their
+feedback.</p>
+
+<p>So I've made a generic version of this model that uses</p>
+
+<pre>
+username dataset:
+<em>userid</em> | name | email | class | etc
+
+ratings dataset:
+<em>userid</em> | may rate userid | responses | etc
+
+question dataset:
+text | anchortype
+
+anchor dataset:
+<em>anchor type</em> | text | value
+
+OH! and class dataset:
+<em>classnum</em> when-to-send-emails | etc
+</pre>
+
+<p>I'm almost to the point where I can specify several variables at
+the beginning (or have a new DS that defines them... Oh my God I just
+figured something...</p>
+
+<p>Overview dataset:</p>
+
+<pre>
+<em>project name</em> | title | program 1 | program 2 | program 3
+</pre>
+
+<p>and if there had to be something So Different about a project then
+I could specify different code for that project's program 3, for
+example.  Wow.  I may do this.)
+</p></li>
+
+<p><hr align="left" width="33%"> <center>Back to SOML</center> <hr
+align="right" width="33%"></p>
+
+<li><p>The other generic is an occupational health survey.  It uses
+only 1 program to print all the different pages of the survey and
+encoded into the question dataset is how to present the
+questions.</p></li>
+</ol>
+</li></ul>
+
+<p>The comforter is dry.  I'm going back home and I'll finish this
+online & paste it in here.</p>
+
+<p class="date">10:19am</p>
+
+<p>As I typed the stuff above, I recognized how much faster I type
+than I write.  Therefore it seems to me that it must be the case that
+I have far more entries now that I'm writing them online than I would
+have if I still wrote them on paper.</p>
+
+<p>continuing with SOML Address:</p>
+
+<p><ul>
+<li><p>I have not yet met Jerry, who also rides a unicycle.  I have
+virtually met him online - we have exchanged emails and might go ride
+later today at Herman Park</p></li></p>
+
+<p><li><p>I have just recently signed both Wende and I up to take a
+quickie free spanish class on 9 January 2001.  At that class, I will
+ask the instructor what level of class I should take next.  I&rsquo;m going
+to learn spanish this year.</p></li></p>
+
+<p><li><p>The Houston Rally is coming soon.  I have a concern about the
+enforcement of our NO WALK-INs policy.  It will really suck to have to
+turn people away if they don&rsquo;t pre-register.  But I think that after
+the craziness at San Antonio (25 walk-ins), and the subsequent meeting
+with YAC, people won&rsquo;t do it.  For those YRUUers reading this who need
+to register, visit the website <a
+href="https://swd.yruu.org">website</a> and click on Upcoming Events
+(or the big link at the top of the page)</p></p>
+
+<p>I am officially in charge of this rally, but I have done relatively very
+little work to make it happen.  Delegation and Youth Empowerment have
+made this easy!  Not everything has been exactly as *I* would have
+done it, but that's to be expected.</p>
+
+<p>Big jobs that I haven't done:</p>
+
+<ol>
+<li>Registration.  Katherine is registrar.</li>
+<li>buying the T-shirts.  JoAnne did that</li>
+</ol>
+
+<p>I have a concern that registration and touch groups will be wacky,
+but I trust that the youth can achieve more amazing things than I
+could ever do.</p>
+
+<p>Another big job that hasn't been done yet is ordering food.  The
+youth are doing something new for food stuff this year; we will see
+how it's working out on 7 January, our next meeting.</p></li>
+
+<li><p>I've been writing relatively lots of letters (snail mail)
+lately.  To receive good snail mail I write good snail mail.</p></li>
+
+<li><p>I haven't shut down the Feel Good Net mailing list, but I also
+haven't sent a message to it in a long time.  I think I'll send a
+final message and close the list.  Maybe today.</p></li>
+
+<li><p>I have offered up the Ringmaster position of The Webring For
+People Named Rob, and one Rob said he was interested, and I told him
+what he needed to do, but he hasn't done it.</p></li>
+
+<li><p>My dad has ordered a new 45Gig hard drive and is therefore
+giving me his old 13Gig hard drive as a gift!  I remember when Tammy
+and I spent $300 on a 143Meg hard drive.  This 13Gig hard drive is
+essentially 13 thousand Megs, almost 100 times the capacity of the
+$300 drive back in 1992 or so.  Amazing.</p></li>
+
+<li><p>I'm considering thoroughly updating the code that displays my
+journal entries.  I want to rewrite it so that the <em>prev :
+next</em> links work over the month and year boundaries.  Also so that
+one can select prev or next month from the index on the left.  That
+will be cool.</p>
+
+<p>I might also write a shockwave version.</p>
+
+<p>I'm imagining the link on the front of my site linking to a page
+that offers HTML Version or Shockwave version, and a checkbox that
+says "Remember this choice" which will write a cookie to the user's
+machine so that they just go to the correct version next time. That
+will be way cool.</p></li>
+
+<li><p>Tomorrow night I will join the youth group in staffing a
+concession stand at a fireworks extravaganza in The Woodlands.  The
+group will be paid $36 per hour.  We hope to have more than 6 people
+there so we can share the work and play and have a grand ol'
+time.</p></li>
+
+<li><p>emacs is working on removing the nineteenth ring (again).  This
+is where I accidentally stopped it last time.</p></li>
+</ol>
+
+<p><img src='/images/rob/wL-ROB.gif'/></p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2000/12/30/party/" rel="prev" style="float: left!important">❮ party</a>
+                  <a href="https://new.robnugen.com/journal/2000/12/30/unicycle/" rel="next" style="float: right!important"> Unicycle ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

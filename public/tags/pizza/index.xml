@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pizza on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/pizza/</link>
+    <description>Recent content in pizza on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Oct 2017 23:32:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pizza jam</title>
+      <link>https://new.robnugen.com/journal/2017/10/08/pizza-jam/</link>
+      <pubDate>Sun, 08 Oct 2017 23:32:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/08/pizza-jam/</guid>
+      <description>23:32 Sunday 08 October 2017 JST Yay Chris uploaded the pictures of us in blankets after we our pizza was delivered.</description>
+    </item>
+    
+  </channel>
+</rss>

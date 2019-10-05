@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c9 on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/c9/</link>
+    <description>Recent content in c9 on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2016 10:34:26 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/c9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud 9 is pretty great</title>
+      <link>https://new.robnugen.com/journal/2016/12/17/cloud-9-is-pretty-great/</link>
+      <pubDate>Sat, 17 Dec 2016 10:34:26 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/17/cloud-9-is-pretty-great/</guid>
+      <description>10:34 Saturday 17 December 2016 JST I&amp;rsquo;m going through a Ruby on Rails tutorial which suggests using Cloud 9. It&amp;rsquo;s pretty amazing that this is available free of charge.
+It gives me unlimited public workspaces where I have a unix shell, ability to run all sorts of applications. The ones I care about now rails, git, emacs.. yay!
+12:49 Saturday 17 December 2016 JST After creating a pull request to fix hello_world Gemfile, my app is running on https://shrouded-everglades-38559.</description>
+    </item>
+    
+    <item>
+      <title>Cloud 9 is amazing!</title>
+      <link>https://new.robnugen.com/journal/2014/11/26/cloud-9-is-amazing/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/26/cloud-9-is-amazing/</guid>
+      <description>##12:51 Wednesday 26 November 2014 JST##
+&amp;rdquo;&amp;ldquo;&amp;lsquo;;;;;;;;;;;;;
+Sorry, that was Ted walking on my computer.
+Cloud 9 is amazing! How can they implement SublimeText in a browser? I can run emacs! It&amp;rsquo;s like I&amp;rsquo;m working in a local shell.. So brilliant!
+There&amp;rsquo;s a .bash_aliases file, .bashrc so I can set up aliases and stuff. Wow. I&amp;rsquo;d like the pricepoint to be a bit lower, but dang it&amp;rsquo;s pretty close to amazing.</description>
+    </item>
+    
+  </channel>
+</rss>

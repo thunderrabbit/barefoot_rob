@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netlify on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/netlify/</link>
+    <description>Recent content in netlify on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2019 07:46:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Netlify helped me fix my website</title>
+      <link>https://new.robnugen.com/journal/2019/09/25/how-netlify-helped-me-fix-my-website/</link>
+      <pubDate>Wed, 25 Sep 2019 07:46:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/25/how-netlify-helped-me-fix-my-website/</guid>
+      <description>My website stopped working recently. More accurately, Hugo stopped rendering the /blog and /journal portions of my website. The last time it worked was 2 weeks ago. I noticed that my local version of Hugo had gotten updated (*) and checked the releases.. sure enough there was a change to something related to that I had tweaked regarding indices.
+The problem languished for a while until I remembered that Netlify allows choosing which version of Hugo to use.</description>
+    </item>
+    
+    <item>
+      <title>Netlify now does git clone --recursive!</title>
+      <link>https://new.robnugen.com/journal/2015/03/07/netlify-now-does-git-clone-recursive/</link>
+      <pubDate>Sat, 07 Mar 2015 07:16:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/07/netlify-now-does-git-clone-recursive/</guid>
+      <description>##07:16 Saturday 07 March 2015 JST##
+As of yesterday, I noticed that Netlify added &amp;ndash;recursive to their clone process.
+Yay! I like to think it was because of my suggestion that they do it. If not, it&amp;rsquo;s pretty amazing timing! Thanks, Mathias!</description>
+    </item>
+    
+    <item>
+      <title>Netlify doesn&#39;t git clone --recursive</title>
+      <link>https://new.robnugen.com/journal/2015/03/03/netlify-doesnt-git-clone-recursive/</link>
+      <pubDate>Tue, 03 Mar 2015 22:25:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/03/netlify-doesnt-git-clone-recursive/</guid>
+      <description>##22:25 Tuesday 03 March 2015 JST##
+I got my repos sorted today; all the journal entries have had frontmatter lobotomies if Middleman can&amp;rsquo;t deal with the different dates, and my main Middleman repo includes the journal entry repo as a submodule.
+However, turns out netlify doesn&amp;rsquo;t clone recursively (yet). I mentioned this to Mathias and he was like, &amp;ldquo;hmm you&amp;rsquo;re right&amp;rdquo; and said he would look into it. But, he said politely, he was planning to go home for the night and didn&amp;rsquo;t want to push any possibly-breaking changes before going to bed.</description>
+    </item>
+    
+  </channel>
+</rss>

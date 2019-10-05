@@ -1,0 +1,382 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dreamhost &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="dreamhost &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="dreamhost &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">15 Apr 2018, 11:30</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/15/might-try-to-set-up-fossil-on-dreamhost/" class="post-title">might try to set up Fossil on Dreamhost</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="11-30-sunday-15-april-2018-jst">11:30 Sunday 15 April 2018 JST</h2>
+
+<p>I found an article about
+<a href="https://curiouser.cheshireeng.com/2016/07/05/fun-with-dreamhost-fossil/">setting up Fossil on Dreamhost</a>,
+and may try to go through it today.</p>
+
+<p>First, I will
+<a href="https://github.com/thunderrabbit/new-DH-user-account">set up a new sub-domain and new user on Dreamhost</a>.</p>
+
+<h2 id="12-07">12:07</h2>
+
+<p>Done.  I recognize that I am using git on a server for Fossil, but am
+going to ignore that for now.</p>
+
+<p>Though the previous article compiled from source, it appears
+<a href="https://www.fossil-scm.org/index.html/uv/download.html">Fossil provides Linux binaries</a>
+now.</p>
+
+<p>Fill in the latest version number for &hellip; below</p>
+
+<pre><code>wget https://www.fossil-scm.org/index.html/uv/fossil-linux-x64-.....tar.gz
+tar xf fossil-linux-x64-.....tar.gz
+mkdir ~/bin
+mv fossil ~/bin/
+</code></pre>
+
+<p>And the I appended bin/ to the PATH by adding this to ~/.bash_profile</p>
+
+<pre><code>export PATH=$PATH:~/bin/
+</code></pre>
+
+<h2 id="12-35">12:35</h2>
+
+<p>I <em>just</em> read that the author of other article did <em>not</em> put it in
+PATH, but I like to fool around on command line, so it&rsquo;s good for me.</p>
+
+<p>Now, to see if I can access it via https as a CGI script</p>
+
+<pre><code>mkdir ~/publicrepos
+cd ~/publicrepos/
+mkdir repooo
+echo world &gt; repooo/hello.txt
+fossil init -A rob repooo.fossil
+</code></pre>
+
+<p>Note password for user <code>rob</code>.</p>
+
+<pre><code>fossil open repooo.fossil
+fossil user default rob
+fossil add repooo/hello.txt
+fossil commit
+</code></pre>
+
+<p>I set up <code>.htaccess</code> in root of public webserver, <code>/home/USERNAME/domain.com/.htaccess</code></p>
+
+<pre><code>&lt;Files repos&gt;
+  SetHandler cgi-script
+&lt;/Files&gt;
+</code></pre>
+
+<p>I created <code>repos</code> in <code>/home/USERNAME/domain.com/repos</code>:  (In the file below, change USERNAME below to the username of your
+account.)</p>
+
+<pre><code>#!/home/USERNAME/bin/fossil
+directory: /home/USERNAME/publicrepos
+notfound: /404.html
+repolist
+</code></pre>
+
+<p>Oh cool it works!</p>
+
+<p><a href="https://fossil.chatforest.com/repos/">https://fossil.chatforest.com/repos/</a></p>
+
+<h2 id="09-49-tuesday-17-april-2018-jst">09:49 Tuesday 17 April 2018 JST</h2>
+
+<p>Okay, now I have kinda figured out a system for adding my journal git
+repo to fossil:</p>
+
+<p>Move to my existing git repo on local machine:</p>
+
+<pre><code>cd ~/journal
+</code></pre>
+
+<p><a href="https://fossil-scm.org/index.html/doc/trunk/www/inout.wiki">Export git into a new Fossil repo</a></p>
+
+<pre><code>git fast-export --all | fossil import --git journal.fossil
+</code></pre>
+
+<p>I think this will help me update the fossil repo again by creating
+files to link the leaves and nodes of the two repos (or something)</p>
+
+<pre><code>fossil export --git --export-marks ../journal.fossil.marks journal.fossil |    \
+    git fast-import --export-marks=../journal.git.marks
+</code></pre>
+
+<p>And now after I <code>git commit</code> I can run this to get the latest into
+fossil (I think)</p>
+
+<pre><code>git fast-export --import-marks=../journal.git.marks  --export-marks=../journal.git.marks  \
+    --all | fossil import --git --incremental --import-marks        \
+    ../journal.fossil.marks --export-marks ../journal.fossil.marks journal.fossil
+</code></pre>
+
+<p>I was then able to scp the journal.fossil file to
+<a href="https://fossil.chatforest.com/repos/">https://fossil.chatforest.com/repos/</a>,
+then change the password for thunderrabbit from its default.</p>
+
+<p>Now, how do I add the remote to my local Fossil so I can push changes
+to it?</p>
+
+<pre><code>fossil sync --ssl-identity ~/.ssh/fossil.chatforest.com ssh://USERNAME@fossil.chatforest.com/path/to/journal.fossil
+</code></pre>
+
+<p>And set up auto synchronization</p>
+
+<pre><code>fossil set autosync
+</code></pre>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">10 Jul 2017, 12:03</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/07/10/hardlinks-on-dh/" class="post-title">hardlinks on DH</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="12-03-monday-10-july-2017-jst">12:03 Monday 10 July 2017 JST</h2>
+
+<p>Neat.  These two files are actually the same file with different names.</p>
+
+<p><a href="//b.robnugen.com/peeps/Francois/2017/francois_with_group.jpg"><img src="//b.robnugen.com/peeps/Francois/2017/thumbs/francois_with_group.jpg" alt="francois with group" /></a>
+<a href="//b.robnugen.com/peeps/Lin/2017/beach/20170709_beach_group.jpg"><img src="//b.robnugen.com/peeps/Lin/2017/beach/thumbs/20170709_beach_group.jpg" alt="Francois with beach group" /></a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">12 Sep 2016, 23:13</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/09/12/created-instructions-for-creating-new-dh-users/" class="post-title">Created instructions for creating new DH users</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="23-13-monday-12-september-2016-jst">23:13 Monday 12 September 2016 JST</h2>
+
+<p><a href="https://github.com/thunderrabbit/new-DH-user-account">https://github.com/thunderrabbit/new-DH-user-account</a></p>
+
+<h1 id="new-dreamhost-user-account">New Dreamhost user account</h1>
+
+<p>This essentially spells out the tasks I do each time I set up a new user with shell access on Dreamhost.</p>
+
+<p>It sets up <code>git</code>, <code>emacs</code>, and passwordless authentication, then essentially disables password logins by creating a random 132 character password and helpfully forgetting it.</p>
+
+<p>In the steps below, replace <code>example.com</code> with your new domain.</p>
+
+<h2 id="set-up-the-new-domain">Set up the new domain</h2>
+
+<p>From Dreamhost Control Panel -&gt; Domains -&gt; Manage Domains -&gt; <a href="https://panel.dreamhost.com/index.cgi?tree=domain.manage&amp;current_step=Index&amp;next_step=ShowAddhttp&amp;domain=">Add Hosting to a Domain / Sub-domain</a></p>
+
+<p>Fill in the blanks, including create a new user.</p>
+
+<p>Make note of the password created by Dreamhost.  We will need it where PASSWORD is written below.</p>
+
+<h2 id="give-shell-access-to-the-user">Give shell access to the user</h2>
+
+<p>Make sure the new user is a shell user at <a href="https://panel.dreamhost.com/index.cgi?tree=users.users">https://panel.dreamhost.com/index.cgi?tree=users.users</a></p>
+
+<h2 id="on-local-machine-create-a-new-ssh-key">On local machine, create a new <code>ssh</code> key</h2>
+
+<pre><code>ssh-keygen
+</code></pre>
+
+<p>Enter <code>example.com</code> as the key filename</p>
+
+<p>Move the keypair to <code>~/.ssh</code></p>
+
+<h2 id="on-local-machine-set-up-ssh-config">On local machine, set up ~/.ssh/config</h2>
+
+<p>Append something like the following to <code>~/.ssh/config</code>:</p>
+
+<pre><code>Host example
+    HostName example.com
+    User example
+    IdentityFile ~/.ssh/example.com
+</code></pre>
+
+<h2 id="scp-the-public-key-to-the-new-account-using-password">scp the public key to the new account using PASSWORD:</h2>
+
+<pre><code>scp ~/.ssh/example.com.pub example:authorized_keys
+</code></pre>
+
+<h2 id="ssh-to-the-new-account-using-password">ssh to the new account using PASSWORD:</h2>
+
+<pre><code>ssh example
+</code></pre>
+
+<h2 id="while-on-the-new-account-clone-this-repo">While on the new account, clone this repo:</h2>
+
+<pre><code>git clone https://github.com/thunderrabbit/new-DH-user-account.git
+</code></pre>
+
+<h2 id="set-up-the-account-and-passwordless-entry">Set up the account and passwordless entry</h2>
+
+<pre><code>cd new-DH-user-account
+./setup.sh
+</code></pre>
+
+<h2 id="exit-the-account">Exit the account</h2>
+
+<pre><code>exit
+</code></pre>
+
+<h2 id="ssh-to-the-new-account-without-password">ssh to the new account without password</h2>
+
+<pre><code>ssh example
+</code></pre>
+
+<p>It&rsquo;s very very important you log in without password here!</p>
+
+<h2 id="basically-destroy-password-logins">Basically destroy password logins</h2>
+
+<pre><code>cd $HOME/new-DH-user-account
+./password_fix.sh
+</code></pre>
+
+<p>Enter PASSWORD when requested</p>
+
+<p>Now your password is 132 random characters.  It can be reset in control panel (to a measly 31 characters) but the point is to never user passwords to log in.</p>
+
+<h2 id="if-everything-worked-then-cleanup">If everything worked, then cleanup</h2>
+
+<pre><code>cd $HOME
+$HOME/new-DH-user-account/cleanup.sh
+</code></pre>
+
+<p>I created these steps after my old Dreamhost account got hacked and
+needed to create new accounts.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

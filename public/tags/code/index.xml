@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/code/</link>
+    <description>Recent content in code on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2015 17:27:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hit it with a hammer solution</title>
+      <link>https://new.robnugen.com/journal/2015/03/12/hit-it-with-a-hammer-solution/</link>
+      <pubDate>Thu, 12 Mar 2015 17:27:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/12/hit-it-with-a-hammer-solution/</guid>
+      <description>##17:27 Thursday 12 March 2015 JST##
+For the md5 count thing, /u/Thespoian gave me a brilliant insite. Whereas I had been trying to go through all the combinations of uppercase/lowercase, first recursively, then with a &amp;ldquo;brillian&amp;rdquo; bitshifting method, he had just been randomly selecting letters and changing their case pseudorandomly.
+I was going for user-friendly GUI. My way (written in Javascript,) was bloated, slow and often locked up Chrome. He was going for getrdone.</description>
+    </item>
+    
+    <item>
+      <title>going mad</title>
+      <link>https://new.robnugen.com/journal/2015/02/26/going-mad/</link>
+      <pubDate>Thu, 26 Feb 2015 17:39:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/26/going-mad/</guid>
+      <description>##17:39 Thursday 26 February 2015 JST##
+I&amp;rsquo;m not really going mad, but I realize the code I am trying to write for the MD5 count thing is like a madlib. I want to take a string and replace tokens with example words.
+Only difference: I want to do a combination of all the options. Essentially
+foreach adjective in my list of adjectives: for each noun in my list of nouns: fill in the adjective and noun in template  So I end up with length-adjectives * length-nouns sentences, each of which I will md5 and see if it can work for the next MD5 count.</description>
+    </item>
+    
+    <item>
+      <title>hour of code</title>
+      <link>https://new.robnugen.com/journal/2015/01/27/hour-of-code/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/27/hour-of-code/</guid>
+      <description>##12:42 Tuesday 27 January 2015 JST##
+Easy way to learn imperative programming concepts: Hour of Code
+
+If original is missing, try grayscale version</description>
+    </item>
+    
+    <item>
+      <title>Subsite</title>
+      <link>https://new.robnugen.com/journal/2015/01/05/subsite/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/05/subsite/</guid>
+      <description>##21:13 Monday 05 January 2015 JST##
+I made a subsite today for AB website.
+Not quite finished yet, but it&amp;rsquo;s basically a subset of the AB site, but uses the same login system.</description>
+    </item>
+    
+    <item>
+      <title>Small extension to md5 cheater</title>
+      <link>https://new.robnugen.com/journal/2014/11/15/small-extension-to-md5-cheater/</link>
+      <pubDate>Sat, 15 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/15/small-extension-to-md5-cheater/</guid>
+      <description>##22:16 Saturday 15 November 2014 JST##
+On the way home from Charu and Toru&amp;rsquo;s house now. Lin is sleeping beside me because her phone is dead (because I used a lot of its battery power to have Wifi while at their house).
+I&amp;rsquo;m adding some not-very-extendable code to the md5 cheater thing: it will allow selecting which characters to convert. It&amp;rsquo;s not extendable because I&amp;rsquo;ve just hard coded three sets:</description>
+    </item>
+    
+  </channel>
+</rss>

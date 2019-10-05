@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ansible on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/ansible/</link>
+    <description>Recent content in ansible on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2017 22:10:54 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Deploy Redmine for Apache2 with Ansible on Ubuntu 16.04</title>
+      <link>https://new.robnugen.com/journal/2017/02/14/aws-deploy-redmine-for-apache2-with-ansible-on-ubuntu-16.04/</link>
+      <pubDate>Tue, 14 Feb 2017 22:10:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/02/14/aws-deploy-redmine-for-apache2-with-ansible-on-ubuntu-16.04/</guid>
+      <description>22:10 Tuesday 14 February 2017 JST https://github.com/thunderrabbit/bootstrap-redmine-deploy</description>
+    </item>
+    
+    <item>
+      <title>got some cool ansible stuff working</title>
+      <link>https://new.robnugen.com/journal/2016/08/24/got-some-cool-ansible-stuff-working/</link>
+      <pubDate>Wed, 24 Aug 2016 14:13:31 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/08/24/got-some-cool-ansible-stuff-working/</guid>
+      <description>14:13 Wednesday 24 August 2016 JST Though I need to redact some names before making it public source, I got a pretty cool VagrantFile which uses Ansible to create an instance on AWS.
+The starting point was here https://github.com/thunderrabbit/episode-45 (actually here https://github.com/jweissig/episode-45) and I might spend time to put a cleansed version of my new repo online. Gotta go to work now though.</description>
+    </item>
+    
+    <item>
+      <title>ansible weekend</title>
+      <link>https://new.robnugen.com/journal/2016/06/20/ansible-weekend/</link>
+      <pubDate>Mon, 20 Jun 2016 10:44:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/06/20/ansible-weekend/</guid>
+      <description>10:44 Monday 20 June 2016 JST This weekend, I went through the excellent Ansible Tutorial on Code Review Videos. I had gone through most of it in January, and this refresher helped me grok it more.</description>
+    </item>
+    
+  </channel>
+</rss>

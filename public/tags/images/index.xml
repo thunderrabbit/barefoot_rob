@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>images on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/images/</link>
+    <description>Recent content in images on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 07:53:44 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going to Renee&#39;s in Gunma today</title>
+      <link>https://new.robnugen.com/journal/2017/07/14/going-to-renees-in-gunma-today/</link>
+      <pubDate>Fri, 14 Jul 2017 07:53:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/14/going-to-renees-in-gunma-today/</guid>
+      <description>07:53 Friday 14 July 2017 JST Leaving in 2 hours.
+18:51 Friday 14 July 2017 JST Such a nice area! We went to a long cave thing that was apparently dug without modern equipment. It is 400 meters long, and was apparently supposed to go 400 meters more, but life and heavy rock got in the way. Really nice quiet energy there.
+Visited a 41.8 meter tall statue which is 10 meters taller than Corcovado in Rio.</description>
+    </item>
+    
+    <item>
+      <title>university pics scanned by Christine in 2011</title>
+      <link>https://new.robnugen.com/journal/2017/07/10/university-pics-scanned-by-christine-in-2011/</link>
+      <pubDate>Mon, 10 Jul 2017 14:09:42 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/10/university-pics-scanned-by-christine-in-2011/</guid>
+      <description>14:09 Monday 10 July 2017 JST On my way to Inbox Zero, I found these images which Christine scanned for me in 2011! I cannot remember if she scanned them before or after Lin and I had our wedding, but I know she scanned them twice, to get higher resolution! Thank you, Christine!</description>
+    </item>
+    
+    <item>
+      <title>hardlinks on DH</title>
+      <link>https://new.robnugen.com/journal/2017/07/10/hardlinks-on-dh/</link>
+      <pubDate>Mon, 10 Jul 2017 12:03:49 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/10/hardlinks-on-dh/</guid>
+      <description>12:03 Monday 10 July 2017 JST Neat. These two files are actually the same file with different names.</description>
+    </item>
+    
+    <item>
+      <title>Uploaded pics of some drawings</title>
+      <link>https://new.robnugen.com/journal/2015/12/13/uploaded-pics-of-some-drawings/</link>
+      <pubDate>Sun, 13 Dec 2015 20:49:02 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/13/uploaded-pics-of-some-drawings/</guid>
+      <description>20:49 Sunday 13 December 2015 JST White Dots    
+Busy Ring  
+three or more circles  
+One Teleport Maze  
+Summer Vacation: 
+Here&amp;rsquo;s the front:</description>
+    </item>
+    
+    <item>
+      <title>images bah</title>
+      <link>https://new.robnugen.com/journal/2015/10/13/images-bah/</link>
+      <pubDate>Tue, 13 Oct 2015 18:45:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/13/images-bah/</guid>
+      <description>18:45 Tuesday 13 October 2015 JST What I really want is a way to email pictures to my website, AND to keep them in findable folder structures. Hmmm. Okay, maybe not email, but to easily push them up to my site from my phone. My site. My server. My directory structure. My backend code.</description>
+    </item>
+    
+    <item>
+      <title>thumbnailed</title>
+      <link>https://new.robnugen.com/journal/2015/05/28/thumbnailed/</link>
+      <pubDate>Thu, 28 May 2015 01:31:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/28/thumbnailed/</guid>
+      <description>01:31 Thursday 28 May 2015 JST Thumbnail creation summary:
+2365 thumbnails existed, and 4091 needed to be created Execution time: 998 s  Oh snap! That was just for my /travel directory.
+Showertime now; I&amp;rsquo;ll let this thing run.
+8324 thumbnails existed, and 6788 needed to be created Execution time: 2789 s  7:09 next morning. Wait what? The second existence-total should include the first existence-total, but the second numbers are cumulative.</description>
+    </item>
+    
+    <item>
+      <title>perl image thumbnailer</title>
+      <link>https://new.robnugen.com/journal/2015/05/27/perl-image-thumbnailer/</link>
+      <pubDate>Wed, 27 May 2015 15:49:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/27/perl-image-thumbnailer/</guid>
+      <description>15:49 Wednesday 27 May 2015 JST sub makeThumbs { my ($sourceImagePath, $thumbImagePath) = @_; print &amp;quot;making thumbnail $thumbImagePath from\n$sourceImagePath\n&amp;quot;; $image = Image::Magick-&amp;gt;new; open(IMAGE, $sourceImagePath); $image-&amp;gt;Read(file=&amp;gt;\*IMAGE); close(IMAGE); $image-&amp;gt;Thumbnail(&#39;200,200&#39;); ## not sure if this will work open(IMAGE, &amp;quot;&amp;gt;$thumbImagePath&amp;quot;); $image-&amp;gt;Write(file=&amp;gt;\*IMAGE, filename=&amp;gt;$thumbImagePath); close(IMAGE); }  Hmm! As I was sketching some code, I found an example perl script which produces a page of thumbnailed images. Sweet! I will probably use it for something.</description>
+    </item>
+    
+    <item>
+      <title>Almost creating thumbnails</title>
+      <link>https://new.robnugen.com/journal/2015/05/27/almost-creating-thumbnails/</link>
+      <pubDate>Wed, 27 May 2015 10:55:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/27/almost-creating-thumbnails/</guid>
+      <description>10:55 Wednesday 27 May 2015 JST Spinning through all the subdirectories on b.robnugen.com my script shows d (DNE) for images without thumbnails and e for images with thumbnails.
+dddddddeeeddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeddddddddddddddddddddd ddddddddddddddddddddddeeddedddeeeddededdddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeddddddddedeeee ddeeeeeeeddedeeeeeeeeeeeeededededededededdddddddddddddddddddddddddddddd dddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddedeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedededededededdeeee eeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedd dddddeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddeeeeeeeeeeeeeeedddddedddeddd ddddeeeeeeeeeeeeeeeeeeedeeeeeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddeeeeeeeeeeeee eeeeeeeeeeeeeedeeeeeeeeeeeeeeeeeeeeedeeddeeedeeddededddddddddddddddeeee eeeeeeeeeeeeeeeeddddddddddddddddddddddddddddddddedddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddeeedddddddddddddddddddddddddddddddddededddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddeddeeeeeeeddeeeeeeeeeee eeeddeeeeeeeeeeeeeeeeeeeddddddddddddddddddeeeedeeeeeeeeeeeedddddddddddd dddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddeeee eeddddddddddeeeeeeeeedededeeeeeeeddddddddddeeeeeeeedddeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeedddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddeeeeeddeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddd deeeeeeeeeeeeeeeeeeeeeeeeddeedeeeeeeeeeeeeeeeeeeeeeeddddddddddddddddeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddeeedeedddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddededdddeddeeeeeeededddddddeeddeeeeeeeeeeeeeeed eeeeeeeeeddeeeddedededededededededededededededededeededeeededeeedeedede dededededededededededeeeeeeeeeeeeeeeeeeeeeeeeeeeeeddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddde eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeedddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeedddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddddddddeeeeeeeeeedddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddedddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddeedddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeedeeeeeeeeeeeeeeedeeedeeeeeeeeeeeddeeddddeeeeeeeedddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeddeeeeeeeeeddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddddddddddddddddddddddddddddddddddddddddddddedeeeeeeeeeedd edeeeeddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedeeeeee eeeeeeeeeeeeeeeeeeeddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddddddddddddddddddddddddd ddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeededdeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeddddeeddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddeeeeeeeeeeeeeeeeeeeeeedddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd dddedddeeeeddeeeedddddddddddddddddddddddddddddddddddddddddddddddddddddd dddddddddddddddeedddddddddd</description>
+    </item>
+    
+    <item>
+      <title>slapping together a thumbnailer</title>
+      <link>https://new.robnugen.com/journal/2015/05/26/slapping-together-a-thumbnailer/</link>
+      <pubDate>Tue, 26 May 2015 21:37:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/26/slapping-together-a-thumbnailer/</guid>
+      <description>21:37 Tuesday 26 May 2015 JST I&amp;rsquo;ve been writing some scripts to simplify publishing to my website. Here on local computer I&amp;rsquo;ve got a script called build-journal-and-stuff.sh, which basically pushes changes from my local journal repo to the origin repo (for backup purposes), then switches to my local Middleman repo&amp;rsquo;s submodule for my journal, pulls the entries from origin and then goes back to Middleman&amp;rsquo;s root and builds the site.</description>
+    </item>
+    
+    <item>
+      <title>got images working</title>
+      <link>https://new.robnugen.com/journal/2015/03/28/got-images-working/</link>
+      <pubDate>Sat, 28 Mar 2015 09:56:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/28/got-images-working/</guid>
+      <description>##09:56 Saturday 28 March 2015 JST##
+I created a sample repo to show middleman+markdown not rendering with spaces image names with spaces.
+I had very few such spacey filenames, so I just renamed them.
+Middleman 4 is coming out soon, so maybe it will be fixed then.</description>
+    </item>
+    
+    <item>
+      <title>tentative steps at repaving image paths</title>
+      <link>https://new.robnugen.com/journal/2015/03/26/tentative-steps-at-repaving-image-paths/</link>
+      <pubDate>Thu, 26 Mar 2015 14:22:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/26/tentative-steps-at-repaving-image-paths/</guid>
+      <description>##14:22 Thursday 26 March 2015 JST##
+Okay, The journal entry I&amp;rsquo;m writing now is in my journal repo (or will be once I push it there).
+In this repo, coming from my old journal, I think there are several instances of URLs like /images/&amp;hellip;. in various entries.
+I would like those to keep working, but I don&amp;rsquo;t want to put all my images in this repo, or even my Middleman repo because it&amp;rsquo;s more likely to change than my images, and images take up more disk space, generally speaking.</description>
+    </item>
+    
+    <item>
+      <title>plans for images</title>
+      <link>https://new.robnugen.com/journal/2015/03/24/plans-for-images/</link>
+      <pubDate>Tue, 24 Mar 2015 13:13:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/24/plans-for-images/</guid>
+      <description>##13:13 Tuesday 24 March 2015 JST##
+Okay, so my basic plan is to move all my images to b.robnugen.com and hopefully be able to keep the existing links to /?images/path/to/image.png working in my journal pages.
+There are several old images on Flickr (which are still there! (oh so happy thank you Flickr!!))&amp;hellip; I plan to move them to b.robnugen.com as well.
+I&amp;rsquo;m not sure if I can easily handle redirecting old links to images, but I guess if I can tell robnugen.</description>
+    </item>
+    
+    <item>
+      <title>adaptive images</title>
+      <link>https://new.robnugen.com/journal/2015/03/22/adaptive-images/</link>
+      <pubDate>Sun, 22 Mar 2015 23:52:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/22/adaptive-images/</guid>
+      <description>##23:52 Sunday 22 March 2015 JST##
+I just came across a beautiful solution to resizing images on my site. It allows me to keep my existing images&amp;rsquo; filenames, and it just works as a drop-in solution. A single PHP file (plus a few lines of .htaccess to point images through it). The resulting image URLs are unchanged, but the size of the image is adapted per the device size.
+Adaptive-Images</description>
+    </item>
+    
+    <item>
+      <title>Minecraft pics</title>
+      <link>https://new.robnugen.com/journal/2014/11/21/minecraft-pics/</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/21/minecraft-pics/</guid>
+      <description>##00:01 Saturday 22 November 2014 JST##
+Screenshots from a week ago:</description>
+    </item>
+    
+    <item>
+      <title>A reasonable(?) way to insert images</title>
+      <link>https://new.robnugen.com/journal/2014/11/07/a-reasonable-way-to-insert-images/</link>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/07/a-reasonable-way-to-insert-images/</guid>
+      <description>##10:02 Friday 07 November 2014 JST##
+Though I still have to copy the image names by hand, once they are in the correct directories, I have a pretty okay way of inserting them into my journal pages.
+For most images, I&amp;rsquo;ve settled on a convention of putting the main image in a directory, and then thumbnails for the image(s) in a
+For most of *those* images, I place them in ```images/yyyy/mm/``` directories for the year and month they were taken.</description>
+    </item>
+    
+    <item>
+      <title>Two pix from Christmas at Jill&#39;s 2011</title>
+      <link>https://new.robnugen.com/journal/2011/12/25/two-pix-from-christmas-at-jills-2011/</link>
+      <pubDate>Sun, 25 Dec 2011 12:46:02 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2011/12/25/two-pix-from-christmas-at-jills-2011/</guid>
+      <description>25 Dec 2011 (written 12:46 Monday 10 July 2017 JST)</description>
+    </item>
+    
+  </channel>
+</rss>

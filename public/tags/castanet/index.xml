@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>castanet on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/castanet/</link>
+    <description>Recent content in castanet on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jul 2018 22:20:15 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/castanet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trying to use castanet theme</title>
+      <link>https://new.robnugen.com/journal/2018/07/19/trying-to-use-castanet-theme/</link>
+      <pubDate>Thu, 19 Jul 2018 22:20:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/07/19/trying-to-use-castanet-theme/</guid>
+      <description> 22:20 Thursday 19 July 2018 JST I am trying to use castanet but cannot get it to show blog entries.
+I guess I should more carefully read the docs for castanet.
+07:02 Friday 20 July 2018 JST One problem was having tags listed not in quotes. I had to change this
+tags: [ &amp;ldquo;mt3&amp;rdquo; ]
+to this
+tags: [ &amp;quot;mt3&amp;quot; ]  </description>
+    </item>
+    
+  </channel>
+</rss>

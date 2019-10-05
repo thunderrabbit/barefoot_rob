@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>queue_free on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/queue_free/</link>
+    <description>Recent content in queue_free on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Dec 2017 05:07:19 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/queue_free/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>freed myself of queue_free</title>
+      <link>https://new.robnugen.com/journal/2017/12/31/freed-myself-of-queue_free/</link>
+      <pubDate>Sun, 31 Dec 2017 05:07:19 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/31/freed-myself-of-queue_free/</guid>
+      <description>05:07 Sunday 31 December 2017 -02 I have had a few crashes in Godot in the over the past couple of days, and each time it was due to using queue_free() (or apparently misusing it). I took them out in favor of hide() and remove(). The crashes seem to have gone away.
+14:42 Sunday 31 December 2017 -02 (44 minutes to Dubai) I would like to extend my custom Godot class, but have not been able to figure out how to do it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iot on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/iot/</link>
+    <description>Recent content in iot on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2017 10:44:15 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Thing of Internet</title>
+      <link>https://new.robnugen.com/journal/2017/01/16/my-first-thing-of-internet/</link>
+      <pubDate>Mon, 16 Jan 2017 10:44:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/01/16/my-first-thing-of-internet/</guid>
+      <description>10:44 Monday 16 January 2017 JST I&amp;rsquo;m considering my first IoT device, or ToI, Thing of Internet.
+To add a bit of information to my journal, I&amp;rsquo;m considering getting a programmable Amazon Button which I plan to keep by my bed. Click once in the morning when I wake up and it will fire off some code on AWS to write a journal entry &amp;ldquo;I woke up.&amp;rdquo; Doublieclick at night and it will write a journal entry like &amp;ldquo;zzzz&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

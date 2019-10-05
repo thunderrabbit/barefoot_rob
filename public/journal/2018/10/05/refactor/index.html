@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>refactor &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="refactor &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="refactor &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">05 Oct 2018, 08:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/10/05/refactor/" class="post-title">refactor</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h5 id="08-27-friday-05-october-2018-jst">08:27 Friday 05 October 2018 JST</h5>
+
+<p>I found a solution to all my work woes.</p>
+
+<pre><code>I just had an interesting thought about my computer job, which I
+brought up in the meeting on Monday.  My website client is AB.
+
+It is likely that I can find a company that can do the work I am
+doing for less money, but it's not possible to secretly act as a
+middle man and keep the money due to how payments are done now.
+
+The value for me overall is to reduce the load of this job, which
+taxes me physically and emotionally.
+
+Value for AB is to have a real company (Engine Yard) doing the
+tedious work I've been doing, and therefore if I die, AB isn't
+fucked by losing all their server/website knowledge.
+
+I'll have to do some research, but I can probably still do the fun
+part of the job and leave the annoying part to Engine Yard.
+</code></pre>
+
+<p>Yay! Why didn&rsquo;t I think of this before?  I heard of them ages ago at
+an iOS meeting.  If they can handle the server stuff, that would make
+my life sooo much easier.</p>
+
+<p>So I looked up their website
+<a href="https://www.engineyard.com/">https://www.engineyard.com/</a></p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_oct_05_engine_yard_does_ruby.png"><img src="//b.robnugen.com/journal/2018/thumbs/2018_oct_05_engine_yard_does_ruby.png" alt="2018 oct 05 engine yard does ruby" /></a></p>
+
+<p>Ruby????</p>
+
+<p>Aw man!</p>
+
+<p>I need someone to deal with PHP!</p>
+
+<p>A couple days later, I found that someone is me.</p>
+
+<p>I found
+<a href="https://leanpub.com/mlaphp">Modernizing Legacy Applications in PHP</a>
+shows how to go from spaghetti to modern framework <em>including unit tests</em>,
+without any downtime.</p>
+
+<p>My code is <em>not</em> as bad as the code in the examples, which includes
+MySQL and HTML and CSS in the same file, but I definitely suffer from
+lack of tests, so rely on crossing my fingers and praying each time I
+deploy.</p>
+
+<hr />
+
+<p>While writing this entry, I found I can wrap my app in Ruby Hooks to
+deploy it
+<a href="https://www.engineyard.com/blog/deploying-php-applications-on-engine-yard-a-how-to">https://www.engineyard.com/blog/deploying-php-applications-on-engine-yard-a-how-to</a></p>
+
+<p><a href="https://web.archive.org/web/20181004234913/https://www.engineyard.com/blog/deploying-php-applications-on-engine-yard-a-how-to">https://web.archive.org/web/20181004234913/https://www.engineyard.com/blog/deploying-php-applications-on-engine-yard-a-how-to</a></p>
+
+<p>I will clean up the code first, then see what&rsquo;s up with outsourcing
+the server side.</p>
+
+<pre><code>Remindme! 2 years
+</code></pre>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2018/10/05/more-plans-for-work/" rel="prev" style="float: left!important">❮ more plans for work</a>
+                  <a href="https://new.robnugen.com/journal/2018/10/01/great-chat-with-joel/" rel="next" style="float: right!important"> great chat with Joel ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

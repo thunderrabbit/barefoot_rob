@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bug on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/bug/</link>
+    <description>Recent content in bug on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 23:18:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/bug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>prevent unauthorized root access in OS X High Sierra</title>
+      <link>https://new.robnugen.com/journal/2017/12/01/prevent-unauthorized-root-access-in-os-x-high-sierra/</link>
+      <pubDate>Fri, 01 Dec 2017 23:18:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/01/prevent-unauthorized-root-access-in-os-x-high-sierra/</guid>
+      <description>23:18 Friday 01 December 2017 JST Oops. https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/</description>
+    </item>
+    
+    <item>
+      <title>godot</title>
+      <link>https://new.robnugen.com/journal/2017/10/11/godot/</link>
+      <pubDate>Wed, 11 Oct 2017 05:46:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/11/godot/</guid>
+      <description>05:46 Wednesday 11 October 2017 JST Last night I decided to look at using Godot to develop our next game. I downloaded and opened it up, but it could not open the list of templates.
+Operating system or device, Godot version:
+OS X 10.12.6, Godot v2.1.4.stable.official
+Issue description:
+Run Godot first time, the Project Manager window appears, but cannot connect to sample templates.
+Can&#39;t connect to host: https://godotengine.org/asset-library/api  Looks like the same as #7545, but on OS X instead of Windows</description>
+    </item>
+    
+    <item>
+      <title>fixed a bug that I missed due to lack of testing</title>
+      <link>https://new.robnugen.com/journal/2016/01/13/fixed-a-bug-that-i-missed-due-to-lack-of-testing/</link>
+      <pubDate>Wed, 13 Jan 2016 18:50:53 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/13/fixed-a-bug-that-i-missed-due-to-lack-of-testing/</guid>
+      <description>18:50 Wednesday 13 January 2016 JST Oops shit. I didn&amp;rsquo;t fully test the system before putting admin server live. That shit won&amp;rsquo;t happen again because I&amp;rsquo;ve got Ghost Inspector on my side, helping me inspect the site. I&amp;rsquo;ve taught it how to test logging in, fucking up the log in, viewing the units list, and the unit edit page, as well as the group-of-units list and the group-of-units edit page.</description>
+    </item>
+    
+    <item>
+      <title>missed the point</title>
+      <link>https://new.robnugen.com/journal/2016/01/13/missed-the-point/</link>
+      <pubDate>Wed, 13 Jan 2016 16:33:22 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/13/missed-the-point/</guid>
+      <description>16:33 Wednesday 13 January 2016 JST Now, I&amp;rsquo;m not 100% sure this is a bug, but I reported to AWS a few days ago:
+S3 bug: cannot create two lifecycle rules that apply to whole S3 bucket  That&amp;rsquo;s just the title; I spelled it out a bit in the body of the message.
+But today I got back a steaming pile of useless reply:
+Hello Rob, This is ______ from the AWS Billing Department.</description>
+    </item>
+    
+    <item>
+      <title>Yikes stripes I found an old bug</title>
+      <link>https://new.robnugen.com/journal/2015/11/11/yikes-stripes-i-found-an-old-bug/</link>
+      <pubDate>Wed, 11 Nov 2015 15:45:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/11/yikes-stripes-i-found-an-old-bug/</guid>
+      <description>15:45 Wednesday 11 November 2015 JST Man oh man I&amp;rsquo;m lucky there aren&amp;rsquo;t that many affected rows, but when AB client requested that four fields in their main table allow DECIMAL values and not just INTegers, I didn&amp;rsquo;t change the summary-of-main-table in the same way. So each time a record was saved to main table, its summary was saved with truncated values in those fields.
+Dang.
+Fortunately, there aren&amp;rsquo;t many times that decimal values are needed in those fields.</description>
+    </item>
+    
+    <item>
+      <title>Played Pop Pop Chaos with rancidpony</title>
+      <link>https://new.robnugen.com/journal/2015/09/01/played-pop-pop-chaos-with-rancidpony/</link>
+      <pubDate>Tue, 01 Sep 2015 18:29:52 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/09/01/played-pop-pop-chaos-with-rancidpony/</guid>
+      <description>18:29 Tuesday 01 September 2015 JST A couple days ago I noted someone burst a bubble on Pop Pop Chaos, so I joined the fun! It seemed s/he was only interested in bursting bubbles, not creating them, so I created some, and then joined the fun and we just popped alll the bubbles. The white ones kept coming back, as they do, but then after a while I created a bunch of blue bubbles in a row, so he&amp;rsquo;d (be more likely to) know it wasn&amp;rsquo;t computer-generated bubbles, well.</description>
+    </item>
+    
+    <item>
+      <title>AB error</title>
+      <link>https://new.robnugen.com/journal/2014/12/06/ab-error/</link>
+      <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/12/06/ab-error/</guid>
+      <description>##01:22 Saturday 06 December 2014 JST##
+Hmm my automagical report generator doesn&amp;rsquo;t automagically pull in the buildings table when users request # of minutes to station, which requires the building ID to look up the stations.</description>
+    </item>
+    
+  </channel>
+</rss>

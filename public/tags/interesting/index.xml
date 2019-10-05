@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/interesting/</link>
+    <description>Recent content in interesting on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 01:41:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>zeronet.io</title>
+      <link>https://new.robnugen.com/journal/2017/09/17/zeronet.io/</link>
+      <pubDate>Sun, 17 Sep 2017 01:41:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/09/17/zeronet.io/</guid>
+      <description>01:41 Sunday 17 September 2017 JST Huh. Zeronet seems interesting.</description>
+    </item>
+    
+  </channel>
+</rss>

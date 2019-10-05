@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mlaphp on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mlaphp/</link>
+    <description>Recent content in mlaphp on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 17:37:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mlaphp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>worked on AB</title>
+      <link>https://new.robnugen.com/journal/2018/10/30/worked-on-ab/</link>
+      <pubDate>Tue, 30 Oct 2018 17:37:58 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/10/30/worked-on-ab/</guid>
+      <description>17:37 Tuesday 30 October 2018 JST Still going through MLAPHP for the AB project. I guess I am about halfway through the step of naming all the class definition files so they can be loaded via the autoloader.
+During this process I found Mabl which features a short domain name and some tools for automated testing. Pretty easy onboarding, and they are giving the site a good onceover every day.</description>
+    </item>
+    
+  </channel>
+</rss>

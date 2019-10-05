@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rabsef-linmyn on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/rabsef-linmyn/</link>
+    <description>Recent content in rabsef-linmyn on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 14:10:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/rabsef-linmyn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>urbit ~rabsef-linmyn</title>
+      <link>https://new.robnugen.com/journal/2019/04/12/urbit-~rabsef-linmyn/</link>
+      <pubDate>Fri, 12 Apr 2019 14:10:53 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/04/12/urbit-~rabsef-linmyn/</guid>
+      <description>14:10 Friday 12 April 2019 JST I got my urbit planet running the other day on my local machine. After some playing around I determined that I should be able to run it on AWS on a t2.micro which fits within their free tier.</description>
+    </item>
+    
+    <item>
+      <title>;join ~dopzod/urbit-help ... but still not connected to talk</title>
+      <link>https://new.robnugen.com/journal/2019/04/10/join-~dopzod/urbit-help-...-but-still-not-connected-to-talk/</link>
+      <pubDate>Wed, 10 Apr 2019 23:14:08 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/04/10/join-~dopzod/urbit-help-...-but-still-not-connected-to-talk/</guid>
+      <description>23:14 Wednesday 10 April 2019 JST I tried ;join /urbit-talk
+I then followed this tweet ;join ~dopzod/urbit-help
+But when I type in the talk&amp;gt; field, I do not see my posts anywhere.
+Later I saw
+[%dead-request [i=//http/0v14.urbt1/36/1 t=~]]  log is below:
+$ urbit rabsef-linmyn/ ~ urbit 0.7.3 boot: home is /Users/thunderrabbit/urbit/rabsef-linmyn loom: mapped 2048MB boot: protected loom live: loaded: MB/254.885.888 boot: installed 258 jets arvo: time: ~2019.4.10..13.36.55..1b86 rest: checkpoint at event 13.</description>
+    </item>
+    
+  </channel>
+</rss>

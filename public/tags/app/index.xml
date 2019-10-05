@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>app on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/app/</link>
+    <description>Recent content in app on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Aug 2018 23:38:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>audible needs too many permissions on Android app</title>
+      <link>https://new.robnugen.com/journal/2018/08/21/audible-needs-too-many-permissions-on-android-app/</link>
+      <pubDate>Tue, 21 Aug 2018 23:38:53 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/08/21/audible-needs-too-many-permissions-on-android-app/</guid>
+      <description>23:38 Tuesday 21 August 2018 JST Audible requests too many permissions on Android Audible app.
+Why do you need my identity? My contacts? My microphone? My call information?
+ Identity Uses one or more of: accounts on the device, profile data Contacts Uses contact information Microphone Uses the device&amp;rsquo;s microphone(s) Device ID &amp;amp; call information Allows the app to determine the phone number and device IDs, whether a call is active, and the remote number connected by a call</description>
+    </item>
+    
+    <item>
+      <title>drops app price confusion</title>
+      <link>https://new.robnugen.com/journal/2018/08/03/drops-app-price-confusion/</link>
+      <pubDate>Fri, 03 Aug 2018 21:45:05 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/08/03/drops-app-price-confusion/</guid>
+      <description>21:45 Friday 03 August 2018 JST Apparently there is a big sale on Drops.
+
+From me to Drops via their in-game help
+Pricing is incorrect in Japanese yen 0.367 yen is like US$0.00367 I can do with that price! ;-)  I was impressed with how quickly I got a reply!
+Hi, Thanks for playing Drops and contacting us! We&#39;re really sorry about any confusion and inconvenience! What you see in the app is the price for one month in your currency, but the total for the yearly subscription is billed as one up-front payment for the full year at the time of subscribing.</description>
+    </item>
+    
+    <item>
+      <title>working on mobile app</title>
+      <link>https://new.robnugen.com/journal/2018/04/26/working-on-mobile-app/</link>
+      <pubDate>Thu, 26 Apr 2018 10:44:13 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/04/26/working-on-mobile-app/</guid>
+      <description>10:44 Thursday 26 April 2018 JST Woke up early to come out to Kawasaki so I could meet with Oriane, Cyber Knights, and Court of Support before meeting Tariq at 11:30.
+We&amp;rsquo;ll have a good chunk of time (per my schedule) though I do not know how much time he will have.
+I plan to get some app stuff or AB done today.</description>
+    </item>
+    
+    <item>
+      <title>app plans for new game with Tariq</title>
+      <link>https://new.robnugen.com/journal/2017/11/17/app-plans-for-new-game-with-tariq/</link>
+      <pubDate>Fri, 17 Nov 2017 20:36:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/11/17/app-plans-for-new-game-with-tariq/</guid>
+      <description>20:36 Friday 17 November 2017 JST Tariq and I have what I hope is an interesting game idea. That&amp;rsquo;s why I have been messing with Godot Engine. Hopefully I can get up to speed on it soon enough.
+We are trying to figure out how to allow users to sell items on the app.</description>
+    </item>
+    
+    <item>
+      <title>worked on Apple Memory</title>
+      <link>https://new.robnugen.com/journal/2017/07/27/worked-on-apple-memory/</link>
+      <pubDate>Thu, 27 Jul 2017 17:51:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/27/worked-on-apple-memory/</guid>
+      <description>17:51 Thursday 27 July 2017 JST After lunch with Esther I worked on Apple Memory for 90 minutes. Got three instances of deprecated code replaced with ((what I assume is) soon-to-be deprecated) code.</description>
+    </item>
+    
+    <item>
+      <title>met at tariq&#39;s</title>
+      <link>https://new.robnugen.com/journal/2016/11/21/met-at-tariqs/</link>
+      <pubDate>Mon, 21 Nov 2016 12:13:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/21/met-at-tariqs/</guid>
+      <description>12:13 Monday 21 November 2016 JST I went to Tariq&amp;rsquo;s early this morning to work on 楽しい英語, an app I&amp;rsquo;m writing in Swift. The first version has been approved, but we will create a better version before releasing this one.</description>
+    </item>
+    
+    <item>
+      <title>Apple TV app</title>
+      <link>https://new.robnugen.com/journal/2015/11/28/apple-tv-app/</link>
+      <pubDate>Sat, 28 Nov 2015 16:28:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/28/apple-tv-app/</guid>
+      <description>16:28 Saturday 28 November 2015 JST I&amp;rsquo;m a bit closer on the Apple TV app. Now I&amp;rsquo;ve got two tests which run on the same engine. Need to add some excitement-inducing countdown or something to prep the player for the beginning of the test.</description>
+    </item>
+    
+  </channel>
+</rss>

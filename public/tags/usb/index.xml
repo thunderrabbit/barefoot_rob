@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usb on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/usb/</link>
+    <description>Recent content in usb on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Sep 2019 06:20:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/usb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>reboot fixed USB yay</title>
+      <link>https://new.robnugen.com/journal/2019/09/23/reboot-fixed-usb-yay/</link>
+      <pubDate>Mon, 23 Sep 2019 06:20:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/23/reboot-fixed-usb-yay/</guid>
+      <description>Actually I am writing this before the reboot. Let&amp;rsquo;s see&amp;hellip;
+17:39 next day The reboot didn&amp;rsquo;t help, but turning off one of my USB cameras helped. Hard to know what is causing the issue.
+It seems like it might be this USB 4-splitter I got. What types of things would cause it to suddenly fail?</description>
+    </item>
+    
+    <item>
+      <title>tech moe joe</title>
+      <link>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</link>
+      <pubDate>Sun, 22 Sep 2019 23:44:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</guid>
+      <description>(written 23:44 Sunday 22 September 2019 JST)
+Moe Joe. AB server ELB is causing or revealing 502s. Locally, I rebooted my elderly Macbook and the USB cable is still not working. I reset the printer system and the printer still will not print. I tried to copy a document and the printer would not copy it. And latest version of Hugo is not creating my website subdirectories (/journal or /blog).</description>
+    </item>
+    
+    <item>
+      <title>new solo keys</title>
+      <link>https://new.robnugen.com/journal/2019/01/17/new-solo-keys/</link>
+      <pubDate>Thu, 17 Jan 2019 08:23:41 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/01/17/new-solo-keys/</guid>
+      <description>08:23 Thursday 17 January 2019 JST I got my new solo keys! But now my USB keyboard is not working. Going to reboot now.</description>
+    </item>
+    
+    <item>
+      <title>Anker hub pre sales question</title>
+      <link>https://new.robnugen.com/journal/2015/10/04/anker-hub-pre-sales-question/</link>
+      <pubDate>Sun, 04 Oct 2015 00:15:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/04/anker-hub-pre-sales-question/</guid>
+      <description>00:15 Sunday 04 October 2015 JST to: support
+subject: pre-sales questions about Anker USB 3.0 9-Port Hub + 5V 2.1A Charging Port
+Your hub at https://www.ianker.com/product/68ANHUB-B10A won lifehacker&#39;s poll (https://lifehacker.com/most-popular-usb-hub-anker-7-port-and-9-port-powered-u-1433052505), and you seem to have a lot of fans on Twitter, so I&#39;m about 10 minutes from making a purchase! BUT, I want to confirm that this product, will, in fact, solve my USB problems. I would like to connect multiple devices to my computer: * Apple USB keyboard * small elecom Mouse (daisy-chained to keyboard) * iPhone 4S (soon to be upgraded to Android something something) * Logicool USB camera * printer (with its own power supply) * iPad or some other tablet However, I cannot currently do so with a non-powered USB splitter.</description>
+    </item>
+    
+    <item>
+      <title>hahah new wifi antenna</title>
+      <link>https://new.robnugen.com/journal/2015/05/28/hahah-new-wifi-antenna/</link>
+      <pubDate>Thu, 28 May 2015 17:47:23 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/28/hahah-new-wifi-antenna/</guid>
+      <description>17:47 Thursday 28 May 2015 JST The usb connector is two times bigger than the wifi antenna (housing) itself.</description>
+    </item>
+    
+  </channel>
+</rss>

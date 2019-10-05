@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/linux/</link>
+    <description>Recent content in linux on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2017 13:06:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux on the in-flight system</title>
+      <link>https://new.robnugen.com/journal/2017/10/06/linux-on-the-in-flight-system/</link>
+      <pubDate>Fri, 06 Oct 2017 13:06:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/06/linux-on-the-in-flight-system/</guid>
+      <description>13:06 Friday 06 October 2017 JST My inflight entertainment system rebooted itself and I got a few pics of the logs. Looks like it&amp;rsquo;s running X Window on Linux. Seems reasonable. Weird that mine rebooted while it seems none of the others did. Do we each have our own virtual server?</description>
+    </item>
+    
+    <item>
+      <title>might be able to run os x on Linux</title>
+      <link>https://new.robnugen.com/journal/2016/11/12/might-be-able-to-run-os-x-on-linux/</link>
+      <pubDate>Sat, 12 Nov 2016 00:47:32 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/12/might-be-able-to-run-os-x-on-linux/</guid>
+      <description>00:47 Saturday 12 November 2016 JST https://techsviewer.com/how-to-install-mac-os-x-el-capitan-on-pc-on-virtualbox/
+summary:
+OS X 10.11 Image: Google Drive (One Full): https://goo.gl/lWQRew Google Drive (7 of 7 Part): https://goo.gl/cHWXrx Fix Download Limit: https://techsviewer.com/fix-download-limit Torren.t: https://goo.gl/WH5bWc</description>
+    </item>
+    
+    <item>
+      <title>yay linux</title>
+      <link>https://new.robnugen.com/journal/1999/06/02/yay-linux/</link>
+      <pubDate>Wed, 02 Jun 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/1999/06/02/yay-linux/</guid>
+      <description>18:36 Wednesday 2 June 1999
+Yay!
+After pretty much working on it all day, I got my linux box up and running ppp, I downloaded netscape, installed it, created user accounts for myself and Wende, and all is great!!
+I&amp;rsquo;ve even customized things a bit more this time around (as opposed to last time I had linux on my machine) making it easier to set up new accounts and stuff. I&amp;rsquo;m happy.</description>
+    </item>
+    
+    <item>
+      <title>linux again</title>
+      <link>https://new.robnugen.com/journal/1999/05/27/linux-again/</link>
+      <pubDate>Thu, 27 May 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/1999/05/27/linux-again/</guid>
+      <description>Thursday 27 May 1999
+Back some months (year?) ago, I worked on installing Linux and Windows on one machine. I had big problems at first with Windows trying to be the main boot manager, but finally was able to get it to all work in relative harmony. When I installed Windows 98 on the same machine, intending for it to replace only the Windows 95 partition, tragedy struck, I lost Linux accessibility altogether, and Win98 was unstable like anything, so I started from scratch again.</description>
+    </item>
+    
+    <item>
+      <title>linux grr</title>
+      <link>https://new.robnugen.com/journal/1999/05/27/linux-grr/</link>
+      <pubDate>Thu, 27 May 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/1999/05/27/linux-grr/</guid>
+      <description>27 May 1999
+The machine I wanted to convert to linux, apparently, for no apparent reason, has broken.
+It was so cute - Win 95 with almost no drivers, almost nothing on the disk.. I copied to floppies a couple of files that I wanted to keep, and I was ready to install linux.
+Taking an inventory of the machine, I booted it a couple times to see what chipset was on the video card.</description>
+    </item>
+    
+  </channel>
+</rss>

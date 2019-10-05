@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mint on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mint/</link>
+    <description>Recent content in mint on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2015 08:30:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux Mint byebye</title>
+      <link>https://new.robnugen.com/journal/2015/05/30/linux-mint-byebye/</link>
+      <pubDate>Sat, 30 May 2015 08:30:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/30/linux-mint-byebye/</guid>
+      <description>08:30 Saturday 30 May 2015 JST Cinnamon, used by default in Linux Mint, seemed too restrictive in its options. But I guess the worst part: I couldn&amp;rsquo;t figure out how to open an application without using my mouse. I could press the alt button once, then type the name of the app and see its icon, but not actually activate it.
+I like how Gnome (Classic), installed by default with my current Debian install disk, will activate the app if I press the enter key.</description>
+    </item>
+    
+  </channel>
+</rss>

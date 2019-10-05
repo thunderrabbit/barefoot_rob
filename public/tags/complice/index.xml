@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complice on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/complice/</link>
+    <description>Recent content in complice on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 May 2018 12:53:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/complice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>complice staleness</title>
+      <link>https://new.robnugen.com/journal/2018/05/13/complice-staleness/</link>
+      <pubDate>Sun, 13 May 2018 12:53:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/05/13/complice-staleness/</guid>
+      <description>12:53 Sunday 13 May 2018 JST I wrote this:
+ I have been using Complice for a while and I am at a stage where I am reminded to do a few things that I might not have remembered, but I am not excited to craft my things to do.
+I think part of the problem is I have a bunch of stuff coming in from Workflowy, which includes little reminders (wear a belt, which I sometimes forget) and (do not eat after 9pm, which I sometimes ignore)</description>
+    </item>
+    
+    <item>
+      <title>on track to finish entire list</title>
+      <link>https://new.robnugen.com/journal/2018/03/01/on-track-to-finish-entire-list/</link>
+      <pubDate>Thu, 01 Mar 2018 14:18:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/01/on-track-to-finish-entire-list/</guid>
+      <description>14:18 Thursday 01 March 2018 JST I am on track to finish my todo list today on Complice. I got my AB work complete, though there is the possibility they will want one more change on it. I am prepared for work tomorrow and now just gotta write this journal entry, studying Japanese, work tonight, Japanese lesson tonight with Mel, ..
+I watched episode 6(?) of Kakegurui. They did not have the subtitles added yet, but I could understand the overall meaning because the acting is so over-the-top, plus explained visually (given that it&amp;rsquo;s a tv show)</description>
+    </item>
+    
+    <item>
+      <title>complice workshop</title>
+      <link>https://new.robnugen.com/journal/2018/02/25/complice-workshop/</link>
+      <pubDate>Sun, 25 Feb 2018 21:39:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/25/complice-workshop/</guid>
+      <description>21:39 Sunday 25 February 2018 JST The complice workshop was pretty good and gave heaps of information about how to get shiz done. Kinda like info overload, but certainly not a boring event! I bought a year membership for $120 to keep using them. Check out https://complice.co/?r=pgej30cphu (referral link) to get three weeks trial.
+After the workshop, I got the email viewer done for AB and pushed it to live server.</description>
+    </item>
+    
+    <item>
+      <title>productive day</title>
+      <link>https://new.robnugen.com/journal/2018/02/17/productive-day/</link>
+      <pubDate>Sat, 17 Feb 2018 16:20:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/17/productive-day/</guid>
+      <description>16:20 Saturday 17 February 2018 JST Did five pomodoros on ConSwi today, including refactoring the code to ostensibly make it simpler, but for some reason I could not get the tiles to respond to touches. So I will try to make an overlay that captures all touches and have it tell which piece got touched.
+Complice(referral link) has a neat feature of parsing the Intention and automatically marking it as complete.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pagination on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/pagination/</link>
+    <description>Recent content in pagination on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 14:13:45 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I think I fixed pagination on my site</title>
+      <link>https://new.robnugen.com/journal/2019/10/02/i-think-i-fixed-pagination-on-my-site/</link>
+      <pubDate>Wed, 02 Oct 2019 14:13:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/10/02/i-think-i-fixed-pagination-on-my-site/</guid>
+      <description>(written 14:13 Wednesday 02 October 2019 JST)
+Well it has taken longer than I wanted, but I learned that I can get lots of code samples by searching GitHub. For some reason dredging through the documentation did not work for me. It&amp;rsquo;s like there&amp;rsquo;s tons of pieces and various similar words and my little brain is like ummmmmmmmmmmmm
+but digging through Github like https://github.com/search?p=6&amp;amp;q=where+site.RegularPages+%22Type%22+%22in%22+.Site.Params.mainSections&amp;amp;type=Code
+or https://github.com/search?q=paginator+Paginate+internal+pagination&amp;amp;type=Code
+and boom lots of examples and I got it sorted in less than an hour.</description>
+    </item>
+    
+    <item>
+      <title>Hugo top page correctly paginates only one section</title>
+      <link>https://new.robnugen.com/journal/2019/07/05/hugo-top-page-correctly-paginates-only-one-section/</link>
+      <pubDate>Fri, 05 Jul 2019 01:05:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/07/05/hugo-top-page-correctly-paginates-only-one-section/</guid>
+      <description>01:05 Friday 05 July 2019 JST Nice. I got Hugo pagination figured out. Go figure that the documentation for pagination would have the right answer.
+https://gohugo.io/templates/pagination/
+https://bitbucket.org/thunderrabbit/purehugo/src/16559a8ffa3ec74f57af7398a90f259f41972675/layouts/index.html#lines-10</description>
+    </item>
+    
+  </channel>
+</rss>

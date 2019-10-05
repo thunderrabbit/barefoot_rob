@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>how to on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/how-to/</link>
+    <description>Recent content in how to on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2019 17:26:33 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helping people see past lives?</title>
+      <link>https://new.robnugen.com/blog/2019/09/07/helping-people-see-past-lives/</link>
+      <pubDate>Sat, 07 Sep 2019 17:26:33 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/blog/2019/09/07/helping-people-see-past-lives/</guid>
+      <description>I put a question mark on the title because I cannot really prove the visions are related to past lives, but this is a fun way to guide people through a process to see what could be their past lives.
+Each participant gets into a relaxed position, usually either sitting in a chair, or laying down, or otherwise sitting against something comfortable. Spend a few minutes leading the participants through a relaxation process, whereby they let their bodies relax and keep their minds awake.</description>
+    </item>
+    
+    <item>
+      <title>How to set the server key on Brother scanner</title>
+      <link>https://new.robnugen.com/journal/2019/08/08/how-to-set-the-server-key-on-brother-scanner/</link>
+      <pubDate>Thu, 08 Aug 2019 13:07:20 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/08/08/how-to-set-the-server-key-on-brother-scanner/</guid>
+      <description>13:07 Thursday 08 August 2019 JST Dreamhosts lists their server key as something like
+canyonville.dreamhost.com,64.90.48.21 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABA&amp;hellip;&amp;hellip;
+But in order to install it on my Brother printer for its scan-to-sftp function, the key needed to start with ssh-rsa. So I removed &amp;ldquo;canyonville&amp;hellip;..21&amp;rdquo; from the front of the key and it works fine.
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnJdr5AbHwfaU+F+pv4BzcgNnPBBvbCh7&amp;hellip;&amp;hellip;
+Is Dreamhost confused about how to show their server keys? Is Brother behind the times in accepting latest standards?</description>
+    </item>
+    
+    <item>
+      <title>How to have lucid dreams</title>
+      <link>https://new.robnugen.com/blog/2019/08/07/how-to-have-lucid-dreams/</link>
+      <pubDate>Wed, 07 Aug 2019 07:59:41 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/blog/2019/08/07/how-to-have-lucid-dreams/</guid>
+      <description>Have you ever found yourself flying like a bird, only to later realize it was a dream?
+Have you been chased by &amp;ldquo;bad guys&amp;rdquo; or haunted by scary situations in your dreams?
+&amp;ldquo;Lucid dreaming&amp;rdquo; is a state of dreaming while being aware that you are dreaming. Lucid dreaming allows me to have more fun flying dreams and fewer scary dreams. This is how I got started:
+There are a few techniques I have used at different times of my life.</description>
+    </item>
+    
+  </channel>
+</rss>

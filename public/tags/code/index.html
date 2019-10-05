@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>code &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="code &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="code &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">12 Mar 2015, 17:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/03/12/hit-it-with-a-hammer-solution/" class="post-title">hit it with a hammer solution</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##17:27 Thursday 12 March 2015 JST##</p>
+
+<p>For the md5 count thing, /u/Thespoian gave me a brilliant insite.
+Whereas I had been trying to go through <em>all</em> the combinations of
+uppercase/lowercase, first recursively, then with a &ldquo;brillian&rdquo;
+bitshifting method, he had just been randomly selecting letters and
+changing their case pseudorandomly.</p>
+
+<p>I was going for user-friendly GUI.  My way (written in Javascript,)
+was bloated, slow and often locked up Chrome.  He was going for
+getrdone.  His way is quick a brilliant!  He sent me some code which I
+modified below to deal with changing case in two subsections of the
+string.</p>
+
+<pre><code>#!/usr/bin/perl
+
+ # Functional style
+use Digest::MD5 qw(md5 md5_hex md5_base64);
+
+
+$search=154;
+
+$p1 = &quot;The strident guy &quot;;
+$p2 = &quot;strode&quot;;
+$p3 = &quot; into the bar, and the punctual girl &quot;;
+$p4 = &quot;punched&quot;;
+$p5 = &quot; it!&quot;;
+
+$len2 = length($p2);
+$len4 = length($p4);
+
+while (1){
+   $count++;
+   $pos =  int(rand($len2));
+   if ($count %2) {
+      substr ($p2, $pos, 1) = ucfirst ( substr ($p2, $pos, 1));
+   } else {
+      substr ($p2, $pos, 1) = lcfirst ( substr ($p2, $pos, 1));
+   }
+
+   $pos =  int(rand($len4));
+   if ($count %2) {
+      substr ($p4, $pos, 1) = ucfirst ( substr ($p4, $pos, 1));
+   } else {
+      substr ($p4, $pos, 1) = lcfirst ( substr ($p4, $pos, 1));
+   }
+
+   $try = $p1 . $p2 . $p3 . $p4 . $p5;
+   $res =  md5_hex($try);
+
+   if ($res =~ /$search$/) {
+      print &quot;count: $count  $res  - $search - answer: $try\n&quot;;
+      exit;
+   }
+}
+</code></pre>
+
+<p>I think I&rsquo;ll try to incorporate some aspect of this logic in my
+code&hellip; but is that just going for bloat?  bah.</p>
+
+<p>Hmmm actually I&rsquo;m not sure how I&rsquo;d explain to the script what I
+wanted.</p>
+
+<p>Right now I send it two things:</p>
+
+<pre><code>./md5nder.pl  &quot;This string references a ADJECTIVE NOUN.&quot;  156
+</code></pre>
+
+<p>&ldquo;This string references a ADJECTIVE NOUN.&rdquo; is my target template.  The
+script will place consecutive adjectives and nouns into the template,
+then hash the resulting strings to see if the hash ends with 156:</p>
+
+<pre><code>3a69cefa82802a39c4e4f9c8eaac0156    -&gt;   This string references a vulgar word.
+a32b170aa9dc979f3abbb6d5a7542156    -&gt;   This string references a ritzy fat.
+07a47404f80c45dd18f8f8a439909156    -&gt;   This string references a macabre name.
+14c294fddaff19c4ce8a67e80d6af156    -&gt;   This string references a entertaining school.
+01f9ff03f0e5c1bee3d4f16059820156    -&gt;   This string references a old practice.
+0fec2dd2e6fb778d608c310587230156    -&gt;   This string references a handsome sense.
+eaa7d7d510fe336d741a803201f68156    -&gt;   This string references a observant service.
+e74ce2db215c288aa8ff7cb452c58156    -&gt;   This string references a noiseless house.
+ff77d7da707a5d95ad92f9bd746a4156    -&gt;   This string references a slim house.
+205a06a3aeeecd83f93a6dfddc1ca156    -&gt;   This string references a damp page.
+02302dbf19e4247ef16766806230c156    -&gt;   This string references a erratic page.
+d2270e34f8729becc2d11d03887bc156    -&gt;   This string references a paltry page.
+6114a4f1b1775ea76c254345f1b84156    -&gt;   This string references a goofy test.
+</code></pre>
+
+<p>Because I have a list of like 1500 adjectives and 1000 nouns or
+something, it has a million combinations to check, and finds a hash
+match once out of about 4000 sentences.</p>
+
+<p>But sometimes I want to have a template without changing the words in
+the text.</p>
+
+<p>I could send an extra parameter which says changing caps is okay, or a
+more complex parameter which says which caps are okay to change.</p>
+
+<p>Maybe I could tell it which words are okay to change:</p>
+
+<p>This</p>
+
+<pre><code>./md5nder.pl  &quot;This string references a ADJECTIVE NOUN.&quot;  156  010001
+</code></pre>
+
+<p>could mean it&rsquo;s okay to change the case of &ldquo;string&rdquo; and whatever nouns
+were used as the last word.</p>
+
+<p>I think I should use named parameters if I go much further than this.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">26 Feb 2015, 17:39</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/02/26/going-mad/" class="post-title">going mad</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##17:39 Thursday 26 February 2015 JST##</p>
+
+<p>I&rsquo;m not really going mad, but I realize the code I am trying to write
+for the MD5 count thing is like a madlib.  I want to take a string and
+replace tokens with example words.</p>
+
+<p>Only difference: I want to do a combination of <em>all</em> the options.
+Essentially</p>
+
+<pre><code>foreach adjective in my list of adjectives:
+    for each noun in my list of nouns:
+        fill in the adjective and noun in template
+</code></pre>
+
+<p>So I end up with length-adjectives * length-nouns sentences, each of
+which I will md5 and see if it can work for the next MD5 count.</p>
+
+<p>I was thinking of using <code>map</code> to map my template from the list of
+adjectives, but then essentially I have a shitton of memory being
+used.  I don&rsquo;t need to keep <em>any</em> of the strings in memory; just check
+each one and poop it out if it&rsquo;s good.</p>
+
+<p>So far, I&rsquo;m able to split the input string into an array on the tokens
+and keep the tokens cause I need to fill them in later:</p>
+
+<pre><code>my %files = (
+    'ADJECTIVE' =&gt; 'adjectives.txt',
+    'NOUN'  =&gt; 'nouns.txt',
+    'VERB'  =&gt; 'verbs.txt'
+);
+
+my @replaceable_tokens = keys %files;
+
+# Will be 'ADJECTIVE|NOUN|VERB' for use in split regex
+my $replaceable_tokens_ORed = join('|',@replaceable_tokens);        
+
+# grab two unnamed command line parameters
+my ($string, $target) = @ARGV;      
+
+# tokenize the input string while keeping tokens
+my @tokenized_string = split(/($replaceable_tokens_ORed)/, $string);
+</code></pre>
+
+<p>Next I will make a variable for each of the tokens which will act as a
+counter for the corresponding list of words.</p>
+
+<p>I don&rsquo;t yet have a smart way to loop through a variable number of
+loops, though I think that will have to come next.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">27 Jan 2015, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/01/27/hour-of-code/" class="post-title">hour of code</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##12:42 Tuesday 27 January 2015 JST##</p>
+
+<p>Easy way to learn imperative programming concepts:  <a href="https://studio.code.org/hoc/1">Hour of Code</a></p>
+
+<p><a href="https://code.org/printcertificate/38ad371ed1b0c227ad7594dfc8e646dc"><img src="/images/2015/01/thumbs/hour_of_code.png" alt="Certificate" /></a></p>
+
+<p>If original is missing, try <a href="/images/2015/01/hour_of_code.png">grayscale version</a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">05 Jan 2015, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/01/05/subsite/" class="post-title">Subsite</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##21:13 Monday 05 January 2015 JST##</p>
+
+<p>I made a subsite today for AB website.</p>
+
+<p>Not quite finished yet, but it&rsquo;s basically a subset of the AB site,
+but uses the same login system.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 Nov 2014, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2014/11/15/small-extension-to-md5-cheater/" class="post-title">Small extension to md5 cheater</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##22:16 Saturday 15 November 2014 JST##</p>
+
+<p>On the way home from Charu and Toru&rsquo;s house now.  Lin is sleeping
+beside me because her phone is dead (because I used a lot of its
+battery power to have Wifi while at their house).</p>
+
+<p>I&rsquo;m adding some not-very-extendable code to the md5 cheater thing: it will allow selecting which characters to convert. It&rsquo;s not extendable because I&rsquo;ve just hard coded three sets:</p>
+
+<pre><code>[A-Z] -&gt; [a-z]
+[a-z] -&gt; [A-Z]
+[ ] -&gt; []
+</code></pre>
+
+<p>I eventually want to have fine grained control over each letter, but
+my current method of coding it would require an if then chain so long
+that if you laid it out end-to-end, then it would be too long to
+maintain easily:</p>
+
+<pre><code>if(document.getElementById('bigToSmall') &amp;&amp; document.getElementById('smallToBig') &amp;&amp; document.getElementById('spaceToNone')) {
+    r = merge_objects(merge_objects(bigToSmall,smallToBig),spaceToNone);
+} else if(document.getElementById('bigToSmall') &amp;&amp; document.getElementById('smallToBig')) {
+    r = merge_objects(bigToSmall,smallToBig);
+} else if(document.getElementById('bigToSmall') &amp;&amp; document.getElementById('spaceToNone')) {
+    r = merge_objects(smallToBig,spaceToNone);
+} else if(document.getElementById('smallToBig') &amp;&amp; document.getElementById('spaceToNone')) {
+    r = merge_objects(smallToBig,spaceToNone);
+} else if(document.getElementById('bigToSmall')) {
+    r = bigToSmall;
+} else if(document.getElementById('spaceToNone')) {
+    r = spaceToNone;
+} else if(document.getElementById('smallToBig')) {
+    r = smallToBig;
+} else {
+    r = {};
+}
+</code></pre>
+
+<p>If I figure out a smarter way to code it, then I will.</p>
+
+<p>##22:22##</p>
+
+<p>Arriving in Kawasaki now.</p>
+
+<p>##23:09</p>
+
+<p>Oooh I have an idea. I can use JS to create all the checkboxes and
+loop through each one to see which are checked, adding its from -&gt; to
+info to the replacement object.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

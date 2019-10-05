@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 19:52:33 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Got email working on AB test server</title>
+      <link>https://new.robnugen.com/journal/2019/09/09/got-email-working-on-ab-test-server/</link>
+      <pubDate>Mon, 09 Sep 2019 19:52:33 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/09/got-email-working-on-ab-test-server/</guid>
+      <description>(written 19:52 Wednesday 11 September 2019 JST)
+On Monday I got email working with AWS SES. It was pretty much plug-n-play level of easy since I already had a site set up that had been using PHPMailer.
+But eff me I could not figure out what was different from the setup on our old server which was sending emails from itself using Exim no problem.</description>
+    </item>
+    
+    <item>
+      <title>upgrading server</title>
+      <link>https://new.robnugen.com/journal/2016/06/30/upgrading-server/</link>
+      <pubDate>Thu, 30 Jun 2016 13:32:22 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/06/30/upgrading-server/</guid>
+      <description> 13:32 Thursday 30 June 2016 JST Server upgrade seemed to go well, but I was surprised to find it only upgrade to 14.04.4 instead of 16.04.
+oic:
+While an upgrade from 14.04 may successfully complete, upgrades between LTS releases are not enabled by default until the first point release, and it is recommended to wait until the 16.04.1 point release to upgrade.  </description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://new.robnugen.com/journal/2015/05/20/ubuntu/</link>
+      <pubDate>Wed, 20 May 2015 20:49:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/20/ubuntu/</guid>
+      <description>20:49 Wednesday 20 May 2015 JST At home now after having purchased a pack of ten DVD-RW disks so I can overwrite OS X with Ubuntu. Disk is being burned now.
+later The disk worked fine on the Dell box, but would not boot on my MacBook Pro. Fuck that.
+17:23pm next day (I need a quick command key to fill in the date!!)
+I&amp;rsquo;m headed to my GG class, which happens to be in Akihabara.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pong on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/pong/</link>
+    <description>Recent content in pong on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2015 22:51:21 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/pong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ponging</title>
+      <link>https://new.robnugen.com/journal/2015/05/11/ponging/</link>
+      <pubDate>Mon, 11 May 2015 22:51:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/11/ponging/</guid>
+      <description>22:51 Monday 11 May 2015 JST We&amp;rsquo;ve essentially hammered out all the features of pong; though I haven&amp;rsquo;t created tickets for everything, I just need to work through them.
+7:27 am Tuesday 12 May just made tickets</description>
+    </item>
+    
+    <item>
+      <title>Got basic pong AI working</title>
+      <link>https://new.robnugen.com/journal/2015/05/08/got-basic-pong-ai-working/</link>
+      <pubDate>Fri, 08 May 2015 01:29:46 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/08/got-basic-pong-ai-working/</guid>
+      <description>1:29 Friday 08 May 2015 JST Now my AIMoveRacket script looks something like this:
+using UnityEngine; using System.Collections; using System.Collections.Generic; public class AIMoveRacket : MonoBehaviour { public float speed = 30; public float speedIncreaseMax = 50; private GameObject myTarget; private Transform ball; private SliderJoint2D mySlider; // Use this for initialization void Start () { // this slider will keep the paddles moving in precise lines mySlider = gameObject.AddComponent&amp;lt;SliderJoint2D&amp;gt;(); mySlider.connectedAnchor = gameObject.</description>
+    </item>
+    
+    <item>
+      <title>worked on pong yesterday</title>
+      <link>https://new.robnugen.com/journal/2015/05/07/worked-on-pong-yesterday/</link>
+      <pubDate>Thu, 07 May 2015 10:07:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/07/worked-on-pong-yesterday/</guid>
+      <description>10:07 Thursday 07 May 2015 JST Though it&amp;rsquo;s buggy af, I added some more stuff to pong yesterday. RIght now I&amp;rsquo;m super-late studying Japanese so I&amp;rsquo;m going to do that for an hour before posting latest pong.
+12:03pm okay I just studied my anki cards for nearly 2 hours.
+Yesterday I made a version of pong with ai proof of concept.
+16:02 Moe joe. I can&amp;rsquo;t find any way to make unity joints visible during game play.</description>
+    </item>
+    
+    <item>
+      <title>pong with points</title>
+      <link>https://new.robnugen.com/journal/2015/04/23/pong-with-points/</link>
+      <pubDate>Thu, 23 Apr 2015 14:11:03 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/23/pong-with-points/</guid>
+      <description>14:11 Thursday 23 April 2015 JST I made a version of pong with points.
+Next plans are to add a little delay after all balls are lost, add some audio, an options screen to turn off audio, an AI to allow single player mode.</description>
+    </item>
+    
+    <item>
+      <title>pong demo</title>
+      <link>https://new.robnugen.com/journal/2015/04/18/pong-demo/</link>
+      <pubDate>Sat, 18 Apr 2015 12:53:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/18/pong-demo/</guid>
+      <description>12:53 Saturday 18 April 2015 JST My pong demo now spawns the ball in a random direction each time it spawns, and spawns a new ball when the existing ball exits the game area.
+I don&amp;rsquo;t have internet access atm, but I think this URL will let you play pong without scores.</description>
+    </item>
+    
+  </channel>
+</rss>

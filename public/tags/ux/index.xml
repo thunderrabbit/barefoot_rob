@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ux on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/ux/</link>
+    <description>Recent content in ux on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2015 08:41:27 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lost Portal 2 edits</title>
+      <link>https://new.robnugen.com/journal/2015/06/30/lost-portal-2-edits/</link>
+      <pubDate>Tue, 30 Jun 2015 08:41:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/30/lost-portal-2-edits/</guid>
+      <description>08:41 Tuesday 30 June 2015 JST Not sure what happened, but I added a room to my level, exited cleanly from portal 2 and steam, came back, and my changes were gone when I tried to edit the level again.</description>
+    </item>
+    
+    <item>
+      <title>bye bye wayn.com</title>
+      <link>https://new.robnugen.com/journal/2015/06/02/bye-bye-wayn.com/</link>
+      <pubDate>Tue, 02 Jun 2015 09:06:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/02/bye-bye-wayn.com/</guid>
+      <description>09:06 Tuesday 02 June 2015 JST Good luck with your site. I&#39;m blocking you as spam because of the way you set up the email link. My friend wanted to connect with me so I click YES in the email, but the screen to which I am sent is a New Account screen with no login option. I then visited wayn.com directly and via cookies you still said Please Register instead of giving a login screen.</description>
+    </item>
+    
+    <item>
+      <title>Bah Inbox on iOS</title>
+      <link>https://new.robnugen.com/journal/2014/12/20/bah-inbox-on-ios/</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/12/20/bah-inbox-on-ios/</guid>
+      <description>##11:51 Saturday 20 December 2014 JST##
+I wrote a message to Travis using (Google) Inbox. Clicked the + icon and his name was helpfully on the list of people to whom I could write. Bingo. Nice!
+Got a bounce: the address to which the message was composed was Travis&amp;rsquo; old address! That&amp;rsquo;s not helpful! Booo Inbox for suggesting an old address I haven&amp;rsquo;t used in years for Travis.
+So I tried to forward to Travis (new address) the message that I had written to Travis (old address), but I wante d to remove the &amp;ldquo;&amp;mdash; Forwarded message &amp;mdash;&amp;rdquo; header at the top.</description>
+    </item>
+    
+    <item>
+      <title>AWS makin&#39; me crazy</title>
+      <link>https://new.robnugen.com/journal/2014/10/27/aws-makin-me-crazy/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/27/aws-makin-me-crazy/</guid>
+      <description>Why can&amp;rsquo;t I log in to AWS? My password is stored in my password manager; my MFA token is working fine. Moe Joe this is not something I want to fight each time I need to make a change on website. Bah.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aw hell naw on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/aw-hell-naw/</link>
+    <description>Recent content in aw hell naw on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 06:39:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/aw-hell-naw/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginning of the end for using emacs for journal?</title>
+      <link>https://new.robnugen.com/journal/2019/05/08/beginning-of-the-end-for-using-emacs-for-journal/</link>
+      <pubDate>Wed, 08 May 2019 06:39:03 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/05/08/beginning-of-the-end-for-using-emacs-for-journal/</guid>
+      <description>06:39 Wednesday 08 May 2019 JST Emacs is great in many ways. I mostly use dired (Directory Edit) mode, including (bulk) moving and (bulk) renaming files.
+I no longer use it for mail, since mail does not live on my server. Hmm I wonder if &amp;hellip; hmmmm I will ask Fred since I think he still uses Emacs for mail.
+Emacs is great for creating these journal entry templates, and Marble Track 3 episodes and parts.</description>
+    </item>
+    
+  </channel>
+</rss>

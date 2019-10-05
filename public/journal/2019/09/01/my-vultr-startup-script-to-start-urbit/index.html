@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my Vultr startup script to start urbit &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="my Vultr startup script to start urbit &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="my Vultr startup script to start urbit &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">01 Sep 2019, 19:39</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2019/09/01/my-vultr-startup-script-to-start-urbit/" class="post-title">my Vultr startup script to start urbit</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p>I have not used Vultr this month, but they charged me 2 yen.  Maybe
+because I had this startup script on my account.   This script was
+apparently last edited on June 15, 2019.</p>
+
+<pre><code>#!/bin/sh
+
+# create swapspace
+
+apt update -y
+apt upgrade -y
+swapon --show
+fallocate -l 2G /swapfile
+chmod 600 /swapfile
+mkswap /swapfile
+swapon /swapfile
+nano /etc/fstab
+swapon --show
+
+touch ~/000_created_swap
+
+apt install emacs -y
+
+touch ~/010_installed_emacs
+
+# Install Urbit
+apt install g++ -y
+apt install git -y
+apt install libcurl4-gnutls-dev -y
+apt install libgmp3-dev -y
+apt install libncurses5-dev -y
+apt install libsigsegv-dev -y
+apt install libssl-dev -y
+apt install make -y
+apt install openssl -y
+apt install pkg-config -y
+apt install python -y
+apt install python3 -y
+apt install python3-pip -y
+apt install python3-setuptools -y
+apt install zlib1g-dev -y
+apt install ninja-build -y
+
+
+touch ~/020_install_python3
+
+pip3 install --upgrade pip
+pip3 install meson
+
+touch ~/030_installed_meson
+
+git clone https://github.com/urbit/urbit
+cd urbit
+./scripts/bootstrap
+./scripts/build
+ninja -C ./build/ install
+
+# end install urbit
+
+touch ~/040_installed_urbit
+
+
+# create wanbus user
+adduser --disabled-password --shell /bin/bash --gecos &quot;Wan Bus&quot; wanbus
+
+touch ~/050_created_wanbus
+
+# allow wanbus sudo access
+usermod -aG sudo wanbus
+
+echo &quot;&quot; &gt;&gt; /etc/sudoers
+echo &quot;# allow wanbus passwordless sudo&quot; &gt;&gt; /etc/sudoers
+echo &quot;wanbus ALL=(ALL) NOPASSWD:ALL&quot; &gt;&gt; /etc/sudoers
+
+echo &quot;ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDhh1ULPA9zmSKNhK8+rqw9vIRZjLngHiNnwH7jV0fXwTYfTzIW22g4db0b52FZ5voAwSSET907qE2KomMuzmHtqGs9HjOuw+dNJy4+sgsCiDuQAo56Au413+FD5RrJOP29dL39Coh1N74wJTZ+TlUR8aDRK28JN9um8zZwEpTzShPDLR1PIzovN4Z9MUfM6gcDMzRZcHaHoDD3yIhWGMAXJ/QtWVHre4mLIx0nP30VUXhTncGNuwlKgMJSkggM2w7OfPLDLy2PLmrr9sPpt4okK8y+C1ZtNIW99YFbG7uGFPvPntQ3jNrpp34pds4TgjrYJ+CtEssqF50DDn/KZ98PUvP+mH37bUWwVbfu522xIC39D9ctbmBQVBpqsJjuCc5XB5Lv/2rb52LwDuulzJ50YhjYJyGr8zU2n9Vta2WUpBt6veDZ4VrUyu9lTrD18i6FyXkj0wZTEzkf/oOtoMuiqE6/V9wsDr6LJ1u10qv1120YvFA/svUSpn7JQ05CH5wbFHL+0Pby3+oFmRZ6zXlNoNYN+JGXQmIOP/Sq5R/dxBBS6sh3BZ8K1c9KjkapSfKB+lMNZ2nFGqPqcylKy2M9r1k47sdMWF1UHWhB47HVUJfLQPrQwrkmnr+X5PEs5WZQyxwjZwWacYCUQ09shdWuW/Uzlhl1unpd9YFNleSmWQ== thunderrabbit@silver-monkey&quot; &gt;&gt; /home/wanbus/authorized_keys
+
+chown wanbus: /home/wanbus/authorized_keys
+chmod 600 /home/wanbus/authorized_keys
+
+echo &quot;#!/bin/sh
+
+cd ~
+git clone https://github.com/thunderrabbit/new-DH-user-account.git
+cd new-DH-user-account
+./setup.sh
+echo now removing go.sh since its job is done
+rm ~/go.sh
+echo now log off and see if you can log on as wanbus without password&quot; &gt;&gt; /home/wanbus/go.sh
+chmod 755 /home/wanbus/go.sh
+chown wanbus: /home/wanbus/go.sh
+
+touch ~/060_created_gosh
+
+
+echo &quot;#!/bin/sh
+
+python3-pip python3-setuptools zlib1g-dev ninja-build
+sudo -H pip3 install --upgrade pip
+sudo -H pip3 install meson
+
+git clone https://github.com/urbit/urbit
+cd urbit
+./scripts/bootstrap
+./scripts/build
+sudo ninja -C ./build/ install&quot; &gt;&gt;  /home/wanbus/urbit.sh
+chmod 755 /home/wanbus/urbit.sh
+chown wanbus: /home/wanbus/urbit.sh
+
+touch ~/070_created_urbit.sh
+
+touch ~/999_done_script
+</code></pre>
+
+<p>Just in case I decide to use them, I can likely use the script with
+small tweaks to get urbit running again.</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2019/09/02/fasted-yesterday/" rel="prev" style="float: left!important">❮ fasted yesterday</a>
+                  <a href="https://new.robnugen.com/journal/2019/09/01/sogo/" rel="next" style="float: right!important"> SOGO ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

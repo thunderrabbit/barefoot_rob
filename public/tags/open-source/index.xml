@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/open-source/</link>
+    <description>Recent content in open source on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2013 22:43:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>瞑想頑張れ timer is all white atm</title>
+      <link>https://new.robnugen.com/journal/2013/03/14/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-timer-is-all-white-atm/</link>
+      <pubDate>Thu, 14 Mar 2013 22:43:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/03/14/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-timer-is-all-white-atm/</guid>
+      <description>##22:43 Thursday 14 March 2013
+I just added to my issues list an indication that I want to have a bit of color in 瞑想頑張れ. That will be easy squeezy. Gotta create some icons and default.png files, turn off the post to FB stuff, and then I can fuckitship.it.</description>
+    </item>
+    
+    <item>
+      <title>瞑想頑張れ, my soon to be new meditation timer</title>
+      <link>https://new.robnugen.com/journal/2013/03/11/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-my-soon-to-be-new-meditation-timer/</link>
+      <pubDate>Mon, 11 Mar 2013 23:11:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/03/11/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-my-soon-to-be-new-meditation-timer/</guid>
+      <description>##23:11 Monday 11 March 2013
+This weekend I mostly put together what I&amp;rsquo;m calling the 瞑想頑張れ meditation timer, which is a bit like referring to &amp;ldquo;ATM machines&amp;rdquo; but hey at least it&amp;rsquo;s two different languages.
+It&amp;rsquo;s now available on github: 瞑想頑張れ at https://github.com/thunderrabbit/meiso-gambare.
+There are several meditation timers on the app store, but I hadn&amp;rsquo;t found one with the unique feature I wanted.
+Sometimes when I meditate, I really get into it and don&amp;rsquo;t want to stop when the original time is up.</description>
+    </item>
+    
+    <item>
+      <title>youos.com</title>
+      <link>https://new.robnugen.com/journal/2006/07/25/youos.com/</link>
+      <pubDate>Tue, 25 Jul 2006 02:09:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2006/07/25/youos.com/</guid>
+      <description>##02:09 Tuesday 25 July 2006
+youos.com
+This site is awesome.
+What a killa dilla idea! And it&amp;rsquo;s all written in javascript!!
+Blogged with Flock</description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://new.robnugen.com/journal/2005/09/26/themes/</link>
+      <pubDate>Mon, 26 Sep 2005 20:08:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2005/09/26/themes/</guid>
+      <description>##20:08 Monday 26 September 2005
+I just installed the Batavia 1.5 theme. I didn&amp;rsquo;t like the color, but I like the design, especially the little squares around the top of the calendar. Dude said it&amp;rsquo;s easy enough to change the colors, so that&amp;rsquo;s what I did. It wasn&amp;rsquo;t trivial; the feedback loop took a few steps, but I&amp;rsquo;m pretty happy with the colors now.</description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>https://new.robnugen.com/journal/2005/09/26/wordpress/</link>
+      <pubDate>Mon, 26 Sep 2005 18:19:56 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2005/09/26/wordpress/</guid>
+      <description>##18:19 Monday 26 September 2005
+I just installed wordpress from wordpress.org at Dude&amp;rsquo;s suggestion. It looks pretty cool. At first I was like, &amp;ldquo;ain&amp;rsquo;t no way I&amp;rsquo;m gonna revamp all my journal shit, so I ain&amp;rsquo;t installing fuckin&amp;rsquo; wordpress,&amp;rdquo; but then I thought, &amp;ldquo;ain&amp;rsquo;t no way I&amp;rsquo;m gonna revamp all my journal shit, but I could start a non-journal blog on my site, just to keep up with the times.&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

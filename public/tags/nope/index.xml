@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nope on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/nope/</link>
+    <description>Recent content in nope on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Nov 2016 21:49:15 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/nope/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>magnets haven&#39;t arrived yet</title>
+      <link>https://new.robnugen.com/journal/2016/11/16/magnets-havent-arrived-yet/</link>
+      <pubDate>Wed, 16 Nov 2016 21:49:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/16/magnets-havent-arrived-yet/</guid>
+      <description>21:49 Wednesday 16 November 2016 JST Speaking of Home, I asked Lin if my magnets had arrived. They haven&amp;rsquo;t.
+&amp;lt;dog_howling.gif&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>aint got middleman set up on this machine yet</title>
+      <link>https://new.robnugen.com/journal/2015/07/08/aint-got-middleman-set-up-on-this-machine-yet/</link>
+      <pubDate>Wed, 08 Jul 2015 16:43:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/08/aint-got-middleman-set-up-on-this-machine-yet/</guid>
+      <description>16:43 Wednesday 08 July 2015 JST And Emacs app with its own window isn&amp;rsquo;t working either. I&amp;rsquo;m using Emacs within Terminal window via command line. Only bummer is not being able to point and click with mouse to move the point.
+No internet access now, but I may try to install Middleman on here or I might try to install Hugo (is that the fast one?) which I didn&amp;rsquo;t fully finish testing on Debian box before.</description>
+    </item>
+    
+    <item>
+      <title>student no show or something or both</title>
+      <link>https://new.robnugen.com/journal/2015/04/18/student-no-show-or-something-or-both/</link>
+      <pubDate>Sat, 18 Apr 2015 10:35:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/18/student-no-show-or-something-or-both/</guid>
+      <description>10:35 Saturday 18 April 2015 JST I don&amp;rsquo;t see my student where I expected to see her at 10am. Not sure what happened, though I am sure I don&amp;rsquo;t have her name nor phone number. Maybe I shoulda gotta that info last week hahaha.</description>
+    </item>
+    
+  </channel>
+</rss>

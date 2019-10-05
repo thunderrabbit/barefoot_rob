@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wiki on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/wiki/</link>
+    <description>Recent content in wiki on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Sep 2016 11:03:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>upgrading my wiki</title>
+      <link>https://new.robnugen.com/journal/2016/09/17/upgrading-my-wiki/</link>
+      <pubDate>Sat, 17 Sep 2016 11:03:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/09/17/upgrading-my-wiki/</guid>
+      <description>11:03 Saturday 17 September 2016 JST I upgraded the wiki on thunderrabbit.com the other day. Now it&amp;rsquo;s time to upgrade the one on wiki.robnugen.com
+ Rotate ssh key for login Add the login infos to local ~/.ssh/config Effectively disable remote password by setting it to 200+ random characters Backup data Update wiki Yay!  13:47 Yay, but my extension needed a re-tweak. Plus I need to edit all the &amp;gt;permalink&amp;gt; tags to be &amp;gt;permalink/&amp;gt; closed.</description>
+    </item>
+    
+    <item>
+      <title>Added MobileFrontend to my wiki</title>
+      <link>https://new.robnugen.com/journal/2015/12/28/added-mobilefrontend-to-my-wiki/</link>
+      <pubDate>Mon, 28 Dec 2015 09:37:52 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/28/added-mobilefrontend-to-my-wiki/</guid>
+      <description>09:37 Monday 28 December 2015 JST Now the gallery of images visible at https://wiki.robnugen.com/wiki/Category:Art uses fewer columns if the browser window is smaller.</description>
+    </item>
+    
+  </channel>
+</rss>

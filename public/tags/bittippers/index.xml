@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bittippers on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/bittippers/</link>
+    <description>Recent content in bittippers on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Feb 2015 23:07:37 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/bittippers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>done today</title>
+      <link>https://new.robnugen.com/journal/2015/02/23/done-today/</link>
+      <pubDate>Mon, 23 Feb 2015 23:07:37 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/23/done-today/</guid>
+      <description>23:07 Monday 23 February 2015 JST Today I made a repo to help find particular md5 strings for Counting with md5sum. It&amp;rsquo;s my live md5 command line cheater.
+Also gave 10000 bit tip to a man who announced his wife was pregnant.
+And am working on a maze for Angelos, and printed a logo for a photo at Shibuya Crossing tomorrow.
+Okay good night!</description>
+    </item>
+    
+  </channel>
+</rss>

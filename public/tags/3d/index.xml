@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/3d/</link>
+    <description>Recent content in 3d on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finished 3D maze</title>
+      <link>https://new.robnugen.com/journal/2014/11/03/finished-3d-maze/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/03/finished-3d-maze/</guid>
+      <description>##20:26 Monday 03 November 2014 JST##
+Though it&amp;rsquo;s not as smooth as I had hoped, I got a maze made with my gradient on https://www.easystereogrambuilder.com/3d-stereogram-maker.aspx.
+If you can&amp;rsquo;t solve the stereogram, look at the mask for the maze.
+I think the stereogram z-dimension curves look a lot steeper than the mask.</description>
+    </item>
+    
+  </channel>
+</rss>

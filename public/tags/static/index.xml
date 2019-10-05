@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>static on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/static/</link>
+    <description>Recent content in static on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2015 15:29:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/static/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>debating between Hugo and Middleman</title>
+      <link>https://new.robnugen.com/journal/2015/04/06/debating-between-hugo-and-middleman/</link>
+      <pubDate>Mon, 06 Apr 2015 15:29:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/06/debating-between-hugo-and-middleman/</guid>
+      <description>15:29 Monday 06 April 2015 JST I&amp;rsquo;d like to use Hugo because it&amp;rsquo;s faster and places my sample unity games exactly as I would like, but it gives a 404 on the all Japanese filenames I&amp;rsquo;ve been creating recently. Bah. I wonder if that&amp;rsquo;s a simple fix. I sure don&amp;rsquo;t want to cobble/clobber my filenames to fit its whims.
+I&amp;rsquo;d like to use Middleman except it&amp;rsquo;s slower, and puts the unity files in a static/ directory on root instead of on root.</description>
+    </item>
+    
+    <item>
+      <title>Journal entry repo</title>
+      <link>https://new.robnugen.com/journal/2015/02/14/journal-entry-repo/</link>
+      <pubDate>Sat, 14 Feb 2015 18:22:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/14/journal-entry-repo/</guid>
+      <description>##18:22 Saturday 14 February 2015 JST##
+For years, I have been writing my journal entries in directories based on the date. Originally in YYYY/MM directories, and now (temporarily?) in YYYY/MM/DD directories.
+So while recently trying to consolidate all my journal entries, I&amp;rsquo;ve wanted to maintain that directory structure, lest I have several thousand(?) files in one directory.
+Travis got me started on Hakyll, but I&amp;rsquo;m too lazy and he&amp;rsquo;s too busy to update the Haskell source with cool bells and whistles.</description>
+    </item>
+    
+    <item>
+      <title>middleman</title>
+      <link>https://new.robnugen.com/journal/2015/02/10/middleman/</link>
+      <pubDate>Tue, 10 Feb 2015 18:07:37 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/10/middleman/</guid>
+      <description>18:40 Tuesday 10 February 2015 JST I spent the better part of the weekend playing with Middleman, hosted on netlify.
+It does several of the things I want, but no automagic indices on subdirectories and definitely no calendar-shaped navigation.</description>
+    </item>
+    
+    <item>
+      <title>Trying sculpin and pelican</title>
+      <link>https://new.robnugen.com/journal/2014/10/31/trying-sculpin-and-pelican/</link>
+      <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/31/trying-sculpin-and-pelican/</guid>
+      <description>##22:49 Friday 31 October 2014 JST##
+Travis suggested it might be a bit challenging to add pagination and the calendar indices that I want in my journal, and he told me about Pelican in Python and I found Sculpin in PHP.
+I&amp;rsquo;ve installed both of those with the hope that they could just use the same markdown files as my Hakyll site, but they each have slightly different requirements for the meta data.</description>
+    </item>
+    
+  </channel>
+</rss>

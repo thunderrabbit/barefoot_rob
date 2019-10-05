@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/android/</link>
+    <description>Recent content in android on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jan 2018 13:24:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android Installing system update</title>
+      <link>https://new.robnugen.com/journal/2018/01/08/android-installing-system-update/</link>
+      <pubDate>Mon, 08 Jan 2018 13:24:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/01/08/android-installing-system-update/</guid>
+      <description>13:24 Monday 08 January 2018 JST My Android phone is not plugged in, but when I took it out of my pocket, I found it &amp;ldquo;Installing system update&amp;rdquo; with an eye-candy white circle to distract me from the fact that it&amp;rsquo;s doing the update while on battery, without my having asked for the update.
+It&amp;rsquo;s rebooting now, so seems the update completed. I hope!
+13:27 Now it says &amp;ldquo;Android is upgrading&amp;rdquo; with a subtitle &amp;ldquo;Optimizing app 28 of 271&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>budget software</title>
+      <link>https://new.robnugen.com/journal/2017/10/17/budget-software/</link>
+      <pubDate>Tue, 17 Oct 2017 22:52:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/17/budget-software/</guid>
+      <description>22:52 Tuesday 17 October 2017 JST I looked at a few different options and seem to have settled on Mobills</description>
+    </item>
+    
+    <item>
+      <title>started an Android app</title>
+      <link>https://new.robnugen.com/journal/2016/10/24/started-an-android-app/</link>
+      <pubDate>Mon, 24 Oct 2016 12:28:18 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/24/started-an-android-app/</guid>
+      <description>12:28 Monday 24 October 2016 JST So far I&amp;rsquo;ve just got a Hello World app running, along with a single image pulled in via Fresco. Hopefully I can get scp working to send my local images to my server.</description>
+    </item>
+    
+  </channel>
+</rss>

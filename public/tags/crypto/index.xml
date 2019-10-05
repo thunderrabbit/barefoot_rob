@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/crypto/</link>
+    <description>Recent content in crypto on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2017 09:04:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cookin with CPU</title>
+      <link>https://new.robnugen.com/journal/2017/05/23/cookin-with-cpu/</link>
+      <pubDate>Tue, 23 May 2017 09:04:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/05/23/cookin-with-cpu/</guid>
+      <description>09:04 Tuesday 23 May 2017 JST I upgraded my Dogecoin wallet to the latest version, so my CPU is working to catch up all the transactions.</description>
+    </item>
+    
+    <item>
+      <title>z.cash</title>
+      <link>https://new.robnugen.com/journal/2017/05/15/z.cash/</link>
+      <pubDate>Mon, 15 May 2017 19:21:17 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/05/15/z.cash/</guid>
+      <description>19:21 Monday 15 May 2017 JST Okay so my z.cash VM ran out of memory here on my local box, so I will probably spin one up in the cloud. AWS is easiest for me, but maybe I&amp;rsquo;ll take a bit more time to find a less expensive solution. Is Linode a flat rate? Hmmmm. Maybe it&amp;rsquo;s time to get my own one of those.
+12:25 Tuesday 16 May 2017 JST Looks like I am targetting AWS, just because I can hopefully get Ansible to do all the grunt work.</description>
+    </item>
+    
+  </channel>
+</rss>

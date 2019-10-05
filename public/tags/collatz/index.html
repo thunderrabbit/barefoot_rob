@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>collatz &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="collatz &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="collatz &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">25 Aug 2017, 18:15</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/08/25/rivers-of-000000-in-collatz-series/" class="post-title">River(s) of 000000 in Collatz series</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="18-15-friday-25-august-2017-jst">18:15 Friday 25 August 2017 JST</h2>
+
+<p>Messing around with Collatz Conjecture, I came across a river of zeros
+in the result of this one.  Is that common?</p>
+
+<p><a href="https://www.nitrxgen.net/collatz/67399866667876599486667537717549076684092861056351431202759025623047397177935881/">https://www.nitrxgen.net/collatz/67399866667876599486667537717549076684092861056351431202759025623047397177935881/</a></p>
+
+<pre><code> 91: 167172348149023738268218170602359284156167596286878693384519680000018347272
+ 92: 83586174074511869134109085301179642078083798143439346692259840000009173636
+ 93: 41793087037255934567054542650589821039041899071719673346129920000004586818
+ 94: 20896543518627967283527271325294910519520949535859836673064960000002293409
+ 95: 62689630555883901850581813975884731558562848607579510019194880000006880228
+ 96: 31344815277941950925290906987942365779281424303789755009597440000003440114
+ 97: 15672407638970975462645453493971182889640712151894877504798720000001720057
+ 98: 47017222916912926387936360481913548668922136455684632514396160000005160172
+ 99: 23508611458456463193968180240956774334461068227842316257198080000002580086
+100: 11754305729228231596984090120478387167230534113921158128599040000001290043
+101: 35262917187684694790952270361435161501691602341763474385797120000003870130
+102: 17631458593842347395476135180717580750845801170881737192898560000001935065
+103: 52894375781527042186428405542152742252537403512645211578695680000005805196
+104: 26447187890763521093214202771076371126268701756322605789347840000002902598
+105: 13223593945381760546607101385538185563134350878161302894673920000001451299
+106: 39670781836145281639821304156614556689403052634483908684021760000004353898
+107: 19835390918072640819910652078307278344701526317241954342010880000002176949
+108: 59506172754217922459731956234921835034104578951725863026032640000006530848
+109: 29753086377108961229865978117460917517052289475862931513016320000003265424
+110: 14876543188554480614932989058730458758526144737931465756508160000001632712
+</code></pre>
+
+<p>I found it after starting with 2^222 from
+<a href="https://www.tsm-resources.com/alists/pow2.html">https://www.tsm-resources.com/alists/pow2.html</a></p>
+
+<p><a href="https://www.nitrxgen.net/collatz/6739986666787659948666753771754907668409286105635143120275902562304">https://www.nitrxgen.net/collatz/6739986666787659948666753771754907668409286105635143120275902562304</a></p>
+
+<p>and I tacked on some random mostly-odd numbers, 7397177935881, to see what would happen.</p>
+
+<p>So let&rsquo;s see what happens when I tack the same numbers on the end of
+the 2^221</p>
+
+<p><a href="https://www.nitrxgen.net/collatz/33699933333938299743333768858774538342046430528175715601379512811527397177935881/">https://www.nitrxgen.net/collatz/33699933333938299743333768858774538342046430528175715601379512811527397177935881/</a></p>
+
+<p>Well! There they are again..</p>
+
+<p>Okay, how about tacking the same postfix on 2^159.</p>
+
+<p><a href="https://www.nitrxgen.net/collatz/7307508186654514591018424163581415098279662714887397177935881">https://www.nitrxgen.net/collatz/7307508186654514591018424163581415098279662714887397177935881</a></p>
+
+<p>And they they are again.</p>
+
+<p>Okay okay so lemme take all these and mess with the postfix to see if
+the rivers of zeros stay intact.</p>
+
+<ul>
+<li><a href="https://www.nitrxgen.net/collatz/67399866667876599486667537717549076684092861056351431202759025623047397777777777/">https://www.nitrxgen.net/collatz/67399866667876599486667537717549076684092861056351431202759025623047397777777777/</a></li>
+<li><a href="https://www.nitrxgen.net/collatz/3369993333393829974333376885877453834204643052817571560137951281152739777777777/">https://www.nitrxgen.net/collatz/3369993333393829974333376885877453834204643052817571560137951281152739777777777/</a></li>
+<li><a href="https://www.nitrxgen.net/collatz/73075081866545145910184241635814150982796627148873977777777/">https://www.nitrxgen.net/collatz/73075081866545145910184241635814150982796627148873977777777/</a></li>
+</ul>
+
+<p>They do!</p>
+
+<p>Okay, so it must be basically that the power of two prefix is
+shrinking as planned and leaving some stuff on the right which slowly
+takes care of itself via the Collatz equation.</p>
+
+<p>oooohh so if that is the case, we should get two rivers of zeros if we
+start with two power of two numbers and then extra bits on the end.</p>
+
+<p>2^75 = 37778931862957161709568</p>
+
+<p>here it is twice</p>
+
+<p>3777893186295716170956837778931862957161709568</p>
+
+<p>Then tack on some numbers at the end</p>
+
+<p><a href="https://www.nitrxgen.net/collatz/377789318629571617095683777893186295716170956877777777777777777/">https://www.nitrxgen.net/collatz/377789318629571617095683777893186295716170956877777777777777777/</a></p>
+
+<pre><code>37: 769482217582755840000007694822175827558400000158417969944
+38: 384741108791377920000003847411087913779200000079208984972
+39: 192370554395688960000001923705543956889600000039604492486
+40: 96185277197844480000000961852771978444800000019802246243
+41: 288555831593533440000002885558315935334400000059406738730
+42: 144277915796766720000001442779157967667200000029703369365
+43: 432833747390300160000004328337473903001600000089110108096
+44: 216416873695150080000002164168736951500800000044555054048
+45: 108208436847575040000001082084368475750400000022277527024
+46: 54104218423787520000000541042184237875200000011138763512
+47: 27052109211893760000000270521092118937600000005569381756
+48: 13526054605946880000000135260546059468800000002784690878
+49: 6763027302973440000000067630273029734400000001392345439
+50: 20289081908920320000000202890819089203200000004177036318
+51: 10144540954460160000000101445409544601600000002088518159
+52: 30433622863380480000000304336228633804800000006265554478
+53: 15216811431690240000000152168114316902400000003132777239
+54: 45650434295070720000000456504342950707200000009398331718
+55: 22825217147535360000000228252171475353600000004699165859
+56: 68475651442606080000000684756514426060800000014097497578
+57: 34237825721303040000000342378257213030400000007048748789
+58: 102713477163909120000001027134771639091200000021146246368
+</code></pre>
+
+<p>Bingo. Okay that&rsquo;s enough.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

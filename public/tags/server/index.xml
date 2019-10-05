@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>server on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/server/</link>
+    <description>Recent content in server on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 23:44:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tech moe joe</title>
+      <link>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</link>
+      <pubDate>Sun, 22 Sep 2019 23:44:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</guid>
+      <description>(written 23:44 Sunday 22 September 2019 JST)
+Moe Joe. AB server ELB is causing or revealing 502s. Locally, I rebooted my elderly Macbook and the USB cable is still not working. I reset the printer system and the printer still will not print. I tried to copy a document and the printer would not copy it. And latest version of Hugo is not creating my website subdirectories (/journal or /blog).</description>
+    </item>
+    
+    <item>
+      <title>How to set the server key on Brother scanner</title>
+      <link>https://new.robnugen.com/journal/2019/08/08/how-to-set-the-server-key-on-brother-scanner/</link>
+      <pubDate>Thu, 08 Aug 2019 13:07:20 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/08/08/how-to-set-the-server-key-on-brother-scanner/</guid>
+      <description>13:07 Thursday 08 August 2019 JST Dreamhosts lists their server key as something like
+canyonville.dreamhost.com,64.90.48.21 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABA&amp;hellip;&amp;hellip;
+But in order to install it on my Brother printer for its scan-to-sftp function, the key needed to start with ssh-rsa. So I removed &amp;ldquo;canyonville&amp;hellip;..21&amp;rdquo; from the front of the key and it works fine.
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnJdr5AbHwfaU+F+pv4BzcgNnPBBvbCh7&amp;hellip;&amp;hellip;
+Is Dreamhost confused about how to show their server keys? Is Brother behind the times in accepting latest standards?</description>
+    </item>
+    
+  </channel>
+</rss>

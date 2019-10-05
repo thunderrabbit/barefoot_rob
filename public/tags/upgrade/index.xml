@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>upgrade on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/upgrade/</link>
+    <description>Recent content in upgrade on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2015 06:34:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/upgrade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>upgrading server</title>
+      <link>https://new.robnugen.com/journal/2015/05/17/upgrading-server/</link>
+      <pubDate>Sun, 17 May 2015 06:34:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/17/upgrading-server/</guid>
+      <description>06:34 Sunday 17 May 2015 JST I woke up early to upgrade the server:
+sudo do-release-upgrade
+&amp;ldquo;Installing the upgrade can take several hours&amp;hellip;.&amp;rdquo;
+I read that and noped out! I better let the client know first!
+sudo apt-get upgrade for now.</description>
+    </item>
+    
+  </channel>
+</rss>

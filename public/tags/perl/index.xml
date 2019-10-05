@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perl on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/perl/</link>
+    <description>Recent content in Perl on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2015 15:02:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/perl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perl hack to create plaid SVG files</title>
+      <link>https://new.robnugen.com/journal/2015/03/31/perl-hack-to-create-plaid-svg-files/</link>
+      <pubDate>Tue, 31 Mar 2015 15:02:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/31/perl-hack-to-create-plaid-svg-files/</guid>
+      <description>15:02 Tuesday 31 March 2015 JST Mutsumi asked if I can make some .svg files for her husband. I tried Artboard, Inkscape and some online things, but none are quite as fast as just spitting out xml via SVG module.
+Code is on github svg-fabric.</description>
+    </item>
+    
+    <item>
+      <title>hit it with a hammer solution</title>
+      <link>https://new.robnugen.com/journal/2015/03/12/hit-it-with-a-hammer-solution/</link>
+      <pubDate>Thu, 12 Mar 2015 17:27:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/12/hit-it-with-a-hammer-solution/</guid>
+      <description>##17:27 Thursday 12 March 2015 JST##
+For the md5 count thing, /u/Thespoian gave me a brilliant insite. Whereas I had been trying to go through all the combinations of uppercase/lowercase, first recursively, then with a &amp;ldquo;brillian&amp;rdquo; bitshifting method, he had just been randomly selecting letters and changing their case pseudorandomly.
+I was going for user-friendly GUI. My way (written in Javascript,) was bloated, slow and often locked up Chrome. He was going for getrdone.</description>
+    </item>
+    
+    <item>
+      <title>Finished md5 cheater v1.0</title>
+      <link>https://new.robnugen.com/journal/2015/02/27/finished-md5-cheater-v1.0/</link>
+      <pubDate>Fri, 27 Feb 2015 10:25:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/27/finished-md5-cheater-v1.0/</guid>
+      <description>##14:25 Friday 27 February 2015 JST##
+(written 10:28 Saturday 28 February 2015) I finished my livemd5 cheater; it went more smoothly than I expected!
+In just tens of seconds it can spew hundreds of strings with md5 (hex) hashes which regex match any three digits at the end of the string e.g. /123$/
+Too bad everyone else has nearly abandoned the md5sum live count!</description>
+    </item>
+    
+  </channel>
+</rss>

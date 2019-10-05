@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unity on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/unity/</link>
+    <description>Recent content in unity on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Sep 2015 15:44:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lotsa little scripts</title>
+      <link>https://new.robnugen.com/journal/2015/09/03/lotsa-little-scripts/</link>
+      <pubDate>Thu, 03 Sep 2015 15:44:29 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/09/03/lotsa-little-scripts/</guid>
+      <description>15:44 Thursday 03 September 2015 JST I just watched a couple Unity tutorials and they both showed people creating multiple little scripts to do multiple little things
+using UnityEngine; using System.Collections; public class LoadOnClick : MonoBehaviour { public GameObject loadingImage; public void LoadScene(int level) { loadingImage.SetActive(true); Application.LoadLevel(level); } }  using UnityEngine; using System.Collections; public class HighlightScript : MonoBehaviour { void OnMouseEnter() { iTween.ColorTo(gameObject, Color.red, 0.2f); } void OnMouseExit() { iTween.</description>
+    </item>
+    
+    <item>
+      <title>ponging</title>
+      <link>https://new.robnugen.com/journal/2015/05/11/ponging/</link>
+      <pubDate>Mon, 11 May 2015 22:51:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/11/ponging/</guid>
+      <description>22:51 Monday 11 May 2015 JST We&amp;rsquo;ve essentially hammered out all the features of pong; though I haven&amp;rsquo;t created tickets for everything, I just need to work through them.
+7:27 am Tuesday 12 May just made tickets</description>
+    </item>
+    
+    <item>
+      <title>Got basic pong AI working</title>
+      <link>https://new.robnugen.com/journal/2015/05/08/got-basic-pong-ai-working/</link>
+      <pubDate>Fri, 08 May 2015 01:29:46 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/08/got-basic-pong-ai-working/</guid>
+      <description>1:29 Friday 08 May 2015 JST Now my AIMoveRacket script looks something like this:
+using UnityEngine; using System.Collections; using System.Collections.Generic; public class AIMoveRacket : MonoBehaviour { public float speed = 30; public float speedIncreaseMax = 50; private GameObject myTarget; private Transform ball; private SliderJoint2D mySlider; // Use this for initialization void Start () { // this slider will keep the paddles moving in precise lines mySlider = gameObject.AddComponent&amp;lt;SliderJoint2D&amp;gt;(); mySlider.connectedAnchor = gameObject.</description>
+    </item>
+    
+    <item>
+      <title>unity hmmmm</title>
+      <link>https://new.robnugen.com/journal/2015/04/15/unity-hmmmm/</link>
+      <pubDate>Wed, 15 Apr 2015 16:29:18 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/15/unity-hmmmm/</guid>
+      <description>16:29 Wednesday 15 April 2015 JST Actually it&amp;rsquo;s probably more like C# hmmmm because I have no idea how to set up a static object that can be activated by other objects being clicked.</description>
+    </item>
+    
+    <item>
+      <title>Three sprites three walls</title>
+      <link>https://new.robnugen.com/journal/2015/04/10/three-sprites-three-walls/</link>
+      <pubDate>Fri, 10 Apr 2015 16:09:09 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/10/three-sprites-three-walls/</guid>
+      <description>16:09 Friday 10 April 2015 JST Making better progress on Unity game after watching some basic videos. and I mean basic.
+ What is the Minimum Viable Product? Okay, that&amp;rsquo;s your goal. make and keep production goals keep it simple omg  According to the third video, the type of game we are making is the 4th (of 9?)th most difficult type of game to make. Ah well screwit let&amp;rsquo;s just see what happens.</description>
+    </item>
+    
+    <item>
+      <title>draggable pieces</title>
+      <link>https://new.robnugen.com/journal/2015/04/07/draggable-pieces/</link>
+      <pubDate>Tue, 07 Apr 2015 18:03:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/07/draggable-pieces/</guid>
+      <description>18:03 Tuesday 07 April 2015 JST Okay I&amp;rsquo;ve actually followed the toot a bit, but I know where I&amp;rsquo;m branching off. I think the key is with the Pixels Per Unit. In the tutorial, each gem is exactly one game unit wide,&amp;hellip; that explains why they simply cannot exist in between the grid positions. This in-between existence is critical for our game, so that&amp;rsquo;s what I gotta figure out next.</description>
+    </item>
+    
+    <item>
+      <title>Finished bejeweled tutorial</title>
+      <link>https://new.robnugen.com/journal/2015/04/04/finished-bejeweled-tutorial/</link>
+      <pubDate>Sat, 04 Apr 2015 16:22:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/04/finished-bejeweled-tutorial/</guid>
+      <description>16:22 Saturday 04 April 2015 JST Play a silent version of bejeweled, via noobtuts bejeweled tutorial.
+The code is really wasteful, but it works faster than needed to be too fast for me to see what&amp;rsquo;s going on!
+(( update: code has been deleted from github by request of the author. (oops, sorry about that.) ))
+Here&amp;rsquo;s the original bejeweled, all noisy and stuff.
+Now I&amp;rsquo;m going to take a nap because I&amp;rsquo;m fasting today, and will head out to Japanese class at 6pm or so.</description>
+    </item>
+    
+    <item>
+      <title>Hello Unity</title>
+      <link>https://new.robnugen.com/journal/2015/03/23/hello-unity/</link>
+      <pubDate>Mon, 23 Mar 2015 16:23:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/23/hello-unity/</guid>
+      <description>##16:23 Monday 23 March 2015 JST##
+I evaluated Unreal Engine now that it&amp;rsquo;s free and its pricing model is quite nice! They require no payment until we start making money consistently.
+However, the dearth of assets and such impels me to stay with [Unity3D]().
+right now I&amp;rsquo;m doing this little pong tutorial which is geared toward Unity3D version 5.
+Code is done and on github, but no live version (yet???) pong via noobtuts</description>
+    </item>
+    
+    <item>
+      <title>First rolling ball game with unity</title>
+      <link>https://new.robnugen.com/journal/2015/01/19/first-rolling-ball-game-with-unity/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/19/first-rolling-ball-game-with-unity/</guid>
+      <description>##19:16 Monday 19 January 2015 JST##
+I followed the instructions at https://unity3d.com/learn/tutorials/projects/roll-a-ball/ and slapped together a little rolling ball game in Unity today. I wonder if I can embed it in hakyll.
+The source code is here:
+https://bitbucket.org/thunderrabbit/first-roll-ball-game-in-unity</description>
+    </item>
+    
+  </channel>
+</rss>

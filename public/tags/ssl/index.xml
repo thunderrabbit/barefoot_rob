@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssl on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/ssl/</link>
+    <description>Recent content in ssl on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Mar 2018 15:43:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting https working on AB</title>
+      <link>https://new.robnugen.com/journal/2018/03/19/getting-https-working-on-ab/</link>
+      <pubDate>Mon, 19 Mar 2018 15:43:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/19/getting-https-working-on-ab/</guid>
+      <description>15:43 Monday 19 March 2018 JST Nice to see setting up SSL certificates for Apache 2 on Ubuntu is pretty easy. They even automagically set up a cron job to renew the certificate after two months. See /etc/cron.d/certbot
+I had a problem for a minute because one .conf file had a domain and an alias in it. I ran certbot for the aliased domain and told it to go ahead and force https, but then that broke the main domain (which was the main domain) by forcing SSL and using the certificates for the test domain.</description>
+    </item>
+    
+    <item>
+      <title>trying to get SSL working on cloudfront (not solved)</title>
+      <link>https://new.robnugen.com/journal/2018/03/02/trying-to-get-ssl-working-on-cloudfront-not-solved/</link>
+      <pubDate>Fri, 02 Mar 2018 15:24:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/02/trying-to-get-ssl-working-on-cloudfront-not-solved/</guid>
+      <description>15:24 Friday 02 March 2018 JST We have an image server behind cloudfront. Cloudfront can serve everything via https when using its subdomain. But using our own domain with https isn&amp;rsquo;t as easy as I would like.
+Running Lets Encrypt on the server, I get an error like the https request was not allowed.
+So I created a certificate with AWS Certificate Manager and told Cloudfront to use it, but I do not see how to tell the server to use it.</description>
+    </item>
+    
+    <item>
+      <title>SSL via Let&#39;s Encrypt</title>
+      <link>https://new.robnugen.com/journal/2016/01/26/ssl-via-lets-encrypt/</link>
+      <pubDate>Tue, 26 Jan 2016 10:00:17 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/26/ssl-via-lets-encrypt/</guid>
+      <description>10:00 Tuesday 26 January 2016 PST Yay! Thank you, Let&amp;rsquo;s Encrypt team!</description>
+    </item>
+    
+    <item>
+      <title>tried to set up SSL on b.robnugen.com</title>
+      <link>https://new.robnugen.com/journal/2015/12/06/tried-to-set-up-ssl-on-b.robnugen.com/</link>
+      <pubDate>Sun, 06 Dec 2015 12:25:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/06/tried-to-set-up-ssl-on-b.robnugen.com/</guid>
+      <description>12:25 Sunday 06 December 2015 JST I tried to set up SSL on b.robnugen.com last night, but for some reason I wasn&amp;rsquo;t able to do it. Maybe the main problem was my tired brain, but it seemed a lot easier to do the first time. I may write out the steps, but I thought I wrote them out before&amp;hellip; weird.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swift on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/swift/</link>
+    <description>Recent content in swift on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2015 17:58:26 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Got the highlight working on UITableViewController in Swift</title>
+      <link>https://new.robnugen.com/journal/2015/10/29/got-the-highlight-working-on-uitableviewcontroller-in-swift/</link>
+      <pubDate>Thu, 29 Oct 2015 17:58:26 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/29/got-the-highlight-working-on-uitableviewcontroller-in-swift/</guid>
+      <description>17:58 Thursday 29 October 2015 JST  override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) { NSNotificationCenter.defaultCenter().postNotificationName(Constants.NotificationKey.SelectedWordFromList, object: nil, userInfo: [&#34;word&#34;: allVocabularyWords[indexPath.row]]) }  Now, I understand the code inside the function is a laugh and 1&amp;frasl;2, but it works and I&amp;rsquo;m leaving it until I know how to do it in a more canonical way. But anyway, highlighting words in the word list will now cause the words&amp;rsquo; deets to be displayed on the detail pane.</description>
+    </item>
+    
+  </channel>
+</rss>

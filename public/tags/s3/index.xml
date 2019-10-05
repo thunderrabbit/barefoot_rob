@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>s3 on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/s3/</link>
+    <description>Recent content in s3 on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2016 16:33:22 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>missed the point</title>
+      <link>https://new.robnugen.com/journal/2016/01/13/missed-the-point/</link>
+      <pubDate>Wed, 13 Jan 2016 16:33:22 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/13/missed-the-point/</guid>
+      <description>16:33 Wednesday 13 January 2016 JST Now, I&amp;rsquo;m not 100% sure this is a bug, but I reported to AWS a few days ago:
+S3 bug: cannot create two lifecycle rules that apply to whole S3 bucket  That&amp;rsquo;s just the title; I spelled it out a bit in the body of the message.
+But today I got back a steaming pile of useless reply:
+Hello Rob, This is ______ from the AWS Billing Department.</description>
+    </item>
+    
+  </channel>
+</rss>

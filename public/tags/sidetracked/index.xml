@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sidetracked on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/sidetracked/</link>
+    <description>Recent content in sidetracked on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Mar 2018 12:54:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/sidetracked/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>super sidetracked</title>
+      <link>https://new.robnugen.com/journal/2018/03/30/super-sidetracked/</link>
+      <pubDate>Fri, 30 Mar 2018 12:54:56 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/30/super-sidetracked/</guid>
+      <description>12:54 Friday 30 March 2018 JST Actually have gotten three (3) meetings done online: Prentiss and Ari helped with Mankind Project Tokyo; Ari said he will write some stuff for either Mankind Project Tokyo Meetup or My Power Circle. Oriane and I checked in with each other on our respective projects.
+Planning to ask which inkan I can use for my personal seal today; maybe I will go do that now on my way to work at TY.</description>
+    </item>
+    
+    <item>
+      <title>about to install kakoune</title>
+      <link>https://new.robnugen.com/journal/2016/12/16/about-to-install-kakoune/</link>
+      <pubDate>Fri, 16 Dec 2016 10:54:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/16/about-to-install-kakoune/</guid>
+      <description>10:54 Friday 16 December 2016 JST From getting started with kakoune via https://kakoune.org
+brew install homebrew/dupes/ncurses  Then, to install
+brew install --HEAD https://raw.githubusercontent.com/mawww/kakoune/master/contrib/kakoune.rb  11:09 Okay I&amp;rsquo;ve just installed kakoune and am using it to type this sentence. Funny that it requires pressing the control key to select suggested words. Seems like down-arrow would be sufficient but maybe the arrow keys are too far away from keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my redmine question on superuser &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="my redmine question on superuser &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="my redmine question on superuser &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">11 Jul 2015, 19:48</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/07/11/my-redmine-question-on-superuser/" class="post-title">my redmine question on superuser</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h2 id="19-48-saturday-11-july-2015-jst">19:48 Saturday 11 July 2015 JST</h2>
+
+<p><a href="https://superuser.com/questions/939251/how-where-does-redmine-calculate-store-spent-time">Redmine Q on
+superuser</a>
+took more time to research and write than to just rewrite all the time
+entries (there are 9), but fuckit; what if I had a million entries?
+or a quadrillion? (*)</p>
+
+<p>I logged several time entries to an issue in project A, but they
+should have been logged to an issue in project B.</p>
+
+<p>I tried using Redmine GUI to edit the time entries to be associated
+with the correct issue, but (because they&rsquo;re in different projects?)
+the edit was rejected with &ldquo;invalid issue&rdquo; or something.</p>
+
+<p>So, I logged in to mysql and edited the log entries:</p>
+
+<pre><code>update time_entries set project_id=40, issue_id=2645 where
+`issue_id` = 2643;
+</code></pre>
+
+<p>Issue 2645 now correctly shows the logged time entries, and the total
+&ldquo;Spent time&rdquo;</p>
+
+<p>Issue 2643 correctly does <em>not</em> show any time entries, but still shows
+the old value for &ldquo;Spent time&rdquo;</p>
+
+<p>I tried refreshing the page, logging off and on, even using a new
+browser, but the value for Spent time persists in issue 2643.</p>
+
+<p>I don&rsquo;t see a field named <code>spent_time</code> in TABLE <code>time_entries</code> or
+anything that looks similar when searching for the field name in DB
+<code>information_schema</code>.</p>
+
+<pre><code>select * from columns where (column_name like '%spent%' OR
+column_name LIKE '%time%') and table_schema = 'redmine';
+</code></pre>
+
+<p>How can I tell Redmine to update the value for &ldquo;Spent time&rdquo; after
+manually editing entries in TABLE <code>time_entries</code>?</p>
+
+<p>(*) then I probably wouldn&rsquo;t be using Redmine correctly.</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2015/07/11/my-computer-is-done/" rel="prev" style="float: left!important">❮ my computer is done</a>
+                  <a href="https://new.robnugen.com/journal/2015/07/11/learning-how-to-learn/" rel="next" style="float: right!important"> Learning how to learn ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

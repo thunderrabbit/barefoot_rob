@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/tags/</link>
+    <description>Recent content in tags on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2019 18:15:21 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cleaned up tags in journal entries</title>
+      <link>https://new.robnugen.com/journal/2019/06/20/cleaned-up-tags-in-journal-entries/</link>
+      <pubDate>Thu, 20 Jun 2019 18:15:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/06/20/cleaned-up-tags-in-journal-entries/</guid>
+      <description>18:15 Thursday 20 June 2019 JST But localhost cannot even load the page which shows all the tags. Dang. That must be a lot of tags.</description>
+    </item>
+    
+    <item>
+      <title>日本語を勉強しました</title>
+      <link>https://new.robnugen.com/journal/2017/12/10/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Sun, 10 Dec 2017 08:20:17 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/10/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>08:20 Sunday 10 December 2017 JST There are probably errors in the Japanese notes below! イーマックスで日記のポーストを書きます。新しいポースト書きたかったら、 キーボードでC-c nを書くと「日本語を勉強しました」のタイトルのポースト を始まります。
+I write journal entries with Emacs. When I want to start a new entry, I type C-c n on my keyboard and a new &amp;ldquo;studied Japanese&amp;rdquo; post is started (created).
+日記のポーストたちはタッグがあります。
+Each post has tags.
+今日からたくさんタッグを入れられます。
+Starting today, I can add many (multiple) tags.
+前にもらったコード使って、たくさんタッグを入れます。
+Using code I received before, I can add many (multiple) tags.</description>
+    </item>
+    
+    <item>
+      <title>Finally figured out how I want tags to be entered</title>
+      <link>https://new.robnugen.com/journal/2015/12/27/finally-figured-out-how-i-want-tags-to-be-entered/</link>
+      <pubDate>Sun, 27 Dec 2015 12:45:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/27/finally-figured-out-how-i-want-tags-to-be-entered/</guid>
+      <description>12:45 Sunday 27 December 2015 JST Right now I enter tags comma separated on a single line. They are written as typed in the &amp;hellip; whatsitcalled (frontmatter?).. the text at the top of each file, which in the case of this file, looks like this:
+--- title: Finally figured out how I want tags to be entered  tags: [ &amp;ldquo;journal&amp;rdquo;, &amp;ldquo;tags&amp;rdquo; ] author: Rob Nugen date: 2015-12-27T12:45:54+09:00 &amp;mdash;</description>
+    </item>
+    
+  </channel>
+</rss>

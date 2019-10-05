@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sublimetext2 on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/sublimetext2/</link>
+    <description>Recent content in sublimetext2 on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2015 19:27:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/sublimetext2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sorry Netbeans, but I might have to say see ya</title>
+      <link>https://new.robnugen.com/journal/2015/11/15/sorry-netbeans-but-i-might-have-to-say-see-ya/</link>
+      <pubDate>Sun, 15 Nov 2015 19:27:58 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/15/sorry-netbeans-but-i-might-have-to-say-see-ya/</guid>
+      <description>19:27 Sunday 15 November 2015 JST Sublimetext2 and SFTP are faster and don&amp;rsquo;t crash with the new &amp;ldquo;improved&amp;rdquo; OS X 10.11, El Sucko.</description>
+    </item>
+    
+  </channel>
+</rss>

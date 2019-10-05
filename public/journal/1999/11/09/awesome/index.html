@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>awesome &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="awesome &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="awesome &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">09 Nov 1999, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/1999/11/09/awesome/" class="post-title">awesome</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p>7:20am</p>
+
+<p>I wanted to name this file awesome!!!!!!!.txt but I don&rsquo;t think the
+exclamation points would have been very well received by the shell.  I
+don&rsquo;t actually know.</p>
+
+<p>Awesome!!!!  I have written my index.pl file, which sits in my
+/journal directory.  It accepts arguments on the URL: dir= and file=
+to indicate which directory and file to display!!!  As Dude might say,
+it&rsquo;s &ldquo;totally supa cold dope rawkin!!&rdquo;</p>
+
+<p>So now I simply use a Cascading Style Sheet in my index.pl file (I may
+eventually move the style sheet to its own file as it gets more
+complex) and it gives a more consistent look to my journal entries!</p>
+
+<p>I&rsquo;m pretty flippin&rsquo; pumped about the whole thing!</p>
+
+<p>I still want to add a bit of security to the whole thing; make sure
+people don&rsquo;t try to enter huge crazy long directory paths and/or file
+names to try to break the server.  I think Perl will simply fail and
+there won&rsquo;t be a security breach, but I&rsquo;ll add it anyway.</p>
+
+<p>I&rsquo;ve already added code that ensures no &lsquo;.&rsquo; &lsquo;/&rsquo; or &lsquo;~&rsquo; characters are
+used at the beginning of the diretory name, so one can&rsquo;t dig into my
+directory structure with this file.  Oh wait!!!  One could do this:
+index.pl?dir=1999/../../  I&rsquo;ll try that now and see what happens.
+Doh!</p>
+
+<p>Oh my goodness!  I was able to type in
+index.pl?dir=1999/../../../../../../../etc/ and get a listing of the
+/etc dir on this server!!!!  As proof, here&rsquo;s a list of some of the
+files in it:</p>
+
+<p>cron.daily
+ cron.half-hourly
+ cron.hourly
+ cron.monthly
+ cron.quarter-daily
+ cron.quarter-hourly
+ cron.weekly</p>
+
+<p>Is this a security breach?  I don&rsquo;t know; I didn&rsquo;t have read access on
+anything interesting, so I think they&rsquo;re okay, but still it&rsquo;s a tad
+scary!</p>
+
+<p>I will disallow any ../ within the dir or file parameters.</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/1999/11/10/pic-test/" rel="prev" style="float: left!important">❮ pic test</a>
+                  <a href="https://new.robnugen.com/journal/1999/11/09/later/" rel="next" style="float: right!important"> later ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

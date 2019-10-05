@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uncool on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/uncool/</link>
+    <description>Recent content in uncool on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2015 18:39:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/uncool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>kool-kernel</title>
+      <link>https://new.robnugen.com/journal/2015/06/02/kool-kernel/</link>
+      <pubDate>Tue, 02 Jun 2015 18:39:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/02/kool-kernel/</guid>
+      <description>18:39 Tuesday 02 June 2015 JST If I unplug my Mac, the kernel stops going apeshit. So I unplugged it for a while then replugged it after the battery went low. Closed three tickets today. Yay!</description>
+    </item>
+    
+  </channel>
+</rss>

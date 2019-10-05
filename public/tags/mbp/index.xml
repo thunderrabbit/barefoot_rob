@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mbp on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mbp/</link>
+    <description>Recent content in mbp on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2015 08:38:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mbp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>to do before take MBP for checkup</title>
+      <link>https://new.robnugen.com/journal/2015/07/07/to-do-before-take-mbp-for-checkup/</link>
+      <pubDate>Tue, 07 Jul 2015 08:38:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/07/to-do-before-take-mbp-for-checkup/</guid>
+      <description> 08:38 Tuesday 07 July 2015 JST  write entry about delvin move all journal entries online get AB site working locally get CB site working locally confirm moveed Pong archive all ssh keys make sure all Portal 2 builds are uploaded draw a maze upload maze  </description>
+    </item>
+    
+  </channel>
+</rss>

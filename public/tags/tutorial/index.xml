@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/tutorial/</link>
+    <description>Recent content in tutorial on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial- running Hakyll for free on AWS</title>
+      <link>https://new.robnugen.com/journal/2014/10/30/tutorial-running-hakyll-for-free-on-aws/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/30/tutorial-running-hakyll-for-free-on-aws/</guid>
+      <description>##20:20 Thursday 30 October 2014 JST##
+These notes should work for *nix, including OS X, which I&amp;rsquo;m using. Windows users may have to adapt when it comes to local stuff.
+Easy as
+ get server with root access set up Nginx on server set up Hakyll locally  ##1. sign up for AWS micro (free tier available)##
+I will probably go with all their defaults:
+####Step 1:####
+For this, I&amp;rsquo;m using Amazon Linux AMI 2014.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>plan &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="plan &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="plan &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">14 Apr 2017, 10:02</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/04/14/plan/" class="post-title">plan</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h2 id="10-02-friday-14-april-2017-jst">10:02 Friday 14 April 2017 JST</h2>
+
+<p>Because it takes 5 hours to import the data in my reliable way, I will
+not recreate the machine from scratch in Tokyo region.</p>
+
+<p>I&rsquo;ll finish it up in California and then move it over to Tokyo.</p>
+
+<p>steps</p>
+
+<ol>
+<li><del>add cron jobs</del></li>
+<li>Make sure site works</li>
+<li>change the domains to correct domains</li>
+<li>make an AMI of the box</li>
+<li>copy it to Tokyo</li>
+<li>spin it up</li>
+<li>copy latest data changes over</li>
+<li>point DNS to new box</li>
+<li>activate SSL</li>
+</ol>
+
+<p>Step One requires</p>
+
+<ol>
+<li><del>copy cron scripts from live server to local machine</del></li>
+<li><del>Create role to deploy them on vagrant box</del></li>
+<li><del>create playbook to run role</del></li>
+<li><del>copy them into vagrant box (role/templates)</del></li>
+<li><del>remove them from local machine</del></li>
+<li><del>ansible-vault encrypt them on vagrant box</del></li>
+<li><del>Create new mysql backup user</del></li>
+<li><del>Create new mysql log_deleter user</del></li>
+<li><del>Save changes that created users</del></li>
+<li><del>tell role to copy scripts to server</del></li>
+<li><del>have the role create the crontab</del></li>
+<li><del>run playbook</del></li>
+<li><del>test the script</del></li>
+<li><del>install s3put command</del></li>
+<li><del>create new s3 credentialed user on AWS Console</del></li>
+<li><del>Add credentials to new server</del></li>
+<li><del>fix GRANTS for mysql user</del></li>
+<li><del>test the script</del></li>
+<li><del>run the script for real</del></li>
+<li><del>see if it runs via cron</del></li>
+</ol>
+
+<p>Step Three requires a few steps for me to feel comfortable with it</p>
+
+<ol>
+<li>change the domains to different test sub-domains</li>
+<li>ensure I can activate SSL on them</li>
+<li>run tests on the sites</li>
+<li>change the domains to correct domains</li>
+</ol>
+
+<p>Step Seven requires telling Ansible to talk to servers in a different
+region, which I can probably do in realtime without testing (because
+I won&rsquo;t have activated DNS on the box yet).</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2017/04/15/slowly/" rel="prev" style="float: left!important">❮ slowly</a>
+                  <a href="https://new.robnugen.com/journal/2017/04/13/1-of-5-servers-almost-updated/" rel="next" style="float: right!important"> 1 of 5 servers almost updated ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

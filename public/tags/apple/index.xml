@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apple on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/apple/</link>
+    <description>Recent content in apple on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Sep 2017 07:18:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iOS app versioning</title>
+      <link>https://new.robnugen.com/journal/2017/09/15/ios-app-versioning/</link>
+      <pubDate>Fri, 15 Sep 2017 07:18:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/09/15/ios-app-versioning/</guid>
+      <description>07:18 Friday 15 September 2017 JST Ugh. I previously uploaded version 2.2.1 of an iOS app. This time I uploaded 2.2.3 and the reply was &amp;ldquo;Oh you already uploaded version 2.2.3&amp;rdquo;
+Fine ffs so I boosted the version to 2.2.4 and uploaded it.
+Now they say the version number must be higher than 2.21.
+I never uploaded 2.21!!111 I uploaded 2.2.1. WTF kinda checks are they doing? This is sofa king annoying.</description>
+    </item>
+    
+    <item>
+      <title>New Terms and Conditions</title>
+      <link>https://new.robnugen.com/journal/2017/08/28/new-terms-and-conditions/</link>
+      <pubDate>Mon, 28 Aug 2017 17:09:33 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/08/28/new-terms-and-conditions/</guid>
+      <description>17:09 Monday 28 August 2017 JST I called Apple Worldwide Support to ask why their docs say I need LaunchImages with sizes X, Y, Z, while an error message says I need a LaunchImage of size A. Their answer: accept the new Terms and Conditions and try my upload again.
+What?</description>
+    </item>
+    
+    <item>
+      <title>XCode do you hate me</title>
+      <link>https://new.robnugen.com/journal/2017/08/11/xcode-do-you-hate-me/</link>
+      <pubDate>Fri, 11 Aug 2017 19:27:53 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/08/11/xcode-do-you-hate-me/</guid>
+      <description>19:27 Friday 11 August 2017 JST Oh XCode, you&amp;rsquo;re so quirky.
+You automatically change Images.xcassets, automatically add the changes to git, AND automatically restore the changes after I revert them. This might be helpful if you did not also refuse to build the app due to missing images. I hate building iOS apps. Utterly shit experience all the fucking time.
+Why do sandboxed users have to have difficult passwords? I don&amp;rsquo;t mind good passwords for real users, but not for sandboxed users.</description>
+    </item>
+    
+    <item>
+      <title>Apple tech talk in Shinjuku</title>
+      <link>https://new.robnugen.com/journal/2016/01/21/apple-tech-talk-in-shinjuku/</link>
+      <pubDate>Thu, 21 Jan 2016 11:31:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/21/apple-tech-talk-in-shinjuku/</guid>
+      <description>11:21 Thursday 21 January 2016 JST A bit boring, but talking to Mark in the QA room, I was able to get some insight on how to handle some aspects of the app we&amp;rsquo;re making.
+NSURLsession NSData buffer , length gfxCardStatus  He also gave a good idea for how to put all the junk for each mode of our game in separate views! It should make the modal idea completely unnecessary.</description>
+    </item>
+    
+    <item>
+      <title>reasons 8154 - 8158 to hate apple</title>
+      <link>https://new.robnugen.com/journal/2016/01/15/reasons-8154-8158-to-hate-apple/</link>
+      <pubDate>Fri, 15 Jan 2016 21:38:05 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/15/reasons-8154-8158-to-hate-apple/</guid>
+      <description>21:38 Friday 15 January 2016 JST  Every time I open XCode, the recent files list is empty. Every time I edit any file, an XML file changes, which destroys others&amp;rsquo; git repos and therefore collaboration Every time I run the app, the XML file changes which destroys other git repos and therefore collaboration https://www.reddit.com/r/MacSucks/comments/28docp/25_year_former_mac_user_says_apple_sucks_and_why/ Every time I eject my external drives, OS X gives me a modal dialog box to say one of them was ejected.</description>
+    </item>
+    
+    <item>
+      <title>reason 8153 to hate apple</title>
+      <link>https://new.robnugen.com/journal/2016/01/01/reason-8153-to-hate-apple/</link>
+      <pubDate>Fri, 01 Jan 2016 22:45:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/01/reason-8153-to-hate-apple/</guid>
+      <description>22:45 Friday 01 January 2016 JST Fucking sideways images.</description>
+    </item>
+    
+    <item>
+      <title>reason 8152 to hate apple</title>
+      <link>https://new.robnugen.com/journal/2016/01/01/reason-8152-to-hate-apple/</link>
+      <pubDate>Fri, 01 Jan 2016 22:41:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/01/reason-8152-to-hate-apple/</guid>
+      <description>22:41 Friday 01 January 2016 JST As I was using spacebar to quicklook some images, Finder suddenly quit showing images, quit responding to any clicks, and wouldn&amp;rsquo;t acknowledge even that its window was selected.
+Yeah, um, Finder is like the most basic user app in OS X; it&amp;rsquo;s the only one that cannot be turned off. Ya might want to make sure it works.</description>
+    </item>
+    
+    <item>
+      <title>Got my 4 TB drive back</title>
+      <link>https://new.robnugen.com/journal/2015/12/11/got-my-4-tb-drive-back/</link>
+      <pubDate>Fri, 11 Dec 2015 09:34:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/11/got-my-4-tb-drive-back/</guid>
+      <description>09:34 Friday 11 December 2015 JST Tariq was able to partition it with his machine and then I was able to encrypt the partitions with my machine.</description>
+    </item>
+    
+    <item>
+      <title>reason 8,147 to hate Apple</title>
+      <link>https://new.robnugen.com/journal/2015/12/03/reason-8147-to-hate-apple/</link>
+      <pubDate>Thu, 03 Dec 2015 23:54:43 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/03/reason-8147-to-hate-apple/</guid>
+      <description>23:54 Thursday 03 December 2015 JST Reason number 8,147 to hate apple:
+Lin bought some credit on itunes store. I added it to her phone, intrigued by how the camera can find the letters on the back of the card even while I rotated it while it tried to scan.
+So she wanted to make a purchase&amp;hellip; And have to verify her account. Not just with password, but with two (2) personal questions.</description>
+    </item>
+    
+    <item>
+      <title>Another password-related reason to hate Apple</title>
+      <link>https://new.robnugen.com/journal/2015/11/23/another-password-related-reason-to-hate-apple/</link>
+      <pubDate>Mon, 23 Nov 2015 12:28:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/23/another-password-related-reason-to-hate-apple/</guid>
+      <description>12:28 Monday 23 November 2015 JST Okay, so I just received in the mail my MOOV, a movement tracking device which can connect to my phone via BLE, Bluetooth Low Energy. Nice.
+All excited to set it up, I see the app requires iOS 8.
+Now, I&amp;rsquo;ve resisted many a fancy app which has had this requirement. I don&amp;rsquo;t want to cripple my iPhone 4S with an &amp;ldquo;upgrade&amp;rdquo; to the OS which I don&amp;rsquo;t really need.</description>
+    </item>
+    
+    <item>
+      <title>to do before take MBP for checkup</title>
+      <link>https://new.robnugen.com/journal/2015/07/07/to-do-before-take-mbp-for-checkup/</link>
+      <pubDate>Tue, 07 Jul 2015 08:38:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/07/to-do-before-take-mbp-for-checkup/</guid>
+      <description> 08:38 Tuesday 07 July 2015 JST  write entry about delvin move all journal entries online get AB site working locally get CB site working locally confirm moveed Pong archive all ssh keys make sure all Portal 2 builds are uploaded draw a maze upload maze  </description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>https://new.robnugen.com/journal/2015/05/20/apple/</link>
+      <pubDate>Wed, 20 May 2015 15:56:24 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/20/apple/</guid>
+      <description>15:56 Wednesday 20 May 2015 JST Sigh.
+I received an old MacBook on which I&amp;rsquo;d like to install Ubuntu. Even upon writing the Ubuntu image file to my usb drive; I got an error message like &amp;ldquo;this disk cannot be read.&amp;rdquo; After a bit of searching, it appears that Apple is trying to disallow people from installing Ubuntu over OS X.
+Bah.
+So the suggestion is to burn the Ubuntu iso onto a CD and boot from that.</description>
+    </item>
+    
+    <item>
+      <title>Apple, please get your shit straight</title>
+      <link>https://new.robnugen.com/journal/2013/04/23/apple-please-get-your-shit-straight/</link>
+      <pubDate>Tue, 23 Apr 2013 20:49:26 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/04/23/apple-please-get-your-shit-straight/</guid>
+      <description>##20:49 Tuesday 23 April 2013
+8:44pm Tuesday 23 April 2013
+I&amp;rsquo;m trying to create a test account. It&amp;rsquo;s a test account, about which I do not care. It cannot spend any real money; it&amp;rsquo;s a test account. BUT it has to have to have a real password, a birthdate, a first and last name, the last three of which are not used ANYWHERE.
+But that&amp;rsquo;s not why I&amp;rsquo;m bitching.
+When creating the test account, I tried to use the email address c at robnugen.</description>
+    </item>
+    
+    <item>
+      <title>Apple, please get your shit straight</title>
+      <link>https://new.robnugen.com/journal/2013/04/22/apple-please-get-your-shit-straight/</link>
+      <pubDate>Mon, 22 Apr 2013 07:25:16 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/04/22/apple-please-get-your-shit-straight/</guid>
+      <description>##07:25 Monday 22 April 2013
+6:52am Monday 22 April 2013
+A couple days ago I renewed my iOS developer account because our apps made just enough money to cover the cost of the developer account.
+EVEN THOUGH the email address on my account has not changed, Apple sent me an email &amp;ldquo;to complete my purchase&amp;rdquo; (wtf does that even mean? My credit card was charged; the purchase has been completed!)</description>
+    </item>
+    
+    <item>
+      <title>Apple, please get your shit straight</title>
+      <link>https://new.robnugen.com/journal/2013/04/21/apple-please-get-your-shit-straight/</link>
+      <pubDate>Sun, 21 Apr 2013 22:31:26 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/04/21/apple-please-get-your-shit-straight/</guid>
+      <description>##22:31 Sunday 21 April 2013
+10:26pm Sunday 21 April 2013
+I apparently received an email on my iPhone. When I unlock my phone, I have a screen that says so. When I press the big green Dismiss button at the bottom, the screen persists.
+So, either I have received 50+ messages (and have to press Dismiss for each one), or my iPhone is stuck in a loop out of which I cannot break without turning off my phone.</description>
+    </item>
+    
+    <item>
+      <title>just submitted 瞑想頑張れ for the first time</title>
+      <link>https://new.robnugen.com/journal/2013/03/16/just-submitted-%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-for-the-first-time/</link>
+      <pubDate>Sat, 16 Mar 2013 16:58:50 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/03/16/just-submitted-%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-for-the-first-time/</guid>
+      <description>##16:58 Saturday 16 March 2013
+Standing in the 2nd floor of the Shibuya Apple Store, with my phone charging on a display computer, I created an icon for 瞑想頑張れ and submitted the app to Apple for approval. Whoohoooo!
+The icon looks something like this:
+
+I know I dropped the れ, but I hope I used the right kanji!!!
+Here&amp;rsquo;s a link to the 姪御頑張れ commit I first submitted to Apple.</description>
+    </item>
+    
+    <item>
+      <title>ios provisioning portal down for 8 hours (at least) can&#39;t create provisioning profiles</title>
+      <link>https://new.robnugen.com/journal/2013/02/15/ios-provisioning-portal-down-for-8-hours-at-least-cant-create-provisioning-profiles/</link>
+      <pubDate>Fri, 15 Feb 2013 07:42:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/02/15/ios-provisioning-portal-down-for-8-hours-at-least-cant-create-provisioning-profiles/</guid>
+      <description>##07:42 Friday 15 February 2013
+I wonder wtf happened.
+We are performing maintenance on the provisioning service. All provisioning requests will remain in pending status until maintenance is complete, at which time all pending requests will be automatically processed.
+I took this screenshot last night at 11:22pm. It&amp;rsquo;s now 7:34am as I write this, so it&amp;rsquo;s been down for more than 8 hours.
+
+People on ASE are wondering as well, but not as many people are wondering as who are saying it&amp;rsquo;s not a good question.</description>
+    </item>
+    
+  </channel>
+</rss>

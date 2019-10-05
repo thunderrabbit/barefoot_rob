@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>joke on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/joke/</link>
+    <description>Recent content in joke on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 May 2017 11:32:12 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/joke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>two minutes after 8 hours</title>
+      <link>https://new.robnugen.com/journal/2017/05/19/two-minutes-after-8-hours/</link>
+      <pubDate>Fri, 19 May 2017 11:32:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/05/19/two-minutes-after-8-hours/</guid>
+      <description>11:32 Friday 19 May 2017 JST I am the butt of the joke about knowing what to do .. I just spent about 8 hours of trying to figure out why CB app was not showing images. Image server was okay, cloudfront was okay, .. was it the app caching things? I had to dig into the source of the app to discover there is a differently spelled version of CB&amp;rsquo;s domain name, call it seebee, which was being used.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pgp on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/pgp/</link>
+    <description>Recent content in pgp on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/pgp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Signed PGP keys</title>
+      <link>https://new.robnugen.com/journal/2015/01/31/signed-pgp-keys/</link>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/31/signed-pgp-keys/</guid>
+      <description>##01:20 Sunday 01 February 2015 JST##
+I verified and signed Travis&amp;rsquo; GPG key today, though I don&amp;rsquo;t see my signature on MITs server (yet) https://pgp.mit.edu/pks/lookup?op=vindex&amp;amp;search=0x5669BC80C2AB241A
+Yumi giggled as we checked each other&amp;rsquo;s passports while standing in line for Shakey&amp;rsquo;s Pizza tonight.
+Deji had a couple of plates of pizzas, and I had a couple as well, plus a bowl of 枝豆 and a bit of corn, plus three small glasses of Calpis.</description>
+    </item>
+    
+  </channel>
+</rss>

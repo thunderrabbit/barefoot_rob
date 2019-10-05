@@ -1,0 +1,610 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journals &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Journals &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Journals &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">15 Apr 2018, 11:30</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/15/might-try-to-set-up-fossil-on-dreamhost/" class="post-title">might try to set up Fossil on Dreamhost</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="11-30-sunday-15-april-2018-jst">11:30 Sunday 15 April 2018 JST</h2>
+
+<p>I found an article about
+<a href="https://curiouser.cheshireeng.com/2016/07/05/fun-with-dreamhost-fossil/">setting up Fossil on Dreamhost</a>,
+and may try to go through it today.</p>
+
+<p>First, I will
+<a href="https://github.com/thunderrabbit/new-DH-user-account">set up a new sub-domain and new user on Dreamhost</a>.</p>
+
+<h2 id="12-07">12:07</h2>
+
+<p>Done.  I recognize that I am using git on a server for Fossil, but am
+going to ignore that for now.</p>
+
+<p>Though the previous article compiled from source, it appears
+<a href="https://www.fossil-scm.org/index.html/uv/download.html">Fossil provides Linux binaries</a>
+now.</p>
+
+<p>Fill in the latest version number for &hellip; below</p>
+
+<pre><code>wget https://www.fossil-scm.org/index.html/uv/fossil-linux-x64-.....tar.gz
+tar xf fossil-linux-x64-.....tar.gz
+mkdir ~/bin
+mv fossil ~/bin/
+</code></pre>
+
+<p>And the I appended bin/ to the PATH by adding this to ~/.bash_profile</p>
+
+<pre><code>export PATH=$PATH:~/bin/
+</code></pre>
+
+<h2 id="12-35">12:35</h2>
+
+<p>I <em>just</em> read that the author of other article did <em>not</em> put it in
+PATH, but I like to fool around on command line, so it&rsquo;s good for me.</p>
+
+<p>Now, to see if I can access it via https as a CGI script</p>
+
+<pre><code>mkdir ~/publicrepos
+cd ~/publicrepos/
+mkdir repooo
+echo world &gt; repooo/hello.txt
+fossil init -A rob repooo.fossil
+</code></pre>
+
+<p>Note password for user <code>rob</code>.</p>
+
+<pre><code>fossil open repooo.fossil
+fossil user default rob
+fossil add repooo/hello.txt
+fossil commit
+</code></pre>
+
+<p>I set up <code>.htaccess</code> in root of public webserver, <code>/home/USERNAME/domain.com/.htaccess</code></p>
+
+<pre><code>&lt;Files repos&gt;
+  SetHandler cgi-script
+&lt;/Files&gt;
+</code></pre>
+
+<p>I created <code>repos</code> in <code>/home/USERNAME/domain.com/repos</code>:  (In the file below, change USERNAME below to the username of your
+account.)</p>
+
+<pre><code>#!/home/USERNAME/bin/fossil
+directory: /home/USERNAME/publicrepos
+notfound: /404.html
+repolist
+</code></pre>
+
+<p>Oh cool it works!</p>
+
+<p><a href="https://fossil.chatforest.com/repos/">https://fossil.chatforest.com/repos/</a></p>
+
+<h2 id="09-49-tuesday-17-april-2018-jst">09:49 Tuesday 17 April 2018 JST</h2>
+
+<p>Okay, now I have kinda figured out a system for adding my journal git
+repo to fossil:</p>
+
+<p>Move to my existing git repo on local machine:</p>
+
+<pre><code>cd ~/journal
+</code></pre>
+
+<p><a href="https://fossil-scm.org/index.html/doc/trunk/www/inout.wiki">Export git into a new Fossil repo</a></p>
+
+<pre><code>git fast-export --all | fossil import --git journal.fossil
+</code></pre>
+
+<p>I think this will help me update the fossil repo again by creating
+files to link the leaves and nodes of the two repos (or something)</p>
+
+<pre><code>fossil export --git --export-marks ../journal.fossil.marks journal.fossil |    \
+    git fast-import --export-marks=../journal.git.marks
+</code></pre>
+
+<p>And now after I <code>git commit</code> I can run this to get the latest into
+fossil (I think)</p>
+
+<pre><code>git fast-export --import-marks=../journal.git.marks  --export-marks=../journal.git.marks  \
+    --all | fossil import --git --incremental --import-marks        \
+    ../journal.fossil.marks --export-marks ../journal.fossil.marks journal.fossil
+</code></pre>
+
+<p>I was then able to scp the journal.fossil file to
+<a href="https://fossil.chatforest.com/repos/">https://fossil.chatforest.com/repos/</a>,
+then change the password for thunderrabbit from its default.</p>
+
+<p>Now, how do I add the remote to my local Fossil so I can push changes
+to it?</p>
+
+<pre><code>fossil sync --ssl-identity ~/.ssh/fossil.chatforest.com ssh://USERNAME@fossil.chatforest.com/path/to/journal.fossil
+</code></pre>
+
+<p>And set up auto synchronization</p>
+
+<pre><code>fossil set autosync
+</code></pre>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">13 Apr 2018, 22:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/13/more-sentences-written-by-fumiko/" class="post-title">more sentences, written by Fumiko</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="22-00-friday-13-april-2018-jst">22:00 Friday 13 April 2018 JST</h2>
+
+<pre><code>椅子の後ろ脚だけでバランスを取っていて、後ろに倒れました。
+バランスを崩す　バランスをくずす
+バランスを崩しちゃった　バランスが崩れました
+
+いつもはできていたのに、その日に限って、バランスを崩しちゃいました。
+それを友達に見られて、笑われました。
+
+私の教科書を失くされたんです。
+</code></pre>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">13 Apr 2018, 16:37</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/13/technical-debt/" class="post-title">technical debt</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-37-friday-13-april-2018-jst">16:37 Friday 13 April 2018 JST</h2>
+
+<p>I gotta figure out how to make the AB project go more smoothly.</p>
+
+<ul>
+<li>one: The system was designed to work with Customers logging in to the frontend, and Admin logging into the backend.</li>
+<li>two: A couple years ago, Admin asked if there is a way for SuperCustomers to log into the front end.</li>
+<li>three: I had to adjust the way people log into the site to allow
+them to be either Customers or SuperCustomers</li>
+<li>four: On the backend, I adjusted the way Inquiries were created
+because Customers and SuperCustomers will both need Inquiries</li>
+<li>five: Now I need to adjust the way Sets are created (Redmine ticket 3167) and I thought it would take 2 hours</li>
+<li>six: Oh crap it is taking way more than 2 hours to do correctly,
+because it affects how Customers are created, which is new, due to
+step 3</li>
+</ul>
+
+<p>Fortunately, Nate understands, but it will take a while to do much
+about it.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">13 Apr 2018, 09:24</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/13/sentence-remix/" class="post-title">sentence remix</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="09-24-friday-13-april-2018-jst">09:24 Friday 13 April 2018 JST</h2>
+
+<p>うちの近くにアパートの建設がまだ続いています。 Apartments are still being built near my house.</p>
+
+<p>今日、そこで見たけど写真を撮らなかった。 Today I looked, but did not take pictures.</p>
+
+<p>猫の写真を反映しましょうか。　Why don&rsquo;t I post a cat picture?</p>
+
+<p><a href="https://placekitten.com/800/615"><img src="//b.robnugen.com/journal/2018/placekitten800x615.jpg" alt="placekitten800x615" /></a></p>
+
+<p><a href="https://placekitten.com/">子猫の写真を反映する事ができるサイト</a>はプレースキッテンと言います。 A <a href="https://placekitten.com/">site which allows posting kitten pics</a> is called placekitten.</p>
+
+<p>今日ジオキャッシュを探す時間がないので探さない。 I don&rsquo;t have time to look for geocaches today, so I won&rsquo;t find any.</p>
+
+<p>しかし、他の人はジオキャッシュの時間があるから見つけられます。 But someone has time, so a geocache will be found.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">12 Apr 2018, 09:19</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/12/read-japanese/" class="post-title">Read Japanese</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="09-19-thursday-12-april-2018-jst">09:19 Thursday 12 April 2018 JST</h2>
+
+<p><a href="https://www3.nhk.or.jp/news/easy/k10011396841000/k10011396841000.html">https://www3.nhk.or.jp/news/easy/k10011396841000/k10011396841000.html</a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">11 Apr 2018, 10:58</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/11/wow-wow-fossil-is-awesome/" class="post-title">wow wow fossil is awesome</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="10-58-wednesday-11-april-2018-jst">10:58 Wednesday 11 April 2018 JST</h2>
+
+<p>Fossil is awesome, but I am not ready to switch quite yet.</p>
+
+<p>Can I get Fossil to host my journal like I have Hugo doing now?
+Should I?  The point was to have it as a static site, so I guess not,
+but it seems weird to use something that can host sites just to track
+the site content and not host the site.</p>
+
+<p>ConSwi is not open source, but it is sufficiently small and
+not-production that I might try.  AB is equally not open source, but
+definitely not small.  Hmmm.</p>
+
+<p>So far, I only know a couple commands in Fossil and they seem longer
+than equivalent git commands, but I have not read even a, well, I have
+read a fraction of the Fossil docs, but not a lot.</p>
+
+<p>Goofing around with Fossil, I discovered my commit message project has
+been going for a bit over a year.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_april_a_year_plus.png"><img src="//b.robnugen.com/journal/2018/thumbs/2018_april_a_year_plus.png" alt="2018 april a year plus" /></a></p>
+
+<h2 id="23-13-wednesday-11-april-2018-jst">23:13 Wednesday 11 April 2018 JST</h2>
+
+<p>Ack I can&rsquo;t start Fossil on ConSwi right now because I have a bunch of
+unstaged/uncommitted changes as I do open heart surgery on the project</p>
+
+<p>I need to go to sleep instead of trying to think about how to sort
+this out right now.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">10 Apr 2018, 16:55</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/10/mt3-ready-to-glue-u-turn/" class="post-title">mt3: ready to glue u turn</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-55-tuesday-10-april-2018-jst">16:55 Tuesday 10 April 2018 JST</h2>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/4VMQiS3-XaM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>At the time I am posting this, I actually already glued and tested the
+U turn.</p>
+
+<p>Here is the video I streamed during the test:</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/9TU6CL57Qv4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">10 Apr 2018, 15:30</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/10/francois-with-cement/" class="post-title">francois with cement</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="15-30-tuesday-10-april-2018-jst">15:30 Tuesday 10 April 2018 JST</h2>
+
+<p>うちのと近くに新しいアパートが作られます。　New apartments are
+being built near our house.</p>
+
+<p>今日、そこで写真を撮りました。  Today, I took pictures there.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_april_concrete_near_house.jpg"><img src="//b.robnugen.com/journal/2018/thumbs/2018_april_concrete_near_house.jpg" alt="2018 april concrete near house" /></a></p>
+
+<p>三人はセメントを流し込みました。 Three people poured cement.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_april_francois_near_concrete.jpg"><img src="//b.robnugen.com/journal/2018/thumbs/2018_april_francois_near_concrete.jpg" alt="2018 april francois near concrete" /></a></p>
+
+<p>フランソワの写真を撮りました。  I took a picture of Francois.</p>
+
+<p>フランソワは写真を撮られました。　Francois had his picture taken.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_april_first_geocache.jpg"><img src="//b.robnugen.com/journal/2018/thumbs/2018_april_first_geocache.jpg" alt="2018 april first geocache" /></a></p>
+
+<p>ジオキャッシュが見つかりました。 The geocache was found.</p>
+
+<h2 id="09-46-wednesday-11-april-2018-jst">09:46 Wednesday 11 April 2018 JST</h2>
+
+<p>私は生徒に違う時間にレッスンに来られた。 My students trickled in to
+class (interrupting the class each time).</p>
+
+<p>生徒は私に「コラッ」と言われました。 <ruby><rb>My students got yelled
+at by me.</rb><rt>I yelled at my students.</rt></ruby></p>
+
+<p>（私は）六本木で裸足で歩いた時<ruby><rb>警察官</rb><rt>けいさつかん
+</rt></ruby>に質問をされてカバンの中を<ruby><rb>探</rb><rt>さが</rt></ruby>された。While
+walking barefoot in <ruby><rb>Roppongi</rb><rt>六本木</rt></ruby>, I was questioned by cops and they looked
+through my bag.</p>
+
+<p>（私は）公園で鳥にウンコをかけられた。 <ruby><rb>A bird pooped on
+me</rb><rt>I was pooped on by a bird</rt></ruby> in the park.</p>
+
+<p>（私は）先生に勉強を<ruby><rb>勧</rb><rt>すす</rt></ruby>められました。<ruby><rb>My teacher encouraged me to study.</rb><rt>I was encouraged to study by my teacher.</rt></ruby></p>
+
+<p>先生が私に勉強を勧めました。My teacher encouraged me to study.</p>
+
+<p>私は先生に勉強することを勧められました。　I was encouraged to
+study by my teacher.</p>
+
+<p>என் ஆசிரியரால் படிப்பதற்காக நான் ஊக்கப்படுத்தியிருந்தேன்.　＜ー　
+<a href="https://translate.google.com/#en/ta/I%20was%20encouraged%20to%20study%20by%20my%20teacher.">via Google translate</a></p>
+
+<p>Googleがこれを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>しました。 Google translated this for me.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">09 Apr 2018, 14:21</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/09/last-lesson-this-session/" class="post-title">last lesson this session</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="14-21-monday-09-april-2018-jst">14:21 Monday 09 April 2018 JST</h2>
+
+<p>Today was the last lesson for Ushigoro.  We had finished up everything
+last week, having done their exams, so today we just did lots of Q and
+A sessions, first with the class split into two groups, and then with
+all students asking questions of one student.</p>
+
+<p>I offered my LINE QR code in case they want to ask questions or
+continue practicing their English.  I hope this helps them stay
+engaged until the next session starts.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">08 Apr 2018, 19:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/08/geocache/" class="post-title">geocache</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="19-27-sunday-08-april-2018-jst">19:27 Sunday 08 April 2018 JST</h2>
+
+<p>Lin joined me today as I found my
+<a href="https://coord.info/GLVF178K">first geocache</a></p>
+
+<p>I want to place my own cache, but the site suggests finding between 20
+and 100 caches before placing my own.  Bah.  I guess I will find a
+couple others before I place one.  But the other crummy thing is the
+place I wanted to place a cache is apparently too close to the cache I
+found.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_april_first_geocache.jpg"><img src="//b.robnugen.com/journal/2018/thumbs/2018_april_first_geocache.jpg" alt="2018 april first geocache" /></a></p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+      <a href="/journal/page/51/" class="post-list-pagination-item pure-button post-list-pagination-item-prev">
+        <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+      </a>
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 52 of 707</span>
+    
+      <a href="/journal/page/53/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

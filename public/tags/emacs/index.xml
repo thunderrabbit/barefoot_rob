@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emacs on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/emacs/</link>
+    <description>Recent content in emacs on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 06:39:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginning of the end for using emacs for journal?</title>
+      <link>https://new.robnugen.com/journal/2019/05/08/beginning-of-the-end-for-using-emacs-for-journal/</link>
+      <pubDate>Wed, 08 May 2019 06:39:03 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/05/08/beginning-of-the-end-for-using-emacs-for-journal/</guid>
+      <description>06:39 Wednesday 08 May 2019 JST Emacs is great in many ways. I mostly use dired (Directory Edit) mode, including (bulk) moving and (bulk) renaming files.
+I no longer use it for mail, since mail does not live on my server. Hmm I wonder if &amp;hellip; hmmmm I will ask Fred since I think he still uses Emacs for mail.
+Emacs is great for creating these journal entry templates, and Marble Track 3 episodes and parts.</description>
+    </item>
+    
+    <item>
+      <title>Thank you, Emacs</title>
+      <link>https://new.robnugen.com/journal/2018/12/20/thank-you-emacs/</link>
+      <pubDate>Thu, 20 Dec 2018 20:28:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/12/20/thank-you-emacs/</guid>
+      <description>20:28 Thursday 20 December 2018 JST Super nice: I was able to figure out how to create a function to simplify the creation of web pages for Marble Track 3 Parts](https://www.marbletrack3.com/parts/). Now I just type C-c p in Emacs, then enter the title, tags, and shortcode to produce a file for a new Part in the Marble Track 3 website.
+Today, with said shortcode, I started the page for Medium Catcher Below Triple Splitter.</description>
+    </item>
+    
+    <item>
+      <title>using template for journal entries</title>
+      <link>https://new.robnugen.com/journal/2018/07/22/using-template-for-journal-entries/</link>
+      <pubDate>Sun, 22 Jul 2018 17:40:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/07/22/using-template-for-journal-entries/</guid>
+      <description>17:40 Sunday 22 July 2018 JST I write journal entries with Emacs because I never learned vi. Anyway, I just tweaked my journal creation macros to use templates instead of embedded strings.
+Much easier to tweak and easier on the eyes.
+Next step is to make a macro for episodes on my new website marbletrack3.com</description>
+    </item>
+    
+    <item>
+      <title>Hugo journal entries with Emacs</title>
+      <link>https://new.robnugen.com/journal/2017/11/08/hugo-journal-entries-with-emacs/</link>
+      <pubDate>Wed, 08 Nov 2017 13:42:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/11/08/hugo-journal-entries-with-emacs/</guid>
+      <description>13:42 Wednesday 08 November 2017 JST To kick off this little journal entry, I type C-c j and then enter the title, as many tags as I like, then hit enter a few times to confirm the date, and get the following YAML meta data for the entry:
+--- title: &amp;quot;Hugo journal entries with Emacs&amp;quot; tags: [ &amp;quot;emacs&amp;quot;, &amp;quot;journal&amp;quot;, &amp;quot;quotes&amp;quot;, &amp;quot;hugo&amp;quot; ] author: Rob Nugen date: 2017-11-08T13:42:06+09:00 --- ## 13:42 Wednesday 08 November 2017 JST  Today I modified my code to add quotes around the title (so my Marble Track 3 entries can have titles including colons: &amp;ldquo;mt3: started last track&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>easy hugo</title>
+      <link>https://new.robnugen.com/journal/2017/07/20/easy-hugo/</link>
+      <pubDate>Thu, 20 Jul 2017 08:41:28 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/20/easy-hugo/</guid>
+      <description>08:41 Thursday 20 July 2017 JST I have just cloned Emacs Easy Hugo to see if it provides things I like.
+10:03 Thursday 20 July 2017 JST Could not get it to do anything; it just says &amp;ldquo;hugo not installed&amp;rdquo; and I do not see how to tell Emacs where it has been installed.</description>
+    </item>
+    
+    <item>
+      <title>dear /r/emacs</title>
+      <link>https://new.robnugen.com/journal/2017/07/08/dear-/r/emacs/</link>
+      <pubDate>Sat, 08 Jul 2017 14:23:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/08/dear-/r/emacs/</guid>
+      <description>14:23 Saturday 08 July 2017 JST Dear /r/emacs
+I use Emacs to prepare text files that will be processed by a static site generator (Hugo).
+The YAML topmatter can include multiple tags, so I would like the option of entering more tags into my file preparation function.
+My functions ask me for Title, Tag, and date.. then produce output like this:
+--- title: reddit emacs tags: [ &amp;quot;emacs&amp;quot; ] author: Rob Nugen date: 2017-07-08T14:23:30+09:00 --- ## 14:23 Saturday 08 July 2017 JST  I would like emacs to keep asking me for tags so it could produce output like this, for example:</description>
+    </item>
+    
+    <item>
+      <title>hugo tags</title>
+      <link>https://new.robnugen.com/journal/2017/07/07/hugo-tags/</link>
+      <pubDate>Fri, 07 Jul 2017 10:44:32 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/07/hugo-tags/</guid>
+      <description>10:44 Friday 07 July 2017 JST Nice. I can still only read one tag, but now at least my function writes (e.g.)
+tags: [ &amp;quot;journal&amp;quot; ]  instead of
+tags: [ &amp;ldquo;journal&amp;rdquo; ]
+so I can add tags more easily.</description>
+    </item>
+    
+    <item>
+      <title>Emacs macro for new journal entries</title>
+      <link>https://new.robnugen.com/journal/2017/03/29/emacs-macro-for-new-journal-entries/</link>
+      <pubDate>Wed, 29 Mar 2017 20:11:37 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/03/29/emacs-macro-for-new-journal-entries/</guid>
+      <description>20:11 Wednesday 29 March 2017 JST Since switching my journal to use Hugo, I wrote a little macro to help me start new entries. I type C-c j to create a new journal entry. It prompts me for a title, a tag, year, month, and date, filling in the last three with today&amp;rsquo;s defaults.
+It creates a file, then inserts a YAML block at the top of the file, writes the current date a couple lines below that and I&amp;rsquo;m ready to type.</description>
+    </item>
+    
+    <item>
+      <title>Updated hakyll.el</title>
+      <link>https://new.robnugen.com/journal/2015/02/12/updated-hakyll.el/</link>
+      <pubDate>Thu, 12 Feb 2015 20:49:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/12/updated-hakyll.el/</guid>
+      <description>##20:49 Thursday 12 February 2015 JST##
+Though I&amp;rsquo;m no longer exclusively considering Hakyll, my emacs extension is still called hakyll.el. I&amp;rsquo;ve just tweaked it to add the time to the date: field in the frontmatter, and set auto-fill-mode for the buffer:
+;;; hakyll.el --- Convenience functions for working with Hakyll. ;; ;;; Commentary: ;; Convenience functions for working with Hakyll. ;;; Code: (defvar hakyll-site-location &amp;quot;~/journal/&amp;quot; &amp;quot;The location of the Hakyll files.</description>
+    </item>
+    
+    <item>
+      <title>Fixed default values when creating new entries</title>
+      <link>https://new.robnugen.com/journal/2014/12/01/fixed-default-values-when-creating-new-entries/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/12/01/fixed-default-values-when-creating-new-entries/</guid>
+      <description>##14:15 Monday 01 December 2014 JST##
+I updated the hakyll-new-post definition to give default values for the date when I creat a new journal entry. Now instead of having to look up the date and enter it, I just hit enter (three times) and it enters the date components.
+Thanks to this answer on SO, my code features read-string which can take default values:
+(defun hakyll-new-post (title tags yyyy mm dd) &amp;quot;Create a new Hakyll post for today with TITLE and TAGS.</description>
+    </item>
+    
+    <item>
+      <title>A reasonable(?) way to insert images</title>
+      <link>https://new.robnugen.com/journal/2014/11/07/a-reasonable-way-to-insert-images/</link>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/07/a-reasonable-way-to-insert-images/</guid>
+      <description>##10:02 Friday 07 November 2014 JST##
+Though I still have to copy the image names by hand, once they are in the correct directories, I have a pretty okay way of inserting them into my journal pages.
+For most images, I&amp;rsquo;ve settled on a convention of putting the main image in a directory, and then thumbnails for the image(s) in a
+For most of *those* images, I place them in ```images/yyyy/mm/``` directories for the year and month they were taken.</description>
+    </item>
+    
+    <item>
+      <title>Hmm.. how can I insert images easily?</title>
+      <link>https://new.robnugen.com/journal/2014/11/01/hmm..-how-can-i-insert-images-easily/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/01/hmm..-how-can-i-insert-images-easily/</guid>
+      <description>##13:40 Saturday 01 November 2014 JST##
+I&amp;rsquo;ve installed Prelude Emacs, hoping that it will support my desire to easily embed images in my journal entries. To insert an image, I need to insert soemthing like this:
+![alt text](/path/to/image.png)  The idea is that I type some keys, in this case C-x ! and I interactively am asked for the alt text and then can quickly get a list of images based on the year/month of my current journal entry, in this case 2014&amp;frasl;11.</description>
+    </item>
+    
+    <item>
+      <title>Fixed emacs hakyll.el</title>
+      <link>https://new.robnugen.com/journal/2014/10/30/fixed-emacs-hakyll.el/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/30/fixed-emacs-hakyll.el/</guid>
+      <description>##12:09pm Thursday 30 October 2014##
+Well it&amp;rsquo;s not 100% yet, but at least it&amp;rsquo;s not ridiculously broken.
+##12:27pm##
+Sweet! Now it&amp;rsquo;s working.
+https://gist.github.com/thunderrabbit/453c1e1c4a959f113d10/2dcf93f6fa89ecd389c7901699fb26b670a78881
+I will probably remove the &amp;ldquo;description:&amp;rdquo; meta data (cause I never use it), and eventually I&amp;rsquo;d like to have default values for year, month, and date fields.
+##14:00##
+Oh crud; it creates the files in the incorrect directory.
+##20:07##
+Fixed.
+https://gist.github.com/thunderrabbit/453c1e1c4a959f113d10/88eec8d412c90c5eea5ca8ac77c732e554751006</description>
+    </item>
+    
+  </channel>
+</rss>

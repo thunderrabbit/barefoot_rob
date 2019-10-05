@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mac/</link>
+    <description>Recent content in mac on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 13:05:08 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>battery dead</title>
+      <link>https://new.robnugen.com/journal/2019/04/12/battery-dead/</link>
+      <pubDate>Fri, 12 Apr 2019 13:05:08 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/04/12/battery-dead/</guid>
+      <description>09:05 Monday 01 January 2018 JST The battery on my Mac is so dead that it cannot even remember the date. Today is actually April 12th, 2019, not Jan 1st, 2018.
+14:09 Friday 12 April 2019 JST That&amp;rsquo;s more like it.</description>
+    </item>
+    
+    <item>
+      <title>new battery and fans</title>
+      <link>https://new.robnugen.com/journal/2018/12/03/new-battery-and-fans/</link>
+      <pubDate>Mon, 03 Dec 2018 18:30:02 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/12/03/new-battery-and-fans/</guid>
+      <description>18:30 Monday 03 December 2018 JST Thanks to Lantz for replacing the battery and both fans in just 30 minutes at Loreatec. (30 minutes after waiting a week for parts to be shipped)
+Machine works and is back to being quiet. yay!</description>
+    </item>
+    
+    <item>
+      <title>MBP to get new parts</title>
+      <link>https://new.robnugen.com/journal/2015/06/29/mbp-to-get-new-parts/</link>
+      <pubDate>Mon, 29 Jun 2015 21:41:34 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/29/mbp-to-get-new-parts/</guid>
+      <description>21:41 Monday 29 June 2015 JST I&amp;rsquo;m planning to take my computer to Apple on Wednesday; I don&amp;rsquo;t have an excellent replacement computer, but I&amp;rsquo;m hoping the old Dell will be enough.
+Unfortunately I can&amp;rsquo;t do Unity on the Dell. I&amp;rsquo;ll try to install Unity on my old MacBook.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/website/</link>
+    <description>Recent content in website on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2019 07:46:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Netlify helped me fix my website</title>
+      <link>https://new.robnugen.com/journal/2019/09/25/how-netlify-helped-me-fix-my-website/</link>
+      <pubDate>Wed, 25 Sep 2019 07:46:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/25/how-netlify-helped-me-fix-my-website/</guid>
+      <description>My website stopped working recently. More accurately, Hugo stopped rendering the /blog and /journal portions of my website. The last time it worked was 2 weeks ago. I noticed that my local version of Hugo had gotten updated (*) and checked the releases.. sure enough there was a change to something related to that I had tweaked regarding indices.
+The problem languished for a while until I remembered that Netlify allows choosing which version of Hugo to use.</description>
+    </item>
+    
+    <item>
+      <title>tech moe joe</title>
+      <link>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</link>
+      <pubDate>Sun, 22 Sep 2019 23:44:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</guid>
+      <description>(written 23:44 Sunday 22 September 2019 JST)
+Moe Joe. AB server ELB is causing or revealing 502s. Locally, I rebooted my elderly Macbook and the USB cable is still not working. I reset the printer system and the printer still will not print. I tried to copy a document and the printer would not copy it. And latest version of Hugo is not creating my website subdirectories (/journal or /blog).</description>
+    </item>
+    
+    <item>
+      <title>New top page of robnugen.com</title>
+      <link>https://new.robnugen.com/journal/2019/09/12/new-top-page-of-robnugen.com/</link>
+      <pubDate>Thu, 12 Sep 2019 08:55:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/12/new-top-page-of-robnugen.com/</guid>
+      <description>Curiously, the top page of my website suddenly stopped showing the latest blog entries. Last night I tried to get it working again or to at least figure out what happened, but I could do neither.
+Today, I realize it is a chance to just redo my top page altogether.
+Done is better than perfect, so let&amp;rsquo;s get it done.</description>
+    </item>
+    
+    <item>
+      <title>plans</title>
+      <link>https://new.robnugen.com/journal/2019/08/31/plans/</link>
+      <pubDate>Sat, 31 Aug 2019 18:51:29 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/08/31/plans/</guid>
+      <description>I have often wondered about ways to write journal entries on some small device and incorporate them into my online journal.
+I used to use a Handspring Visor, until the foldable keyboard folded for the last time and the Visor perhaps got replaced with a laptop? It had some way to sync, probably USB.
+Anyway, I&amp;rsquo;ve got a handheld screen here with Swype keyboard, and I am writing this as an email to myself which I hope to remember to cut and paste into a full on my local file system and incorporate into my git repository for journal entries.</description>
+    </item>
+    
+    <item>
+      <title>Expanding shortlinks on Marble Track 3 website</title>
+      <link>https://new.robnugen.com/journal/2019/05/07/expanding-shortlinks-on-marble-track-3-website/</link>
+      <pubDate>Tue, 07 May 2019 08:09:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/05/07/expanding-shortlinks-on-marble-track-3-website/</guid>
+      <description>08:09 Tuesday 07 May 2019 JST Now that I will not likely add any more shortlinks to Marble Track 3 website, I have been expanding them in the markdown, which will save a redirect each time people click on the links.</description>
+    </item>
+    
+    <item>
+      <title>New MT3 site design coming soon</title>
+      <link>https://new.robnugen.com/journal/2019/01/11/new-mt3-site-design-coming-soon/</link>
+      <pubDate>Fri, 11 Jan 2019 22:28:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/01/11/new-mt3-site-design-coming-soon/</guid>
+      <description>22:28 Friday 11 January 2019 JST I wrote a post on Hugo forums to find a site designer who can make a nice design for Marble Track 3. As of this writing, the website uses my tweak of Castanet, and looks like this Marble Track 3 site v2 (via archive.org)
+Because the project takes some time to explain, I want the website to quickly give people an overview, and allow people to click in to get more details if they like.</description>
+    </item>
+    
+    <item>
+      <title>nearly finished v2 of Marble Track 3 website</title>
+      <link>https://new.robnugen.com/journal/2018/11/16/nearly-finished-v2-of-marble-track-3-website/</link>
+      <pubDate>Fri, 16 Nov 2018 15:29:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/11/16/nearly-finished-v2-of-marble-track-3-website/</guid>
+      <description>15:29 Friday 16 November 2018 JST I have been working on a new version of Marble Track 3 website for a few days.. The new version completely hides the livestreams and just focuses on the workers, the track pieces they make, and people who helped with the project.
+There are a few rough spots, but it will likely be up within a week.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bug &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="bug &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="bug &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">01 Dec 2017, 23:18</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/12/01/prevent-unauthorized-root-access-in-os-x-high-sierra/" class="post-title">prevent unauthorized root access in OS X High Sierra</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="23-18-friday-01-december-2017-jst">23:18 Friday 01 December 2017 JST</h2>
+
+<p>Oops.
+<a href="https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/">https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/</a></p>
+
+<p><a href="//b.robnugen.com/software/bad/osx/high_sierra/root_access.png"><img src="//b.robnugen.com/software/bad/osx/high_sierra/thumbs/root_access.png" alt="root access" /></a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">11 Oct 2017, 05:46</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/10/11/godot/" class="post-title">godot</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="05-46-wednesday-11-october-2017-jst">05:46 Wednesday 11 October 2017 JST</h2>
+
+<p>Last night I decided to look at using <a href="https://godotengine.org">Godot</a>
+to develop our next game.  I downloaded and opened it up, but it could
+not open the list of templates.</p>
+
+<p><strong>Operating system or device, Godot version:</strong></p>
+
+<p>OS X 10.12.6, Godot v2.1.4.stable.official</p>
+
+<p><strong>Issue description:</strong></p>
+
+<p>Run Godot first time, the Project Manager window appears, but cannot connect to sample templates.</p>
+
+<pre><code>Can't connect to host: https://godotengine.org/asset-library/api
+</code></pre>
+
+<p>Looks like the same as <a href="https://github.com/godotengine/godot/issues/7545">#7545</a>, but on OS X instead of Windows</p>
+
+<p><strong>Steps to reproduce:</strong></p>
+
+<pre><code>Open Godot in OS X
+Wait 30 seconds for it to load
+Click Templates tab in Godot Engine - Project Manager window
+Error message appears at the bottom
+</code></pre>
+
+<p><code>Can't connect to host: https://godotengine.org/asset-library/api</code></p>
+
+<p><strong>Screenshot:</strong></p>
+
+<p><img src="https://user-images.githubusercontent.com/21597/31409360-935c1996-ae46-11e7-9723-2e8d612a06c6.png" alt="os x godot project manager v2 1 4 stable official" /></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">13 Jan 2016, 18:50</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/01/13/fixed-a-bug-that-i-missed-due-to-lack-of-testing/" class="post-title">fixed a bug that I missed due to lack of testing</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="18-50-wednesday-13-january-2016-jst">18:50 Wednesday 13 January 2016 JST</h2>
+
+<p>Oops shit.  I didn&rsquo;t fully test the system before putting admin server
+live.  That shit won&rsquo;t happen again because I&rsquo;ve got Ghost Inspector
+on my side, helping me inspect the site.  I&rsquo;ve taught it how to test
+logging in, fucking up the log in, viewing the units list, and the
+unit edit page, as well as the group-of-units list and the
+group-of-units edit page.</p>
+
+<p>I still need to teach it how to check inquiries, both saved and
+unsaved, plus contacts, owners, sets and some other shit, but thanks
+to Ghost Inspector Runscape package, I get 1000 free tests per month.
+Yay!  I really want to pay them something though.  I paid Alan who
+made ngrok so I figure I might as well pay Ghost Inspector cause it
+seems they are actually doing more.</p>
+
+<p>As soon as I get home, I&rsquo;ll push this not fully tested fix online,
+then get back to making more tests.  Aww yeah.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">13 Jan 2016, 16:33</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/01/13/missed-the-point/" class="post-title">missed the point</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-33-wednesday-13-january-2016-jst">16:33 Wednesday 13 January 2016 JST</h2>
+
+<p>Now, I&rsquo;m not 100% sure this is a bug, but I reported to AWS a few days
+ago:</p>
+
+<pre><code>S3 bug: cannot create two lifecycle rules that apply to whole S3 bucket
+</code></pre>
+
+<p>That&rsquo;s just the title; I spelled it out a bit in the body of the
+message.</p>
+
+<p>But today I got back a steaming pile of useless reply:</p>
+
+<pre><code>Hello Rob,
+
+This is ______ from the AWS Billing Department.
+
+Thank you for contacting AWS Billing and Accounts support.  I
+apologize for the issue you've been experiencing with S3.
+
+Unfortunately, the complexity of your question is outside our
+scope of knowledge here in Billing and Accounts ... blah blah
+</code></pre>
+
+<p>Okay so fine; I&rsquo;m not paying for support, so my ticket gets low
+priority.  But I didn&rsquo;t ask a question.  I&rsquo;m trying to help out
+Amazon.</p>
+
+<p>If I remember, I will send them the identical message via an account
+which has support as an option and see how they respond.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">11 Nov 2015, 15:45</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/11/11/yikes-stripes-i-found-an-old-bug/" class="post-title">Yikes stripes I found an old bug</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="15-45-wednesday-11-november-2015-jst">15:45 Wednesday 11 November 2015 JST</h2>
+
+<p>Man oh man I&rsquo;m lucky there aren&rsquo;t that many affected rows, but when AB
+client requested that four fields in their main table allow DECIMAL
+values and not just INTegers, I didn&rsquo;t change the
+summary-of-main-table in the same way.  So each time a record was
+saved to main table, its summary was saved with truncated values in
+those fields.</p>
+
+<p>Dang.</p>
+
+<p>Fortunately, there aren&rsquo;t many times that decimal values are needed in
+those fields.  (&hellip; which is why INTs worked for them originally.)</p>
+
+<p>It&rsquo;s fixed now, but I need to create a query that will return all main
+field records with decimal values so AB staff can go back and update
+the corresponding summary-of-main-table records as needed.</p>
+
+<h2 id="16-33">16:33</h2>
+
+<p>For the query I mentioned, I could simply define a query to do it,
+which I&rsquo;ve done before, but all in code.  I wonder if I can set up a
+query in the DB, give it some meta-data and let the code write itself?</p>
+
+<h2 id="15-28-thursday-12-november-2015-jst">15:28 Thursday 12 November 2015 JST</h2>
+
+<p>So I wrote half the code to allow queries to be stored in the DB, but
+then abandoned it in favor of doing some other (higher priority (and
+higher paying)) tasks first.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">01 Sep 2015, 18:29</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/09/01/played-pop-pop-chaos-with-rancidpony/" class="post-title">Played Pop Pop Chaos with rancidpony</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="18-29-tuesday-01-september-2015-jst">18:29 Tuesday 01 September 2015 JST</h2>
+
+<p>A couple days ago I noted someone burst a bubble on
+<a href="https://www.poppopchaos.com/">Pop Pop Chaos</a>, so I joined the fun!  It
+seemed s/he was only interested in bursting bubbles, not creating
+them, so I created some, and then joined the fun and we just popped
+alll the bubbles.  The white ones kept coming back, as they do, but
+then after a while I created a bunch of blue bubbles in a row, so he&rsquo;d
+(be more likely to) know it wasn&rsquo;t computer-generated bubbles, well..
+not algorithm generated,.. well, anyway, then blam!  he made a bunch
+of yellow bubbles, and raced up the leaderboard and then suddenly
+vanished!  I was like O_o what happened?</p>
+
+<p>I found houston:admin, which perfectly augmented the app with DB admin
+skillz.  Perfect!  I discovered what happened: in his flurry of
+creates, rancidpony won a race with the server and created more
+bubbles than he had points to create!</p>
+
+<p>His point value went negative and he promptly vanished from the high
+score list, because that&rsquo;s how I was distinguishing <em>my</em> account
+(which always has permissions to create, despite its score of -2300 or
+something.</p>
+
+<p>So I retooled the logic which populates the leaderboard to say admin
+cannot join, but negative score people are welcome.  So rancidpony has
+-35 points and is halfway up the leaderboard!</p>
+
+<p>AND <a href="https://www.poppopchaos.com/about">rancidpony is credited</a> with
+finding a bug. Thanks!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">06 Dec 2014, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2014/12/06/ab-error/" class="post-title">AB error</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##01:22 Saturday 06 December 2014 JST##</p>
+
+<p>Hmm my automagical report generator doesn&rsquo;t automagically pull in the
+buildings table when users request # of minutes to station, which
+requires the building ID to look up the stations.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

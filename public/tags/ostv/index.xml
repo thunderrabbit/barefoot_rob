@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ostv on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/ostv/</link>
+    <description>Recent content in ostv on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2015 15:21:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/ostv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tvOS vocab builder</title>
+      <link>https://new.robnugen.com/journal/2015/11/25/tvos-vocab-builder/</link>
+      <pubDate>Wed, 25 Nov 2015 15:21:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/25/tvos-vocab-builder/</guid>
+      <description>15:21 Wednesday 25 November 2015 JST Nearly got my audio manager thing working for the osTV app we&amp;rsquo;re making, but it&amp;rsquo;s got a design flaw or two or more. Basically it needs to load data from the web before it knows what words it can play. So I need it to wait for the words&amp;hellip; maybe I can make it a singleton to simplify things. hmm</description>
+    </item>
+    
+  </channel>
+</rss>

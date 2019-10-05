@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hugo journal entries with Emacs &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Hugo journal entries with Emacs &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Hugo journal entries with Emacs &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">08 Nov 2017, 13:42</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/11/08/hugo-journal-entries-with-emacs/" class="post-title">Hugo journal entries with Emacs</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h2 id="13-42-wednesday-08-november-2017-jst">13:42 Wednesday 08 November 2017 JST</h2>
+
+<p>To kick off this little journal entry, I type C-c j and then enter the
+title, as many tags as I like, then hit enter a few times to confirm
+the date, and get the following YAML meta data for the entry:</p>
+
+<pre><code>---
+title: &quot;Hugo journal entries with Emacs&quot;
+tags: [ &quot;emacs&quot;, &quot;journal&quot;, &quot;quotes&quot;, &quot;hugo&quot; ]
+author: Rob Nugen
+date: 2017-11-08T13:42:06+09:00
+---
+
+## 13:42 Wednesday 08 November 2017 JST
+</code></pre>
+
+<p>Today I modified my code to add quotes around the title (so my Marble
+Track 3 entries can have titles including colons: &ldquo;mt3: started last
+track&rdquo;</p>
+
+<p>And, I modified my Japanese journal entries to make the filename be
+English, but the title be Japanese.  That was done just by hardcoding
+the filename, but for now I am fine with that.  Just don&rsquo;t tell
+Travis.</p>
+
+<p>Code for <code>~/.emacs.d/personal/hakyll/hakyll.el</code>is here
+<a href="https://gist.github.com/thunderrabbit/453c1e1c4a959f113d10#file-hakyll-el">https://gist.github.com/thunderrabbit/453c1e1c4a959f113d10#file-hakyll-el</a>
+and here:</p>
+
+<pre><code>;;; journal.el --- Convenience functions for working with journal.
+;;
+;;; Commentary:      
+;; Convenience functions for working with journal.
+
+;;; Code:
+
+(defvar journal-site-location &quot;~/journal/&quot;
+  &quot;The location of the journal files.&quot;)
+
+(defun journal-insert-image (alt-text)
+  &quot;Insert an image from /images/yyyy/mm to current buffer /posts/yyyy/mm/dd/....md&quot;
+  (interactive &quot;sAltText: &quot;)
+  (let ((yyyymm (substring buffer-file-name 35 42)))
+    (insert
+     (format &quot;![%s](/images/%s/thumbs/&quot;
+         alt-text
+         yyyymm
+         ))
+    )
+  )
+
+(fset 'ruby-tag-create-region
+   &quot;\C-w&lt;ruby&gt;&lt;rb&gt;\C-y&lt;/rb&gt;&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;&quot;)
+
+(defun journal-new-dream-post (title tags yyyy mm dd)
+  &quot;Create a new journal post for today with TITLE and TAGS.&quot;
+  (interactive (list
+        (read-string (format &quot;Title: (%s):&quot; &quot;Dream&quot;) nil nil &quot;Dream&quot;) 
+        (read-string (format &quot;Tags: (%s):&quot; &quot;dream&quot;) nil nil &quot;dream&quot;)
+                (read-string (format &quot;Year (%s): &quot; (format-time-string &quot;%Y&quot;)) nil nil (format-time-string &quot;%Y&quot;))
+                (read-string (format &quot;Month (%s): &quot; (format-time-string &quot;%m&quot;)) nil nil (format-time-string &quot;%m&quot;))
+                (read-string (format &quot;Date (%s): &quot; (format-time-string &quot;%d&quot;)) nil nil (format-time-string &quot;%d&quot;))
+        )
+           )
+  (let (
+    (file-name (journal-post-title dd title))
+    (file-path (journal-post-path title yyyy mm dd))
+    )
+    (set-buffer (get-buffer-create file-path))
+    (insert
+     (format &quot;---\ntitle: \&quot;%s\&quot;\ntags: %s\nauthor: Rob Nugen\ndate: %s-%s-%sT%s\n---\n\n%s\n\n&quot;
+             title
+         (downcase tags)
+         yyyy
+         mm
+         dd
+         (format-time-string &quot;%H:%M:%S+09:00&quot;)
+         (format-time-string &quot;## %H:%M %A %d %B %Y %Z&quot;)
+         ))
+    (write-file
+     (expand-file-name file-path (concat journal-site-location &quot;&quot;)))
+    (switch-to-buffer file-name)
+    (auto-fill-mode)
+  )
+)
+
+(defun journal-new-japanese-post (title tags yyyy mm dd)
+  &quot;Create a new journal post for today with TITLE and TAGS.&quot;
+  (interactive (list
+        (read-string (format &quot;Title: (%s):&quot; &quot;日本語を勉強しました&quot;) nil nil &quot;日本語を勉強しました&quot;)
+        (read-string (format &quot;Tags: (%s):&quot; &quot;日本語&quot;) nil nil &quot;日本語&quot;)
+                (read-string (format &quot;Year (%s): &quot; (format-time-string &quot;%Y&quot;)) nil nil (format-time-string &quot;%Y&quot;))
+                (read-string (format &quot;Month (%s): &quot; (format-time-string &quot;%m&quot;)) nil nil (format-time-string &quot;%m&quot;))
+                (read-string (format &quot;Date (%s): &quot; (format-time-string &quot;%d&quot;)) nil nil (format-time-string &quot;%d&quot;))
+        )
+           )
+  (let (
+    (file-name (journal-post-title dd &quot;studied japanese&quot;))
+    (file-path (journal-post-path &quot;studied japanese&quot; yyyy mm dd))
+    )
+    (set-buffer (get-buffer-create file-path))
+    (insert
+     (format &quot;---\ntitle: \&quot;%s\&quot;\ntags: %s\nauthor: Rob Nugen\ndate: %s-%s-%sT%s\n---\n\n%s\n\n### There are probably errors in the Japanese notes below!\n\n&quot;
+             title
+         (downcase tags)
+         yyyy
+         mm
+         dd
+         (format-time-string &quot;%H:%M:%S+09:00&quot;)
+         (format-time-string &quot;## %H:%M %A %d %B %Y %Z&quot;)
+         ))
+    (write-file
+     (expand-file-name file-path (concat journal-site-location &quot;&quot;)))
+    (switch-to-buffer file-name)
+    (auto-fill-mode)
+  )
+)
+
+(defun journal-new-post (title tags yyyy mm dd)
+  &quot;Create a new journal post for today with TITLE and TAG.&quot;
+  (interactive (list
+                (read-string &quot;Title: &quot;)
+                (journal-read-tags)
+                (read-string (format &quot;Year (%s): &quot; (format-time-string &quot;%Y&quot;)) nil nil (format-time-string &quot;%Y&quot;))
+                (read-string (format &quot;Month (%s): &quot; (format-time-string &quot;%m&quot;)) nil nil (format-time-string &quot;%m&quot;))
+                (read-string (format &quot;Date (%s): &quot; (format-time-string &quot;%d&quot;)) nil nil (format-time-string &quot;%d&quot;))
+                )
+               )
+  (let (
+        (file-name (journal-post-title dd title))
+        (file-path (journal-post-path title yyyy mm dd))
+        )
+    (set-buffer (get-buffer-create file-path))
+    (insert
+     (format &quot;---\ntitle: \&quot;%s\&quot;\ntags: [ %s, \&quot;\&quot; ]\nauthor: Rob Nugen\ndate: %s-%s-%sT%s\n---\n\n%s\n\n&quot;
+             title
+             (mapconcat (lambda (x) (format &quot;\&quot;%s\&quot;&quot; (downcase x)))
+                   tags &quot;, &quot;)
+             yyyy
+             mm
+             dd
+             (format-time-string &quot;%H:%M:%S+09:00&quot;)
+             (format-time-string &quot;## %H:%M %A %d %B %Y %Z&quot;)
+             ))
+    (write-file
+     (expand-file-name file-path (concat journal-site-location &quot;&quot;)))
+    (switch-to-buffer file-name)
+    (auto-fill-mode)
+  )
+)
+
+(defun my-test (title tags)
+   (interactive (list (read-string &quot;Title: &quot;) (journal-read-tags)))
+   (message &quot;%s: %s&quot; title
+
+(mapconcat (lambda (x) (format &quot;'%s'&quot; x))
+           tags &quot;, &quot;)
+
+            ))
+
+(defun journal-read-tags ()
+  (let (tags tag done)
+    (while (not done)
+      (setq tag (read-string &quot;Tag: &quot;))
+      (if (= (length tag) 0)
+          (setq done t)
+        (push tag tags)))
+    (nreverse tags)))
+
+;;;  https://stackoverflow.com/a/251922
+
+
+(defvar current-date-time-format &quot;## %H:%M %A %d %B %Y %Z&quot;
+  &quot;Format of date to insert with `insert-current-date-time' func
+See help of `format-time-string' for possible replacements&quot;)
+
+(defvar current-time-format &quot;## %H:%M&quot;
+  &quot;Format of date to insert with `insert-current-time' func.
+Note the weekly scope of the command's precision.&quot;)
+
+
+(defun markdown-timestamp-full ()
+  &quot;Insert the current date and time into current buffer.  Uses `current-date-time-format' for the formatting the date/time.&quot;
+       (interactive)
+       (insert (format-time-string current-date-time-format (current-time)))
+       (insert &quot;\n&quot;)
+       )
+
+(defun markdown-timestamp-short ()
+  &quot;Insert the current time (1-week scope) into the current buffer.&quot;
+       (interactive)
+       (insert (format-time-string current-time-format (current-time)))
+       (insert &quot;\n&quot;)
+  )
+
+(defun journal-new-note (title)
+  &quot;Create a new Note with TITLE.&quot;
+  (interactive &quot;sTitle: &quot;)
+  (let ((file-name (journal-note-title title)))
+    (set-buffer (get-buffer-create file-name))
+    (insert (format &quot;---\ntitle: %s\ndescription: \n---\n\n&quot; title))
+    (write-file
+     (expand-file-name file-name (concat journal-site-location &quot;notes&quot;)))
+    (switch-to-buffer file-path)))
+
+(defun journal-post-title (dd title)
+  &quot;Return a file name based on TITLE for the post.&quot;
+  (concat dd
+   (url-safe-string title)
+   &quot;.md&quot;))
+
+(defun journal-post-path (title yyyy mm dd)
+  &quot;Return a file path based on TITLE and date.&quot;
+  (concat
+   yyyy &quot;/&quot; mm &quot;/&quot; dd
+   (url-safe-string title)
+   &quot;.md&quot;))
+
+(defun journal-note-title (title)
+  &quot;Return a file name based on TITLE for the note.&quot;
+  (concat
+   (url-safe-string title)
+   &quot;.md&quot;))
+
+(defun url-safe-string (title)
+  &quot;Return a URL-safe title based on TITLE.&quot;
+  (replace-regexp-in-string &quot;[:!']&quot; &quot;&quot;
+    (replace-regexp-in-string &quot; &quot; &quot;-&quot; (downcase title))
+    )
+  )
+
+
+(provide 'journal)
+;;; hakyll.el ends here
+</code></pre>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2017/11/09/mt3-knocked-off-the-stage-by-the-big-ball/" rel="prev" style="float: left!important">❮ mt3: knocked off the stage by the big ball</a>
+                  <a href="https://new.robnugen.com/journal/2017/11/08/hey-ya-wanna-make-a-quick-800-bucks/" rel="next" style="float: right!important"> hey, ya wanna make a quick 800 bucks? ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

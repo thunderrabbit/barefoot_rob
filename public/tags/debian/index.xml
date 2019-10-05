@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debian on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/debian/</link>
+    <description>Recent content in debian on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jun 2015 14:19:21 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Might get Alienware 13 or so</title>
+      <link>https://new.robnugen.com/journal/2015/06/23/might-get-alienware-13-or-so/</link>
+      <pubDate>Tue, 23 Jun 2015 14:19:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/23/might-get-alienware-13-or-so/</guid>
+      <description>14:19 Tuesday 23 June 2015 JST Though it features Windows 8.1; I can add Debian and retain warranty.</description>
+    </item>
+    
+    <item>
+      <title>Getting Debian lined up</title>
+      <link>https://new.robnugen.com/journal/2015/06/12/getting-debian-lined-up/</link>
+      <pubDate>Fri, 12 Jun 2015 15:11:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/12/getting-debian-lined-up/</guid>
+      <description>15:11 Friday 12 June 2015 JST I&#39;m using my Debian box now, wirelessly (thanks to you), using a dual monitor setup (thanks to Debian maintainers), and have gotten several things working well, almost including the ability to make changes for work while my other machine is in the shop. You suggested that I can reinstall Debian when I get my next PC, but is there some way to save time reinstalling all the junk on a new Debian install?</description>
+    </item>
+    
+    <item>
+      <title>hacking Debian to bits</title>
+      <link>https://new.robnugen.com/journal/2015/05/29/hacking-debian-to-bits/</link>
+      <pubDate>Fri, 29 May 2015 11:24:38 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/29/hacking-debian-to-bits/</guid>
+      <description>11:24 Friday 29 May 2015 JST Crud.
+I forgot to consider the chipset when getting my wifi USB thing. I can&amp;rsquo;t figure out how to make Debian use it.
+The Dell is essentially not useable for me as a work computer without wifi unless I string a network cable from our living room to my desk, which I don&amp;rsquo;t think Lin would like because I can&amp;rsquo;t do it in a way that will allow the doors to close (without damaging the house).</description>
+    </item>
+    
+    <item>
+      <title>let the merging begin!</title>
+      <link>https://new.robnugen.com/journal/2015/05/23/let-the-merging-begin/</link>
+      <pubDate>Sat, 23 May 2015 12:40:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/23/let-the-merging-begin/</guid>
+      <description>12:40 Saturday 23 May 2015 JST I&amp;rsquo;m writing this from my MBP. The Dell crawled to molasses speed after a bit, and I&amp;rsquo;m still optimistic that I won&amp;rsquo;t have to powercycle it. It&amp;rsquo;s still a bit responsive, so I just want to close some programs and see if I can get it working again without shutting it down completely.
+12:50 The Dell is responding again, but I didn&amp;rsquo;t need to merge anything in git; I pushed from local MBP and then pulled, committed, and pushed on Dell and now pulled on MBP, so I&amp;rsquo;m back to 95% thinking I&amp;rsquo;ll have to merge somewhere in the near future.</description>
+    </item>
+    
+    <item>
+      <title>Getting Virtualbox Sorted</title>
+      <link>https://new.robnugen.com/journal/2015/05/23/getting-virtualbox-sorted/</link>
+      <pubDate>Sat, 23 May 2015 11:48:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/23/getting-virtualbox-sorted/</guid>
+      <description>11:48 Saturday 23 May 2015 JST On my old computer, I did something like right-click - show this box in Finder. The box is in its own folder so I just copied that entire folder over the network to my debian box overnight. Took about 6 hours as it&amp;rsquo;s maybe 38GB (more than 10% of my previously planned HD partition, and nearly than 40% of my previously-planned-to-purchase HD size!)</description>
+    </item>
+    
+    <item>
+      <title>Getting Debian Sorted</title>
+      <link>https://new.robnugen.com/journal/2015/05/23/getting-debian-sorted/</link>
+      <pubDate>Sat, 23 May 2015 11:30:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/23/getting-debian-sorted/</guid>
+      <description>11:30 Saturday 23 May 2015 JST HAahah (*) tell you in a second
+&amp;ldquo;Debian seems fine,&amp;rdquo; I told Travis via email, because it does. The computer is a bit slow, but that&amp;rsquo;s not Debian&amp;rsquo;s fault. It&amp;rsquo;s my fault for using old hardware.
+After turning on filesharing from my old machine, I successfully copied the virtualbox box for CB to this machine, but haven&amp;rsquo;t got it started because the network adapter settings are different on this hardware.</description>
+    </item>
+    
+    <item>
+      <title>Trying Debian</title>
+      <link>https://new.robnugen.com/journal/2015/05/22/trying-debian/</link>
+      <pubDate>Fri, 22 May 2015 11:50:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/22/trying-debian/</guid>
+      <description>11:50 Friday 22 May 2015 JST At Travis&amp;rsquo; suggestion, I&amp;rsquo;m gonna try Debian on the new (old) machine.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hakyll on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/hakyll/</link>
+    <description>Recent content in hakyll on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/hakyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imported all entries from my Wordpress into Hakyll</title>
+      <link>https://new.robnugen.com/journal/2014/11/08/imported-all-entries-from-my-wordpress-into-hakyll/</link>
+      <pubDate>Sat, 08 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/08/imported-all-entries-from-my-wordpress-into-hakyll/</guid>
+      <description>##22:41 Friday 07 November 2014 JST##
+Got all the text as far as I can tell, though the tags sometimes have capital letters. BUT the much bigger problem is that none of the images were imported. Their links are embedded in the entries, but the actual files are on robnugen.com/blog/wordpress/whatsit
+##10:13am Saturday 8 November 2014 JST
+Okay, so last night I forked and tweaked mloskot/exitwp-hakyll so now I have my own hakyll version of exitwp</description>
+    </item>
+    
+    <item>
+      <title>A reasonable(?) way to insert images</title>
+      <link>https://new.robnugen.com/journal/2014/11/07/a-reasonable-way-to-insert-images/</link>
+      <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/07/a-reasonable-way-to-insert-images/</guid>
+      <description>##10:02 Friday 07 November 2014 JST##
+Though I still have to copy the image names by hand, once they are in the correct directories, I have a pretty okay way of inserting them into my journal pages.
+For most images, I&amp;rsquo;ve settled on a convention of putting the main image in a directory, and then thumbnails for the image(s) in a
+For most of *those* images, I place them in ```images/yyyy/mm/``` directories for the year and month they were taken.</description>
+    </item>
+    
+    <item>
+      <title>pre pre-release of hakyll-journal</title>
+      <link>https://new.robnugen.com/journal/2014/11/05/pre-pre-release-of-hakyll-journal/</link>
+      <pubDate>Wed, 05 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/05/pre-pre-release-of-hakyll-journal/</guid>
+      <description>##20:12 Wednesday 05 November 2014 JST##
+I&amp;rsquo;m so lucky to have an awesome programmer friend like Travis. :-)
+Over the past few days we have been emailing back and forth, mostly with me going &amp;ldquo;uh huh&amp;rdquo; &amp;ldquo;yeah&amp;rdquo; &amp;ldquo;that&amp;rsquo;s right&amp;rdquo; &amp;ldquo;great!&amp;rdquo; as he explains the intricacies of the best way to create a haskell library.
+I&amp;rsquo;ve been studying Learn You a Haskell and considering buying Graham Hutton&amp;rsquo;s book, and am excited to have my static journal back, very excited to have Travis making a kick-ass library to seamlessly(?</description>
+    </item>
+    
+    <item>
+      <title>Tutorial- running Hakyll for free on AWS</title>
+      <link>https://new.robnugen.com/journal/2014/10/30/tutorial-running-hakyll-for-free-on-aws/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/30/tutorial-running-hakyll-for-free-on-aws/</guid>
+      <description>##20:20 Thursday 30 October 2014 JST##
+These notes should work for *nix, including OS X, which I&amp;rsquo;m using. Windows users may have to adapt when it comes to local stuff.
+Easy as
+ get server with root access set up Nginx on server set up Hakyll locally  ##1. sign up for AWS micro (free tier available)##
+I will probably go with all their defaults:
+####Step 1:####
+For this, I&amp;rsquo;m using Amazon Linux AMI 2014.</description>
+    </item>
+    
+    <item>
+      <title>First with date</title>
+      <link>https://new.robnugen.com/journal/2014/10/29/first-with-date/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/29/first-with-date/</guid>
+      <description>##23:20 Wednesday 29 October 2014##
+Been working on hakyll.robnugen.com all day, and it seems I have a framework with which I may be happy for a while. I&amp;rsquo;ve essentially finished the first three of the items from Journal Plans, although I&amp;rsquo;ve just realized that while that link works, the link to that entry from my index does not (due to capitalization). Once I fix the index link, this link won&amp;rsquo;t work unless I remember.</description>
+    </item>
+    
+    <item>
+      <title>Running Hakyll on AWS</title>
+      <link>https://new.robnugen.com/journal/2014/10/28/running-hakyll-on-aws/</link>
+      <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/28/running-hakyll-on-aws/</guid>
+      <description>Running Hakyll on Dreamhost AWS
+UPDATE: Run Hakyll for free on AWS is a better tutorial than the mess below.
+I gave up trying to install Hakyll on Dreamhost when I realized I probably wouldn&amp;rsquo;t be able to install Haskell at all. I have a ticket in to DH now, but I bet they&amp;rsquo;ll say &amp;ldquo;sorry, not on shared hosting; why don&amp;rsquo;t you try our VPS?&amp;rdquo;
+The following is based on notes I took from https://marcanuy.</description>
+    </item>
+    
+    <item>
+      <title>Hakyll journal</title>
+      <link>https://new.robnugen.com/journal/2014/10/27/hakyll-journal/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/10/27/hakyll-journal/</guid>
+      <description>##01:55:08 Tue 28 Oct 2014##
+Boom. Got me what might be my new journal for a long time to come, if I can figure out how to make the directory structure the way I want, and ifff I can figure out a way to put images in here that is fast and friendly and all that.
+I -might- attempt to write a thingy in Haskell to do it.
+For now, I just need to set up a way to serve this from Dreamhost.</description>
+    </item>
+    
+  </channel>
+</rss>

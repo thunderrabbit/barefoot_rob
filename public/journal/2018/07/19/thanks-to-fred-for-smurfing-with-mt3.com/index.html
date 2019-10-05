@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>thanks to fred for smurfing with mt3.com &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="thanks to fred for smurfing with mt3.com &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="thanks to fred for smurfing with mt3.com &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">19 Jul 2018, 16:12</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/07/19/thanks-to-fred-for-smurfing-with-mt3.com/" class="post-title">thanks to fred for smurfing with mt3.com</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h2 id="16-12-thursday-19-july-2018-jst">16:12 Thursday 19 July 2018 JST</h2>
+
+<p>Fred smurfed a script for me to smurf the markdown files related to
+Marble Track 3 into their own directory so I can use Hugo to smurf
+them into a website dedicated to Marble Track 3.</p>
+
+<pre>
+    #!/bin/bash
+    # 
+    # USAGE:
+    #   $0 [year] |less     # visually confirm correct output
+    #   $0 [year] |bash     # execute output.  dangerous!
+    #   
+    # Warning: 
+    #   The output of this script is NOT protected against 
+    #   funny characters in filenames or other bugs/unusual output.
+    #   That's why this script does NOT change any file!
+    #   It outputs a guess at the commands to perform the desired change.
+    #   YOU MUST VISUALLY INSPECT THE OUTPUT BEFORE EXECUTING IT
+    #  
+    
+    
+    # set variable values.
+    # also set values inside is_mt3 and process_files.
+    
+    # set these values
+    
+    year=${1:-2018}
+    mt3_dest_dir=~/mt3/site/blog
+    export mt3_dest_dir
+    
+    # return value is an exit status
+    is_mt3() {
+      local f="$1"
+        
+      # set these values
+      local num_lines=4
+      local string="mt3"
+    
+      # grep's exit code tells if we want this file,
+      # meaning, has a line that:
+      #   starts with "tags"
+      #   contains $string
+      head -n$num_lines "$f"   \
+        |grep ^tags            \
+        |grep "$string"        \
+        >/dev/null
+    
+      return $?;                                # grep's exit code
+    }
+      
+    
+    # do a thing if file is an mt3 file
+    process_file() {
+      local g="$1"
+       
+      if is_mt3 "$g"   # need quotes in case filename has whitespace
+      then
+        local d=`dirname "$g"`
+        local mt3_ddd="$mt3_dest_dir/$d"
+    
+        # Crude echo command, that does NOT escape anything!
+        # Output is very vulnerable to funny chars in filename [;"\/]
+        # Need a year/month from the file's subdir, in the dest dir.
+        #
+        # Crude but effective to mkdir the destination each time;
+        # when you modify this script to accept all years in advance,
+        # you can also have it make all the dest dirs in advance.
+        echo
+        echo mkdir -p \"$mt3_ddd\"
+        echo cp \"$g\"    \"$mt3_ddd\"
+      fi
+    }
+    
+    
+    # these must be exported, so the bash command in the "find" below
+    # has access to them.
+    export -f is_mt3
+    export -f process_file
+    
+    
+    echo mkdir -p \"$mt3_dest_dir\"
+     
+    
+    # main()
+    # only the shell can execute shell functions,
+    # and so -exec has to run a shell:
+    find $year -type f -exec bash -c 'process_file {}' \;
+</pre>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2018/07/19/trying-to-use-castanet-theme/" rel="prev" style="float: left!important">❮ trying to use castanet theme</a>
+                  <a href="https://new.robnugen.com/journal/2018/07/19/mens-circle-process/" rel="next" style="float: right!important"> mens circle process ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

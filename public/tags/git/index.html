@@ -1,0 +1,586 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>git &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="git &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="git &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">17 Jun 2019, 06:22</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2019/06/17/rewrote-history-of-journal-entry-commit-messages/" class="post-title">rewrote history of journal entry commit messages</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="06-22-monday-17-june-2019-jst">06:22 Monday 17 June 2019 JST</h5>
+
+<p>I wanted to swap the commas a bit so I rewrote the commit messages
+with <code>git rebase 68a8c08</code>.  Now the top of <code>git log --oneline --graph --decorate
+--all</code> looks like this (sans colorization):</p>
+
+<pre><code>* 7dc0917 (HEAD -&gt; master) back
+* 10b1b54 some,
+* 35be077 well,
+* 0bd1c8b several
+| * 84efab7 (norigin/master, github/master, bitbucket/master) some
+| * 143640e well,
+| * a8b25db several,
+|/
+* 68a8c08 years
+* 34b1460 ago
+* b62b05e when
+* 8f33818 he
+* 7ce3602 was
+</code></pre>
+
+<p>After writing this, I started composing a message on <a href="https://english.stackexchange.com/">english.stackexchange.com</a></p>
+
+<pre><code>I am writing a story in which an US American man is being
+interviewed.  The man is relaying a story which happened in the
+past.  To describe how long ago it happened, he uses the word
+&quot;some&quot; and then wants to revise it to &quot;several (years ago).&quot;
+
+Without punctuation, it would be transcribed as
+
+... that was back some well several years ago when he was still ...
+
+I am debating between adding commas to indicate pauses either as
+
+A. that was back some, well, several years ago when he was still ...
+
+or
+
+B. that was back some well, several, years ago when he was still ...
+</code></pre>
+
+<p>but ended up not posting it as there are several answers already.</p>
+
+<ul>
+<li><a href="https://english.stackexchange.com/questions/199471/is-using-a-comma-as-a-pause-correct">https://english.stackexchange.com/questions/199471/is-using-a-comma-as-a-pause-correct</a></li>
+<li><a href="https://english.stackexchange.com/questions/402440/is-the-old-saying-put-a-comma-where-you-pause-a-reliable-way-to-punctuate-sent">https://english.stackexchange.com/questions/402440/is-the-old-saying-put-a-comma-where-you-pause-a-reliable-way-to-punctuate-sent</a></li>
+</ul>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">14 Sep 2018, 16:12</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/09/14/fixed-my-site/" class="post-title">fixed my site</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h5 id="16-12-friday-14-september-2018-jst">16:12 Friday 14 September 2018 JST</h5>
+
+<p>I broke my upload process, but I think it is fixed now.</p>
+
+<p>Yep.  It took 65 seconds to process and upload to my server, but it
+works.</p>
+
+<p>When trying to get that number down, to a few seconds, I
+mis-remembered how it was set up and destroyed the <code>public/</code> directory
+of my Hugo-controlled site thinking Hugo can rebuild it, but since the
+Hugo directory is already a Git repo, it was conflating the two, and
+things got really confuzzed.  Including my brain.</p>
+
+<p>I am considering removing dates from the content itself and just keep
+them in the frontmatter.</p>
+
+<p>What if I make them small like this:</p>
+
+<h5 id="16-19-friday-14-september-2018-jst">16:19 Friday 14 September 2018 JST</h5>
+
+<p>I<del> guess i</del>t will be an h5 tag, cause I put five # marks in front.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">19 Apr 2018, 00:15</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/19/git-out/" class="post-title">git out</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="00-15-thursday-19-april-2018-jst">00:15 Thursday 19 April 2018 JST</h2>
+
+<ul>
+<li>39c7bfa recent entries</li>
+<li>17a339c removed : from titles</li>
+<li>70ec6d3 TEMPoRARY commit, not including all years, and not cleaned up filenames</li>
+<li>6086901 Added README</li>
+<li>354c77e (bitbucket/master) p</li>
+<li>1fbcd35 s</li>
+<li>c385ebb colon</li>
+<li>492f2fc slash</li>
+<li>3b91dec slash</li>
+<li>40ba10c w</li>
+<li>ce5271f w</li>
+<li>8be74d2 w</li>
+<li>afebd29 dot</li>
+</ul>
+
+<p>The above shows a weird thing that happened to my git repo while I was messing with Fossil.  The commit 6086901 is the first, and the commit 354c77e is the last, but it was shown right in a row.</p>
+
+<ul>
+<li>009ce03 (HEAD -&gt; master, bitbucket/master)</li>
+<li>423fc12 Uh,</li>
+<li>0844b6a yeah,</li>
+<li>86a5a58 uhh..</li>
+<li>69409ec h</li>
+<li>b961113 t</li>
+<li>054caad t</li>
+<li>1201bc1 p</li>
+<li>7cfcb9a s</li>
+<li>0cdde35 colon</li>
+<li>4e4a200 slash</li>
+<li>3838c9e slash</li>
+<li>82b58ce w</li>
+<li>481d694 w</li>
+<li>d77032a w</li>
+<li>6dd65ea dot</li>
+</ul>
+
+<p>This is the current top of the commit. Turns out the weird append was due to two different branches having identical, but non-related histories.</p>
+
+<p>I <code>git push --force</code> to break it and fix it again.  Not sure if I went
+with the original history or a new one.</p>
+
+<h2 id="00-25-sunday-22-april-2018-jst">00:25 Sunday 22 April 2018 JST</h2>
+
+<p>I wrote the comments above to fix the layout of the commits.</p>
+
+<p>For some reason when I <code>fossil push</code> it says wrong project, and it pushes the project properly.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">18 Apr 2018, 10:22</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/18/today/" class="post-title">today</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="10-22-wednesday-18-april-2018-jst">10:22 Wednesday 18 April 2018 JST</h2>
+
+<p>New regular students in SS lesson this morning; Kaede stopped coming
+relatively soon after joining last year, and Chika apparently took my
+bitcoin advice (whereas I did not haha) so she moved overseas.
+Satoshi has not come recently, and Sayuri said she was busy today,
+plus said Ayano something something so could not come.  Nonoka and Ai
+came today.  Ai helped Nonoka with some phrases and months of the
+year.  We played a little month game asking the date of Christmas,
+Halloween, Tanabata, White Day, etc.</p>
+
+<p>Now I am in a cafe on ground floor of Muza watching pigeons and peeps
+walk, fly, and or meander through the breezeway.</p>
+
+<h2 id="10-43-wednesday-18-april-2018-jst">10:43 Wednesday 18 April 2018 JST</h2>
+
+<p>Oh dang I just realized I messed up the commit messages on the last
+few commits so I blew them away with <code>git push --force</code>.</p>
+
+<p>Bad:</p>
+
+<pre><code>* 30cbf1c (HEAD -&gt; master, bitbucket/master) h
+* 3506fbc h
+* 3962445 .
+* 6a436d4 .
+* 69409ec h
+* b961113 t
+* 054caad t
+* 1201bc1 p
+* 7cfcb9a s
+* 0cdde35 colon
+</code></pre>
+
+<p>Good:</p>
+
+<pre><code>* 86a5a58 (HEAD -&gt; master, bitbucket/master) uhh..
+* 69409ec h
+* b961113 t
+* 054caad t
+* 1201bc1 p
+* 7cfcb9a s
+* 0cdde35 colon
+</code></pre>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">11 Apr 2018, 10:58</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/04/11/wow-wow-fossil-is-awesome/" class="post-title">wow wow fossil is awesome</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="10-58-wednesday-11-april-2018-jst">10:58 Wednesday 11 April 2018 JST</h2>
+
+<p>Fossil is awesome, but I am not ready to switch quite yet.</p>
+
+<p>Can I get Fossil to host my journal like I have Hugo doing now?
+Should I?  The point was to have it as a static site, so I guess not,
+but it seems weird to use something that can host sites just to track
+the site content and not host the site.</p>
+
+<p>ConSwi is not open source, but it is sufficiently small and
+not-production that I might try.  AB is equally not open source, but
+definitely not small.  Hmmm.</p>
+
+<p>So far, I only know a couple commands in Fossil and they seem longer
+than equivalent git commands, but I have not read even a, well, I have
+read a fraction of the Fossil docs, but not a lot.</p>
+
+<p>Goofing around with Fossil, I discovered my commit message project has
+been going for a bit over a year.</p>
+
+<p><a href="//b.robnugen.com/journal/2018/2018_april_a_year_plus.png"><img src="//b.robnugen.com/journal/2018/thumbs/2018_april_a_year_plus.png" alt="2018 april a year plus" /></a></p>
+
+<h2 id="23-13-wednesday-11-april-2018-jst">23:13 Wednesday 11 April 2018 JST</h2>
+
+<p>Ack I can&rsquo;t start Fossil on ConSwi right now because I have a bunch of
+unstaged/uncommitted changes as I do open heart surgery on the project</p>
+
+<p>I need to go to sleep instead of trying to think about how to sort
+this out right now.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">25 Nov 2017, 17:33</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/11/25/git-commit-m-commit/" class="post-title">git commit -m commit</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="17-33-saturday-25-november-2017-jst">17:33 Saturday 25 November 2017 JST</h2>
+
+<pre><code>git commit -m commit
+</code></pre>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">22 Jun 2016, 21:31</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/06/22/git-is-neat/" class="post-title">git is neat</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="21-31-wednesday-22-june-2016-jst">21:31 Wednesday 22 June 2016 JST</h2>
+
+<p>I created a subdirectory in my git repo, initiated a git repo in it,
+then added the subdirectory to the parent repo.  Boom it looks like
+it&rsquo;s a submodule.</p>
+
+<p>Hmm but wait it&rsquo;s not listed in the parent git repo&rsquo;s config file.  hmmm.</p>
+
+<p>git is still neat.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">03 Mar 2015, 22:25</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/03/03/netlify-doesnt-git-clone-recursive/" class="post-title">Netlify doesn&#39;t git clone --recursive</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##22:25 Tuesday 03 March 2015 JST##</p>
+
+<p>I got my repos sorted today; all the journal entries have had
+frontmatter lobotomies if Middleman can&rsquo;t deal with the different
+dates, and my main Middleman repo includes the journal entry repo as a
+submodule.</p>
+
+<p>However, turns out netlify doesn&rsquo;t clone recursively (yet).  I
+mentioned this to Mathias and he was like, &ldquo;hmm you&rsquo;re right&rdquo; and said
+he would look into it.  But, he said politely, he was planning to go
+home for the night and didn&rsquo;t want to push any possibly-breaking
+changes before going to bed.</p>
+
+<p>HAHhahaa most def.  We&rsquo;ll see if they get it sorted out soon!  Then
+I&rsquo;ll have a temporary space for journals before I figure out how
+Middleman does deploys natively, decide what URL to use (hakyll?  but
+it&rsquo;s not Hakyll anymore&hellip; hmmm), and set it all up.</p>
+
+<p>Maybe I&rsquo;ll go with new.robnugen.com until it&rsquo;s a site that can take
+over for all the crap on robnugen.com now (fat chance?) then kill
+robnugen.com as I switch new.robnugen.com to www.robnugen.com.  Damn
+what a lot of <del>broken links</del> <ins>redirects</ins> I have
+planned!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">23 Feb 2015, 23:07</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/02/23/done-today/" class="post-title">done today</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="23-07-monday-23-february-2015-jst">23:07 Monday 23 February 2015 JST</h2>
+
+<p>Today I made a repo to help find particular md5 strings for
+<a href="https://www.reddit.com/live/thjep4nr9895">Counting with md5sum</a>.  It&rsquo;s
+my
+<a href="https://github.com/thunderrabbit/live-md5-command-line-cheater">live md5 command line cheater</a>.</p>
+
+<p>Also gave
+<a href="https://www.reddit.com/r/BitTippers/comments/2wthev/parenthood_giveaway/cou3aof">10000 bit tip to a man</a>
+who
+<a href="https://www.reddit.com/r/BitTippers/comments/2wthev/parenthood_giveaway/">announced his wife was pregnant</a>.</p>
+
+<p>And am working on a maze for Angelos, and printed a logo for a photo
+at Shibuya Crossing tomorrow.</p>
+
+<p>Okay good night!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">19 Feb 2015, 17:36</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/02/19/broke-the-crap-out-of-my-local-hakyll-repo/" class="post-title">Broke the crap out of my local hakyll repo</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##17:36 Thursday 19 February 2015 JST##</p>
+
+<p>Oops.</p>
+
+<p>I thought it would be a good idea to hardcode my directory into my
+Hakyll binary, so now, until I remember how to build the Hakyll
+binary, I have to have it work from the ~/journal directory.  However,
+I now want my ~/journal directory to be my new repo consisting of only
+journal entries.</p>
+
+<p>I moved the Hakyll version of ~/journal to ~/journal-hakyll and moved
+my real journal to ~/journal, then added ~/journal as a subrepository
+of the Hakyll journal in ~/hakyll-journal.</p>
+
+<p>That required some gymnastics each time I wanted to test the repo.  To
+test the Hakyll journal, I had to swap the directory names back and
+then do the test.  But to import any changes from the new journal repo
+into the Hakyll journal, I had to re-swap the names to their new
+configuration.</p>
+
+<p>Bah, so I manually replaced &ldquo;journal&rdquo; with &ldquo;journal-real&rdquo; in
+~/journal/.gitmodules then did a pull to get the latest changes.</p>
+
+<p>Kablam!  git pulled <em>itself</em> as its submodule and my repo got hosed
+beyond what I could untangle without access to internizzle.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 1 of 2</span>
+    
+      <a href="/tags/git/page/2/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

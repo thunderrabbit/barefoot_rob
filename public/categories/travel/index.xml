@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel on Barefoot Rob</title>
+    <link>https://new.robnugen.com/categories/travel/</link>
+    <description>Recent content in travel on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2016 21:19:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hurtin</title>
+      <link>https://new.robnugen.com/journal/2016/10/12/hurtin/</link>
+      <pubDate>Wed, 12 Oct 2016 21:19:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/12/hurtin/</guid>
+      <description>21:19 Wednesday 12 October 2016 JST On flight CX171 to Perth. 7 hour flight. Air is dry; toe skin is cracked and painful. Sinuses clogged; head hurts; keep getting woken up by two women speaking loudly in a language I don&amp;rsquo;t understand.</description>
+    </item>
+    
+    <item>
+      <title>waitin</title>
+      <link>https://new.robnugen.com/journal/2016/10/12/waitin/</link>
+      <pubDate>Wed, 12 Oct 2016 14:48:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/12/waitin/</guid>
+      <description>14:48 Wednesday 12 October 2016 JST Safely in Honkers, and just waiting for my flight, scheduled to leave in 70 minutes. Is it normal to not have a gate listed yet? Hmmm.
+14:53 I just overheard the answer from an airport employee:
+&amp;ldquo;Oh! Too early. Long time. Because long time no boarding gate.&amp;rdquo;
+15:14 At 3pm (2pm local time) the gate was listed: 71.
+Walking past all the shops and stuff from gate 44 area to gate 71, I realized I feel hungry.</description>
+    </item>
+    
+    <item>
+      <title>flyin</title>
+      <link>https://new.robnugen.com/journal/2016/10/12/flyin/</link>
+      <pubDate>Wed, 12 Oct 2016 10:19:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/12/flyin/</guid>
+      <description>10:19 Wednesday 12 October 2016 JST We took off ten minutes early, and I&amp;rsquo;ve just had a nice nap. Got several neat pictures on the way up, but I wonder if I&amp;rsquo;ll ever post them.
+Gonna work on date difference calculator.
+10:53 Wednesday 12 October 2016 JST in-flight breakfast!
+ps: I&amp;rsquo;m nearly done with proof of concept of my days old counter, but I have just discovered the dateDiff library I snagged doesn&amp;rsquo;t allow dates from the 1800s.</description>
+    </item>
+    
+    <item>
+      <title>mornin</title>
+      <link>https://new.robnugen.com/journal/2016/10/12/mornin/</link>
+      <pubDate>Wed, 12 Oct 2016 05:56:35 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/12/mornin/</guid>
+      <description>05:56 Wednesday 12 October 2016 JST Awake now; headed down to breaky.
+06:44 Wednesday 12 October 2016 JST Breakfast was lots of veggies for me and a larger variety for Lin. The restaurant had a Pepper robot in front, but it wouldn&amp;rsquo;t follow me when I beckoned it. It faced me, but didn&amp;rsquo;t come with me.
+Gotta pack and bounce outta here.
+07:53 Wednesday 12 October 2016 JST I&amp;rsquo;m the first person in the departure lounge!</description>
+    </item>
+    
+    <item>
+      <title>headed to airport</title>
+      <link>https://new.robnugen.com/journal/2016/10/11/headed-to-airport/</link>
+      <pubDate>Tue, 11 Oct 2016 23:37:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/11/headed-to-airport/</guid>
+      <description>23:37 Tuesday 11 October 2016 JST Lin is driving me to Narita airport because my check-in time is 7:25 tomorrow, and there are no trains that leave early enough to make it on time (if I leave from our house tomorrow).
+We&amp;rsquo;re going to stay in a hotel (rar) and after she drops me off at the airport tomorrow, she plans to go back to the hotel to enjoy their onsen, buffet breakfast, etc, before checking out.</description>
+    </item>
+    
+    <item>
+      <title>panic pack</title>
+      <link>https://new.robnugen.com/journal/2016/10/10/panic-pack/</link>
+      <pubDate>Mon, 10 Oct 2016 17:51:28 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/10/panic-pack/</guid>
+      <description>17:51 Monday 10 October 2016 JST Oh man I&amp;rsquo;m leaving tomorrow! Today is a holiday so I thought it was Sunday and I&amp;rsquo;d be leaving in 2 days, but I&amp;rsquo;m leaving in about 24 hours, after a day of work, during which I&amp;rsquo;m supposed to buy some stuff for the trip. D&amp;rsquo;oh!</description>
+    </item>
+    
+  </channel>
+</rss>

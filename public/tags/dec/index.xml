@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dec on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/dec/</link>
+    <description>Recent content in dec on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Dec 2018 22:12:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/dec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>state of my life address</title>
+      <link>https://new.robnugen.com/journal/2018/12/07/state-of-my-life-address/</link>
+      <pubDate>Fri, 07 Dec 2018 22:12:16 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/12/07/state-of-my-life-address/</guid>
+      <description>22:12 Friday 07 December 2018 JST  Marble Track 3 has its own domain, https://www.marbletrack3.com/ hosted as a static site on Netlify ConSwi is open source under GNU copyleft. Several outstanding issues, the biggest of which are #25 disallow dragged pieces to go through other pieces and #23 Make piece keep up with mouse when dragging I created a Patreon page for MT3 and have my first patron, Jimmy! I recently got the fans and battery replaced on my MacBook, but it still conks out when the battery is at 65%.</description>
+    </item>
+    
+  </channel>
+</rss>

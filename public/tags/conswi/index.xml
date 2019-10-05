@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conswi on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/conswi/</link>
+    <description>Recent content in conswi on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Dec 2018 17:54:39 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/conswi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>want to detect collisions while dragging</title>
+      <link>https://new.robnugen.com/journal/2018/12/11/want-to-detect-collisions-while-dragging/</link>
+      <pubDate>Tue, 11 Dec 2018 17:54:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/12/11/want-to-detect-collisions-while-dragging/</guid>
+      <description>17:54 Tuesday 11 December 2018 JST Dang. I cannot seem to get Godot to detect collisions; I have some phsyics bodies fixed on the screen but dragging other physics bodies goes right through them.</description>
+    </item>
+    
+    <item>
+      <title>Got ConSwi dragging to follow properly</title>
+      <link>https://new.robnugen.com/journal/2018/12/09/got-conswi-dragging-to-follow-properly/</link>
+      <pubDate>Sun, 09 Dec 2018 09:56:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/12/09/got-conswi-dragging-to-follow-properly/</guid>
+      <description>09:56 Sunday 09 December 2018 JST Still working on our open source Godot game, ConSwi (which I think is the perfect name, my partners are both saying they want a longer name that is more descriptive), I got piece dragging to follow the mouse properly. Originally I had the drag only active when the cursor was over the piece, so if the mosue went too quickly, the piece would no longer receive the input and lose track of the piece.</description>
+    </item>
+    
+    <item>
+      <title>conswi dipendra</title>
+      <link>https://new.robnugen.com/journal/2018/11/02/conswi-dipendra/</link>
+      <pubDate>Fri, 02 Nov 2018 17:26:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/11/02/conswi-dipendra/</guid>
+      <description>17:26 Friday 02 November 2018 JST Today I met with Tariq and Dipendra to talk about ConSwi. They are all excited about the graphics and I am in the camp of getting a minimum viable product out. I want to empower Dipendra to update the graphics in the app. He got a copy of Conswi from Github. Instead of giving him write access to the app, I had him create his own account and push to his own ConSwi.</description>
+    </item>
+    
+    <item>
+      <title>met Tariq and Dipendra</title>
+      <link>https://new.robnugen.com/journal/2018/09/21/met-tariq-and-dipendra/</link>
+      <pubDate>Fri, 21 Sep 2018 09:24:08 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/09/21/met-tariq-and-dipendra/</guid>
+      <description>09:24 Friday 21 September 2018 JST I met Dipendra today, a young man with design chops that far exceed my own, and even Tariq&amp;rsquo;s. He is interested in doing the images for ConSwi, our swipe game we are making in Godot.
+We met in a room that used to be a car showroom, but now features a coffee shop because the car showroom was not making enough money.
+I showed Dipendra how to get started with Godot and git.</description>
+    </item>
+    
+    <item>
+      <title>working at Cs</title>
+      <link>https://new.robnugen.com/journal/2018/02/19/working-at-cs/</link>
+      <pubDate>Mon, 19 Feb 2018 16:01:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/19/working-at-cs/</guid>
+      <description>16:01 Monday 19 February 2018 JST Special thanks to C for letting me work here instead of heading back home and back out for co-gender meeting. Cats seem (un)interested in helping me work, and now there is a presentation traipsing through, but I got 2 pomodoros finished on ConSwi.</description>
+    </item>
+    
+    <item>
+      <title>productive day</title>
+      <link>https://new.robnugen.com/journal/2018/02/17/productive-day/</link>
+      <pubDate>Sat, 17 Feb 2018 16:20:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/17/productive-day/</guid>
+      <description>16:20 Saturday 17 February 2018 JST Did five pomodoros on ConSwi today, including refactoring the code to ostensibly make it simpler, but for some reason I could not get the tiles to respond to touches. So I will try to make an overlay that captures all touches and have it tell which piece got touched.
+Complice(referral link) has a neat feature of parsing the Intention and automatically marking it as complete.</description>
+    </item>
+    
+    <item>
+      <title>Fred may collaborate on conswi</title>
+      <link>https://new.robnugen.com/journal/2017/12/24/fred-may-collaborate-on-conswi/</link>
+      <pubDate>Sun, 24 Dec 2017 14:09:46 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/24/fred-may-collaborate-on-conswi/</guid>
+      <description>14:09 Sunday 24 December 2017 Conswi is my temporary name for this game we are working on. It&amp;rsquo;s a fake name with Latin influence. Fred has a couple days off and we may work on it together (and play Minecraft). He has been teaching C++, so learning another language may be fun. I like working with my bro.</description>
+    </item>
+    
+  </channel>
+</rss>

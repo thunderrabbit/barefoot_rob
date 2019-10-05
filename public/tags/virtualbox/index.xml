@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtualbox on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/virtualbox/</link>
+    <description>Recent content in virtualbox on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2015 11:48:01 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Virtualbox Sorted</title>
+      <link>https://new.robnugen.com/journal/2015/05/23/getting-virtualbox-sorted/</link>
+      <pubDate>Sat, 23 May 2015 11:48:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/23/getting-virtualbox-sorted/</guid>
+      <description>11:48 Saturday 23 May 2015 JST On my old computer, I did something like right-click - show this box in Finder. The box is in its own folder so I just copied that entire folder over the network to my debian box overnight. Took about 6 hours as it&amp;rsquo;s maybe 38GB (more than 10% of my previously planned HD partition, and nearly than 40% of my previously-planned-to-purchase HD size!)</description>
+    </item>
+    
+  </channel>
+</rss>

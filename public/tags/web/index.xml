@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/web/</link>
+    <description>Recent content in web on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2017 09:47:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>https on mt3.robnugen.com</title>
+      <link>https://new.robnugen.com/journal/2017/08/09/https-on-mt3.robnugen.com/</link>
+      <pubDate>Wed, 09 Aug 2017 09:47:42 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/08/09/https-on-mt3.robnugen.com/</guid>
+      <description>09:47 Wednesday 09 August 2017 JST I added a Let&amp;rsquo;s Encrypt certificate to allow https://mt3.robnugen.com to refresh to the latest Marble Track 3 entries.</description>
+    </item>
+    
+    <item>
+      <title>Coding like back in the day</title>
+      <link>https://new.robnugen.com/journal/2015/12/02/coding-like-back-in-the-day/</link>
+      <pubDate>Wed, 02 Dec 2015 11:41:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/02/coding-like-back-in-the-day/</guid>
+      <description>11:41 Wednesday 02 December 2015 JST I cannot currently load https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js because this &amp;ldquo;free&amp;rdquo; wifi I&amp;rsquo;m on disallows https, so I can&amp;rsquo;t run my page, so&amp;hellip; oh wait I don&amp;rsquo;t need jquery to work on a different thing, so I can work on that thing instead. I was thinking it was like coding without compiling, so it reminded me of stories where programmers had to check their code N times before sending it off to be run on the mainframe, and any error would mean losing a day of work.</description>
+    </item>
+    
+    <item>
+      <title>Helped JB website</title>
+      <link>https://new.robnugen.com/journal/2015/01/07/helped-jb-website/</link>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/07/helped-jb-website/</guid>
+      <description>##15:01 Wednesday 07 January 2015 JST##
+* c97bf3b (HEAD, master) &#39;Fixed&#39; links to three blog entries (news items) * 20ce7d0 Fixed headers on four pages to include links to お問い合わせ * 0ae1cfc Fixed links to news items in top page (not sidebar) * 14d2579 gave access to new IP address at JB school  Those are from today.
+yay! K and T were very happy!</description>
+    </item>
+    
+  </channel>
+</rss>

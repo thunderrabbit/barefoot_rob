@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fun coding, but moe joe, it&#39;s all proprietary! &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="fun coding, but moe joe, it&#39;s all proprietary! &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="fun coding, but moe joe, it&#39;s all proprietary! &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">24 Jul 2012, 17:57</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2012/07/24/fun-coding-but-moe-joe-its-all-proprietary/" class="post-title">fun coding, but moe joe, it&#39;s all proprietary!</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p>##17:57 Tuesday 24 July 2012</p>
+
+<p>Moe and Joe are the names of two race horses in a long joke I used to tell in YRUU. It includes the line &ldquo;moe joe moe joe moe joe moe joe moe joe&rdquo; several times in the joke.</p>
+
+<p>I think Lin and I used &ldquo;moe, joe, moe, joe&rdquo; as a sort of chant while hiking up Mt Fuji, and it came to mean something was challenging or disliked.</p>
+
+<p>Well, I like programming, but I dislike having to keep it all on this side of the server! I&rsquo;ve got some fun (?) boxes that I can click and they talk to the database and create more boxes, and then click again and delete said boxes, all with the magic of jquery and css. But, I can&rsquo;t show you. Moe Joe.</p>
+
+<p>This is for my AB client who we were going to meet today, but they cancelled. We&rsquo;ll try again next week.</p>
+
+<p>Speaking of AB, yesterday I got a RUSH ticket from them saying they couldn&rsquo;t save some data in the DB. It was weird because I could see the data had been saved (to the change log), but sure enough it wasn&rsquo;t being displayed on the screen (because it wasn&rsquo;t in the DB).</p>
+
+<p>The good news: I tried it on our test server and had the same problem. Yes! I opened up the data class that saves to the DB and looked for all the instances of the table to which it&rsquo;s supposed to be saved. All looked fine.</p>
+
+<p>Then I just happened to notice my mistake, and it was due to a hack I had implemented last week. Fortunately it was an easy fix, and I moved the corrected file to the live server.</p>
+
+<p>The broken code had been broken for a week, so I consulted the logs to see what damage had been done. 49 records had been edited.  Hmmm. I checked a bit more and found only 13 of them had the subrecords anyway, so only 13 lost their subrecords. Whew!! not too terrible! Instead of trying some magical SQL query to fix them all, I just went through them by hand and re-did the edits to re-add the subrecords.</p>
+
+<p>That was last night, and fortunately it wasn&rsquo;t too bad so only made me 20 minutes late going home.</p>
+
+<p>This morning I prepared a report and got it ready to print with our other stuff for the meeting.. and meeting cancelled. Awesome! I ddn&rsquo;t have to put on shoes!</p>
+
+<p>Today is approximately my 90th consecutive shoeless day in Tokyo.</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2012/07/24/my-new-mbp-aint-as-fast-as-i-had-hoped/" rel="prev" style="float: left!important">❮ my new MBP ain&#39;t as fast as I had hoped</a>
+                  <a href="https://new.robnugen.com/journal/2012/07/18/voting-with-my-wallet-an-open-letter-to-apple/" rel="next" style="float: right!important"> voting with my wallet, an open letter to Apple ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

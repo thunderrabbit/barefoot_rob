@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pushups on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/pushups/</link>
+    <description>Recent content in pushups on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2015 01:25:50 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/pushups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pushups app is more secure</title>
+      <link>https://new.robnugen.com/journal/2015/05/15/pushups-app-is-more-secure/</link>
+      <pubDate>Fri, 15 May 2015 01:25:50 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/15/pushups-app-is-more-secure/</guid>
+      <description>01:25 Friday 15 May 2015 JST Okay, now my pushup counter uses Parse&amp;rsquo;s suggested code for logging in and saving data per user.
+So, please feel free to enjoy my pushups counter!
+Just click login to test it, or create your own username and password to track your own pushups!
+Right now, all pushups are saved after clicking save, but the total number of pushups is not displayed. I&amp;rsquo;ll get to that soon.</description>
+    </item>
+    
+    <item>
+      <title>pushup counter tweaks</title>
+      <link>https://new.robnugen.com/journal/2015/05/13/pushup-counter-tweaks/</link>
+      <pubDate>Wed, 13 May 2015 18:39:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/13/pushup-counter-tweaks/</guid>
+      <description>18:39 Wednesday 13 May 2015 JST WIthout internet access I can&amp;rsquo;t really run the pushup counter because it&amp;rsquo;s backed by parse.com and a hosted version of jquery. I&amp;rsquo;m not sure how to get around the parse issue, though I guess I could just store the count in local storage and turn off the variety of stats I had planned to display (# of pushups this day/month/year)&amp;hellip; or heck maybe there&amp;rsquo;s a simple JS interface to a local DB.</description>
+    </item>
+    
+    <item>
+      <title>made pushups counter</title>
+      <link>https://new.robnugen.com/journal/2015/05/12/made-pushups-counter/</link>
+      <pubDate>Tue, 12 May 2015 07:28:18 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/12/made-pushups-counter/</guid>
+      <description>07:28 Tuesday 12 May 2015 JST Pushups with Friends inexplicably stopped counting after 1923 pushups in one month, so I am writing my own.
+https://github.com/thunderrabbit/pushups-counter-js
+No readme yet as of this writing, but it&amp;rsquo;s backed by parse.com It saves each pushup one by one, but I want to add a local counter and then send them all up at once, to save wear and tear on internets and on my parse budget (currently $0).</description>
+    </item>
+    
+  </channel>
+</rss>

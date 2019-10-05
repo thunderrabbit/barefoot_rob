@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redmine on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/redmine/</link>
+    <description>Recent content in redmine on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2015 19:48:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/redmine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my redmine question on superuser</title>
+      <link>https://new.robnugen.com/journal/2015/07/11/my-redmine-question-on-superuser/</link>
+      <pubDate>Sat, 11 Jul 2015 19:48:24 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/11/my-redmine-question-on-superuser/</guid>
+      <description>19:48 Saturday 11 July 2015 JST Redmine Q on superuser took more time to research and write than to just rewrite all the time entries (there are 9), but fuckit; what if I had a million entries? or a quadrillion? (*)
+I logged several time entries to an issue in project A, but they should have been logged to an issue in project B.
+I tried using Redmine GUI to edit the time entries to be associated with the correct issue, but (because they&amp;rsquo;re in different projects?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aligned on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/aligned/</link>
+    <description>Recent content in aligned on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2015 15:11:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/aligned/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Debian lined up</title>
+      <link>https://new.robnugen.com/journal/2015/06/12/getting-debian-lined-up/</link>
+      <pubDate>Fri, 12 Jun 2015 15:11:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/12/getting-debian-lined-up/</guid>
+      <description>15:11 Friday 12 June 2015 JST I&#39;m using my Debian box now, wirelessly (thanks to you), using a dual monitor setup (thanks to Debian maintainers), and have gotten several things working well, almost including the ability to make changes for work while my other machine is in the shop. You suggested that I can reinstall Debian when I get my next PC, but is there some way to save time reinstalling all the junk on a new Debian install?</description>
+    </item>
+    
+  </channel>
+</rss>

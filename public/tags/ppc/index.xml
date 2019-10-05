@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ppc on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/ppc/</link>
+    <description>Recent content in ppc on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Aug 2015 13:42:37 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/ppc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pop Pop Chaos</title>
+      <link>https://new.robnugen.com/journal/2015/08/07/pop-pop-chaos/</link>
+      <pubDate>Fri, 07 Aug 2015 13:42:37 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/08/07/pop-pop-chaos/</guid>
+      <description>13:42 Friday 07 August 2015 JST Yesterday I released a big update to Pop Pop Chaos; now people can see lots of pretty bubbles! This is all thanks to d3, which uses SVG, designed by W3C in 1999.
+Unfortunately, at this point the game does not work for mobile users. You can press the buttons button on mobile to go back to the old school buttons.
+https://archive.is/jU9Xa</description>
+    </item>
+    
+    <item>
+      <title>Pop Pop Chaos</title>
+      <link>https://new.robnugen.com/journal/2015/07/30/pop-pop-chaos/</link>
+      <pubDate>Thu, 30 Jul 2015 17:33:02 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/30/pop-pop-chaos/</guid>
+      <description>17:33 Thursday 30 July 2015 JST I didn&amp;rsquo;t study this morning. I was up late working on Pop Pop Chaos last night and as soon as I finished other work today, worked on PPC. Today I uploaded Alpha version 0.111 which looks visually the same, but has had most of the underlying code restructured.
+I found what I think I&amp;rsquo;ll use as the basis for the bubbles in Pop Pop Chaos: https://bl.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/golang/</link>
+    <description>Recent content in golang on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Aug 2018 21:50:51 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go is great</title>
+      <link>https://new.robnugen.com/journal/2018/08/31/go-is-great/</link>
+      <pubDate>Fri, 31 Aug 2018 21:50:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/08/31/go-is-great/</guid>
+      <description>21:50 Friday 31 August 2018 JST Wow Go is great. The compiler doesn&amp;rsquo;t let you fuck around too much. &amp;ldquo;Hey you&amp;rsquo;re wasting variables!&amp;rdquo; &amp;ldquo;Hey those are different!&amp;rdquo; &amp;ldquo;Hey you already did that!&amp;rdquo; &amp;ldquo;Don&amp;rsquo;t include it if you don&amp;rsquo;t need it!&amp;rdquo; &amp;ldquo;Don&amp;rsquo;t use it if you didn&amp;rsquo;t include it&amp;rdquo;
+I can imagine what Travis meant when he said if a Hakyll Haskell program compiles, it probably works correctly. Even with all the side effects available in Go, I am much more confident that my code works than with any PHP code.</description>
+    </item>
+    
+  </channel>
+</rss>

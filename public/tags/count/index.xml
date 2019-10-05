@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>count on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/count/</link>
+    <description>Recent content in count on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/count/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheater for MD5 live count</title>
+      <link>https://new.robnugen.com/journal/2014/11/15/cheater-for-md5-live-count/</link>
+      <pubDate>Sat, 15 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/15/cheater-for-md5-live-count/</guid>
+      <description>##16:08 Saturday 15 November 2014 JST##
+To simplify Counting with md5sum, I wrote a little javascript thing to recursively look for required md5 strings. Travis wrote a different version which I modified to make it recursive. He had done things like &amp;ldquo;use strict&amp;rdquo; and maybe something else I hadn&amp;rsquo;t done.
+Once we got to 100, no one posted for a month. I posted a few:
+GivInG Up aLready? (100) nah (101) so sad (102)</description>
+    </item>
+    
+  </channel>
+</rss>

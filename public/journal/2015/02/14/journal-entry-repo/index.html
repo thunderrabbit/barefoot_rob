@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journal entry repo &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Journal entry repo &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Journal entry repo &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">14 Feb 2015, 18:22</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/02/14/journal-entry-repo/" class="post-title">Journal entry repo</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p>##18:22 Saturday 14 February 2015 JST##</p>
+
+<p>For years, I have been writing my journal entries in directories based
+on the date.  Originally in YYYY/MM directories, and now
+(temporarily?) in YYYY/MM/DD directories.</p>
+
+<p>So while recently trying to consolidate all my journal entries, I&rsquo;ve
+wanted to maintain that directory structure, lest I have several
+thousand(?)  files in one directory.</p>
+
+<p>Travis got me started on Hakyll, but I&rsquo;m too lazy and he&rsquo;s too busy to
+update the Haskell source with cool bells and whistles.</p>
+
+<p>I started looking at Pelican, but it choked on all the entries, which
+start with <code>---</code> as the first line.  Hmm lemme do a quick search.</p>
+
+<p>Okay I found
+<a href="https://github.com/getpelican/pelican/issues/607">Add yaml Reader</a>
+and
+<a href="https://github.com/getpelican/pelican-plugins/pull/29">YAML importer for Emacs org-mode posts</a>,
+so maybe it&rsquo;s easily possible.</p>
+
+<p>Now I&rsquo;m looking at Middleman, and I liked Hexo, but <a href="/journal/2015/02/12/middleman-and-hexo.md">blah blah blah</a>(*)..</p>
+
+<p>but in ANY case, I still have found a big annoyance with implementing
+any of these static site genrators: my journal entries are the biggest
+part of the repo!</p>
+
+<p>SO, I&rsquo;ve made a separate repo which just has my journal entries, in
+YYYY/MM(/DD) directories.</p>
+
+<p>But still, even this solution has the fatal flaw of a shload of broken
+links, especially to /images directory.</p>
+
+<p>(*) I&rsquo;ve used the link &ldquo;/journal/2015/02/12/middleman-and-hexo.md&rdquo; but
+I&rsquo;m thinking now of switching to
+/journal/2015/02/12middleman-and-hexo.md because its easier for me to
+find&hellip;.  ohhhhh I know.  I&rsquo;ll tell the static site generator to use
+/journal/2015/02/12/middleman-and-hexo but the file will be at
+/journal/2015/02/12middleman-and-hexo.md so I can find the entries a
+bit more easily in my file folders.</p>
+
+<p>In one month I have between 0 and maybe 100 entries, so that&rsquo;s fine to
+have them all in one directory.  But if I add the extra DD directory,
+it&rsquo;s harder for me to find the files because I&rsquo;m 30 times less likely
+to remember the date something happened than I am the month it
+happened.</p>
+
+<p>Now I&rsquo;ve got to roll through all the directories and fix the filenames.</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2015/02/15/dream-with-lin-boat-to-japan/" rel="prev" style="float: left!important">❮ Dream with Lin boat to Japan</a>
+                  <a href="https://new.robnugen.com/journal/2015/02/13/studio-soness/" rel="next" style="float: right!important"> Studio Soness ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

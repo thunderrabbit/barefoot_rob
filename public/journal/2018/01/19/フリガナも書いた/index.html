@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>フリガナも書いた &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="フリガナも書いた &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="フリガナも書いた &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">19 Jan 2018, 09:13</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/01/19/%E3%83%95%E3%83%AA%E3%82%AC%E3%83%8A%E3%82%82%E6%9B%B8%E3%81%84%E3%81%9F/" class="post-title">フリガナも書いた</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<h2 id="09-13-friday-19-january-2018-jst">09:13 Friday 19 January 2018 JST</h2>
+
+<h3 id="there-are-probably-errors-in-the-japanese-notes-below">There are probably errors in the Japanese notes below!</h3>
+
+<p>今朝、マインクラフトの日記項目にフリガナを書いて入れた。なんで「入れた」
+と言う言葉を使うなのかはこの日記はHTMLで載せるからです。</p>
+
+<p>フリガナは漢字の上で載せたいから専門的なマークアップを使えないといけない。</p>
+
+<p>例えば、この文の感じの上にフリガナを書きたい。</p>
+
+<p><span style="color:blue">根気がある人はもっと専門的な物も作ります。</span></p>
+
+<p>まず、どの漢字の上にフリガナを書きたいですか？</p>
+
+<p>あの漢字の前に「&#x3C;ruby&#x3E;」を書いて、その漢字の後に
+「&#x3C;/ruby&#x3E;」を書きます。</p>
+
+<p>それで、これを書いて、</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;根気&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby>根気</ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>を見られます。まだ変われないけど、フリガナを書きましょうか。</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;根気こんき&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby>根気こんき</ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>あっ、感じの上にはないです。</p>
+
+<p>マークアップでどれは漢字とどれはフリガナが説明しないといけない。その漢字を
+&#x3C;rb&#x3E;と&#x3C;/rb&#x3E;の間に入れて、</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;&#x3C;rb&#x3E;根気&#x3C;/rb&#x3E;こんき&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby><rb>根気</rb>こんき</ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>まだまだですね。最後はフリガナが&#x3C;rt&#x3E;と&#x3C;/rt&#x3E;の間入れます。</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;&#x3C;rb&#x3E;根気&#x3C;/rb&#x3E;&#x3C;rt&#x3E;こんき&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p>そうすると</p>
+
+<p><span style="color:blue"><ruby><rb>根気</rb><rt>こんき</rt></ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>お祝い！よくできました！</p>
+
+<p>しかし、実はお祝いはまだできない。なぜなら、フリガナがない感じたくさんあります。
+頑張ると</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x6839;&#x6C17;&#x3C;/rb&#x3E;&#x3C;rt&#x3E;
+&#x3053;&#x3093;&#x304D;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x304C;&#x3042;
+&#x308B;&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x4EBA;&#x3C;/rb&#x3E;&#x3C;rt&#x3E;
+&#x3072;&#x3068;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x306F;&#x3082;&#x3063;
+&#x3068;&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x5C02;&#x9580;&#x7684;&#x3C;/rb&#x3E;
+&#x3C;rt&#x3E;&#x305B;&#x3093;&#x3082;&#x3093;&#x3066;&#x304D;&#x3C;/rt&#x3E;
+&#x3C;/ruby&#x3E;&#x306A;&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x7269;&#x3C;/rb
+&#x3E;&#x3C;rt&#x3E;&#x3082;&#x306E;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x3082;
+&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x4F5C;&#x3C;/rb&#x3E;&#x3C;rt&#x3E;&#x3064;
+&#x304F;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x308A;&#x307E;&#x3059;&#x3002;</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby><rb>根気</rb><rt>こんき</rt></ruby>があ
+る<ruby><rb>人</rb><rt>ひと</rt></ruby>はもっと<ruby><rb>専門的
+</rb><rt>せんもんてき</rt></ruby>な<ruby><rb>物</rb><rt>もの
+</rt></ruby>も<ruby><rb>作</rb><rt>つく</rt></ruby>ります。ある
+<ruby><rb>人</rb><rt>ひと</rt></ruby>は<ruby><rb>時計</rb><rt>とけい
+</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>事
+</rb><rt>こと</rt></ruby>があるし、びっくりですけど、<ruby><rb>電卓
+</rb><rt>でんたく</rt></ruby>も<ruby><rb>作</rb><rt>つく</rt></ruby>れ
+ます。</span></p>
+
+<p>すごい！本当にできました。お疲れ様です。また来週。。。</p>
+
+<p><span class="dream">すみませんロブさん、ちょっと質問があるんだけど。どうして「&#x3C;ruby&#x3E;」が時々見られますけど時々本当の<ruby><rb>フリガナ</rb><rt>ふりがな</rt></ruby>が見られますか。</span></p>
+
+<p>あっ、それはすごく簡単です。これを書きました：</p>
+
+<p>&#x3E; &#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x6839;&#x26;#x6C17;&#x26;#x3C;/rb&#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;
+&#x3E; &#x26;#x3053;&#x26;#x3093;&#x26;#x304D;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x304C;&#x26;#x3042;
+&#x3E; &#x26;#x308B;&#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x4EBA;&#x26;#x3C;/rb&#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;
+&#x3E; &#x26;#x3072;&#x26;#x3068;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x306F;&#x26;#x3082;&#x26;#x3063;
+&#x3E; &#x26;#x3068;&#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x5C02;&#x26;#x9580;&#x26;#x7684;&#x26;#x3C;/rb&#x26;#x3E;
+&#x3E; &#x26;#x3C;rt&#x26;#x3E;&#x26;#x305B;&#x26;#x3093;&#x26;#x3082;&#x26;#x3093;&#x26;#x3066;&#x26;#x304D;&#x26;#x3C;/rt&#x26;#x3E;
+&#x3E; &#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x306A;&#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x7269;&#x26;#x3C;/rb
+&#x3E; &#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;&#x26;#x3082;&#x26;#x306E;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x3082;
+&#x3E; &#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x4F5C;&#x26;#x3C;/rb&#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;&#x26;#x3064;
+&#x3E; &#x26;#x304F;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x308A;&#x26;#x307E;&#x26;#x3059;&#x26;#x3002;</p>
+
+<p><span class="dream">.&#xB7;&#xB4;&#xAF;&#x60;(&#x3E;&#x434;&#x3C;)&#xB4;&#xAF;&#x60;&#xB7;.</span></p>
+
+<hr />
+
+<p>This morning, in my Minecraft journal entry, I inserted <em>furigana</em>.
+Why do I use the word &lsquo;insert&rsquo;? Because this journal is displayed
+using HTML.</p>
+
+<p>I have to use some technical markup to add furigana above the kanji.</p>
+
+<p>For example, I want to write furigana above the kanji in this
+sentence.</p>
+
+<p><span style="color:blue">根気がある人はもっと専門的な物も作ります。</span></p>
+
+<p>First, above which kanji do we want to write furigana?</p>
+
+<p>Before the kanji write &ldquo;&#x3C;ruby&#x3E;&rdquo; and after the kanji write &ldquo;&#x3C;/ruby&#x3E;&rdquo;.</p>
+
+<p>That way, we write this:</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;根気&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p>and see this:</p>
+
+<p><span style="color:blue"><ruby>根気</ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>No change, but shall we write the furigana?</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;根気こんき&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby>根気こんき</ruby>がある人はもっと専門的
+な物も作ります。</span></p>
+
+<p>Hmm.  It&rsquo;s not above the kanji.</p>
+
+<p>In markup, we have to explain which is the kanji and which is the
+furigana.  We put the kanji inside &#x3C;rb&#x3E; and &#x3C;/rb&#x3E;tags.</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;&#x3C;rb&#x3E;根気&#x3C;/rb&#x3E;こんき&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby><rb>根気</rb>こんき</ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>But we are still not done.  Finally, we put the furigana between &#x3C;rt&#x3E; and &#x3C;/rt&#x3E;.</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;&#x3C;rb&#x3E;根気&#x3C;/rb&#x3E;&#x3C;rt&#x3E;こんき&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;がある人はもっと専門的な物も作ります。</p>
+</blockquote>
+
+<p>Do that, and we get</p>
+
+<p><span style="color:blue"><ruby><rb>根気</rb><rt>こんき</rt></ruby>がある人はもっと専門的な物も作ります。</span></p>
+
+<p>Hooray!  We did it!</p>
+
+<p>But actually, we cannot celebrate yet.  There are still many kanji
+without furigana!  Let&rsquo;s do all those:</p>
+
+<blockquote>
+<p>&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x6839;&#x6C17;&#x3C;/rb&#x3E;&#x3C;rt&#x3E;
+&#x3053;&#x3093;&#x304D;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x304C;&#x3042;
+&#x308B;&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x4EBA;&#x3C;/rb&#x3E;&#x3C;rt&#x3E;
+&#x3072;&#x3068;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x306F;&#x3082;&#x3063;
+&#x3068;&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x5C02;&#x9580;&#x7684;&#x3C;/rb&#x3E;
+&#x3C;rt&#x3E;&#x305B;&#x3093;&#x3082;&#x3093;&#x3066;&#x304D;&#x3C;/rt&#x3E;
+&#x3C;/ruby&#x3E;&#x306A;&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x7269;&#x3C;/rb
+&#x3E;&#x3C;rt&#x3E;&#x3082;&#x306E;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x3082;
+&#x3C;ruby&#x3E;&#x3C;rb&#x3E;&#x4F5C;&#x3C;/rb&#x3E;&#x3C;rt&#x3E;&#x3064;
+&#x304F;&#x3C;/rt&#x3E;&#x3C;/ruby&#x3E;&#x308A;&#x307E;&#x3059;&#x3002;</p>
+</blockquote>
+
+<p><span style="color:blue"><ruby><rb>根気</rb><rt>こんき</rt></ruby>があ
+る<ruby><rb>人</rb><rt>ひと</rt></ruby>はもっと<ruby><rb>専門的
+</rb><rt>せんもんてき</rt></ruby>な<ruby><rb>物</rb><rt>もの
+</rt></ruby>も<ruby><rb>作</rb><rt>つく</rt></ruby>ります。ある
+<ruby><rb>人</rb><rt>ひと</rt></ruby>は<ruby><rb>時計</rb><rt>とけい
+</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>事
+</rb><rt>こと</rt></ruby>があるし、びっくりですけど、<ruby><rb>電卓
+</rb><rt>でんたく</rt></ruby>も<ruby><rb>作</rb><rt>つく</rt></ruby>れ
+ます。</span></p>
+
+<p>Awesome!  We really did it!  Great work!  See you next week!</p>
+
+<p><span class="dream">Sorry, Rob, but I have a question.  How did you
+display &ldquo;&#x3C;ruby&#x3E;&rdquo; sometimes, but other times, the actual <ruby><rb>furigana</rb><rt>ふりがな</rt></ruby>?</span></p>
+
+<p>Oh that was easy!  I just wrote this:</p>
+
+<p>&#x3E; &#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x6839;&#x26;#x6C17;&#x26;#x3C;/rb&#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;
+&#x3E; &#x26;#x3053;&#x26;#x3093;&#x26;#x304D;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x304C;&#x26;#x3042;
+&#x3E; &#x26;#x308B;&#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x4EBA;&#x26;#x3C;/rb&#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;
+&#x3E; &#x26;#x3072;&#x26;#x3068;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x306F;&#x26;#x3082;&#x26;#x3063;
+&#x3E; &#x26;#x3068;&#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x5C02;&#x26;#x9580;&#x26;#x7684;&#x26;#x3C;/rb&#x26;#x3E;
+&#x3E; &#x26;#x3C;rt&#x26;#x3E;&#x26;#x305B;&#x26;#x3093;&#x26;#x3082;&#x26;#x3093;&#x26;#x3066;&#x26;#x304D;&#x26;#x3C;/rt&#x26;#x3E;
+&#x3E; &#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x306A;&#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x7269;&#x26;#x3C;/rb
+&#x3E; &#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;&#x26;#x3082;&#x26;#x306E;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x3082;
+&#x3E; &#x26;#x3C;ruby&#x26;#x3E;&#x26;#x3C;rb&#x26;#x3E;&#x26;#x4F5C;&#x26;#x3C;/rb&#x26;#x3E;&#x26;#x3C;rt&#x26;#x3E;&#x26;#x3064;
+&#x3E; &#x26;#x304F;&#x26;#x3C;/rt&#x26;#x3E;&#x26;#x3C;/ruby&#x26;#x3E;&#x26;#x308A;&#x26;#x307E;&#x26;#x3059;&#x26;#x3002;</p>
+
+<p><span class="dream">&#x3A;&#x2D;&#x28;</span></p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2018/01/19/wrote-japanese/" rel="prev" style="float: left!important">❮ wrote japanese</a>
+                  <a href="https://new.robnugen.com/journal/2018/01/18/meeting-vif/" rel="next" style="float: right!important"> meeting vif ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

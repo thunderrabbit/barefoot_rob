@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>telnet &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="telnet &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="telnet &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">16 Sep 2000, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2000/09/16/telnet/" class="post-title">telnet</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p><title></title>
+<p class=date>13:41 Saturday 16 September 2000</p>
+
+<p><p>Wow!!  I called Marcel this morning for some insight/help getting
+my linux box connected via DSL.  Yes, it&rsquo;s sad, but we&rsquo;ve had DSL at
+the house for some months, and Wende&rsquo;s computer is connected, but mine
+is not.</p>
+
+<p><p>Marcel suggested that I look at the HCL (Hardware Compatibility
+List) to see what ethernet cards are supported.  I looked and found
+that my card is supported and it listed a module 3c59x.o.  Hmmm
+&ldquo;module&rdquo; was a new thing to me, so I did man -k module and found
+insmod.  I looked through that man page and found modprobe.  I man
+paged that and found that I can modprobe 3c59x.o and it will install
+the module if it can.</p>
+
+<p><p>I did that and <em>wow</em>!  My computer can see the ethernet card!  I
+turned on the eth0 interface in X and now I am one little step away
+from getting everything to work.  Right now I am able to telnet to my
+router, and from my router I can telnet to the Internet.  But I cannot
+telnet from my computer to the Internet directly.  Hmm</p>
+
+<p><p>So to write this entry, I have telnetted to the router and then
+telnetted to my website and am writing it with emacs.  Marcel and
+Kayse and fam are coming over in a bit and he and I will look at it;
+I&rsquo;m sure his unix knowledge will help us fix it very quickly.</p>
+
+<p><p>Thanks, Marcel!  You&rsquo;re the best!!!</p>
+
+<p><p><img src='/images/rob/wL-ROB.gif'></p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2000/09/16/ride-uni/" rel="prev" style="float: left!important">❮ ride-uni</a>
+                  <a href="https://new.robnugen.com/journal/2000/09/16/whoohoo/" rel="next" style="float: right!important"> whoohoo! ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

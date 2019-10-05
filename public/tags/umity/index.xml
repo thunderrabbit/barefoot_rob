@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>umity on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/umity/</link>
+    <description>Recent content in umity on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2015 22:55:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/umity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>unity draggable sprites</title>
+      <link>https://new.robnugen.com/journal/2015/04/09/unity-draggable-sprites/</link>
+      <pubDate>Thu, 09 Apr 2015 22:55:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/09/unity-draggable-sprites/</guid>
+      <description>22:55 Thursday 09 April 2015 JST I just created a version of AH (working title) which allows dragging sprites
+The relevant details: add a Collider (BoxCollider2D in this case), and this script:
+using UnityEngine; using System.Collections; public class Draggable : MonoBehaviour { // The default Position Vector2 startPos; // Use this for initialization void Start () { startPos = transform.position; } void OnMouseDrag() { // Convert mouse position to world position Vector2 p = Camera.</description>
+    </item>
+    
+  </channel>
+</rss>

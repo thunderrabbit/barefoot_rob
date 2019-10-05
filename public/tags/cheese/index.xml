@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cheese on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/cheese/</link>
+    <description>Recent content in cheese on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/cheese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Say Cheese</title>
+      <link>https://new.robnugen.com/journal/2015/01/05/say-cheese/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/05/say-cheese/</guid>
+      <description>##23:57 Monday 05 January 2015 JST##
+I&amp;rsquo;ve solved up to level 24 on Say Cheese. My goal is to finish 25, so I&amp;rsquo;ll have done half of the levels before sending it to Fred. I can inconsistently do number 25 in eighteen moves, but they say it&amp;rsquo;s possible in sixteen moves. Hmm.</description>
+    </item>
+    
+  </channel>
+</rss>

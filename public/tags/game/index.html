@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>game &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="game &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="game &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">20 Jan 2018, 16:50</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2018/01/20/tile-snakes-of-length-8/" class="post-title">tile snakes of length 8</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-50-saturday-20-january-2018-jst">16:50 Saturday 20 January 2018 JST</h2>
+
+<p>I wonder how to find all contiguous 8-tile shapes.</p>
+
+<p>They should be formable without crossing over my line.</p>
+
+<p>These are okay</p>
+
+<pre><code>XXXXXXXX
+</code></pre>
+
+<pre><code>XX X
+ XXX
+  XX
+</code></pre>
+
+<p>This is no good because I cannot reach all the Xs without backtracking.</p>
+
+<pre><code> X
+XXX
+XXXXX
+</code></pre>
+
+<p>I guess I can slap it together on codemonkey.net or whatever</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">24 Dec 2017, 14:02</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/12/24/godot-is-so-great/" class="post-title">Godot is so great</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="14-02-sunday-24-december-2017">14:02 Sunday 24 December 2017</h2>
+
+<p><a href="https://godotengine.org">Godot is super great</a> for fast and easy
+development. I haven&rsquo;t gotten to the export stage yet, but hopefully
+that will be as easy.  I was able to add a queue to display the
+upcoming pieces in about an hour, including distractions.</p>
+
+<p><a href="https://github.com/thunderrabbit/robdot_conswi">https://github.com/thunderrabbit/robdot_conswi</a> to see the latest.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">21 Dec 2017, 08:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/12/21/tile-shape-matching-algorithm/" class="post-title">Tile shape matching algorithm</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="8-27-thursday-21-december-2017-03">8:27 Thursday 21 December 2017 -03</h2>
+
+<p>I am making a swipe game which requires the user to swipe specific shapes.</p>
+
+<pre><code>XX
+XX
+</code></pre>
+
+<p>or</p>
+
+<pre><code>XXXX
+</code></pre>
+
+<p>or</p>
+
+<pre><code>X
+X
+X
+X
+</code></pre>
+
+<p>excetera (haha)</p>
+
+<p>I will have a list of tile coordinates which were swiped.</p>
+
+<pre><code>(3,3)
+(3,4)
+(3,5)
+(3,6)
+</code></pre>
+
+<p>Above coordinates would match the horizontal XXXX (or is it vertical? Anyway,)</p>
+
+<p>I can imagine comparing the above list to a list calculated from</p>
+
+<pre><code>f((3,3))
+</code></pre>
+
+<p>which would return the same list of coordinates by adding (0,0) (0,1) (0,1) (0,1)</p>
+
+<p>But that is error prone beyond my tolerance. (Esp given that it needs to work both directions, or in eight (8)! directions for the square shape)</p>
+
+<p>I would like to just give a list of acceptable shapes as ASCII art like my XXXX above and let code do the rest.</p>
+
+<p>What would this kinda algorithm be called?  Is it easiest to just grok
+A* path finding or is that overkill?</p>
+
+<h2 id="18-44-thursday-21-december-2017-03">18:44 Thursday 21 December 2017 -03</h2>
+
+<p>I figured out an algorithm in four parts:</p>
+
+<pre><code>1) Parse
+2) Sort
+3) Diff
+4) Compare
+</code></pre>
+
+<p>Parse is optional, and is used to process my definitions in a shape library:</p>
+
+<pre><code>Library = {Square: [
+0,0,0,0,
+0,1,1,0,
+0,1,1,0
+0,0,0,0
+],
+
+Tee: [
+1,1,1,0,
+0,1,0,0,
+0,1,0,0,
+0,0,0,0
+]}
+</code></pre>
+
+<p>However, the above (1) wastes space, and (2) is limited to 4x4 shapes.</p>
+
+<p>So, add one more digit to tell the parser when to flip to the next line (increment y)</p>
+
+<p>Then we have:</p>
+
+<pre><code>Library = {Square: [2,
+1,1,
+1,1
+],
+
+Tee: [3,
+1,1,1,
+0,1,0,
+0,1,0
+],
+
+Vert5: [1,
+1,1,1,1,1],
+
+Horiz5: [5,
+1,1,1,1,1]}
+</code></pre>
+
+<p>Parse algorithm is annoying to type out well, but it basically poops out an array of Vector2s</p>
+
+<p>Parse(Square) results in</p>
+
+<pre><code>[(1,1),(1,2),(2,1),(2,2)]
+</code></pre>
+
+<p>in the first Library above, and</p>
+
+<pre><code>[(0,0),(0,1),(1,0),(1,1)]
+</code></pre>
+
+<p>in the second Library above.</p>
+
+<p>Having different definitions for the same shape won&rsquo;t work, so we Sort the Vector2s (actually they are sorted above) and Diff them:</p>
+
+<p>Define Diff as</p>
+
+<pre><code>Array[(0,0),
+Next-Current for each adjacent pair]
+</code></pre>
+
+<p>Bingo, consistent definitions for same shapes, no matter what shape or where in the grid they are defined.</p>
+
+<pre><code>Diff(Sort(Parse (Square)))
+</code></pre>
+
+<p>is always</p>
+
+<pre><code>[(0,0),(0,1),(1,-1),(0,1)]
+</code></pre>
+
+<p>I haven&rsquo;t done Tee yet, but</p>
+
+<pre><code>Diff(Sort(Parse([4,
+0,1,1,0,
+0,1,0,1,
+0,1,1,1])))
+</code></pre>
+
+<p>is always</p>
+
+<pre><code>[(0,0),(0,1),(0,1),(1,-2),(0,2),(1,-1)(0,1)]
+</code></pre>
+
+<p>On the game grid, swiping a square results in an array of Vector2s which can be processed starting with Sort above and get the same Diff output.</p>
+
+<p>Yay</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">19 Dec 2017, 08:46</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/12/19/v0.0.1.x-of-swipe-game-in-godot/" class="post-title">v0.0.1.X of swipe game in Godot</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="8-46-tuesday-19-december-2017">8:46 Tuesday 19 December 2017</h2>
+
+<p>I finished what I&rsquo;m calling v0.0.1.X of my Godot game.  Now the pieces
+fall via gravity, can be moved via keypress, and can be dropped
+quickly to the bottom of the screen..</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">27 Oct 2017, 19:40</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/10/27/blarg-stupid-paperclips/" class="post-title">blarg stupid paperclips</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="19-40-friday-27-october-2017-jst">19:40 Friday 27 October 2017 JST</h2>
+
+<p>Playing the stupid paperclip game cost me $50.  Okay, maybe I am
+stupid instead of the game, but due to its clever design, I waited to
+the last minute to get my train (for a substitute lesson in a location
+with which I am unfamiliar).  My train ended up being late, I
+missed(*) my next connection, and the client said &ldquo;screw it&rdquo; and
+cancelled the lesson.</p>
+
+<p>(*) got on the wrong line</p>
+
+<p>Now I am back home and dammit the paperclip game is still noxious.</p>
+
+<p>I closed the tabs (had it running in FF and Chrome) and wonder where
+40 minutes went.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">25 Oct 2015, 16:49</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/10/25/relic-expedition-board-game/" class="post-title">relic expedition board game</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-49-sunday-25-october-2015-jst">16:49 Sunday 25 October 2015 JST</h2>
+
+<p>Now we&rsquo;re playing Relic Expedition,</p>
+
+<p><a href="https://foxtrotgames.com/relic-expedition/">https://foxtrotgames.com/relic-expedition/</a></p>
+
+<p><a href="https://boardgamegeek.com/boardgame/138614/relic-expedition">https://boardgamegeek.com/boardgame/138614/relic-expedition</a></p>
+
+<p><a href="https://www.kickstarter.com/projects/foxtrotgames/relic-expedition-a-jungle-adventure-game">https://www.kickstarter.com/projects/foxtrotgames/relic-expedition-a-jungle-adventure-game</a></p>
+
+<p><a href="https://www.amazon.com/Relic-Expedition/dp/B00HANDYBM">https://www.amazon.com/Relic-Expedition/dp/B00HANDYBM</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=HM4Ifgln4Xo">https://www.youtube.com/watch?v=HM4Ifgln4Xo</a></p>
+
+<p>which is far more complicated.  :-)</p>
+
+<p>Relic Expedition features a lot more strategy; there are far more
+options available per player per turn, including cases where each
+player gets to move NPCs during another player&rsquo;s turn.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">25 Oct 2015, 16:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/10/25/king-of-tokyo-board-game/" class="post-title">King of Tokyo board game</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-27-sunday-25-october-2015-jst">16:27 Sunday 25 October 2015 JST</h2>
+
+<p>At Travis and Yumi&rsquo;s house playing King of Tokyo,</p>
+
+<p><a href="https://boardgamegeek.com/boardgame/70323/king-tokyo">https://boardgamegeek.com/boardgame/70323/king-tokyo</a></p>
+
+<p><a href="https://www.amazon.com/IELLO-IEL-51032-King-Tokyo/dp/B004U5R5BI">https://www.amazon.com/IELLO-IEL-51032-King-Tokyo/dp/B004U5R5BI</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/King_of_Tokyo">https://en.wikipedia.org/wiki/King_of_Tokyo</a></p>
+
+<p><a href="https://www.facebook.com/KingOfTokyoGame">https://www.facebook.com/KingOfTokyoGame</a></p>
+
+<p>a fun analog game with dice and random cards to add chance, and the
+option of re-rolling dice to give some strategy.  We were playing with
+5 players, so it was mostly a game of staying alive moreso than using
+the cards to do tricksy stuff.</p>
+
+<p>I lost, Johan won!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">11 May 2015, 22:51</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/05/11/ponging/" class="post-title">ponging</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="22-51-monday-11-may-2015-jst">22:51 Monday 11 May 2015 JST</h2>
+
+<p>We&rsquo;ve essentially hammered out all the features of pong; though I
+haven&rsquo;t created tickets for everything, I just need to work through
+them.</p>
+
+<h2 id="7-27-am-tuesday-12-may">7:27 am Tuesday 12 May</h2>
+
+<p>just made tickets</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">06 Jan 2015, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/01/06/perilous-pipes/" class="post-title">Perilous Pipes</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##23:25 Tuesday 06 January 2015 JST##</p>
+
+<p>Oh man.  I went back to the toy store today and found
+<a href="https://www.amazon.com/Popular-Playthings-HC70440-Perilous-Pipes/dp/B007KZWB0U/">Perilous Pipes</a>
+to be even <em>more</em> difficult than <a href="https://www.amazon.com/Popular-Playthings-HC70430-Say-Cheese/dp/B004QGW7GE">Say Cheese</a>!</p>
+
+<p>I therefore bought it for Fred.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">28 Dec 2014, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2014/12/28/stencyl-is-pretty-cool/" class="post-title">Stencyl is pretty cool</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>##16:41 Sunday 28 December 2014 JST##</p>
+
+<p>Considering using <a href="https://www.stencyl.com/">Stencyl</a> for next game.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

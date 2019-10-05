@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/react/</link>
+    <description>Recent content in react on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 10:57:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>react</title>
+      <link>https://new.robnugen.com/journal/2017/02/07/react/</link>
+      <pubDate>Tue, 07 Feb 2017 10:57:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/02/07/react/</guid>
+      <description> 10:57 Tuesday 07 February 2017 JST from https://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
+    var rootElement = React.createElement(&#39;div&#39;, {}, React.createElement(&#39;h1&#39;, {}, &#34;React&#34;), React.createElement(&#39;ul&#39;, {}, React.createElement(&#39;li&#39;, {}, React.createElement(&#39;h2&#39;, {}, &#34;Mom&#34;), React.createElement(&#39;a&#39;, {href: &#39;mailto:mom@example.com&#39;}, &#39;mom@your.com&#39;) ), React.createElement(&#39;li&#39;, {}, React.createElement(&#39;h2&#39;, {}, &#34;Dad&#34;), React.createElement(&#39;a&#39;, {href: &#39;mailto:dad@example.com&#39;}, &#39;dad@your.com&#39;) ) ) ) ReactDOM.render(rootElement, document.getElementById(&#39;react-app&#39;))  </description>
+    </item>
+    
+  </channel>
+</rss>

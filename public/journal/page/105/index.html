@@ -1,0 +1,473 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journals &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Journals &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Journals &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">21 May 2017, 08:32</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/21/progressing/" class="post-title">progressing</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="08-32-sunday-21-may-2017-jst">08:32 Sunday 21 May 2017 JST</h2>
+
+<h3 id="my-zcoin-progress">My Zcoin progress</h3>
+
+<p>I could not get Zcash to run on Debian inside virtualbox on Amazon EC2
+because they do not support nested virtualization.</p>
+
+<p>I tried just using AWS as the provider and using Vagrant locally, but
+I kept getting an error like 「this box is not available on requested
+provider」(using Japanese quotes because it is not an actual quote).</p>
+
+<p>So I tried spinning up a Debian box directly on Amazon with Ansible.
+It starts and then automatically shuts down.</p>
+
+<p>I have not yet tried starting said box with Amazon&rsquo;s launch wizard.</p>
+
+<hr />
+
+<h3 id="my-japanese-progress">My Japanese progress</h3>
+
+<p>I cried yesterday during my Japanese lesson.  I could not stand not
+knowing the answer because I had not studied.  Basically my teacher was
+quizzing me and I kept getting answers wrong because</p>
+
+<ol>
+<li>I had not studied</li>
+<li>I do not yet know the verbs</li>
+<li>I do not yet grok (in)transative in Japanese (though I basically
+understand the idea in English)</li>
+</ol>
+
+<p>She suggested we switch to just reading some text and skip the grammar
+until I have time+desire to study again.</p>
+
+<hr />
+
+<h3 id="work-progress">Work progress</h3>
+
+<p>I got a backup script running via cron which saves tables in smaller
+bundles than Entire Database at a time.  Basically it saves tables by
+searching for a prefix.  Only problem (yes the <em>only</em> problem haha)
+with my system is when I do <em>not</em> send a prefix, the script has to
+know which prefixes to skip.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">19 May 2017, 11:32</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/19/two-minutes-after-8-hours/" class="post-title">two minutes after 8 hours</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="11-32-friday-19-may-2017-jst">11:32 Friday 19 May 2017 JST</h2>
+
+<p>I am the butt of the
+<a href="https://encrypted.google.com/search?q=invoice+knowing+which+joke">joke about knowing what to do</a>
+..  I just spent about 8 hours of trying to figure out why CB app was
+not showing images.  Image server was okay, cloudfront was okay,
+.. was it the app caching things?  I had to dig into the source of the app to
+discover there is a differently spelled version of CB&rsquo;s domain name,
+call it seebee, which was being used.  So pointing that oddly spelled
+domain to the right place fixed the problem.</p>
+
+<p>bah</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">18 May 2017, 15:57</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/18/still-cant-get-shit-done/" class="post-title">still can&#39;t get shit done</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="15-57-thursday-18-may-2017-jst">15:57 Thursday 18 May 2017 JST</h2>
+
+<p>Today I discovered the image server had run out of space; I hadn&rsquo;t
+created a separate volume for its cache.  Got that sorted, but now
+need to add a cronjob to prune the space.  I hope wiping files older
+than N days should do it, because that what I plan to do.</p>
+
+<p>But why tf are some images still showing up all FFFFFF white?  Well
+that is just on the app.. I cannot figure out where the FFFFFF images
+have been cached.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">18 May 2017, 07:47</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/18/cannot-login/" class="post-title">cannot login</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="07-47-thursday-18-may-2017-jst">07:47 Thursday 18 May 2017 JST</h2>
+
+<pre><code>CB: Onece we logout,we can't login.
+CB: it's a app things.
+
+me: hmm.  I have not changed the iPhone app.. the only thing I
+    changed recently was the image server.
+me: I wonder what could cause it.
+</code></pre>
+
+<p>Steps to check:</p>
+
+<ol>
+<li>Look up my username and password</li>
+<li>thunderrabbit / ***********************************</li>
+<li>see if I can log in</li>
+<li>if not, log in to server</li>
+<li>watch the logs</li>
+<li>see if there is an error</li>
+<li>if not, (shrug smiley)</li>
+<li>if so, hope the error tells me something</li>
+</ol>
+
+<h2 id="08-01-thursday-18-may-2017-jst">08:01 Thursday 18 May 2017 JST</h2>
+
+<p>I was able to log in no problem.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">17 May 2017, 21:11</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/17/blargh/" class="post-title">blargh</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="21-11-wednesday-17-may-2017-jst">21:11 Wednesday 17 May 2017 JST</h2>
+
+<p>What&rsquo;s the polite way to say show me the money when my language school
+is like oh can you make these tweaks to our website?</p>
+
+<p>Lessons tonight were ssooo challenging for me.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">17 May 2017, 12:25</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/17/cant-get-shit-done/" class="post-title">can&#39;t get shit done</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="12-25-wednesday-17-may-2017-jst">12:25 Wednesday 17 May 2017 JST</h2>
+
+<p>Man my productivity has been dismal for a while.  Basically it&rsquo;s cause
+I have too much shit going on and can&rsquo;t keep the status of all my
+projects in mind.</p>
+
+<p>Specifically, I wasted an hour wondering why one particular image
+would not show up, and turns out I had not yet updated my dev
+environment to use the new image server.</p>
+
+<p>Then a tiny bit of maintenance success getting my dev environment
+fully working, but now it&rsquo;s time to go to my next lesson.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">17 May 2017, 09:19</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/17/mt-fujis-recent-eruption/" class="post-title">Mt Fuji&#39;s &#39;recent&#39; eruption</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="09-19-wednesday-17-may-2017-jst">09:19 Wednesday 17 May 2017 JST</h2>
+
+<p>Today I learned from C-san that the southern face of Mt Fuji erupted
+in 1707, leaving a still clearly visible crater on the side of the
+mountain.  So interesting!!</p>
+
+<p>A-san showed us a satellite map which shows the hole and a
+river-looking thing on another face of the mountain.</p>
+
+<p>I&rsquo;m glad C-san remembered her homework!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">17 May 2017, 06:25</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/17/snoozy-commute/" class="post-title">snoozy commute</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="06-25-wednesday-17-may-2017-jst">06:25 Wednesday 17 May 2017 JST</h2>
+
+<p>Arriving on time for my 7:50am - 8:50am lesson requires I leave our
+house by 6:25am.  However, if I leave home by 5:45am, I can sit down
+on a train at 6:25am, and sleeeeep until it arrives at 7:30am.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">16 May 2017, 12:18</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/16/daisuke-sensei/" class="post-title">Daisuke sensei</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="12-18-tuesday-16-may-2017-jst">12:18 Tuesday 16 May 2017 JST</h2>
+
+<p>Bah I do not want to type Japanese right now.</p>
+
+<p>１時から、大輔先生のレッスンを始まります。先生がたくさん練習することが
+大事、て。</p>
+
+<p>I don&rsquo;t think I should mix ます with short form て, but I don&rsquo;t know
+how to do reported speech in long form.  言えました perhaps.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 May 2017, 19:21</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/15/z.cash/" class="post-title">z.cash</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="19-21-monday-15-may-2017-jst">19:21 Monday 15 May 2017 JST</h2>
+
+<p>Okay so my z.cash VM ran out of memory here on my local box, so I will
+<em>probably</em> spin one up in the cloud.  AWS is easiest for me, but maybe
+I&rsquo;ll take a bit more time to find a less expensive solution.  Is
+Linode a flat rate?  Hmmmm.  Maybe it&rsquo;s time to get my own one of
+those.</p>
+
+<h2 id="12-25-tuesday-16-may-2017-jst">12:25 Tuesday 16 May 2017 JST</h2>
+
+<p>Looks like I am targetting AWS, just because I can hopefully get
+Ansible to do all the grunt work.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+      <a href="/journal/page/104/" class="post-list-pagination-item pure-button post-list-pagination-item-prev">
+        <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+      </a>
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 105 of 707</span>
+    
+      <a href="/journal/page/106/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

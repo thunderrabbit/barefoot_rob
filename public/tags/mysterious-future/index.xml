@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mysterious future on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mysterious-future/</link>
+    <description>Recent content in mysterious future on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2015 21:53:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mysterious-future/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my computer is done</title>
+      <link>https://new.robnugen.com/journal/2015/07/11/my-computer-is-done/</link>
+      <pubDate>Sat, 11 Jul 2015 21:53:46 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/11/my-computer-is-done/</guid>
+      <description>21:53 Saturday 11 July 2015 JST but has its storage been wiped?
+Things to do before switching back to it:
+ git push these journal entries to bitbucket make sure AB and CB repo branches are all pushed store my login password for this machine in lastpass copy updated text files  ~~If computer has been wiped:
+ Copy virtual boxen back over Install virtualbox Install Chrome~~  Things to do on repaired computer:</description>
+    </item>
+    
+  </channel>
+</rss>

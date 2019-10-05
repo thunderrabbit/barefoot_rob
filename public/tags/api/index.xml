@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>api on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/api/</link>
+    <description>Recent content in api on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2017 05:58:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>meeting prepped I hope</title>
+      <link>https://new.robnugen.com/journal/2017/10/30/meeting-prepped-i-hope/</link>
+      <pubDate>Mon, 30 Oct 2017 05:58:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/10/30/meeting-prepped-i-hope/</guid>
+      <description>05:58 Monday 30 October 2017 JST CB wants a presentation about the API. I started to explain how an API works and they seemed to know that, but they wanted to know how it&amp;rsquo;s set up. I have answered in terms of what I know and I hope that is enough for them to be satisfied.</description>
+    </item>
+    
+  </channel>
+</rss>

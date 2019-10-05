@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>links on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/links/</link>
+    <description>Recent content in links on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2017 10:26:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Got mypowercircle to trigger Travis deploys</title>
+      <link>https://new.robnugen.com/journal/2017/07/21/got-mypowercircle-to-trigger-travis-deploys/</link>
+      <pubDate>Fri, 21 Jul 2017 10:26:25 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/21/got-mypowercircle-to-trigger-travis-deploys/</guid>
+      <description>10:26 Friday 21 July 2017 JST When I git push the source docs for Tokyo Men&amp;rsquo;s Group to the Github repo for Tokyo Men&amp;rsquo;s Group, it triggers a Travis build.</description>
+    </item>
+    
+    <item>
+      <title>Safari has become better for searching, but harder for sharing</title>
+      <link>https://new.robnugen.com/journal/2013/02/17/safari-has-become-better-for-searching-but-harder-for-sharing/</link>
+      <pubDate>Sun, 17 Feb 2013 10:27:15 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/02/17/safari-has-become-better-for-searching-but-harder-for-sharing/</guid>
+      <description>##10:27 Sunday 17 February 2013
+Regarding the new Safari search bar:
+I&amp;rsquo;m glad that I can just type keywords and Safari knows I&amp;rsquo;m not trying to search for the invalid URL https://funny%20cat%20videos
+But now all I see is &amp;ldquo;funny cat videos&amp;rdquo; where I would like to see the URL https://www.google.com/search?q=funny+cat+videos
+The interwebs are based on the concept of hyperlinks, not hypersearchterms. It&amp;rsquo;s a pain for me now to use Safari to create links for sharing.</description>
+    </item>
+    
+  </channel>
+</rss>

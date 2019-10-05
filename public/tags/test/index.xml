@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/test/</link>
+    <description>Recent content in test on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2017 21:51:14 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>testing exim</title>
+      <link>https://new.robnugen.com/journal/2017/12/13/testing-exim/</link>
+      <pubDate>Wed, 13 Dec 2017 21:51:14 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/13/testing-exim/</guid>
+      <description>21:51 Wednesday 13 December 2017 JST exim -v thunderrabbit@example.com From: yoexim@example.com To: yoeximumad@example.com Subject: Testing Exim This is a test message.  &amp;lsquo;twas delivered to spam, but it worked.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stuff on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/stuff/</link>
+    <description>Recent content in stuff on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Feb 2019 07:44:19 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/stuff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State of My Life Address</title>
+      <link>https://new.robnugen.com/journal/2019/02/06/state-of-my-life-address/</link>
+      <pubDate>Wed, 06 Feb 2019 07:44:19 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/02/06/state-of-my-life-address/</guid>
+      <description>07:44 Wednesday 06 February 2019 JST  Lin and I still have our cat Jennie, still keep her in at night, still live in Asao-ku near the bottom of a hill. I&amp;rsquo;m still working on Marble Track 3, trying to do at least 2 hours of livestream per week. I have been working on AB, getting tests added to cover the important parts of the codebase. I do not have a lot covered, but 10 tests is an order of magnitude more than 0.</description>
+    </item>
+    
+    <item>
+      <title>yesterday, written today</title>
+      <link>https://new.robnugen.com/journal/2018/05/08/yesterday-written-today/</link>
+      <pubDate>Tue, 08 May 2018 10:21:48 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/05/08/yesterday-written-today/</guid>
+      <description>Tuesday 08 May 2018 JST (written 10:21 Wednesday 09 May 2018 JST)
+I spent a bit over an hour on MT3 yesterday. At least half of that time was spent thinking about what each character should do next.
+I did not finish all my Complice stuff; I think I have overloaded it with too many tasks each day.
+Great Tokyo men&amp;rsquo;s circle last night, despite the rain. The new man from last week attended again and had great insights on the problem I presented to the circle.</description>
+    </item>
+    
+    <item>
+      <title>aint written in a while (warning blood) NSFL</title>
+      <link>https://new.robnugen.com/journal/2018/02/12/aint-written-in-a-while-warning-blood-nsfl/</link>
+      <pubDate>Mon, 12 Feb 2018 15:04:25 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/12/aint-written-in-a-while-warning-blood-nsfl/</guid>
+      <description>15:04 Monday 12 February 2018 JST Been working on MT3 pretty consistently, and started working on AB again now that the new verbal agreement has started.
+Recently I found complice (referral link) which seems like a pretty good system for organizing my day and stuff. I have 19 days in my free test period.
+Complice has a slight learning curve, but built-in pomodoros plus a magic way that when I open a new tab it reminds me what my latest thing to do is.</description>
+    </item>
+    
+    <item>
+      <title>progressing</title>
+      <link>https://new.robnugen.com/journal/2017/05/21/progressing/</link>
+      <pubDate>Sun, 21 May 2017 08:32:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/05/21/progressing/</guid>
+      <description>08:32 Sunday 21 May 2017 JST My Zcoin progress I could not get Zcash to run on Debian inside virtualbox on Amazon EC2 because they do not support nested virtualization.
+I tried just using AWS as the provider and using Vagrant locally, but I kept getting an error like 「this box is not available on requested provider」(using Japanese quotes because it is not an actual quote).
+So I tried spinning up a Debian box directly on Amazon with Ansible.</description>
+    </item>
+    
+    <item>
+      <title>other stuff</title>
+      <link>https://new.robnugen.com/journal/2016/10/19/other-stuff/</link>
+      <pubDate>Wed, 19 Oct 2016 22:48:13 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/19/other-stuff/</guid>
+      <description> 22:48 Wednesday 19 October 2016 JST  I&amp;rsquo;m trying to scp images from my Android phone to b.robnugen.com I stubbed and bloodied my toe on an escalator in Torihama station I voted for Andrew Basiago I just got back from staffing MKP in OZ Cine&amp;rsquo;s long time friend from back home suddenly died today.  </description>
+    </item>
+    
+    <item>
+      <title>wow amazing collection</title>
+      <link>https://new.robnugen.com/journal/2014/12/14/wow-amazing-collection/</link>
+      <pubDate>Sun, 14 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/12/14/wow-amazing-collection/</guid>
+      <description>##02:13 Sunday 21 December 2014 JST##
+Okay, this guy&amp;rsquo;s house is a bit like a museum.
+He said he&amp;rsquo;s 82 years old, and has been collecting this all his adult life.
+                 
+It&amp;rsquo;s all just in his house. I want to get a Japanese-speaking historian to interview this guy and something something something I don&amp;rsquo;t know what.</description>
+    </item>
+    
+    <item>
+      <title>Mailed stuff to Fred and Soness</title>
+      <link>https://new.robnugen.com/journal/2014/11/21/mailed-stuff-to-fred-and-soness/</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/21/mailed-stuff-to-fred-and-soness/</guid>
+      <description>##15:15 Friday 21 November 2014 JST##
+I just mailed Fred&amp;rsquo;s calendar and stuff to Soness&amp;rsquo;s accountant.
+Afterward, I ate an ankoman, an american dog, and drank piru kuru.</description>
+    </item>
+    
+  </channel>
+</rss>

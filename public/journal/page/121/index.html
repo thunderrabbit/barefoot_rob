@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journals &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Journals &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Journals &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">16 Dec 2016, 20:01</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/16/having-ansible-install-redmine/" class="post-title">having Ansible install redmine</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="20-01-friday-16-december-2016-jst">20:01 Friday 16 December 2016 JST</h2>
+
+<p>Here&rsquo;s the error:</p>
+
+<pre><code>TASK [redmine-ansible : Change admin default account] **************************
+fatal: [54.175.38.243]: FAILED! =&gt; {&quot;changed&quot;: true, &quot;cmd&quot;: &quot;ruby
+script/rails runner -e production 'user = User.find(:first,
+:conditions =&gt; {:admin =&gt; true}) ;
+user.mail=\&quot;youradmin@robnugen.com\&quot;;
+user.salt_password(\&quot;redmine\&quot;); user.save!'&quot;, &quot;delta&quot;:
+&quot;0:00:00.033956&quot;, &quot;end&quot;: &quot;2016-12-16 10:58:40.837395&quot;, &quot;failed&quot;:
+true, &quot;rc&quot;: 1, &quot;start&quot;: &quot;2016-12-16 10:58:40.803439&quot;, &quot;stderr&quot;:
+&quot;ruby: No such file or directory -- script/rails (LoadError)&quot;,
+&quot;stdout&quot;: &quot;&quot;, &quot;stdout_lines&quot;: [], &quot;warnings&quot;: []}
+to retry, use: --limit @/home/vagrant/create-server-on-aws/US_EAST_030_website_redmine.retry
+</code></pre>
+
+<p>Here&rsquo;s the line:</p>
+
+<p>shell: chdir=&ldquo;/usr/share/redmine&rdquo; ruby script/rails runner -e production &lsquo;user = User.find(:first, :conditions =&gt; {:admin =&gt; true}) ; user.mail=&ldquo;youradmin@robnugen.com&rdquo;; user.salt_password(&ldquo;yourmom&rdquo;); user.save!&rsquo;</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">16 Dec 2016, 10:54</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/16/about-to-install-kakoune/" class="post-title">about to install kakoune</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="10-54-friday-16-december-2016-jst">10:54 Friday 16 December 2016 JST</h2>
+
+<p>From <a href="https://github.com/mawww/kakoune#2-getting-started">getting started with kakoune</a>
+via <a href="https://kakoune.org">https://kakoune.org</a></p>
+
+<pre><code>brew install homebrew/dupes/ncurses
+</code></pre>
+
+<p>Then, to install</p>
+
+<pre><code>brew install --HEAD https://raw.githubusercontent.com/mawww/kakoune/master/contrib/kakoune.rb
+</code></pre>
+
+<h2 id="11-09">11:09</h2>
+
+<p>Okay I&rsquo;ve just installed kakoune and am using it to type this sentence.  Funny that it
+requires pressing the control key to select suggested words.  Seems like down-arrow
+would be sufficient but maybe the arrow keys are too far away from keyboard.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 Dec 2016, 23:28</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/15/party/" class="post-title">party</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="23-28-thursday-15-december-2016-jst">23:28 Thursday 15 December 2016 JST</h2>
+
+<p>After the lesson we went to Ozeki, a new restaurant owned by
+Sarupapa&rsquo;s friend.  Sarupapa has been working there for a few weeks
+now.  Great food and umeshu and dessert!  And of course great company;
+so glad everyone gets along so well.</p>
+
+<p><a href="//b.robnugen.com/journal/2016/dec_friends/class_party_2016-12-24_at_7.27.01_PM_42.jpg"><img src="//b.robnugen.com/journal/2016/dec_friends/thumbs/class_party_2016-12-24_at_7.27.01_PM_42.jpg" alt="class party 2016-12-24 at 7.27.01 PM 42" /></a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 Dec 2016, 19:38</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/15/lesson/" class="post-title">lesson</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="19-38-thursday-15-december-2016-jst">19:38 Thursday 15 December 2016 JST</h2>
+
+<p>Good GG lesson; we looked at three sentences of Mayumi&rsquo;s paper about
+the history of sushi.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 Dec 2016, 17:24</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/15/work/" class="post-title">work</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="17-24-thursday-15-december-2016-jst">17:24 Thursday 15 December 2016 JST</h2>
+
+<p>Worked on iPhone app a bit, wiping out the paddle and balls from
+breakout style, and just allowed touching the bricks to destroy them.
+I added little explosion impulse (reverse gravity) when each brick is
+destroyed so it&rsquo;s like they explode and blow the other bricks around
+the screen.</p>
+
+<pre><code>func breakBlock(_ node: SKNode) {
+  // boom simulates an explosion which affects blocks around the block
+  let boom = SKFieldNode.radialGravityField()
+  boom.strength = -0.5
+  boom.categoryBitMask = BlockCategory
+  boom.region = SKRegion(radius: Float(node.frame.size.width) * 2)
+  boom.position = node.position
+  boom.falloff = 4
+  boom.run(SKAction.sequence([
+      SKAction.strength(to: 0, duration: 1.0),
+      SKAction.removeFromParent()
+      ]))
+  addChild(boom)
+  node.removeFromParent()
+}
+</code></pre>
+
+<p><a href="https://developer.apple.com/reference/spritekit/skfieldnode#1654415">(source)</a></p>
+
+<p>Swift (along with SpriteKit) is pretty easy to work with for this kind of thing.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 Dec 2016, 07:54</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/15/todays-schedule/" class="post-title">Today&#39;s schedule：</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="07-54-thursday-15-december-2016-jst">07:54 Thursday 15 December 2016 JST</h2>
+
+<p>07:50 class starts
+now breaktime until students arrive
+08:50 class finishes
+09:30 go to clinic for annual checkup, subsidized by the city
+10:00 go eat
+10:30 online I-group
+12:30 online I-group finished
+14:00 teach at science+promotional museum
+17:00 finished at science+promotional museum
+17:20 train to Akihabara
+18:30 lesson with GG
+19:30 finish GG lesson
+20:30 dinner with Sarutachi, Lin, GG
+23:00 dinner finished
+24:00 arrive home
+24:30 sleeping time</p>
+
+<h2 id="08-03">08:03</h2>
+
+<p>I wish I could partake in sleeping time right now, but I&rsquo;m in a glass
+room and ostensibly on the clock, though have no students here yet.</p>
+
+<h2 id="14-06">14:06</h2>
+
+<p>Great online I-group.  They helped me recognize why I feel angry when
+things are wasted.  Basically when people waste things, I think that
+means they don&rsquo;t care about the environment.  Part of me doesn&rsquo;t care
+about anything, so I&rsquo;m projecting that part of me onto people.</p>
+
+<p>But that&rsquo;s not why I&rsquo;m writing.  I&rsquo;m on a train having just left
+Tachikawa.  My 2pm - 5pm lessons at the museum are <em>next</em> week, so I
+got to engage in a nice nap on Nambu line on the way to Tachikawa, and
+I might take another nap on the way to Akihabara.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">15 Dec 2016, 07:48</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/15/wednesday-late-thursday-early/" class="post-title">Wednesday late Thursday early</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="07-48-thursday-15-december-2016-jst">07:48 Thursday 15 December 2016 JST</h2>
+
+<p>My transition from Wednesday to Thursday each week includes just about
+4 hours of sleep.  I work until 9pm at JB (get home at 10:40pm) and
+then teach at 7:50 the next morning (for which I wake up at 5:49am).
+So I guess if I go zoom straight to sleep, I could sleep 7 hours.
+I&rsquo;ll try that next year when the schedule resumes after the holidays.</p>
+
+<p>Today I&rsquo;m pretty tired, have a headache, and didn&rsquo;t enjoy the crowded
+train on the way here.  (if I&rsquo;m awake and 元気 it doesn&rsquo;t phase me)</p>
+
+<h2 id="11-10-friday-10-august-2018-jst">11:10 Friday 10 August 2018 JST</h2>
+
+<p>Not saying these are related, but they are not entirely not related.</p>
+
+<p><a href="//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM.jpg"><img src="//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM.jpg" alt="climbing 2016-12-24 at 7.35.08 PM" /></a>
+<a href="//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_2.jpg"><img src="//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_2.jpg" alt="climbing 2016-12-24 at 7.35.08 PM 2" /></a>
+<a href="//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_3.jpg"><img src="//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_3.jpg" alt="climbing 2016-12-24 at 7.35.08 PM 3" /></a>
+<a href="//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_4.jpg"><img src="//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_4.jpg" alt="climbing 2016-12-24 at 7.35.08 PM 4" /></a>
+<a href="//b.robnugen.com/journal/2016/climb_scaffold/climbing_2016-12-24_at_7.35.08_PM_5.jpg"><img src="//b.robnugen.com/journal/2016/climb_scaffold/thumbs/climbing_2016-12-24_at_7.35.08_PM_5.jpg" alt="climbing 2016-12-24 at 7.35.08 PM 5" /></a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">14 Dec 2016, 09:51</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/14/dirk-gentlys-holistic-detective-agency-on-netflix/" class="post-title">Dirk Gently&#39;s Holistic Detective Agency on Netflix</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="09-51-wednesday-14-december-2016-jst">09:51 Wednesday 14 December 2016 JST</h2>
+
+<p>Great show!  My favorite character (after 3 episodes) is Bart.</p>
+
+<p>&ldquo;There&rsquo;s only 2 universal constants..&rdquo;</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">13 Dec 2016, 20:47</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/13/end-of-year-special-you%E3%81%AF%E4%BD%95%E3%81%97%E3%81%AB%E6%97%A5%E6%9C%AC%E3%81%B8/" class="post-title">end of year special YOUは何しに日本へ</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="20-47-tuesday-13-december-2016-jst">20:47 Tuesday 13 December 2016 JST</h2>
+
+<p>Last night I met a whole lot of beautiful people who have been YOUs on
+the TV show &ldquo;What are YOU doing in Japan?&rdquo;</p>
+
+<p>I connected most with Cyrus the wild man, who loves onsen and
+apparently lives off grid.</p>
+
+<p><a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.27.05.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.27.05.jpg" alt="on the set 2016-12-12 19.27.05" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.26.31.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.26.31.jpg" alt="on the set 2016-12-12 19.26.31" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.26.20.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.26.20.jpg" alt="on the set 2016-12-12 19.26.20" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.26.19.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.26.19.jpg" alt="on the set 2016-12-12 19.26.19" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.23.16.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.23.16.jpg" alt="on the set 2016-12-12 19.23.16" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.23.06.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.23.06.jpg" alt="on the set 2016-12-12 19.23.06" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.01.05.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.01.05.jpg" alt="on the set 2016-12-12 19.01.05" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.01.04.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.01.04.jpg" alt="on the set 2016-12-12 19.01.04" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.00.30.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.00.30.jpg" alt="on the set 2016-12-12 19.00.30" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/on_the_set_2016-12-12_19.00.12.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/on_the_set_2016-12-12_19.00.12.jpg" alt="on the set 2016-12-12 19.00.12" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/YOU_peeps_2016-12-24_at_7.27.01_PM_33.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/YOU_peeps_2016-12-24_at_7.27.01_PM_33.jpg" alt="YOU peeps 2016-12-24 at 7.27.01 PM 33" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/YOU_peeps_2016-12-24_at_7.27.01_PM_34.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/YOU_peeps_2016-12-24_at_7.27.01_PM_34.jpg" alt="YOU peeps 2016-12-24 at 7.27.01 PM 34" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/Sally_hat_2016-12-24_at_7.27.01_PM_36.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/Sally_hat_2016-12-24_at_7.27.01_PM_36.jpg" alt="Sally hat 2016-12-24 at 7.27.01 PM 36" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/with_Ally_and_Sally_2016-12-24_at_7.27.01_PM_38.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/with_Ally_and_Sally_2016-12-24_at_7.27.01_PM_38.jpg" alt="with Ally and Sally 2016-12-24 at 7.27.01 PM 38" /></a>
+<a href="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/barefoot_with_Ally_and_Sally_2016-12-24_at_7.27.01_PM_39.jpg"><img src="//b.robnugen.com/video/tv/YOU/three_hour_2016_special/thumbs/barefoot_with_Ally_and_Sally_2016-12-24_at_7.27.01_PM_39.jpg" alt="barefoot with Ally and Sally 2016-12-24 at 7.27.01 PM 39" /></a></p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">12 Dec 2016, 00:24</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2016/12/12/late-talking/" class="post-title">late talking</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="00-24-monday-12-december-2016-jst">00:24 Monday 12 December 2016 JST</h2>
+
+<blockquote>
+<p>Upon this day, 12 December 2016, Rob reminded X that X&rsquo;s gold and
+artistic connection to X&rsquo;s own self are more important than the even
+the most lasered abyss.</p>
+</blockquote>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+      <a href="/journal/page/120/" class="post-list-pagination-item pure-button post-list-pagination-item-prev">
+        <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+      </a>
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 121 of 707</span>
+    
+      <a href="/journal/page/122/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

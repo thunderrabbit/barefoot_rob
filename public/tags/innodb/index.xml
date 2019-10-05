@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>innodb on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/innodb/</link>
+    <description>Recent content in innodb on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2016 09:39:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/innodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>foreign key</title>
+      <link>https://new.robnugen.com/journal/2016/11/10/foreign-key/</link>
+      <pubDate>Thu, 10 Nov 2016 09:39:35 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/10/foreign-key/</guid>
+      <description>09:39 Thursday 10 November 2016 JST I just added my first foreign key constraint in a DB using INNODB tables. These are two new tables I&amp;rsquo;ve created to get around the size limits of localstorage. One more table coming soon, and then I&amp;rsquo;ll have moved everything from localstorage to DB.</description>
+    </item>
+    
+  </channel>
+</rss>

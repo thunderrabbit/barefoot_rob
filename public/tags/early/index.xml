@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>early on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/early/</link>
+    <description>Recent content in early on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 14:25:13 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/early/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mondays are early days</title>
+      <link>https://new.robnugen.com/journal/2018/10/15/mondays-are-early-days/</link>
+      <pubDate>Mon, 15 Oct 2018 14:25:13 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/10/15/mondays-are-early-days/</guid>
+      <description>14:25 Monday 15 October 2018 JST On Mondays for the past year or more, I have been waking up at 5am on Mondays to work at IL for an hour from 8am to 9am. Today we talked about the new fish market in Toyosu, and how at 40 hectares, it is 1.7 times larger than the fish market that was in Tsukiji (which I never visited during the fish auctions).</description>
+    </item>
+    
+    <item>
+      <title>woke up early with no alarm</title>
+      <link>https://new.robnugen.com/journal/2017/11/30/woke-up-early-with-no-alarm/</link>
+      <pubDate>Thu, 30 Nov 2017 07:00:08 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/11/30/woke-up-early-with-no-alarm/</guid>
+      <description>07:00 Thursday 30 November 2017 JST I woke up at 4am with no alarm, and then actually got up at 4:26. Chatted with Jason and Jimmy for a second before getting to work.
+Work included getting Ansible to create directories for a SB website on AWS. Basically I am tweaking the playbooks and roles from AB website to work on SB website. I need to make them a bit more generalized, but to a degreee, I think they are pretty good.</description>
+    </item>
+    
+    <item>
+      <title>up early</title>
+      <link>https://new.robnugen.com/journal/2017/07/09/up-early/</link>
+      <pubDate>Sun, 09 Jul 2017 03:03:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/09/up-early/</guid>
+      <description>03:03 Sunday 09 July 2017 JST I set my alarm to wake up early this morning so I can get some work done while it&amp;rsquo;s not too hot in my room. When my computer gets hot, it gets slow. (Basically because it is old and the kernel task starts to go crazy and take all the CPU.)</description>
+    </item>
+    
+    <item>
+      <title>Good morning</title>
+      <link>https://new.robnugen.com/journal/2017/05/24/good-morning/</link>
+      <pubDate>Wed, 24 May 2017 04:40:50 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/05/24/good-morning/</guid>
+      <description>04:40 Wednesday 24 May 2017 JST I woke up just before my alarm, thought huh that&amp;rsquo;s weird because I do not normally sleep 5 hours in a single sleep cycle, came to my computer to discover I woke up an hour before my alarm. Ah. That makes sense.</description>
+    </item>
+    
+    <item>
+      <title>Sleep by 23</title>
+      <link>https://new.robnugen.com/journal/2015/11/14/sleep-by-23/</link>
+      <pubDate>Sat, 14 Nov 2015 22:47:37 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/11/14/sleep-by-23/</guid>
+      <description>22:47 Saturday 14 November 2015 JST I often stay up late wanting to be productive, but actually not being productive because my brain needs sleeeepppzzz.
+Tonight, though I realllly wanna stay up and keep working, I&amp;rsquo;m going to hop in bed and start sleeping.
+11:37am next day Yay! I successfully xslept before 11pm last night. Woke up at 6am to do laundry and work on AB website.</description>
+    </item>
+    
+  </channel>
+</rss>

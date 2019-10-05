@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/programming/</link>
+    <description>Recent content in programming on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 20:28:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thank you, Emacs</title>
+      <link>https://new.robnugen.com/journal/2018/12/20/thank-you-emacs/</link>
+      <pubDate>Thu, 20 Dec 2018 20:28:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/12/20/thank-you-emacs/</guid>
+      <description>20:28 Thursday 20 December 2018 JST Super nice: I was able to figure out how to create a function to simplify the creation of web pages for Marble Track 3 Parts](https://www.marbletrack3.com/parts/). Now I just type C-c p in Emacs, then enter the title, tags, and shortcode to produce a file for a new Part in the Marble Track 3 website.
+Today, with said shortcode, I started the page for Medium Catcher Below Triple Splitter.</description>
+    </item>
+    
+    <item>
+      <title>Got the highlight working on UITableViewController in Swift</title>
+      <link>https://new.robnugen.com/journal/2015/10/29/got-the-highlight-working-on-uitableviewcontroller-in-swift/</link>
+      <pubDate>Thu, 29 Oct 2015 17:58:26 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/29/got-the-highlight-working-on-uitableviewcontroller-in-swift/</guid>
+      <description>17:58 Thursday 29 October 2015 JST  override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) { NSNotificationCenter.defaultCenter().postNotificationName(Constants.NotificationKey.SelectedWordFromList, object: nil, userInfo: [&#34;word&#34;: allVocabularyWords[indexPath.row]]) }  Now, I understand the code inside the function is a laugh and 1&amp;frasl;2, but it works and I&amp;rsquo;m leaving it until I know how to do it in a more canonical way. But anyway, highlighting words in the word list will now cause the words&amp;rsquo; deets to be displayed on the detail pane.</description>
+    </item>
+    
+    <item>
+      <title>shell scripting</title>
+      <link>https://new.robnugen.com/journal/2015/02/24/shell-scripting/</link>
+      <pubDate>Tue, 24 Feb 2015 18:31:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/02/24/shell-scripting/</guid>
+      <description>##18:31 Tuesday 24 February 2015 JST##
+I made the md5 cheater script, and want to augment it a bit to do something entirely different. I have never really programmed shell scripts, so we&amp;rsquo;ll see how it goes.
+I wonder if I should search for Bash scripting tutorials or stay with more fundamental *nix code? I think I&amp;rsquo;ll go for Bash; this project ain&amp;rsquo;t very important, and I just want to get it done, plus I&amp;rsquo;m probably the only person who will use it, and I only use Bash.</description>
+    </item>
+    
+    <item>
+      <title>helping reinforce &#39;all beautiful code starts ugly</title>
+      <link>https://new.robnugen.com/journal/2013/05/09/helping-reinforce-all-beautiful-code-starts-ugly/</link>
+      <pubDate>Thu, 09 May 2013 18:06:50 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/05/09/helping-reinforce-all-beautiful-code-starts-ugly/</guid>
+      <description>##18:06 Thursday 09 May 2013
+5:52pm Thursday 9 May 2013
+&amp;ldquo;All beautiful code starts ugly&amp;rdquo; was my mantra today as I hacked in some changes to the abstract search class. It now features a new function
+ public function setRidiculousStationJoin($bool = true) { $this-&amp;gt;ridiculous_station_join = $bool; }  The search() function went from this
+ protected function search($search_text = &amp;quot;&amp;quot;, $limit = 0, $page_num = 1){ return $this-&amp;gt;runSearchLimitOffset($search_text, $limit, $limit * (($page_num &amp;gt; 0) ?</description>
+    </item>
+    
+    <item>
+      <title>awesome example requiring temp tables</title>
+      <link>https://new.robnugen.com/journal/2013/05/09/awesome-example-requiring-temp-tables/</link>
+      <pubDate>Thu, 09 May 2013 13:35:12 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/05/09/awesome-example-requiring-temp-tables/</guid>
+      <description>##13:35 Thursday 09 May 2013
+1:26pm Thursday 9 May 2013
+I&amp;rsquo;ve realized that the obtuse requirements for a certain report will be a lot easier to create with temporary tables.
+While digging around for info on temp tables, I found this gem of an DB example by Brian Hartsock:
+CREATE TABLE `dogs` ( `id` INT(11) NOT NULL AUTO_INCREMENT, `name` VARCHAR(255) DEFAULT NULL, PRIMARY KEY (`id`) ) CREATE TABLE `legs` ( `id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT, `dog_id` INT(10) UNSIGNED NOT NULL, PRIMARY KEY (`id`) ) CREATE TABLE `nails` ( `id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT, `leg_id` INT(10) UNSIGNED NOT NULL, `last_clipped` datetime NOT NULL, PRIMARY KEY (`id`) )  Hooray for toenail ids!</description>
+    </item>
+    
+    <item>
+      <title>finally learned how to make two targets in xcode</title>
+      <link>https://new.robnugen.com/journal/2013/05/06/finally-learned-how-to-make-two-targets-in-xcode/</link>
+      <pubDate>Mon, 06 May 2013 22:07:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/05/06/finally-learned-how-to-make-two-targets-in-xcode/</guid>
+      <description>##22:07 Monday 06 May 2013
+9:55pm Monday 6 May 2013
+The first few apps we made were all separate projects. The apps were all similar, so I had a huge mess of code for making updates. Specs were all confuzzed in my head; code was all over the place, possibly changed, possibly not. Basically making updates wasn&amp;rsquo;t fun.
+The most recent app started its life as a mess of blocks, which confuzzed iOS enough to keep crashing the app.</description>
+    </item>
+    
+    <item>
+      <title>caught up with old functionality in refactored 楽しい発音</title>
+      <link>https://new.robnugen.com/journal/2013/03/20/caught-up-with-old-functionality-in-refactored-%E6%A5%BD%E3%81%97%E3%81%84%E7%99%BA%E9%9F%B3/</link>
+      <pubDate>Wed, 20 Mar 2013 18:05:51 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/03/20/caught-up-with-old-functionality-in-refactored-%E6%A5%BD%E3%81%97%E3%81%84%E7%99%BA%E9%9F%B3/</guid>
+      <description>##18:05 Wednesday 20 March 2013
+Thanks to Matt&amp;rsquo;s suggestion of making the object instantiations look like a tree, I&amp;rsquo;ve got 楽しい発音 working without any pesky crashes caused by my confoozed way of using blocks. Today I actually added some functionality that was not in the previous version: now I can display sets of words instead of just all the words. Word.</description>
+    </item>
+    
+    <item>
+      <title>refactoring 楽しい発音</title>
+      <link>https://new.robnugen.com/journal/2013/03/14/refactoring-%E6%A5%BD%E3%81%97%E3%81%84%E7%99%BA%E9%9F%B3/</link>
+      <pubDate>Thu, 14 Mar 2013 22:17:13 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/03/14/refactoring-%E6%A5%BD%E3%81%97%E3%81%84%E7%99%BA%E9%9F%B3/</guid>
+      <description>##22:17 Thursday 14 March 2013
+My crappy code featuring blocks was too convoluted for my brain to figure out how to make it all work, so now the project features a nice tree of classes with a ViewController at the top.
+The Game class and GameView class don&amp;rsquo;t even know the other exists. Everything goes through the ViewController. GameView has an array of CardViews. Game has an array of Cards. The CardViews and Cards do not know the others exist.</description>
+    </item>
+    
+    <item>
+      <title>瞑想頑張れ, my soon to be new meditation timer</title>
+      <link>https://new.robnugen.com/journal/2013/03/11/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-my-soon-to-be-new-meditation-timer/</link>
+      <pubDate>Mon, 11 Mar 2013 23:11:04 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/03/11/%E7%9E%91%E6%83%B3%E9%A0%91%E5%BC%B5%E3%82%8C-my-soon-to-be-new-meditation-timer/</guid>
+      <description>##23:11 Monday 11 March 2013
+This weekend I mostly put together what I&amp;rsquo;m calling the 瞑想頑張れ meditation timer, which is a bit like referring to &amp;ldquo;ATM machines&amp;rdquo; but hey at least it&amp;rsquo;s two different languages.
+It&amp;rsquo;s now available on github: 瞑想頑張れ at https://github.com/thunderrabbit/meiso-gambare.
+There are several meditation timers on the app store, but I hadn&amp;rsquo;t found one with the unique feature I wanted.
+Sometimes when I meditate, I really get into it and don&amp;rsquo;t want to stop when the original time is up.</description>
+    </item>
+    
+    <item>
+      <title>redesign for side menu in new card game</title>
+      <link>https://new.robnugen.com/journal/2013/02/12/redesign-for-side-menu-in-new-card-game/</link>
+      <pubDate>Tue, 12 Feb 2013 23:43:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/02/12/redesign-for-side-menu-in-new-card-game/</guid>
+      <description>##23:43 Tuesday 12 February 2013
+Tariq and I worked on the card game yesterday for about five hours. Lin was out with her aunt and uncle so I cooked the pizza Lin made so Tariq and I enjoyed that during our work time.
+He suggested a complete overhaul of the side menu, that which was supposed to be &amp;ldquo;the same for all our card game apps.&amp;rdquo;
+I was like moe joe at first, but after thinking about it a bit, the suggested solution does solve several problems, including UI and UX.</description>
+    </item>
+    
+    <item>
+      <title>I *might* have fixed the blockity block problem but now have a provisioning problem.</title>
+      <link>https://new.robnugen.com/journal/2013/02/09/i-might-have-fixed-the-blockity-block-problem-but-now-have-a-provisioning-problem./</link>
+      <pubDate>Sat, 09 Feb 2013 23:08:20 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/02/09/i-might-have-fixed-the-blockity-block-problem-but-now-have-a-provisioning-problem./</guid>
+      <description>##23:08 Saturday 09 February 2013
+I thought I already had __block before variables that needed it, but I did not.
+Adding __block in two (2) places seems to have been the magic touch I needed.
+However, I have to deal with Apple&amp;rsquo;s lovely provisioning process; I added Jimmy&amp;rsquo;s phone to the available devices and now the app won&amp;rsquo;t validate with Apple. gah
+I get this super precise incredibly unhelpful error message:</description>
+    </item>
+    
+    <item>
+      <title>blockity blockity block block blocked</title>
+      <link>https://new.robnugen.com/journal/2013/02/08/blockity-blockity-block-block-blocked/</link>
+      <pubDate>Fri, 08 Feb 2013 20:39:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/02/08/blockity-blockity-block-block-blocked/</guid>
+      <description>##20:39 Friday 08 February 2013
+So I was using Ray Wenderlich&amp;rsquo;s Snap! tutorial as the basis for our new card game. Unfortunately, the app kept having random memory crashes. Tariq was sure it must be due to some too big images or corrupted sound files. I was sure it had to do with my naive use of blocks. Unfortunately, I was right.
+I compared my code with the code in the tutorial and found that at no place did they use blocks in calls between classes.</description>
+    </item>
+    
+    <item>
+      <title>excellent progress in new card game</title>
+      <link>https://new.robnugen.com/journal/2013/01/26/excellent-progress-in-new-card-game/</link>
+      <pubDate>Sat, 26 Jan 2013 12:46:59 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/01/26/excellent-progress-in-new-card-game/</guid>
+      <description>##12:46 Saturday 26 January 2013
+Tariq and I are creating a game of memory for iOS. This is my first project that uses blocks, and I must agree, they make coding a lot lot easier!!
+This is my second big iOS project, a lot of which is based on Matthijs Hollemans&amp;rsquo; game Snap (currently without the multiplayer stuff), one of Ray Wenderlich&amp;rsquo;s excellent tutorials.
+I&amp;rsquo;ve just gotten the in-game tutorial to work, though its alignment&amp;hellip; isn&amp;rsquo;t.</description>
+    </item>
+    
+    <item>
+      <title>iPhone cards app progress and todo list</title>
+      <link>https://new.robnugen.com/journal/2013/01/22/iphone-cards-app-progress-and-todo-list/</link>
+      <pubDate>Tue, 22 Jan 2013 00:43:03 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/01/22/iphone-cards-app-progress-and-todo-list/</guid>
+      <description>##00:43 Tuesday 22 January 2013
+Today at Tariq&amp;rsquo;s we worked about 4 hours so he bought pizza. Apparently this company is going to put ovens in the delivery vehicles so the pizza cooks on the way to the destination.
+He made smaller icons for the menu and I incorporated them. Between arriving home and going to his house, I fixed the timer in each round. At his house, I added a ScoreView based on UILabel.</description>
+    </item>
+    
+    <item>
+      <title>recent programming summary</title>
+      <link>https://new.robnugen.com/journal/2013/01/21/recent-programming-summary/</link>
+      <pubDate>Mon, 21 Jan 2013 00:07:43 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/01/21/recent-programming-summary/</guid>
+      <description>##00:07 Monday 21 January 2013
+commit 7538a521572f333eabbc81fb142cc5d0f3560ace Author: Rob Nugen Date: Mon Jan 21 00:00:32 2013 +0900
+basic game levels work, though no audio, score, lives, timeout timer, nor bonus timer commit 463cd6287d2a671229b917e028fb10ca7d03492a Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Sun Jan 20 20:41:27 2013 +0900 game selects a card and cards know how to announce their name textually commit 700dbaed3cdc071263729620ff57d9f98e99f4b0 Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Sun Jan 20 18:58:02 2013 +0900 the game knows what cards are on the table commit db0920aa0cfacc638419bd42cbba5c37377922c3 Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Sun Jan 20 11:40:35 2013 +0900 got the nested blocks to turn cards up, wait for timer, turn cards down, start game commit 04eec059c96716a1a31adfcf5ae6fcc11cb8fcf1 Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Sun Jan 20 00:59:12 2013 +0900 wiped more unneeded code; middle of untangling classes a bit commit 3664762b4af16e4d5db9be20d0eeb695eb5483e3 Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Sat Jan 19 21:35:20 2013 +0900 cropped all commented code down to the only stuff I&#39;m using for demo commit dc107a8f3a9a069f7820c7e5d6658dbeecd7915c Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Sat Jan 19 17:22:20 2013 +0900 before the big crop commit 2a70857c97bc02167091544829e0e5a88bb1a029 Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Wed Jan 16 23:53:09 2013 +0900 changes through a rainbow of colors, but size stays the same commit 38ee334547e2d12b19f04bff2d82bfa621b13402 Author: Rob Nugen &amp;lt;rob&#39;s email addy&amp;gt; Date: Wed Jan 16 23:36:10 2013 +0900 white turns blue!</description>
+    </item>
+    
+    <item>
+      <title>specs for card game app with Tariq</title>
+      <link>https://new.robnugen.com/journal/2013/01/19/specs-for-card-game-app-with-tariq/</link>
+      <pubDate>Sat, 19 Jan 2013 00:59:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/01/19/specs-for-card-game-app-with-tariq/</guid>
+      <description>##00:59 Saturday 19 January 2013
+Though we haven&amp;rsquo;t started thinking about a name, Tariq and I have pretty well fleshed out version one of our first card game (during our 10pm - 12am meeting tonight). He&amp;rsquo;s still got to create some assets, and I&amp;rsquo;ve still got to do a good amount of programming, but I can clearly tell that my iOS skillz have increased a lot since our first app.</description>
+    </item>
+    
+    <item>
+      <title>used blocks for first time in iOS</title>
+      <link>https://new.robnugen.com/journal/2013/01/17/used-blocks-for-first-time-in-ios/</link>
+      <pubDate>Thu, 17 Jan 2013 07:51:23 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2013/01/17/used-blocks-for-first-time-in-ios/</guid>
+      <description>##07:51 Thursday 17 January 2013
+I wrote this on 750words this morning at 4am.
+Just for fun (and because I need to head to work), I&amp;rsquo;ll leave it unedited:
+I got a really good set of results from coding in iOS; I used blocks for the first time, incluidng typedef to make them more palatable syntax whise. I&amp;rsquo;ve got a view with a model and it all kinda started with Ray Wenderlich&amp;rsquo;s Snap example or whoever wrote that, but on his site, and I&amp;rsquo;m really thankful for the free stuff, so I believe I shall open source this thing Im making now, a countdown timer that does a visual color change while counting down and while ticking off the ticks by calling blocks sent by the insantiating objected.</description>
+    </item>
+    
+  </channel>
+</rss>

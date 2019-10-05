@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first world problems on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/first-world-problems/</link>
+    <description>Recent content in first world problems on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/first-world-problems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2.77777 MB per second</title>
+      <link>https://new.robnugen.com/journal/2015/01/21/2.77777-mb-per-second/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/01/21/2.77777-mb-per-second/</guid>
+      <description>##22:24 Wednesday 21 January 2015 JST##
+OS X Updater detected nothin&amp;rsquo; because bah moe joe, and App Store was unable to download XCode 6.1 because harumf harumf, but I was able to download it from https://developer.apple.com/downloads/index.action?name=Xcode.
+It&amp;rsquo;s downloading at 2.7777 MB per second according to a URL-of-the-Google calculation. But my connection pulls down at 4+ MB per second from proper CDNs.
+Can&amp;rsquo;t Apple afford a proper CDN?</description>
+    </item>
+    
+    <item>
+      <title>kamata terminal</title>
+      <link>https://new.robnugen.com/journal/2014/11/11/kamata-terminal/</link>
+      <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/11/kamata-terminal/</guid>
+      <description>##10:31 Tuesday 11 November 2014 JST##
+Aw man, this train terminates one station before where I need to go. I&amp;rsquo;ll (possibly remember to) look more carefully next time.</description>
+    </item>
+    
+  </channel>
+</rss>

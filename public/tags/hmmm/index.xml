@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hmmm on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/hmmm/</link>
+    <description>Recent content in hmmm on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 12:51:39 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/hmmm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lost the plot with Japanese lessons</title>
+      <link>https://new.robnugen.com/journal/2019/06/06/lost-the-plot-with-japanese-lessons/</link>
+      <pubDate>Thu, 06 Jun 2019 12:51:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/06/06/lost-the-plot-with-japanese-lessons/</guid>
+      <description>12:51 Thursday 06 June 2019 JST I haven&amp;rsquo;t been prepping for Japanese lessons in the past week or so. Ain&amp;rsquo;t listened to podcasts or nothin&amp;rsquo;.
+I have been watching a Japanese drama; I just finished the first season of カケグルイ (though I am not sure which characterset they use to spell it)</description>
+    </item>
+    
+    <item>
+      <title>effin around with gatsby</title>
+      <link>https://new.robnugen.com/journal/2019/02/14/effin-around-with-gatsby/</link>
+      <pubDate>Thu, 14 Feb 2019 20:17:37 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/02/14/effin-around-with-gatsby/</guid>
+      <description>20:17 Thursday 14 February 2019 JST A man named Fust has recommended a new stack for Marble Track 3: Airtable as backend, Gatsby as frontend, and some other things I have not heard of. Actually I had not heard of Gatsby.
+I have an old VirtualBox sitting around so I spun it up and loaded a Gatsby demo. It pooped out a bunch of deprecation warnings, so I am loathe to really dig into this thing if it will be an ongoing battle against a bunch of deprecations ongoing during the project, as well as making the marble track itself.</description>
+    </item>
+    
+    <item>
+      <title>chillin at the airport in Sao Paulo</title>
+      <link>https://new.robnugen.com/journal/2017/12/30/chillin-at-the-airport-in-sao-paulo/</link>
+      <pubDate>Sat, 30 Dec 2017 23:16:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/30/chillin-at-the-airport-in-sao-paulo/</guid>
+      <description>23:16 Saturday 30 December 2017 -02 I think we thought the flight leaves at 00:15, in which case we would begin boarding in 20 minutes or so. But it&amp;rsquo;s at 01:15 so we have 80 minutes or so.
+Lin is shopping for souvenirs though our bags are overweight, and will apparently cost $100 in Dubai because *they are very strict there&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>trust</title>
+      <link>https://new.robnugen.com/journal/2016/06/20/trust/</link>
+      <pubDate>Mon, 20 Jun 2016 10:50:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/06/20/trust/</guid>
+      <description>10:50 Monday 20 June 2016 JST Okay a weird thing happened the other day. A friend of a friend offered to let me use her crib for lessons, but she smokes so I don&amp;rsquo;t really want to use the place. (I&amp;rsquo;ve been there before.) I told my friend my concern but asked friend not to tell her. Friend told her anyway and she got all pissed off and said nevermind, plus I hereby quit (lessons, not smoking).</description>
+    </item>
+    
+    <item>
+      <title>svg hello world not working</title>
+      <link>https://new.robnugen.com/journal/2015/03/19/svg-hello-world-not-working/</link>
+      <pubDate>Thu, 19 Mar 2015 18:03:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/19/svg-hello-world-not-working/</guid>
+      <description>##18:03 Thursday 19 March 2015 JST##
+I&amp;rsquo;ve got
+&amp;amp;lt;svg id=&amp;quot;static&amp;quot; width=&amp;quot;100&amp;quot; height=&amp;quot;150&amp;quot;&amp;gt; &amp;amp;lt;defs&amp;gt; &amp;amp;lt;pattern id=&amp;quot;yqkfx&amp;quot; patternUnits=&amp;quot;userSpaceOnUse&amp;quot; width=&amp;quot;20&amp;quot; height=&amp;quot;20&amp;quot;&amp;gt; &amp;amp;lt;circle cx=&amp;quot;10&amp;quot; cy=&amp;quot;10&amp;quot; r=&amp;quot;4&amp;quot; fill=&amp;quot;transparent&amp;quot; stroke=&amp;quot;#340034&amp;quot; stroke-width=&amp;quot;2&amp;quot;&amp;gt;&amp;amp;lt;/circle&amp;gt; &amp;amp;lt;/pattern&amp;gt; &amp;amp;lt;/defs&amp;gt; &amp;amp;lt;/svg&amp;gt; &amp;lt;svg id=&amp;quot;static&amp;quot; width=&amp;quot;100&amp;quot; height=&amp;quot;150&amp;quot;&amp;gt; &amp;lt;defs&amp;gt; &amp;lt;pattern id=&amp;quot;yqkfx&amp;quot; patternUnits=&amp;quot;userSpaceOnUse&amp;quot; width=&amp;quot;20&amp;quot; height=&amp;quot;20&amp;quot;&amp;gt; &amp;lt;circle cx=&amp;quot;10&amp;quot; cy=&amp;quot;10&amp;quot; r=&amp;quot;4&amp;quot; fill=&amp;quot;transparent&amp;quot; stroke=&amp;quot;#340034&amp;quot; stroke-width=&amp;quot;2&amp;quot;&amp;gt;&amp;lt;/circle&amp;gt; &amp;lt;/pattern&amp;gt; &amp;lt;/defs&amp;gt; &amp;lt;/svg&amp;gt;  But it&amp;rsquo;s not displaying for me.</description>
+    </item>
+    
+  </channel>
+</rss>

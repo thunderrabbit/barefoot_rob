@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/windows/</link>
+    <description>Recent content in windows on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 1998 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>installed windows 98</title>
+      <link>https://new.robnugen.com/journal/1998/07/20/installed-windows-98/</link>
+      <pubDate>Mon, 20 Jul 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/1998/07/20/installed-windows-98/</guid>
+      <description>Installed Windows 98
+20 July 1998
+About a week ago, I got a Windows 98 CD and a new hard drive onto which to install it . My goal was to have three separate bootable partitions: Windows 95, Windows 98, and linux. Each time I tried to install Windows 98, it tried to overwrite Windows 95. I didn&#39;t want that because I don&#39;t trust Microsoft to have written a good enough OS that I&#39;ll want to keep it.</description>
+    </item>
+    
+    <item>
+      <title>windows 98</title>
+      <link>https://new.robnugen.com/journal/1998/07/20/windows-98/</link>
+      <pubDate>Mon, 20 Jul 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/1998/07/20/windows-98/</guid>
+      <description>Windows 98
+20 July 1998
+Well, I haven&#39;t heard from Thomas to help me get Windows 98 off of my machine here, so I decided to use it. I got my connection to Flashnet going easily enough, and got Netscape Communicator configured, but I have no frikkin&#39; idea what Windows Messaging means by my &#34;post office&#34; &#34;Please enter the path to your post office,&#34; it says. What? What the hell are you talking about?</description>
+    </item>
+    
+  </channel>
+</rss>

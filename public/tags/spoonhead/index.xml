@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spoonhead on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/spoonhead/</link>
+    <description>Recent content in spoonhead on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2018 05:15:44 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/spoonhead/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mt3: introducing spoonhead</title>
+      <link>https://new.robnugen.com/journal/2018/05/30/mt3-introducing-spoonhead/</link>
+      <pubDate>Wed, 30 May 2018 05:15:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/05/30/mt3-introducing-spoonhead/</guid>
+      <description> 05:15 Wednesday 30 May 2018 JST I spent a couple hours on MT3 yesterday, culminating in introducing a new character whose job is to carry marbles onto the stage. On his way out, he hit the switch to reverse the stage rotation, so Squarehead will fall because he is just about to jump off the stage onto the ramp, but the stage is just about to reverse direction.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

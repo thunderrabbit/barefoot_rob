@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pop pop chaos on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/pop-pop-chaos/</link>
+    <description>Recent content in pop pop chaos on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2015 11:39:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/pop-pop-chaos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pop Pop Chaos has four peeps on high score list</title>
+      <link>https://new.robnugen.com/journal/2015/10/13/pop-pop-chaos-has-four-peeps-on-high-score-list/</link>
+      <pubDate>Tue, 13 Oct 2015 11:39:56 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/13/pop-pop-chaos-has-four-peeps-on-high-score-list/</guid>
+      <description>11:39 Tuesday 13 October 2015 JST Man I forgot how to put images via markup via my emacs shortcuts in my journal entries.</description>
+    </item>
+    
+  </channel>
+</rss>

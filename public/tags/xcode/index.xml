@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xcode on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/xcode/</link>
+    <description>Recent content in xcode on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2017 19:27:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/xcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>XCode do you hate me</title>
+      <link>https://new.robnugen.com/journal/2017/08/11/xcode-do-you-hate-me/</link>
+      <pubDate>Fri, 11 Aug 2017 19:27:53 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/08/11/xcode-do-you-hate-me/</guid>
+      <description>19:27 Friday 11 August 2017 JST Oh XCode, you&amp;rsquo;re so quirky.
+You automatically change Images.xcassets, automatically add the changes to git, AND automatically restore the changes after I revert them. This might be helpful if you did not also refuse to build the app due to missing images. I hate building iOS apps. Utterly shit experience all the fucking time.
+Why do sandboxed users have to have difficult passwords? I don&amp;rsquo;t mind good passwords for real users, but not for sandboxed users.</description>
+    </item>
+    
+    <item>
+      <title>Working on XCode 8</title>
+      <link>https://new.robnugen.com/journal/2016/09/12/working-on-xcode-8/</link>
+      <pubDate>Mon, 12 Sep 2016 13:37:19 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/09/12/working-on-xcode-8/</guid>
+      <description>13:37 Monday 12 September 2016 JST Downloaded XCode 8 and had 6000+ warnings of duplicate identifiers. Had to set NO_&amp;hellip; to NO to fix them.</description>
+    </item>
+    
+    <item>
+      <title>Reason 8,149 to hate apple</title>
+      <link>https://new.robnugen.com/journal/2015/12/16/reason-8149-to-hate-apple/</link>
+      <pubDate>Wed, 16 Dec 2015 16:23:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/16/reason-8149-to-hate-apple/</guid>
+      <description>16:23 Wednesday 16 December 2015 JST OKay so I have a lot of audio files in XCode for the project we&amp;rsquo;re making. They are recordings of words for pronunciation practice.
+I needed to add some more files for &amp;ldquo;similar words,&amp;rdquo; two of which ended up being the same words as the original words.
+XCode lets me drag files in from Finder and index them into the project. So I dragged in 120 files andddd I get an amazing error message like, &amp;ldquo;one or more errors occurred while importing files&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Bah Xcode</title>
+      <link>https://new.robnugen.com/journal/2015/10/13/bah-xcode/</link>
+      <pubDate>Tue, 13 Oct 2015 23:40:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/13/bah-xcode/</guid>
+      <description>23:40 Tuesday 13 October 2015 JST Bah. It seems I cannot submit an osTV app to TestFlight without having an Apple TV device connected to my computer. I hope that&amp;rsquo;s a bug, not an attempt to sell more devices. Bah.</description>
+    </item>
+    
+    <item>
+      <title>xcode worst nightmare</title>
+      <link>https://new.robnugen.com/journal/2014/11/23/xcode-worst-nightmare/</link>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/23/xcode-worst-nightmare/</guid>
+      <description>##21:01 Sunday 23 November 2014 JST##
+Why why why oh why oh why why oh why
+Why do all the iOS 7.1 simulators get destroyed when I install Xcode 6? Why is there not a way to delete all the ones that don&amp;rsquo;t work in one shot? Why does the UI require like 4 clicks all over the place to create even a single simulator? Why does the simulator creation allow me to create unlimited identical simulators?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nice on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/nice/</link>
+    <description>Recent content in nice on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2019 22:12:09 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/nice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arrived in Sugarland</title>
+      <link>https://new.robnugen.com/journal/2019/10/04/arrived-in-sugarland/</link>
+      <pubDate>Fri, 04 Oct 2019 22:12:09 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/10/04/arrived-in-sugarland/</guid>
+      <description>(written 22:12 Friday 04 October 2019 CDT)
+Ma and I chatted while waiting for Nico to arrive and clear customs. Fun chatting with her and nearly finished solving the latest NYT crossword puzzle. I can see how it would be a good way to keep the ol&amp;rsquo; left brain sharp.
+I chatted with the nice driver of the shuttle bus as she drove us to the IAH parking lot a couple miles away from the airport.</description>
+    </item>
+    
+    <item>
+      <title>Train home with Lukas</title>
+      <link>https://new.robnugen.com/journal/2019/09/11/train-home-with-lukas/</link>
+      <pubDate>Wed, 11 Sep 2019 22:40:44 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/11/train-home-with-lukas/</guid>
+      <description>Lukas recognized me on the way home!
+Nambu line platform in Kawasaki and I kinda recognized his face but not his name until he Liked our MKP Tokyo page on FB.
+Feeling blessed by the connection and really looking forward to catching up more!</description>
+    </item>
+    
+    <item>
+      <title>How to find next page in section in Hugo</title>
+      <link>https://new.robnugen.com/journal/2019/07/08/how-to-find-next-page-in-section-in-hugo/</link>
+      <pubDate>Mon, 08 Jul 2019 15:36:42 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/07/08/how-to-find-next-page-in-section-in-hugo/</guid>
+      <description>15:36 Monday 08 July 2019 JST Wow Hugo rules. Thank you, Bep!
+I got my journal/ and blog/ indices separated by adding a bit of code to the pagination.
+https://github.com/thunderrabbit/purehugo-tr/commit/16559a8ffa3ec74f57af7398a90f259f41972675
+And now the Prev and Next links work based on section.
+https://github.com/thunderrabbit/purehugo-tr/commit/97b09a88d01a493374ba6231185bf8cb9b723e0b
+ &amp;lt;div class=&amp;quot;pager&amp;quot;&amp;gt; {{with .NextInSection}} &amp;lt;a href=&amp;quot;{{.Permalink}}&amp;quot; rel=&amp;quot;prev&amp;quot; style=&amp;quot;float: left!important&amp;quot;&amp;gt;❮ {{.Title}}&amp;lt;/a&amp;gt;{{end}} {{with .PrevInSection}} &amp;lt;a href=&amp;quot;{{.Permalink}}&amp;quot; rel=&amp;quot;next&amp;quot; style=&amp;quot;float: right!important&amp;quot;&amp;gt; {{.Title}} ❯&amp;lt;/a&amp;gt;{{end}} &amp;lt;/div&amp;gt;  Nice!</description>
+    </item>
+    
+    <item>
+      <title>Rode bicycle to station</title>
+      <link>https://new.robnugen.com/journal/2019/05/08/rode-bicycle-to-station/</link>
+      <pubDate>Wed, 08 May 2019 06:34:01 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/05/08/rode-bicycle-to-station/</guid>
+      <description>06:34 Wednesday 08 May 2019 JST I rode TJ Bike to the bicycle parking lot today. This is the first time I have done so for work, given that we got our bicycle parking passes during Golden Week, and this is the first day that I have to work outside the house.
+I usually allow 24 minutes to walk leisurely to the station. Riding TJ Bike &amp;ldquo;leisurely&amp;rdquo; down a big hill, I arrived at the bicycle parking area in 8 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Working with Mark soon: Behavioral OS</title>
+      <link>https://new.robnugen.com/journal/2019/05/07/working-with-mark-soon-behavioral-os/</link>
+      <pubDate>Tue, 07 May 2019 21:58:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/05/07/working-with-mark-soon-behavioral-os/</guid>
+      <description>21:58 Tuesday 07 May 2019 JST I found out that Mark is a trainer for Behavioral OS, something I have been interested in for a while. They are launching a course this year and I am excited to join!</description>
+    </item>
+    
+    <item>
+      <title>nice house</title>
+      <link>https://new.robnugen.com/journal/2017/12/25/nice-house/</link>
+      <pubDate>Mon, 25 Dec 2017 20:29:23 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/25/nice-house/</guid>
+      <description>(transcribed 20:29 Monday 01 January 2018 JST)
+Christmas Day in Presidente Prudente At R&amp;amp;D&amp;rsquo;s house in Presidente Prudente, Brazil, which looks to me like a house I would see in a movie. Pool in the yard overlooked by floor to ceiling glass door/walls separating indoor and outdoor living/dining areas
+Super sweet talking wtih Rose last night about jacks and marbles in the street vs kids with cellphones now.
+Jesse and Angelica joined us for dinner.</description>
+    </item>
+    
+    <item>
+      <title>mt3 slow motion flip</title>
+      <link>https://new.robnugen.com/journal/2017/09/08/mt3-slow-motion-flip/</link>
+      <pubDate>Fri, 08 Sep 2017 11:28:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/09/08/mt3-slow-motion-flip/</guid>
+      <description>11:28 Friday 08 September 2017 JST I am really happy with this bit of the sequence. Thank you, Wachowski siblings.
+  Here is the live stream from today https://www.youtube.com/watch?v=zCqvXIN_G1k
+I have spent 45.75 hours on MT3 so far.</description>
+    </item>
+    
+    <item>
+      <title>Dr Fred</title>
+      <link>https://new.robnugen.com/journal/2016/12/01/dr-fred/</link>
+      <pubDate>Thu, 01 Dec 2016 07:45:23 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/01/dr-fred/</guid>
+      <description>07:45 Thursday 01 December 2016 JST Fred is officially smarter than me!</description>
+    </item>
+    
+    <item>
+      <title>Ansible seems indispensable</title>
+      <link>https://new.robnugen.com/journal/2016/01/02/ansible-seems-indispensable/</link>
+      <pubDate>Sat, 02 Jan 2016 22:40:32 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/02/ansible-seems-indispensable/</guid>
+      <description>22:40 Saturday 02 January 2016 JST I&amp;rsquo;m up to video 13 in this series https://codereviewvideos.com/course/ansible-tutorial by Chris. I&amp;rsquo;ve started a repo on bitbucket which has a few sprigs of ansible roles; I&amp;rsquo;m optimistic the repo could grow into my s00p3r-s1mpl!f13d s0lu+ion for migrating to new server when AB&amp;rsquo;s flavor of Ubuntu falls out of favor!</description>
+    </item>
+    
+    <item>
+      <title>Really happy with the progress of Pop Pop Chaos</title>
+      <link>https://new.robnugen.com/journal/2015/08/01/really-happy-with-the-progress-of-pop-pop-chaos/</link>
+      <pubDate>Sat, 01 Aug 2015 21:20:50 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/08/01/really-happy-with-the-progress-of-pop-pop-chaos/</guid>
+      <description>21:20 Saturday 01 August 2015 JST Yeah, so using a couple of examples,
+https://meteor.hackpad.com/Meteor-Cookbook-Reactive-D3-Visualizations-YUR9JT4mrm9
+https://demos.joeondata.com/gravity_balls/
+I&amp;rsquo;ve got colored balls representing bubbles in Pop Pop Chaos! I posted the latest to https://poppopshowus.meteor.com/ and here&amp;rsquo;s an archive of it as of now:
+https://archive.is/rVo0W/
+Next step is to get the balls moving! Thanks to Joe&amp;rsquo;s demo, I have a great chance of finishing it tonight.
+1am or so Haha I couldn&amp;rsquo;t get the code to work at all.</description>
+    </item>
+    
+    <item>
+      <title>nice</title>
+      <link>https://new.robnugen.com/journal/2015/07/07/nice/</link>
+      <pubDate>Tue, 07 Jul 2015 16:59:45 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/07/nice/</guid>
+      <description>16:59 Tuesday 07 July 2015 JST Nice. So I just set up Emacs on Tariq&amp;rsquo;s computer with a few clicks of the keyboard including commands like
+cd ~/.emacs.d git clone git@bitbucket.org:thunderrabbit/emacs-shiz.git personal --recursive  For some reason Markdown didn&amp;rsquo;t get set, but all my other journal creation code did so that&amp;rsquo;s pretty nice.</description>
+    </item>
+    
+    <item>
+      <title>Taco Bell coming to Shibuya</title>
+      <link>https://new.robnugen.com/journal/2015/03/27/taco-bell-coming-to-shibuya/</link>
+      <pubDate>Fri, 27 Mar 2015 09:27:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/27/taco-bell-coming-to-shibuya/</guid>
+      <description>##09:27 Friday 27 March 2015 JST##
+Back in Texas, Wende and I included Taco Bell as a staple part of our diets!! Yummm!!!</description>
+    </item>
+    
+  </channel>
+</rss>

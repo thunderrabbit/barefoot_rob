@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moejoe on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/moejoe/</link>
+    <description>Recent content in moejoe on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 May 2018 20:47:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/moejoe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>today</title>
+      <link>https://new.robnugen.com/journal/2018/05/06/today/</link>
+      <pubDate>Sun, 06 May 2018 20:47:42 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/05/06/today/</guid>
+      <description>20:47 Sunday 06 May 2018 JST Egad I got my credit card bill (yay I have a credit card) and holy shipes I should have been a bit more careful. Gotta sort out $450 by the tenth. I would think I should have this shit figured out by now.
+In other news, Lin and I walked into one of the unfinished homes near our house. Did not stay too long and did not go to the second floor because there were no stairs installed yet.</description>
+    </item>
+    
+    <item>
+      <title>Oh iOS why dost thou vex me so</title>
+      <link>https://new.robnugen.com/journal/2017/07/17/oh-ios-why-dost-thou-vex-me-so/</link>
+      <pubDate>Mon, 17 Jul 2017 08:50:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/17/oh-ios-why-dost-thou-vex-me-so/</guid>
+      <description>08:50 Monday 17 July 2017 JST I guess it&amp;rsquo;s because I no longer wish to understand your mysterious ways.</description>
+    </item>
+    
+    <item>
+      <title>my teacher is having throat surgery</title>
+      <link>https://new.robnugen.com/journal/2017/07/09/my-teacher-is-having-throat-surgery/</link>
+      <pubDate>Sun, 09 Jul 2017 21:45:11 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/07/09/my-teacher-is-having-throat-surgery/</guid>
+      <description>21:45 Sunday 09 July 2017 JST OMG my Japanese teacher has recently been told she has to have something removed from her throat!
+Thank you for your kindness. I think I&#39;ll be OK. But to be honest they&#39;ll cut my throat and take something off (sorry!) so I have no idea how long is going to be until I can speak as a language tutor. Hope it&#39;s soon though. また　たくさん　話しましょうね！  Yikes stripes!</description>
+    </item>
+    
+    <item>
+      <title>Mac Cam</title>
+      <link>https://new.robnugen.com/journal/2016/12/10/mac-cam/</link>
+      <pubDate>Sat, 10 Dec 2016 01:33:35 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/12/10/mac-cam/</guid>
+      <description>01:33 Saturday 10 December 2016 JST Boo. My Macbook&amp;rsquo;s builtin camera isn&amp;rsquo;t responding. I reset the PRAM by holding Option Command P R on reboot (though maybe that was being short circuited by firmware password).
+Anyway, boo.
+10:33 Sunday 11 December 2016 JST I removed my firmware password and then was able to do the PRAM reset and now the camera works again.</description>
+    </item>
+    
+    <item>
+      <title>parse.com is going away</title>
+      <link>https://new.robnugen.com/journal/2016/11/30/parse.com-is-going-away/</link>
+      <pubDate>Wed, 30 Nov 2016 22:25:05 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/30/parse.com-is-going-away/</guid>
+      <description>22:25 Wednesday 30 November 2016 JST How am I the last one to know this?
+We have about seven apps using parse as the backend.
+Today I migrated some of our parse data to mlab.com and was able to set up an elastic beanstalk thing which should hopefully run Parse Server. Still need to sort it out a bit more.</description>
+    </item>
+    
+    <item>
+      <title>may have lost my old suica card</title>
+      <link>https://new.robnugen.com/journal/2016/11/12/may-have-lost-my-old-suica-card/</link>
+      <pubDate>Sat, 12 Nov 2016 00:55:33 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/11/12/may-have-lost-my-old-suica-card/</guid>
+      <description>00:55 Saturday 12 November 2016 JST I took my Suica card out of my wallet this morning and wore it inside my glove while it was raining. I held my umbrella and took the bus to the station with Lin where she took a picture of me barefoot in the rain. Gave her a kiss then walked home and when I went back to the station for work, I noticed my Suica was missing.</description>
+    </item>
+    
+    <item>
+      <title>moe joe bah</title>
+      <link>https://new.robnugen.com/journal/2016/10/20/moe-joe-bah/</link>
+      <pubDate>Thu, 20 Oct 2016 17:46:19 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/20/moe-joe-bah/</guid>
+      <description>17:46 Thursday 20 October 2016 JST Why the heck can&amp;rsquo;t I find an Android app that can scp images using ssh keys?
+There are plenty of ssh apps, but not scp.. VXConnectBot allegedly added scp to ConnectBot, but I don&amp;rsquo;t see how to get scp to work on it.
+20:52 Ah, I found a way to upload files from my phone using VXConnectBot. It&amp;rsquo;s convoluted, and can only do one at a time, but it&amp;rsquo;s better than zero.</description>
+    </item>
+    
+    <item>
+      <title>Fred&#39;s car got towed</title>
+      <link>https://new.robnugen.com/journal/2016/01/28/freds-car-got-towed/</link>
+      <pubDate>Thu, 28 Jan 2016 11:40:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/28/freds-car-got-towed/</guid>
+      <description>11:40 Thursday 28 January 2016 CST Three people are in an apartment: Rob (American, slightly unshaven), Fred (younger brother, very unshaven), Lin (attractive asian-looking woman)
+Rob: Okay guys, let&#39;s go skydiving!
+The trio walk outside into a glorious sun filled afternoon and head to the parking lot.
+Fred: Dude. Where&#39;s my car?
+Rob: Aw man this ain&#39;t cool.
+Lin: Where did you park it?
+Fred immediately calls someone on the phone.</description>
+    </item>
+    
+  </channel>
+</rss>

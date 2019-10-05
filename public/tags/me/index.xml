@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>me on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/me/</link>
+    <description>Recent content in me on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 May 2018 01:01:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>personality</title>
+      <link>https://new.robnugen.com/journal/2018/05/25/personality/</link>
+      <pubDate>Fri, 25 May 2018 01:01:30 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/05/25/personality/</guid>
+      <description>01:01 Friday 25 May 2018 JST After the Japanese lesson, I offered to help my teacher with some English questions. She said it was interesting to see how serious I was when teaching English versus how goofy I am while studying Japanese. (goofy is my term; I forgot what she said.)</description>
+    </item>
+    
+  </channel>
+</rss>

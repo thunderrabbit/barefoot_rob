@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>termux on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/termux/</link>
+    <description>Recent content in termux on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2016 00:48:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/termux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>termux</title>
+      <link>https://new.robnugen.com/journal/2016/10/29/termux/</link>
+      <pubDate>Sat, 29 Oct 2016 00:48:42 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/29/termux/</guid>
+      <description>00:48 Saturday 29 October 2016 JST Travis mentioned termux as a possible solution to my image copying plans.
+I&amp;rsquo;ve just downloaded it, but I&amp;rsquo;m probably going to go to sleep before I mess with it.</description>
+    </item>
+    
+  </channel>
+</rss>

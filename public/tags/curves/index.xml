@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curves on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/curves/</link>
+    <description>Recent content in curves on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jan 2019 22:00:10 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/curves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>curve test</title>
+      <link>https://new.robnugen.com/journal/2019/01/12/curve-test/</link>
+      <pubDate>Sat, 12 Jan 2019 22:00:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/01/12/curve-test/</guid>
+      <description>22:00 Saturday 12 January 2019 JST Thanks to https://svghelper.com/ for helping me find the curve I need.</description>
+    </item>
+    
+  </channel>
+</rss>

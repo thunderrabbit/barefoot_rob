@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>slider on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/slider/</link>
+    <description>Recent content in slider on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2015 01:29:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/slider/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>programmatically added slider not respected</title>
+      <link>https://new.robnugen.com/journal/2015/04/11/programmatically-added-slider-not-respected/</link>
+      <pubDate>Sat, 11 Apr 2015 01:29:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/04/11/programmatically-added-slider-not-respected/</guid>
+      <description>01:29 Sunday 12 April 2015 JST I posted this at https://answers.unity3d.com/questions/945007/programmatically-added-sliderjoint2d-not-respected.html
+How can I make sprites fall straight down, and resist any sideways motion whether by dragging or physics?
+My code instantiates a prefab at runtime which has an attached script.
+The script runs the following function after a while:
+void addSliderJoint() { myVerticalSlider = gameObject.AddComponent&amp;lt;SliderJoint2D&amp;gt; () as SliderJoint2D; myVerticalSlider.angle = 90; }  After this functions runs, I&amp;rsquo;d like the sprites to only move vertically, but they seem happy to move without restriction.</description>
+    </item>
+    
+  </channel>
+</rss>

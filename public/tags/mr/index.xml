@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mr on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/mr/</link>
+    <description>Recent content in mr on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 16:21:31 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/mr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>work day</title>
+      <link>https://new.robnugen.com/journal/2018/02/13/work-day/</link>
+      <pubDate>Tue, 13 Feb 2018 16:21:31 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/02/13/work-day/</guid>
+      <description>16:21 Tuesday 13 February 2018 JST Worked at IL for ist today, and then with CE for MR, and then talked to Chika at B for JB.
+Now going to AB to talk to T and S-san.
+Tired, I would rather go home.
+Oh, but I got past the tween issue I had with Godot 3
+Yay!</description>
+    </item>
+    
+  </channel>
+</rss>

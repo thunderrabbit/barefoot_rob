@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sanity on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/sanity/</link>
+    <description>Recent content in sanity on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2019 18:42:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/sanity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maintaining state in long projects</title>
+      <link>https://new.robnugen.com/blog/2019/07/03/maintaining-state-in-long-projects/</link>
+      <pubDate>Wed, 03 Jul 2019 18:42:57 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/blog/2019/07/03/maintaining-state-in-long-projects/</guid>
+      <description>As a programmer, I often want things to be just right, finding that balance between maintainability, extensibility, and plain ol&amp;rsquo; get-&amp;lsquo;er-done. Today, banging my head against unexpected walls while trying to spin up a virtual machine with Vagrant, I had to keep my focus on the goal at hand: Keep the website up while migrating from PHP 5.7 on Ubuntu 14 to PHP 7.2 on Ubuntu 18.
+In this case, the task seemed simple.</description>
+    </item>
+    
+  </channel>
+</rss>

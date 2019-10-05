@@ -1,0 +1,641 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>work &middot; Barefoot Rob</title>
+
+    <meta name="description" content="keep expanding">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="work &middot; Barefoot Rob">
+    <meta name="twitter:description" content="keep expanding">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="work &middot; Barefoot Rob">
+    <meta property="og:description" content="keep expanding">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                
+                <h1 class="content-subhead">15 May 2017, 16:28</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/15/work/" class="post-title">work</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-28-monday-15-may-2017-jst">16:28 Monday 15 May 2017 JST</h2>
+
+<p>Moe Joe.</p>
+
+<p>CB was like &lsquo;um where are the images in our app?&rsquo;</p>
+
+<p>Turns out the app source hardcodes the image server domain name
+instead of reading it from the API the app uses.</p>
+
+<p>Spent 1.5 hours on phone with AWS support trying to get our domain
+pointed to CBs new image server.  Ended up doing it at DNS level
+because I could not get redirects to work from the server.  I guess
+this way is better though, because now I can be pretty certain nothing
+will be hitting the old server since DNS no longer points to it.</p>
+
+<p>This is the first time AWS support wasn&rsquo;t able to solve my issue in a
+30 minute phone call.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">08 May 2017, 18:33</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/08/good-ness/" class="post-title">good ness</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="18-33-monday-08-may-2017-jst">18:33 Monday 08 May 2017 JST</h2>
+
+<p>TL;DR: wasted a lot of time today.</p>
+
+<p>Wall of crap:</p>
+
+<p>I somehow confused myself and my vagrant VMs.  The big change I made
+was to recreate my <code>~/.ssh/id_rsa</code> keys in my management box.  That
+meant I could not connect to the other VMs until I put the public key
+in their <code>.ssh/authorized_hosts</code> file, which I did, but then I could
+not deploy the sites without giving the new key to bitbucket, and then
+I ended up destroying and recreating a VM because for some reason the
+&ldquo;exact same&rdquo; (*) deploys that worked before were not working because
+they were being run as ubuntu instead of vagrant..  wait what?  How
+could they possibly have worked before?  wth is going on fuckit and I
+(archived and) wiped the box to recreate it, but <em>still</em> had problems
+with the wrong user being used, and <em>then</em> I realied that on top of
+all this, when I <code>vagrant ssh ab</code> to get to the ab box from my host, I
+was being logged in to the mgmt box.  ffs I have wasted hours on this
+so I am now starting new VMs from scratch (after downloading latest
+Trusty64 from hashicorp (slower than Christmas here at the office for
+some reason (between 57k/s and 200k/s)) and latest VirtualBox and
+latest guestadditions so hopefully the mount thing will be fixed this
+time.</p>
+
+<p>(*) not exactly the same</p>
+
+<h2 id="19-06-monday-08-may-2017-jst">19:06 Monday 08 May 2017 JST</h2>
+
+<p>It&rsquo;s only up to 64% downloaded so I am going to cancel the d/l and
+head home.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">06 May 2017, 09:32</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/06/fs-for-ab-and-cb/" class="post-title">FS for AB and CB</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="09-32-saturday-06-may-2017-jst">09:32 Saturday 06 May 2017 JST</h2>
+
+<p>After upgrading it to Ubuntu 14, I split the FS box into two, and put
+one on CB&rsquo;s AWS account so they have control over it.  (<em>cough</em>) and
+pay for it.  The AB version we still pay for, but the load is much
+lighter.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">05 May 2017, 14:32</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/05/got-ab-their-own-fs/" class="post-title">Got AB their own FS</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="14-32-friday-05-may-2017-jst">14:32 Friday 05 May 2017 JST</h2>
+
+<p>Since recovering from my little DB restore delimma, I have
+instantiated an instance of FS just for AB.  I will move the existing
+FS instance to CB&rsquo;s account so they can pay their own way.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">05 May 2017, 11:27</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/05/05/nononononoyes/" class="post-title">no,no,no,no,no,yes</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="11-27-friday-05-may-2017-jst">11:27 Friday 05 May 2017 JST</h2>
+
+<p>While trying to fix the backup process, I destroyed the database by
+overwriting with data from April 20th.</p>
+
+<p>Had a good cry, and now am restoring the data from a 1GB backup file.</p>
+
+<p>(It&rsquo;s this file that I guessed would be troublesome in a restore
+process, so I wanted to break it up into bits.  Now we get to do the
+restore starting with this file.)</p>
+
+<p>Thank goodness it&rsquo;s Golden Week.</p>
+
+<p>I contacted AWS support at 11:02am, and now at 11:40 the restore is in
+progress.  Thank goodness for DS&rsquo;s calm and understanding
+demeanor&hellip;. (plus understanding of the system!) to help me get going
+quickly.</p>
+
+<h2 id="11-44-friday-05-may-2017-jst">11:44 Friday 05 May 2017 JST</h2>
+
+<p>Finished, and confirmed.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">29 Apr 2017, 20:54</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/04/29/productive-x2/" class="post-title">Productive X2</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="20-54-saturday-29-april-2017-jst">20:54 Saturday 29 April 2017 JST</h2>
+
+<p>Pretty much got everything sorted.  I never got the old AB VM to have
+connectivity again, but my new AB VM is in better shape than the old
+VM ever was:</p>
+
+<p>The new VM</p>
+
+<ol>
+<li>can send emails</li>
+<li>can easily have deploys target specific branches</li>
+<li>uses domain names that differ from production by a single character (.cojp vs .co.jp)</li>
+<li>uses Ubuntu 14</li>
+<li>is fully deployed via Ansible</li>
+</ol>
+
+<p>and that last item means if I lose my physical computer, I can pretty
+quickly recreate my development environment, at least as far as that
+VM is concerned.</p>
+
+<p>Hooray for losing connectivity to that old VM!</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">29 Apr 2017, 14:34</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/04/29/back-on-track/" class="post-title">back on track</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="14-34-saturday-29-april-2017-jst">14:34 Saturday 29 April 2017 JST</h2>
+
+<p>Well, I have recovered <em>nearly</em> to the point that I was 24+ hours ago
+before killing connectivity to my VM.</p>
+
+<p>I tried restoring the old VM, but didn&rsquo;t get it working.  It&rsquo;s a
+non-issue at the moment.  I have a new VM to which I can connect from
+my host (allowing SublimeText2 (Registered) to save files to it), and
+from a sibling guest VM which provisioned the new VM using Ansible.</p>
+
+<p><em>Eventually</em> I will consider using Packer to do the provisioning, but
+I shall leave that for after I get my current servers all on
+newer version of Ubuntu.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">29 Apr 2017, 09:26</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/04/29/ty-t/" class="post-title">TY, T!</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="09-26-saturday-29-april-2017-jst">09:26 Saturday 29 April 2017 JST</h2>
+
+<p>TL;DR: <a href="https://www.packer.io/">https://www.packer.io/</a></p>
+
+<p>Travis gave a fantastic reply to my tale of disconnectivity.  I am
+going to dive in to Packer for a few units of time, and then try to
+restore connectivity to my old VM, and then try to finish installing
+site on my new VM, and then try to do the update I wanted to do
+yesterday morning!</p>
+
+<h2 id="09-43-saturday-29-april-2017-jst">09:43 Saturday 29 April 2017 JST</h2>
+
+<p>Okay, let&rsquo;s install Packer!  Yay!  We can do so with brew.  But first
+let&rsquo;s get brew up to date.</p>
+
+<blockquote>
+<p>$ brew update</p>
+</blockquote>
+
+<p>worked okay.</p>
+
+<blockquote>
+<p>$ brew upgrade</p>
+</blockquote>
+
+<p>is working, but apparently cooking my CPU, mostly to make Python 2 and
+3.</p>
+
+<p>I thought <code>brew update</code> would update the packages, and <code>brew upgrade</code>
+would upgrade itself, but it seems to be the other way around.
+Anyway, I intended to do both; I just did not think it would take so
+long.. nearly all the time units available for Packer!</p>
+
+<h2 id="09-59-saturday-29-april-2017-jst">09:59 Saturday 29 April 2017 JST</h2>
+
+<p>Wow. <code>brew upgrade</code> completed, with these lines near the end of the
+output:</p>
+
+<pre><code>Upgrading boost --c++11
+&lt;snip&gt;
+🍺  /usr/local/Cellar/boost/1.64.0_1: 12,630 files, 404.4MB, built in 14 minutes 2 seconds
+</code></pre>
+
+<h2 id="10-09">10:09</h2>
+
+<p>Okay, back to installing Packer.</p>
+
+<pre><code>brew install packer
+</code></pre>
+
+<p>See that took like 5 seconds.  I was hoping for maybe 50 seconds to <code>brew upgrade</code>.</p>
+
+<p>Haha I just read they consider this an &lsquo;alternative&rsquo; installation method.  I could have just downloaed a binary.</p>
+
+<h2 id="10-40">10:40</h2>
+
+<p>I read the items under
+<a href="https://www.packer.io/intro/getting-started/install.html">Getting Started on Packer</a>&rsquo;s
+site, but did not do more than create a few neural connections in my
+brain. Nothing on my computer except ~/<projects>/packer/README.ROB</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">28 Apr 2017, 16:23</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/04/28/productivent/" class="post-title">productivent</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="16-23-friday-28-april-2017-jst">16:23 Friday 28 April 2017 JST</h2>
+
+<p>Last night AB was like &ldquo;hey we cannot send emails.&rdquo;</p>
+
+<p>They got a 500 error because I forgot to enable mcrypt to create
+passwords for new users.</p>
+
+<p>Enabled mcrypt and manually fixed some shit that didn&rsquo;t work due to
+the 500 error.  Got everything sorted today and then ready to work but
+denied because</p>
+
+<p>the local VM in virtualbox does not have access to the internet.  So I
+switched it to Bridged Adapter and all that, but still not access.
+Fuckit.  Switched everything(*) back to how it was, and still no access.</p>
+
+<p>(*) apparently not everything</p>
+
+<p>damn.</p>
+
+<p>Well, my box is behind the times anyway because it&rsquo;s Ubuntu 12 whereas
+live server is now using Ubuntu 14.</p>
+
+<p>So now I am trying to get Ansible to spin up a local server on
+Virtualbox for me.</p>
+
+<p>Starting here, cause I could not find anything else that seemed
+remotely helpful.</p>
+
+<p><a href="https://atlas.hashicorp.com/geerlingguy/boxes/ubuntu1404">https://atlas.hashicorp.com/geerlingguy/boxes/ubuntu1404</a></p>
+
+<p>$ vagrant init geerlingguy/ubuntu1404; vagrant up &ndash;provider virtualbox</p>
+
+<pre><code>Vagrant was unable to mount VirtualBox shared folders. This is usually
+because the filesystem &quot;vboxsf&quot; is not available. This filesystem is
+made available via the VirtualBox Guest Additions and kernel module.
+Please verify that these guest additions are properly installed in the
+guest. This is not a bug in Vagrant and is usually caused by a faulty
+Vagrant box. For context, the command attemped was:
+
+set -e
+mount -t vboxsf -o uid=`id -u vagrant`,gid=`getent group vagrant | cut -d: -f3` vagrant /vagrant
+mount -t vboxsf -o uid=`id -u vagrant`,gid=`id -g vagrant` vagrant /vagrant
+
+The error output from the command was:
+</code></pre>
+
+<p>$ vagrant plugin install vagrant-vbguest</p>
+
+<pre><code>Installing the 'vagrant-vbguest' plugin. This can take a few minutes...
+Installed the plugin 'vagrant-vbguest (0.13.0)'!
+</code></pre>
+
+<p>Well okay the box is running, but I do not see how to connect to it,
+much less from a sibling VM in Virtualbox.</p>
+
+<p>Back when I first started messing with Vagrant and/or Ansible, I found
+a Vagrantfile that would spin up multiple boxes and let them all
+connect.</p>
+
+<p>Smartagent, where was that tutorial?</p>
+
+<p>Ah crap, you don&rsquo;t exist yet.</p>
+
+<h2 id="16-39-friday-28-april-2017-jst">16:39 Friday 28 April 2017 JST</h2>
+
+<p>Yes yes, something like this
+<a href="https://stackoverflow.com/questions/34444506/vagrant-multi-machine-provisioning">https://stackoverflow.com/questions/34444506/vagrant-multi-machine-provisioning</a></p>
+
+<h2 id="16-48-friday-28-april-2017-jst">16:48 Friday 28 April 2017 JST</h2>
+
+<p>Found it.
+<a href="https://github.com/jweissig/episode-45/blob/master/Vagrantfile">https://github.com/jweissig/episode-45/blob/master/Vagrantfile</a></p>
+
+<h2 id="17-15-friday-28-april-2017-jst">17:15 Friday 28 April 2017 JST</h2>
+
+<p>Now I have this gem</p>
+
+<pre><code>(1..1).each do |i|
+  config.vm.define &quot;ab&quot; do |node|
+      node.vm.box = &quot;ubuntu/trusty64&quot;
+      node.vm.hostname = &quot;ab&quot;
+      node.vm.network :private_network, ip: &quot;10.0.15.2#{i}&quot;
+      node.vm.network &quot;forwarded_port&quot;, guest: 80, host: &quot;808#{i}&quot;
+      node.vm.provider &quot;virtualbox&quot; do |vb|
+        vb.memory = &quot;256&quot;
+      end
+  end
+end
+</code></pre>
+
+<p>But dangit it keeps not being able to mount the directory /vagrant
+inside the VM.</p>
+
+<p>I am going to reboot my host machine and cross fingers and pray and
+shake my head when nothing changes when it all comes back up.</p>
+
+<h2 id="17-29-friday-28-april-2017-jst">17:29 Friday 28 April 2017 JST</h2>
+
+<p>Rebooted, put laundry in wash, ate a banana and some nuts.</p>
+
+<h2 id="18-07-friday-28-april-2017-jst">18:07 Friday 28 April 2017 JST</h2>
+
+<p>Upgraded Vagrant, Virtualbox, vagrant-vbguest, but still cannout mount /vagrant.  I&rsquo;m going to move on.</p>
+
+<h2 id="18-59-friday-28-april-2017-jst">18:59 Friday 28 April 2017 JST</h2>
+
+<p>Fantastic.  Got my mgmt box talking to local new box via these handy instructions: <a href="https://sysadmincasts.com/episodes/45-learning-ansible-with-vagrant-part-2-4">https://sysadmincasts.com/episodes/45-learning-ansible-with-vagrant-part-2-4</a></p>
+
+<h2 id="21-03-friday-28-april-2017-jst">21:03 Friday 28 April 2017 JST</h2>
+
+<p>Moe Joe.  Everything was going fine until install mysql.</p>
+
+<pre><code>dependency problems prevent configuration of mysql-server:
+mysql-server depends on mysql-server-5.5; however: Package
+mysql-server-5.5 is not configured yet.
+</code></pre>
+
+<h2 id="22-30-friday-28-april-2017-jst">22:30 Friday 28 April 2017 JST</h2>
+
+<p>Thanks to this <a href="https://stackoverflow.com/a/32620242/194309">https://stackoverflow.com/a/32620242/194309</a> for getting
+past that error.  (Needed to give more than 256MB memory to the
+machine.  I gave it 512MB and it worked.)</p>
+
+<pre><code>      node.vm.provider &quot;virtualbox&quot; do |vb|
+        vb.memory = &quot;512&quot;
+      end
+</code></pre>
+
+<p>Downloading data from S3 now.</p>
+
+<h2 id="01-04-saturday-29-april-2017-jst">01:04 Saturday 29 April 2017 JST</h2>
+
+<p>Had to import a few by hand and skip some of the big historical
+tables, but hooray I now have the frontend site working to the point
+that it shows the site and I can log in.</p>
+
+                    </div>
+                </section>
+                
+                <h1 class="content-subhead">27 Apr 2017, 13:33</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2017/04/27/working-from-home/" class="post-title">working from home</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h2 id="13-33-thursday-27-april-2017-jst">13:33 Thursday 27 April 2017 JST</h2>
+
+<p>Now I am working from home, hoping to get test AB talking to test FS
+behind a load balancer and cdn.</p>
+
+                    </div>
+                </section>
+                
+            </div>
+            
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      
+      <a href="/tags/work/page/16/" class="post-list-pagination-item pure-button post-list-pagination-item-prev">
+        <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+      </a>
+      
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page 17 of 34</span>
+    
+      <a href="/tags/work/page/18/" class="post-list-pagination-item pure-button post-list-pagination-item-next">
+        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    
+  </nav>
+</div>
+
+
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

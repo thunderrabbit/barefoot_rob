@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>printer on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/printer/</link>
+    <description>Recent content in printer on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 23:44:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/printer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tech moe joe</title>
+      <link>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</link>
+      <pubDate>Sun, 22 Sep 2019 23:44:47 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/22/tech-moe-joe/</guid>
+      <description>(written 23:44 Sunday 22 September 2019 JST)
+Moe Joe. AB server ELB is causing or revealing 502s. Locally, I rebooted my elderly Macbook and the USB cable is still not working. I reset the printer system and the printer still will not print. I tried to copy a document and the printer would not copy it. And latest version of Hugo is not creating my website subdirectories (/journal or /blog).</description>
+    </item>
+    
+    <item>
+      <title>reset router and printer</title>
+      <link>https://new.robnugen.com/journal/2019/08/06/reset-router-and-printer/</link>
+      <pubDate>Tue, 06 Aug 2019 12:40:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/08/06/reset-router-and-printer/</guid>
+      <description>Our old router suddenly stopped routing, but fortunately I had not given away the new router that was left when people moved out from an apartment Lin was asked to clean out.
+The new router worked, but after getting it going, the printer password would not work and I ended up having to reset the printer network which lost the ssh settings for scanning to b.robnugen.com and now I cannot get them set up again for lack of the server key which I think I remember where I got it from before but it ain&amp;rsquo;t working now.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>btc on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/btc/</link>
+    <description>Recent content in btc on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 23:34:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/btc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>unconfirmed transaction</title>
+      <link>https://new.robnugen.com/journal/2018/01/16/unconfirmed-transaction/</link>
+      <pubDate>Tue, 16 Jan 2018 23:34:06 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/01/16/unconfirmed-transaction/</guid>
+      <description>23:34 Tuesday 16 January 2018 JST I used blockchain.info to send my almost-one bitcoin to a guy and used their suggested fee&amp;hellip; and it has not confirmed after 13 hours.
+https://blockchain.info/tx/b92c3e8166a44fecef691a14fb20f5f94088b66c2dc4009dee4f5f3365941573
+
+Now that I have this problem, I see https://bitcoinfees.earn.com/ suggests fees to get transactions through quickly.
+So I will use that next time, but &amp;hellip; dang not sure when next time will be haha.
+11:38 Wednesday 17 January 2018 JST The transaction confirmed after nearly 24 hours.</description>
+    </item>
+    
+    <item>
+      <title>bitcoin donations accepted</title>
+      <link>https://new.robnugen.com/journal/2015/10/14/bitcoin-donations-accepted/</link>
+      <pubDate>Wed, 14 Oct 2015 04:48:05 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/14/bitcoin-donations-accepted/</guid>
+      <description>04:48 Wednesday 14 October 2015 JST https://blockchain.info/address/13iVWWESXnHbWw2CzvSPG7JR5TJVHnAdzk
+Headin&amp;rsquo; to OZ now, wearing a bitcoin shirt, but I don&amp;rsquo;t have a bitcoin address handy.</description>
+    </item>
+    
+  </channel>
+</rss>

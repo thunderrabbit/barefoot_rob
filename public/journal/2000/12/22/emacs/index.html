@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emacs &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Emacs &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Emacs &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">22 Dec 2000, 00:00</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2000/12/22/emacs/" class="post-title">Emacs</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        <p><title>emacs rules</title>
+<p class=date>3:36am CST Friday 22 December 2000</p></p>
+
+<p>I will be using "emacs convention" when writing this entry.  M-q
+means hitting the Meta key (escape) and then pressing the letter q.
+
+<p>Emacs rules.  While formatting the previous entry, I was using M-q
+to format text.  This key runs the fill-paragraph command, which
+essentially applies text wrapping to the paragraph.</p>
+
+<p>For my examples, I will use the &lt;pre>&lt;/pre> element because
+text in the &lt;p>&lt;/p> element is automatically word wrapped by the
+browser.</p>
+
+<pre>Okay, here is a line of text that goes on and on in a most blah blah blah fashion and really doesn't say anything but will be our guinea pig sentence for the rest of this writing.  Actually I need to get some longer words like circumlocusive and diminutive ones as the exceptionally diminutive words will not as easily allow emacs to display its amazing skillz which I have intentions of showing the reader.  This should be long enough I hope.
+</pre>
+
+<p>Following is the same line after using M-q on it:
+
+<pre>
+Okay, here is a line of text that goes on and on in a most blah blah
+blah fashion and really doesn't say anything but will be our guinea
+pig sentence for the rest of this writing.  Actually I need to get
+some longer words like circumlocusive and diminutive ones as the
+exceptionally diminutive words will not as easily allow emacs to
+display its amazing skillz which I have intentions of showing the
+reader.  This should be long enough I hope.</pre>
+
+<p>What I found accidentally is that M-1 M-q justifies the text!
+
+<pre>
+Okay, here is a line of text that  goes on and on in  a most blah blah
+blah fashion  and really doesn't say  anything but  will be our guinea
+pig sentence  for the rest  of this writing.  Actually  I  need to get
+some  longer words  like  circumlocusive and  diminutive  ones as  the
+exceptionally  diminutive  words will not  as   easily allow  emacs to
+display  its  amazing skillz which   I have intentions  of showing the
+reader.  This should be long enough I hope.</pre>
+
+<p>When I first noticed that emacs had justified the text, it took me
+a few tries to discover what keys I had mistakenly pressed instead of
+M-q.  In that process, I also hit M-1 M-q twice in a row and
+discovered that emacs shifted the positioning of the extra spaces
+within each line!
+
+<pre>
+Okay, here is a line of text that goes on  and on in  a most blah blah
+blah fashion  and really doesn't say  anything but  will be our guinea
+pig sentence for the  rest of this  writing.   Actually I need to  get
+some   longer words like   circumlocusive and  diminutive  ones as the
+exceptionally diminutive words  will not  as   easily allow emacs   to
+display  its  amazing skillz which I  have  intentions of  showing the
+reader.  This should be long enough I hope.</pre>
+
+<p>This difference is subtle with these short words.  Okay, here are
+some longer "words" and M-1 M-q applied to them different numbers of
+times:</p>
+
+<pre>
+aaaaaaaaaaaaaaaaaa bbbbbbbbbbbb cccccccccccccccccc dddddddddddddd  eee
+fff  ggg  hhh  iiiiiiiiiiiiiiiiiiii jjjjjjjjjjjjjjjjjjjj kkkkkkkkk  ll
+mmmmmmmmmmm</pre>
+
+<pre>
+aaaaaaaaaaaaaaaaaa  bbbbbbbbbbbb cccccccccccccccccc dddddddddddddd eee
+fff  ggg  hhh  iiiiiiiiiiiiiiiiiiii  jjjjjjjjjjjjjjjjjjjj kkkkkkkkk ll
+mmmmmmmmmmm</pre>
+
+<pre>
+aaaaaaaaaaaaaaaaaa bbbbbbbbbbbb cccccccccccccccccc  dddddddddddddd eee
+fff  ggg  hhh iiiiiiiiiiiiiiiiiiii  jjjjjjjjjjjjjjjjjjjj kkkkkkkkk  ll
+mmmmmmmmmmm</pre>
+
+<p>Okay, even I am totally bored by this now.  Just know that emacs
+rules and I love it.</p>
+
+<p>It's 4:03am</p>
+
+<p><img src='/images/rob/wL-ROB.gif'/></p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2000/12/22/dream/" rel="prev" style="float: left!important">❮ Dream</a>
+                  <a href="https://new.robnugen.com/journal/2000/12/22/familyman/" rel="next" style="float: right!important"> FamilyMan ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

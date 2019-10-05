@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>barf on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/barf/</link>
+    <description>Recent content in barf on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Oct 2015 07:13:28 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/barf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My computer locked up last night</title>
+      <link>https://new.robnugen.com/journal/2015/10/23/my-computer-locked-up-last-night/</link>
+      <pubDate>Fri, 23 Oct 2015 07:13:28 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/23/my-computer-locked-up-last-night/</guid>
+      <description>07:13 Friday 23 October 2015 JST I woke my computer from sleep, and it didn&amp;rsquo;t respond to any keypresses, either from its own keyboard or the USB keyboard. The mouse cursor wouldn&amp;rsquo;t move, using either the trackpad or USB mouse. The only key which worked was the power key. I pressed it for a while and the dialog boxed popped up: Are you sure you want to shut down the computer?</description>
+    </item>
+    
+  </channel>
+</rss>

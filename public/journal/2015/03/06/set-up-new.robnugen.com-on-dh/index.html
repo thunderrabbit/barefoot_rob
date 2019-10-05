@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Set up new.robnugen.com on DH &middot; Barefoot Rob</title>
+
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="thunderrabbit" />
+    <meta name="twitter:title" content="Set up new.robnugen.com on DH &middot; Barefoot Rob">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Set up new.robnugen.com on DH &middot; Barefoot Rob">
+    <meta property="og:description" content="">
+
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href='https://new.robnugen.com/css/all.min.css'>
+    <link rel="stylesheet" href='https://new.robnugen.com/css/barefoot_rob.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="alternate" type="application/rss+xml" title="Barefoot Rob" href='https://new.robnugen.com/index.xml' />
+</head>
+<body>
+
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="header">
+        <hgroup>
+            <h1 class="brand-title"><a href="https://new.robnugen.com/">Barefoot Rob</a></h1>
+            <h2 class="brand-tagline"> keep expanding </h2>
+        </hgroup>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                
+                
+                
+                
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i> home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/journal'>
+                        <i class="fa"></i> journal
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='https://new.robnugen.com/blog'>
+                        <i class="fa"></i> blog
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            
+            <div class="posts">
+                <h1 class="content-subhead">06 Mar 2015, 21:02</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://new.robnugen.com/journal/2015/03/06/set-up-new.robnugen.com-on-dh/" class="post-title">Set up new.robnugen.com on DH</a>
+
+                        <p class="post-meta">
+                            
+                                By <strong class="post-author">Rob Nugen</strong>
+                            
+                            
+                        </p>
+                    </header>
+                    
+                    <div class="post-description">
+                        
+
+<p>##21:02 Friday 06 March 2015 JST##</p>
+
+<p><a href="https://gist.github.com/thunderrabbit/0cbbc016288478ec3e46">Set up new domain on DH</a></p>
+
+<h2 id="how-i-set-up-new-sites-on-dreamhost-shared-hosting-not-their-new-dreamcompute">How I set up new sites on Dreamhost (shared hosting, not their new Dreamcompute)</h2>
+
+<p>From their panel -&gt; Domains -&gt; Manage Domains -&gt; <a href="https://panel.dreamhost.com/index.cgi?tree=domain.manage&amp;current_step=Index&amp;next_step=ShowAddhttp&amp;domain=">Add Hosting to a Domain / Sub-domain</a></p>
+
+<p>fill in the blanks, including create a new user</p>
+
+<p>Make sure the new user is a shell user at <a href="https://panel.dreamhost.com/index.cgi?tree=users.users">https://panel.dreamhost.com/index.cgi?tree=users.users</a></p>
+
+<p>Create a new ssh key for the new site</p>
+
+<pre><code>ssh-keygen
+</code></pre>
+
+<p>Enter the domain as the key filename</p>
+
+<p>Move the keypair to <code>~/.ssh</code></p>
+
+<p>scp the public key to the new machine</p>
+
+<p>ssh into the new machine and move the key to ~/.ssh</p>
+
+<pre><code>mkdir ~/.ssh
+chmod 700 ~/.ssh
+</code></pre>
+
+<p>Move the public key to ~/.ssh/authorized_keys</p>
+
+<pre><code>chmod 400 ~/.ssh/authorized_keys
+</code></pre>
+
+<p>Make <code>~/.bash_aliases</code> look like this:</p>
+
+<pre><code>alias ls='ls --color=auto'
+alias gitd='git diff -b'
+alias gitl='git log --oneline --graph --decorate --all'
+alias gits='git status'
+</code></pre>
+
+<p>Append this to ~/.bash_profile`</p>
+
+<pre><code>if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+EDITOR=/usr/bin/emacs
+
+export EDITOR
+</code></pre>
+
+<p>Edit <code>.gitignore</code>:</p>
+
+<pre><code>*~
+.cache
+logs/
+.ssh/
+.bash_history
+example.com
+</code></pre>
+
+<p>Set up git:</p>
+
+<pre><code>git config --global core.excludesfile ~/.gitignore
+git config --global user.name &quot;Rob Nugen&quot;
+git config --global user.email rob@example.com
+</code></pre>
+
+<p>Log out of the new machine</p>
+
+<p>On local machine:</p>
+
+<p>Append something like the following to <code>~/.ssh/config</code>:</p>
+
+<pre><code>Host example
+    HostName example.com
+    User example
+    IdentityFile ~/.ssh/example.com
+</code></pre>
+
+<p>Now ssh into the site:</p>
+
+<pre><code>ssh example
+</code></pre>
+
+<p>Enter password for the ssh key and you should be in.</p>
+
+<h2 id="fri-mar-6-22-32-43-2015-0900">Fri Mar 6 22:32:43 2015 +0900</h2>
+
+<pre><code>commit 5a081754d37deaccc79ebb26144ebdc4a63f32e5
+Author: Rob Nugen
+Date:   Fri Mar 6 22:32:43 2015 +0900
+
+    Can now use 'middleman deploy' to deploy to new.robnugen.com
+</code></pre>
+
+<p>And they say there will <em>never</em> be a hash collision on git, so I could
+just write &ldquo;woohoo! check out the meta data at git hash
+5a081754d37deaccc79ebb26144ebdc4a63f32e5!&rdquo; if there ever ends up being
+a master list of all git hashes created.</p>
+
+                    </div>
+                    
+                </section>
+            </div>
+            <div class="pager">
+                  <a href="https://new.robnugen.com/journal/2015/03/07/dreams-including-being-rich/" rel="prev" style="float: left!important">❮ dreams, including being rich</a>
+                  <a href="https://new.robnugen.com/journal/2015/03/05/do-today/" rel="next" style="float: right!important"> Do Today ❯</a>
+            </div>
+            <div class="footer">
+    <div class="pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+            <li>Powered by <a class="hugo" href="https://gohugo.io/" target="_blank">hugo</a></li>
+        </ul>
+    </div>
+</div>
+<script src='https://new.robnugen.com/js/all.min.js'></script>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

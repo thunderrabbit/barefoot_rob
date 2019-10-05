@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloze on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/cloze/</link>
+    <description>Recent content in cloze on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2017 22:48:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/cloze/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>new idea that I miggghhttttttt make</title>
+      <link>https://new.robnugen.com/journal/2017/03/06/new-idea-that-i-miggghhttttttt-make/</link>
+      <pubDate>Mon, 06 Mar 2017 22:48:25 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/03/06/new-idea-that-i-miggghhttttttt-make/</guid>
+      <description>22:48 Monday 06 March 2017 JST I needed to make a cloze test today. All the ones I saw online were either hard to use or required payment (or both?)
+In my preferred version, user would just slap in a bunch of text, and then click on the words to extract from the source. Those words would be replaced with blanks and moved down to sorted list at bottom.</description>
+    </item>
+    
+  </channel>
+</rss>

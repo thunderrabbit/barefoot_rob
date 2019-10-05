@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>earthquakes on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/earthquakes/</link>
+    <description>Recent content in earthquakes on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2015 21:31:54 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/earthquakes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>big quakes recently</title>
+      <link>https://new.robnugen.com/journal/2015/05/30/big-quakes-recently/</link>
+      <pubDate>Sat, 30 May 2015 21:31:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/05/30/big-quakes-recently/</guid>
+      <description>21:31 Saturday 30 May 2015 JST Not that no one else has noticed, but we&amp;rsquo;ve had a few big earthquakes in Japan recently, most recently at 8:34pm. It felt like a 3 or 4 in The Pink Cow, but it was a 5 out in the water. Fortunately, it had a depth of hundreds of miles, so no tsunami.
+09:30 Sunday 31 May 2015 JST Crud I forgot to upload the image snagged from jma earthquake map</description>
+    </item>
+    
+  </channel>
+</rss>

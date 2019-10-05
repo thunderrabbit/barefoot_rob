@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dns on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/dns/</link>
+    <description>Recent content in dns on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 15:38:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mt3 site is effed up</title>
+      <link>https://new.robnugen.com/journal/2018/10/15/mt3-site-is-effed-up/</link>
+      <pubDate>Mon, 15 Oct 2018 15:38:24 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/10/15/mt3-site-is-effed-up/</guid>
+      <description>15:38 Monday 15 October 2018 JST Dang marbletrack3.com is broken now. Netlify created the SSL cert and neither of my browsers like it.
+I will switch back to hosting on Dreamhost if Netlify cannot sort it out.
+
+I have created a support ticket with Netlify.
+And to think I was about ready to shift all my static sites over.</description>
+    </item>
+    
+  </channel>
+</rss>

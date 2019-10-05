@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>install on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/install/</link>
+    <description>Recent content in install on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/install/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>install.sh</title>
+      <link>https://new.robnugen.com/journal/2014/11/26/install.sh/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/11/26/install.sh/</guid>
+      <description>##20:35 Wednesday 26 November 2014 JST##
+I spent most of the day working on installing a website from git; it has symlinks to a config directory and a vendor directory. We&amp;rsquo;re not just updating an existing directory, but cloning the repo from git each time.
+I made a little install.sh file:
+#!/bin/bash read -p &amp;quot;This will install the latest version from git!! Are you sure? (n) &amp;quot; -n 1 if [[ !</description>
+    </item>
+    
+  </channel>
+</rss>

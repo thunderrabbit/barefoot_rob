@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hmm on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/hmm/</link>
+    <description>Recent content in hmm on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2019 08:55:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/hmm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New top page of robnugen.com</title>
+      <link>https://new.robnugen.com/journal/2019/09/12/new-top-page-of-robnugen.com/</link>
+      <pubDate>Thu, 12 Sep 2019 08:55:40 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/09/12/new-top-page-of-robnugen.com/</guid>
+      <description>Curiously, the top page of my website suddenly stopped showing the latest blog entries. Last night I tried to get it working again or to at least figure out what happened, but I could do neither.
+Today, I realize it is a chance to just redo my top page altogether.
+Done is better than perfect, so let&amp;rsquo;s get it done.</description>
+    </item>
+    
+    <item>
+      <title>Looking for a Japanese teacher</title>
+      <link>https://new.robnugen.com/journal/2019/05/07/looking-for-a-japanese-teacher/</link>
+      <pubDate>Tue, 07 May 2019 18:04:21 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/05/07/looking-for-a-japanese-teacher/</guid>
+      <description>18:04 Tuesday 07 May 2019 JST There are probably errors in the Japanese notes below! 今日新しい先生三人の授業を登録しました。 Today I registered with three new teachers.
+先週も先生四人の授業を登録しました。 Last week I registered with four teachers.
+一人は沢山英語を使えます。 One used a lot of English
+勉強のため英語より簡単日本語方がいいと思います。 Easy Japanese is better than English for me to study.
+一人はカメラを使えない。それで対面式じゃなくて、電話見たいです。 One did not use a camera. No face to face so we might as well have used a phone.</description>
+    </item>
+    
+    <item>
+      <title>waitin</title>
+      <link>https://new.robnugen.com/journal/2016/10/12/waitin/</link>
+      <pubDate>Wed, 12 Oct 2016 14:48:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/10/12/waitin/</guid>
+      <description>14:48 Wednesday 12 October 2016 JST Safely in Honkers, and just waiting for my flight, scheduled to leave in 70 minutes. Is it normal to not have a gate listed yet? Hmmm.
+14:53 I just overheard the answer from an airport employee:
+&amp;ldquo;Oh! Too early. Long time. Because long time no boarding gate.&amp;rdquo;
+15:14 At 3pm (2pm local time) the gate was listed: 71.
+Walking past all the shops and stuff from gate 44 area to gate 71, I realized I feel hungry.</description>
+    </item>
+    
+    <item>
+      <title>the fuck is going on</title>
+      <link>https://new.robnugen.com/journal/2016/06/21/the-fuck-is-going-on/</link>
+      <pubDate>Tue, 21 Jun 2016 18:16:16 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/06/21/the-fuck-is-going-on/</guid>
+      <description>18:16 Tuesday 21 June 2016 JST Weird shit. My virtualbox won&amp;rsquo;t open any of the virtual boxes, including the one I just shut down to figure out what&amp;rsquo;s going on.
+Now when I tried to push my journal to bitbucket I get a weird error:
+$ git push No user exists for uid 502 fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.</description>
+    </item>
+    
+    <item>
+      <title>jet lag</title>
+      <link>https://new.robnugen.com/journal/2016/02/04/jet-lag/</link>
+      <pubDate>Thu, 04 Feb 2016 03:17:39 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/02/04/jet-lag/</guid>
+      <description>03:17 Thursday 04 February 2016 JST Well I thought I had it beat, but I woke up at midnight thinking it must be close to wakeup time!
+Went to bed for 3 more hours and am even more awake this time!</description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://new.robnugen.com/journal/2015/12/08/docker/</link>
+      <pubDate>Tue, 08 Dec 2015 18:43:59 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/08/docker/</guid>
+      <description>18:43 Tuesday 08 December 2015 JST Some docker success! I have little time, so I copied and pasted from https://core0.staticworld.net/assets/media-resource/16373/ifw_dd_docker.pdf (which is out of date already) so used the script name &amp;lsquo;startapache&amp;rsquo; but I don&amp;rsquo;t have internizzle access atm so I just made the script echo &amp;lsquo;your mom&amp;rsquo;
+That&amp;rsquo;s amazing in its own right (a container that looks like a machine, running on my machine!) but the next steps, I was able to save a copy of the machine and run a new instance of the machine, which still had the entire state of the machine inside it (well, the history file, at least).</description>
+    </item>
+    
+    <item>
+      <title>I wonder if Travis got a new computer...</title>
+      <link>https://new.robnugen.com/journal/2015/12/02/i-wonder-if-travis-got-a-new-computer.../</link>
+      <pubDate>Wed, 02 Dec 2015 15:00:52 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/02/i-wonder-if-travis-got-a-new-computer.../</guid>
+      <description>15:00 Wednesday 02 December 2015 JST He was talking about it before, and I&amp;rsquo;m closer to being back in the market.</description>
+    </item>
+    
+    <item>
+      <title>take-apart puzzle</title>
+      <link>https://new.robnugen.com/journal/2015/07/21/take-apart-puzzle/</link>
+      <pubDate>Tue, 21 Jul 2015 18:50:10 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/21/take-apart-puzzle/</guid>
+      <description>18:50 Tuesday 21 July 2015 JST Hmm! There are several metal two-piece take-apart puzzles at the toy store. There are a couple that I can solve in a trice, and one which I can solve, but takes a bit of fiddling.
+That was my mistaken thought until today. Turns out I hadn&amp;rsquo;t fully solved it! I think!
+The puzzle consists of two triangularly coiled &amp;ldquo;nails,&amp;rdquo; each with three curves. One curve is about 90 degrees, the other is about 50 degrees, and the last goes 180 degrees (as the head of the nail curves into the interior like a paper clip) (I should have taken a picture!</description>
+    </item>
+    
+    <item>
+      <title>setting up Netbeans</title>
+      <link>https://new.robnugen.com/journal/2015/07/07/setting-up-netbeans/</link>
+      <pubDate>Tue, 07 Jul 2015 17:16:20 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/07/07/setting-up-netbeans/</guid>
+      <description>17:16 Tuesday 07 July 2015 JST I don&amp;rsquo;t remember how I did this on the Debian box, and can&amp;rsquo;t seem to quickly find notes, but here are new notes.
+I downloaded Netbeans from https://download.oracle.com/otn-pub/java/jdk-nb/8u45-8.0.2/jdk-8u45-nb-8_0_2-macosx-x64.dmg
+but it doesn&amp;rsquo;t have PHP as an option when I click New Project, so I&amp;rsquo;m going to try downoading https://download.netbeans.org/netbeans/8.0.2/final/bundles/netbeans-8.0.2-php-macosx.dmg
+Crud. That didn&amp;rsquo;t seem to help.
+That worked after restarting Netbeans! I wonder if I didn&amp;rsquo;t need to download the second thing and just needed to restart Netbeans&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>lost Portal 2 edits</title>
+      <link>https://new.robnugen.com/journal/2015/06/30/lost-portal-2-edits/</link>
+      <pubDate>Tue, 30 Jun 2015 08:41:27 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/06/30/lost-portal-2-edits/</guid>
+      <description>08:41 Tuesday 30 June 2015 JST Not sure what happened, but I added a room to my level, exited cleanly from portal 2 and steam, came back, and my changes were gone when I tried to edit the level again.</description>
+    </item>
+    
+  </channel>
+</rss>

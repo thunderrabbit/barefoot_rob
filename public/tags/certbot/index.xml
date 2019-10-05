@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>certbot on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/certbot/</link>
+    <description>Recent content in certbot on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Mar 2018 15:43:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/certbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting https working on AB</title>
+      <link>https://new.robnugen.com/journal/2018/03/19/getting-https-working-on-ab/</link>
+      <pubDate>Mon, 19 Mar 2018 15:43:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2018/03/19/getting-https-working-on-ab/</guid>
+      <description>15:43 Monday 19 March 2018 JST Nice to see setting up SSL certificates for Apache 2 on Ubuntu is pretty easy. They even automagically set up a cron job to renew the certificate after two months. See /etc/cron.d/certbot
+I had a problem for a minute because one .conf file had a domain and an alias in it. I ran certbot for the aliased domain and told it to go ahead and force https, but then that broke the main domain (which was the main domain) by forcing SSL and using the certificates for the test domain.</description>
+    </item>
+    
+  </channel>
+</rss>

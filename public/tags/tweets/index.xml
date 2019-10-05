@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tweets on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/tweets/</link>
+    <description>Recent content in tweets on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2015 11:21:13 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/tweets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>evs</title>
+      <link>https://new.robnugen.com/journal/2015/12/08/evs/</link>
+      <pubDate>Tue, 08 Dec 2015 11:21:13 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/08/evs/</guid>
+      <description>11:21 Tuesday 08 December 2015 JST  I turned on MOOVs while walking to Kawasaki station Travis gave me some nice insight/feedback on docker There are currently four (4) docker VMs on my machine I may update the tutorial to use letsencrypt on DH I&amp;rsquo;m headed to work now to work on CB and AB sites I&amp;rsquo;d love to move them to docker containers, but not sure how / if Good Idea &amp;trade; Mika asked if I know any teachers in 二子玉川 area, so I emailed Eda.</description>
+    </item>
+    
+  </channel>
+</rss>

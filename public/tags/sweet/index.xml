@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sweet on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/sweet/</link>
+    <description>Recent content in sweet on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 17:16:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/sweet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godot coding</title>
+      <link>https://new.robnugen.com/journal/2017/12/12/godot-coding/</link>
+      <pubDate>Tue, 12 Dec 2017 17:16:29 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2017/12/12/godot-coding/</guid>
+      <description>17:16 Tuesday 12 December 2017 JST I may be speaking too soon, but programming in Godot is so easy I could just cry. (in terms of memory managment, auto completion, and things just working)</description>
+    </item>
+    
+    <item>
+      <title>lessons in akihabara</title>
+      <link>https://new.robnugen.com/journal/2016/08/04/lessons-in-akihabara/</link>
+      <pubDate>Thu, 04 Aug 2016 20:28:07 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/08/04/lessons-in-akihabara/</guid>
+      <description>20:28 Thursday 04 August 2016 JST Though we almost got sidetracked with describing days relative to today, I think our lesson on &amp;ldquo;a&amp;rdquo; and &amp;ldquo;the&amp;rdquo; went quite well. I hadn&amp;rsquo;t taught this lesson in a while. I remember I used to have a cache of plastic fat horse characters of a variety of colors and a few different sizes. They were perfect for the &amp;ldquo;a - the&amp;rdquo; game.
+Mayumi created some cards with crayons on them with different colors and different lengths.</description>
+    </item>
+    
+    <item>
+      <title>Cool vertical labyrinth game</title>
+      <link>https://new.robnugen.com/journal/2016/01/19/cool-vertical-labyrinth-game/</link>
+      <pubDate>Tue, 19 Jan 2016 18:12:36 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2016/01/19/cool-vertical-labyrinth-game/</guid>
+      <description>18:12 Tuesday 19 January 2016 JST At the toy store today, Mai asked if I had solved the circular quadruple maze thing. I have not. But I assured her if I received it as a gift, I would be able to solve it. (I have a plan for how to solve it, but it involves (temporarily) placing marks (removable stickers) on the surfaces of the mazes.)
+She said she would give it to me for 65,000 yen.</description>
+    </item>
+    
+    <item>
+      <title>Sweet now I can easily test my journal (text) locally</title>
+      <link>https://new.robnugen.com/journal/2015/12/01/sweet-now-i-can-easily-test-my-journal-text-locally/</link>
+      <pubDate>Tue, 01 Dec 2015 08:43:17 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/12/01/sweet-now-i-can-easily-test-my-journal-text-locally/</guid>
+      <description>08:43 Tuesday 01 December 2015 JST  #!/bin/bash cd ~/journal-hugo-local open http://localhost:1313/ echo &amp;quot;building&amp;quot; hugo server --watch  The browser is opened using the open command and shows a failure for a few seconds until I reload it after Hugo builds the site at lightning speed. After that, any changes I make a quickly refelcted on the localhost webpage.
+Hmm but I can&amp;rsquo;t yet see my images locally
+15:00 Wednesday 02 December 2015 JST Thanks to Travis for pointing out that I don&amp;rsquo;t need to cd ~ back to my original directory when running (most) shell scripts!</description>
+    </item>
+    
+    <item>
+      <title>spideroak unlimited storage offer</title>
+      <link>https://new.robnugen.com/journal/2015/10/29/spideroak-unlimited-storage-offer/</link>
+      <pubDate>Thu, 29 Oct 2015 17:53:55 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/10/29/spideroak-unlimited-storage-offer/</guid>
+      <description>17:53 Thursday 29 October 2015 JST Sweet. $149 per year, but it&amp;rsquo;s encrypted before leaving my computer, and it&amp;rsquo;s unlimted.
+But, I sent them an email, basically &amp;ldquo;yo, yo&amp;rsquo; shit keep crashin&amp;rsquo;,&amp;rdquo; which I hope/expect is a temporary issue.</description>
+    </item>
+    
+    <item>
+      <title>Sellin&#39; Wilbur</title>
+      <link>https://new.robnugen.com/journal/2015/03/27/sellin-wilbur/</link>
+      <pubDate>Fri, 27 Mar 2015 16:20:00 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2015/03/27/sellin-wilbur/</guid>
+      <description>##16:20 Friday 27 March 2015 JST##
+I might get to sell Wilbur!</description>
+    </item>
+    
+    <item>
+      <title>favorite ice cream that&#39;s not just vanilla</title>
+      <link>https://new.robnugen.com/journal/2014/12/09/favorite-ice-cream-thats-not-just-vanilla/</link>
+      <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2014/12/09/favorite-ice-cream-thats-not-just-vanilla/</guid>
+      <description>##14:53 Tuesday 9 December 2014 JST
+(written 01:34 Sunday 21 December 2014 JST)
+Went to chill at Nate&amp;rsquo;s, and the nearby convenience store very conveniently had my favorite ice cream bars for sale! Woooo white chocolate center with vanilla ice cream and white chocolate coating.</description>
+    </item>
+    
+  </channel>
+</rss>

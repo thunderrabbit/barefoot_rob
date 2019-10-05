@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>annoying on Barefoot Rob</title>
+    <link>https://new.robnugen.com/tags/annoying/</link>
+    <description>Recent content in annoying on Barefoot Rob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2019 12:40:54 +0900</lastBuildDate>
+    
+	<atom:link href="https://new.robnugen.com/tags/annoying/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>reset router and printer</title>
+      <link>https://new.robnugen.com/journal/2019/08/06/reset-router-and-printer/</link>
+      <pubDate>Tue, 06 Aug 2019 12:40:54 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/08/06/reset-router-and-printer/</guid>
+      <description>Our old router suddenly stopped routing, but fortunately I had not given away the new router that was left when people moved out from an apartment Lin was asked to clean out.
+The new router worked, but after getting it going, the printer password would not work and I ended up having to reset the printer network which lost the ssh settings for scanning to b.robnugen.com and now I cannot get them set up again for lack of the server key which I think I remember where I got it from before but it ain&amp;rsquo;t working now.</description>
+    </item>
+    
+    <item>
+      <title>was sick during BC NWTA</title>
+      <link>https://new.robnugen.com/journal/2019/03/18/was-sick-during-bc-nwta/</link>
+      <pubDate>Mon, 18 Mar 2019 01:10:32 +0900</pubDate>
+      
+      <guid>https://new.robnugen.com/journal/2019/03/18/was-sick-during-bc-nwta/</guid>
+      <description>01:10 Monday 18 March 2019 PDT I felt sad to have to check out for a significant portion of the NWTA this past weekend. So annoying, and certainly not what I had in mind for my trip!
+Was great to meet awesome men. I stayed with Steve R in Vancouver the night before the weekend, and am now staying with Dave M in Victoria the night after the weekend. Headed to Houston tomorrow via Calgary.</description>
+    </item>
+    
+  </channel>
+</rss>
