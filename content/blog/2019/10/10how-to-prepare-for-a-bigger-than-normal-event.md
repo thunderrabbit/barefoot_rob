@@ -1,12 +1,12 @@
 ---
 title: "How to prepare for a bigger than normal event"
 tags: [ "preparation", "how-to", "list", "relax", "easy", "prepare" ]
-categories: [ "blog" ]
+categories: [ "tips" ]
 author: Rob Nugen
 date: 2019-10-03T13:32:47+09:00
 ---
 
-This technique seems too simple to be useful, but it really works and
+This simple technique really works and
 I have anecdotal scientific proof to prove it.
 
 ### Step 1: make a list of things to do
