@@ -27,7 +27,7 @@ peeps online.
 
 <b>How it works:</b>
 
-Barbara Oakley's course Learning How to Learn talked about the
+[Barbara Oakley](https://barbaraoakley.com/)'s course [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) talked about the
 pomodoro technique, which is based on the fact that our brains need
 some time to chill out between times of working hard.
 
@@ -35,7 +35,7 @@ Allowing a couple of weeks to make the list allows the brain to work
 at its prime, creating and finding connections between apparently
 disparate objects or experiences.
 
-The idea of slowly compiling a list reminds me in ways of GTO, Getting
-Things Done, which suggests we have One Single List of things to do,
+The idea of slowly compiling a list reminds me in ways of GTD, [Getting
+Things Done](https://gettingthingsdone.com/), which suggests we have One Single List of things to do,
 and then we just smoothly and easily go through the list while not
 having to keep a lot of stuff in mind.
