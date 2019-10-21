@@ -9,7 +9,7 @@ theme = ["purehugo-augmentation", "purehugo" ]
 	github = "thunderrabbit"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
-	description = "keep expanding"
+	description = "keep pushing the limits"
 	hideShareOptions = true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
