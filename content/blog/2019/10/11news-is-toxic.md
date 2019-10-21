@@ -3,6 +3,7 @@ title: "News is Toxic"
 tags: [ "news", "life", "toxicity" ]
 categories: [ "health" ]
 author: Rob Nugen
+draft: true
 date: 2019-10-11T10:11:20+09:00
 ---
 
