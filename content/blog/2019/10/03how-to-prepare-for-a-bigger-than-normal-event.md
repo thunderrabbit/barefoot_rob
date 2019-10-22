@@ -3,7 +3,7 @@ title: "How to prepare for a bigger than normal event"
 tags: [ "preparation", "how-to", "list", "relax", "easy", "prepare" ]
 categories: [ "tips" ]
 author: Rob Nugen
-date: 2019-09-30T17:26:33+09:00
+date: 2019-10-02T17:26:33+09:00
 ---
 
 This simple technique really works and
