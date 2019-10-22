@@ -3,7 +3,7 @@ title: "test blog How to prepare for a bigger than normal event"
 tags: [ "workshop", "fun", "past life", "how-to" ]
 categories: [ "blog" ]
 author: Rob Nugen
-date: 2019-10-03T13:32:47+09:00
+date: 2019-09-07T17:26:33+09:00
 ---
 
 
