@@ -1,10 +1,12 @@
-<head>
-<title>Silent Football Rules</title>
-</head>
+---
+title: "Silent Football Rules"
+tags: [ "sf" ]
+author: Rob Nugen
+date: 2019-11-03T15:38:44+09:00
+---
+
 <! Rob, when this is complete, email "Ashleigh Carter" ashleighjcarter@yahoo.com>
 <! and Nick Carter >
-
-<!--#include virtual="/cgi-bin/draw_navigation_for_static_pages.pl?0main&1yruu&2sf&basics" -->
 
 <h1>Silent Football</h1>
 <h2>Southwest District Rules</h2>
@@ -42,7 +44,7 @@ for everyone to have fun!]</p>
 <p><b>Game Play:</b></p>
 
 <p><a href="/images/YRUU/sf/sf_circle.jpg"><img
-src="/images/YRUU/sf/sf_circle.jpg" border="0" width="100"
+src="https://b.robnugen.com/YRUU/sf/sf_circle.jpg" border="0" width="100"
 height="100" align="left" alt="example circle"></a> All players are
 arranged in a circle.  One player is selected to be the Dictator.  The
 Dictator will basically run the game and will probably do most of the
@@ -116,8 +118,8 @@ Shrug a Shrodem nor Shrodem a Shrug!!
 
 <p><b>The Zoom:</b></p>
 
-<p><a href="/images/YRUU/sf/rob_zoom.jpg"><img
-src="/images/YRUU/sf/rob_zoom.jpg" border=0 height=75 width=100
+<p><a href="https://b.robnugen.com/YRUU/sf/rob_zoom.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/rob_zoom.jpg" border=0 height=75 width=100
 align=left></a> The first offensive move is The Zoom.  It is performed
 by extending one's right arm and right fist toward another player, and
 making eye contact with that player. One may not refuse a Zoom by
@@ -132,24 +134,24 @@ Shaker")</p>
 
 <p><b>The Fwap:</b></p>
 
-<p><a href="/images/YRUU/sf/tanner_fwap_up.jpg"><img
-src="/images/YRUU/sf/tanner_fwap_up.jpg" align=left border=0 width=100
-height=75></a><a href="/images/YRUU/sf/tanner_fwap_down.jpg"><img
-src="/images/YRUU/sf/tanner_fwap_down.jpg" align=left border=0
+<p><a href="https://b.robnugen.com/YRUU/sf/tanner_fwap_up.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/tanner_fwap_up.jpg" align=left border=0 width=100
+height=75></a><a href="https://b.robnugen.com/YRUU/sf/tanner_fwap_down.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/tanner_fwap_down.jpg" align=left border=0
 width=100 height=75></a> The other offensive move is the Fwap.</p>
 
 <p>The Fwap is performed by striking/clapping one's right hand upon
 one's right leg, or by striking one's left hand upon one's left leg,
 or a careful combination of striking one's right hand upon one's right
 leg and one's left hand upon one's left leg. <a
-href="/images/YRUU/sf/mikey_fwap_up.jpg"><img
-src="/images/YRUU/sf/mikey_fwap_up.jpg" align=right width=100 height=80
-border=0></a> <a href="/images/YRUU/sf/mikey_fwap_down.jpg"><img
-src="/images/YRUU/sf/mikey_fwap_down.jpg" align=right width=100
+href="https://b.robnugen.com/YRUU/sf/mikey_fwap_up.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/mikey_fwap_up.jpg" align=right width=100 height=80
+border=0></a> <a href="https://b.robnugen.com/YRUU/sf/mikey_fwap_down.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/mikey_fwap_down.jpg" align=right width=100
 height=80 border=0></a></p>
 
 <p>Given players seated as in the <a
-href="/images/YRUU/sf/sf_circle.jpg">example image above</a>, if the
+href="https://b.robnugen.com/YRUU/sf/sf_circle.jpg">example image above</a>, if the
 dictator has the Sacred Silent Football, the dictator could fwap the
 dictator's own right leg twice, sending the football two spaces to the
 dictator's right, in this case to Ben.</p>
@@ -202,8 +204,8 @@ Shaker")</p>
 
 <p><b>The Shrug:</b></p>
 
-<p><a href="/images/YRUU/sf/joan_shrug.jpg"><img
-src="/images/YRUU/sf/joan_shrug.jpg" border=0 height=80 width=100
+<p><a href="https://b.robnugen.com/YRUU/sf/joan_shrug.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/joan_shrug.jpg" border=0 height=80 width=100
 align=left></a>
 The first defensive move is the Shrug.  It's performed simply by
 shrugging one's own shoulders.  The Shrug refuses the football
@@ -213,8 +215,8 @@ that was Fwapped or Zoomed to the player.</p>
 
 <p><b>The Shrodem:</b></p>
 
-<p><a href="/images/YRUU/sf/josephine_shrodem.jpg"><img
-src="/images/YRUU/sf/josephine_shrodem.jpg" border=0 height=80
+<p><a href="https://b.robnugen.com/YRUU/sf/josephine_shrodem.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/josephine_shrodem.jpg" border=0 height=80
 width=100 align=left></a> The other defensive move is much more
 elegant than the Shrug and should only be performed in a most
 dignified manner by the most dignified of players.  Also, it has a
@@ -234,8 +236,8 @@ eternity.  Plus, that player will immediately lose.</p>
 
 <p><b>Rules - Discussion:</b></p>
 
-<p><a href="/images/YRUU/sf/tattling.jpg"><img
-src="/images/YRUU/sf/tattling.jpg" border=0 width=100 height=80
+<p><a href="https://b.robnugen.com/YRUU/sf/tattling.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/tattling.jpg" border=0 width=100 height=80
 align=left></a> If a player happens to make an error during motion of
 the Sacred Silent Football, or speaks out of turn, hallucinates some
 non-existent entity, or performs some unnecessary motion (such as
@@ -366,8 +368,8 @@ be quite entertaining!  (Nick Carter came up with this rule in about
 
 <p><b>Rules - Etcetera:</b></p>
 
-<p><a href="/images/YRUU/sf/bathroom_signal.jpg"><img
-src="/images/YRUU/sf/bathroom_signal.jpg" border=0 width=100 height=80
+<p><a href="https://b.robnugen.com/YRUU/sf/bathroom_signal.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/bathroom_signal.jpg" border=0 width=100 height=80
 align=left></a> If a player must visit the restroom, that player may
 use the restroom signal: waving their raised hand.  The Dictator will
 simply nod and that person can get up.  At the Dictator's discretion,
@@ -382,8 +384,8 @@ Scott play guitar and sing each time he tattled.  And the time Madame
 Dictator Mimi La Valley made a player lie on his stomach during the
 motion and discussion.]</p>
 
-<p><a href="/images/YRUU/sf/customary_tip_o_the_hat.jpg"><img
-src="/images/YRUU/sf/customary_tip_o_the_hat.jpg" border=0 height=80
+<p><a href="https://b.robnugen.com/YRUU/sf/customary_tip_o_the_hat.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/customary_tip_o_the_hat.jpg" border=0 height=80
 width=100 align=left></a> When the Dictator is ready to begin the
 game, or to shift from discussion back to motion of the Sacred Silent
 Football, the Dictator simply says, "Customary Tip of the Hat," after
@@ -393,8 +395,8 @@ and may not be brought up again.  Only the penance points remain. The
 Dictator may Tip The Hat at anytime. Evil Dictators may do this to
 prevent the Dictator from being tattled upon for an error.</p>
 
-<p><a href="/images/YRUU/sf/customary_shroop.jpg"><img
-src="/images/YRUU/sf/customary_shroop.jpg" border=0 height=80
+<p><a href="https://b.robnugen.com/YRUU/sf/customary_shroop.jpg"><img
+src="https://b.robnugen.com/YRUU/sf/customary_shroop.jpg" border=0 height=80
 width=100 align=left></a> Then, "Customary Shroop," after which
 everyone repeats "Shroop" and takes an imaginary drink from an
 imaginary cup, mug, stein, forty ounce, barrel, or maybe a real
