@@ -1,8 +1,9 @@
 ---
 title: "Silent Football Rules"
+url: "/yruu/sf/"
 tags: [ "sf" ]
 author: Rob Nugen
-date: 2019-11-03T15:38:44+09:00
+date: 2006-07-03T15:38:44+09:00
 ---
 
 <h1>Silent Football</h1>
@@ -411,5 +412,5 @@ ball to someone, beginning the Sacred Silent Football motion.</p>
 Football.</p>
 
 <p>But, the Southwest District has a <a
-href="wormholes_etc.shtml">whole new world of rules</a> that we've
+href="wormholes_etc">whole new world of rules</a> that we've
 enjoyed since SWUUSI 2001.</p>

@@ -1,7 +1,12 @@
-<head>
-<title>Silent Football Rules</title>
-</head>
-<!--#include virtual="/cgi-bin/draw_navigation_for_static_pages.pl?0main&1yruu&2sf&wormholes" -->
+---
+title: "Wormholes, Blackholes, and Parallel Universes"
+tags: [ "sf" ]
+author: Rob Nugen
+alias: [
+"/yruu/sf/wormholes_etc.shtml",
+]
+date: 2006-07-03T15:38:44+09:00
+---
 
 <h1>Wormholes, Blackholes, & Parallel Universes</h1>
 
