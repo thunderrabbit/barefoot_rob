@@ -5,9 +5,6 @@ author: Rob Nugen
 date: 2019-11-03T15:38:44+09:00
 ---
 
-<! Rob, when this is complete, email "Ashleigh Carter" ashleighjcarter@yahoo.com>
-<! and Nick Carter >
-
 <h1>Silent Football</h1>
 <h2>Southwest District Rules</h2>
 
