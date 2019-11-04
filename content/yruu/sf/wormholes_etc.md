@@ -5,6 +5,7 @@ author: Rob Nugen
 alias: [
 "/yruu/sf/wormholes_etc.shtml",
 ]
+draft: true
 date: 2006-07-03T15:38:44+09:00
 ---
 
