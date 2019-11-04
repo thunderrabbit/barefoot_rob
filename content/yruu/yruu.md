@@ -1,9 +1,11 @@
-<head>
-<title>Why I love YRUU</title>
-</head>
-<!--#include virtual="/cgi-bin/draw_navigation_for_static_pages.pl?0main&1yruu&NO_SELECTION" -->
+---
+title: "why I love YRUU"
+tags: [ "yruu" ]
+author: Rob Nugen
+date: 2003-08-08T15:38:44+09:00
+---
 
-<h1>YRUU</h1>
+## YRUU
 
 <p>During high school I was really shy and definitely not part of the
 popular crowd.  I had some friends, but not tons.</p>

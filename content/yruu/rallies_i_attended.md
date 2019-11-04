@@ -1,4 +1,9 @@
-<!--#include virtual="/cgi-bin/draw_navigation_for_static_pages.pl?0main&1yruu&attended" -->
+---
+title: "Rallies and cons I attended"
+tags: [ "yruu" ]
+author: Rob Nugen
+date: 2003-01-23T15:38:44+09:00
+---
 <pre>   
 R  S C G o Youth Council: 2  1999 (Iowa) and 2000 (Virginia)
 a  W o A t 
@@ -89,39 +94,29 @@ Y9         Dallas 9-11 February 1990
 46         Tulsa  Sept 2002
 <!           missed San Antonio because of the Marta situation >
 47         Houston January 2003 
-
-<!--
-I gotta know what a five dollar shake tastes like.
-I don't think Buddy Holly is much of a waiter.
-I don't see Jayne Mansfield; she must have the night off or somethin'.
-You seem like a really nice person and I don't want to offend you.
-They talk a lot don't they?
-I do believe Marsellus, my husband, your boss told you to take me out and do whatever I wanted.
-That's a little bit more information than I needed, Vince, but go right ahead.
-Don't be rude; drink your drink, but do it quickly.
-Are you talking to me on a cellular phone?
-Do you know who Marsellus Wallace is?
-Alright, what I need is a big fat magic marker.
-If you're alright, say something.
-What's your thoughts on how to handle this?
-Now if you excuse me, I'm gonna go home and have a heart attack.
-No, you won't laugh cause it's not funny.
-It's time, Butch.
-Great.  I never thanked you for dinner.
-The name is spanish, but I am columbian.
-Let's talk about the rich and prosperous Mister Butch.
-Keep the light off.
-You know what, I was thinking about taking a shower; I'm stinking like a dog over here.
-but it ain't gonna be the kinda money that we can live like hogs in the fat house forever.
--->
 </pre>
 
+Quotes I didn't use, but had queued up here:
 
-
-
-
-
-
-
-
-
+* I gotta know what a five dollar shake tastes like.
+* I don't think Buddy Holly is much of a waiter.
+* I don't see Jayne Mansfield; she must have the night off or somethin'.
+* You seem like a really nice person and I don't want to offend you.
+* They talk a lot don't they?
+* I do believe Marsellus, my husband, your boss told you to take me out and do whatever I wanted.
+* That's a little bit more information than I needed, Vince, but go right ahead.
+* Don't be rude; drink your drink, but do it quickly.
+* Are you talking to me on a cellular phone?
+* Do you know who Marsellus Wallace is?
+* Alright, what I need is a big fat magic marker.
+* If you're alright, say something.
+* What's your thoughts on how to handle this?
+* Now if you excuse me, I'm gonna go home and have a heart attack.
+* No, you won't laugh cause it's not funny.
+* It's time, Butch.
+* Great.  I never thanked you for dinner.
+* The name is spanish, but I am columbian.
+* Let's talk about the rich and prosperous Mister Butch.
+* Keep the light off.
+* You know what, I was thinking about taking a shower; I'm stinking like a dog over here.
+* but it ain't gonna be the kinda money that we can live like hogs in the fat house forever.
