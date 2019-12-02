@@ -7,6 +7,18 @@ author: Rob Nugen
 date: 2019-11-28T09:08:24+09:00
 ---
 
+## Inner Space Set
+
+https://art.robnugen.com/iss09
+
+These are colorized versions of 10,000x zoom electron microscope scans of a space from the back of my brain.
+
+This is my first "set" of pieces, drawn for my second art show (14,15 March 2009) at ELF in Tachikawa. Each piece is 12cm by 13.6cm. (4.7 x 5.3 inches)
+
+These are the first to have http://robnugen.com/art written on the back, which has a link to the art section of my wiki.
+
+## background
+
 (written 09:08 Thursday 28 November 2019 JST)
 
 I found my old art in a box in my closet.  I knew it was there, but I
@@ -30,4 +42,3 @@ and they have a shortlink on art.robnugen.com
 https://art.robnugen.com/iss09
 
 More at https://www.robnugen.com/journal/2019/11/28/found-my-old-art/
-
