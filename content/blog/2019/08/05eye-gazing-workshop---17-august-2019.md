@@ -46,3 +46,22 @@ plan went through a few iterations, with support from [Georgie](https://www.face
 Location: between Shibuya and Shinsen stations on Dogenzaka
 
 Email me at rob **α𝐭** robnugen.com to RSVP and get the address.
+
+##### Saturday 17 August 2019
+
+Workshop success!
+
+One woman said "now I know who I am."
+
+KF said:
+
+    2人1組になり、ペアを組んだ相手の目を見続け、その観察の結果を参加者
+    同士でシェアするユニークなワークショップは、多くの気づきと学びがあ
+    り、自身のその日の状態をより良く知り、心のメンテナンスができた貴重
+    な機会となった。
+
+    A unique workshop in which two people form a pair, keep an eye on
+    the paired opponents, and share the results of the observation
+    among the participants, have a lot of awareness and learning, and
+    improve the status of their day. It was a valuable opportunity to
+    know and maintain my mind.   (translation by Google)
