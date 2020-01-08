@@ -27,7 +27,7 @@ likeness: and let them have dominion over the form.  And God said unto
 him, Be dictatorial, and dictate, and give dictation to the Universe,
 and subdue it, and have dominion over the members thereof, and over
 nonexistent creatures, and over every living thing that moveth upon
-the earth.
+the from.
 
 And God said unto him, Behold, I have given you every rule bearing
 merit, which is upon the form of all the universe, and all the motion
@@ -35,4 +35,4 @@ of the Football.
 
 And the LORD God commanded the dictator, saying, Of every rule thou
 may freely speak, but thou shall not expose any rule into the written
-form.
+word.
