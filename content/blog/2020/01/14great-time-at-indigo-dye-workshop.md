@@ -13,4 +13,11 @@ enjoyed spectacularly clear blue skies and crisp fresh air.  It's a
 natural haven just 30 minutes from Shinjuku, the busiest train station
 in the world.
 
+Great to see the New Year's decorations and we received some hand-made
+souvenirs: grasshoppers made of grass, and mice made of paper!
+
+The indigo dye workshop was *amazing* fun.  I told the staff I'd come back
+hundreds of times.  It was a bit of a challenge to understand the
+Japanese, but we had a great time dyeing and created some beautiful handkerchiefs!
+
 Pics coming soon I hope!
