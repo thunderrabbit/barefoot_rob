@@ -3,7 +3,7 @@ title: "Great Past Lives Memories workshop"
 tags: [ "sach", "yuna", "asuka", "workshop" ]
 categories: [ "blog" ]
 author: Rob Nugen
-draft: true
+draft: false
 date: 2020-01-13T21:41:44+09:00
 ---
 

@@ -3,7 +3,7 @@ title: "Hot tears are relaxing"
 tags: [ "tears", "sadness", "relaxation", "emotions" ]
 categories: [ "blog" ]
 author: Rob Nugen
-draft: true
+draft: false
 date: 2020-01-14T18:07:41+09:00
 ---
 

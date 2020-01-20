@@ -3,7 +3,7 @@ title: "Great time at indigo dye workshop"
 tags: [ "first", "ma", "madeleine", "indigo", "dye", "art" ]
 categories: [ "blog" ]
 author: Rob Nugen
-draft: true
+draft: false
 date: 2020-01-14T01:01:17+09:00
 ---
 
