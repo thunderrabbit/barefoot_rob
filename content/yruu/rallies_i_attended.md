@@ -115,7 +115,7 @@ Quotes I didn't use, but had queued up here:
 * No, you won't laugh cause it's not funny.
 * It's time, Butch.
 * Great.  I never thanked you for dinner.
-* The name is spanish, but I am columbian.
+* The name is Spanish, but I am Colombian.
 * Let's talk about the rich and prosperous Mister Butch.
 * Keep the light off.
 * You know what, I was thinking about taking a shower; I'm stinking like a dog over here.

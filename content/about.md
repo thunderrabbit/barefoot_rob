@@ -11,7 +11,7 @@ I conduct workshops and meetings aimed at connecting people to themselves and ot
 
 For the past four years, I have been running a men’s peer counseling group in Tokyo. I have also been conducting barefoot walking and eye gazing workshops in both Tokyo and Kanagawa. I am also currently training towards certification in shadow work. This process aims to put people more in touch with the more difficult aspects of themselves.
 
-As a 16-year resident in Kanagawa, I am fully aware of both the joys and pitfalls of life in Japan. In the rut of work, relationships, and other commitments, it is easy to feel cut off, isolated, and eager to find something more meaningful.
+As a 17-year resident in Kanagawa, I am fully aware of both the joys and pitfalls of life in Japan. In the rut of work, relationships, and other commitments, it is easy to feel cut off, isolated, and eager to find something more meaningful.
 
 My experience in counseling and facilitation work includes:
 
