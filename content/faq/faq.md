@@ -8,12 +8,16 @@ date: 2020-02-11T15:38:44+09:00
 
 ### Why is Rob Barefoot?
 
-Rob is barefoot because he likes to be barefoot. He has spent 17 years of his life this way. Rob was embarrassed at first and can remember curling his toes to try to hide the fact that he was barefoot in a public setting.
+Barefooting is a way of life.  Being barefoot allows connecting to myself and the world around me.
+It's more than just taking off shoes and walking.  The new sensations bring my focus to the present moment.  I have to be more aware of what's around me.  More grounded in lives and energy.
 
-    “I encourage people to not worry so much and just do what they want to do.
-    Me being barefoot is not hurting anyone else and I enjoy it, so I choose to stay barefoot.
+You don't have to go barefoot, but you are welcome to try it out if you like!
+
+    “I encourage people to just do what they want to do.
 
     Do you like to wear hats?  Wear hats.  Do you like to sing? Sing. 
+
     Don’t let embarrassment or public stigmas stop you from feeling joy.
     If you are not hurting anyone else and it brings you happiness, then go for it.”
+
     - Rob
