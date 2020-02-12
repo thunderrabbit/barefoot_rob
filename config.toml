@@ -1,4 +1,5 @@
-baseURL = "https://www.robnugen.com/"
+#baseURL = "https://www.robnugen.com/"
+baseURL = "https://about--www-robnugen-com.netlify.com/"
 languageCode = "en-us"
 title = "Barefoot Rob"
 theme = ["purehugo-augmentation", "purehugo" ]
