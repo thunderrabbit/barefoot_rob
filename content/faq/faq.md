@@ -15,9 +15,11 @@ You don't have to go barefoot, but you are welcome to try it out if you like!
 
     “I encourage people to just do what they want to do.
 
-    Do you like to wear hats?  Wear hats.  Do you like to sing? Sing. 
+    Do you like to wear hats?  Wear hats.  Do you like to sing? Sing.
 
     Don’t let embarrassment or public stigmas stop you from feeling joy.
     If you are not hurting anyone else and it brings you happiness, then go for it.”
 
     - Rob
+
+Have another question?  [Feel free to ask!](/contact)
