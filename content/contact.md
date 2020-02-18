@@ -4,26 +4,20 @@ tags: [ "barefoot rob", "contact" ]
 date: 2020-02-10T15:38:44+09:00
 ---
 
-
-<h1>Contact</h1>
 <form name="contact" netlify>
-<div class="form_description">
-    <h2>Contact</h2>
-</div>
-
 <label class="description" for="name">Name </label>
 <div>
-    <input id="name" name="name" type="text" maxlength="255" value="" />
+<input id="name" name="name" type="text" maxlength="255" value="" />
 </div>
 
 <label class="description" for="email">Email </label>
 <div>
-    <input id="email" name="email" type="text" maxlength="255" value="" />
+<input id="email" name="email" type="text" maxlength="255" value="" />
 </div>
 
 <label class="description" for="inquiry">Inquiry </label>
 <div>
-    <textarea id="inquiry" name="inquiry"></textarea>
+<textarea id="inquiry" name="inquiry"></textarea>
 </div>
 
 <label class="description" for="informed">Keep informed </label>
@@ -39,6 +33,6 @@ date: 2020-02-10T15:38:44+09:00
 
 </span>
 
-    <input id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
+<input id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
 
 </form>
