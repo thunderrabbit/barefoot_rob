@@ -4,58 +4,41 @@ tags: [ "barefoot rob", "contact" ]
 date: 2020-02-10T15:38:44+09:00
 ---
 
-<form name="contact" netlify>
-  <p>
-    <label>Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
 
 <h1>Contact</h1>
 <form name="contact" netlify>
-      <div class="form_description">
-  <h2>Contact</h2>
-</div>						
-  <ul>
-
-<label class="description" for="element_1">Name </label>
-<div>
-  <input id="element_1" name="element_1" class="element text medium" type="text" maxlength="255" value=""/>
+<div class="form_description">
+    <h2>Contact</h2>
 </div>
 
-<label class="description" for="element_2">Email </label>
+<label class="description" for="name">Name </label>
 <div>
-  <input id="element_2" name="element_2" class="element text medium" type="text" maxlength="255" value=""/>
+    <input id="name" name="name" type="text" maxlength="255" value="" />
 </div>
 
-<label class="description" for="element_3">Inquiry </label>
+<label class="description" for="email">Email </label>
 <div>
-  <textarea id="element_3" name="element_3" class="element textarea medium"></textarea>
+    <input id="email" name="email" type="text" maxlength="255" value="" />
 </div>
 
-<label class="description" for="element_4">Keep informed </label>
+<label class="description" for="inquiry">Inquiry </label>
+<div>
+    <textarea id="inquiry" name="inquiry"></textarea>
+</div>
+
+<label class="description" for="informed">Keep informed </label>
 <span>
-  <input id="element_4_1" name="element_4_1" class="element checkbox" type="checkbox" value="1" />
-<label class="choice" for="element_4_1">Via email</label>
-<input id="element_4_2" name="element_4_2" class="element checkbox" type="checkbox" value="1" />
-<label class="choice" for="element_4_2">Via LINE</label>
-<input id="element_4_3" name="element_4_3" class="element checkbox" type="checkbox" value="1" />
-<label class="choice" for="element_4_3">Via Facebook</label>
-<input id="element_4_4" name="element_4_4" class="element checkbox" type="checkbox" value="1" />
-<label class="choice" for="element_4_4">Via Meetup</label>
+<input id="informed_email" name="informed_email" type="checkbox" value="email" />
+<label for="informed_email">Via email</label>
+<input id="informed_line" name="informed_line" type="checkbox" value="line" />
+<label for="informed_line">Via LINE</label>
+<input id="informed_facebook" name="informed_facebook" type="checkbox" value="facebook" />
+<label for="informed_facebook">Via Facebook</label>
+<input id="informed_meetup" name="informed_meetup" type="checkbox" value="meetup" />
+<label for="informed_meetup">Via Meetup</label>
 
-</span><p class="guidelines" id="guide_4"><small>Enter username information in Inquiry field</small></p>
-
-
-      <li class="buttons">
-      <input type="hidden" name="form_id" value="99471" />
+</span>
 
     <input id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
-</li>
-  </ul>
+
 </form>
