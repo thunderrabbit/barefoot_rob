@@ -4,6 +4,10 @@ tags: [ "barefoot rob", "contact" ]
 date: 2020-02-10T15:38:44+09:00
 ---
 
+You can keep up with our upcoming workshops and events on [meetup.com Tokyo Sol](https://www.meetup.com/Tokyo-Sol-barefoot-more/) or [Barefoot Rob on Facebook](https://www.facebook.com/barefootrob/events)
+
+Interested in 1-on-1 sessions or attending events not listed above?  Feel free to get in touch below:
+
 <form class="pure-form pure-form-stacked" name="contact" method="POST" netlify-honeypot="age" data-netlify="true">
 
 <div>
