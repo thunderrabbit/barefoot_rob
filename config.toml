@@ -6,7 +6,7 @@ theme = ["purehugo-augmentation", "purehugo" ]
 [markup.goldmark.renderer]
 unsafe= true
 [params]
-    mainSections = ["blog"]
+    mainSections = ["about"]
   	author = "Rob Nugen"
 	twitter = "thunderrabbit"
 	github = "thunderrabbit"
