@@ -25,6 +25,8 @@ relaxed after a nice cry.  I don't have to hold all those emotions in.
 Tomorrow will be a new day as I head back to work, but for today just
 cry and cry like no one's looking.
 
+I hope you can allow yourself to cry if you need to.
+
 ##### 21:35 same day
 
 On this same subject I had a great cry in my men's group today.  Tears
@@ -32,4 +34,3 @@ gushing, sobbing, deep gasping breaths.  Gratitude for the men
 supporting me.
 
 https://www.mkpjapan.org/
-

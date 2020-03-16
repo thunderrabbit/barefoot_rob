@@ -42,13 +42,15 @@ We visited the nearby art museum as well.
 
 [![2020 jan sitting on hands](//b.robnugen.com/journal/2020/thumbs/2020_jan_sitting_on_hands.jpg)](//b.robnugen.com/journal/2020/2020_jan_sitting_on_hands.jpg)
 
-5. Jan 13th: Great Past Lives Memories workshop with three participants. 
+5. Jan 13th: Great Past Lives Memories workshop with three participants.
 
 6. Jan 25th: Yuna and I will be hosting a coffee + chat meetup on January 25th.  Already 4 people have said they will attend!   https://www.meetup.com/English-coffee-more/events/267921145/
 
 In other news, for the past few days, my productive streak seems to have waned; I have not been doing my morning routine to start the day.  I felt shame and sadness at my inability to speak Japanese well enough at a meeting on Saturday.
 
 Fortunately, I got to reset my brain and emotional state yesterday at SOGO's weekly workout in Yoyogi, then reconnected with Lin on Sunday afternoon.
+
+How do you reset your brain?  Email me at rob **α𝐭** robnugen.com or [send a comment](https://www.robnugen.com/contact/)
 
 Thank you for your love and support.
 
