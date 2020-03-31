@@ -33,9 +33,7 @@ https://www.meetup.com/Tokyo-Sol-barefoot-more/events/269596009/
 * grounding
 * ground rules
 * You are the hero of your own life.
-* As the hero, you live and play at choice, YOU make things happen in your life.
-* You live, explore, work, play, lead, ultimately create and build your community
-* So in building community let's see how similar we are or not
+* As the hero, let's see how similar we are or not
 * Anybody Else?
 * check in high and low
 * How are you feeling during this coronadventure?
