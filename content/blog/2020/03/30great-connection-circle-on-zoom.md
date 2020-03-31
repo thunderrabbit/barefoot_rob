@@ -33,4 +33,4 @@ what we did.
 * Check out
 
 Join our upcoming events via
-[Tokyo Sol](https://www.meetup.com/Tokyo-Sol-barefoot-more/) on Meetup!
+[Tokyo Sōl](https://www.meetup.com/Tokyo-Sol-barefoot-more/) on Meetup!
