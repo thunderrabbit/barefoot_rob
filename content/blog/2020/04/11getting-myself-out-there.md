@@ -3,7 +3,6 @@ title: "getting myself out there"
 tags: [ "newsletter", "blog" ]
 categories: [ "blog" ]
 author: Rob Nugen
-draft: true
 date: 2020-04-11T04:53:24+09:00
 ---
 
