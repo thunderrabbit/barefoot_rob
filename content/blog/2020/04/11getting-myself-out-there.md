@@ -20,7 +20,7 @@ planned at the beginning of the year.  I have not added all of them on
 my events are nestled in my friend Oren's
 [Quarantine Activity Guide](https://mysideline.co/qag/2020-04/).
 
-In my most recent newsletter, I wrote the following:
+In my [most recent newsletter](/blog/2020/03/03/marching-right-along/), I wrote the following:
  
     A huge part of this business is "getting myself out there" which I
     hate with a passion.  I just want to stay holed up ... not facing
