@@ -6,7 +6,7 @@ author: Rob Nugen
 date: 2020-04-10T14:01:57+09:00
 ---
 
-I enjoyed leading the first Conneciton Circle on a Friday morning, as
+I enjoyed leading the first Connection Circle on a Friday morning, as
 part of Oren's
 [Quarantine Activity Guide for April 2020](https://mysideline.co/qag/2020-04/).
 This was the fourth or so time I have led the workshop, and great to
