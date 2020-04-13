@@ -44,8 +44,6 @@ can start by sending the following to you, my favorite peeps.
 **drumroll** Now presenting....
 
 my first Market Research Survey questions, designed to help me understand how to best support my clients!
- 
-
 	
 1. How would you describe your current work situation?	
 2. How is the atmosphere or energy at your workplace?	
@@ -58,7 +56,22 @@ my first Market Research Survey questions, designed to help me understand how to
 8. What keeps you from making this change?
 9. If you could get any help making this change, what would it be?
 
- 
+(Edit to add: I have hired a business coach as an accountability buddy
+and one of the first tasks is to create a Market Research Survey and
+send to people who I think are in my niche of potential clients.
+
+I will keep the raw data to myself, and I hope to use the answers in
+aggregate to help plan my business promotion.  I personally will
+search the answers for recurring themes and refer to those themes
+(that I can address) in ad copy for my business.
+
+For example, if most people use the word boonfarkle in their
+description, I may use that word in my ad copy.  "Are you working in a
+boonfarkle?"    But I won't say or share "N% of people are working in
+a boonfarkle" (for any value of N).
+
+end edit)
+
 Tada!  If you send me your answers to the above questions, I will
 happily offer a one hour session to help you find your inner strength
 to make this change in your life!
