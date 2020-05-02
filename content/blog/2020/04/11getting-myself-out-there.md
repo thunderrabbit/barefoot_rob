@@ -1,7 +1,7 @@
 ---
 title: "getting myself out there"
 tags: [ "newsletter", "blog" ]
-categories: [ "blog" ]
+categories: [ "soml" ]
 author: Rob Nugen
 date: 2020-04-11T04:53:24+09:00
 ---
@@ -79,7 +79,7 @@ to make this change in your life!
 As we are in a midst of pandemic-powered global change, let's bring
 your authentic self to the world!  Register for a discovery session on
 Calendly.
-[https://calendly.com/thunderrabbit](https://calendly.com/thunderrabbit)
+[https://calendly.com/robnugen](https://calendly.com/robnugen)
 
      love and light
      - Rob!

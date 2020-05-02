@@ -23,7 +23,7 @@ Interested in 1-on-1 sessions or attending other events?  Feel free to get in to
 
 <div>
     <label class="pure-form" for="email">
-        Email:
+        Email or other contact info:
         <input class="pure-form" id="email" size="50" name="email" type="text" maxlength="255" value="" />
     </label>
 </div>
