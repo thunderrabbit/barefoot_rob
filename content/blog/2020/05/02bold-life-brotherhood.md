@@ -1,7 +1,7 @@
 ---
 title: "Bold Life Brotherhood"
-tags: [ "bld", "blb", "first", "life", "men", "event" ]
-categories: [ "blog" ]
+tags: [ "blb", "first", "life", "men", "event" ]
+categories: [ "blb" ]
 author: Rob Nugen
 date: 2020-05-02T14:23:00+09:00
 ---
@@ -47,7 +47,7 @@ protecting your family from harm, your energy would be sharp, focused,
 and fierce (Warrior energy). It’s that simple. The key is knowing
 which kind of energy to bring to which situation.
 
-### Costs for four meetings each month ###
+### Costs (for four meetings each month) ###
 
 * 10,000 yen per month 
 * 50,000 yen for 6 months
