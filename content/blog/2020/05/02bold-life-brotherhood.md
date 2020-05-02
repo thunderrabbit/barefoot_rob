@@ -52,7 +52,7 @@ which kind of energy to bring to which situation.
 * 10,000 yen per month 
 * 50,000 yen for 6 months
 
-I want to get to know who is coming to the circle, so email or
+I want to get to know who is coming to the circle, so email rob A<span>T</span>　robnugen.com or
 [contact](/contact/) me, or
 [let's talk on zoom](https://calendly.com/robnugen)
 
