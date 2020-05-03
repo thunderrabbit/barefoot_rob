@@ -18,7 +18,7 @@ date: 2020-05-02T14:23:00+09:00
 
 * Monday nights, 7pm Japan time (UTC+9). 
 * For men ready for more in life
-* Email or [contact](/contact/) me to book your place
+* Email rob at this domian or [contact](/contact/) me to book your place
 
 ### This support group will help you to: ###
 
