@@ -58,6 +58,8 @@ which kind of energy to bring to which situation.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+Unsubscribe anytime.
+
 Questions are welcome at rob A<span>T</span>　robnugen.com or via the
 [contact](/contact/) form.
 
