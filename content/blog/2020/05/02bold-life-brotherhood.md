@@ -18,7 +18,7 @@ date: 2020-05-02T14:23:00+09:00
 
 * Monday nights, 7pm Japan time (UTC+9). 
 * For men ready for more in life
-* Email rob at this domian or [contact](/contact/) me to book your place
+* Subscribe below to book your place
 
 ### This support group will help you to: ###
 
@@ -50,9 +50,14 @@ which kind of energy to bring to which situation.
 ### Costs (for four meetings each month) ###
 
 * 10,000 yen per month 
-* 50,000 yen for 6 months
 
-I want to get to know who is coming to the circle, so email rob A<span>T</span>　robnugen.com or
-[contact](/contact/) me, or
-[let's talk on zoom](https://calendly.com/robnugen)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="T32GVS6KMJFGC">
+<input type="image" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+Questions are welcome at rob A<span>T</span>　robnugen.com or via the
+[contact](/contact/) form.
 
