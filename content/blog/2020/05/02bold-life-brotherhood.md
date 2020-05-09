@@ -49,7 +49,7 @@ which kind of energy to bring to which situation.
 
 ### Costs (for four meetings each month) ###
 
-* 10,000 yen per month 
+* ¥10 000: four sessions per month
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
