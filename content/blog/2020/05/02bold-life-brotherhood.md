@@ -1,6 +1,6 @@
 ---
 title: "Bold Life Brotherhood"
-tags: [ "blb", "first", "life", "men", "event" ]
+tags: [ "blb", "bold", "purpose", "life", "men", "event" ]
 categories: [ "blb" ]
 author: Rob Nugen
 date: 2020-05-11T00:23:00+09:00
@@ -66,7 +66,6 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 *May focuses on __Life Purpose__*
 
-* Monday 11 May 2020
 * Monday 18 May 2020
 * Monday 25 May 2020
 
