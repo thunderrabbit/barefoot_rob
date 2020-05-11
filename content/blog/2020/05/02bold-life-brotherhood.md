@@ -47,9 +47,9 @@ which kind of energy to bring to which situation.
 
 ## Costs (for four meetings each month) ##
 
-First meeting is free, and you [must register](/contact/) to access the meeting.
+You are welcome to check out your first meeting free.  Simply [register](/bold-life-brotherhood/registration/) to access the meeting.
 
-* ¥10 000: four sessions per month
+* ¥10,000: four sessions per month
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

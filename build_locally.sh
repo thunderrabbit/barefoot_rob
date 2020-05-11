@@ -12,7 +12,10 @@ rm -rf content/journal/19*
 rm -rf content/journal/200*
 rm -rf content/journal/201*
 
-if [[ "$WANT_BROWSER" =~ ^[yY] ]]; then
+rm -rf content/public/*
+
+if [[ "$WANT_BROWSER" =~ ^[yY] ]]
+  then
     open http://localhost:1313/
 fi
 
