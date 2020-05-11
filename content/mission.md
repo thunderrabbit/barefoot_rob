@@ -15,4 +15,4 @@ We help keep people accountable while focusing their mission.
 Sometimes the going gets tough and staying on track with your mission becomes quite challenging.
 We keep you focused on your mission, your heart's desire.
 
-[Schedule your personal Mission here.](/contact)
+[Schedule a time to find your personal Mission.](https://calendly.com/robnugen)
