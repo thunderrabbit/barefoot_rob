@@ -1,7 +1,7 @@
 ---
 title: "Bold Life Brotherhood: Purpose - bringing bliss into life"
 tags: [ "blb", "purpose", "bliss" ]
-categories: [ "blog" ]
+categories: [ "blb" ]
 author: Rob Nugen
 date: 2020-05-11T21:42:01+09:00
 ---

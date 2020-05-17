@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Month of Purpose - Bold Life Brotherhood"
 tags: [ "blb", "purpose" ]
-categories: [ "blog" ]
+categories: [ "blb" ]
 author: Rob Nugen
 date: 2020-05-04T20:49:48+09:00
 ---
