@@ -22,10 +22,10 @@ schedule offered by the Covid Powered Pause.  My goal was to lead
 
 *Now*, as of May, nine+ per month!
 
-* Every Monday: Bold Life Brotherhood
-* Every Friday: Life Changing Life Adventures
+* Every Monday: [Bold Life Brotherhood](/bold-life-brotherhood/)
+* Every Friday: [Life Changing Life Adventures](https://www.facebook.com/events/233890734704408/)
   (co-lead with Rin)
-* mid-month: Your Art Matters (co-lead with Shinobu)
+* mid-month: [Your Art Matters](https://www.meetup.com/Tokyo-Sol-barefoot-more/events/270213405/) (co-lead with Shinobu)
 
 
 I used the quote at the top to remind myself: even as things seem to
@@ -38,7 +38,7 @@ I am distracted by N+1 things even as I write this newsletter, which
 (in early April) I hoped to write by May 5th so I could include the
 pun "Go Go!"
 
-On April 30th, I enjoyed having a chance to safely release some anger
+On April 30th, [I enjoyed having a chance to safely release some anger](/journal/2020/04/30/note-to-self-my-body-and-i-matter/)
 in my men's circle.  In the process, I dented my wooden desk.
 
 Afterward, I wrote in ink around the dent, "My body and I fucking
@@ -53,6 +53,6 @@ like, and take care of yourself first before others.
 Love and Light
 - Rob
 
-ps: I am pretty sure this newsletter is way shorter than the previous
+ps: I am pretty sure this [newsletter](https://tinyletter.com/barefootrob/letters/numbers-starting-to-roll-in) is way shorter than the previous
 ones and I am having some anxiety about that but I'm gonna send it
 anyway.
