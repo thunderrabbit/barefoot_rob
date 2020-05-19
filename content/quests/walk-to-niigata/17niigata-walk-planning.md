@@ -64,3 +64,9 @@ I mentioned that I want to pull a wagon.
 Bren, relaying some crowdsourced ideas of cool places to go:
 
     Aizu, https://www.echigo-tsumari.jp/en/, Mashiko, Eichigo Uzawa
+
+
+##### 09:28 Tuesday 19 May 2020 JST
+
+I considered incorporating this route, but it is longer and apparently
+higher..  https://walkjapan.com/tour/nagano-snow-country
