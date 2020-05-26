@@ -6,7 +6,7 @@ author: Rob Nugen
 date: 2020-05-11T00:23:00+09:00
 ---
 
-Ready to join the Bold Life?
+Ready to start your Bold Life?
 
 <form class="pure-form pure-form-stacked" name="contact" method="POST"
 netlify-honeypot="sage" data-netlify="true">
@@ -47,5 +47,3 @@ netlify-honeypot="sage" data-netlify="true">
 <input class="pure-form" id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
 
 </form>
-
-
