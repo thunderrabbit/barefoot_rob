@@ -11,10 +11,9 @@ date: 2020-05-11T00:23:00+09:00
 ### ⭕ TAKE ACTION ###
 ### ⭕ LIVE YOUR PASSIONS ###
 
- 
 ## Bold Life Brotherhood ##
 
-* Monday nights, 7pm Japan time (UTC+9). 
+* Monday nights, 7pm Japan time (UTC+9).
 * For men ready for more in life
 * Subscribe below to book your place
 
@@ -23,7 +22,7 @@ date: 2020-05-11T00:23:00+09:00
 * Focus on taking bold action in the world.
 * Surround yourself with a supportive community who keep you focused and accountable.
 * Live life at choice.
-* Be the hero of your own life 
+* Be the hero of your own life
 * Be the leader of your loving community.
 
 ## What is Bold Life Mastery? ##
@@ -64,11 +63,6 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-*May focuses on __Life Purpose__*
-
-* Monday 18 May 2020
-* Monday 25 May 2020
-
 *June focuses on __Rigor__*
 
 * Monday 1 June 2020
@@ -89,4 +83,3 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 Questions are welcome at rob (A<span>T</span>)robnugen.com or via the
 [contact](/contact/) form.
-
