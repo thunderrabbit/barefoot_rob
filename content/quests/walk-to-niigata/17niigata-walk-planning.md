@@ -9,7 +9,7 @@ draft: false
 This is my <del>first</del> <ins>second</ins> official journal entry
 for my walk to Niigata.  I have tagged it "niigata walk" and plan to
 have Hugo look for that tag when putting together a blog, possibly at
-[/quests/walk-to-niigata/](/quests/walk-to-niigata/) which currently
+[/quests/walk-to-niigata/](/quests/) which currently
 has a copy (hardlink on my local machine) to this file.
 
 I will almost certainly end up with a shorter domain pointing at the
