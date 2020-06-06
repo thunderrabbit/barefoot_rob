@@ -74,3 +74,11 @@ Write.  Call.  Join.  Leave.  Invite.  Ask.  Speak.  Share.  Meditate.
 Pray. Post.  Breathe.  We are all connected and all playing a part.
 
 Black Lives Matter.
+
+##### 23:49 Saturday 06 June 2020 JST
+
+*Plot Twist* (jump right to 1:54:18 for George Floyd info):
+
+{{< youtube qW5-srjuCbg >}}
+
+Props #youngpharaoh
