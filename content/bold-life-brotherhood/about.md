@@ -65,8 +65,6 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 *June focuses on __Rigor__*
 
-* Monday 1 June 2020
-* Monday 8 June 2020
 * Monday 15 June 2020
 * Monday 22 June 2020
 
