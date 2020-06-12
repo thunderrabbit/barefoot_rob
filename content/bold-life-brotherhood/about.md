@@ -70,7 +70,7 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 **(no meeting Monday 29 June 2020)**
 
-*July focuses on __Conquest__*
+*July's focus: __Connect__*
 
 * Monday 6 July 2020
 * Monday 13 July 2020
