@@ -1,0 +1,9 @@
+# thanks https://docs.php.earth/interop/atom/
+# created with apm list --installed --bare >> atom.packages.list
+# remove these lines then
+# apm install --packages-file atom.packages.list
+SFTP-deployment@1.0.2
+atom-keyboard-macros@0.12.1
+php-ide-serenata@5.3.0
+remote-edit-ni@3.6.0
+remote-sync@4.1.8
