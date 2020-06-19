@@ -39,14 +39,14 @@
                 </li>
                 {{ if .Site.Params.twitterName }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://twitter.com/{{ .Site.Params.twitterName }}">
+                    <a class="pure-button" rel="me" href="https://twitter.com/{{ .Site.Params.twitterName }}">
                         <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.githubName }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://github.com/{{ .Site.Params.githubName }}">
+                    <a class="pure-button" rel="me" href="https://github.com/{{ .Site.Params.githubName }}">
                         <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
                     </a>
                 </li>
