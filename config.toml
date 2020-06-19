@@ -9,8 +9,8 @@ unsafe= true
 [params]
     mainSections = ["blog"]
   	author = "Rob Nugen"
-	twitter = "thunderrabbit"
-	github = "thunderrabbit"
+	twitterName = "thunderrabbit"
+	githubName = "thunderrabbit"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
 	description = "keep pushing the limits"
