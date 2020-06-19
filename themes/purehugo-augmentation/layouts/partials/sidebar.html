@@ -7,34 +7,6 @@
 
         <nav class="nav">
             <ul class="nav-list">
-                {{ if .Site.Params.twitterName }}
-                <li class="nav-item">
-                    <a class="pure-button" href="https://twitter.com/{{ .Site.Params.twitterName }}">
-                        <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
-                    </a>
-                </li>
-                {{ end }}
-                {{ if .Site.Params.githubName }}
-                <li class="nav-item">
-                    <a class="pure-button" href="https://github.com/{{ .Site.Params.githubName }}">
-                        <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
-                    </a>
-                </li>
-                {{ end }}
-                {{ if .Site.Params.stackOverflowId }}
-                <li class="nav-item">
-                    <a class="pure-button" href="https://stackoverflow.com/u/{{ .Site.Params.stackOverflowId }}">
-                        <i class="fa fa-stack-overflow"></i>{{ if not .Site.Params.hideSidebarIconText }}Stack Overflow{{ end }}
-                    </a>
-                </li>
-                {{ end }}
-                {{ if .Site.Params.linkedinName }}
-                <li class="nav-item">
-                    <a class="pure-button" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
-                        <i class="fa fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
-                    </a>
-                </li>
-                {{ end }}
                 <li class="nav-item">
                     <a class="pure-button" href='/'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} home{{ end }}
@@ -65,6 +37,34 @@
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} faq{{ end }}
                     </a>
                 </li>
+                {{ if .Site.Params.twitterName }}
+                <li class="nav-item">
+                    <a class="pure-button" href="https://twitter.com/{{ .Site.Params.twitterName }}">
+                        <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
+                    </a>
+                </li>
+                {{ end }}
+                {{ if .Site.Params.githubName }}
+                <li class="nav-item">
+                    <a class="pure-button" href="https://github.com/{{ .Site.Params.githubName }}">
+                        <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
+                    </a>
+                </li>
+                {{ end }}
+                {{ if .Site.Params.stackOverflowId }}
+                <li class="nav-item">
+                    <a class="pure-button" href="https://stackoverflow.com/u/{{ .Site.Params.stackOverflowId }}">
+                        <i class="fa fa-stack-overflow"></i>{{ if not .Site.Params.hideSidebarIconText }}Stack Overflow{{ end }}
+                    </a>
+                </li>
+                {{ end }}
+                {{ if .Site.Params.linkedinName }}
+                <li class="nav-item">
+                    <a class="pure-button" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
+                        <i class="fa fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
+                    </a>
+                </li>
+                {{ end }}
                 <!-- li class="nav-item">
                     <a class="pure-button" href='{{ "index.xml" | absURL }}'>
                         <i class="fa fa-rss"></i>{{ if not .Site.Params.hideSidebarIconText }} rss{{ end }}
