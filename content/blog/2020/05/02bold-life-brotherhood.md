@@ -63,11 +63,8 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-*June focuses on __Rigor__*
 
-* Monday 22 June 2020
-
-**(no meeting Monday 29 June 2020)**
+* Monday 29 June 2020 games night!
 
 *July focuses on __Connection__*
 
