@@ -68,10 +68,10 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 *July focuses on __Connection__*
 
-* Monday 6 July 2020
-* Monday 13 July 2020
-* Monday 20 July 2020
-* Monday 27 July 2020
+* Monday 6 July 2020 Connect with your Body
+* Monday 13 July 2020 Connect with the Moment
+* Monday 20 July 2020 Connect with the Other
+* Monday 27 July 2020 Connect with your Context
 
 ## Questions ##
 
