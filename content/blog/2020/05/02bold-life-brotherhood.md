@@ -64,7 +64,7 @@ Unsubscribe anytime.
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 
-* Monday 29 June 2020 games night!
+* Monday 29 June 2020 games night!  https://boardgamearena.com/
 
 *July focuses on __Connection__*
 
