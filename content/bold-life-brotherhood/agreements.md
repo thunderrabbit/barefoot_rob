@@ -22,7 +22,7 @@ course of action for myself.
 5. I agree to completely assume the risk and responsibility for
 any injuries or damages suffered by me arising out of my participation in all The Bold
 Life Brotherhood&trade; events.
-6.I understand that The Bold Life Brotherhood&trade; is not
+6. I understand that The Bold Life Brotherhood&trade; is not
 therapeutic in design or claim, nor is not a substitute for medical treatment,
 psychotherapy, or any state-certified health program.
 7. The Bold Life Brotherhood&trade;
@@ -40,7 +40,7 @@ injury or death.
 ### Guidelines ###
 
 1. No drugs or alcohol. If you are high or have been drinking, tell the group. Honor this sacred space.
-2. We do our best to use I Statements, not You/We statements. When we take responsibility for our language we can take responsibility for ourselves. 
+2. We do our best to use I Statements, not You/We statements. When we take responsibility for our language we can take responsibility for ourselves.
 3. Ask another man before you give feedback. He may say no.
-4. Feedback is a reflection on what you heard/saw/felt, and is focused on the man who is sharing. Opinions and Advice are only given if requested. 
+4. Feedback is a reflection on what you heard/saw/felt, and is focused on the man who is sharing. Opinions and Advice are only given if requested.
 5. Let the circle leader know if you cannot arrive on time.
