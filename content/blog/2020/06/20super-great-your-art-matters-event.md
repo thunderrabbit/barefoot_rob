@@ -21,3 +21,4 @@ And someone didn't take a single photo!
 Here is my custom made soldering iron stand, made out of a single
 piece of wire.
 
+[![2020 june single piece of wire new holder with cage](//b.robnugen.com/art/wire/hello_world/thumbs/2020_june_single_piece_of_wire_new_holder_with_cage.jpg)](//b.robnugen.com/art/wire/hello_world/2020_june_single_piece_of_wire_new_holder_with_cage.jpg)
