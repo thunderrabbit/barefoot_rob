@@ -63,15 +63,19 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-
-* Monday 29 June 2020 games night!  https://boardgamearena.com/
-
 *July focuses on __Connection__*
 
 * Monday 6 July 2020 Connect with your Body
 * Monday 13 July 2020 Connect with the Moment
 * Monday 20 July 2020 Connect with the Other
 * Monday 27 July 2020 Connect with your Context
+
+*August focuses on __Intimacy__*
+
+* Monday 3 August 2020
+* Monday 10 August 2020
+* Monday 17 August 2020
+* Monday 24 August 2020
 
 ## Questions ##
 
