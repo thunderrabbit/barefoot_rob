@@ -1,5 +1,5 @@
 ---
-title: "Walked yesterday and today"
+title: "Day by day plans coming together"
 tags: [ "walk", "quest", "niigata walk" ]
 author: Rob Nugen
 date: 2020-07-02T16:32:01+09:00
