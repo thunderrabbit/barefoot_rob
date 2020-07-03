@@ -43,9 +43,9 @@ Hopefully play in water park
 
 Eat ice cream!
 
-* [April 16th afternoon, walk from Strawberry Garden to BBQ Camp](https://www.plotaroute.com/route/1191394?units=km)
+* [April 16th afternoon, walk from Strawberry Garden to BBQ Camp](https://www.plotaroute.com/route/1191395?units=km)
 
-[![2020 july plan for 16 April 2020 pm](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-july/thumbs/2020_july_plan_for_16_April_2020_pm.png)](https://www.plotaroute.com/route/1191394?units=km)
+[![2020 july plan for 16 April 2020 pm](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-july/thumbs/2020_july_plan_for_16_April_2020_pm.png)](https://www.plotaroute.com/route/1191395?units=km)
 
 Hopefully meet people willing to share some food!
 
