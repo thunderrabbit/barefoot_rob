@@ -39,4 +39,4 @@ Google maps API allows "only" 20 waypoints on a map.
 
 ##### 06:34 Saturday 04 July 2020 JST
 
-[This entry has been updated](https://www.robnugen.com/quests/walk-to-niigata/2020/07/02day_by_day_plans_coming_together/)! https://www.robnugen.com/quests/walk-to-niigata/2020/07/02day_by_day_plans_coming_together/
+[This entry has been updated](https://www.robnugen.com/quests/walk-to-niigata/2020/07/02day_by_day_plans_coming_together/)!
