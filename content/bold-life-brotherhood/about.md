@@ -65,7 +65,7 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 *July focuses on __Connection__*
 
-* Monday 6 July 2020 Connect with your Body
+* Monday 6 July 2020 [Connect with the Body](/blog/2020/07/06/bold-life-brotherhood-connection-1-body/)
 * Monday 13 July 2020 Connect with the Moment
 * Monday 20 July 2020 Connect with the Other
 * Monday 27 July 2020 Connect with your Context
