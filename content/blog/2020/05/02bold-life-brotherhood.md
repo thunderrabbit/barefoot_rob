@@ -3,7 +3,7 @@ title: "Bold Life Brotherhood"
 tags: [ "blb", "bold", "purpose", "life", "men", "event" ]
 categories: [ "blb" ]
 author: Rob Nugen
-date: 2020-05-11T00:23:00+09:00
+date: 2020-07-13T09:25:00+09:00
 ---
 
 ### ⭕ BUILD LEADERSHIP ###
@@ -66,7 +66,7 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 *July focuses on __Connection__*
 
 * Monday 6 July 2020 [Connect with the Body](/blog/2020/07/06/bold-life-brotherhood-connection-1-body/)
-* Monday 13 July 2020 Connect with the Moment
+* Monday 13 July 2020 [Connect with the Now](/blog/2020/07/13/bold-life-brotherhood-connection-2-now/)
 * Monday 20 July 2020 Connect with the Other
 * Monday 27 July 2020 Connect with your Context
 
