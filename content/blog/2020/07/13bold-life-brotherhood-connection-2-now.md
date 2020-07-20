@@ -1,7 +1,7 @@
 ---
 title: "bold life brotherhood connection 2 now"
 tags: [ "blb", "connection" ]
-categories: [ "blog" ]
+categories: [ "blb" ]
 author: Rob Nugen
 draft: false
 date: 2020-07-13T06:56:08+09:00
