@@ -1,0 +1,46 @@
+.dream {
+    color: green;
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    font-style: italic;
+}
+.small {
+   color : black;
+   font-family : Arial, sans-serif;
+   font-size : 8pt;
+}
+.description {
+   color : green;
+   font-family : Arial, sans-serif;
+   font-size : 24pt;
+}
+.lucid {
+   color : green;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+}
+.grafitti {
+   color : red;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+   font-style : italic;
+}
+.message {
+   color : blue;
+   font-family : Arial, sans-serif;
+   font-size : 12pt;
+}
+.date {
+   color : blue;
+   font-family : Arial, sans-serif;
+   font-size : 16pt;
+}
+.note {
+   color : blue;
+   font-size : 10pt;
+}
+.anger {
+   color : red;
+   font-size : 24pt;
+   font-style : italic;
+}

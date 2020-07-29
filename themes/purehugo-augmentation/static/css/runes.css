@@ -1,0 +1,161 @@
+
+.rune {
+    background: url("https://b.robnugen.com/journal/runes/runes_from_the_book_of_runes_by_ralph_h_blum.jpg") no-repeat;
+}
+.reversed {
+    -moz-transform:rotate(180deg);
+    -webkit-transform:rotate(180deg);
+    -o-transform:rotate(180deg);
+    -ms-transform:rotate(180deg);
+}
+.uruz {
+    width: 100px; /* Icon width */
+    height: 135px; /* Icon height */
+    display: inline-block; /* Display icon as inline block */
+    background-position: 0px 0px; /* Icon background position in sprite */
+}
+.othila {
+    width: 94px; /* Icon width */
+    height: 132px; /* Icon height */
+    display: inline-block; /* Display icon as inline block */
+    background-position: -99px 0px; /* Icon background position in sprite */
+}
+.ansuz {
+	width: 95px;
+	height: 135px;
+	display: inline-block;
+	background-position: -194px 0px;
+}
+.gebo {
+	width: 94px;
+	height: 132px;
+	display: inline-block;
+	background-position: -289px 0px;
+}
+.mannaz {
+	width: 94px;
+	height: 132px;
+	display: inline-block;
+	background-position: -384px 0px;
+}
+.algiz {
+	width: 97px;
+	height: 133px;
+	display: inline-block;
+	background-position: -4px -137px;
+}
+.eihwaz {
+	width: 94px;
+	height: 132px;
+	display: inline-block;
+	background-position: -101px -132px;
+}
+.inguz {
+	width: 94px;
+	height: 133px;
+	display: inline-block;
+	background-position: -198px -137px;
+}
+.nauthiz {
+	width: 94px;
+	height: 135px;
+	display: inline-block;
+	background-position: -290px -133px;
+}
+.perth {
+	width: 94px;
+	height: 136px;
+	display: inline-block;
+	background-position: -384px -132px;
+}
+.teiwaz {
+	width: 97px;
+	height: 135px;
+	display: inline-block;
+	background-position: 0px -271px;
+}
+.kano {
+	width: 96px;
+	height: 135px;
+	display: inline-block;
+	background-position: -98px -264px;
+}
+.jera {
+	width: 93px;
+	height: 130px;
+	display: inline-block;
+	background-position: -193px -271px;
+}
+.wunjo {
+	width: 95px;
+	height: 132px;
+	display: inline-block;
+	background-position: -286px -271px;
+}
+.fehu {
+	width: 95px;
+	height: 134px;
+	display: inline-block;
+	background-position: -382px -268px;
+}
+.raido {
+	width: 95px;
+	height: 133px;
+	display: inline-block;
+	background-position: 0px -407px;
+}
+.hagalz {
+	width: 96px;
+	height: 137px;
+	display: inline-block;
+	background-position: -95px -399px;
+}
+.laguz {
+	width: 94px;
+	height: 134px;
+	display: inline-block;
+	background-position: -191px -400px;
+}
+.ehwaz {
+	width: 94px;
+	height: 135px;
+	display: inline-block;
+	background-position: -286px -403px;
+}
+.berkana {
+	width: 95px;
+	height: 135px;
+	display: inline-block;
+	background-position: -382px -403px;
+}
+.odin {
+	width: 95px;
+	height: 132px;
+	display: inline-block;
+	background-position: -6px -541px;
+}
+.sowelu {
+	width: 95px;
+	height: 133px;
+	display: inline-block;
+	background-position: -102px -537px;
+}
+.isa {
+	width: 92px;
+	height: 129px;
+	display: inline-block;
+	background-position: -198px -537px;
+}
+.dagaz {
+	width: 96px;
+	height: 132px;
+	display: inline-block;
+	background-position: -290px -541px;
+}
+.thurisaz {
+	width: 91px;
+	height: 129px;
+	display: inline-block;
+	background-position: -386px -540px;
+}
+
