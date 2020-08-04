@@ -65,7 +65,7 @@ We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 *August focuses on __Intimacy__*
 
-* Monday 3 August 2020
+* Monday 3 August 2020 [Deepening Intimacy](/blog/2020/08/03/bold-life-brotherhood-intimacy-1/)
 * Monday 10 August 2020
 * Monday 17 August 2020
 * Monday 24 August 2020
