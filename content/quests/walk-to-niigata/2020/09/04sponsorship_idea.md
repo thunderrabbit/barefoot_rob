@@ -2,7 +2,7 @@
 title: "Sponsorship idea"
 tags: [ "niigata walk", "first" ]
 author: Rob Nugen
-date: 2020-07-01T13:33:34+09:00
+date: 2020-09-05T00:33:34+09:00
 draft: false
 ---
 
