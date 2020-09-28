@@ -63,13 +63,6 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-*September focuses on __Sovereign Path__*
-
-* Monday 7 September 2020 [Make conscious choices](/blog/2020/09/07/bold-life-sovereignty-i)
-* Monday 14 September 2020
-* Monday 21 September 2020
-* Monday 28 September 2020
-
 *October focuses on __Offering__*
 
 ## Questions ##
