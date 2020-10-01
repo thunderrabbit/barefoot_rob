@@ -1,29 +1,15 @@
 ---
 title: "Blogtober"
 tags: [ "tlbs" ]
-categories: [ "blog" ]
+categories: [ "tlbs" ]
 author: Rob Nugen
 draft: false
 date: 2020-10-01T09:28:47+09:00
 ---
 
-My template at `~/.emacs.d/personal/hugo/templates/blog_template.txt`
-for these blog entries looks like this
-
-
-```
----
-title: "%s"
-tags: [ %s ]
-categories: [ "blog" ]
-author: Rob Nugen
-draft: true
-date: %s-%s-%sT%s
----
-```
-
-Now I am going to make it `draft: false` as I am now starting
-Blogtober, inspired by Col on Thought Leaders Business School.
+I have decided to join Blogtober, during which I post a blog entry per
+day (even if they are short), inspired by Col on Thought Leaders
+Business School.
 
 He talked about making decisions, and suggested some topics about
 which we *could* possibly make decisions:
