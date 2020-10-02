@@ -14,7 +14,7 @@ Business School.
 He talked about making decisions, and suggested some topics about
 which we *could* possibly make decisions:
 
-**What's a decision you could make around**
+**What's a decision you could make regarding...**
 
 * information diet
 * work environment
