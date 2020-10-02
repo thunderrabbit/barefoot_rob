@@ -1,7 +1,7 @@
 ---
 title: "Blogtober"
 tags: [ "tlbs" ]
-categories: [ "tlbs" ]
+categories: [ "blog" ]
 author: Rob Nugen
 draft: false
 date: 2020-10-01T09:28:47+09:00
