@@ -7,7 +7,7 @@ draft: false
 date: 2020-10-05T07:58:16+09:00
 ---
 
-I attended a [workshop](https://www.facebook.com/events/328858145022798) by [Upbuild](https://www.upbuild.com/) yesterday.
+I attended a [workshop](https://www.upbuild.com/controlling-tendencies-egos) by [Upbuild](https://www.upbuild.com/) yesterday.
 
     Even the most self-aware among us experience life largely through the
     lens of our ego, which we define as an identity of who we think we
