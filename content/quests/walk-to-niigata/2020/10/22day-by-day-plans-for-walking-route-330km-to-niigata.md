@@ -1,10 +1,11 @@
 ---
-title: "route plotted over the mountains"
+title: "Day by Day plans for walking route 330km to Niigata"
 tags: [ "niigata", "quest", "plot", "route", "maps", "walking", "barefoot", "plan" ]
 categories: [ "blog" ]
 author: Rob Nugen
 draft: false
-date: 2020-10-17T22:09:45+09:00
+aliases: [ "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/" ]
+date: 2020-10-22T22:02:45+09:00
 ---
 
 * [Day 01.1 Walk To Yomiuriland](https://www.plotaroute.com/route/1189743?units=km)
@@ -179,4 +180,42 @@ date: 2020-10-17T22:09:45+09:00
 
 [![43 walk 11km to pizza restaurant](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/43_walk_11km_to_pizza_restaurant.png)](https://www.plotaroute.com/route/1315809?units=km)
 
+* [Day 17.4 from pizza place to sleepy by Ota River](https://www.plotaroute.com/route/1319435?units=km)
 
+[![44 walk 05 km from pizza place to sleep by ota gawa](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/44_walk_05_km_from_pizza_place_to_sleep_by_ota_gawa.png)](https://www.plotaroute.com/route/1319435?units=km)
+
+* [Day 18.1 from Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/1320373?units=km)
+
+[![45 walk 05 km from ota river to nyozeza museum](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/45_walk_05_km_from_ota_river_to_nyozeza_museum.png)](https://www.plotaroute.com/route/1320373?units=km)
+
+* [Day 18.2 from Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?units=km)
+
+[![46 walk 10 km from museum to kariyatagawa](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/46_walk_10_km_from_museum_to_kariyatagawa.png)](https://www.plotaroute.com/route/1320375?units=km)
+
+* [Day 19.1 from Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377?units=km)
+
+[![47 walk 04 km from kariyatagawa to matthews bistro](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/47_walk_04_km_from_kariyatagawa_to_matthews_bistro.png)](https://www.plotaroute.com/route/1320377?units=km)
+
+* [Day 19.2 along Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/1320378?units=km)
+
+[![48 walk 14 km along joetsu to tsubamesanjo hotel](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/48_walk_14_km_along_joetsu_to_tsubamesanjo_hotel.png)](https://www.plotaroute.com/route/1320378?units=km)
+
+* [Day 20.1 from Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?units=km)
+
+[![49 walk 10 km from tsubamesanjo to groceries](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/49_walk_10_km_from_tsubamesanjo_to_groceries.png)](https://www.plotaroute.com/route/1320388?units=km)
+
+* [Day 20.2 walk along, then sleep by Nakanokuchi River](https://www.plotaroute.com/route/1320390?units=km)
+
+[![50 walk 05 km along nakanokuchi river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/50_walk_05_km_along_nakanokuchi_river.png)](https://www.plotaroute.com/route/1320390?units=km)
+
+* [Day 21.1 walk along Nakanokuchi river to cafe](https://www.plotaroute.com/route/1320688?units=km)
+
+[![51 walk 08 km along nakanokuchi river to cafe](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/51_walk_08_km_along_nakanokuchi_river_to_cafe.png)](https://www.plotaroute.com/route/1320688?units=km)
+
+* [Day 21.2 walk between rice fields then sleep between rivers](https://www.plotaroute.com/route/1320692?units=km)
+
+[![52 walk 06 km between rice fields to sleep between rivers](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/52_walk_06_km_between_rice_fields_to_sleep_between_rivers.png)](https://www.plotaroute.com/route/1320692?units=km)
+
+* [Day 22 walk up spiral steps then to Niigata Station](https://www.plotaroute.com/route/1320394?units=km)
+
+[![53 walk 09 km from staircase to niigata station](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/53_walk_09_km_from_staircase_to_niigata_station.png)](https://www.plotaroute.com/route/1320394?units=km)
