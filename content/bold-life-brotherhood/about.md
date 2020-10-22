@@ -64,6 +64,8 @@ Unsubscribe anytime.
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
 *October focuses on __Offering__*
+*November focuses on __Release__*
+*December focuses on __Freedom__*
 
 ## Questions ##
 
