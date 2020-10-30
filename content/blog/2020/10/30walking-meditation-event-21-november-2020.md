@@ -10,6 +10,8 @@ date: 2020-10-30T17:49:22+09:00
 Join us in Shinjuku Gyoen for a free walking meditation I'll be
 leading on 21 November 2020 (土), Saturday.
 
+[![grass for walking (credit https://www.freeimages.com/photo/grassland-2-1173294)](//b.robnugen.com/journal/2020/thumbs/grass_for_walking.jpg)](//b.robnugen.com/journal/2020/grass_for_walking.jpg)
+
 Meet at noon at the "Shinjuku Gate" entrance of Shinjuku Gyoen.  There
 are at least four entrances to the park, so please come to the one
 marked on the map!

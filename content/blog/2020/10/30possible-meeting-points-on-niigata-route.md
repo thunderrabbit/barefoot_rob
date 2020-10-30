@@ -12,4 +12,4 @@ came up with 384 kilometers (238 miles) for the total route.
 
 Let me know if you live near the route and perhaps we can meet up!
 
-[![Overview of route Kawasaki to Niigata](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/01_walk_04km_to_yomiuriland.png)](https://www.plotaroute.com/route/1189743?units=km)
+[![Overview of route Kawasaki to Niigata](//b.robnugen.com/journal/2020/thumbs/2020_oct_30_overview_kawasaki_to_niigata_route.jpg)](https://www.plotaroute.com/route/1189743?units=km)
