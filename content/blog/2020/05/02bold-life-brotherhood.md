@@ -3,19 +3,19 @@ title: "Bold Life Brotherhood"
 tags: [ "blb", "bold", "purpose", "life", "men", "event" ]
 categories: [ "blb" ]
 author: Rob Nugen
-date: 2020-07-13T09:25:00+09:00
+date: 2020-11-01T09:25:00+09:00
 ---
-
-### ⭕ BUILD LEADERSHIP ###
-### ⭕ SHARPEN YOUR LIFE VISION ###
-### ⭕ TAKE ACTION ###
-### ⭕ LIVE YOUR PASSIONS ###
 
 ## Bold Life Brotherhood ##
 
 * Monday nights, 7pm Japan time (UTC+9).
 * For men ready for more in life
 * Subscribe below to book your place
+
+### ⭕ BUILD LEADERSHIP ###
+### ⭕ SHARPEN YOUR LIFE VISION ###
+### ⭕ TAKE ACTION ###
+### ⭕ LIVE YOUR PASSIONS ###
 
 ## This support group will help you to: ##
 
@@ -27,7 +27,7 @@ date: 2020-07-13T09:25:00+09:00
 
 ## What is Bold Life Mastery? ##
 
-Adam Gilad’s [Bold Life Brotherhood](https://www.theboldlifebrotherhood.com/) year-long course can be repeated
+The [Bold Life Brotherhood](https://www.theboldlifebrotherhood.com/) year-long course can be repeated
 indefinitely as we take daily bold action towards improving our lives.
 
 [![bold life brotherhood wheel](//b.robnugen.com/blog/2020/blb/thumbs/blb_wheel.png)](//b.robnugen.com/blog/2020/blb/blb_wheel.png)
@@ -63,9 +63,8 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-*October focuses on __Offering__*
-*November focuses on __Release__*
-*December focuses on __Freedom__*
+* November focuses on __[Legacy and Release](/blog/2020/11/01/bold-life-brotherhood-legacy/)__
+* December focuses on __Freedom__
 
 ## Questions ##
 
