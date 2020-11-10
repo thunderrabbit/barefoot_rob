@@ -34,15 +34,15 @@ I'm looking forward to some stretches walking along railroad tracks including sh
 
 Places I can think of now, not in order
 
-Yomiuriland
-The second amusement park
-Dragondola
-Bunjee jump place
-Aina water park
-Between two rivers
-Hendon Farm
-Grampy 
-Jacky's cafe
+* Yomiuriland
+* The second amusement park
+* Dragondola
+* Bunjee jump place
+* Aina water park
+* Between two rivers
+* Hendon Farm
+* Grampy 
+* Jacky's cafe
 
 
 
