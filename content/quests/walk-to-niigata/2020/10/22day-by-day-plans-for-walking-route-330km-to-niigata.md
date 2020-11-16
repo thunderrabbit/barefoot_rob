@@ -45,10 +45,10 @@ We will pass a couple of parks and walk near Kokubunji Station.
 ----
 
 * [Day 02.2 Walk 7.5km from Pizza-la To Seibuen](https://www.plotaroute.com/route/1314449?units=km) (26km total)
+1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
+2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
 
-We will pass by the Sewerage Museum!  4 stars!
-
-[![04 walk 11km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/04_walk_08km_to_seibuen.png)](https://www.plotaroute.com/route/1314449?units=km)
+[![04 walk 7.5km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/04_walk_08km_to_seibuen.png)](https://www.plotaroute.com/route/1314449?units=km)
 
 ----
 
