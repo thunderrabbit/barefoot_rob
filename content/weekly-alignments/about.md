@@ -68,7 +68,7 @@ All attendees must agree to uphold our [Agreements](agreements).
   
 Unsubscribe anytime.
 
-After subscribing, simply [register](/weekly-alignment/registration/) to access the meeting.
+After subscribing, simply [register](registration/) to access the meeting.
 
 ## Upcoming Schedule ##
 
