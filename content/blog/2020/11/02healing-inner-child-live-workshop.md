@@ -21,5 +21,10 @@ date: 2020-11-02T05:29:01+09:00
 
 Reclaim your power you gave up as a child.
 
-This will be the first of 3 free workshops done on the next three
+This was the first of 3 free workshops done on the next three
 Thursdays 7pm JST, livestreamed at https://www.facebook.com/barefootrob.
+
+Watch the replay here!
+
+{{< youtube TRwCyVa7Q0g >}}
+
