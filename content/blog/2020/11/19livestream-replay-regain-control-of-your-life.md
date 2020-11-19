@@ -17,4 +17,4 @@ Take a journey and find yourself with infinite time!
 
 Ready for more?  Join us interactively on Zoom!
 
-[Weekly Alignment](/weekly-alignment/)
+[Weekly Alignments](/weekly-alignments/)
