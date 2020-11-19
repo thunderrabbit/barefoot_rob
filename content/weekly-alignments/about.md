@@ -43,29 +43,10 @@ All attendees must agree to uphold our [Agreements](agreements).
 
 ## Costs (for four meetings each month) ##
 
-* ¥20,000: four sessions per month
+* ¥[20,000: four sessions per month](https://py.pl/1QdAcu)
 
-<div id="paypal-button-container"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AYGyweHrSQT_sPOnqz3O9pvW430Z2-uYBLDHMluHUddnh3Y4EfrUHZd7sthrCbSIATiLYrzRGn-u7Jw0&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'pill',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'subscribe'
-      },
-      createSubscription: function(data, actions) {
-        return actions.subscription.create({
-          'plan_id': 'P-43S50560BE9974917L63H7VA'
-        });
-      },
-      onApprove: function(data, actions) {
-        alert(data.subscriptionID);
-      }
-  }).render('#paypal-button-container');
-</script>
-  
+[Subscribe via PayPal](https://py.pl/1QdAcu)
+
 Unsubscribe anytime.
 
 After subscribing, simply [register](registration/) to access the meeting.
