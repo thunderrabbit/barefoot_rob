@@ -1,3 +1,4 @@
+/*  Example: <span class="rune ehwaz reversed" />   */
 
 .rune {
     background: url("https://b.robnugen.com/journal/runes/runes_from_the_book_of_runes_by_ralph_h_blum.jpg") no-repeat;
@@ -158,4 +159,3 @@
 	display: inline-block;
 	background-position: -386px -540px;
 }
-

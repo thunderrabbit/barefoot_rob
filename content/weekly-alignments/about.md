@@ -1,13 +1,15 @@
 
 ---
-title: "About Weekly Alignments"
-tags: [ "blb", "bold", "purpose", "life", "men", "event" ]
-categories: [ "blb" ]
+title: "Weekly Alignments"
+tags: [ "align", "weekly", "purpose", "life", "men", "women", "inner-child" ]
+categories: [ "align" ]
 author: Rob Nugen
 date: 2020-11-18T09:29:00+09:00
 ---
 
 ## Weekly Alignments ##
+
+[![2020 nov 23 weekly alignments](//b.robnugen.com/blog/2020/thumbs/2020_nov_23_weekly_alignments.jpg)](//b.robnugen.com/blog/2020/2020_nov_23_weekly_alignments.jpg)
 
 * Thursday nights, 7pm Japan time (UTC+9) via Zoom.
 * For adults to connect with their inner child and inner power
