@@ -1,1 +1,8 @@
 .sidebar{background:#128FE0} /* light blue sidebar */
+.narration {
+  color: blue;
+  background-color: #0000ff33;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16pt;
+  padding: 10px;
+}
