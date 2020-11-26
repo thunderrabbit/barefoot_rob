@@ -20,7 +20,7 @@ I recorded the audio so you can listen below.  The recording starts right away, 
 Your browser does not support this audio content.
 </audio>
 
-Here is a transcription:
+Here is a transcription of the first part:
 
 <p class="narration weekly-alignment">Allowing your physical body to relax. noticing the breath moving smoothly. Just allow yourself to relax. Breathing naturally. Imagine your body as it's resting very safely.</p>
 
