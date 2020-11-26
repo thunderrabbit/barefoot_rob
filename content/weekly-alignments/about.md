@@ -59,8 +59,8 @@ We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 
 Here is the first month plan, starting November 26th, 2020:
 
-* Nov 26th: Interactive look at life from outside of Time.  We will move in and
-  out of different locations in our (life)time-space continuum
+* Nov 26th: [Interactive look at life from outside of Time](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/).  We will move in and
+  out of different locations in our (life)time-space continuum.  [Find your deepest desire](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/)
 
 * Dec 3rd: Who are we without our past self or future self?  What opportunities
   does this awareness offer?
