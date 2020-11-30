@@ -14,7 +14,6 @@ date: 2020-11-18T09:29:00+09:00
 * Thursday nights, 7pm Japan time (UTC+9) via Zoom.
 * For adults to connect with their inner child and inner power
 * Men and women welcome
-* !! Not a place to hook up or find a girl or guy
 * Subscribe below to book your place
 
 In the private Zoom group, deeply explore in a clear way that keeps
