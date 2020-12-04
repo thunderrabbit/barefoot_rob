@@ -61,22 +61,26 @@ Here is the first month plan, starting November 26th, 2020:
 * Nov 26th: [Interactive look at life from outside of Time](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/).  We will move in and
   out of different locations in our (life)time-space continuum.  [Find your deepest desire](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/)
 
-* Dec 3rd: Who are we without our past self or future self?  What opportunities
+* Dec 3rd: [Discover Your Super Power](/blog/2020/12/04/weekly-alignments-discover-your-super-power/).  What innate power do you have without even knowing it?
+
+Upcoming program plan for now:
+
+* Dec 10th: Who are we without our past self or future self?  What opportunities
   does this awareness offer?
 
-* Dec 10th: Listening to our Self in realtime.  How do we stay connected to
+* Dec 17th: Listening to our Self in realtime.  How do we stay connected to
   higher self voice when things are going awry?
 
-* Dec 17th: What parts of ourselves can we release as we go into 2021?  What
+* Dec 24th: What parts of ourselves can we release as we go into 2021?  What
   will we have to give up?  What can we gain?
-
-* Dec 24th: What have we learned from 2020?  How will we show up for
-  ourselves from now onward?
 
 * Dec 31st: (no session on 5th Thursdays)  Be well!
 
-Going forward, the curriculum will adjust based on attendee questions
-and input.  Lots of clarity and positive energy assured!
+* Jan 7th: What have we learned from 2020?  How will we show up for
+  ourselves from now onward?
+
+
+Live and interactive, the curriculum will adjust based on attendee questions and input.  Lots of clarity and positive energy assured!
 
 ## Questions ##
 
