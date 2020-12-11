@@ -1,7 +1,7 @@
 ---
 title: "Meditation for Mindfully Cleaning Your Physical Space"
 tags: [ "meditation", "cleaning", "clarity", "focus", "physical" ]
-categories: [ "blog" ]
+categories: [ "meditation" ]
 author: Rob Nugen
 draft: false
 date: 2020-12-05T11:20:27+09:00
