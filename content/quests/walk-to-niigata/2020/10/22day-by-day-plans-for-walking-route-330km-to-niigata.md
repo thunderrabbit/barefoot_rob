@@ -1,12 +1,18 @@
 ---
 title: "Day by Day plans for walking route 330km to Niigata"
 tags: [ "niigata", "quest", "plot", "route", "maps", "walking", "barefoot", "plan" ]
-categories: [ "blog" ]
+categories: [ "quests" ]
 author: Rob Nugen
 draft: false
 aliases: [ "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/" ]
-date: 2020-10-22T22:02:45+09:00
+date: 2020-12-13T12:02:45+09:00
 ---
+
+#### Meeting points:
+
+Here are the meeting points on Google Maps.  They are likely to change so be sure to get in touch if you want to meet somewhere!
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ccCdmHbV1RTwKH9qKbBe531jRQ3Bsf2F" width="640" height="480"></iframe>
 
 #### Entire Route:
 
