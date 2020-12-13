@@ -20,5 +20,5 @@ we will practice how to listen to our Self, as opposed to our
 chattering monkey mind.  The Self has all the answers while the monkey
 mind has all *its* answers..  How do we tell the difference?
 
-Click [here](/weekly-alingments/) to learn more about our community
+Click [here](/weekly-alignments/) to learn more about our community
 and how to join.
