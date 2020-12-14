@@ -1,8 +1,8 @@
 ---
-title: "Your Art Matters - show your artworks online"
-tags: [ "event", "art", "artist", "show", "casual", "fun" ]
+title: "Your Art Matters - show your artwork online"
+tags: [ "event", "art", "yam", "casual", "zoom", "show and tell" ]
 author: Rob Nugen
-date: 2020-12-12T23:32:50+09:00
+date: 2020-12-22T18:43:12+09:00
 ---
 
 <img
@@ -12,15 +12,15 @@ class="title" />
 
 #### When
 
-**1pm - 3pm JST Saturday 19 December 2020**
+**1pm - 3pm JST Saturday 16 January 2021**
 
 #### Where
 
-**Zoom ([Register](https://www.meetup.com/Tokyo-Sol-barefoot-more/events/275019031/))**
+**Zoom ([RSVP](https://www.meetup.com/Tokyo-Sol-barefoot-more/))**
 
 #### Details
 
-(Art discussion in English)
+(Welcome to 2021! Art discussion in English)
 
 Do you want a chance to show your work and talk about it in a casual,
 friendly, and supportive environment?
@@ -32,13 +32,13 @@ This discussion group is to inspire and encourage people to engage our
 everyday beauty in our ordinary life to keep exercising our creativity
 and healthy mind.
 
-It is not professional art discussion, beginners are welcomed.
+It is not a professional art discussion.  Beginners are welcome.
 
 It is not about competition. We explore our inner artists. We are all
 hidden artists who work at offices during the week.
 
-Let our imagination run free on the weekends and meet your essence: To
-create and be creative.
+Let your imagination run free on the weekends and meet your essence:
+to create and be creative.
 
 We share and discuss our paintings, drawings, illustration or any art
 form made from multiple media (hand-carryable size).
