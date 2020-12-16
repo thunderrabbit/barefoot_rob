@@ -95,3 +95,7 @@ https://goo.gl/maps/H3g616T2Y4eY74DR8
 
 I have decided to not stop at Lockheart Castle, I have now
 figured out a way to embed maps on my site. Yay plotaroute.com!
+
+#### 13 December 2020
+
+[First draft of the route is finished!](https://www.robnugen.com/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/)

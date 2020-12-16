@@ -8,21 +8,25 @@ aliases: [ "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/"
 date: 2020-12-13T12:02:45+09:00
 ---
 
-#### Meeting points:
+I am planning to walk barefoot to Niigata starting April 13th 2021 in Kawasaki, Kanagawa.  It's a personal challenge and hopefully encouragement to you to keep pushing your limits!
 
-Here are the meeting points on Google Maps.  They are likely to change so be sure to get in touch if you want to meet somewhere!
+### Just the Meeting points:
+
+Here are the [meeting points on Google Maps](https://www.google.com/maps/d/viewer?mid=1ccCdmHbV1RTwKH9qKbBe531jRQ3Bsf2F&usp=sharing).  They are likely to change so be sure to get in touch if you want to meet somewhere!
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ccCdmHbV1RTwKH9qKbBe531jRQ3Bsf2F" width="640" height="480"></iframe>
 
-#### Entire Route:
+### Entire Route:
 
-Here is the entire route on plotaroute.com.  The map takes a bit to load all of the meeting points.  Be sure to get in touch if you want to meet somewhere as plans are likely to change!
+Here is the entire route on plotaroute.com.  The map takes a bit to load all of the twists and turns of the route.  Be sure to get in touch if you want to meet somewhere as plans are likely to change!
 
 [22 days, walking 383km from Shin Yurigaoka to Niigata](https://www.plotaroute.com/route/1189743?units=km)
 
 [![Walking 380km from Shin Yurigaoka to Niigata](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/00_walk_380km_from_shin_yurigaoka_to_niigata.png)](https://www.plotaroute.com/route/1189743?units=km)
 
-#### Planned Meeting Points (likely to change!):
+### Details:
+
+These are maps of each segment, and are subject to change.  I do not yet have a good way to post edits to this page from the road, but am working on that.
 
 * [Day 01.1 Walk 04km from my house (not shown) To Yomiuriland](https://www.plotaroute.com/route/1344324?units=km) (4km total)
 
