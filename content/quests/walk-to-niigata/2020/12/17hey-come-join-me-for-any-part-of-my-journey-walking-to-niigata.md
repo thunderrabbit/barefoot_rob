@@ -1,7 +1,7 @@
 ---
 title: "Hey! Come join me for any part of my journey walking to Niigata!"
 tags: [ "plans", "interview", "jason", "thank you", "announcement" ]
-categories: [ "blog" ]
+categories: [ "quests" ]
 author: Rob Nugen
 draft: false
 date: 2020-12-17T23:12:19+09:00
