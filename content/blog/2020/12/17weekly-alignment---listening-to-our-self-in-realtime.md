@@ -7,6 +7,11 @@ draft: false
 date: 2020-12-17T16:57:54+09:00
 ---
 
+<img
+src="//b.robnugen.com/blog/2020/2020_nov_23_weekly_alignments_title.jpg"
+alt="Weekly Alignments 7pm Thursdays JST"
+class="title" />
+
 In our Weekly Alignment last night, we we practiced listening to our Self, as opposed to our
 chattering monkey mind.
 
@@ -126,4 +131,3 @@ First draft of transcript by https://otter.ai
     self. Recognizing it's a process. The higher self is slowly
     welcoming and accepting giving yourself time to practice this new
     way of being. Thank you for practicing with me now.
-
