@@ -4,7 +4,7 @@ tags: [ "barefoot rob", "services" ]
 date: 2020-12-11T15:38:44+09:00
 ---
 
-## 👉 Personal Sessions 👈
+## 👇 Personal Sessions 👇
 
 Get customized private confidential listening from the heart.  In our sessions, express yourself freely to release stress and find your inner calm.   Customized meditation sessions help you remember who you are.  Receive a recording of our sessions so you can listen again anytime.
 
@@ -21,7 +21,7 @@ Let go of past problems to give yourself the freedom to recreate yourself each d
 * Self Care
 * Self Development
 
-## 👉 Weekly Alignments 👈
+## 👇 Weekly Alignments 👇
 
 [Weekly Alignments](/weekly-alignments/) offer tools to get you present with your Self on a daily basis.
 
@@ -34,7 +34,7 @@ comments from the attendees present.
 
 [Register for a free trial session](/weekly-alignments/)
 
-## 👉 Grounding Practices 👈
+## 👇 Grounding Practices 👇
 
 * Nature Walks & Education
    1. [Walking Meditation](/events/)
