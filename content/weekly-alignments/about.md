@@ -63,13 +63,13 @@ Here is the first month plan, starting November 26th, 2020:
 
 * Dec 3rd: [Discover Your Super Power](/blog/2020/12/04/weekly-alignments-discover-your-super-power/).  What innate power do you have without even knowing it?
 
-Upcoming program plan for now:
-
-* Dec 10th: Who are we without our past self or future self?  What opportunities
+* Dec 10th: [Who are we without our past self or future self?](/blog/2020/12/10/weekly-alignment-who-are-we-outside-of-time/)  What opportunities
   does this awareness offer?
 
-* Dec 17th: Listening to our Self in realtime.  How do we stay connected to
+* Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
   higher self voice when things are going awry?
+
+Upcoming program plan for now:
 
 * Dec 24th: What parts of ourselves can we release as we go into 2021?  What
   will we have to give up?  What can we gain?

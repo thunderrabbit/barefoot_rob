@@ -26,13 +26,17 @@ Do you wish you could do things over?
 
 How do you clear through the clutter of your mind?
 
-This coming Thursday for our [Weekly Alignment](/weekly-alignments/)
-we will practice how to listen to our Self, as opposed to our
+This past Thursday for our [Weekly Alignment](/weekly-alignments/)
+we practiced listening to our Self, as opposed to our
 chattering monkey mind.  The Self has all the answers while the monkey
 mind has all *its* answers..  How do we tell the difference?
 
-Click [here](/weekly-alignments/) to learn more about our community
-and how to join.
+Check out the recording
+[Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).
+
+If you like it, why not join our live interactive community?  Click
+[here](/weekly-alignments/) to learn more about our community and how
+to join.
 
 #### About Weekly Alignments
 
