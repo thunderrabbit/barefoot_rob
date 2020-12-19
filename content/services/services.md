@@ -23,7 +23,7 @@ Let go of past problems to give yourself the freedom to recreate yourself each d
 
 ## 👇 Weekly Alignments 👇
 
-[Weekly Alignments](/weekly-alignments/) offer tools to get you present with your Self on a daily basis.
+[Weekly Alignments](/weekly-alignments/) offer tools you can use anytime to get you present with your Self.
 
 At the end of each weekly session, I do a live facilitation to help
 someone get clarity about or even overcome an issue in their life.
