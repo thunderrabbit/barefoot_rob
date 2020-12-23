@@ -75,7 +75,7 @@ Here is the first month plan, starting November 26th, 2020:
 
 Upcoming program plan for now:
 
-* Dec 24th: What parts of ourselves can we release as we go into 2021?  What
+* Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
   will we have to give up?  What can we gain?
 
 * Dec 31st: (no session on 5th Thursdays)  Be well!
