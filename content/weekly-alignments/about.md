@@ -9,12 +9,16 @@ date: 2020-11-18T09:29:00+09:00
 
 ## Weekly Alignments ##
 
-[![2020 nov 23 weekly alignments](//b.robnugen.com/blog/2020/thumbs/2020_nov_23_weekly_alignments.jpg)](//b.robnugen.com/blog/2020/2020_nov_23_weekly_alignments.jpg)
+<img
+src="//b.robnugen.com/blog/2020/2020_nov_23_weekly_alignments_title.jpg"
+alt="Weekly Alignments 7pm Thursdays JST"
+class="title" />
 
 * Thursday nights, 7pm Japan time (UTC+9) via Zoom.
 * For adults to connect with their inner child and inner power
 * Men and women welcome
 * Subscribe below to book your place
+* First time is free!
 
 In the private Zoom group, deeply explore in a clear way that keeps
 you safe and can be paused at any point as you have full control of
