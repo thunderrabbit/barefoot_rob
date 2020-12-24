@@ -63,8 +63,7 @@ energies that no longer serve us.
     Whether or not it was a formal agreement, there may be an idea
     that people are expecting things of you.
 
-    So of these, are there any that you want to release and you can,
-    you don't have to say yes; I'm not, there's no pressure.
+    So of these, are there any that you want to release?
 
     So that was the list of what you believe others expect of you.
 
