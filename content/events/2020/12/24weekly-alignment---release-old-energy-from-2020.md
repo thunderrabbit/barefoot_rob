@@ -21,10 +21,12 @@ class="title" />
 
 #### Details
 
-As we near the end of 2020, what energies no longer serve you?  In
-this event, we will practice releasing energy that no longer serve
+As we near the end of 2020, [what energies no longer serve you?](/blog/2020/12/24/weekly-alignment-releasing-old-energy/)  In
+this event, we practiced releasing energy that no longer serve
 us.  Gratitude and trust are key to knowing what to release and doing
 so in a good way.
+
+[Click here to listen to the audio](/blog/2020/12/24/weekly-alignment-releasing-old-energy/)
 
 #### About Weekly Alignments
 
@@ -36,4 +38,3 @@ someone get clarity about or even overcome an issue in their life.
 Weekly Alignments include a lot of channeled material coming from
 Source as I receive it in realtime, depending on questions and
 comments from the attendees present.
-
