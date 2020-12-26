@@ -12,8 +12,9 @@ Process.
 
 
 A few days ago I got to be the model being processed.  Great
-realization coming out of the process.  It's a bit long, but gives an
-idea of how effective The Inspiration Process can be.
+realization coming out of the process. This recording shows how
+effective The Inspiration Process can be. I hope you enjoy it.  I
+certainly did!
 
 This audio is Copyright©Clarity Communications 2020
 
