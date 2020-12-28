@@ -18,11 +18,7 @@
                           </h1>
                         {{ end }}
                         <p class="post-meta">
-                            {{ with .Params.author }}
-                                By <strong class="post-author">{{ . }}</strong>
-                            {{ end }}
                             {{ if isset .Params "categories" }}
-                                under
                                 {{ range .Params.categories }}
                                     <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>
                                 {{ end }}
