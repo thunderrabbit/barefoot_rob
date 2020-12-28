@@ -16,7 +16,7 @@ rm -rf content/public/*
 
 if [[ "$WANT_BROWSER" =~ ^[yY] ]]
   then
-    open http://localhost:1313/
+    xdg-open http://localhost:1313/
 fi
 
 hugo server
