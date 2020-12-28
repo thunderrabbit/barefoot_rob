@@ -10,3 +10,12 @@
 img.title {
   width:100%
 }
+
+.content-event-subhead {
+    color: #555;
+    border-bottom: 1px solid #eee;
+    padding: .4em 0;
+    font-size: 80%;
+    font-weight: 500;
+    letter-spacing: .1em;
+}
