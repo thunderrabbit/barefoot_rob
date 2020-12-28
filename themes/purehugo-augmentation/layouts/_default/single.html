@@ -18,7 +18,7 @@
                                 By <strong class="post-author">{{ . }}</strong>
                             {{ end }}
                             {{ if isset .Params "categories" }}
-                                under 
+                                under
                                 {{ range .Params.categories }}
                                     <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>
                                 {{ end }}
@@ -38,7 +38,7 @@
                             {{ if isset .Site.Params "twitter" }}
                             <a href="#" data-type="twitter" data-url="{{ .Permalink }}" data-description="{{ .Description }}" data-via="{{ .Site.Params.twitter }}" class="prettySocial fa fa-twitter"></a>
                             {{ end }}
-                            
+
                         </div>
                     </div>
                     {{ end }}
