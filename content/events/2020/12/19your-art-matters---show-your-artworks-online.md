@@ -3,6 +3,8 @@ title: "Your Art Matters - show your artworks online"
 tags: [ "event", "art", "artist", "show", "casual", "fun" ]
 author: Rob Nugen
 date: 2020-12-12T23:32:50+09:00
+EventTime: "1pm - 3pm"
+EventDate: 2020-12-19
 ---
 
 <img

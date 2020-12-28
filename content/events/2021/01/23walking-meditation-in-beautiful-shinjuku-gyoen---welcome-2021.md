@@ -3,6 +3,8 @@ title: "Walking Meditation in beautiful Shinjuku Gyoen - Welcome 2021"
 tags: [ "event", "walk", "meditation", "chilly" ]
 author: Rob Nugen
 date: 2020-12-25T21:46:52+09:00
+EventTime: "12pm - 2pm"
+EventDate: 2021-01-23
 ---
 
 <img
