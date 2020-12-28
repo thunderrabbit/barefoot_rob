@@ -23,24 +23,24 @@ Meditation, walking, breathing, enjoying crisp air.
 
 #### Where
 
-**Shinjuku Gyoen - Shinjuku Gate**
+**Shinjuku Gyoen - [Shinjuku Gate](https://goo.gl/maps/4c35vbQqopZMGhez9)**
 
 #### Details
 
-Once we've gotten a good start on 2021, let's remember to get a good start on mental and spiritual self care.
+Once we've gotten a good start on 2021, let's continue practicing good mental and spiritual self care.
 
 *Enjoy Nature*
 
-*Enjoy Breathing*
-
-Shinjuku Gyoen is a beautiful park 15 minutes walking distance from
+Shinjuku Gyoen is a beautiful park just 15 minutes walking distance from
 the busiest train station in the world.
-
-Get away from it all by settling into your being and noticing the
-motions of your body, one breath and one step at a time.
 
 Covering 144 acres, Shinjuku Gyoen blends three distinct styles,
 Formal Garden, Landscape Garden, and Japanese Traditional Garden.
+
+*Enjoy Breathing*
+
+Get away from it all by settling into your being and noticing the
+motions of your body, one breath and one step at a time.
 
 11:45am Meet at Shinjuku Gate of Shinjuku Gyoen. https://goo.gl/maps/4c35vbQqopZMGhez9
 
@@ -52,7 +52,7 @@ What to Expect:
 
 * We will find a nice place to relax and connect with nature and inner quiet.
 * I will guide us in meditation, including walking meditation.
-* Feel free to kick off your shoes; whatever makes you comfortable.
+* Feel free to take off your shoes; whatever makes you comfortable.
 
 I plan for the weather to be nice, so let's stay in the park until
 14:30 and then decide what we want to do after that.
@@ -63,6 +63,7 @@ I plan for the weather to be nice, so let's stay in the park until
 
 **What to bring**
 
+It will likely be quite cold, so wear layers to keep yourself comfortable.
 Come wearing lightweight shoes that you can carry just in case you
 need to put them on during the walk!
 
