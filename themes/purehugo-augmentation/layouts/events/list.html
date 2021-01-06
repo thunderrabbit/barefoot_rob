@@ -5,9 +5,13 @@
 
     <div class="content pure-u-1 pure-u-md-3-4">
         <div>
-            <!-- A wrapper for all the blog posts -->
+            <!-- A wrapper for all the future blog posts -->
             <div class="posts">
-                {{ range .Paginator.Pages }}
+                {{ $future_events := where .Pages ".Params.eventdate" "ge" (now.Format "2006-01-02") }}
+
+                {{ $paginator := .Paginate $future_events }}
+
+                {{ range sort $paginator.Pages ".Params.eventdate" "asc" }}
                 <section class="post">
                     <header class="post-header">
 
