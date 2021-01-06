@@ -12,7 +12,6 @@ src="//b.robnugen.com/blog/2020/2020_nov_23_weekly_alignments_title.jpg"
 alt="Weekly Alignments 7pm Thursdays JST"
 class="title" />
 
-
 #### When
 
 **7pm - 8pm Thursday 24 December 2020**
