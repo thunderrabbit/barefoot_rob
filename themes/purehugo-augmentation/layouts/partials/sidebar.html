@@ -15,6 +15,11 @@
                     </a>
                 </li>
                 <li class="nav-item">
+                    <a class="pure-button" href='{{ "events" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} events{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
                     <a class="pure-button" href='{{ "services" | absURL }}'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} services{{ end }}
                     </a>
@@ -22,11 +27,6 @@
                 <li class="nav-item">
                     <a class="pure-button" href='{{ "about" | absURL }}'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} about{{ end }}
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="pure-button" href='{{ "mission" | absURL }}'>
-                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} mission{{ end }}
                     </a>
                 </li>
                 <li class="nav-item">
