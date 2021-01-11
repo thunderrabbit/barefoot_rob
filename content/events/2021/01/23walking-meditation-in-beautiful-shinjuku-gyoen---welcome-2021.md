@@ -1,11 +1,14 @@
 ---
-title: "Walking Meditation in beautiful Shinjuku Gyoen - Welcome 2021"
+title: "Walking Meditation in Yoyogi Park - Welcome 2021"
 tags: [ "event", "walk", "meditation", "chilly" ]
 author: Rob Nugen
 date: 2020-12-25T21:46:52+09:00
 EventTime: "12pm - 2pm"
 EventDate: 2021-01-23
+Aliases: [ "23walking-meditation-in-beautiful-shinjuku-gyoen-welcome-2021" ]
 ---
+
+New Location!
 
 <img
 src="//b.robnugen.com/blog/2020/2020_dec_12_title_walking_meditation.jpg"
@@ -21,11 +24,15 @@ Meditation, walking, breathing, enjoying crisp air.
 
 #### When
 
-**enter Shinjuku Gate at 12 noon Saturday 23 January 2021**
+**enter Harajuku Gate of Yoyogi Park at 12 noon Saturday 23 January 2021**
 
 #### Where
 
-**Shinjuku Gyoen - [Shinjuku Gate](https://goo.gl/maps/4c35vbQqopZMGhez9)**
+## NEW LOCATION: YOYOGI PARK
+
+**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+
+<!-- **Shinjuku Gyoen - [Shinjuku Gate](https://goo.gl/maps/4c35vbQqopZMGhez9)** -->
 
 #### Details
 
@@ -33,26 +40,27 @@ Once we've gotten a good start on 2021, let's continue practicing good mental an
 
 *Enjoy Nature*
 
-Shinjuku Gyoen is a beautiful park just 15 minutes walking distance from
-the busiest train station in the world.
-
-Covering 144 acres, Shinjuku Gyoen blends three distinct styles,
-Formal Garden, Landscape Garden, and Japanese Traditional Garden.
+Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
 
 *Enjoy Breathing*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
+11:45am Meet at Harajuku Gate of Yoyogi Park **(NEW LOCATION)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+
+<!--
 11:45am Meet at Shinjuku Gate of Shinjuku Gyoen. https://goo.gl/maps/4c35vbQqopZMGhez9
 
 Buy tickets (500 yen)
+-->
 
-12:00 noon: Enter Shinjuku Gyoen Shinjuku Gate
+
+12:00 noon: Enter Yoyogi Park
 
 What to Expect:
 
-* We will find a nice place to relax and connect with nature and inner quiet.
+* We will find a nice place in the big field past the fountains.
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
 
@@ -61,7 +69,7 @@ I plan for the weather to be nice, so let's stay in the park until
 
 **Costs:**
 
-500 yen for Shinjuku park
+free!
 
 **What to bring**
 
@@ -73,13 +81,11 @@ Self care is important, so wear shoes whenever you need to!
 
 **Covid Considerations**
 
-https://www.env.go.jp/garden/shinjukugyoen/english/
+COVID-19 Infection Prevention Measures in the park
 
-COVID-19 Infection Prevention Measures in the garden
+To prevent the spread of coronavirus infection in the park, we ask all visitors to take the following measures.
 
-To prevent the spread of coronavirus infection in the garden, we ask all visitors to take the following measures.
-
-● When you have cold symptoms such as fever and coughs, please refrain from visiting the garden.
+● When you have cold symptoms such as fever and coughs, please refrain from visiting the park.
 
 ● Please wear a face mask and follow cough etiquette.
 
