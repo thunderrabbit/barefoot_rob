@@ -8,7 +8,7 @@ EventDate: 2021-01-23
 Aliases: [ "23walking-meditation-in-beautiful-shinjuku-gyoen-welcome-2021" ]
 ---
 
-New Location!
+## NEW LOCATION: YOYOGI PARK
 
 <img
 src="//b.robnugen.com/blog/2020/2020_dec_12_title_walking_meditation.jpg"
@@ -22,11 +22,11 @@ Barefoot Walking Experience:
 
 Meditation, walking, breathing, enjoying crisp air.
 
-#### When
+#### When:
 
 **enter Harajuku Gate of Yoyogi Park at 12 noon Saturday 23 January 2021**
 
-#### Where
+#### Where:
 
 ## NEW LOCATION: YOYOGI PARK
 
@@ -34,7 +34,7 @@ Meditation, walking, breathing, enjoying crisp air.
 
 <!-- **Shinjuku Gyoen - [Shinjuku Gate](https://goo.gl/maps/4c35vbQqopZMGhez9)** -->
 
-#### Details
+#### Details:
 
 Once we've gotten a good start on 2021, let's continue practicing good mental and spiritual self care.
 
