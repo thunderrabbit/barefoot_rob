@@ -5,24 +5,36 @@ categories: [ "quests" ]
 author: Rob Nugen
 draft: false
 aliases: [ "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/" ]
-date: 2020-12-13T12:02:45+09:00
+date: 2021-01-13T12:02:45+09:00
 ---
 
-I am planning to walk barefoot to Niigata starting April 13th 2021 in Kawasaki, Kanagawa.  It's a personal challenge and hopefully encouragement to you to keep pushing your limits!
+I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
+
+Starting April 12th at
+[Rinko Park](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/)
+in Yokohama, I will walk barefoot to
+[Aoyama Kaigan](https://www.google.com/maps/place/%E9%9D%92%E5%B1%B1%E6%B5%B7%E5%B2%B8%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4/@37.8980842,138.98067,17z/)
+near Niigata Station, arriving around 23 days later, during Golden Week in Japan.
+
+It's a personal challenge and hopefully encouragement to you to keep pushing your limits!
 
 ### Just the Meeting points:
 
-Here are the [meeting points on Google Maps](https://www.google.com/maps/d/viewer?mid=1ccCdmHbV1RTwKH9qKbBe531jRQ3Bsf2F&usp=sharing).  They are likely to change so be sure to get in touch if you want to meet somewhere!
+Here are the
+[meeting points on Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing)
+and the
+[meeting points on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221f50y8Cf2jj5EhT_eb7ZMXv3riVe4UnxL%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108655173565601794930%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=sharing)
+.  They are likely to change so be sure to get in touch if you want to meet somewhere!
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ccCdmHbV1RTwKH9qKbBe531jRQ3Bsf2F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05" width="640" height="480"></iframe>
 
 ### Entire Route:
 
 Here is the entire route on plotaroute.com.  The map takes a bit to load all of the twists and turns of the route.  Be sure to get in touch if you want to meet somewhere as plans are likely to change!
 
-[22 days, walking 383km from Shin Yurigaoka to Niigata](https://www.plotaroute.com/route/1189743?units=km)
+[23 days, walking 400km from Yokohama to Niigata](https://www.plotaroute.com/route/1189743?units=km)
 
-[![Walking 380km from Shin Yurigaoka to Niigata](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/00_walk_380km_from_shin_yurigaoka_to_niigata.png)](https://www.plotaroute.com/route/1189743?units=km)
+[![Walking 380km from Shin Yurigaoka to Niigata](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_jan_13_yokohama_to_aoyama_walk_plan.png)](https://www.plotaroute.com/route/1189743?units=km)
 
 ### Details:
 
