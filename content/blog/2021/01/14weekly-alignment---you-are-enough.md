@@ -192,4 +192,6 @@ me are enough?"
 
     My pleasure. Thank you.  Absolutely.
 
+The above transcript was extracted from our live interactive Weekly Alignment on Thursday night.
+
 Join us for [Weekly Alignments online Thursday nights 7pm JST](/weekly-alignments/).
