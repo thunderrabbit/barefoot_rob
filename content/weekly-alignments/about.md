@@ -79,8 +79,9 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 * Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
   will we have to give up?  What can we gain?
 
-* Jan 7th: [Achieve goals in 2021 with insights from your future self](/blog/2021/01/07/weekly-alignment-receiving-insight-from-our-future-self/)
+* Jan 7th: [Achieve goals in 2021 with insights from your future self.](/blog/2021/01/07/weekly-alignment-receiving-insight-from-our-future-self/)  Your future self has already done it!
 
+* Jan 14th: [You have everything you need to do all you want.](/blog/2021/01/14/weekly-alignment-you-are-enough/)  You are enough.
 
 ## Questions ##
 
