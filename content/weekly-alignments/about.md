@@ -55,7 +55,6 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 
 ## Recent events ##
 
-<details>
 * Jan 14th: [You have everything you need to do all you want.](/blog/2021/01/14/weekly-alignment-you-are-enough/)  You are enough.
 
 * Jan 7th: [Achieve goals in 2021 with insights from your future self.](/blog/2021/01/07/weekly-alignment-receiving-insight-from-our-future-self/)  Your future self has already done it!
@@ -63,7 +62,12 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 * Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
   will we have to give up?  What can we gain?
 
+<details>
 <summary>see more..</summary>
+
+* Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
+  higher self voice when things are going awry?
+
 * Dec 10th: [Who are we without our past self or future self?](/blog/2020/12/10/weekly-alignment-who-are-we-outside-of-time/)  What opportunities
     does this awareness offer?
 
@@ -71,9 +75,6 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 
 * Nov 26th: [Interactive look at life from outside of Time](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/).  We will move in and
     out of different locations in our (life)time-space continuum.  [Find your deepest desire](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/)
-
-* Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
-  higher self voice when things are going awry?
 
 * Nov 19th: [Regain Control of Your Life](/blog/2020/11/19/livestream-replay-regain-control-of-your-life/)
     Discover patterns from the highest possible perspective. Experience
@@ -87,6 +88,7 @@ Live and interactive, the curriculum will adjust based on attendee questions and
   Understand your inner child. Meet your inner child and discover
   what they need. Learn 3 simple steps to recovering your inner
   power.
+
 </details>
 
 ## Questions ##
