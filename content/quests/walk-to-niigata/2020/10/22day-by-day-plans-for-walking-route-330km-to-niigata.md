@@ -40,6 +40,8 @@ Here is the entire route on plotaroute.com.  The map takes a bit to load all of 
 
 These are maps of each segment, and are subject to change.  I do not yet have a good way to post edits to this page from the road, but am working on that.
 
+* New! (Jan 18, 2021): Day 0.0 Walk 20km from [Rinko Park, on the bay in Yokohama](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/), to my house (not shown).
+
 * [Day 01.1 Walk 04km from my house (not shown) To Yomiuriland](https://www.plotaroute.com/route/1344324?units=km) (4km total)
 
 I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百合ヶ丘駅 or neither station and just go a more direct route.
@@ -362,6 +364,7 @@ We will pass a couple of parks and walk near Kokubunji Station.
 
 ----
 
-* [Day 22 walk up spiral steps then to Niigata Station](https://www.plotaroute.com/route/1320394?units=km)
+* New! (Jan 18, 2021): [Day 22 walk up spiral steps then to [Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
 
-[![53 walk 09 km from staircase to niigata station](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/53_walk_09_km_from_staircase_to_niigata_station.png)](https://www.plotaroute.com/route/1320394?units=km)
+![53 walk 09 km from staircase to Aoyama Seaside Park](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_jan_18_finishing_leg_of_walk.png
+)
