@@ -53,7 +53,7 @@ We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 Live and interactive, the curriculum will adjust based on attendee questions and input.  Lots of clarity and positive energy assured!
 
 
-## Recent events ##
+## Listen to Recent Events ##
 
 * Jan 14th: [You have everything you need to do all you want.](/blog/2021/01/14/weekly-alignment-you-are-enough/)  You are enough.
 
