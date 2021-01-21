@@ -63,8 +63,7 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-* November focuses on __[Legacy and Release](/blog/2020/11/01/bold-life-brotherhood-legacy/)__
-* December focuses on __Freedom__
+* January focuses on finding our Calling
 
 ## Questions ##
 
