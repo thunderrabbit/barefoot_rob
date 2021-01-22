@@ -63,7 +63,7 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
 
-* January focuses on finding our Calling
+* January focuses on finding our __Calling__
 
 ## Questions ##
 
