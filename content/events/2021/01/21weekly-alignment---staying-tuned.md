@@ -1,10 +1,11 @@
 ---
-title: "Weekly Alignment - Staying tuned"
+title: "Weekly Alignment - Recognize Your Magnificence"
 tags: [ "event", "weekly", "alignment" ]
 author: Rob Nugen
 date: 2021-01-17T16:04:10+09:00
 EventTime: "7pm ~ 8:30pm"
 EventDate: 2021-01-21
+aliases: [ "21weekly-alignment-staying-tuned" ]
 ---
 
 <img
@@ -22,7 +23,7 @@ class="title" />
 
 #### Details
 
-[Knowing you are enough](/blog/2021/01/14/weekly-alignment-you-are-enough/) is a great start.  Learn ways to stay aligned with this knowledge while moving forward.
+[Knowing you are enough](/blog/2021/01/14/weekly-alignment-you-are-enough/) is a great start.  Learn ways to [stay aligned with your inner spirit](/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/) while moving forward.
 
 #### About Weekly Alignments
 

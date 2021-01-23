@@ -55,15 +55,17 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 
 ## Listen to Recent Events ##
 
+* Jan 21st: [Recognize Your Magnificence](/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/).  Stay in touch with your inner light which outshines the sun.
+
 * Jan 14th: [You have everything you need to do all you want.](/blog/2021/01/14/weekly-alignment-you-are-enough/)  You are enough.
 
 * Jan 7th: [Achieve goals in 2021 with insights from your future self.](/blog/2021/01/07/weekly-alignment-receiving-insight-from-our-future-self/)  Your future self has already done it!
 
-* Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
-  will we have to give up?  What can we gain?
-
 <details>
 <summary>see more..</summary>
+
+* Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
+  will we have to give up?  What can we gain?
 
 * Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
   higher self voice when things are going awry?
