@@ -8,7 +8,7 @@
             <!-- A wrapper for all the future blog posts -->
             <h1>Upcoming Events</h1>
             <div class="posts">
-                {{ $future_events := where .Pages ".Params.eventdate" "ge" (now.Format "2006-01-02") }}
+                {{ $future_events := where .Pages ".Params.eventdate" "gt" (now.Format "2006-01-02") }}
 
                 {{ range sort $future_events ".Params.eventdate" "asc" }}
                 <section class="post">
