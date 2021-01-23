@@ -8,13 +8,34 @@ EventDate: 2021-01-23
 Aliases: [ "23walking-meditation-in-beautiful-shinjuku-gyoen-welcome-2021" ]
 ---
 
+## Thank you all for joining!!
+
+Great to see everyone: Jon, Sachiko, Amaru, Adrien, Max, Ayako, and Clare!
+
+[![2021 jan 23 walking meditation amaru adrien sachiko jon](//b.robnugen.com/journal/2021/thumbs/2021_jan_23_walking_meditation_amaru_adrien_sachiko_jon.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_amaru_adrien_sachiko_jon.jpg)
+[![2021 jan 23 walking meditation barefoot adrien rob ayako max jon honorary](//b.robnugen.com/journal/2021/thumbs/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg)
+[![2021 jan 23 walking meditation max amaru ayako](//b.robnugen.com/journal/2021/thumbs/2021_jan_23_walking_meditation_max_amaru_ayako.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_max_amaru_ayako.jpg)
+
+Thank you all for coming out today, braving the sprinkle and embracing the chill!  Adrien came wearing *shorts* and immediately joined me in barefoot style.  Max and Ayako joined us soon thereafter and also joined Team Barefoot!
+
+Thanks to Sachiko for ensuring we enjoyed walking in Yoyogi Park.  We walked mindfully to the fountains and then turned left to walk mindfully around the loop.
+
+Thank you leaves for being soft and light!
+
+Coming soon: pictures of leaf-covered feet!
+
+Clare joined as soon as she could after fixing a complimentary flat tire on her bicycle.
+
+Thank you Amaru for choosing the pancake restaurant, and to Adrien and Max for recommending various spiritual guides and healers.
+
+Thank you chilly sprinkle for staying above freezing so no one slipped!
+
 ## NEW LOCATION: YOYOGI PARK
 
 <img
-src="//b.robnugen.com/blog/2020/2020_dec_12_title_walking_meditation.jpg"
-alt="4 people doing Walking Meditation Saturday 23 January 2021"
+src="//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg"
+alt="barefoot: Adrien, Rob, Ayako, Max.  Honorary barefoot: Jon.  photo by Amaru"
 class="title" />
-
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
