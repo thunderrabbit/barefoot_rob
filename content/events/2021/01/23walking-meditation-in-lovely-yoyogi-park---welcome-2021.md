@@ -60,11 +60,12 @@ Buy tickets (500 yen)
 
 What to Expect:
 
-* We will find a nice place in the big field past the fountains.
+* We will meet at 11:45 and by noon decided where to go.
+* We will find a nice place in the big field past the fountains or a dry area.
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
 
-I plan for the weather to be nice, so let's stay in the park until
+Despite today's forecast, I plan for the weather to be nice, so let's stay in the park until
 14:30 and then decide what we want to do after that.
 
 **Costs:**
