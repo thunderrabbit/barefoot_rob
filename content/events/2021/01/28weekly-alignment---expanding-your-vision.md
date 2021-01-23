@@ -2,7 +2,7 @@
 title: "Weekly Alignment - Expanding Your Vision"
 tags: [ "event", "weekly", "alignment", "channel" ]
 author: Rob Nugen
-date: 2021-01-23T16:04:10+09:00
+date: 2021-01-23T09:04:10+09:00
 EventTime: "7pm ~ 8:30pm"
 EventDate: 2021-01-28
 aliases: [ "28weekly-alignment-expanding-your-vision" ]
