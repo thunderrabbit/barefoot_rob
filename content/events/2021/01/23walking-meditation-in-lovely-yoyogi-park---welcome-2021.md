@@ -8,13 +8,18 @@ EventDate: 2021-01-23
 Aliases: [ "23walking-meditation-in-beautiful-shinjuku-gyoen-welcome-2021" ]
 ---
 
+<img
+src="//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg"
+alt="2021 jan 23 walking meditation barefoot adrien rob ayako max jon honorary"
+class="title" />
+
 ## Thank you all for joining!!
 
 Great to see everyone: Jon, Sachiko, Amaru, Adrien, Max, Ayako, and Clare!
 
-[![2021 jan 23 walking meditation amaru adrien sachiko jon](//b.robnugen.com/journal/2021/thumbs/2021_jan_23_walking_meditation_amaru_adrien_sachiko_jon.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_amaru_adrien_sachiko_jon.jpg)
-[![2021 jan 23 walking meditation barefoot adrien rob ayako max jon honorary](//b.robnugen.com/journal/2021/thumbs/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg)
-[![2021 jan 23 walking meditation max amaru ayako](//b.robnugen.com/journal/2021/thumbs/2021_jan_23_walking_meditation_max_amaru_ayako.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_max_amaru_ayako.jpg)
+[![2021 jan 23 walking meditation amaru adrien sachiko jon](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_walking_meditation_amaru_adrien_sachiko_jon.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_walking_meditation_amaru_adrien_sachiko_jon.jpg)
+[![2021 jan 23 walking meditation barefoot adrien rob ayako max jon honorary](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg)
+[![2021 jan 23 walking meditation max amaru ayako](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_walking_meditation_max_amaru_ayako.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_walking_meditation_max_amaru_ayako.jpg)
 
 Thank you all for coming out today, braving the sprinkle and embracing the chill!  Adrien came wearing *shorts* and immediately joined me in barefoot style.  Max and Ayako joined us soon thereafter and also joined Team Barefoot!
 
@@ -22,7 +27,10 @@ Thanks to Sachiko for ensuring we enjoyed walking in Yoyogi Park.  We walked min
 
 Thank you leaves for being soft and light!
 
-Coming soon: pictures of leaf-covered feet!
+[![2021 jan 23 leafy feet 19](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_leafy_feet_19.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_leafy_feet_19.jpg)
+[![2021 jan 23 leafy feet 20](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_leafy_feet_20.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_leafy_feet_20.jpg)
+[![2021 jan 23 leafy feet 21](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_leafy_feet_21.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_leafy_feet_21.jpg)
+[![2021 jan 23 leafy feet 22](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/thumbs/2021_jan_23_leafy_feet_22.jpg)](//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_leafy_feet_22.jpg)
 
 Clare joined as soon as she could after fixing a complimentary flat tire on her bicycle.
 
