@@ -2,6 +2,8 @@
 title: "Walking Meditation - February Chilly Challenge then let's go to a cafe!"
 tags: [ "event", "walking", "meditation", "chilly challenge", "february", "full moon" ]
 author: Rob Nugen
+EventTime: "gather at 11:45; enter Yoyogi Park at noon"
+EventDate: 2021-02-27
 date: 2021-01-28T09:44:14+09:00
 ---
 
