@@ -84,7 +84,6 @@ motions of your body, one breath and one step at a time.
 Buy tickets (500 yen)
 -->
 
-
 12:00 noon: Enter Yoyogi Park
 
 What to Expect:
