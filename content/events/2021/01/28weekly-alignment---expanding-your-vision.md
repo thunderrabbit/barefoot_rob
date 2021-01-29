@@ -23,7 +23,7 @@ class="title" />
 
 #### Details
 
-After we [got aligned with your inner spirit](/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/) this week we [discover just how big a vision you can create](/blog/2021/01/28/weekly-alignment-healing-your-body-and-expand-heart-vision/) for yourself.
+After we [got aligned with your inner spirit](/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/) this week we [discovered just how big a vision you can create](/blog/2021/01/28/weekly-alignment-healing-your-body-and-expand-heart-vision/) for yourself.
 
 #### About Weekly Alignments
 

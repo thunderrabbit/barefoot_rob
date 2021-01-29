@@ -55,6 +55,8 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 
 ## Listen to Recent Events ##
 
+* Jan 28th: Two for one!  (^_^) [Healing Your Body + Expand Your Heart Vision](/blog/2021/01/28/weekly-alignment-healing-your-body-and-expand-heart-vision/) enjoy living as an infinite spirit!
+
 * Jan 21st: [Recognize Your Magnificence](/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/).  Stay in touch with your inner light which outshines the sun.
 
 * Jan 14th: [You have everything you need to do all you want.](/blog/2021/01/14/weekly-alignment-you-are-enough/)  You are enough.
