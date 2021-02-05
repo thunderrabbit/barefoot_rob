@@ -7,6 +7,9 @@ EventTime: "9am or so"
 EventDate: "2021-04-12"
 ---
 
+
+
+
 <img
 src="//b.robnugen.com/blog/2021/first_day_walk_planned_for_12_april_2021.png"
 alt="First day 21km walk planned for 12 April 2021"
