@@ -1,7 +1,7 @@
 ---
 title: "Weekly Alignment - Digging In"
 tags: [ "align", "weekly", "audio", "meditation" ]
-categories: [ "blog" ]
+categories: [ "align" ]
 author: Rob Nugen
 draft: false
 date: 2021-02-04T12:09:29+09:00
@@ -23,41 +23,40 @@ being.  Notice we are animated from within by the breath of life.
   Your browser does not support this audio content.
 </audio>
 
-    I imagine the search could seem complicated, and allowing yourself to
-    settle within the concept:
+    I imagine the search could seem complicated, and allowing yourself
+    to settle within the concept:
     
-    I am the one I've been waiting for kind of
-    idea, you know, we are the ones we've been waiting for. is very
-    supportive idea for me, it's scary in a way to say "who me? Oh, no!"
-    kind of, kind of thing.
+    I am the one I've been waiting for kind of idea, you know, we are
+    the ones we've been waiting for. is very supportive idea for me,
+    it's scary in a way to say "who me? Oh, no!"  kind of, kind of
+    thing.
     
-    And it has really turned out to be true in a
-    lot of ways, for me over many different aspects of my life.
+    And it has really turned out to be true in a lot of ways, for me
+    over many different aspects of my life.
     
-    So the,
-    the search continues for, as I hear you saying, and the invitation to
-    allow the search to come from within with your own superpowers and
-    your own gifts to the world.
+    So the, the search continues for, as I hear you saying, and the
+    invitation to allow the search to come from within with your own
+    superpowers and your own gifts to the world.
     
-    And certainly keep listening to the great
-    masters and the the people who have recognized the truth of who we are
-    in the, in this lifetime.
+    And certainly keep listening to the great masters and the the
+    people who have recognized the truth of who we are in the, in this
+    lifetime.
     
-    What's coming up, for me is the the concept of being grounded within
-    the search itself and within the work of moving forward in the
-    processes.
+    What's coming up, for me is the the concept of being grounded
+    within the search itself and within the work of moving forward in
+    the processes.
     
     A lot of things can come up, and if, if we stay grounded, then
-    whatever comes up is simply something that we notice on the on the,
-    like, outside of us, so to speak, or within the hologram of the game
-    that we're playing.
+    whatever comes up is simply something that we notice on the on
+    the, like, outside of us, so to speak, or within the hologram of
+    the game that we're playing.
     
-    We can remain grounded in the self for the duration of however long
-    that lasts within within the vision of our life there.
+    We can remain grounded in the self for the duration of however
+    long that lasts within within the vision of our life there.
     
-    So just to get started, May I invite you to feel this physical body
-    and feel it sitting relaxed in your chair or in in your seat.  Just
-    fully embodying your body.
+    So just to get started, May I invite you to feel this physical
+    body and feel it sitting relaxed in your chair or in in your seat.
+    Just fully embodying your body.
     
     Noticing it has been breathing this entire time. That breathing is
     there to serve you as you share your gifts with the world.
@@ -77,7 +76,8 @@ being.  Notice we are animated from within by the breath of life.
     
     So it's actually beyond time, this moment of now,
     
-    Allow your sense of this moment, the sense of your being to gently expand.
+    Allow your sense of this moment, the sense of your being to gently
+    expand.
     
     expanding in space,
     
@@ -90,7 +90,8 @@ being.  Notice we are animated from within by the breath of life.
     
     Actually, we include it.
     
-    Notice what it's like to literally include time and space within your being.
+    Notice what it's like to literally include time and space within
+    your being.
     
     From this perspective, all of timespace becomes very small as we
     see from a grander perspective.
@@ -229,4 +230,7 @@ being.  Notice we are animated from within by the breath of life.
     begin to re embody the physical bodies
     
     I welcome you back into this shared space.
-    
+
+(The above transcript was extracted from our live interactive Weekly Alignment on Thursday night.)
+
+Join us for [Weekly Alignments online Thursday nights 7pm JST](/weekly-alignments/).
