@@ -1,5 +1,5 @@
-#!/uar/bin/perl
-# 
+#!/usr/bin/perl
+#
 # Usage:
 #   update-walkabout-dates.pl input_file_to_be_edited_in_place.md
 #
@@ -16,7 +16,7 @@ close IN;
 my ($daynum, $date);
 foreach my $dayline ($in =~ /^(.*class\s*=\s*"day_source".*)/mg) {
   ($daynum, $date) = $dayline =~ /day_source"\s*>\s*(\d+).*\(([^)]+/;
-  if ($havent_fount_today) {
+  if ($havent_found_today) {
     # look for today
   } else {
     # look for and entry whose daynum is $future_daynum, and edit it.
