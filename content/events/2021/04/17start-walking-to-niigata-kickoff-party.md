@@ -8,6 +8,11 @@ EventTime: "Afternoon? (TBD)"
 EventDate: 2021-04-17
 ---
 
+<img
+src="//b.robnugen.com/journal/2020/walk/2020_jun_30_rob_ferris_wheel.jpg"
+alt="Outside Yomiuriland big ferris wheel"
+class="title" />
+
 #### When
 
 **afternoon? (TBD) Saturday 17 April 2021**
