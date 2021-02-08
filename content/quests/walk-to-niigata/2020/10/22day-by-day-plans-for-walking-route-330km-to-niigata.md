@@ -44,9 +44,9 @@ Here is the entire route on plotaroute.com.  The map takes a bit to load all of 
 
 These are maps of each segment, and are subject to change.  I do not yet have a good way to post edits to this page from the road, but am working on that.
 
-* Day 0.0 Walk 20km from [Rinko Park, on the bay in Yokohama](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/), to my house (not shown).
+* Day 0.0 Walk <span class="km_source">20km</span> from [Rinko Park, on the bay in Yokohama](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/), to my house (not shown).
 
-* Day 01.1 Walk 04km from [my house (not shown) To Yomiuriland](https://www.plotaroute.com/route/1344324?units=km) (4km total)
+* Day 01.1 Walk <span class="km_source">04km</span> from [my house (not shown) To Yomiuriland](https://www.plotaroute.com/route/1344324?units=km) (4km total)
 
 I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百合ヶ丘駅 or neither station and just go a more direct route.
 
@@ -54,7 +54,7 @@ I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百
 
 ----
 
-* Day 01.2 Walk 08km From [Yomiuriland To LiveMax hotel in Fuchu](https://www.plotaroute.com/route/1189775?units=km) (12km total)
+* Day 01.2 Walk <span class="km_source">08km </span>From [Yomiuriland To LiveMax hotel in Fuchu](https://www.plotaroute.com/route/1189775?units=km) (12km total)
 
 <!-- I was originally planning to stay next to Tama River, but that leaves a longer walk for day 2, and has no amenities. -->
 
@@ -64,7 +64,7 @@ It will probably be dark by the time we leave Yomiuriland, so I doubt we will be
 
 ----
 
-* Day 02.1 Walk 6.5km, [LiveMax hotel to Pizza-la via Musashi Kokubunji Park](https://www.plotaroute.com/route/1314448?units=km) (18km total)
+* Day 02.1 Walk <span class="km_source">6.5km</span>, [LiveMax hotel to Pizza-la via Musashi Kokubunji Park](https://www.plotaroute.com/route/1314448?units=km) (18km total)
 
 We will pass a couple of parks and walk near Kokubunji Station.
 
@@ -72,7 +72,7 @@ We will pass a couple of parks and walk near Kokubunji Station.
 
 ----
 
-* Day 02.2 Walk 7.5km from [Pizza-la To Seibuen](https://www.plotaroute.com/route/1314449?units=km) (26km total)
+* Day 02.2 Walk <span class="km_source">7.5km</span> from [Pizza-la To Seibuen](https://www.plotaroute.com/route/1314449?units=km) (26km total)
 1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
 2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
 
@@ -80,7 +80,7 @@ We will pass a couple of parks and walk near Kokubunji Station.
 
 ----
 
-* Day 03.1 [Seibuen To Fujisawa Central Park](https://www.plotaroute.com/route/1189816?units=km)
+* Day 03.1 Walk from [Seibuen To Fujisawa Central Park](https://www.plotaroute.com/route/1189816?units=km)
 
 [![05 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/05_walk_10km_to_Fujisawa_central_park.png)](https://www.plotaroute.com/route/1189816?units=km)
 
