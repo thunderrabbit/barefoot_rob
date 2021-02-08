@@ -1,10 +1,13 @@
 ---
-title: "Day by Day plans for walking route 330km to Niigata"
+title: "Day by Day plans for walking 400km to Niigata"
 tags: [ "niigata", "quest", "plot", "route", "maps", "walking", "barefoot", "plan" ]
 categories: [ "quests" ]
 author: Rob Nugen
 draft: false
-aliases: [ "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/" ]
+aliases: [
+     "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/",
+     "/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/"
+ ]
 date: 2021-02-07T12:02:45+09:00
 ---
 
