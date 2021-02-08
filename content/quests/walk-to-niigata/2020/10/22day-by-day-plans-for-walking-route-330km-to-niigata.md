@@ -5,10 +5,12 @@ categories: [ "quests" ]
 author: Rob Nugen
 draft: false
 aliases: [ "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/" ]
-date: 2021-01-13T12:02:45+09:00
+date: 2021-02-07T12:02:45+09:00
 ---
 
 I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
+
+*To make better use of Golden Week holidays, and hopefully allow more people to join the kickoff events, I have moved the start date to <ins>Friday April 16th</ins>*, 2021.   So I will now add 4 days to all the dates below:
 
 Starting April 12th at
 [Rinko Park](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/)
