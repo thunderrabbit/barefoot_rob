@@ -44,7 +44,7 @@ Here is the entire route on plotaroute.com.  The map takes a bit to load all of 
 
 These are maps of each segment, and are subject to change.  I do not yet have a good way to post edits to this page from the road, but am working on that.
 
-* Day <span class="day_source">01</span>.1
+* Day <span class="day_source">01</span>.1 (Friday April 16th 2021)
 Walk <span class="km_source">20</span>km,
 from [Rinko Park, on the bay in Yokohama](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/), to my house (not shown).
 (<span class="km_total">20</span>km total)
