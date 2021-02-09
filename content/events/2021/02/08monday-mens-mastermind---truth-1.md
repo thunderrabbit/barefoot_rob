@@ -1,6 +1,6 @@
 ---
 title: "Monday Men's Mastermind - TRUTH 1"
-tags: [ "event", "blb", "truth" ]
+tags: [ "event", "blb", "truth", "mmm" ]
 author: Rob Nugen
 date: 2021-02-07T18:20:05+09:00
 EventTime: "7pm JST"
