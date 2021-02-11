@@ -4,6 +4,8 @@ tags: [ "barefoot rob", "about" ]
 date: 2020-02-10T15:38:44+09:00
 ---
 
+[![2020 nov rob profile 800px](//b.robnugen.com/rob/portraits/thumbs/2020_nov_rob_profile_800px.png)](//b.robnugen.com/rob/portraits/2020_nov_rob_profile_800px.png)
+
 Rob conducts workshops and meetings giving people skills to connect with each other and with their personal life mission.
 
 Rob has been running a men’s peer counseling group in Tokyo since 2015. Rob has been conducting spiritual workshops in both Tokyo and Kanagawa. He is currently training towards certification in shadow work. This process aims to put people more in touch with the hidden aspects of themselves also known as a person’s shadow.
