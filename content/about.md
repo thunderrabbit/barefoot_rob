@@ -8,9 +8,9 @@ date: 2020-02-10T15:38:44+09:00
 
 Rob conducts workshops and meetings giving people skills to connect with each other and with their personal life mission.
 
-Rob has been running a men’s peer counseling group in Tokyo since 2015. Rob has been conducting spiritual workshops in both Tokyo and Kanagawa. He is currently training towards certification in shadow work. This process aims to put people more in touch with the hidden aspects of themselves also known as a person’s shadow.
+Rob has been running a men’s peer counseling group in Tokyo since 2015. Rob has been conducting spiritual workshops in both Tokyo and Kanagawa.
 
-As a 17-year resident in Kanagawa, Rob is fully aware of both the joys and pitfalls of life in Japan. In the middle of work, relationships, and other commitments, it is easy to feel cut off, isolated, and eager to find something more meaningful.
+As an 18-year resident in Kanagawa, Rob is fully aware of both the joys and pitfalls of life in Japan. In the middle of work, relationships, and other commitments, it is easy to feel cut off, isolated, and eager to find something more meaningful.
 
 My experience in counseling and facilitation work includes:
 
