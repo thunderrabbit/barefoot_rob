@@ -55,6 +55,8 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 
 ## Listen to Recent Events ##
 
+* Feb 11th: [Letting Go](/blog/2021/02/11/weekly-alignment-letting-go/), use your subconscious to manifest your desires (sigil magic), and enjoy a meditation allowing new things in to your life.
+
 * Feb 04th: [Digging In](/blog/2021/02/04/weekly-alignment-digging-in/), allow yourself to fully embody your Self.
 
 * Jan 28th: Two for one!  (^_^) [Healing Your Body + Expand Your Heart Vision](/blog/2021/01/28/weekly-alignment-healing-your-body-and-expand-heart-vision/) enjoy living as an infinite spirit!
@@ -68,29 +70,29 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 <details>
 <summary>see more..</summary>
 
-* Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
+* 2020 Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
   will we have to give up?  What can we gain?
 
-* Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
+* 2020 Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
   higher self voice when things are going awry?
 
-* Dec 10th: [Who are we without our past self or future self?](/blog/2020/12/10/weekly-alignment-who-are-we-outside-of-time/)  What opportunities
+* 2020 Dec 10th: [Who are we without our past self or future self?](/blog/2020/12/10/weekly-alignment-who-are-we-outside-of-time/)  What opportunities
     does this awareness offer?
 
-* Dec 3rd: [Discover Your Super Power](/blog/2020/12/04/weekly-alignments-discover-your-super-power/).  What innate power do you have without even knowing it?
+* 2020 Dec 3rd: [Discover Your Super Power](/blog/2020/12/04/weekly-alignments-discover-your-super-power/).  What innate power do you have without even knowing it?
 
-* Nov 26th: [Interactive look at life from outside of Time](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/).  We will move in and
+* 2020 Nov 26th: [Interactive look at life from outside of Time](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/).  We will move in and
     out of different locations in our (life)time-space continuum.  [Find your deepest desire](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/)
 
-* Nov 19th: [Regain Control of Your Life](/blog/2020/11/19/livestream-replay-regain-control-of-your-life/)
+* 2020 Nov 19th: [Regain Control of Your Life](/blog/2020/11/19/livestream-replay-regain-control-of-your-life/)
     Discover patterns from the highest possible perspective. Experience
     life outside of time itself. Learn who you are within time.
 
-* Nov 12th: [Finding Your Life Purpose](/blog/2020/11/12/finding-your-life-purpose-video-replay/)
+* 2020 Nov 12th: [Finding Your Life Purpose](/blog/2020/11/12/finding-your-life-purpose-video-replay/)
   Discover how unmet needs saps your energy.  Find what brings your
   inner power back into your life!
 
-* Nov 5th: [Healing Your Inner Child](/blog/2020/11/02/healing-inner-child-free-online-workshop/)
+* 2020 Nov 5th: [Healing Your Inner Child](/blog/2020/11/02/healing-inner-child-free-online-workshop/)
   Understand your inner child. Meet your inner child and discover
   what they need. Learn 3 simple steps to recovering your inner
   power.
