@@ -79,7 +79,7 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 * 2020 Dec 10th: [Who are we without our past self or future self?](/blog/2020/12/10/weekly-alignment-who-are-we-outside-of-time/)  What opportunities
     does this awareness offer?
 
-* 2020 Dec 3rd: [Discover Your Super Power](/blog/2020/12/04/weekly-alignments-discover-your-super-power/).  What innate power do you have without even knowing it?
+* 2020 Dec 3rd: [Discover Your Super Power](/blog/2020/12/03/weekly-alignments-discover-your-super-power/).  What innate power do you have without even knowing it?
 
 * 2020 Nov 26th: [Interactive look at life from outside of Time](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/).  We will move in and
     out of different locations in our (life)time-space continuum.  [Find your deepest desire](/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/)
