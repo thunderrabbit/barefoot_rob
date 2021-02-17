@@ -70,7 +70,7 @@ Live and interactive, the curriculum will adjust based on attendee questions and
 <details>
 <summary>see more..</summary>
 
-* 2020 Dec 24th: [What parts of ourselves can we release as we go into 2021?](/events/2020/12/24weekly-alignment-release-old-energy-from-2020/)  What
+* 2020 Dec 24th: [What parts of ourselves can we release as we go into 2021?](/blog/2020/12/24/weekly-alignment-releasing-old-energy/)  What
   will we have to give up?  What can we gain?
 
 * 2020 Dec 17th: [Listening to our Self in realtime](/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/).  How do we stay connected to
