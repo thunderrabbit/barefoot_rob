@@ -4,19 +4,27 @@ echo stop the presses
 echo
 echo We are now using acast for podcasts
 echo 
-echo 1. Record audio locally
-echo 2. Rename audio file yyyy_mmm_dd_title.wav
-echo 3. Upload to otter.ai
-echo 4. wait for transcription
-echo 5. Download otter.ai.txt file for the .wav file
-echo 6. Open .wav file with audacity via 'aud' at command line which fixes a display bug
-echo 7. Trim and clean up the audio file
-echo 8. Trim and clean up the text file
-echo 9. Export .mp3 file as before
-echo 10. Upload .mp3 file to acast
-echo 11. Create blog entry for the podcast
-echo 12. Embed text file of transcript
-echo 13. Point past episodes in about.md to blog entry on rnc
+echo Decide on event title
+echo Create event via Emacs
+echo 1. Find image matching the content
+echo 2. Create placeholder for podcast on acast.com
+echo 3. Upload image to b.robnugen.com
+echo 4. add image to event on Emacs and acast.com
+echo 5. add image credit to both places
+echo 6. write a blurb in both places
+echo 7. Record audio locally
+echo 8. Rename audio file yyyy_mmm_dd_title.wav
+echo 9. Upload to otter.ai
+echo 10. wait for transcription
+echo 11. Download otter.ai.txt file for the .wav file
+echo 12. Open .wav file with audacity via 'aud' at command line which fixes a display bug
+echo 13. Trim and clean up the audio file
+echo 14. Trim and clean up the text file
+echo 15. Export .mp3 file as before
+echo 16. Upload .mp3 file to acast
+echo 17. Create blog entry for the podcast
+echo 18. Embed text file of transcript
+echo 19. Point past episodes in about.md to blog entry on rnc
 echo cd ~/barefoot_rob
 echo ./up_weekly_alignments.sh
 
