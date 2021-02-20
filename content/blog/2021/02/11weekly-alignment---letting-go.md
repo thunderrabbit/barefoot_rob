@@ -8,7 +8,7 @@ date: 2021-02-11T17:32:51+09:00
 ---
 
 <img
-src="https://b.robnugen.com/blog/2021/letting_go.jpg"
+src="//b.robnugen.com/blog/2021/letting_go.jpg"
 alt="Weekly Alignments 7pm Thursdays JST"
 class="title" />
 
