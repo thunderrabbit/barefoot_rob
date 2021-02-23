@@ -8,7 +8,7 @@ aliases: [
      "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/",
      "/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/"
  ]
-date: 2021-02-07T12:02:45+09:00
+date: 2021-02-23T12:02:45+09:00
 ---
 
 I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
@@ -57,7 +57,8 @@ I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百
 
 [![02 walk 04km to yomiuriland](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/01_walk_04km_to_yomiuriland.png)](https://www.plotaroute.com/route/1344324?units=km)
 
-----
+<details>
+<summary>Click here to see the rest of the walk plans..</summary>
 
 * Day <span class="day_source">02</span>.2 (<span class="day_date">Saturday  April 17th</span> *)
 Walk <span class="km_source">8</span>km,
@@ -534,5 +535,7 @@ Walk <span class="km_source">9</span>km,
 
 ![54 walk 09 km from staircase to Aoyama Seaside Park](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_jan_18_finishing_leg_of_walk.png
 )
+
+</details>
 
 (*) Note: dates are subject to change!  Be sure to get in touch with me via email at my name at this domain.
