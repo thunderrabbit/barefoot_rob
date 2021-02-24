@@ -3,8 +3,7 @@
 use strict;
 use Data::Dumper;
 
-my $verbosity = 1; # integer from 0 (silent) to 5 (all the debugging info).
-my $new_videos;    # hashref
+my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
 # oh god dates are so annoying
 my $thedate = `date +%Y-%m-%d`;  chomp $thedate;  # year-month-date (numeric).
@@ -43,8 +42,6 @@ my $events_directory = "$content_directory/events";
 # append body with "If this sounds like something that would interest you, contact me, email me, find me so we can talk."
 
 
-
-exit;
 # Get input data from commands
 # TODO: error handling
 #
@@ -70,25 +67,19 @@ if ($run_live) {
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
   open (ETF,"<".$event_template_file);
-  open (BO, "<bframes_output.txt");
-  open (KVD,"<known_videos_diff.txt");
 
   $event_template = <ETF>;
-  $bframes_output = <BO>;
-  $known_videos_diff = <KVD>;
 
   close ETF;
-  close BO;
-  close KVD;
 }# $run_live
 
 if ($verbosity > 2) {
   print "length(ETF) = " . length($event_template) . "\n";
-  print "length(BO)  = " . length($bframes_output) . "\n";
-  print "length(KVD) = " . length($known_videos_diff) . "\n";
 }
 
+print $event_template;
 
+exit;
 
 ## PROCESS BFRAMES_OUTPUT
 #
@@ -162,9 +153,6 @@ print "+---------------------------------+\n";
 print "| file.md output:                 |\n";
 print "+---------------------------------+\n";
 print $mt3_episode_output;
-
-
-print "new_videos = \n" . Dumper($new_videos)  if $verbosity > 2;
 
 
 # DONE!
