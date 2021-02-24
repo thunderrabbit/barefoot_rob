@@ -58,7 +58,7 @@ I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百
 [![02 walk 04km to yomiuriland](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/01_walk_04km_to_yomiuriland.png)](https://www.plotaroute.com/route/1344324?units=km)
 
 <details>
-<summary>Click here to see the rest of the walk plans..</summary>
+<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 
 * Day <span class="day_source">02</span>.2 (<span class="day_date">Saturday  April 17th</span> *)
 Walk <span class="km_source">8</span>km,
@@ -88,6 +88,7 @@ We will pass a couple of parks and walk near Kokubunji Station.
 Walk <span class="km_source">7.5</span>km
 from [Pizza-la To Seibuen](https://www.plotaroute.com/route/1314449?units=km)
 (<span class="km_total">46</span>km total)
+**> 10% complete!!**
 
 1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
 2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
@@ -118,6 +119,7 @@ To [Aina Water Park](https://www.plotaroute.com/route/1189817?units=km)
 Walk <span class="km_source">10</span>km,
 From [Aina Water Park To Strawberry Garden](https://www.plotaroute.com/route/1191394?units=km)
 (<span class="km_total">80</span>km total)
+**= 20% complete!!**
 
 [![08 walk 10km to Strawberry garden](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/07_walk_10km_to_Strawberry_garden.png)](https://www.plotaroute.com/route/1191394?units=km)
 
@@ -145,6 +147,7 @@ Walk <span class="km_source">4</span>km,
 Walk <span class="km_source">7</span>km,
 [Musahi Park To Italian Restaurant](https://www.plotaroute.com/route/1191457?units=km)
 (<span class="km_total">103</span>km total)
+**> 25% complete!!**
 
 [![11 walk 07km to Italian restaurant](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/10_walk_07km_to_Italian_restaurant.png)](https://www.plotaroute.com/route/1191457?units=km)
 
@@ -169,24 +172,34 @@ From [Arakawa To Cafe Tsumugi For Lunch](https://www.plotaroute.com/route/119265
 ----
 
 * Day <span class="day_source">07</span>.2 (<span class="day_date">Thursday  April 22nd</span> *)
-Walk <span class="km_source">11</span>km,
-[Matsuhisa Station Cafe To Tone River](https://www.plotaroute.com/route/1192660?units=km)
-(<span class="km_total">124</span>km total)
+Walk <span class="km_source">8</span>km,
+[Matsuhisa Station Cafe To hotel in Honjo](https://goo.gl/maps/ehNYaKW6tSpMjPGt5)
+(<span class="km_total">121</span>km total)
 
-[![14 walk 11km to tone river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/13_walk_11km_to_tone_river.png)](https://www.plotaroute.com/route/1192660?units=km)
+[![14 walk 08km to hotel in Honjo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_matsuhisa_to_honjo_hotel.png)](https://goo.gl/maps/ehNYaKW6tSpMjPGt5)
 
 ----
 
 * Day <span class="day_source">08</span>.1 (<span class="day_date">Friday    April 23rd</span> *)
-Walk <span class="km_source">9</span>km,
-From [Tone River To Kezoji Park](https://www.plotaroute.com/route/1192677?units=km)
-(<span class="km_total">133</span>km total)
+Walk <span class="km_source">7</span>km,
+From [hotel in Honjo To Isesaki Shiminnomori Park](https://goo.gl/maps/gPxY72rz64UXVgVu9)
+(new stop!)
+(<span class="km_total">128</span>km total)
 
-[![15 walk 09km from tone river to kezoji park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/14_walk_09km_from_tone_river_to_kezoji_park.png)](https://www.plotaroute.com/route/1192677?units=km)
+[![15 walk 12km from hotel in Honjo to Isesaki Shiminnomori Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_honjo_hotel_to_isesaki_shiminnomori_park.png)](https://goo.gl/maps/gPxY72rz64UXVgVu9)
 
 ----
 
 * Day <span class="day_source">08</span>.2 (<span class="day_date">Friday    April 23rd</span> *)
+Walk <span class="km_source">5</span>km,
+From [Isesaki Shiminnomori Park To Kezoji Park](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
+(<span class="km_total">133</span>km total)
+
+[![15 walk 12km from Isesaki Shiminnomori Park to Kezoji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_isesaki_shiminnomori_park_to_kezoji_park.png)](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
+
+----
+
+* Day <span class="day_source">08</span>.3 (<span class="day_date">Friday    April 23rd</span> *)
 Walk <span class="km_source">6</span>km,
 From [Kezoji Park To Momonoki River](https://www.plotaroute.com/route/1192679?units=km)
 (<span class="km_total">139</span>km total)
