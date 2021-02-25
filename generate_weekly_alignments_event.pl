@@ -77,10 +77,6 @@ if ($verbosity > 2) {
   print "length(ETF) = " . length($event_template) . "\n";
 }
 
-print $event_template;
-
-exit;
-
 ## PROCESS BFRAMES_OUTPUT
 #
 # Notes:
@@ -119,11 +115,13 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 ## BUILD OUTPUT
 #
-my $new_entry = "this is a hardcoded video title";
+my $new_entry;
+my $title = get_title();
 
-my $tagstring = get_tags($new_entry);  # returns qq/"mt3", "livestream", "maybe_others"/
-my ($episode_image,$episode_thumb) = get_episode_image($new_entry);
+my $tagstring = get_tags();  # returns qq/"mt3", "livestream", "maybe_others"/
+my ($episode_image,$episode_thumb) = get_episode_image();
 
+$new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
 $new_entry->{episode_image} = $episode_image;
 $new_entry->{episode_thumbnail} = $episode_thumb;
@@ -158,7 +156,33 @@ print $mt3_episode_output;
 # DONE!
 # END MAIN()
 # SUBROUTINES FOLLOW
+sub get_title($)
+{
+  my $confirmed = 0;
+  my $title;
+  my $prefix = "Weekly Alignments - ";
+  while (!$confirmed) {
+    $title = <STDIN>;
+    $title =~ s/\s+/ /g;       # two spaces => one space
+    $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace
+    $title =~ s/^"(.*)"$/$1/;  # strip surrounding "s
+    $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace  }
+    $title = $prefix.$title;
+    print "\nIs this title string correct?  (y/n)\n";
+    print "  $title\n";
+    while (1) {
+      my $resp = <STDIN>;
+      $resp =~ s/^\s+|\s+$//g;
 
+      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
+      elsif ($resp =~ /^n/i) { $confirmed = 0; last; }
+      else  {
+        print "Please answer \"yes\" or \"no\".  ";
+      }
+    }# while confirm tags
+  }
+  return $title;
+}
 
 sub get_tags($) {
   my $confirmed = 0;
