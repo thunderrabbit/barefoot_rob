@@ -167,6 +167,7 @@ sub get_title($)
   my $title;
   my $prefix = "Weekly Alignments - ";
   while (!$confirmed) {
+    print "Enter title that comes after '" . $prefix . "'\n\n";
     $title = <STDIN>;
     $title =~ s/\s+/ /g;       # two spaces => one space
     $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace
@@ -182,7 +183,7 @@ sub get_title($)
       if    ($resp =~ /^y/i) { $confirmed = 1; last; }
       elsif ($resp =~ /^n/i) { $confirmed = 0; last; }
       else  {
-        print "Please answer \"yes\" or \"no\".  ";
+        print "Please answer \"y\" or \"n\".  ";
       }
     }# while confirm tags
   }
