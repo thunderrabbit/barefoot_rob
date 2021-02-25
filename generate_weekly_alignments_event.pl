@@ -2,18 +2,22 @@
 
 use strict;
 use Data::Dumper;
+use DateTime;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
-# oh god dates are so annoying
-my $thedate = `date +%Y-%m-%d`;  chomp $thedate;  # year-month-date (numeric).
-my $thetime = `date +%H-%M-%S`;  chomp $thetime;  # hour-min-sec    (numeric).
-my $year    = `date +%Y`;        chomp $year;
-my $month   = `date +%m`;        chomp $month;
-my $day     = `date +%d`;        chomp $day;
-
-my $zone = "Japan/Tokyo";
+my $zone = "Asia/Tokyo";
 my $zoffset = "+09:00";
+
+my $dt = DateTime->now(
+    time_zone  => $zone,
+);
+
+my $thedate = $dt->ymd;  # year-month-date (numeric).
+my $thetime = $dt->hms;  # hour-min-sec    (numeric).
+my $year    = $dt->year;
+my $month   = $dt->month;
+my $day     = $dt->day;
 
 my $event_template_file = "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt";
 my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
@@ -118,6 +122,7 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 my $new_entry;
 my $title = get_title();
 
+my $event_date = get_date($dt);
 my $tagstring = get_tags();  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
@@ -125,12 +130,12 @@ $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
 $new_entry->{episode_image} = $episode_image;
 $new_entry->{episode_thumbnail} = $episode_thumb;
-
+$new_entry->{EventDate} = $event_date;
 # now build the output!
 my $mt3_episode_output = $event_template;
 
 # handle date separately
-$mt3_episode_output =~ s/^(date: .*)/date: $new_entry->{published}/im;
+$mt3_episode_output =~ s/^(date: .*)/date: $dt/im;
 
 # do the rest algorithmically
 foreach my $key (keys %$new_entry) {
@@ -182,6 +187,18 @@ sub get_title($)
     }# while confirm tags
   }
   return $title;
+}
+
+sub get_date($) {
+  my ($dt) = (@_);
+  my $desired_day_of_week = 4;  # Thursday
+  print "in get date.   TODO: let us choose which upcoming Thursday to use.... \n";
+  my $days_until_coming_thursday = ($desired_day_of_week + 7 - $dt->day_of_week) % 7;  #  https://codereview.stackexchange.com/a/33648/5794
+  print $dt->day_of_week . "\n";
+  print $days_until_coming_thursday . "\n";
+  print "leavin get date\n";
+  $dt->add( days => $days_until_coming_thursday );
+  return $dt->ymd;
 }
 
 sub get_tags($) {
