@@ -161,8 +161,6 @@ print $mt3_episode_output;
 
 
 sub get_tags($) {
-  my ($new_entry) = (@_);
-
   my $confirmed = 0;
   my $tagstring;
 
@@ -172,13 +170,7 @@ sub get_tags($) {
     my %tags = ("mt3" => 1, "livestream" => 1);
 
     print "\n";
-    print "Please enter tags for the following video,\n";
-    print "separated by commas or carriage returns.\n";
-    print "  title:     $new_entry->{title}\n";
-    print "  youtubeID: $new_entry->{youtube}\n";
-    print "  published: $new_entry->{published}\n";
-    print "  duration:  $new_entry->{duration}\n";
-    print "\n";
+    print "Please enter tags for the post.\n";
     print "Enter a blank line to complete entry.\n";
     print "Prepend a tag with - to remove.\n";
 
