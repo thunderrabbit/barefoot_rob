@@ -122,7 +122,7 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 my $new_entry;
 my $title = get_title();
 
-my $event_date = get_date($dt);
+my ($event_date, $event_date_human) = get_date($dt);
 my $tagstring = get_tags();  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
@@ -135,8 +135,8 @@ $new_entry->{EventDate} = $event_date;
 my $mt3_episode_output = $event_template;
 
 # handle date separately
-$mt3_episode_output =~ s/^(date: .*)/date: $dt/im;
-
+$mt3_episode_output =~ s/^(date: .*)/date: $event_date/im;
+$mt3_episode_output =~ s/human_date_here/$event_date_human/;
 # do the rest algorithmically
 foreach my $key (keys %$new_entry) {
   my $value = $new_entry->{$key};
@@ -198,7 +198,7 @@ sub get_date($) {
   print $days_until_coming_thursday . "\n";
   print "leavin get date\n";
   $dt->add( days => $days_until_coming_thursday );
-  return $dt->ymd;
+  return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
 }
 
 sub get_tags($) {
