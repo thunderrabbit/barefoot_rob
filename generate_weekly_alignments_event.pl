@@ -191,7 +191,7 @@ sub get_tags($) {
 
   while (!$confirmed) {
     # put the tags in a hash
-    my %tags = ("mt3" => 1, "livestream" => 1);
+    my %tags = ("weekly" => 1, "alignment" => 1, "event" => 1);
 
     print "\n";
     print "Please enter tags for the post.\n";
