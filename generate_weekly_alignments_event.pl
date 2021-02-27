@@ -23,6 +23,7 @@ my $event_template_file = "/home/thunderrabbit/.emacs.d/modes/hugo/templates/eve
 my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
 my $blog_directory = "$content_directory/blog";
 my $events_directory = "$content_directory/events";
+my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
 #######################################################3#######################################################3
 # THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
@@ -78,10 +79,17 @@ if ($verbosity > 2) {
   print "length(ETF) = " . length($event_template) . "\n";
 }
 
+my $number_args = $#ARGV + 1;
+if ($number_args != 1) {
+    print "Feel free to send an image as first argument.\n";
+} else {
+    $title_image=$ARGV[0];
+}
+
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
-my @episode_images = $bframes_output =~ m{(https://b.robnugen.com .* /track/parts/ .* jpg)}xig;
+my @episode_images = ($title_image);
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 
@@ -105,16 +113,13 @@ my $mt3_episode_output = $event_template;
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $event_date/im;
 $mt3_episode_output =~ s/human_date_here/$event_date_human/;
+$mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
 foreach my $key (keys %$new_entry) {
   my $value = $new_entry->{$key};
   $mt3_episode_output =~ s/^(\Q$key\E: .*?)%s(.*)/$1$value$2/im;
 }# $k
 
-
-# append images
-$mt3_episode_output .= "Here are the frames taken today:\n\n";  # should this go in the template?
-$mt3_episode_output .= $frameout;
 
 # store this for debugging
 $new_entry->{mt3_episode_output} = $mt3_episode_output;
