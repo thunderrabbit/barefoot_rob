@@ -241,9 +241,7 @@ sub get_tags($) {
 
 sub get_event_type() {
   my (@event_types) = (@_);
-  my $confirmed = 0;
   my $event_type;
-  while (!$confirmed) {
 
     print "\n";
     print "Possible event types:\n";
@@ -261,21 +259,8 @@ sub get_event_type() {
     $event_type = $event_types[$jj-1];
 
     # confirm selected image
-    print "\nIs this event type correct?  (yes/no)\n";
+    print "\nCtrl-C if you ain't happy with your choice!\n";
     print "  event_type:     $event_type\n";
-
-    while (1) {
-      my $resp = <STDIN>;
-         $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"yes\" or \"no\".  ";
-      }
-    }# while confirm images
-
-  }# !$confirmed
 
   return $event_type;
 }
