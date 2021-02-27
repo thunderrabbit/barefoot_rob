@@ -78,35 +78,6 @@ if ($verbosity > 2) {
   print "length(ETF) = " . length($event_template) . "\n";
 }
 
-## PROCESS BFRAMES_OUTPUT
-#
-# Notes:
-#   1. We do not explicitly handle the case of two different new videos.
-#      I have a thought of how to do this slightly cleverly.
-#      BUT!  The current one-video assumption is not bad.
-#      If there are multiple videos:
-#        - It will add all the frames to all the videos,
-#          meaning the user has to hand-delete the extra frames.
-#        - The user will have to pick from a longer list for thumbnails.
-#          Probably this will not cause difficulty.
-#
-#   2. We make assumptions of what the filenames look like.
-#      episodes: b.robnugen.com/path/to/track/parts/more/path/filename.jpg
-#      images: //b.robnugen.com/path/to/frames/more/stuff/filename.jpg
-#      thumbs: //b.robnugen.com/all/the/same/but/add/thumbs/as/bottom/subdir/filename.jpg
-#
-my $frameout = "";
-my @frames = $bframes_output =~ m{(//b.robnugen.com .* /frames/ .* jpg)}xig;
-
-foreach my $frame (@frames) {
-  my ($id) = $frame =~ m{([^/]+).jpg};
-      $id  =~ s/_/ /g;  # convert all _ to space
-
-  my $thumb = "$1/thumbs/$2" if $frame =~ m{(.*)/([^/]+)};
-
-  $frameout .= "[![$id]($thumb)]($frame)\n";
-}# $frame
-
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
