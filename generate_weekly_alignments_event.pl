@@ -242,11 +242,8 @@ sub get_episode_image($) {
   while (!$confirmed) {
 
     print "\n";
-    print "Please select the episode image for the following video:\n";
-    print "  title:     $new_entry->{title}\n";
-    print "  youtubeID: $new_entry->{youtube}\n";
-    print "  published: $new_entry->{published}\n";
-    print "  duration:  $new_entry->{duration}\n";
+    print "Please select the event image for the following event:\n";
+    print "  title:     $title\n";
     print "\n";
 
     my $num_episode_images = scalar(@episode_images);
