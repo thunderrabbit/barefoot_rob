@@ -24,27 +24,24 @@ my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
 my $blog_directory = "$content_directory/blog";
 my $events_directory = "$content_directory/events";
 
+#######################################################3#######################################################3
+# THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
+#
 # load latest files from events directory
-
 # look for files which contain a line including "tags" and "mmm"
-
 # ask which file to pull data from
-
 # EVENT_FILE = slurp file user selects from list
-
 # $blog_date = get date from user, default to most recent Monday
-
 # create BLOGFILE:
-
-# BLOGFILE = copy  EVENT_FILE to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
-# (NOOP): keep same title and tags
-# change date in frontmatter to match $blog_date  (see below "# handle date separately")
-# remove line starting with EventTime
-# remove line starting with EventDate
-# remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
-
+## BLOGFILE = copy  EVENT_FILE to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
+## (NOOP): keep same title and tags
+## change date in frontmatter to match $blog_date  (see below "# handle date separately")
+## remove line starting with EventTime
+## remove line starting with EventDate
+## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
 # append body with "If this sounds like something that would interest you, contact me, email me, find me so we can talk."
-
+#
+#######################################################3#######################################################3
 
 # Get input data from commands
 # TODO: error handling
