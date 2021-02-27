@@ -275,7 +275,7 @@ sub get_episode_image($) {
       else  {
         print "Please answer \"yes\" or \"no\".  ";
       }
-    }# while confirm tags
+    }# while confirm images
 
   }# !$confirmed
 
