@@ -24,7 +24,9 @@ my %event_template_files = (
     "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
     );
 
-my $event_template_file = $event_template_files{walking_meditation};
+my $what_kinda_event = get_event_type(sort keys %event_template_files);
+
+my $event_template_file = $event_template_files{$what_kinda_event};
 my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
 my $blog_directory = "$content_directory/blog";
 my $events_directory = "$content_directory/events";
@@ -237,7 +239,46 @@ sub get_tags($) {
   return $tagstring;
 }# get_tags()
 
+sub get_event_type() {
+  my (@event_types) = (@_);
+  my $confirmed = 0;
+  my $event_type;
+  while (!$confirmed) {
 
+    print "\n";
+    print "Possible event types:\n";
+    print "\n";
+
+    my $num_event_types = scalar(@event_types);
+    foreach my $ii (1..$num_event_types) {
+      my $iipad = " " x (length($num_event_types) - length($ii));
+      print "$iipad($ii) $event_types[$ii-1] $iipad($ii)\n";
+    }# $ii
+
+    print "Enter the number of the type you want to select: ";
+    my $jj = <STDIN>;
+
+    $event_type = $event_types[$jj-1];
+
+    # confirm selected image
+    print "\nIs this event type correct?  (yes/no)\n";
+    print "  event_type:     $event_type\n";
+
+    while (1) {
+      my $resp = <STDIN>;
+         $resp =~ s/^\s+|\s+$//g;
+
+      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
+      elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
+      else  {
+        print "Please answer \"yes\" or \"no\".  ";
+      }
+    }# while confirm images
+
+  }# !$confirmed
+
+  return $event_type;
+}
 
 sub get_episode_image($) {
   my ($new_entry) = (@_);
