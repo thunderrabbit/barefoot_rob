@@ -19,7 +19,12 @@ my $year    = $dt->year;
 my $month   = $dt->month;
 my $day     = $dt->day;
 
-my $event_template_file = "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt";
+my %event_template_files = (
+    "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
+    "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
+    );
+
+my $event_template_file = $event_template_files{walking_meditation};
 my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
 my $blog_directory = "$content_directory/blog";
 my $events_directory = "$content_directory/events";
