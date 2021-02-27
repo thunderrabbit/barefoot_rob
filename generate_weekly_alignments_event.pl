@@ -266,7 +266,6 @@ sub get_event_type() {
 }
 
 sub get_episode_image($) {
-  my ($new_entry) = (@_);
   my $confirmed = 0;
   my ($episode_image,$episode_thumb);
 
