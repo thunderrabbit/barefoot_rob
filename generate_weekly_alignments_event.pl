@@ -24,7 +24,7 @@ my %event_template_files = (
     "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
 );
 
-my %event_tag_hash = (
+my %event_tag_hashes = (
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
 );
@@ -110,7 +110,7 @@ my $new_entry;
 my $title = get_title();
 
 my ($event_date, $event_date_human) = get_date($dt);
-my $tagstring = get_tags(%{$event_tag_hash{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
+my $tagstring = get_tags(%{$event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
 $new_entry->{title} = $title;
