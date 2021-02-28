@@ -22,7 +22,12 @@ my $day     = $dt->day;
 my %event_template_files = (
     "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
     "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
-    );
+);
+
+my %event_tag_hash = (
+    "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
+    "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
+);
 
 my $what_kinda_event = get_event_type(sort keys %event_template_files);
 
@@ -99,14 +104,13 @@ if ($number_args != 1) {
 my @episode_images = ($title_image);
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
-
 ## BUILD OUTPUT
 #
 my $new_entry;
 my $title = get_title();
 
 my ($event_date, $event_date_human) = get_date($dt);
-my $tagstring = get_tags();  # returns qq/"mt3", "livestream", "maybe_others"/
+my $tagstring = get_tags(%{$event_tag_hash{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
 $new_entry->{title} = $title;
@@ -185,11 +189,10 @@ sub get_date($) {
 sub get_tags($) {
   my $confirmed = 0;
   my $tagstring;
-
+  my (%tags) = (@_);
 
   while (!$confirmed) {
     # put the tags in a hash
-    my %tags = ("weekly" => 1, "alignment" => 1, "event" => 1);
 
     print "\n";
     print "Please enter tags for the post.\n";
