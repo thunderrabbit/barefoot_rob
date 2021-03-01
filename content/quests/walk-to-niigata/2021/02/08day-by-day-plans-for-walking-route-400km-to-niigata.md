@@ -13,9 +13,11 @@ date: 2021-02-23T12:02:45+09:00
 
 I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
 
-Starting **Friday April 16th** at
-[Rinko Park](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/)
-in Yokohama, I will walk barefoot to
+[Join us **Friday April 16th** at
+Rinko Park
+in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/),
+([map](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/))
+as I start to walk barefoot to
 [Aoyama Kaigan](https://www.google.com/maps/place/%E9%9D%92%E5%B1%B1%E6%B5%B7%E5%B2%B8%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4/@37.8980842,138.98067,17z/)
 near Niigata Station, arriving around 23 days later, during Golden Week in Japan.
 
