@@ -29,6 +29,11 @@ my %event_tag_hashes = (
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
 );
 
+my %event_title_prefixes = (
+    "weekly_alignment" => "Weekly Alignment - ",
+    "walking_meditation" => "Walking Meditation ",
+);
+
 my $what_kinda_event = get_event_type(sort keys %event_template_files);
 
 my $event_template_file = $event_template_files{$what_kinda_event};
@@ -107,7 +112,7 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 ## BUILD OUTPUT
 #
 my $new_entry;
-my $title = get_title();
+my $title = get_title($event_title_prefixes{$what_kinda_event});
 
 my ($event_date, $event_date_human) = get_date($dt);
 my $tagstring = get_tags(%{$event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
@@ -147,9 +152,9 @@ print $mt3_episode_output;
 # SUBROUTINES FOLLOW
 sub get_title($)
 {
+  my ($prefix) = (@_);
   my $confirmed = 0;
   my $title;
-  my $prefix = "Weekly Alignments - ";
   while (!$confirmed) {
     print "Enter title that comes after '" . $prefix . "'\n\n";
     $title = <STDIN>;
