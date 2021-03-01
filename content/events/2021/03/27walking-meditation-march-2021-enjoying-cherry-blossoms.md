@@ -16,7 +16,7 @@ class="title" />
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
-Barefoot Walking Experience:
+Walking Meditation Experience:
 
 Meditation, walking, breathing, enjoying crisp air.
 

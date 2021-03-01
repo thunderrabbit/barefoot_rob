@@ -13,6 +13,12 @@ src="//b.robnugen.com/blog/2021/rinko_park.jpg"
 alt="Rinko Park in Yokohama (arial view by Tsuyoshi https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/)"
 class="title" />
 
+Refresh your spirit. Touch the earth. Connect with nature.
+
+Walking Meditation Experience:
+
+Meditation, walking, breathing, enjoying crisp air.
+
 #### When
 
 **9am or so Friday 16 April 2021**
@@ -23,10 +29,16 @@ class="title" />
 
 #### Details
 
-Might as well make it a coast to coast walk, starting at the coast in Yokohama!
+Let's enjoy a morning walking meditation in Rinko Park!
+This will be a chance to feel grounded and connected to the ocean.
 
-On Friday, April 16th 2021, I plan to
-walk barefoot ~20km to my house from Rinko Park in Yokohama.  Join me
+Enjoy meditative motion, sea breeze, and hopefully sunshine.
+
+#### Bonus!
+
+After the meditation,
+I plan to
+walk barefoot ~20km from Rinko Park in Yokohama to my house in Kawasaki.  Join me
 for any or all of the walk!
 
 Google shows it will take less than 5 hours to walk, so we can
