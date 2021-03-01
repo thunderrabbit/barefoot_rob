@@ -19,3 +19,11 @@ img.title {
     font-weight: 500;
     letter-spacing: .1em;
 }
+
+div.walk-segment {
+  border: 1px solid #aaa;
+  padding: 25px;
+}
+.walk-segment ul {
+  padding-left:0;
+}
