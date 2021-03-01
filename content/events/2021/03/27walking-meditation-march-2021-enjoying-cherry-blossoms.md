@@ -22,7 +22,7 @@ Meditation, walking, breathing, enjoying crisp air.
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at noon Saturday 27 February 2021**
+**gather at 11:45; enter Yoyogi Park at noon Saturday 27 March 2021**
 
 #### Where
 
