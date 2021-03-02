@@ -12,7 +12,7 @@ src="//b.robnugen.com/blog/2021/looking_into_mirrors.jpeg"
 alt="light reflecting in three emoji shaped mirrors"
 class="title" />
 
-
+<iframe src="https://embed.acast.com/602c50cafe761d632dbe7e54/60376d931f9439579037f06d?cover=true&ga=false" frameBorder="0" allow="autoplay" width="100%" height="110"></iframe>
 
 Thank you for exploring this topic. And feeling the energy and
 recognizing this very deep seated desire for peace of mind.
