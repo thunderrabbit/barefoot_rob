@@ -28,7 +28,9 @@ Projecting ourselves into the world can cause misunderstandings, heartbreak, and
 
 What if we aren't even aware of the gap?
 
-(image credit https://bitchcr4ft.tumblr.com/post/146662807148/bitchcr4fttt)
+Enjoy the recording here https://www.robnugen.com/blog/2021/02/25/weekly-alignment-looking-into-mirrors/
+
+<div class="note">(image credit https://bitchcr4ft.tumblr.com/post/146662807148/bitchcr4fttt)</div>
 
 #### About Weekly Alignments
 
