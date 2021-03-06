@@ -8,5 +8,6 @@ aliases: [ ]
 date: 2021-02-16T12:02:45+09:00
 ---
 
-I will probably upload some extra episodes on my Weekly Alignments podcast
-https://blubrry.com/weekly_alignments/
+Instagram @hadashiusagi
+
+Reddit /u/robnugen   https://www.reddit.com/r/whereintheworld/
