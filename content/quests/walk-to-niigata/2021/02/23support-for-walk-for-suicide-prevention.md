@@ -34,7 +34,7 @@ Assuming 2500 yen of each book purchased so far can be used for covering costs b
 Daily costs:
 
 * food 2000 yen / day  * 20 days = 40,000 yen
-* accommodation 8000 yen / day * 10 days = 80,000 yen
+* accommodation 8,000 yen / day * 21 days = 168,000 yen
 
 One-time costs:
 
