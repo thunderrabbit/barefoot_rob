@@ -49,12 +49,15 @@ These are maps of each segment, and are subject to change.  I do not yet have a 
 
 * Day <span class="day_source">01</span>.1 (<span class="day_date">Friday April 16th 2021</span> *)
 Walk <span class="km_source">20</span>km,
-from [Rinko Park, on the bay in Yokohama](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/), to my house (not shown).
+From [Rinko Park](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/) on the bay in Yokohama
+to my house (not shown).
 (<span class="km_total">20</span>km total)
 
 As part of the kickoff event,
 I will lead a [walking meditation in Rinko Park](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/).
 Let's meet at 9am Friday April 16th 2021 on the [concrete circle in Rinko Park](https://goo.gl/maps/WAjBxaoAmmv5yyo18).
+
+[![Walk to our area from Rinko Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_rinko_park_to_our_area.png)](https://goo.gl/maps/QzxDHh2J1gwe6p1u9)
 
 </div>
 <div class="walk-segment">
@@ -72,46 +75,49 @@ I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百
 <br>👉🏿 Anyone want to try the bungee?  It's not *that* tall!
 
 </div>
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
+details>
+summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 <div class="walk-segment">
 
 * Day <span class="day_source">02</span>.2 (<span class="day_date">Saturday  April 17th</span> *)
 Walk <span class="km_source">8</span>km,
-From [Yomiuriland To LiveMax hotel in Fuchu](https://www.plotaroute.com/route/1189775?units=km)
+From Yomiuriland
+To [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
 (<span class="km_total">32</span>km total)
 
-<!-- I was originally planning to stay next to Tama River, but that leaves a longer walk for day 2, and has no amenities. -->
+It will probably be dark by the time we leave Yomiuriland,
+so I doubt we will be able to see much near Tama River.  
+But we'll cross Tama River and then walk a bit to Chuokan Hotel.
 
-It will probably be dark by the time we leave Yomiuriland, so I doubt we will be able to see much near Tama River.  But we'll cross Tama River and then walk a bit to LiveMax Hotel.  (TODO: make a reservation!)
-
-[![03 walk 08km to LiveMax hotel in Fuchu](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/02_walk_08km_to_livemax_hotel_in_fuchu.png)](https://www.plotaroute.com/route/1189775?units=km)
+[![03 walk 08km to Chuokan hotel in Fuchu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_yomiuriland_to_chuokan_hotel.png)](https://goo.gl/maps/bWkSxvfpEYupLuzX6)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">03</span>.1 (<span class="day_date">Sunday    April 18th</span> *)
 Walk <span class="km_source">6.5</span>km,
-[LiveMax hotel to Pizza-la via Musashi Kokubunji Park](https://www.plotaroute.com/route/1314448?units=km)
+From [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
+To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
 (<span class="km_total">38</span>km total)
 
 We will pass a couple of parks and walk near Kokubunji Station.
 
-[![04 walk 6.5km to Pizza-la via Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/03_walk_07km_to_pizza_la.png)](https://www.plotaroute.com/route/1314448?units=km)
+[![04 walk 6.5km Chuokan to Pizza-la via Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/jveUwhwnQqKtTSpn9)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">03</span>.2 (<span class="day_date">Sunday    April 18th</span> *)
 Walk <span class="km_source">7.5</span>km
-from [Pizza-la To Seibuen](https://www.plotaroute.com/route/1314449?units=km)
+From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
+To [中国割烹旅館 掬水亭 by Seibuen](https://goo.gl/maps/dwDDuZpZhcBKprux5)
 (<span class="km_total">46</span>km total)
 **> 10% complete!!**
 
 1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
 2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
 
-[![05 walk 7.5km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-nov/thumbs/04_walk_08km_to_seibuen.png)](https://www.plotaroute.com/route/1314449?units=km)
+[![05 walk 7.5km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/1n5ksjRPgm6zoj2B8)
 
 </div>
 <div class="walk-segment">
@@ -121,28 +127,41 @@ Walk <span class="km_source">10</span>km,
 from [Seibuen To Fujisawa Central Park](https://www.plotaroute.com/route/1189816?units=km)
 (<span class="km_total">56</span>km total)
 
-[![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/05_walk_10km_to_Fujisawa_central_park.png)](https://www.plotaroute.com/route/1189816?units=km)
+Possible stops:
+
+1. Sayama indoor skiing (just to see, not to ski)
+2. Lily Garden
+
+[![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/05_walk_10km_to_Fujisawa_central_park.png)](https://goo.gl/maps/64zdU2CdrsYFMww4A)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">04</span>.2 (<span class="day_date">Monday    April 19th</span> *)
-Walk <span class="km_source">14</span>km,
-To [Aina Water Park](https://www.plotaroute.com/route/1189817?units=km)
-(<span class="km_total">70</span>km total)
+Walk <span class="km_source">13</span>km,
+From [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
+To [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
+(<span class="km_total">69</span>km total)
 
-[![07 walk 14km to Aina water park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/06_walk_14km_to_Aina_water_park.png)](https://www.plotaroute.com/route/1189817?units=km)
+We will pass by
+
+1. Iruma River
+2. Chikozan Park Children's Zoo
+3. Tennen Onsen (public bath)
+
+[![07 walk 13km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">05</span>.1 (<span class="day_date">Tuesday   April 20th</span> *)
-Walk <span class="km_source">10</span>km,
-From [Aina Water Park To Strawberry Garden](https://www.plotaroute.com/route/1191394?units=km)
-(<span class="km_total">80</span>km total)
+Walk <span class="km_source">06</span>km,
+From [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
+To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosato.net/
+(<span class="km_total">79</span>km total)
 **= 20% complete!!**
 
-[![08 walk 10km to Strawberry garden](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/07_walk_10km_to_Strawberry_garden.png)](https://www.plotaroute.com/route/1191394?units=km)
+[![08 walk 6km to Strawberry garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_hotel_will_to_strawberry_garden.png)](https://goo.gl/maps/T1gwAXX2esABLB9F8)
 
 </div>
 <div class="walk-segment">
@@ -169,7 +188,7 @@ Walk <span class="km_source">4</span>km,
 
 * Day <span class="day_source">06</span>.2 (<span class="day_date">Wednesday April 21st</span> *)
 Walk <span class="km_source">7</span>km,
-[Musahi Park To Italian Restaurant](https://www.plotaroute.com/route/1191457?units=km)
+[Musashi Park To Italian Restaurant](https://www.plotaroute.com/route/1191457?units=km)
 (<span class="km_total">103</span>km total)
 **> 25% complete!!**
 
@@ -179,18 +198,20 @@ Walk <span class="km_source">7</span>km,
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.3 (<span class="day_date">Wednesday April 21st</span> *)
-Walk <span class="km_source">3</span>km,
-[Italian Restaurant To Arakawa](https://www.plotaroute.com/route/1191458?units=km)
+Walk <span class="km_source">2</span>km,
+From [Italian Restaurant]()
+To [Hotel Spa Mu](https://spamu.jp/index.html)
 (<span class="km_total">106</span>km total)
 
-[![12 walk 03km Italian restaurant to Arakawa](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/11_walk_03km_Italian_restaurant_to_Arakawa.png)](https://www.plotaroute.com/route/1191458?units=km)
+[![12 walk 03km Italian restaurant to Spamu]()](https://www.plotaroute.com/route/1191458?units=km)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">07</span>.1 (<span class="day_date">Thursday  April 22nd</span> *)
 Walk <span class="km_source">10</span>km,
-From [Arakawa To Cafe Tsumugi For Lunch](https://www.plotaroute.com/route/1192659?units=km)
+From [Hotel Spa Mu](https://spamu.jp/index.html)
+To [Cafe Tsumugi For Lunch](https://www.plotaroute.com/route/1192659?units=km)
 (<span class="km_total">116</span>km total)
 
 [![13 walk 10km to cafe tsumugi at matsuhisa station](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/12_walk_10km_to_cafe_tsumugi_at_matsuhisa_station.png)](https://www.plotaroute.com/route/1192659?units=km)
@@ -221,7 +242,8 @@ From [hotel in Honjo To Isesaki Shiminnomori Park](https://goo.gl/maps/gPxY72rz6
 
 * Day <span class="day_source">08</span>.2 (<span class="day_date">Friday    April 23rd</span> *)
 Walk <span class="km_source">5</span>km,
-From [Isesaki Shiminnomori Park To Kezoji Park](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
+From Isesaki Shiminnomori Park
+To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 (<span class="km_total">136</span>km total)
 
 [![15 walk 12km from Isesaki Shiminnomori Park to Kezoji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_isesaki_shiminnomori_park_to_kezoji_park.png)](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
@@ -231,10 +253,11 @@ From [Isesaki Shiminnomori Park To Kezoji Park](https://goo.gl/maps/nwdgKvAYi1ft
 
 * Day <span class="day_source">08</span>.3 (<span class="day_date">Friday    April 23rd</span> *)
 Walk <span class="km_source">6</span>km,
-From [Kezoji Park To Momonoki River](https://www.plotaroute.com/route/1192679?units=km)
+From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
+To [Hotel Ruruka](https://g.page/hotel_luka?share)
 (<span class="km_total">142</span>km total)
 
-[![16 walk 06km from kezoji park to momonoki river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/15_walk_06km_from_kezoji_park_to_momonoki_river.png)](https://www.plotaroute.com/route/1192679?units=km)
+[![16 walk 11km from kezoji park to Hotel Ruruka(//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/D35jfG6je8apeBi78)
 
 </div>
 <div class="walk-segment">
@@ -251,7 +274,8 @@ From [Momonoki River To Tone River (again)](https://www.plotaroute.com/route/119
 
 * Day <span class="day_source">09</span>.2 (<span class="day_date">Saturday  April 24th</span> *)
 Walk <span class="km_source">3</span>km,
-From [Tone River To Luna Park](https://www.plotaroute.com/route/1193414?units=km)
+From Tone River
+To [前橋ホテルルカ]()
 (<span class="km_total">153</span>km total)
 
 [![18 walk 03km to luna park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/17_walk_03km_to_luna_park.png)](https://www.plotaroute.com/route/1193414?units=km)
