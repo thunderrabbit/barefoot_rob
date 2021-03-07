@@ -26,3 +26,14 @@ As we open up to possibilities, sometimes doubts creep in.  What are
 the big ones for you? How do you handle them?
 
 (image credit: https://inventwithwords.com/2018/10/06/as-you-near-project-completion-the-voices-creep-in/)
+
+#### About Weekly Alignments
+
+[Weekly Alignments](/weekly-alignments/) offer tools to get you present with your Self in the now.
+
+At the end of each weekly session, I do a live facilitation to help
+someone get clarity about or even overcome an issue in their life.
+
+Weekly Alignments include a lot of channeled material coming from
+Source as I receive it in realtime, depending on questions and
+comments from the attendees present.
