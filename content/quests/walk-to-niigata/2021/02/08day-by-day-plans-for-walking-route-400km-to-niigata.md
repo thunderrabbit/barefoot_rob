@@ -171,17 +171,17 @@ To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosa
 
 * Day <span class="day_source">05</span>.2 (<span class="day_date">Tuesday April 20th</span> *)
 Walk <span class="km_source">12</span>km,
-From [いちご Garden To Ranzan BBQ Tsuki River](https://www.plotaroute.com/route/1191395?units=km)
+From [いちご Garden To Ranzan BBQ Tsuki River](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
 (<span class="km_total">92</span>km total)
 
-[![09 walk 12km from strawberry to ranzan bbq tsuki river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/08_walk_12km_from_strawberry_to_ranzan_bbq_tsuki_river.png)](https://www.plotaroute.com/route/1191395?units=km)
+[![09 walk 12km from strawberry to ranzan bbq tsuki river](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.1 (<span class="day_date">Wednesday April 21st</span> *)
 Walk <span class="km_source">15</span>km,
-From Ranzan Vally BBQ Camp
+From Ranzan Valley BBQ Camp
 <!--
 To Musashi Memorial Park
 (<span class="km_total">96</span>km total)
@@ -216,7 +216,7 @@ Along the way:
 3. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)
 
 [![12 walk 15km
-From Italian restaurant
+From Ranzan BBQ
 to Spamu
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_Ranzan_valley_bbq_to_spamu.png
 )](https://goo.gl/maps/ftfhUqyQGRSDKQTg8)
@@ -275,7 +275,7 @@ To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.3 (<span class="day_date">Friday April 23rd</span> *)
-Walk <span class="km_source">6</span>km,
+Walk <span class="km_source">11</span>km,
 From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 To [Hotel Ruruka](https://g.page/hotel_luka?share)
 (<span class="km_total">142</span>km total)
@@ -289,31 +289,41 @@ to Hotel Ruruka
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
-Walk <span class="km_source">17</span>km,
+Walk <span class="km_source">4</span>km,
 From [Hotel Ruruka](https://g.page/hotel_luka?share)
-To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
+To [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
 (<span class="km_total">150</span>km total)
 
 Pass by:
 
 1. [Maebashi Childrens Park](https://goo.gl/maps/C8RtNca4NecHyTCT8)
-2. [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
-3. [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public bath)
 
-[![17 walk 08km from Hotel Ruruka to Hotel Tatsumi](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_08_hotel_ruru_to_hotel_tatsumi.png)](https://goo.gl/maps/VLoGT1vLoZBTQgYMA)
+[![17 walk 4km from Hotel Ruruka to Luna Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ruruka_to_luna_park.png)](https://goo.gl/maps/bPjDy3PTStycFcve9)
 
 </div>
-<!-- div class="walk-segment">
+<div class="walk-segment">
 
-* Day <span class="day_source">09</span>.2 (<span class="day_date">Saturday April 24th</span> *)
+* Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
+Walk <span class="km_source">10</span>km,
+From [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
+To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public bath)
+(<span class="km_total">150</span>km total)
+
+
+[![18 walk 08km from Luna Park to Sky Terme Shibukawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_luna_park_to_sky_terme_shibukawa.png)](https://goo.gl/maps/BtqtcopX3FgPxfdH9)
+
+</div>
+<div class="walk-segment">
+
+* Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
 Walk <span class="km_source">3</span>km,
-From Tone River
-To [前橋ホテルルカ]()
-(<span class="km_total">153</span>km total)
+From [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9)
+To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
+(<span class="km_total">150</span>km total)
 
-[![18 walk 03km to luna park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/17_walk_03km_to_luna_park.png)](https://www.plotaroute.com/route/1193414?units=km)
+[![19 walk 3km from Sky Terme Shibukawa to Hotel Tatsumi](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_sky_terme_shibukawa_to_hotel_tatsumi.png)](https://goo.gl/maps/r4hMfgGqQ8AGdXdYA)
 
-</div -->
+</div>
 <div class="walk-segment">
 
 * Day <span class="day_source">10</span>.1 (<span class="day_date">Sunday April 25th</span> *)
