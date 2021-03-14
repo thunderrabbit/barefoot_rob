@@ -29,10 +29,18 @@ So far, eight copies of the book have been pre-ordered.
 Assuming 2500 yen of each book purchased so far can be used for covering costs below,
 20,000 yen can be used for costs below.
 
-## 20,000 / 226,000 yen
+## 146,000 / 1,000,000 yen goal
 
-# ██████________________________________________________   9% funded!
+#   15% funded!
 
+<div class="thermometer">
+███████████████
+███████████████_____________________________________________________________________________________
+</div>
+
+<!--
+  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+  -->
 <br>
 
 ## Anticipated costs for the walk include:

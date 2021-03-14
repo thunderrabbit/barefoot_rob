@@ -36,3 +36,8 @@ div.walk-segment {
 .reddit.contact.link {
   width: 100px;
 }
+
+div.thermometer {
+  white-space: pre;   /* stack lines of fundraising goal without <br> */
+  line-height: 12px;  /* make two lines of fundraising goal look like one line */
+}
