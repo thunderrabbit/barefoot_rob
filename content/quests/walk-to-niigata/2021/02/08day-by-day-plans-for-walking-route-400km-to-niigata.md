@@ -35,14 +35,6 @@ and the
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05" width="640" height="480"></iframe>
 
-### Entire Route:
-
-Here is the entire route on plotaroute.com.  The map takes a bit to load all of the twists and turns of the route.  Be sure to get in touch if you want to meet somewhere as plans are likely to change!
-
-[23 days, walking 400km from Yokohama to Niigata](https://www.plotaroute.com/route/1189743?units=km)
-
-[![Walking 380km from Shin Yurigaoka to Niigata](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_jan_13_yokohama_to_aoyama_walk_plan.png)](https://www.plotaroute.com/route/1189743?units=km)
-
 ### Details:
 
 These are maps of each segment, and are subject to change.  I do not yet have a good way to post edits to this page from the road, but am working on that.
