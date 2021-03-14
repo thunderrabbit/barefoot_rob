@@ -7,7 +7,7 @@ draft: false
 aliases: [
     "/quests/walk-to-niigata/2021/02/23support-for-walk-for-suicide-prevention/",
     ]
-date: 2021-02-22T12:02:45+09:00
+date: 2021-03-14T20:07:45+09:00
 ---
 
 I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
