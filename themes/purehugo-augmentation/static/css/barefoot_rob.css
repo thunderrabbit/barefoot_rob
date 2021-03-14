@@ -27,3 +27,12 @@ div.walk-segment {
 .walk-segment ul {
   padding-left:0;
 }
+
+.contact.link {
+  margin: 15px;
+  display: inline-block;
+}
+
+.reddit.contact.link {
+  width: 100px;
+}
