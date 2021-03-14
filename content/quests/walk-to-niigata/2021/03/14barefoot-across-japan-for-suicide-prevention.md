@@ -12,22 +12,52 @@ date: 2021-03-14T20:07:45+09:00
 
 I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
 
-It's a personal challenge as well as
+How can walking barefoot help prevent suicides?
+
+Walking barefoot includes several
+[relaxation techniques to reduce stress](https://www.webmd.com/balance/features/blissing-out-10-relaxation-techniques-reduce-stress-spot) including
+Meditate,
+Be Present,
+Tune into your body,
+Get Moving,
+and
+Decompress.
+
+Being barefoot keeps me keenly aware
+of the present moment with each step.
+This keen awareness is a type of meditation,
+keeping my conscious awareness
+focused in the present moment.
+
+While walking barefoot,
+I definitely *tune into my body*
+and
+*get moving*
+...
+and my feet are *decompressed*,
+happily free from the confines of shoes!
+
+I think if more people were aware
+from moment to moment that would
+help lower stress in general.
+
+Walking across Honshu
+is a personal challenge as well as
 raising awareness for self care / suicide prevention.
 Also hopefully encouragement for you to keep pushing your limits!
 
-
-I am using GoGetFunding to help raise money for the walk, with proceeds going to
+I am using GoGetFunding to help raise money for the walk,
+with **proceeds after expenses going to
 [Tokyo English Life line (TELL)](https://telljp.com/).
-TELL is dedicated to providing effective support and counseling services
+TELL is dedicated to providing effective support and counseling services**
 to Japan's international community and its increasing mental health needs.
 
-https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/
+### Ways to support
 
-So far, eight copies of the book have been pre-ordered.
-
-Assuming 2500 yen of each book purchased so far can be used for covering costs below,
-20,000 yen can be used for costs below.
+<div class="action-btns">
+  <a target="_blank" href="https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/" class="ggf btn btn-warning btn-orange">DONATE</a>
+  <a target="_blank" href="https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/" >https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/</a>
+</div>
 
 ## 146,000 / 1,000,000 yen goal
 
@@ -68,7 +98,3 @@ One-time costs:
 * rain jacket
 * tent
 * sleeping bag
-
-## Anticipated costs for the book:
-
-TBD!
