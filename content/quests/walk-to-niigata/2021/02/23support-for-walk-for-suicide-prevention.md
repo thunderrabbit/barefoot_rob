@@ -1,12 +1,21 @@
 ---
-title: "Support for walk for suicide prevention"
+title: "Barefoot across Japan for suicide prevention"
 tags: [ "niigata", "quest", "updates", "walking", "barefoot", "book" ]
 categories: [ "quests" ]
 author: Rob Nugen
 draft: false
-aliases: [ ]
+aliases: [
+    "/quests/walk-to-niigata/2021/02/23support-for-walk-for-suicide-prevention/",
+    ]
 date: 2021-02-22T12:02:45+09:00
 ---
+
+I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
+
+It's a personal challenge as well as
+raising awareness for self care / suicide prevention.
+Also hopefully encouragement for you to keep pushing your limits!
+
 
 I am using GoGetFunding to help raise money for the walk, with proceeds going to
 [Tokyo English Life line (TELL)](https://telljp.com/).
@@ -14,9 +23,6 @@ TELL is dedicated to providing effective support and counseling services
 to Japan's international community and its increasing mental health needs.
 
 https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/
-
-(I had been using Shopify, but it is not a proper crowd funding site,
-and the cost of the Shopify store continues regardless of donations / purchases.)
 
 So far, eight copies of the book have been pre-ordered.
 
