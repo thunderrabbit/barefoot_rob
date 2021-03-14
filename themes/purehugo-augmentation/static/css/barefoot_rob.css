@@ -41,3 +41,40 @@ div.thermometer {
   white-space: pre;   /* stack lines of fundraising goal without <br> */
   line-height: 12px;  /* make two lines of fundraising goal look like one line */
 }
+
+/* Go Get Funding button */
+.ggf.btn-orange {
+    background: #f3650f;
+    font-size: 16px;
+    border: none;
+    padding: 7px 15px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.ggf.btn-warning {
+    color: #fff;
+    border-color: #eea236;
+}
+
+.ggf.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+/* end Go Get Funding button */
