@@ -12,16 +12,16 @@ date: 2021-03-14T20:07:45+09:00
 
 I am planning to walk barefoot coast to coast (the short direction) across Japan's main island.
 
-How can walking barefoot help prevent suicides?
+**How can walking barefoot help prevent suicides?**
 
 Walking barefoot includes several
 [relaxation techniques to reduce stress](https://www.webmd.com/balance/features/blissing-out-10-relaxation-techniques-reduce-stress-spot) including
-Meditate,
-Be Present,
-Tune into your body,
-Get Moving,
-and
-Decompress.
+
+1. Meditate,
+2. Be Present,
+3. Tune into your body,
+4. Get Moving, and
+5. Decompress.
 
 Being barefoot keeps me keenly aware
 of the present moment with each step.
