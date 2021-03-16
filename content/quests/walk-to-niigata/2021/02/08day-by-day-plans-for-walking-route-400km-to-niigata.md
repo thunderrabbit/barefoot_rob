@@ -11,13 +11,7 @@ aliases: [
 date: 2021-02-23T12:02:45+09:00
 ---
 
-[Join us **Friday April 16th** at
-Rinko Park
-in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/),
-([map](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/))
-as I start to walk barefoot to
-[Aoyama Kaigan](https://www.google.com/maps/place/%E9%9D%92%E5%B1%B1%E6%B5%B7%E5%B2%B8%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4/@37.8980842,138.98067,17z/)
-near Niigata Station, arriving around 23 days later, during Golden Week in Japan.
+
 
 ### Just the Meeting points:
 
@@ -43,7 +37,12 @@ to my house (not shown).
 
 As part of the kickoff event,
 I will lead a [walking meditation in Rinko Park](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/).
-Let's meet at 9am Friday April 16th 2021 on the [concrete circle in Rinko Park](https://goo.gl/maps/WAjBxaoAmmv5yyo18).
+
+[Join us **Friday April 16th** at
+Rinko Park
+in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/),
+([map](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/))
+on the [concrete circle in Rinko Park](https://goo.gl/maps/WAjBxaoAmmv5yyo18).
 
 [![Walk to our area from Rinko Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_rinko_park_to_our_area.png)](https://goo.gl/maps/QzxDHh2J1gwe6p1u9)
 
@@ -56,9 +55,12 @@ from my house (not shown)
 To [Yomiuriland](https://goo.gl/maps/dJkUNxNEFZjMo723A)
 (<span class="km_total">24</span>km total)
 
-I will walk from my house to Yomiuriland, possibly via 新百合ヶ丘駅 or 百合ヶ丘駅 or neither station and just go a more direct route.
+I will walk from my house to Yomiuriland, possibly via 百合ヶ丘駅 or just go a more direct route.
 
-[![02 walk 04km to yomiuriland](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/01_walk_04km_to_yomiuriland.png)](https://www.plotaroute.com/route/1344324?units=km)
+[![02 walk 04km to yomiuriland](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_yurigaoka_to_yomiuriland.png)](https://goo.gl/maps/5LVCq4b3AAPK4ULo7)
+
+[Join us **Saturday April 17th**
+in Yomiuriland](/events/2021/04/17start-walking-to-niigata-kickoff-party/)
 
 👉🏿 Let's enjoy riding roller coasters in Yomiuriland!
 <br>👉🏿 Anyone want to try the bungee?  It's not *that* tall!
@@ -157,7 +159,8 @@ To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosa
 
 * Day <span class="day_source">05</span>.2 (<span class="day_date">Tuesday April 20th</span> *)
 Walk <span class="km_source">12</span>km,
-From [いちご Garden To Ranzan BBQ Tsuki River](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
+From [いちご Garden](https://goo.gl/maps/fF6PaR15BLFy1kpF6)
+To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 (<span class="km_total">92</span>km total)
 
 [![09 walk 12km from strawberry to ranzan bbq tsuki river](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
@@ -167,45 +170,36 @@ From [いちご Garden To Ranzan BBQ Tsuki River](https://goo.gl/maps/kdHBmgZ37Z
 
 * Day <span class="day_source">06</span>.1 (<span class="day_date">Wednesday April 21st</span> *)
 Walk <span class="km_source">15</span>km,
-From Ranzan Valley BBQ Camp
-<!--
-To Musashi Memorial Park
-(<span class="km_total">96</span>km total)
+From [Ranzan Valley BBQ Camp](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
+To [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
+(<span class="km_total">106</span>km total)
 
-[![10 walk 04km to musashi memorial park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/09_walk_04km_to_musashi_memorial_park.png)](https://www.plotaroute.com/route/1314495?units=km)
+Along the way:
+
+1. [Musashi Memorial Park](http://www.musashi-mp.com/)
+
+[![12 walk 15km From ranzan
+to Nokonoko Italian
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_ranzan_to_nokonoko.png
+)](https://goo.gl/maps/xtL5ioTrgWHiipbS7)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.2 (<span class="day_date">Wednesday April 21st</span> *)
 Walk <span class="km_source">7</span>km,
-[Musashi Park To Italian Restaurant](https://www.plotaroute.com/route/1191457?units=km)
+From [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
+to [Hotel Spa Mu](https://spamu.jp/index.html)
 (<span class="km_total">103</span>km total)
 **> 25% complete!!**
 
-[![11 walk 07km to Italian restaurant](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/10_walk_07km_to_Italian_restaurant.png)](https://www.plotaroute.com/route/1191457?units=km)
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">06</span>.3 (<span class="day_date">Wednesday April 21st</span> *)
-Walk <span class="km_source">2</span>km,
-From [Italian Restaurant]()
--->
-To [Hotel Spa Mu](https://spamu.jp/index.html)
-(<span class="km_total">106</span>km total)
-
 Along the way:
 
-1. [Musashi Memorial Park](http://www.musashi-mp.com/)
-2. [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
-3. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)
+1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)
 
-[![12 walk 15km
-From Ranzan BBQ
-to Spamu
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_Ranzan_valley_bbq_to_spamu.png
-)](https://goo.gl/maps/ftfhUqyQGRSDKQTg8)
+[![11 walk 07km
+From Nokonoko
+to Spamu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_nokonoko_to_spamu.png)](https://goo.gl/maps/BSsapmqYtv5unAb38)
 
 </div>
 <div class="walk-segment">
