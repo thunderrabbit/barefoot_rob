@@ -78,3 +78,11 @@ date: 2021-03-14T20:07:45+09:00
 * レインジャケット
 * テント
 * 寝袋
+
+## All extra donations will go to TELL
+
+<div class="note"><a href="https://telljp.com/about/">https://telljp.com/about/</a></div>
+
+Since its establishment in Japan in 1973, [TELL](https://telljp.com/) has been dedicated to providing world-class, effective support and counseling services to Japan’s international community and helping to address the country’s growing mental health care needs.
+
+My walk is in [TELL's March 2021 Newsletter](https://mailchi.mp/telljp.com/march-news-from-tell-1784614)!
