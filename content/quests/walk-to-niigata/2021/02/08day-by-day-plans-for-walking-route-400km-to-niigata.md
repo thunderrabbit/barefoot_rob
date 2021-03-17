@@ -330,12 +330,45 @@ From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
 To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
 (<span class="km_total">164</span>km total)
 
-Will pass [Ramen Restaurant](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
 
 [![19 walk 19km
 from Midorinomura
 to Yumotokan
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+
+</div>
+<div class="walk-segment">
+
+* Day <span class="day_source">12</span>.1 (<span class="day_date">Tuesday April 27th</span> *)
+Walk <span class="km_source">4</span>km,
+From [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
+To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
+(<span class="km_total">217</span>km total)
+
+
+[![28 walk 04km to bungee jump](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_yumotokan_to_bungy_japan_sarugakyo.png)](https://goo.gl/maps/uBbZKq8htvqJzEZ99)
+
+</div>
+<div class="walk-segment">
+
+* Day <span class="day_source">12</span>.2 (<span class="day_date">Tuesday April 27th</span> *)
+Walk <span class="km_source">6</span>km,
+From [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
+To
+(
+[Koshiji](https://goo.gl/maps/1Kbv3CURbevve9Nr8)
+or
+[Izumiya](https://goo.gl/maps/pCMM8f3Hh1QdRLzq6)
+)
+(<span class="km_total">223</span>km total)
+
+
+Will pass:
+
+* [Shinmikunio Bridge](https://goo.gl/maps/qBT5vo9Xu1GCvPs6A)
+
+[![29 walk 06km from bungee jump to Koshii or Izumiya lodge](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_bungee_to_koshiji_lodge.png)](https://goo.gl/maps/5Jq5jhDqR33vpp5z9)
 
 </div>
 
@@ -344,26 +377,6 @@ to Yumotokan
 <div class="walk-segment">
 
 * Day <span class="day_source">13</span>.1 (<span class="day_date">Wednesday April 28th</span> *)
-Walk <span class="km_source">8</span>km,
-[Bike Place To Bungee Jump](https://www.plotaroute.com/route/1314317?units=km)
-(<span class="km_total">217</span>km total)
-
-[![28 walk 08km to bungee jump](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/27_walk_08km_to_bungee_jump.png)](https://www.plotaroute.com/route/1314317?units=km)
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">13</span>.2 (<span class="day_date">Wednesday April 28th</span> *)
-Walk <span class="km_source">6</span>km,
-[Bungee To Koshii And Izumiya Hotels](https://www.plotaroute.com/route/1314318?units=km)
-(<span class="km_total">223</span>km total)
-
-[![29 walk 06km from bungee jump to Koshii and Izumiya hotels](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/28_walk_06km_from_bungee_jump_to_Koshii_and_Izumiya_hotels.png)](https://www.plotaroute.com/route/1314318?units=km)
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">14</span>.1 (<span class="day_date">Thursday April 29th</span> *)
 Walk <span class="km_source">11</span>km,
 [Hotels To Naeba](https://www.plotaroute.com/route/1314633?units=km)
 (<span class="km_total">234</span>km total)
