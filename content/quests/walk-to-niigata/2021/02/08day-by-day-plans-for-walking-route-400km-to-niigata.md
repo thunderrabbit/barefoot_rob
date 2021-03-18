@@ -101,21 +101,22 @@ We will pass a couple of parks and walk near Kokubunji Station.
 * Day <span class="day_source">03</span>.2 (<span class="day_date">Sunday April 18th</span> *)
 Walk <span class="km_source">7.5</span>km
 From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
-To [中国割烹旅館 掬水亭 by Seibuen](https://goo.gl/maps/dwDDuZpZhcBKprux5)
+To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 (<span class="km_total">46</span>km total)
 **> 10% complete!!**
 
 1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
 2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
+3. Pass by [Seibuen](https://goo.gl/maps/wvSw2z4ubcR4xm2b9)
 
-[![05 walk 7.5km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/1n5ksjRPgm6zoj2B8)
+[![05 walk 7.5km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/94zQvCKXkAWdzyWa6)
 
 </div>
 <div class="walk-segment">
 
 * Day <span class="day_source">04</span>.1 (<span class="day_date">Monday April 19th</span> *)
 Walk <span class="km_source">10</span>km,
-From [中国割烹旅館 掬水亭 by Seibuen](https://goo.gl/maps/dwDDuZpZhcBKprux5)
+From [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 To [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
 (<span class="km_total">56</span>km total)
 
@@ -124,7 +125,7 @@ Possible stops:
 1. [Sayama indoor skiing](https://goo.gl/maps/cqFH3B9NQxCvsZBeA) (just to see, not to ski)
 2. [Lily Garden of Tokorozawa](https://goo.gl/maps/7KcCTstSxGkCkzPV9)
 
-[![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/PwxKKiQjyWEiqZtY8)
+[![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/KX7Adw7pxuBGS93u9)
 
 </div>
 <div class="walk-segment">
