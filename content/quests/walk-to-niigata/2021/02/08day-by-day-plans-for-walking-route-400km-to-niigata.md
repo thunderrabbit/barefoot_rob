@@ -115,15 +115,16 @@ To [中国割烹旅館 掬水亭 by Seibuen](https://goo.gl/maps/dwDDuZpZhcBKpru
 
 * Day <span class="day_source">04</span>.1 (<span class="day_date">Monday April 19th</span> *)
 Walk <span class="km_source">10</span>km,
-from [Seibuen To Fujisawa Central Park](https://www.plotaroute.com/route/1189816?units=km)
+From [中国割烹旅館 掬水亭 by Seibuen](https://goo.gl/maps/dwDDuZpZhcBKprux5)
+To [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
 (<span class="km_total">56</span>km total)
 
 Possible stops:
 
-1. Sayama indoor skiing (just to see, not to ski)
-2. Lily Garden
+1. [Sayama indoor skiing](https://goo.gl/maps/cqFH3B9NQxCvsZBeA) (just to see, not to ski)
+2. [Lily Garden of Tokorozawa](https://goo.gl/maps/7KcCTstSxGkCkzPV9)
 
-[![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/05_walk_10km_to_Fujisawa_central_park.png)](https://goo.gl/maps/64zdU2CdrsYFMww4A)
+[![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/PwxKKiQjyWEiqZtY8)
 
 </div>
 <div class="walk-segment">
