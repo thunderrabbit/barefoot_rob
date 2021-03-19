@@ -285,7 +285,7 @@ Pass by:
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
+* Day <span class="day_source">09</span>.2 (<span class="day_date">Saturday April 24th</span> *)
 Walk <span class="km_source">10</span>km,
 From [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
 To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public bath)
@@ -297,7 +297,7 @@ To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public ba
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
+* Day <span class="day_source">09</span>.3 (<span class="day_date">Saturday April 24th</span> *)
 Walk <span class="km_source">3</span>km,
 From [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9)
 To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
