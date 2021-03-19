@@ -363,24 +363,34 @@ To [Sports Inn Fujiya](https://goo.gl/maps/FiQKJi3T95HNJPLNA)
 [![29 walk 06km from bungee jump to Sports Inn Fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_bungee_to_sports_inn_fujiya.png)](https://goo.gl/maps/JPTbagrt6ADQT5iJ8)
 
 </div>
-
-**Details past this point are likely to change**
-
 <div class="walk-segment">
 
 * Day <span class="day_source">13</span>.1 (<span class="day_date">Wednesday April 28th</span> *)
-Walk <span class="km_source">11</span>km,
-[Hotels To Naeba](https://www.plotaroute.com/route/1314633?units=km)
+Walk <span class="km_source">14</span>km,
+From [Sports Inn Fujiya](https://goo.gl/maps/jXdUYeUBKoghTaQ78)
+To [Family House Akashiya](https://goo.gl/maps/Cs43KenXgvZJVFoT8)
 (<span class="km_total">234</span>km total)
 
-Will pass:
+Will use:
 
 * [Shinmikunio Bridge](https://goo.gl/maps/qBT5vo9Xu1GCvPs6A)
 
+Will *not* use:
 
-[![30 walk 11km from hotels to naeba](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/29_walk_11km_from_hotels_to_naeba.png)](https://www.plotaroute.com/route/1314633?units=km)
+* [tunnels](https://goo.gl/maps/fvxS6g6ys3iLmdMs8)!
+
+Notice the tunnels on Highway 17 (Mikuni Highway), south of [Obansanja Shrine](https://goo.gl/maps/FPMimFRj2ETNoCj3A).  Along 17, I will take a [trail starting here](https://goo.gl/maps/eRdo2j5maUF2EdpM9), hike *around* the tunnels, past [Obansanja Shrine](https://goo.gl/maps/yyt6VTDutJXz9htm7), and [finish the trail here](https://goo.gl/maps/2LChPf3Uo6w7HVxK7)
+
+[![30
+walk 14km
+from Sports Inn Fujiya
+to Family House Akashiya
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_sports_inn_fujiya_family_house_akashiya.png)](https://goo.gl/maps/zfJWheGEa9n6Ywo27)
 
 </div>
+
+**Details past this point are likely to change**
+
 <div class="walk-segment">
 
 * Day <span class="day_source">14</span>.2 (<span class="day_date">Thursday April 29th</span> *)
