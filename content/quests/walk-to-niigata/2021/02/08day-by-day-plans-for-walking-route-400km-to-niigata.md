@@ -357,20 +357,10 @@ To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 * Day <span class="day_source">12</span>.2 (<span class="day_date">Tuesday April 27th</span> *)
 Walk <span class="km_source">6</span>km,
 From [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
-To
-(
-[Koshiji](https://goo.gl/maps/1Kbv3CURbevve9Nr8)
-or
-[Izumiya](https://goo.gl/maps/pCMM8f3Hh1QdRLzq6)
-)
+To [Sports Inn Fujiya](https://goo.gl/maps/FiQKJi3T95HNJPLNA)
 (<span class="km_total">223</span>km total)
 
-
-Will pass:
-
-* [Shinmikunio Bridge](https://goo.gl/maps/qBT5vo9Xu1GCvPs6A)
-
-[![29 walk 06km from bungee jump to Koshii or Izumiya lodge](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_bungee_to_koshiji_lodge.png)](https://goo.gl/maps/5Jq5jhDqR33vpp5z9)
+[![29 walk 06km from bungee jump to Sports Inn Fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_bungee_to_sports_inn_fujiya.png)](https://goo.gl/maps/JPTbagrt6ADQT5iJ8)
 
 </div>
 
@@ -382,6 +372,11 @@ Will pass:
 Walk <span class="km_source">11</span>km,
 [Hotels To Naeba](https://www.plotaroute.com/route/1314633?units=km)
 (<span class="km_total">234</span>km total)
+
+Will pass:
+
+* [Shinmikunio Bridge](https://goo.gl/maps/qBT5vo9Xu1GCvPs6A)
+
 
 [![30 walk 11km from hotels to naeba](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/29_walk_11km_from_hotels_to_naeba.png)](https://www.plotaroute.com/route/1314633?units=km)
 
