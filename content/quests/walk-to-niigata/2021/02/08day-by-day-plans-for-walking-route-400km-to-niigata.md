@@ -393,7 +393,8 @@ to Family House Akashiya
 
 <div class="walk-segment">
 
-* Day <span class="day_source">14</span>.2 (<span class="day_date">Thursday April 29th</span> *)
+* Day <span class="day_source">14</span>.1
+(<span class="day_date">Thursday April 29th</span> *)
 Walk <span class="km_source">2</span>km,
 [Naeba To Dragondola](https://www.plotaroute.com/route/1314628?units=km)
 (<span class="km_total">236</span>km total)
@@ -403,7 +404,8 @@ Walk <span class="km_source">2</span>km,
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">14</span>.3 (<span class="day_date">Thursday April 29th</span> *)
+* Day <span class="day_source">14</span>.3
+(<span class="day_date">Thursday April 29th</span> *)
 Walk <span class="km_source">7</span>km,
 From [Dragondola To Shukuba Hot Spring](https://www.plotaroute.com/route/1314829?units=km)
 (<span class="km_total">243</span>km total)
@@ -413,7 +415,8 @@ From [Dragondola To Shukuba Hot Spring](https://www.plotaroute.com/route/1314829
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">15</span>.1 (<span class="day_date">Friday April 30th</span> *)
+* Day <span class="day_source">15</span>.1
+(<span class="day_date">Friday April 30th</span> *)
 Walk <span class="km_source">7</span>km,
 From [Shukuba Hot Spring To Jackys Cafe](https://www.plotaroute.com/route/1314834?units=km)
 (<span class="km_total">250</span>km total)
@@ -423,7 +426,8 @@ From [Shukuba Hot Spring To Jackys Cafe](https://www.plotaroute.com/route/131483
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">15</span>.2 (<span class="day_date">Friday April 30th</span> *)
+* Day <span class="day_source">15</span>.2
+(<span class="day_date">Friday April 30th</span> *)
 Walk <span class="km_source">9</span>km,
 From [Jackys Cafe To Echigo Yuzawa Station](https://www.plotaroute.com/route/1314928?units=km)
 (<span class="km_total">259</span>km total)
@@ -433,7 +437,8 @@ From [Jackys Cafe To Echigo Yuzawa Station](https://www.plotaroute.com/route/131
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">15</span>.3 (<span class="day_date">Friday April 30th</span> *)
+* Day <span class="day_source">15</span>.3
+(<span class="day_date">Friday April 30th</span> *)
 Walk <span class="km_source">7</span>km,
 From [Echigo Yuzawa Station To Ogumaya Inn](https://www.plotaroute.com/route/1314934?units=km)
 (<span class="km_total">266</span>km total)
@@ -443,7 +448,8 @@ From [Echigo Yuzawa Station To Ogumaya Inn](https://www.plotaroute.com/route/131
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.1 (<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">16</span>.1
+(<span class="day_date">Saturday  May 1st</span> *)
 Walk <span class="km_source">6</span>km,
 From [Ogumaya Inn To Lunch, Hopefully](https://www.plotaroute.com/route/1314938?units=km)
 (<span class="km_total">272</span>km total)
@@ -453,7 +459,8 @@ From [Ogumaya Inn To Lunch, Hopefully](https://www.plotaroute.com/route/1314938?
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.2 (<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">16</span>.2
+(<span class="day_date">Saturday  May 1st</span> *)
 Walk <span class="km_source">7</span>km,
 to [Restaurants Near Ryokan](https://www.plotaroute.com/route/1315530?units=km)
 (<span class="km_total">279</span>km total)
@@ -463,7 +470,8 @@ to [Restaurants Near Ryokan](https://www.plotaroute.com/route/1315530?units=km)
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.3 (<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">16</span>.3
+(<span class="day_date">Saturday  May 1st</span> *)
 Walk <span class="km_source">4</span>km,
 to [Yasuragi Yado](https://www.plotaroute.com/route/1315535?units=km)
 (<span class="km_total">283</span>km total)
@@ -473,7 +481,8 @@ to [Yasuragi Yado](https://www.plotaroute.com/route/1315535?units=km)
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.4 (<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">16</span>.4
+(<span class="day_date">Saturday  May 1st</span> *)
 Walk <span class="km_source">6</span>km,
 to [百年 Inn](https://www.plotaroute.com/route/1315539?units=km)
 (<span class="km_total">289</span>km total)
@@ -483,7 +492,8 @@ to [百年 Inn](https://www.plotaroute.com/route/1315539?units=km)
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">17</span>.1 (<span class="day_date">Sunday    May 2nd</span> *)
+* Day <span class="day_source">17</span>.1
+(<span class="day_date">Sunday    May 2nd</span> *)
 Walk <span class="km_source">5</span>km,
 to [French Restaurant In Tokamachi](https://www.plotaroute.com/route/1315586?units=km)
 (<span class="km_total">294</span>km total)
@@ -493,7 +503,8 @@ to [French Restaurant In Tokamachi](https://www.plotaroute.com/route/1315586?uni
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">17</span>.2 (<span class="day_date">Sunday    May 2nd</span> *)
+* Day <span class="day_source">17</span>.2
+(<span class="day_date">Sunday    May 2nd</span> *)
 Walk <span class="km_source">11</span>km,
 From [French Restaurant To Farm Hendon](https://www.plotaroute.com/route/1315774?units=km)
 (<span class="km_total">305</span>km total)
@@ -504,7 +515,8 @@ From [French Restaurant To Farm Hendon](https://www.plotaroute.com/route/1315774
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">18</span>.1 (<span class="day_date">Monday    May 3rd</span> *)
+* Day <span class="day_source">18</span>.1
+(<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">3</span>km,
 From [Farm Hendon To Restaurant](https://www.plotaroute.com/route/1315803?units=km)
 (<span class="km_total">308</span>km total)
@@ -514,7 +526,8 @@ From [Farm Hendon To Restaurant](https://www.plotaroute.com/route/1315803?units=
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">18</span>.2 (<span class="day_date">Monday    May 3rd</span> *)
+* Day <span class="day_source">18</span>.2
+(<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">8</span>km,
 From [Restaurant Along Shinano River](https://www.plotaroute.com/route/1315805?units=km)
 (<span class="km_total">316</span>km total)
@@ -524,7 +537,8 @@ From [Restaurant Along Shinano River](https://www.plotaroute.com/route/1315805?u
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">18</span>.3 (<span class="day_date">Monday    May 3rd</span> *)
+* Day <span class="day_source">18</span>.3
+(<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">11</span>km,
  [Pizza Restaurant](https://www.plotaroute.com/route/1315809?units=km)
  (<span class="km_total">327</span>km total)
@@ -534,7 +548,8 @@ Walk <span class="km_source">11</span>km,
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">18</span>.4 (<span class="day_date">Monday    May 3rd</span> *)
+* Day <span class="day_source">18</span>.4
+(<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">5</span>km,
 from [pizza place to sleepy by Ota River](https://www.plotaroute.com/route/1319435?units=km)
 (<span class="km_total">332</span>km total)
@@ -544,7 +559,8 @@ from [pizza place to sleepy by Ota River](https://www.plotaroute.com/route/13194
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">19</span>.1 (<span class="day_date">Tuesday   May 4th</span> *)
+* Day <span class="day_source">19</span>.1
+(<span class="day_date">Tuesday   May 4th</span> *)
 Walk <span class="km_source">5</span>km,
 from [Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/1320373?units=km)
 (<span class="km_total">337</span>km total)
@@ -554,7 +570,8 @@ from [Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/132
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">19</span>.2 (<span class="day_date">Tuesday   May 4th</span> *)
+* Day <span class="day_source">19</span>.2
+(<span class="day_date">Tuesday   May 4th</span> *)
 Walk <span class="km_source">10</span>km,
 from [Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?units=km)
 (<span class="km_total">347</span>km total)
@@ -564,7 +581,8 @@ from [Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?u
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">20</span>.1 (<span class="day_date">Wednesday May 5th</span> *)
+* Day <span class="day_source">20</span>.1
+(<span class="day_date">Wednesday May 5th</span> *)
 Walk <span class="km_source">4</span>km,
 from [Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377?units=km)
 (<span class="km_total">351</span>km total)
@@ -574,7 +592,8 @@ from [Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">20</span>.2 (<span class="day_date">Wednesday May 5th</span> *)
+* Day <span class="day_source">20</span>.2
+(<span class="day_date">Wednesday May 5th</span> *)
 Walk <span class="km_source">14</span>km,
 along [Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/1320378?units=km)
 (<span class="km_total">365</span>km total)
@@ -584,7 +603,8 @@ along [Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/13203
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">21</span>.1 (<span class="day_date">Thursday  May 6th</span> *)
+* Day <span class="day_source">21</span>.1
+(<span class="day_date">Thursday  May 6th</span> *)
 Walk <span class="km_source">10</span>km,
 from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?units=km)
 (<span class="km_total">375</span>km total)
@@ -594,7 +614,8 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">21</span>.2 (<span class="day_date">Thursday  May 6th</span> *)
+* Day <span class="day_source">21</span>.2
+(<span class="day_date">Thursday  May 6th</span> *)
 Walk <span class="km_source">5</span>km,
 [along, then sleep by Nakanokuchi River](https://www.plotaroute.com/route/1320390?units=km)
 (<span class="km_total">380</span>km total)
@@ -604,7 +625,8 @@ Walk <span class="km_source">5</span>km,
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">22</span>.1 (<span class="day_date">Friday    May 7th</span> *)
+* Day <span class="day_source">22</span>.1
+(<span class="day_date">Friday    May 7th</span> *)
 Walk <span class="km_source">8</span>km,
 [along Nakanokuchi river to cafe](https://www.plotaroute.com/route/1320688?units=km)
 (<span class="km_total">388</span>km total)
@@ -614,7 +636,8 @@ Walk <span class="km_source">8</span>km,
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">22</span>.2 (<span class="day_date">Friday    May 7th</span> *)
+* Day <span class="day_source">22</span>.2
+(<span class="day_date">Friday    May 7th</span> *)
 Walk <span class="km_source">6</span>km,
 [between rice fields then sleep between rivers](https://www.plotaroute.com/route/1320692?units=km)
 (<span class="km_total">394</span>km total)
@@ -624,7 +647,8 @@ Walk <span class="km_source">6</span>km,
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">23</span>.1 (<span class="day_date">Saturday  May 8th</span> *)
+* Day <span class="day_source">23</span>.1
+(<span class="day_date">Saturday  May 8th</span> *)
 Walk <span class="km_source">9</span>km,
 [up spiral steps then to Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
 (<span class="km_total">403</span>km total)
