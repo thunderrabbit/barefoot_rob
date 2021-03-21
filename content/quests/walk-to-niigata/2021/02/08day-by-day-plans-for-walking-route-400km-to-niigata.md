@@ -388,29 +388,28 @@ to Family House Akashiya
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_sports_inn_fujiya_family_house_akashiya.png)](https://goo.gl/maps/zfJWheGEa9n6Ywo27)
 
 </div>
-
-**Details past this point are likely to change**
-
 <div class="walk-segment">
 
 * Day <span class="day_source">14</span>.1
 (<span class="day_date">Thursday April 29th</span> *)
 Walk <span class="km_source">2</span>km,
-[Naeba To Dragondola](https://www.plotaroute.com/route/1314628?units=km)
+From [Family House Akashiya](https://goo.gl/maps/43Jynj1L11zv7dTC9)
+To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 (<span class="km_total">236</span>km total)
 
-[![31 walk 02km to dragondola](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/30_walk_02km_to_dragondola.png)](https://www.plotaroute.com/route/1314628?units=km)
+[![31 walk 02km to dragondola](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_akashiya_to_dragondola.png)](https://goo.gl/maps/ahRhhdeoTS5g1Y6KA)
 
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">14</span>.3
+* Day <span class="day_source">14</span>.2
 (<span class="day_date">Thursday April 29th</span> *)
 Walk <span class="km_source">7</span>km,
-From [Dragondola To Shukuba Hot Spring](https://www.plotaroute.com/route/1314829?units=km)
+From [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
+To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
 (<span class="km_total">243</span>km total)
 
-[![32 walk 07km from dragondola to shukuba onsen](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/31_walk_07km_from_dragondola_to_shukuba_onsen.png)](https://www.plotaroute.com/route/1314829?units=km)
+[![32 walk 07km from Dragondola to Lodge Montoze](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_dragondola_to_lodge_montoze.png)](https://goo.gl/maps/ury1z75cxJRbmQqT9)
 
 </div>
 <div class="walk-segment">
@@ -418,76 +417,93 @@ From [Dragondola To Shukuba Hot Spring](https://www.plotaroute.com/route/1314829
 * Day <span class="day_source">15</span>.1
 (<span class="day_date">Friday April 30th</span> *)
 Walk <span class="km_source">7</span>km,
-From [Shukuba Hot Spring To Jackys Cafe](https://www.plotaroute.com/route/1314834?units=km)
+From [Lodge Montoze](https://goo.gl/maps/RHXs15jPyHPNVPyX6)
+To [Kagura White Horse Inn](https://goo.gl/maps/jxFH8Yjw76n3e4dh8)
 (<span class="km_total">250</span>km total)
 
-[![33 walk 07km from shukuba onsen to jackys cafe](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/32_walk_07km_from_shukuba_onsen_to_jackys_cafe.png)](https://www.plotaroute.com/route/1314834?units=km)
+[![33 walk 07km
+from Lodge Montoze
+to Kagura White Horse Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_montoze_to_white_horse_inn.png)](https://goo.gl/maps/BY2oHijT5LBUC5dL7)
 
 </div>
-<div class="walk-segment">
 
-* Day <span class="day_source">15</span>.2
-(<span class="day_date">Friday April 30th</span> *)
-Walk <span class="km_source">9</span>km,
-From [Jackys Cafe To Echigo Yuzawa Station](https://www.plotaroute.com/route/1314928?units=km)
-(<span class="km_total">259</span>km total)
+**Details past this point are likely to change**
 
-[![34 walk 09km from jackys cafe to echigo yuzawa station](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/33_walk_09km_from_jackys_cafe_to_echigo_yuzawa_station.png)](https://www.plotaroute.com/route/1314928?units=km)
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">15</span>.3
-(<span class="day_date">Friday April 30th</span> *)
-Walk <span class="km_source">7</span>km,
-From [Echigo Yuzawa Station To Ogumaya Inn](https://www.plotaroute.com/route/1314934?units=km)
-(<span class="km_total">266</span>km total)
-
-[![35 walk 07km from echigo yuzawa to Ogumaya Inn](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/34_walk_07km_from_echigo_yuzawa_to_Ogumaya_Inn.png)](https://www.plotaroute.com/route/1314934?units=km)
-
-</div>
 <div class="walk-segment">
 
 * Day <span class="day_source">16</span>.1
-(<span class="day_date">Saturday  May 1st</span> *)
+(<span class="day_date">Saturday May 1st</span> *)
+Walk <span class="km_source">9</span>km,
+From [Kagura White Horse Inn](https://goo.gl/maps/2AudNcQR7T3QpVmG9)
+To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
+(<span class="km_total">259</span>km total)
+
+[![34 walk 09km from Kagura White Horse Inn to echigo yuzawa Hirokawa](https://placekitten.com/300/200)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
+
+</div>
+<div class="walk-segment">
+
+* Day <span class="day_source">17</span>.1
+(<span class="day_date">Sunday May 2nd</span> *)
+Walk <span class="km_source">7</span>km,
+From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
+To [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/9Vh8oyT9iXbBfcai9)
+(<span class="km_total">266</span>km total)
+
+[![35 walk 07km from Hirokawa Hotel to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://placekitten.com/300/200)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
+
+</div>
+<div class="walk-segment">
+
+* Day <span class="day_source">18</span>.1
+(<span class="day_date">Monday May 3rd</span> *)
 Walk <span class="km_source">6</span>km,
-From [Ogumaya Inn To Lunch, Hopefully](https://www.plotaroute.com/route/1314938?units=km)
+From [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/keGzkXfLb5W3i7j69)
+To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from Ogumaya to yukokuso](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/35_walk_06km_from_Ogumaya_to_yukokuso.png)](https://www.plotaroute.com/route/1314938?units=km)
+[![36 walk 06km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](https://placekitten.com/300/200)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
 
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.2
-(<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">19</span>.1
+(<span class="day_date">Tuesday May 4th</span> *)
 Walk <span class="km_source">7</span>km,
-to [Restaurants Near Ryokan](https://www.plotaroute.com/route/1315530?units=km)
-(<span class="km_total">279</span>km total)
+From [Sudaya Inn](https://goo.gl/maps/6iPB9Un5KK1WBkzJ7)
+To somewhere near [Shinanogawa Kasen Park
+信濃川河川公園](https://goo.gl/maps/772bic4Ed7V7i4hv6)
+(<span class="km_total">272</span>km total)
 
-[![37 walk 07km to restaurants near ryokan](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/36_walk_07km_to_restaurants_near_ryokan.png)](https://www.plotaroute.com/route/1315530?units=km)
+[![36 walk 06km from Sudaya Inn to Shinanogawa Kasen Park](https://placekitten.com/300/201)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
+
 
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.3
-(<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">20</span>.1
+(<span class="day_date">Wednesday May 5th</span> *)
 Walk <span class="km_source">4</span>km,
-to [Yasuragi Yado](https://www.plotaroute.com/route/1315535?units=km)
-(<span class="km_total">283</span>km total)
+From somewhere near [Shinanogawa Kasen Park
+信濃川河川公園](https://goo.gl/maps/cH3vkzMVdZ6nmfDq9)
+To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
+(<span class="km_total">272</span>km total)
 
-[![38 walk 04km from ryokan to yasuragi yado](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/37_walk_04km_from_ryokan_to_yasuragi_yado.png)](https://www.plotaroute.com/route/1315535?units=km)
+[![36 walk 06km from Shinanogawa Kasen Park to 旅館 竹花屋](https://placekitten.com/299/201)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
+
 
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">16</span>.4
-(<span class="day_date">Saturday  May 1st</span> *)
+* Day <span class="day_source">21</span>.1
+(<span class="day_date">Thursday May 6th</span> *)
 Walk <span class="km_source">6</span>km,
-to [百年 Inn](https://www.plotaroute.com/route/1315539?units=km)
-(<span class="km_total">289</span>km total)
+From [旅館 竹花屋](https://goo.gl/maps/qcmbneBJsmT6M3rB7)
+To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
+(<span class="km_total">272</span>km total)
 
-[![39 walk 06km to 100 year inn](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/38_walk_06km_to_100_year_inn.png)](https://www.plotaroute.com/route/1315539?units=km)
+[![36 walk 06km from 旅館 竹花屋 to APA Hotel Tsubamesanjo Ekimaeo](https://placekitten.com/299/201)](https://goo.gl/maps/8jy8PKvcGBSq7QeS7)
+
 
 </div>
 <div class="walk-segment">
@@ -495,10 +511,12 @@ to [百年 Inn](https://www.plotaroute.com/route/1315539?units=km)
 * Day <span class="day_source">17</span>.1
 (<span class="day_date">Sunday    May 2nd</span> *)
 Walk <span class="km_source">5</span>km,
-to [French Restaurant In Tokamachi](https://www.plotaroute.com/route/1315586?units=km)
-(<span class="km_total">294</span>km total)
+From []()
+To []()
+(<span class="km_total">272</span>km total)
 
-[![40 walk 05km to French restaurant in Tokamachi](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/39_walk_05km_to_French_restaurant_in_Tokamachi.png)](https://www.plotaroute.com/route/1315586?units=km)
+[![36 walk 06km from Ogumaya to yukokuso]()]()
+
 
 </div>
 <div class="walk-segment">
@@ -506,11 +524,13 @@ to [French Restaurant In Tokamachi](https://www.plotaroute.com/route/1315586?uni
 * Day <span class="day_source">17</span>.2
 (<span class="day_date">Sunday    May 2nd</span> *)
 Walk <span class="km_source">11</span>km,
-From [French Restaurant To Farm Hendon](https://www.plotaroute.com/route/1315774?units=km)
-(<span class="km_total">305</span>km total)
+From []()
+To []()
+(<span class="km_total">272</span>km total)
+
 **> 75% complete!!**
 
-[![41 walk 11km to farm hendon](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/40_walk_11km_to_farm_hendon.png)](https://www.plotaroute.com/route/1315774?units=km)
+[![36 walk 06km from Ogumaya to yukokuso]()]()
 
 </div>
 <div class="walk-segment">
@@ -518,10 +538,12 @@ From [French Restaurant To Farm Hendon](https://www.plotaroute.com/route/1315774
 * Day <span class="day_source">18</span>.1
 (<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">3</span>km,
-From [Farm Hendon To Restaurant](https://www.plotaroute.com/route/1315803?units=km)
-(<span class="km_total">308</span>km total)
+From []()
+To []()
+(<span class="km_total">272</span>km total)
 
-[![42 walk 03km from farm to restaurant](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/41_walk_03km_from_farm_to_restaurant.png)](https://www.plotaroute.com/route/1315803?units=km)
+[![36 walk 06km from Ogumaya to yukokuso]()]()
+
 
 </div>
 <div class="walk-segment">
@@ -529,10 +551,12 @@ From [Farm Hendon To Restaurant](https://www.plotaroute.com/route/1315803?units=
 * Day <span class="day_source">18</span>.2
 (<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">8</span>km,
-From [Restaurant Along Shinano River](https://www.plotaroute.com/route/1315805?units=km)
-(<span class="km_total">316</span>km total)
+From []()
+To []()
+(<span class="km_total">272</span>km total)
 
-[![43 walk 08km kinda along Shinano river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/42_walk_08km_kinda_along_Shinano_river.png)](https://www.plotaroute.com/route/1315805?units=km)
+[![36 walk 06km from Ogumaya to yukokuso]()]()
+
 
 </div>
 <div class="walk-segment">
@@ -540,10 +564,12 @@ From [Restaurant Along Shinano River](https://www.plotaroute.com/route/1315805?u
 * Day <span class="day_source">18</span>.3
 (<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">11</span>km,
- [Pizza Restaurant](https://www.plotaroute.com/route/1315809?units=km)
- (<span class="km_total">327</span>km total)
+From []()
+To []()
+(<span class="km_total">272</span>km total)
 
-[![44 walk 11km to pizza restaurant](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/43_walk_11km_to_pizza_restaurant.png)](https://www.plotaroute.com/route/1315809?units=km)
+[![36 walk 06km from Ogumaya to yukokuso]()]()
+
 
 </div>
 <div class="walk-segment">
@@ -551,10 +577,12 @@ Walk <span class="km_source">11</span>km,
 * Day <span class="day_source">18</span>.4
 (<span class="day_date">Monday    May 3rd</span> *)
 Walk <span class="km_source">5</span>km,
-from [pizza place to sleepy by Ota River](https://www.plotaroute.com/route/1319435?units=km)
-(<span class="km_total">332</span>km total)
+From []()
+To []()
+(<span class="km_total">272</span>km total)
 
-[![45 walk 05 km from pizza place to sleep by ota gawa](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/44_walk_05_km_from_pizza_place_to_sleep_by_ota_gawa.png)](https://www.plotaroute.com/route/1319435?units=km)
+[![36 walk 06km from Ogumaya to yukokuso]()]()
+
 
 </div>
 <div class="walk-segment">
