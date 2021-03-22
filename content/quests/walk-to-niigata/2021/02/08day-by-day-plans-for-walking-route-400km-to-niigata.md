@@ -503,89 +503,26 @@ From [旅館 竹花屋](https://goo.gl/maps/qcmbneBJsmT6M3rB7)
 To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from 旅館 竹花屋 to APA Hotel Tsubamesanjo Ekimaeo](https://placekitten.com/200/200)](https://goo.gl/maps/8jy8PKvcGBSq7QeS7)
+[![36 walk 06km from 旅館 竹花屋 to APA Hotel Tsubamesanjo Ekimaeo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/8jy8PKvcGBSq7QeS7)
 
 
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">17</span>.1
-(<span class="day_date">Sunday    May 2nd</span> *)
+* Day <span class="day_source">22</span>.1
+(<span class="day_date">Friday May 7th</span> *)
 Walk <span class="km_source">5</span>km,
-From []()
-To []()
+From [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/vSkkLDLpuxHcZY57A)
+To [Guest House Googoo ゲストハウス ぐーぐー](https://g.page/GuestHouse-Googoo?share)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from Ogumaya to yukokuso]()]()
+[![36 walk 06km
+from APA Hotel Tsubamesanjo Ekimae
+to ゲストハウス ぐーぐー](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_apa_hotel_tsubamesanjo_to_guest_house_googoo.png)](https://goo.gl/maps/fpZxLJV1JG2qhuJw5)
 
 
 </div>
-<div class="walk-segment">
-
-* Day <span class="day_source">17</span>.2
-(<span class="day_date">Sunday    May 2nd</span> *)
-Walk <span class="km_source">11</span>km,
-From []()
-To []()
-(<span class="km_total">272</span>km total)
-
-**> 75% complete!!**
-
-[![36 walk 06km from Ogumaya to yukokuso]()]()
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">18</span>.1
-(<span class="day_date">Monday    May 3rd</span> *)
-Walk <span class="km_source">3</span>km,
-From []()
-To []()
-(<span class="km_total">272</span>km total)
-
-[![36 walk 06km from Ogumaya to yukokuso]()]()
-
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">18</span>.2
-(<span class="day_date">Monday    May 3rd</span> *)
-Walk <span class="km_source">8</span>km,
-From []()
-To []()
-(<span class="km_total">272</span>km total)
-
-[![36 walk 06km from Ogumaya to yukokuso]()]()
-
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">18</span>.3
-(<span class="day_date">Monday    May 3rd</span> *)
-Walk <span class="km_source">11</span>km,
-From []()
-To []()
-(<span class="km_total">272</span>km total)
-
-[![36 walk 06km from Ogumaya to yukokuso]()]()
-
-
-</div>
-<div class="walk-segment">
-
-* Day <span class="day_source">18</span>.4
-(<span class="day_date">Monday    May 3rd</span> *)
-Walk <span class="km_source">5</span>km,
-From []()
-To []()
-(<span class="km_total">272</span>km total)
-
-[![36 walk 06km from Ogumaya to yukokuso]()]()
-
-
-</div>
+<!--
 <div class="walk-segment">
 
 * Day <span class="day_source">19</span>.1
@@ -674,6 +611,7 @@ Walk <span class="km_source">6</span>km,
 [![53 walk 06 km between rice fields to sleep between rivers](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/52_walk_06_km_between_rice_fields_to_sleep_between_rivers.png)](https://www.plotaroute.com/route/1320692?units=km)
 
 </div>
+ -->
 <div class="walk-segment">
 
 * Day <span class="day_source">23</span>.1
