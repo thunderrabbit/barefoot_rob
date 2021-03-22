@@ -438,7 +438,7 @@ From [Kagura White Horse Inn](https://goo.gl/maps/2AudNcQR7T3QpVmG9)
 To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
 (<span class="km_total">259</span>km total)
 
-[![34 walk 09km from Kagura White Horse Inn to echigo yuzawa Hirokawa](https://placekitten.com/300/200)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
+[![34 walk 09km from Kagura White Horse Inn to echigo yuzawa Hirokawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_white_horse_to_hirokawa_hotel.png)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
 
 </div>
 <div class="walk-segment">
@@ -450,7 +450,10 @@ From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
 To [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/9Vh8oyT9iXbBfcai9)
 (<span class="km_total">266</span>km total)
 
-[![35 walk 07km from Hirokawa Hotel to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://placekitten.com/300/200)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
+[![35 walk 07km
+from Hirokawa Hotel
+to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_hirokawa_to_6_day_city_onsen_biz_hotel.png)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
 
 </div>
 <div class="walk-segment">
@@ -462,7 +465,7 @@ From [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）]
 To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](https://placekitten.com/300/200)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
+[![36 walk 06km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_six_day_onsen_to_sudaya_inn.png)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
 
 </div>
 <div class="walk-segment">
@@ -475,8 +478,7 @@ To somewhere near [Shinanogawa Kasen Park
 信濃川河川公園](https://goo.gl/maps/772bic4Ed7V7i4hv6)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from Sudaya Inn to Shinanogawa Kasen Park](https://placekitten.com/300/201)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
-
+[![36 walk 06km from Sudaya Inn to Shinanogawa Kasen Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_sudaya_to_shinanogawa_park.png)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
 
 </div>
 <div class="walk-segment">
@@ -489,8 +491,7 @@ From somewhere near [Shinanogawa Kasen Park
 To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from Shinanogawa Kasen Park to 旅館 竹花屋](https://placekitten.com/299/201)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
-
+[![36 walk 06km from Shinanogawa Kasen Park to 旅館 竹花屋](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_shinanogawa_park_to_bamboo_flower_ya.png)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
 
 </div>
 <div class="walk-segment">
@@ -502,7 +503,7 @@ From [旅館 竹花屋](https://goo.gl/maps/qcmbneBJsmT6M3rB7)
 To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
 (<span class="km_total">272</span>km total)
 
-[![36 walk 06km from 旅館 竹花屋 to APA Hotel Tsubamesanjo Ekimaeo](https://placekitten.com/299/201)](https://goo.gl/maps/8jy8PKvcGBSq7QeS7)
+[![36 walk 06km from 旅館 竹花屋 to APA Hotel Tsubamesanjo Ekimaeo](https://placekitten.com/200/200)](https://goo.gl/maps/8jy8PKvcGBSq7QeS7)
 
 
 </div>
