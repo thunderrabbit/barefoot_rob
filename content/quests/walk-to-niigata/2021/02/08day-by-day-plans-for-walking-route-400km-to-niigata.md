@@ -66,8 +66,8 @@ in Yomiuriland](/events/2021/04/17start-walking-to-niigata-kickoff-party/)
 <br>👉🏿 Anyone want to try the bungee?  It's not *that* tall!
 
 </div>
-(<)details>
-(<)summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
+<details>
+<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 <div class="walk-segment">
 
 * Day <span class="day_source">02</span>.2 (<span class="day_date">Saturday April 17th</span> *)
