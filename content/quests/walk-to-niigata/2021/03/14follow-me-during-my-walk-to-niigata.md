@@ -7,7 +7,7 @@ draft: false
 aliases: [
    "/quests/walk-to-niigata/2021/02/16how-to-receive-updates-during-my-walk/"
    ]
-date: 2021-03-24T06:30:09+09:00
+date: 2021-03-14T12:02:45+09:00
 ---
 
 <div class="reddit contact link">
