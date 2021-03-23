@@ -12,8 +12,6 @@ src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_mar_10_wide_m
 alt="Have the courage to follow your heart and intuition"
 class="title" />
 
-<div class="note">(image credit: https://hipwallpaper.com/view/Gtg24n)</div>
-
 Barefoot across Japan: “Barefoot” Rob Nugen walking across Japan for suicide prevention
 Barefoot Rob Nugen, known among Japanese TV audiences for going almost constantly barefoot, is to walk, mostly without shoes, from Yokohama to Niigata. In addition to the personal challenge, Rob also aims to raise funds for suicide prevention in Japan.
 
