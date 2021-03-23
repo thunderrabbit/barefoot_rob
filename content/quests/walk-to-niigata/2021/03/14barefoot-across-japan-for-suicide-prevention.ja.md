@@ -39,13 +39,13 @@ date: 2021-03-14T20:07:45+09:00
   <a target="_blank" href="https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/?lang=ja" >https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/?lang=ja</a>
 </div>
 
-## 146,000 / 1,000,000円目標
+## 199,792 / 1,000,000円目標
 
-# 15%の資金調達が完了しました
+# 20%の資金調達が完了しました
 
 <div class="thermometer">
-███████████████
-███████████████_____________________________________________________________________________________
+████████████████████
+████████████████████________________________________________________________________________________
 </div>
 
 <!--
