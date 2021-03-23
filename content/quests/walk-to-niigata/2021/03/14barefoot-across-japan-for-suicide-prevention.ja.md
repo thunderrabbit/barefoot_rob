@@ -7,7 +7,7 @@ draft: false
 aliases: [
     "/quests/walk-to-niigata/2021/02/23support-for-walk-for-suicide-prevention/",
     ]
-date: 2021-03-14T20:07:45+09:00
+date: 2021-03-24T06:51:08+09:00
 ---
 
 裸足で日本列島を海岸から海岸まで（短距離）歩くことを計画している。

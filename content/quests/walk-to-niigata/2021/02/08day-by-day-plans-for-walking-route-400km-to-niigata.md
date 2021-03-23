@@ -8,7 +8,7 @@ aliases: [
      "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/",
      "/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/"
  ]
-date: 2021-02-23T12:02:45+09:00
+date: 2021-03-24T06:30:09+09:00
 ---
 
 
@@ -66,8 +66,8 @@ in Yomiuriland](/events/2021/04/17start-walking-to-niigata-kickoff-party/)
 <br>👉🏿 Anyone want to try the bungee?  It's not *that* tall!
 
 </div>
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
+(<)details>
+(<)summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 <div class="walk-segment">
 
 * Day <span class="day_source">02</span>.2 (<span class="day_date">Saturday April 17th</span> *)
