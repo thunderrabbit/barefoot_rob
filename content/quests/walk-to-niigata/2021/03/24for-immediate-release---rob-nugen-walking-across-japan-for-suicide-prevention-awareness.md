@@ -8,7 +8,7 @@ date: 2021-03-24T06:50:09+09:00
 ---
 
 <img
-src="//b.robnugen.com/blog/2021/have_the_courage_to_follow_your_heart_and_intuition.jpg"
+src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_mar_10_wide_map_walk_route.png"
 alt="Have the courage to follow your heart and intuition"
 class="title" />
 
