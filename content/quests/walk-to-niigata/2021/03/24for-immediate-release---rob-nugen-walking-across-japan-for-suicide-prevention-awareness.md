@@ -28,7 +28,7 @@ The idea for the walk is not a new one. “I have been adding different importan
 
 Rob sees a strong connection between the meditative effects of barefoot walking and wellbeing.  “Walking helps me be in touch with my body, gets me moving, connects me to Earth, (and) connects me to myself. All of these are ways to reduce stress, and do self-care.”
 
-Indeed, self-care is an important parts of preventing suicide.
+Indeed, self-care is an important part of preventing suicide.
  (https://www.thekimfoundation.org/blog/importance-of-self-care/)
 
 “Coming to the present moment is one of the key ways of noticing what’s here now. And that’s a key way to help go through the feelings, get beyond the feeling of wanting the pain to end”.
