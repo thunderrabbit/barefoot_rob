@@ -48,6 +48,7 @@ on the [concrete circle in Rinko Park](https://goo.gl/maps/WAjBxaoAmmv5yyo18).
 [![Walk to our area from Rinko Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_rinko_park_to_our_area.png)](https://goo.gl/maps/QzxDHh2J1gwe6p1u9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Two</span>
@@ -71,6 +72,7 @@ in Yomiuriland](/events/2021/04/17start-walking-to-niigata-kickoff-party/)
 </div>
 <details>
 <summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Two</span>
@@ -88,6 +90,7 @@ But we'll cross Tama River and then walk a bit to Chuokan Hotel.
 [![03 walk 08km to Chuokan hotel in Fuchu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_yomiuriland_to_chuokan_hotel.png)](https://goo.gl/maps/bWkSxvfpEYupLuzX6)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Three</span>
@@ -103,6 +106,7 @@ We will pass a couple of parks and walk near Kokubunji Station.
 [![04 walk 6.5km Chuokan to Pizza-la via Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/jveUwhwnQqKtTSpn9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Three</span>
@@ -121,6 +125,7 @@ To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 [![05 walk 7.5km to Seibuen amusement park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/94zQvCKXkAWdzyWa6)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">04</span>.1 (<span class="day_date">Monday April 19th</span> *)
@@ -137,6 +142,7 @@ Possible stops:
 [![06 walk 10km to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/KX7Adw7pxuBGS93u9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">04</span>.2 (<span class="day_date">Monday April 19th</span> *)
@@ -154,6 +160,7 @@ We will pass by
 [![07 walk 13km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">05</span>.1 (<span class="day_date">Tuesday April 20th</span> *)
@@ -166,6 +173,7 @@ To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosa
 [![08 walk 6km to Strawberry garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_hotel_will_to_strawberry_garden.png)](https://goo.gl/maps/T1gwAXX2esABLB9F8)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">05</span>.2 (<span class="day_date">Tuesday April 20th</span> *)
@@ -177,6 +185,7 @@ To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 [![09 walk 12km from strawberry to ranzan bbq tsuki river](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.1 (<span class="day_date">Wednesday April 21st</span> *)
@@ -195,6 +204,7 @@ to Nokonoko Italian
 )](https://goo.gl/maps/xtL5ioTrgWHiipbS7)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.2 (<span class="day_date">Wednesday April 21st</span> *)
@@ -213,6 +223,7 @@ From Nokonoko
 to Spamu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_nokonoko_to_spamu.png)](https://goo.gl/maps/BSsapmqYtv5unAb38)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">07</span>.1 (<span class="day_date">Thursday April 22nd</span> *)
@@ -229,6 +240,7 @@ at Matsuhisa Station
 )](https://goo.gl/maps/4AK7tS4diTt5ufxX7)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">07</span>.2 (<span class="day_date">Thursday April 22nd</span> *)
@@ -240,6 +252,7 @@ To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 [![14 walk 08km to hotel in Honjo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_matsuhisa_to_honjo_hotel.png)](https://goo.gl/maps/ehNYaKW6tSpMjPGt5)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.1 (<span class="day_date">Friday April 23rd</span> *)
@@ -252,6 +265,7 @@ To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 [![15 walk 12km from hotel in Honjo to Isesaki Shiminnomori Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_honjo_hotel_to_isesaki_shiminnomori_park.png)](https://goo.gl/maps/gPxY72rz64UXVgVu9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.2 (<span class="day_date">Friday April 23rd</span> *)
@@ -263,6 +277,7 @@ To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 [![15 walk 12km from Isesaki Shiminnomori Park to Kezoji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_isesaki_shiminnomori_park_to_kezoji_park.png)](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.3 (<span class="day_date">Friday April 23rd</span> *)
@@ -277,6 +292,7 @@ to Hotel Ruruka
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/D35jfG6je8apeBi78)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
@@ -292,6 +308,7 @@ Pass by:
 [![17 walk 4km from Hotel Ruruka to Luna Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ruruka_to_luna_park.png)](https://goo.gl/maps/bPjDy3PTStycFcve9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.2 (<span class="day_date">Saturday April 24th</span> *)
@@ -304,6 +321,7 @@ To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public ba
 [![18 walk 08km from Luna Park to Sky Terme Shibukawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_luna_park_to_sky_terme_shibukawa.png)](https://goo.gl/maps/BtqtcopX3FgPxfdH9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.3 (<span class="day_date">Saturday April 24th</span> *)
@@ -315,6 +333,7 @@ To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
 [![19 walk 3km from Sky Terme Shibukawa to Hotel Tatsumi](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_sky_terme_shibukawa_to_hotel_tatsumi.png)](https://goo.gl/maps/r4hMfgGqQ8AGdXdYA)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">10</span>.1 (<span class="day_date">Sunday April 25th</span> *)
@@ -333,6 +352,7 @@ to Midorinomura Camp Ground
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_09_tatsumi_to_midorinomura_camp.png)](https://goo.gl/maps/X8sTqpA2DkjgMTLN9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">11</span>.1 (<span class="day_date">Monday April 26th</span> *)
@@ -349,6 +369,7 @@ to Yumotokan
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">12</span>.1 (<span class="day_date">Tuesday April 27th</span> *)
@@ -361,6 +382,7 @@ To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 [![28 walk 04km to bungee jump](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_yumotokan_to_bungy_japan_sarugakyo.png)](https://goo.gl/maps/uBbZKq8htvqJzEZ99)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">12</span>.2 (<span class="day_date">Tuesday April 27th</span> *)
@@ -372,6 +394,7 @@ To [Sports Inn Fujiya](https://goo.gl/maps/FiQKJi3T95HNJPLNA)
 [![29 walk 06km from bungee jump to Sports Inn Fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_bungee_to_sports_inn_fujiya.png)](https://goo.gl/maps/JPTbagrt6ADQT5iJ8)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">13</span>.1 (<span class="day_date">Wednesday April 28th</span> *)
@@ -397,6 +420,7 @@ to Family House Akashiya
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_sports_inn_fujiya_family_house_akashiya.png)](https://goo.gl/maps/zfJWheGEa9n6Ywo27)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">14</span>.1
@@ -409,6 +433,7 @@ To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 [![31 walk 02km to dragondola](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_akashiya_to_dragondola.png)](https://goo.gl/maps/ahRhhdeoTS5g1Y6KA)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">14</span>.2
@@ -421,6 +446,7 @@ To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
 [![32 walk 07km from Dragondola to Lodge Montoze](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_dragondola_to_lodge_montoze.png)](https://goo.gl/maps/ury1z75cxJRbmQqT9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">15</span>.1
@@ -438,6 +464,7 @@ to Kagura White Horse Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_pl
 
 **Details past this point are likely to change**
 
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">16</span>.1
@@ -450,6 +477,7 @@ To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
 [![34 walk 09km from Kagura White Horse Inn to echigo yuzawa Hirokawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_white_horse_to_hirokawa_hotel.png)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">17</span>.1
@@ -465,6 +493,7 @@ to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_hirokawa_to_6_day_city_onsen_biz_hotel.png)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">18</span>.1
@@ -477,6 +506,7 @@ To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 [![36 walk 06km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_six_day_onsen_to_sudaya_inn.png)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">19</span>.1
@@ -490,6 +520,7 @@ To somewhere near [Shinanogawa Kasen Park
 [![36 walk 06km from Sudaya Inn to Shinanogawa Kasen Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_sudaya_to_shinanogawa_park.png)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">20</span>.1
@@ -503,6 +534,7 @@ To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
 [![36 walk 06km from Shinanogawa Kasen Park to 旅館 竹花屋](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_shinanogawa_park_to_bamboo_flower_ya.png)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">21</span>.1
@@ -516,6 +548,7 @@ To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
 
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">22</span>.1
@@ -532,6 +565,7 @@ to ゲストハウス ぐーぐー](//b.robnugen.com/quests/walk-to-niigata/2021
 
 </div>
 <!--
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">19</span>.1
@@ -543,6 +577,7 @@ from [Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/132
 [![46 walk 05 km from ota river to nyozeza museum](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/45_walk_05_km_from_ota_river_to_nyozeza_museum.png)](https://www.plotaroute.com/route/1320373?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">19</span>.2
@@ -554,6 +589,7 @@ from [Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?u
 [![47 walk 10 km from museum to kariyatagawa](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/46_walk_10_km_from_museum_to_kariyatagawa.png)](https://www.plotaroute.com/route/1320375?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">20</span>.1
@@ -565,6 +601,7 @@ from [Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377
 [![48 walk 04 km from kariyatagawa to matthews bistro](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/47_walk_04_km_from_kariyatagawa_to_matthews_bistro.png)](https://www.plotaroute.com/route/1320377?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">20</span>.2
@@ -576,6 +613,7 @@ along [Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/13203
 [![49 walk 14 km along joetsu to tsubamesanjo hotel](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/48_walk_14_km_along_joetsu_to_tsubamesanjo_hotel.png)](https://www.plotaroute.com/route/1320378?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">21</span>.1
@@ -587,6 +625,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 [![50 walk 10 km from tsubamesanjo to groceries](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/49_walk_10_km_from_tsubamesanjo_to_groceries.png)](https://www.plotaroute.com/route/1320388?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">21</span>.2
@@ -598,6 +637,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 [![51 walk 05 km along nakanokuchi river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/50_walk_05_km_along_nakanokuchi_river.png)](https://www.plotaroute.com/route/1320390?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">22</span>.1
@@ -609,6 +649,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 [![52 walk 08 km along nakanokuchi river to cafe](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/51_walk_08_km_along_nakanokuchi_river_to_cafe.png)](https://www.plotaroute.com/route/1320688?units=km)
 
 </div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">22</span>.2
@@ -621,6 +662,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 
 </div>
  -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">23</span>.1
