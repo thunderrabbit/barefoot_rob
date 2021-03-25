@@ -565,7 +565,7 @@ to ゲストハウス ぐーぐー](//b.robnugen.com/quests/walk-to-niigata/2021
 
 </div>
 <!--
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">19</span>.1
@@ -577,7 +577,7 @@ from [Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/132
 [![46 walk 05 km from ota river to nyozeza museum](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/45_walk_05_km_from_ota_river_to_nyozeza_museum.png)](https://www.plotaroute.com/route/1320373?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">19</span>.2
@@ -589,7 +589,7 @@ from [Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?u
 [![47 walk 10 km from museum to kariyatagawa](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/46_walk_10_km_from_museum_to_kariyatagawa.png)](https://www.plotaroute.com/route/1320375?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">20</span>.1
@@ -601,7 +601,7 @@ from [Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377
 [![48 walk 04 km from kariyatagawa to matthews bistro](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/47_walk_04_km_from_kariyatagawa_to_matthews_bistro.png)](https://www.plotaroute.com/route/1320377?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">20</span>.2
@@ -613,7 +613,7 @@ along [Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/13203
 [![49 walk 14 km along joetsu to tsubamesanjo hotel](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/48_walk_14_km_along_joetsu_to_tsubamesanjo_hotel.png)](https://www.plotaroute.com/route/1320378?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">21</span>.1
@@ -625,7 +625,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 [![50 walk 10 km from tsubamesanjo to groceries](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/49_walk_10_km_from_tsubamesanjo_to_groceries.png)](https://www.plotaroute.com/route/1320388?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">21</span>.2
@@ -637,7 +637,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 [![51 walk 05 km along nakanokuchi river](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/50_walk_05_km_along_nakanokuchi_river.png)](https://www.plotaroute.com/route/1320390?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">22</span>.1
@@ -649,7 +649,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 [![52 walk 08 km along nakanokuchi river to cafe](//b.robnugen.com/quests/walk-to-niigata/2020/route_plans/as-of-oct/thumbs/51_walk_08_km_along_nakanokuchi_river_to_cafe.png)](https://www.plotaroute.com/route/1320688?units=km)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS --
 <div class="walk-segment">
 
 * Day <span class="day_source">22</span>.2
