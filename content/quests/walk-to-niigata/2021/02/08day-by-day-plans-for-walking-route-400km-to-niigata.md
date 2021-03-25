@@ -29,8 +29,9 @@ These are maps of each segment, and are subject to change.  I do not yet have a 
 
 <div class="walk-segment">
 
-* Day <span class="day_source">01</span>.1 (<span class="day_date">Friday April 16th 2021</span> *)
-Walk <span class="km_source">20</span>km,
+* Day <span class="day_source">One</span>,
+(<span class="day_date">Friday April 16th 2021</span> *)
+<br>Walk <span class="km_source">20</span>km,
 From [Rinko Park](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/) on the bay in Yokohama
 to my house (not shown).
 (<span class="km_total">20</span>km walked so far)
@@ -49,8 +50,10 @@ on the [concrete circle in Rinko Park](https://goo.gl/maps/WAjBxaoAmmv5yyo18).
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">02</span>.1 (<span class="day_date">Saturday April 17th</span> *)
-Walk <span class="km_source">4</span>km,
+* Day <span class="day_source">Two</span>
+(<span class="day_date">Saturday April 17th</span> *)
+Part 1:
+<br>Walk <span class="km_source">4</span>km,
 from my house (not shown)
 To [Yomiuriland](https://goo.gl/maps/dJkUNxNEFZjMo723A)
 (<span class="km_total">24</span>km walked so far)
@@ -70,8 +73,10 @@ in Yomiuriland](/events/2021/04/17start-walking-to-niigata-kickoff-party/)
 <summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 <div class="walk-segment">
 
-* Day <span class="day_source">02</span>.2 (<span class="day_date">Saturday April 17th</span> *)
-Walk <span class="km_source">8</span>km,
+* Day <span class="day_source">Two</span>
+(<span class="day_date">Saturday April 17th</span> *)
+Part 2:
+<br>Walk <span class="km_source">8</span>km,
 From [Yomiuriland](https://goo.gl/maps/dJkUNxNEFZjMo723A)
 To [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
 (<span class="km_total">32</span>km walked so far)
@@ -85,8 +90,10 @@ But we'll cross Tama River and then walk a bit to Chuokan Hotel.
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">03</span>.1 (<span class="day_date">Sunday April 18th</span> *)
-Walk <span class="km_source">6.5</span>km,
+* Day <span class="day_source">Three</span>
+(<span class="day_date">Sunday April 18th</span> *)
+Part 1:
+<br>Walk <span class="km_source">6</span>km,
 From [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
 To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
 (<span class="km_total">38</span>km walked so far)
@@ -98,8 +105,10 @@ We will pass a couple of parks and walk near Kokubunji Station.
 </div>
 <div class="walk-segment">
 
-* Day <span class="day_source">03</span>.2 (<span class="day_date">Sunday April 18th</span> *)
-Walk <span class="km_source">7.5</span>km
+* Day <span class="day_source">Three</span>
+(<span class="day_date">Sunday April 18th</span> *)
+Part 2:
+<br>Walk <span class="km_source">7.5</span>km
 From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
 To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 (<span class="km_total">46</span>km walked so far)
@@ -115,7 +124,7 @@ To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 <div class="walk-segment">
 
 * Day <span class="day_source">04</span>.1 (<span class="day_date">Monday April 19th</span> *)
-Walk <span class="km_source">10</span>km,
+<br>Walk <span class="km_source">10</span>km,
 From [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 To [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
 (<span class="km_total">56</span>km walked so far)
@@ -131,7 +140,7 @@ Possible stops:
 <div class="walk-segment">
 
 * Day <span class="day_source">04</span>.2 (<span class="day_date">Monday April 19th</span> *)
-Walk <span class="km_source">13</span>km,
+<br>Walk <span class="km_source">13</span>km,
 From [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
 To [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
 (<span class="km_total">69</span>km walked so far)
@@ -148,7 +157,7 @@ We will pass by
 <div class="walk-segment">
 
 * Day <span class="day_source">05</span>.1 (<span class="day_date">Tuesday April 20th</span> *)
-Walk <span class="km_source">06</span>km,
+<br>Walk <span class="km_source">06</span>km,
 From [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
 To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosato.net/
 (<span class="km_total">79</span>km walked so far)
@@ -160,7 +169,7 @@ To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosa
 <div class="walk-segment">
 
 * Day <span class="day_source">05</span>.2 (<span class="day_date">Tuesday April 20th</span> *)
-Walk <span class="km_source">12</span>km,
+<br>Walk <span class="km_source">12</span>km,
 From [いちご Garden](https://goo.gl/maps/fF6PaR15BLFy1kpF6)
 To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 (<span class="km_total">92</span>km walked so far)
@@ -171,7 +180,7 @@ To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.1 (<span class="day_date">Wednesday April 21st</span> *)
-Walk <span class="km_source">15</span>km,
+<br>Walk <span class="km_source">15</span>km,
 From [Ranzan Valley BBQ Camp](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 To [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
 (<span class="km_total">106</span>km walked so far)
@@ -189,7 +198,7 @@ to Nokonoko Italian
 <div class="walk-segment">
 
 * Day <span class="day_source">06</span>.2 (<span class="day_date">Wednesday April 21st</span> *)
-Walk <span class="km_source">7</span>km,
+<br>Walk <span class="km_source">7</span>km,
 From [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
 to [Hotel Spa Mu](https://spamu.jp/index.html)
 (<span class="km_total">103</span>km walked so far)
@@ -207,7 +216,7 @@ to Spamu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_m
 <div class="walk-segment">
 
 * Day <span class="day_source">07</span>.1 (<span class="day_date">Thursday April 22nd</span> *)
-Walk <span class="km_source">10</span>km,
+<br>Walk <span class="km_source">10</span>km,
 From [Hotel Spa Mu](https://spamu.jp/index.html)
 To [Cafe Tsumugi カフェ ツムギ](https://goo.gl/maps/7o898he3MfXXkyLWA)
 (<span class="km_total">116</span>km walked so far)
@@ -223,7 +232,7 @@ at Matsuhisa Station
 <div class="walk-segment">
 
 * Day <span class="day_source">07</span>.2 (<span class="day_date">Thursday April 22nd</span> *)
-Walk <span class="km_source">8</span>km,
+<br>Walk <span class="km_source">8</span>km,
 From [Cafe Tsumugi カフェ ツムギ](https://goo.gl/maps/7o898he3MfXXkyLWA)
 To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 (<span class="km_total">124</span>km walked so far)
@@ -234,7 +243,7 @@ To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.1 (<span class="day_date">Friday April 23rd</span> *)
-Walk <span class="km_source">7</span>km,
+<br>Walk <span class="km_source">7</span>km,
 From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 (new stop!)
@@ -246,7 +255,7 @@ To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.2 (<span class="day_date">Friday April 23rd</span> *)
-Walk <span class="km_source">5</span>km,
+<br>Walk <span class="km_source">5</span>km,
 From [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 (<span class="km_total">136</span>km walked so far)
@@ -257,7 +266,7 @@ To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 <div class="walk-segment">
 
 * Day <span class="day_source">08</span>.3 (<span class="day_date">Friday April 23rd</span> *)
-Walk <span class="km_source">11</span>km,
+<br>Walk <span class="km_source">11</span>km,
 From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 To [Hotel Ruruka](https://g.page/hotel_luka?share)
 (<span class="km_total">142</span>km walked so far)
@@ -271,7 +280,7 @@ to Hotel Ruruka
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.1 (<span class="day_date">Saturday April 24th</span> *)
-Walk <span class="km_source">4</span>km,
+<br>Walk <span class="km_source">4</span>km,
 From [Hotel Ruruka](https://g.page/hotel_luka?share)
 To [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
 (<span class="km_total">150</span>km walked so far)
@@ -286,7 +295,7 @@ Pass by:
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.2 (<span class="day_date">Saturday April 24th</span> *)
-Walk <span class="km_source">10</span>km,
+<br>Walk <span class="km_source">10</span>km,
 From [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
 To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public bath)
 (<span class="km_total">150</span>km walked so far)
@@ -298,7 +307,7 @@ To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public ba
 <div class="walk-segment">
 
 * Day <span class="day_source">09</span>.3 (<span class="day_date">Saturday April 24th</span> *)
-Walk <span class="km_source">3</span>km,
+<br>Walk <span class="km_source">3</span>km,
 From [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9)
 To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
 (<span class="km_total">150</span>km walked so far)
@@ -309,7 +318,7 @@ To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
 <div class="walk-segment">
 
 * Day <span class="day_source">10</span>.1 (<span class="day_date">Sunday April 25th</span> *)
-Walk <span class="km_source">20</span>km,
+<br>Walk <span class="km_source">20</span>km,
 From [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
 To [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
 (<span class="km_total">164</span>km walked so far)
@@ -327,7 +336,7 @@ to Midorinomura Camp Ground
 <div class="walk-segment">
 
 * Day <span class="day_source">11</span>.1 (<span class="day_date">Monday April 26th</span> *)
-Walk <span class="km_source">19</span>km,
+<br>Walk <span class="km_source">19</span>km,
 From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
 To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
 (<span class="km_total">164</span>km walked so far)
@@ -343,7 +352,7 @@ to Yumotokan
 <div class="walk-segment">
 
 * Day <span class="day_source">12</span>.1 (<span class="day_date">Tuesday April 27th</span> *)
-Walk <span class="km_source">4</span>km,
+<br>Walk <span class="km_source">4</span>km,
 From [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
 To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 (<span class="km_total">217</span>km walked so far)
@@ -355,7 +364,7 @@ To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 <div class="walk-segment">
 
 * Day <span class="day_source">12</span>.2 (<span class="day_date">Tuesday April 27th</span> *)
-Walk <span class="km_source">6</span>km,
+<br>Walk <span class="km_source">6</span>km,
 From [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 To [Sports Inn Fujiya](https://goo.gl/maps/FiQKJi3T95HNJPLNA)
 (<span class="km_total">223</span>km walked so far)
@@ -366,7 +375,7 @@ To [Sports Inn Fujiya](https://goo.gl/maps/FiQKJi3T95HNJPLNA)
 <div class="walk-segment">
 
 * Day <span class="day_source">13</span>.1 (<span class="day_date">Wednesday April 28th</span> *)
-Walk <span class="km_source">14</span>km,
+<br>Walk <span class="km_source">14</span>km,
 From [Sports Inn Fujiya](https://goo.gl/maps/jXdUYeUBKoghTaQ78)
 To [Family House Akashiya](https://goo.gl/maps/Cs43KenXgvZJVFoT8)
 (<span class="km_total">234</span>km walked so far)
@@ -392,7 +401,7 @@ to Family House Akashiya
 
 * Day <span class="day_source">14</span>.1
 (<span class="day_date">Thursday April 29th</span> *)
-Walk <span class="km_source">2</span>km,
+<br>Walk <span class="km_source">2</span>km,
 From [Family House Akashiya](https://goo.gl/maps/43Jynj1L11zv7dTC9)
 To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 (<span class="km_total">236</span>km walked so far)
@@ -404,7 +413,7 @@ To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 
 * Day <span class="day_source">14</span>.2
 (<span class="day_date">Thursday April 29th</span> *)
-Walk <span class="km_source">7</span>km,
+<br>Walk <span class="km_source">7</span>km,
 From [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
 (<span class="km_total">243</span>km walked so far)
@@ -416,7 +425,7 @@ To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
 
 * Day <span class="day_source">15</span>.1
 (<span class="day_date">Friday April 30th</span> *)
-Walk <span class="km_source">7</span>km,
+<br>Walk <span class="km_source">7</span>km,
 From [Lodge Montoze](https://goo.gl/maps/RHXs15jPyHPNVPyX6)
 To [Kagura White Horse Inn](https://goo.gl/maps/jxFH8Yjw76n3e4dh8)
 (<span class="km_total">250</span>km walked so far)
@@ -433,7 +442,7 @@ to Kagura White Horse Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_pl
 
 * Day <span class="day_source">16</span>.1
 (<span class="day_date">Saturday May 1st</span> *)
-Walk <span class="km_source">9</span>km,
+<br>Walk <span class="km_source">9</span>km,
 From [Kagura White Horse Inn](https://goo.gl/maps/2AudNcQR7T3QpVmG9)
 To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
 (<span class="km_total">259</span>km walked so far)
@@ -445,7 +454,7 @@ To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
 
 * Day <span class="day_source">17</span>.1
 (<span class="day_date">Sunday May 2nd</span> *)
-Walk <span class="km_source">7</span>km,
+<br>Walk <span class="km_source">7</span>km,
 From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
 To [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/9Vh8oyT9iXbBfcai9)
 (<span class="km_total">266</span>km walked so far)
@@ -460,7 +469,7 @@ to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
 
 * Day <span class="day_source">18</span>.1
 (<span class="day_date">Monday May 3rd</span> *)
-Walk <span class="km_source">6</span>km,
+<br>Walk <span class="km_source">6</span>km,
 From [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/keGzkXfLb5W3i7j69)
 To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 (<span class="km_total">272</span>km walked so far)
@@ -472,7 +481,7 @@ To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 
 * Day <span class="day_source">19</span>.1
 (<span class="day_date">Tuesday May 4th</span> *)
-Walk <span class="km_source">7</span>km,
+<br>Walk <span class="km_source">7</span>km,
 From [Sudaya Inn](https://goo.gl/maps/6iPB9Un5KK1WBkzJ7)
 To somewhere near [Shinanogawa Kasen Park
 信濃川河川公園](https://goo.gl/maps/772bic4Ed7V7i4hv6)
@@ -485,7 +494,7 @@ To somewhere near [Shinanogawa Kasen Park
 
 * Day <span class="day_source">20</span>.1
 (<span class="day_date">Wednesday May 5th</span> *)
-Walk <span class="km_source">4</span>km,
+<br>Walk <span class="km_source">4</span>km,
 From somewhere near [Shinanogawa Kasen Park
 信濃川河川公園](https://goo.gl/maps/cH3vkzMVdZ6nmfDq9)
 To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
@@ -498,7 +507,7 @@ To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
 
 * Day <span class="day_source">21</span>.1
 (<span class="day_date">Thursday May 6th</span> *)
-Walk <span class="km_source">6</span>km,
+<br>Walk <span class="km_source">6</span>km,
 From [旅館 竹花屋](https://goo.gl/maps/qcmbneBJsmT6M3rB7)
 To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
 (<span class="km_total">272</span>km walked so far)
@@ -511,7 +520,7 @@ To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
 
 * Day <span class="day_source">22</span>.1
 (<span class="day_date">Friday May 7th</span> *)
-Walk <span class="km_source">5</span>km,
+<br>Walk <span class="km_source">5</span>km,
 From [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/vSkkLDLpuxHcZY57A)
 To [Guest House Googoo ゲストハウス ぐーぐー](https://g.page/GuestHouse-Googoo?share)
 (<span class="km_total">272</span>km walked so far)
@@ -527,7 +536,7 @@ to ゲストハウス ぐーぐー](//b.robnugen.com/quests/walk-to-niigata/2021
 
 * Day <span class="day_source">19</span>.1
 (<span class="day_date">Tuesday   May 4th</span> *)
-Walk <span class="km_source">5</span>km,
+<br>Walk <span class="km_source">5</span>km,
 from [Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/1320373?units=km)
 (<span class="km_total">337</span>km walked so far)
 
@@ -538,7 +547,7 @@ from [Ota River to lunch by Nyozezo Museum](https://www.plotaroute.com/route/132
 
 * Day <span class="day_source">19</span>.2
 (<span class="day_date">Tuesday   May 4th</span> *)
-Walk <span class="km_source">10</span>km,
+<br>Walk <span class="km_source">10</span>km,
 from [Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?units=km)
 (<span class="km_total">347</span>km walked so far)
 
@@ -549,7 +558,7 @@ from [Nyozezo Museum to Kariyatagawa](https://www.plotaroute.com/route/1320375?u
 
 * Day <span class="day_source">20</span>.1
 (<span class="day_date">Wednesday May 5th</span> *)
-Walk <span class="km_source">4</span>km,
+<br>Walk <span class="km_source">4</span>km,
 from [Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377?units=km)
 (<span class="km_total">351</span>km walked so far)
 
@@ -560,7 +569,7 @@ from [Kariyatagawa to Matthew's Bistro](https://www.plotaroute.com/route/1320377
 
 * Day <span class="day_source">20</span>.2
 (<span class="day_date">Wednesday May 5th</span> *)
-Walk <span class="km_source">14</span>km,
+<br>Walk <span class="km_source">14</span>km,
 along [Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/1320378?units=km)
 (<span class="km_total">365</span>km walked so far)
 
@@ -571,7 +580,7 @@ along [Joetsu line to Tsubamesanjo hotel](https://www.plotaroute.com/route/13203
 
 * Day <span class="day_source">21</span>.1
 (<span class="day_date">Thursday  May 6th</span> *)
-Walk <span class="km_source">10</span>km,
+<br>Walk <span class="km_source">10</span>km,
 from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?units=km)
 (<span class="km_total">375</span>km walked so far)
 
@@ -582,7 +591,7 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 
 * Day <span class="day_source">21</span>.2
 (<span class="day_date">Thursday  May 6th</span> *)
-Walk <span class="km_source">5</span>km,
+<br>Walk <span class="km_source">5</span>km,
 [along, then sleep by Nakanokuchi River](https://www.plotaroute.com/route/1320390?units=km)
 (<span class="km_total">380</span>km walked so far)
 
@@ -593,7 +602,7 @@ Walk <span class="km_source">5</span>km,
 
 * Day <span class="day_source">22</span>.1
 (<span class="day_date">Friday    May 7th</span> *)
-Walk <span class="km_source">8</span>km,
+<br>Walk <span class="km_source">8</span>km,
 [along Nakanokuchi river to cafe](https://www.plotaroute.com/route/1320688?units=km)
 (<span class="km_total">388</span>km walked so far)
 
@@ -604,7 +613,7 @@ Walk <span class="km_source">8</span>km,
 
 * Day <span class="day_source">22</span>.2
 (<span class="day_date">Friday    May 7th</span> *)
-Walk <span class="km_source">6</span>km,
+<br>Walk <span class="km_source">6</span>km,
 [between rice fields then sleep between rivers](https://www.plotaroute.com/route/1320692?units=km)
 (<span class="km_total">394</span>km walked so far)
 
@@ -616,7 +625,7 @@ Walk <span class="km_source">6</span>km,
 
 * Day <span class="day_source">23</span>.1
 (<span class="day_date">Saturday  May 8th</span> *)
-Walk <span class="km_source">9</span>km,
+<br>Walk <span class="km_source">9</span>km,
 [up spiral steps then to Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
 (<span class="km_total">403</span>km walked)
 
