@@ -21,7 +21,10 @@ and the
 [meeting points on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221f50y8Cf2jj5EhT_eb7ZMXv3riVe4UnxL%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108655173565601794930%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=sharing)
 .  They are likely to change so be sure to get in touch if you want to meet somewhere!
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05" width="640" height="480"></iframe>
+<a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
+src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_mar_29_overview_map_to_replace_iframe.png"
+alt="Route across Honshu"
+class="title" /></a>
 
 ### Details:
 
