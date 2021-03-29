@@ -7,6 +7,6 @@ draft: false
 date: 2021-03-23T20:26:38+09:00
 ---
 
-{{< youtube gorTSG-8zRc >}}
+https://youtu.be/gorTSG-8zRc
 
 Part 2 coming soon!
