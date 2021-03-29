@@ -565,9 +565,6 @@ To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 [![36 walk 20km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_six_day_onsen_to_sudaya_inn.png)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
 
 </div>
-
-**Details past this point are likely to change**
-
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
@@ -604,26 +601,42 @@ To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
 * Day <span class="day_source">Twenty-one</span>
 (<span class="day_date">Thursday May 6th</span> *)
 1 part:
-<br>Walk <span class="km_source">28</span>km,
-From [旅館 竹花屋](https://goo.gl/maps/qcmbneBJsmT6M3rB7)
-To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/RUNmjbz12n6qX4ir6)
-(<span class="km_total">338</span>km walked so far)
+<br>Walk <span class="km_source">15</span>km,
+From [旅館 竹花屋](https://goo.gl/maps/Vj8xmTabwdbEG6Mt8)
+To [Mitsuke English Garden](https://goo.gl/maps/gJ8jemH1yH3bW1UDA)
+(<span class="km_total">325</span>km walked so far)
 
-[![36 walk 28km from 旅館 竹花屋 to APA Hotel Tsubamesanjo Ekimaeo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/8jy8PKvcGBSq7QeS7)
+[![36 walk 15km from 旅館 竹花屋 to Mitsuke English Garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/XybZ4457tKDsRoj39)
 
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
-* Day <span class="day_source">22</span>.1
+* Day <span class="day_source">Twenty-two</span>
 (<span class="day_date">Friday May 7th</span> *)
-<br>Walk <span class="km_source">5</span>km,
+1 part:
+<br>Walk <span class="km_source">14</span>km,
+From [Mitsuke English Garden](https://goo.gl/maps/VUV1VZFyVCc9Z1Vm8)
+To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/z7Uqv89a6L4rnEce8)
+(<span class="km_total">339</span>km walked so far)
+
+[![36 walk 14km from Mitsuke English Garden to APA Hotel Tsubamesanjo Ekimae](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/hiCVrkZTt6BnnG2CA)
+
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Twenty-three</span>
+(<span class="day_date">Saturday May 8th</span> *)
+1 part:
+<br>Walk <span class="km_source">16</span>km,
 From [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/vSkkLDLpuxHcZY57A)
 To [Guest House Googoo ゲストハウス ぐーぐー](https://g.page/GuestHouse-Googoo?share)
-(<span class="km_total">272</span>km walked so far)
+(<span class="km_total">355</span>km walked so far)
 
-[![36 walk 06km
+[![36 walk 16km
 from APA Hotel Tsubamesanjo Ekimae
 to ゲストハウス ぐーぐー](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_apa_hotel_tsubamesanjo_to_guest_house_googoo.png)](https://goo.gl/maps/fpZxLJV1JG2qhuJw5)
 
@@ -730,13 +743,29 @@ from [Tsubamesanjo to grocery store](https://www.plotaroute.com/route/1320388?un
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
-* Day <span class="day_source">23</span>.1
-(<span class="day_date">Saturday  May 8th</span> *)
-<br>Walk <span class="km_source">9</span>km,
-[up spiral steps then to Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
-(<span class="km_total">403</span>km walked)
+* Day <span class="day_source">Twenty-four</span>
+(<span class="day_date">Sunday May 9th</span> *)
+Part 1:
+<br>Walk <span class="km_source">11</span>km,
+From [Guest House Googoo ゲストハウス ぐーぐー](https://g.page/GuestHouse-Googoo?share)
+Walk [next to Otori River between Nakanokuchi River and Shinano River](https://goo.gl/maps/s7ZMDkPbrAcp9guw6)
+(<span class="km_total">366</span>km walked so far)
 
-![54 walk 09 km from staircase to Aoyama Seaside Park](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_jan_18_finishing_leg_of_walk.png)
+[![54 walk 17 km from staircase to Aoyama Seaside Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_27_googoo_to_three_rivers.png)](https://goo.gl/maps/xDSE1xr7obRrwBzRA)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Twenty-four</span>
+(<span class="day_date">Sunday May 9th</span> *)
+Part 2:
+<br>Walk <span class="km_source">9</span>km,
+Climb [up these spiral steps](https://goo.gl/maps/o58fFRa1wzdTdZz99)
+Walk To [Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
+(<span class="km_total">375</span>km walked) (earlier, I thought it all added up to 400km.)
+
+[![54 walk 9km from staircase to Aoyama Seaside Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_27_bridge_to_aoyama_beach_cafes.png)](https://goo.gl/maps/xFPT8sSpui1ikbHFA)
 
 </div>
 

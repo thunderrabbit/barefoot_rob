@@ -59,17 +59,17 @@ to Japan's international community and its increasing mental health needs.
   <a target="_blank" href="https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/" >https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/</a>
 </div>
 
-## 199,792 / 1,000,000 yen goal
+## 439,164 / 1,000,000 yen goal
 
-#   20% funded!
+#   44% funded!
 
 <div class="thermometer">
-████████████████████
-████████████████████________________________________________________________________________________
+████████████████████████████████████████████
+████████████████████████████████████████████________________________________________________________
 </div>
 
 <!--
-  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
   -->
 <br>
 
