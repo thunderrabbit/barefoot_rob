@@ -139,11 +139,17 @@ foreach my $key (keys %$new_entry) {
 # store this for debugging
 $new_entry->{mt3_episode_output} = $mt3_episode_output;
 
-# TODO: Write the final output to a file.
+# Create outfile path based on today's date and unique title of livestream
+# my convention: the deepest directories are months, not days, so day is part of base filename
+my $outfile_path = "content/events/" . $dt->ymd("/") . kebab_case($title) . ".md";   # $year/$month/$day were defined at top of script
+
+open(OUT, ">$outfile_path");
+print OUT $mt3_episode_output;
+close(OUT);
+
 print "+---------------------------------+\n";
-print "| file.md output:                 |\n";
+print "| wrote to $outfile_path:                  |\n";
 print "+---------------------------------+\n";
-print $mt3_episode_output;
 
 
 # DONE!
@@ -188,6 +194,14 @@ sub get_date($) {
   print "leavin get date\n";
   $dt->add( days => $days_until_coming_thursday );
   return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
+}
+
+sub kebab_case($) {
+  my ($title) = (@_);
+      $title = lc($title);    # make title lowercase
+      $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;    
+                              # replace special shell characters with hyphens (thanks to nooj)
+  return $title;
 }
 
 sub get_tags($) {
