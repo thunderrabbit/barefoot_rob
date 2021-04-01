@@ -98,16 +98,14 @@ if ($verbosity > 2) {
 }
 
 my $number_args = $#ARGV + 1;
-if ($number_args != 1) {
-    print "Feel free to send an image as first argument.\n";
-} else {
-    $title_image=$ARGV[0];
+if ($number_args == 0) {
+    print "Feel free to send images as arguments.\n";
 }
 
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
-my @episode_images = ($title_image);
+my @episode_images = @ARGV;
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 ## BUILD OUTPUT
