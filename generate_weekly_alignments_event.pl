@@ -18,6 +18,7 @@ my $thetime = $dt->hms;  # hour-min-sec    (numeric).
 my $year    = $dt->year;
 my $month   = $dt->month;
 my $day     = $dt->day;
+my $tz_date = $thedate . "T" . $thetime . $zoffset;
 
 my %event_template_files = (
     "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
@@ -127,7 +128,7 @@ $new_entry->{EventDate} = $event_date;
 my $mt3_episode_output = $event_template;
 
 # handle date separately
-$mt3_episode_output =~ s/^(date: .*)/date: $event_date/im;
+$mt3_episode_output =~ s/^(date: .*)/date: $tz_date/im;
 $mt3_episode_output =~ s/human_date_here/$event_date_human/;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
