@@ -199,7 +199,7 @@ sub get_date($) {
 sub kebab_case($) {
   my ($title) = (@_);
       $title = lc($title);    # make title lowercase
-      $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;    
+      $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
   return $title;
 }
