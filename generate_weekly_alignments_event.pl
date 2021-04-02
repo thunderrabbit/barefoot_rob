@@ -23,25 +23,30 @@ my $tz_date = $thedate . "T" . $thetime . $zoffset;
 my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
 my $blog_directory = "$content_directory/blog";
 my $events_directory = "$content_directory/events";
+my $niigata_walk_dir = "$content_directory/quests/walk-to-niigata";
 
 my %event_template_files = (
     "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
     "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
+    "quest_update" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/niigata_2021_walking_update.txt",
 );
 
 my %event_output_directories = (
     "weekly_alignment" => $events_directory,
     "walking_meditation" => $events_directory,
+    "quest_update" => $niigata_walk_dir,
 );
 
 my %event_tag_hashes = (
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
+    "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
 );
 
 my %event_title_prefixes = (
     "weekly_alignment" => "Weekly Alignment - ",
     "walking_meditation" => "Walking Meditation ",
+    "quest_update" => "Walking Update - ",
 );
 
 my $what_kinda_event = get_event_type(sort keys %event_template_files);
