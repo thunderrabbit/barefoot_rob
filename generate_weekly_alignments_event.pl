@@ -29,6 +29,11 @@ my %event_template_files = (
     "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
 );
 
+my %event_output_directories = (
+    "weekly_alignment" => $events_directory,
+    "walking_meditation" => $events_directory,
+);
+
 my %event_tag_hashes = (
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
@@ -143,7 +148,7 @@ $new_entry->{mt3_episode_output} = $mt3_episode_output;
 
 # Create outfile path based on today's date and unique title of livestream
 # my convention: the deepest directories are months, not days, so day is part of base filename
-my $outfile_path = "content/events/" . $dt->ymd("/") . kebab_case($title) . ".md";   # $year/$month/$day were defined at top of script
+my $outfile_path = $event_output_directories{$what_kinda_event} . "/" . $dt->ymd("/") . kebab_case($title) . ".md";   # $year/$month/$day were defined at top of script
 
 open(OUT, ">$outfile_path");
 print OUT $mt3_episode_output;
