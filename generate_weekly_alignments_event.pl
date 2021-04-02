@@ -20,6 +20,10 @@ my $month   = $dt->month;
 my $day     = $dt->day;
 my $tz_date = $thedate . "T" . $thetime . $zoffset;
 
+my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
+my $blog_directory = "$content_directory/blog";
+my $events_directory = "$content_directory/events";
+
 my %event_template_files = (
     "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
     "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
@@ -38,9 +42,7 @@ my %event_title_prefixes = (
 my $what_kinda_event = get_event_type(sort keys %event_template_files);
 
 my $event_template_file = $event_template_files{$what_kinda_event};
-my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
-my $blog_directory = "$content_directory/blog";
-my $events_directory = "$content_directory/events";
+
 my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
 #######################################################3#######################################################3
