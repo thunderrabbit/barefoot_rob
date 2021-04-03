@@ -21,9 +21,9 @@ my $day     = $dt->day;
 my $tz_date = $thedate . "T" . $thetime . $zoffset;
 
 my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
-my $blog_directory = "$content_directory/blog";
-my $events_directory = "$content_directory/events";
-my $niigata_walk_dir = "$content_directory/quests/walk-to-niigata";
+my $blog_directory = "/blog";    #  appended to $content_directory when writing actual file.
+my $events_directory = "/events";    #  appended to $content_directory when writing actual file.
+my $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
 
 my %event_template_files = (
     "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
@@ -153,7 +153,10 @@ $new_entry->{mt3_episode_output} = $mt3_episode_output;
 
 # Create outfile path based on today's date and unique title of livestream
 # my convention: the deepest directories are months, not days, so day is part of base filename
-my $outfile_path = $event_output_directories{$what_kinda_event} . "/" . $dt->ymd("/") . kebab_case($title) . ".md";   # $year/$month/$day were defined at top of script
+my $alias_path = $event_output_directories{$what_kinda_event} . "/" . $dt->ymd("/") . kebab_case($title);
+my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
+
+$mt3_episode_output =~ s/alias_path/$alias_path/;
 
 open(OUT, ">$outfile_path");
 print OUT $mt3_episode_output;
