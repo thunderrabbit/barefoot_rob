@@ -216,6 +216,7 @@ sub kebab_case($) {
       $title = lc($title);    # make title lowercase
       $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
+      $title =~ s/-+/-/g;     # replace multiple hyphens with one (to match Hugo URLs)
   return $title;
 }
 
