@@ -109,7 +109,7 @@ From [Chuokan hotel in Fuchu](https://goo.gl/maps/FqGtvD4xzmU6UotL6)
 To [Musashi Kokubunji Park](https://goo.gl/maps/zE15tNa64t8TbM756)
 (<span class="km_total">36</span>km walked so far)
 
-[![04 walk 3km Hotel Chūō-kan to Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/r2awGBhSgf2PPY2U8)
+[![Walk 3km Hotel Chūō-kan to Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_chuokan_to_musashi_kokubunji_park.png)](https://goo.gl/maps/r2awGBhSgf2PPY2U8)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->-->
@@ -125,7 +125,7 @@ From [Musashi Kokubunji Park](https://goo.gl/maps/gKmC8Z7RQRGP2GAWA)
 To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/DDFKuUE2zx8nuACx8)
 (<span class="km_total">39</span>km walked so far)
 
-[![04 walk 3km Musashi Kokubunji Park to Pizza-La Hitotsubashi Gakuen](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/kVu1rkVKYk8CVc736)
+[![Walk 3km Musashi Kokubunji Park to Pizza-La Hitotsubashi Gakuen](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_musashi_kokubunji_to_pizza_la.png)](https://goo.gl/maps/kVu1rkVKYk8CVc736)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -143,7 +143,7 @@ To [Higashimurayama Shiritsu Fujimi Community Center](https://goo.gl/maps/sf5jpW
 
 Including ~1 hour at the [Sewerage Museum](https://goo.gl/maps/UxNu2g4ABrpQSi189)
 
-[![walk 4km Pizza-La Hitotsubashi Gakuen to Higashimurayama Shiritsu Fujimi Community Center](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/jYFsgR1GCAYHogbh9)
+[![Walk 4km Pizza-La Hitotsubashi Gakuen to Higashimurayama Shiritsu Fujimi Community Center](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_pizza_la_to_higashimurayama_center.png)](https://goo.gl/maps/jYFsgR1GCAYHogbh9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -171,7 +171,7 @@ To [Hotel Restay](https://goo.gl/maps/KF4gk5RRhMyWgX7F9)
 
 For latest updates, [join our LINE group](/contact/)!
 
-[![walk 9km Higashimurayama Shiritsu Fujimi Community Center to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/BRDVpH1BscbrAbfk6)
+[![Walk 9km Higashimurayama Shiritsu Fujimi Community Center to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_higashimurayama_center_to_hotel_restay.png)](https://goo.gl/maps/BRDVpH1BscbrAbfk6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
