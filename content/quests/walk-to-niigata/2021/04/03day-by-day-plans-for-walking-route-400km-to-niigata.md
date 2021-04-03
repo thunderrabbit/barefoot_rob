@@ -111,7 +111,7 @@ To [Musashi Kokubunji Park](https://goo.gl/maps/zE15tNa64t8TbM756)
 [![Walk 3km Hotel Chūō-kan to Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_chuokan_to_musashi_kokubunji_park.png)](https://goo.gl/maps/r2awGBhSgf2PPY2U8)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->-->
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Three</span>
