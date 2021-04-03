@@ -21,3 +21,7 @@ Thank you Lantz for great service since 2011... AND for buying a new battery to 
 
 https://loreatec.jp/e/
 <br>https://www.loreatec.jp/e/warehousing_japan_tokyo.html
+
+#### 13:25pm Saturday 3 April 2021:
+
+Battery arrived!
