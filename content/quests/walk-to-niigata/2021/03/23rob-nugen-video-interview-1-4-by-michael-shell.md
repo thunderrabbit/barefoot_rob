@@ -9,4 +9,4 @@ date: 2021-03-23T20:26:38+09:00
 
 https://youtu.be/gorTSG-8zRc
 
-Part 2 coming soon!
+Now you can [watch Part 2](/quests/walk-to-niigata/2021/03/29rob-nugen-video-interview-2-4-by-michael-shell/).
