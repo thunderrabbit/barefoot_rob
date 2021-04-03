@@ -163,11 +163,13 @@ To [Hotel Restay](https://goo.gl/maps/KF4gk5RRhMyWgX7F9)
 **--> 1/8th complete!!**
 
 1. Meet at 2pm at [東村山市立富士見公民館](https://goo.gl/maps/3ag22jJJ25VqF55B7) ([Higashimurayama Shiritsu Fujimi Community Center](https://goo.gl/maps/3ag22jJJ25VqF55B7)), close to [八坂駅](https://goo.gl/maps/eHmyraX1NJzbyt6CA) ([Yasaka Station](https://goo.gl/maps/eHmyraX1NJzbyt6CA))
-2. 2:15pm - 3pm [Walking Meditation Event]() in [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/) ([Higashimurayama Chuo Park](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)) (for latest updates, [join our LINE group]())
+2. 2:15pm - 3pm [Walking Meditation Event]() in [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/) ([Higashimurayama Chuo Park](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/))
 3. 3pm - 3:30pm walk to [Toilet 5](https://goo.gl/maps/SgyKHdBBfh3NfSKN7) in [都立狭山公園](https://goo.gl/maps/dUHBPqcgrnFcmhqM6) ([Sayama Park](https://goo.gl/maps/dUHBPqcgrnFcmhqM6)) (nearish [武蔵大和駅](https://goo.gl/maps/wfVMmnkGN9qE34rY9) ([Musashi-Yamato Station](https://goo.gl/maps/wfVMmnkGN9qE34rY9)))
 4. 3:45pm - walk mindfully to [Toilet 2](https://goo.gl/maps/84WZKuU5GYH8Vycz9) in [都立狭山公園](https://goo.gl/maps/dUHBPqcgrnFcmhqM6) ([Sayama Park](https://goo.gl/maps/dUHBPqcgrnFcmhqM6))
 5. go play at [Seibuen Amusement Park](https://goo.gl/maps/WdsKGX6CaQkSZkaQA) (if it is open!)
-6. 5:30pm - 6:30pm [Walking Meditation Event]() for [3.6km along lake](https://goo.gl/maps/55DLDLFpHkF3Fyw8A) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6)) (for latest updates, [join our LINE group]())
+6. 5:30pm - 6:30pm [Walking Meditation Event](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/) for [3.3km along Lake Tama](https://goo.gl/maps/55DLDLFpHkF3Fyw8A) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6))
+
+For latest updates, [join our LINE group](/contact/)!
 
 [![walk 9km Higashimurayama Shiritsu Fujimi Community Center to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/BRDVpH1BscbrAbfk6)
 
