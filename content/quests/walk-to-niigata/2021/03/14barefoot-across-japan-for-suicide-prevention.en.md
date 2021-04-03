@@ -59,13 +59,13 @@ to Japan's international community and its increasing mental health needs.
   <a target="_blank" href="https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/" >https://gogetfunding.com/barefoot-pilgrimage-across-japan-raising-funds-for-suicide-prevention/</a>
 </div>
 
-## 439,164 / 1,000,000 yen goal
+## 488,664 / 1,000,000 yen goal
 
-#   44% funded!
+#   49% funded!
 
 <div class="thermometer">
-████████████████████████████████████████████
-████████████████████████████████████████████________________________________________________________
+█████████████████████████████████████████████████
+█████████████████████████████████████████████████___________________________________________________
 </div>
 
 <!--
@@ -85,7 +85,7 @@ One-time costs:
 * sweat-wicking underclothes  30,000 yen
 * rain pants      8,000 yen
 * rolling cart 3,000 yen
-* camera with APS-C size sensor (for print quality photos) 60,000 yen
+* camera with APS-C size sensor (for print quality photos) 44,000 yen
 * battery for old computer 5,000 yen
 
 ## already purchased:
