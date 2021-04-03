@@ -103,7 +103,7 @@ But we'll cross Tama River and then walk a bit to Chuokan Hotel.
 (<span class="day_date">Sunday April 18th</span> *)
 Part 1:
 <br>
-8:30am - 9:20am
+8:30am - 9:20am:
 Walk <span class="km_source">3</span>km,
 From [Chuokan hotel in Fuchu](https://goo.gl/maps/FqGtvD4xzmU6UotL6)
 To [Musashi Kokubunji Park](https://goo.gl/maps/zE15tNa64t8TbM756)
@@ -119,7 +119,7 @@ To [Musashi Kokubunji Park](https://goo.gl/maps/zE15tNa64t8TbM756)
 (<span class="day_date">Sunday April 18th</span> *)
 Part 2:
 <br>
-10:15am - 11am
+10:15am - 11am:
 Walk <span class="km_source">3</span>km,
 From [Musashi Kokubunji Park](https://goo.gl/maps/gKmC8Z7RQRGP2GAWA)
 To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/DDFKuUE2zx8nuACx8)
@@ -135,7 +135,7 @@ To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/DDFKuUE2zx8nuACx8)
 (<span class="day_date">Sunday April 18th</span> *)
 Part 3:
 <br>
-12pm - 2pm
+12pm - 2pm:
 Walk <span class="km_source">4</span>km
 From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/9R672FRMQ5B6NmqD6)
 To [Higashimurayama Shiritsu Fujimi Community Center](https://goo.gl/maps/sf5jpWwzZtozTQ7z9)
