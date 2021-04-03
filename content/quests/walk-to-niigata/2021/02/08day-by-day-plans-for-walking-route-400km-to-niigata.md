@@ -1,34 +1,33 @@
 ---
-title: "Day by Day plans for walking 400km to Niigata"
+title: "Day by Day plans for walking ~400km to Niigata"
 tags: [ "niigata", "quest", "plot", "route", "maps", "walking", "barefoot", "plan" ]
 categories: [ "quests" ]
 author: Rob Nugen
 draft: false
 aliases: [
      "/quests/walk-to-niigata/2020/10/17route-plotted-over-the-mountains/",
-     "/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/"
+     "/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/",
+     "/quests/walk-to-niigata/2021/02/08day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-02-23T12:02:45+09:00
+date: 2021-04-03T12:02:45+09:00
 ---
 
+#### Just the Walking Meditations:
 
+* [16 April Rinko Park in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/)
+* [18 April Higashimurayama Chuo Park](/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/)
+* [18 April along Lake Tama near Seibuen](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/)
 
-### Just the Meeting points:
-
-Here are the
-[meeting points on Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing)
-and the
-[meeting points on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221f50y8Cf2jj5EhT_eb7ZMXv3riVe4UnxL%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108655173565601794930%22%2C%22resourceKeys%22%3A%7B%7D%7D&usp=sharing)
-.  They are likely to change so be sure to get in touch if you want to meet somewhere!
+(more meditations to come)
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
 src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_mar_29_overview_map_to_replace_iframe.png"
 alt="Route across Honshu"
 class="title" /></a>
 
-### Details:
+#### Details:
 
-These are maps of each segment, and are subject to change.  I do not yet have a good way to post edits to this page from the road, but am working on that.
+These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
 <div class="walk-segment">
 
