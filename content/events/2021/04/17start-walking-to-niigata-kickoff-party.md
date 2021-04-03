@@ -15,12 +15,17 @@ class="title" />
 
 #### When
 
-**4pm Saturday 17 April 2021**
+**3,4,5pm? Saturday 17 April 2021**
+
+For latest updates, [PM me on LINE](/contact/)!
 
 #### Where
 
-**In front of [Yomiurland](https://goo.gl/maps/R4GdFan8VxUguJbk9)**
+**In front of [Yomiuriland](https://goo.gl/maps/R4GdFan8VxUguJbk9)**
 
 #### Details
 
 Come hang out at Yomiuriland on the second day of my walk to Niigata!
+
+👉🏿 Let's enjoy riding roller coasters in Yomiuriland!
+<br>👉🏿 Anyone want to try the bungee?  It's not *that* tall!
