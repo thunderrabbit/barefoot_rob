@@ -135,17 +135,15 @@ To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/DDFKuUE2zx8nuACx8)
 (<span class="day_date">Sunday April 18th</span> *)
 Part 3:
 <br>
-Walk <span class="km_source">11</span>km
-From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
-To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
-(<span class="km_total">50</span>km walked so far)
-**--> 1/8th complete!!**
+12pm - 2pm
+Walk <span class="km_source">4</span>km
+From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/9R672FRMQ5B6NmqD6)
+To [Higashimurayama Shiritsu Fujimi Community Center](https://goo.gl/maps/sf5jpWwzZtozTQ7z9)
+(<span class="km_total">43</span>km walked so far)
 
-1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
-2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
-3. Pass by [Seibuen](https://goo.gl/maps/wvSw2z4ubcR4xm2b9)
+Including ~1 hour at the [Sewerage Museum](https://goo.gl/maps/UxNu2g4ABrpQSi189)
 
-[![05 walk 11km Pizza-La Hitotsubashi Gakuen to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/94zQvCKXkAWdzyWa6)
+[![walk 4km Pizza-La Hitotsubashi Gakuen to Higashimurayama Shiritsu Fujimi Community Center](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/jYFsgR1GCAYHogbh9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
