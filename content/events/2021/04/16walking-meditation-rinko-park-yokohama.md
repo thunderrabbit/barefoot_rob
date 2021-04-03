@@ -1,9 +1,12 @@
 ---
-title: "Coast to Coast kickoff walking to Niigata"
+title: "Walking Meditation in Rinko Park in Yokohama"
 tags: [ "event", "park", "coast", "yokohama", "start", "niigata", "walk", "barefoot" ]
 author: Rob Nugen
 date: 2021-02-28T18:10:52+09:00
-aliases: [ "12coast-to-coast-kickoff-walking-to-niigata" ]
+aliases: [
+           "12coast-to-coast-kickoff-walking-to-niigata",
+           "16coast-to-coast-kickoff-walking-to-niigata",
+        ]
 EventTime: "9am or so"
 EventDate: "2021-04-16"
 ---
