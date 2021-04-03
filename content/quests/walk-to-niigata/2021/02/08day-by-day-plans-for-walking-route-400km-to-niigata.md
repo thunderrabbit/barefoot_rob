@@ -99,14 +99,30 @@ But we'll cross Tama River and then walk a bit to Chuokan Hotel.
 * Day <span class="day_source">Three</span>
 (<span class="day_date">Sunday April 18th</span> *)
 Part 1:
-<br>Walk <span class="km_source">6</span>km,
-From [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
-To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
+<br>
+8:30am - 9:20am
+Walk <span class="km_source">3</span>km,
+From [Chuokan hotel in Fuchu](https://goo.gl/maps/FqGtvD4xzmU6UotL6)
+To [Musashi Kokubunji Park](https://goo.gl/maps/zE15tNa64t8TbM756)
+(<span class="km_total">36</span>km walked so far)
+
+[![04 walk 3km Hotel Chūō-kan to Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/r2awGBhSgf2PPY2U8)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->-->
+<div class="walk-segment">
+
+* Day <span class="day_source">Three</span>
+(<span class="day_date">Sunday April 18th</span> *)
+Part 2:
+<br>
+10:15am - 11am
+Walk <span class="km_source">3</span>km,
+From [Musashi Kokubunji Park](https://goo.gl/maps/gKmC8Z7RQRGP2GAWA)
+To [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/DDFKuUE2zx8nuACx8)
 (<span class="km_total">39</span>km walked so far)
 
-We will pass a couple of parks and walk near Kokubunji Station.
-
-[![04 walk 6.5km Chuokan to Pizza-la via Musashi Kokubunji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/jveUwhwnQqKtTSpn9)
+[![04 walk 3km Musashi Kokubunji Park to Pizza-La Hitotsubashi Gakuen](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_chuokan_to_pizza_la.png)](https://goo.gl/maps/kVu1rkVKYk8CVc736)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -114,8 +130,9 @@ We will pass a couple of parks and walk near Kokubunji Station.
 
 * Day <span class="day_source">Three</span>
 (<span class="day_date">Sunday April 18th</span> *)
-Part 2:
-<br>Walk <span class="km_source">11</span>km
+Part 3:
+<br>
+Walk <span class="km_source">11</span>km
 From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
 To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 (<span class="km_total">50</span>km walked so far)
