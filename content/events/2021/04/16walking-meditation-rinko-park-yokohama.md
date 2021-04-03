@@ -35,6 +35,10 @@ Meditation, walking, breathing, enjoying crisp air.
 Let's enjoy a morning walking meditation in Rinko Park!
 This will be a chance to feel grounded and connected to the ocean.
 
+This will be the
+first
+"official" Walking Meditation event during Barefoot Rob's walk across Japan.
+
 Enjoy meditative motion, sea breeze, and hopefully sunshine.
 
 #### Bonus!
