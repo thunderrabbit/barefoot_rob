@@ -151,19 +151,25 @@ Including ~1 hour at the [Sewerage Museum](https://goo.gl/maps/UxNu2g4ABrpQSi189
 
 * Day <span class="day_source">Three</span>
 (<span class="day_date">Sunday April 18th</span> *)
-Part 4:
+Part 4 (
+**including**
+**Walking Meditation Events**
+):
 <br>
-Walk <span class="km_source">11</span>km
-From [Pizza-la Hitotsubashi Garden](https://goo.gl/maps/goUrceY4tEMPtin9A)
-To [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
-(<span class="km_total">50</span>km walked so far)
+Walk <span class="km_source">9</span>km
+From [Higashimurayama Shiritsu Fujimi Community Center](https://goo.gl/maps/V3R6ojTGqyrsuiZ19)
+To [Hotel Restay](https://goo.gl/maps/KF4gk5RRhMyWgX7F9)
+(<span class="km_total">52</span>km walked so far)
 **--> 1/8th complete!!**
 
-1. We will pass by the [Sewerage Museum](https://www.city.kodaira.tokyo.jp/kurashi/070/070022.html)
-2. We will pass through [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)
-3. Pass by [Seibuen](https://goo.gl/maps/wvSw2z4ubcR4xm2b9)
+1. Meet at 2pm at [東村山市立富士見公民館](https://goo.gl/maps/3ag22jJJ25VqF55B7) ([Higashimurayama Shiritsu Fujimi Community Center](https://goo.gl/maps/3ag22jJJ25VqF55B7)), close to [八坂駅](https://goo.gl/maps/eHmyraX1NJzbyt6CA) ([Yasaka Station](https://goo.gl/maps/eHmyraX1NJzbyt6CA))
+2. 2:15pm - 3pm [Walking Meditation Event]() in [東村山中央公園](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/) ([Higashimurayama Chuo Park](https://www.google.com/maps/place/Higashimurayama+chuo+Park/@35.7468342,139.458422,17.08z/)) (for latest updates, [join our LINE group]())
+3. 3pm - 3:30pm walk to [Toilet 5](https://goo.gl/maps/SgyKHdBBfh3NfSKN7) in [都立狭山公園](https://goo.gl/maps/dUHBPqcgrnFcmhqM6) ([Sayama Park](https://goo.gl/maps/dUHBPqcgrnFcmhqM6)) (nearish [武蔵大和駅](https://goo.gl/maps/wfVMmnkGN9qE34rY9) ([Musashi-Yamato Station](https://goo.gl/maps/wfVMmnkGN9qE34rY9)))
+4. 3:45pm - walk mindfully to [Toilet 2](https://goo.gl/maps/84WZKuU5GYH8Vycz9) in [都立狭山公園](https://goo.gl/maps/dUHBPqcgrnFcmhqM6) ([Sayama Park](https://goo.gl/maps/dUHBPqcgrnFcmhqM6))
+5. go play at [Seibuen Amusement Park](https://goo.gl/maps/WdsKGX6CaQkSZkaQA) (if it is open!)
+6. 5:30pm - 6:30pm [Walking Meditation Event]() for [3.6km along lake](https://goo.gl/maps/55DLDLFpHkF3Fyw8A) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6)) (for latest updates, [join our LINE group]())
 
-[![05 walk 11km Pizza-La Hitotsubashi Gakuen to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/94zQvCKXkAWdzyWa6)
+[![walk 9km Higashimurayama Shiritsu Fujimi Community Center to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_pizza_la_to_seibuen.png)](https://goo.gl/maps/BRDVpH1BscbrAbfk6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
