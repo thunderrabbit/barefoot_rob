@@ -859,4 +859,4 @@ Walk To [Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
 
 </details>
 
-(*) Note: dates are subject to change!  Be sure to get in touch with me via email at my name at this domain.
+(*) Note: dates are subject to change!  For the latest info, [PM me on LINE](/contact/).
