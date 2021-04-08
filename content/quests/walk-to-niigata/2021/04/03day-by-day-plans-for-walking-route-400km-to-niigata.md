@@ -184,10 +184,6 @@ From [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 To [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
 (<span class="km_total">58</span>km walked so far)
 
-Possible stop:
-
-1. [Lily Garden of Tokorozawa](https://goo.gl/maps/7KcCTstSxGkCkzPV9)
-
 [![06 walk 8km from Hotel Restay to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/KX7Adw7pxuBGS93u9)
 
 </div>

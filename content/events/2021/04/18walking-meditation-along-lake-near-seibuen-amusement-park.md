@@ -89,6 +89,8 @@ near
 
 ?? possibly see [Sayama indoor ski ground](https://goo.gl/maps/kzsaG2Qfmyqa71xx8)!  Not to ski, just to see.
 
+?? possibly see [Lily Garden of Tokorozawa](https://goo.gl/maps/7KcCTstSxGkCkzPV9)
+
 18:30? arrive at [Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6)
 
 #### What to Expect:
