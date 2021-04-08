@@ -165,7 +165,7 @@ To [Hotel Restay](https://goo.gl/maps/KF4gk5RRhMyWgX7F9)
 3. 3pm - 3:30pm walk to [Toilet 5](https://goo.gl/maps/SgyKHdBBfh3NfSKN7) in [都立狭山公園](https://goo.gl/maps/dUHBPqcgrnFcmhqM6) ([Sayama Park](https://goo.gl/maps/dUHBPqcgrnFcmhqM6)) (nearish [武蔵大和駅](https://goo.gl/maps/wfVMmnkGN9qE34rY9) ([Musashi-Yamato Station](https://goo.gl/maps/wfVMmnkGN9qE34rY9)))
 4. 3:45pm - walk mindfully to [Toilet 2](https://goo.gl/maps/84WZKuU5GYH8Vycz9) in [都立狭山公園](https://goo.gl/maps/dUHBPqcgrnFcmhqM6) ([Sayama Park](https://goo.gl/maps/dUHBPqcgrnFcmhqM6))
 5. go play at [Seibuen Amusement Park](https://goo.gl/maps/WdsKGX6CaQkSZkaQA) (if it is open!)
-6. 5:30pm - 6:30pm [Walking Meditation Event](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/) for [3.3km along Lake Tama](https://goo.gl/maps/55DLDLFpHkF3Fyw8A) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6))
+6. 5:30pm - 6:30pm [Walking Meditation Event](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/) for [3.8km along Lake Tama](https://goo.gl/maps/AJaZhTWt2uXBGEwj8) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6))
 
 For latest updates, [join our LINE group](/contact/)!
 
@@ -184,10 +184,9 @@ From [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
 To [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
 (<span class="km_total">58</span>km walked so far)
 
-Possible stops:
+Possible stop:
 
-1. [Sayama indoor skiing](https://goo.gl/maps/cqFH3B9NQxCvsZBeA) (just to see, not to ski)
-2. [Lily Garden of Tokorozawa](https://goo.gl/maps/7KcCTstSxGkCkzPV9)
+1. [Lily Garden of Tokorozawa](https://goo.gl/maps/7KcCTstSxGkCkzPV9)
 
 [![06 walk 8km from Hotel Restay to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/KX7Adw7pxuBGS93u9)
 
