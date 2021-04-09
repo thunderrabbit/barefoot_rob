@@ -371,7 +371,7 @@ to [Hotel Spa Mu](https://spamu.jp/index.html)
 
 Along the way:
 
-1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)  (TODO: [call to confirm their hours](https://goo.gl/maps/gvKM5XdUTf9AYwcFA))
+1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)  (TODO: [call to confirm their hours](https://goo.gl/maps/gvKM5XdUTf9AYwcFA)　possible number 048-582-2577)
 
 [![11 walk 07km
 From Nokonoko
