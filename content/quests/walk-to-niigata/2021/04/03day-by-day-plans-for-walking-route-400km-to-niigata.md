@@ -232,18 +232,13 @@ Join the Walking Meditation in Sayama Inariyama Prefectural Park
 (<span class="day_date">Monday April 19th</span> *)
 Part 4:
 <br>
-Walk <span class="km_source">13</span>km,
-From [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
-To [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
-(<span class="km_total">71</span>km walked so far)
+Walk <span class="km_source">4.4</span>km,
+From [Sayama Inariyama Prefectural Park](https://goo.gl/maps/x4uq6cNWPJp1T2AL8)
+To [Sayama City Chikozan Park Children's Zoo](https://goo.gl/maps/xZoNBYWNHmd2gqfBA)
+(<span class="km_total">65</span>km walked so far)
 
-We will pass by
 
-1. [Iruma River on Toyomizu Bridge](https://goo.gl/maps/hm5j6xADgG82uKX86)
-2. [Chikozan Park Children's Zoo](https://goo.gl/maps/o7EUePAmWnihKM4Z7)
-3. [Tennenonsen Kachofugetsu (public bath)](http://www.saiboku.co.jp/kachofugetsu/)
-
-[![07 walk 13km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
+[![Walk 4.4km Sayama Inariyama Prefectural Park to Sayama City Chikozan Park Children's Zoo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_sayama_inariyama_pref_park_to_sayama_chikozan_zoo.png)](https://goo.gl/maps/B26MzPgV4DwgjFbB7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
