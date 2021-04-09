@@ -17,7 +17,7 @@ date: 2021-04-03T12:02:45+09:00
 * [16 April Rinko Park in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/)
 * [18 April Higashimurayama Chuo Park](/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/)
 * [18 April along Lake Tama near Seibuen](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/)
-* 19 April in Sayama Inariyama Prefectural Park
+* [19 April in Sayama Inariyama Prefectural Park](/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama)
 * (more meditations to come)
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
@@ -223,7 +223,7 @@ From [Fujisawa Central Park](https://goo.gl/maps/w8Rw5G299EBhDj816)
 To [Sayama Inariyama Prefectural Park](https://goo.gl/maps/dN51puSkjgVM3VMU9)
 (<span class="km_total">61</span>km walked so far)
 
-One hour Walking Meditation in Sayama Inariyama Prefectural Park until 15:15pm
+~45 minutes [Walking Meditation in Sayama Inariyama Prefectural Park](/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama) until 15:15pm
 
 [![Walk 4.3km to Sayama Inariyama Prefectural Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_fujisawa_central_park_to_sayama_inariyama_pref_park.png)](https://goo.gl/maps/YCLx1Kjg3mXyGPUi9)
 

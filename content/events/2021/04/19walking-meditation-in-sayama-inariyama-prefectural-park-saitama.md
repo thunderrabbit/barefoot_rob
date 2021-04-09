@@ -3,7 +3,7 @@ title: "Walking Meditation in Sayama Inariyama Prefectural Park, Saitama"
 tags: [ "event", "sayama", "inariyama", "meditation", "saitama", "walk" ]
 author: Rob Nugen
 date: 2021-04-08T21:20:33+09:00
-EventTime: "gather at 2pm; enter Yoyogi Park at noon"
+EventTime: "gather at 2pm; begin walking 2:15pm"
 EventDate: "2021-04-19"
 Aliases: [
     "/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama"
@@ -11,8 +11,8 @@ Aliases: [
 ---
 
 <img
-src="https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_apr_08_shimofujisawa_park.png"
-alt="From previous walking meditation event"
+src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_apr_08_sayama_inariyama_prefectural_park.png"
+alt="Google Street View Sayama Inariyama Prefectural Park"
 class="title" />
 
 Refresh your spirit. Touch the earth. Connect with nature.
@@ -23,59 +23,60 @@ Meditation, walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 2pm; enter Yoyogi Park at noon Saturday 27 February 2021**
+**gather at 2pm at [Inariyama-Koen Station Popura](https://goo.gl/maps/aHkjr59UwQpWm6rZA)** (convenience store) 19 April 2021
+
+To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Where
 
-**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+Meet at the North Exit of [Inariyamakoen Station](https://goo.gl/maps/4ymu2KpquokpdPvF7) (on Ikebukuro Line)
+by [Popura Inariyamaten](https://goo.gl/maps/aHkjr59UwQpWm6rZA)  https://goo.gl/maps/aHkjr59UwQpWm6rZA
+
+To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-Third Annual Chilly Challenge: Barefoot Rob Walking Meditation
+This will be the
+fourth
+"official" Walking Meditation event during Barefoot Rob's walk across Japan.
 
-Join us again in Yoyogi Park!  February is usually the chilliest month
-of the year in Tokyo.
+[狭山稲荷山公園](https://goo.gl/maps/9nzuPE2mMHwJStxa7) ([Sayama Inariyama Prefectural Park](https://goo.gl/maps/9nzuPE2mMHwJStxa7)) seems like a nice park for walking, so let's enjoy a walking meditation.
 
-* Wear layers,
-* keep yourself warm,
-* take off your shoes,
-* enjoy feeling *alive*!
+To receive the latest updates, [join our LINE group](/contact/)!
 
 *Enjoy Nature*
 
-Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
+Looks like this park has lots of big beautiful trees covering a large area. (see the image above!)
 
 *Enjoy Breathing*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-2pm Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+What to Expect (April 19th, 2021):
 
-12:00 noon: Enter Yoyogi Park
-
-What to Expect:
-
-* We will meet at 2pm and by noon decided where to go.
-* If it's warm, we will find a nice place in the big field past the fountains or a dry area.
+* 2pm: Meet at [Popura Inariyamaten](https://goo.gl/maps/aHkjr59UwQpWm6rZA)
+* 2:15pm: walk to [this entrance](https://goo.gl/maps/dDGdFSqqQ6HXnML69)
+* 2:30pm: Walking meditation for 45 minutes
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
 
-Though chilly, the weather will likely be great for walking, so let's
-mindfully walk slowly around the loop and arrive back at the clock by
-about 13:30.
+Walking meditation for 45 minutes in
+[狭山稲荷山公園](https://goo.gl/maps/9nzuPE2mMHwJStxa7) ([Sayama Inariyama Prefectural Park](https://goo.gl/maps/9nzuPE2mMHwJStxa7))
 
-Some of us will go somewhere (TBD) in Harajuku afterward to eat and
-warm up.  You are welcome to join!
+To receive the latest updates, [join our LINE group](/contact/)!
+
+Afterward, you are welcome to join me [walking 4.5km](https://goo.gl/maps/B26MzPgV4DwgjFbB7) to [Sayama City Chikozan Park Children’s Zoo](https://goo.gl/maps/xZoNBYWNHmd2gqfBA)
 
 **Costs:**
 
-free!
+free! (donations accepted)
+
+not sure if the Zoo costs anything to enter http://www.parks.or.jp/chikozan/guide/000/000867.html
 
 **What to bring**
 
-It will likely be quite cold, so wear layers to keep yourself
-comfortable.  Come wearing lightweight shoes and maybe a bag for them
+Whatever you need to take care of yourself.  Come wearing lightweight shoes and maybe a bag for them
 just in case you need to put them on during the walk!
 
 Self care is important, so wear shoes whenever you need to!
