@@ -17,6 +17,7 @@ date: 2021-04-03T12:02:45+09:00
 * [16 April Rinko Park in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/)
 * [18 April Higashimurayama Chuo Park](/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/)
 * [18 April along Lake Tama near Seibuen](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/)
+* 19 April in Sayama Inariyama Prefectural Park
 * (more meditations to come)
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
