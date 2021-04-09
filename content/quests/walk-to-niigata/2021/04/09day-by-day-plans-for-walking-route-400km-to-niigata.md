@@ -319,6 +319,21 @@ To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
+* Day <span class="day_source">Five</span>
+(<span class="day_date">Tuesday April 20th</span> *)
+Part 3:
+<br>
+Walk <span class="km_source">11</span>km,
+From [いちご Garden](https://goo.gl/maps/fF6PaR15BLFy1kpF6)
+To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
+(<span class="km_total">88</span>km walked so far)
+
+[![09 walk 11km from strawberry to ranzan bbq tsuki river](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
 * Day <span class="day_source">Six</span>
 (<span class="day_date">Wednesday April 21st</span> *)
 Part 1:
