@@ -385,17 +385,20 @@ to Spamu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_m
 (<span class="day_date">Thursday April 22nd</span> *)
 Part 1:
 <br>
+9am - 11am
 Walk <span class="km_source">9</span>km,
-From [Hotel Spa Mu](https://spamu.jp/index.html)
-To [Cafe Tsumugi カフェ ツムギ](https://goo.gl/maps/7o898he3MfXXkyLWA)
+From [Hotel Spa Mu](https://goo.gl/maps/eM6A3e9NeBu17dEa6) https://spamu.jp/index.html
+To [Cafe ポエム](https://goo.gl/maps/EKVdWhUNgcxEyEzWA) (open 11am - 2pm for lunch)
 (<span class="km_total">113</span>km walked so far)
+
+1. Write letters / postcards at [Cafe ポエム](https://goo.gl/maps/e1ccA3uEkeLLCz8y6) or [Ekimae Jido Park](https://goo.gl/maps/LLvCFf7gbxwwnATR9)
 
 [![13 walk 9km
 From SPAMU
-to cafe tsumugi
-at Matsuhisa Station
+to Cafe ポエム
+nearish Matsuhisa Station
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_08_spamu_to_cafe_tsumugi.png
-)](https://goo.gl/maps/4AK7tS4diTt5ufxX7)
+)](https://goo.gl/maps/KaYDSbWU8bH643CH8)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -405,12 +408,15 @@ at Matsuhisa Station
 (<span class="day_date">Thursday April 22nd</span> *)
 Part 2:
 <br>
+2pm - 5pm
 Walk <span class="km_source">8</span>km,
-From [Cafe Tsumugi カフェ ツムギ](https://goo.gl/maps/7o898he3MfXXkyLWA)
+From [Cafe ポエム](https://goo.gl/maps/8HM9yd14T5ucEZdC7)
 To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 (<span class="km_total">121</span>km walked so far)
 
-[![14 walk 08km to hotel in Honjo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_matsuhisa_to_honjo_hotel.png)](https://goo.gl/maps/ehNYaKW6tSpMjPGt5)
+1. Mail postcards at [Misato Post Office](https://goo.gl/maps/kdt9THqZcspkZGii8) (open 9am - 5pm)
+
+[![Walk 08km to hotel in Honjo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_matsuhisa_to_honjo_hotel.png)](https://goo.gl/maps/FQ3ozdMhanTvcmA86)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
