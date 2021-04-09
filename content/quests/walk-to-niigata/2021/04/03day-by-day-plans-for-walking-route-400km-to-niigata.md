@@ -213,20 +213,16 @@ To [Fujisawa Central Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA) for lunch unti
 
 * Day <span class="day_source">Four</span>
 (<span class="day_date">Monday April 19th</span> *)
-Part 2:
+Part 3:
 <br>
-Walk <span class="km_source">13</span>km,
-From [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
-To [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
-(<span class="km_total">71</span>km walked so far)
+Walk <span class="km_source">4.3</span>km,
+From [Fujisawa Central Park](https://goo.gl/maps/w8Rw5G299EBhDj816)
+To [Sayama Inariyama Prefectural Park](https://goo.gl/maps/dN51puSkjgVM3VMU9)
+(<span class="km_total">61</span>km walked so far)
 
-We will pass by
+Join the Walking Meditation in Sayama Inariyama Prefectural Park
 
-1. [Iruma River on Toyomizu Bridge](https://goo.gl/maps/hm5j6xADgG82uKX86)
-2. [Chikozan Park Children's Zoo](https://goo.gl/maps/o7EUePAmWnihKM4Z7)
-3. [Tennenonsen Kachofugetsu (public bath)](http://www.saiboku.co.jp/kachofugetsu/)
-
-[![07 walk 13km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
+[![Walk 4.3km to Sayama Inariyama Prefectural Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_fujisawa_central_park_to_sayama_inariyama_pref_park.png)](https://goo.gl/maps/YCLx1Kjg3mXyGPUi9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
