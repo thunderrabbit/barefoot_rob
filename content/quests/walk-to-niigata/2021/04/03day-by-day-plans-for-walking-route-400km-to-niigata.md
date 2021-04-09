@@ -202,7 +202,7 @@ Part 2:
 10:00am - 12:00pm
 Walk <span class="km_source">5.6</span>km,
 From [Totoro's Forest no.1](https://goo.gl/maps/vzAYmmMBejS2Z94t6)
-To [Fujisawa Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA) for lunch
+To [Fujisawa Central Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA) for lunch until 12:45pm
 (<span class="km_total">57</span>km walked so far)
 
 [![walk 5.6km from Totoro's Forest no.1 to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_totoro_forest_one_to_fujisawa_central_park.png)](https://goo.gl/maps/7HH8kPzZ1JTKJxcPA)
