@@ -215,12 +215,13 @@ To [Fujisawa Central Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA) for lunch unti
 (<span class="day_date">Monday April 19th</span> *)
 Part 3:
 <br>
+12:45pm - 14:15pm
 Walk <span class="km_source">4.3</span>km,
 From [Fujisawa Central Park](https://goo.gl/maps/w8Rw5G299EBhDj816)
 To [Sayama Inariyama Prefectural Park](https://goo.gl/maps/dN51puSkjgVM3VMU9)
 (<span class="km_total">61</span>km walked so far)
 
-Join the Walking Meditation in Sayama Inariyama Prefectural Park
+One hour Walking Meditation in Sayama Inariyama Prefectural Park until 15:15pm
 
 [![Walk 4.3km to Sayama Inariyama Prefectural Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_fujisawa_central_park_to_sayama_inariyama_pref_park.png)](https://goo.gl/maps/YCLx1Kjg3mXyGPUi9)
 
@@ -232,11 +233,13 @@ Join the Walking Meditation in Sayama Inariyama Prefectural Park
 (<span class="day_date">Monday April 19th</span> *)
 Part 4:
 <br>
+15:15 - 16:45
 Walk <span class="km_source">4.4</span>km,
 From [Sayama Inariyama Prefectural Park](https://goo.gl/maps/x4uq6cNWPJp1T2AL8)
 To [Sayama City Chikozan Park Children's Zoo](https://goo.gl/maps/xZoNBYWNHmd2gqfBA)
 (<span class="km_total">65</span>km walked so far)
 
+See the zoo for an hour until 16:45pm
 
 [![Walk 4.4km Sayama Inariyama Prefectural Park to Sayama City Chikozan Park Children's Zoo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_sayama_inariyama_pref_park_to_sayama_chikozan_zoo.png)](https://goo.gl/maps/B26MzPgV4DwgjFbB7)
 
