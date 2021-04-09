@@ -251,18 +251,15 @@ See the zoo for an hour until 16:45pm
 (<span class="day_date">Monday April 19th</span> *)
 Part 5:
 <br>
-Walk <span class="km_source">13</span>km,
-From [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
-To [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
-(<span class="km_total">71</span>km walked so far)
+17:45 - 18:30
+Walk <span class="km_source">2</span>km,
+From [Sayama City Chikozan Park Children's Zoo](https://goo.gl/maps/h8mGsx1DmboTknjq7)
+To [Tennenonsen Kachofugetsu Hot Spring](https://goo.gl/maps/dE9JQDCkPAhW5D7Q8)
+(<span class="km_total">67</span>km walked so far)
 
-We will pass by
+Chill at hot spring for an hour until 19:30
 
-1. [Iruma River on Toyomizu Bridge](https://goo.gl/maps/hm5j6xADgG82uKX86)
-2. [Chikozan Park Children's Zoo](https://goo.gl/maps/o7EUePAmWnihKM4Z7)
-3. [Tennenonsen Kachofugetsu (public bath)](http://www.saiboku.co.jp/kachofugetsu/)
-
-[![07 walk 13km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
+[![Walk 2km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
