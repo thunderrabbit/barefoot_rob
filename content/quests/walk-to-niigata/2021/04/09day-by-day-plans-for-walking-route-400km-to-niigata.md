@@ -309,11 +309,15 @@ To [Strawberry Garden](https://goo.gl/maps/zuhs64sXX2ZDXDG96) https://ichigonosa
 Part 2:
 <br>
 Walk <span class="km_source">11</span>km,
-From [いちご Garden](https://goo.gl/maps/fF6PaR15BLFy1kpF6)
-To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
+From [いちご Garden](https://goo.gl/maps/FBwkuPWQdGUFw2pLA)
+To [Lawson Hatoyamaizumii Shop](https://goo.gl/maps/LRko7gHepGBZGLvp7)
 (<span class="km_total">88</span>km walked so far)
 
-[![09 walk 11km from strawberry to ranzan bbq tsuki river](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
+1. Optional [Photos near Oppe river](https://goo.gl/maps/GvhNuJZ27mKiR3YJ7)
+2. Mail postcards at [Hatoyama Post Office](https://goo.gl/maps/1q6uMFaQ1gE4YF3Q7)
+3. Optional [Photos near Hato river](https://goo.gl/maps/7gaM7MyL9YPtfY8S7)
+
+[![09 walk 11km from Strawberry Garden to Lawson Hatoyamaizumii Shop](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/rWCe13VNyC7ofkke7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -324,11 +328,13 @@ To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
 Part 3:
 <br>
 Walk <span class="km_source">11</span>km,
-From [いちご Garden](https://goo.gl/maps/fF6PaR15BLFy1kpF6)
-To [Ranzan BBQ Tsuki River](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
+From [Lawson Hatoyamaizumii Shop](https://goo.gl/maps/LvnL9V6DUEuJKLNs8)
+To [Ranzan BBQ Tsuki River](https://goo.gl/maps/6Kogzy3aQgcGCJNk7)
 (<span class="km_total">88</span>km walked so far)
 
-[![09 walk 11km from strawberry to ranzan bbq tsuki river](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/kdHBmgZ37Zz7v2o69)
+1. [Take photos of rice fields](https://goo.gl/maps/k4kEHRL3mzPruMQH8)
+
+[![09 walk 11km from Lawson Hatoyamaizumii Shop to Ranzan Valley BBQ Area](https://b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ichigo_garden_to_ranzan_ya_bbq.png)](https://goo.gl/maps/CJEwtgMhLqHbbnbo9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
