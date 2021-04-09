@@ -177,6 +177,7 @@ For latest updates, [join our LINE group](/contact/)!
 
 * Day <span class="day_source">Four</span>
 (<span class="day_date">Monday April 19th</span> *)
+([spreadsheet](https://docs.google.com/spreadsheets/d/1vQD_HxyAIPuWfAvBW_BZoosWAIS9brSWnTbswIzPUUI/edit?usp=sharing))
 Part 1:
 <br>
 Walk <span class="km_source">8</span>km,
