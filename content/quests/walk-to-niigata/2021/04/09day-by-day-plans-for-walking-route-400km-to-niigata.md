@@ -289,13 +289,16 @@ To [Hotel Will](https://goo.gl/maps/f6XDFXdYyaNbPPjf7) (check-in after 6pm)
 (<span class="day_date">Tuesday April 20th</span> *)
 Part 1:
 <br>
-Walk <span class="km_source">06</span>km,
-From [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9)
-To [Strawberry Garden](https://goo.gl/maps/oKCXHZZvZqiwJFi46) https://ichigonosato.net/
+Walk <span class="km_source">7</span>km,
+From [Hotel Will](https://goo.gl/maps/UKh17tRbadh5owMi6)
+To [Strawberry Garden](https://goo.gl/maps/zuhs64sXX2ZDXDG96) https://ichigonosato.net/
 (<span class="km_total">77</span>km walked so far)
 **_nearly_ 20% complete!!**
 
-[![08 walk 6km to Strawberry garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_hotel_will_to_strawberry_garden.png)](https://goo.gl/maps/T1gwAXX2esABLB9F8)
+* Optional chill [Marugame Seimen Beisia Hidaka Mall](https://goo.gl/maps/LD2NuXFJE72TXcr4A)
+* Definitely [turn here](https://goo.gl/maps/74jUC2QYrniFrjQT8)
+
+[![Walk 7km to Strawberry garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_hotel_will_to_strawberry_garden.png)](https://goo.gl/maps/GkKaUEZniUoxEXJz6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
