@@ -344,16 +344,13 @@ To [Ranzan BBQ Tsuki River](https://goo.gl/maps/6Kogzy3aQgcGCJNk7)
 (<span class="day_date">Wednesday April 21st</span> *)
 Part 1:
 <br>
+9am - 12noon pm:
 Walk <span class="km_source">9</span>km,
 From [Ranzan Valley BBQ Camp](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
-To [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
+To [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8) closes at 3pm
 (<span class="km_total">97</span>km walked so far)
 
-Along the way:
-
-1. [Musashi Memorial Park](http://www.musashi-mp.com/)
-
-[![12 walk 9km From ranzan
+[![Walk 9km From ranzan
 to Nokonoko Italian
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_ranzan_to_nokonoko.png
 )](https://goo.gl/maps/xtL5ioTrgWHiipbS7)
@@ -374,7 +371,7 @@ to [Hotel Spa Mu](https://spamu.jp/index.html)
 
 Along the way:
 
-1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)
+1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)  (TODO: [call to confirm their hours](https://goo.gl/maps/gvKM5XdUTf9AYwcFA))
 
 [![11 walk 07km
 From Nokonoko
