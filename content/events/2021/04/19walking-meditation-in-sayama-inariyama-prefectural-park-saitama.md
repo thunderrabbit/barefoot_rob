@@ -1,12 +1,12 @@
 ---
-title: "Walking Meditation in Fujisawa Central Park, Saitama"
-tags: [ "event", "fujisawa", "meditation", "saitama", "walk" ]
+title: "Walking Meditation in Sayama Inariyama Prefectural Park, Saitama"
+tags: [ "event", "sayama", "inariyama", "meditation", "saitama", "walk" ]
 author: Rob Nugen
 date: 2021-04-08T21:20:33+09:00
-EventTime: "gather at 11:45; enter Yoyogi Park at noon"
-EventDate: "2021-04-08"
+EventTime: "gather at 2pm; enter Yoyogi Park at noon"
+EventDate: "2021-04-19"
 Aliases: [
-    "/events/2021/04/08walking-meditation-in-fujisawa-central-park-saitama"
+    "/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama"
 ]
 ---
 
@@ -17,13 +17,13 @@ class="title" />
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
-Barefoot Walking Experience:
+Meditative Walking Experience:
 
-Meditation, walking, breathing, enjoying crisp air.
+Meditation, walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at noon Saturday 27 February 2021**
+**gather at 2pm; enter Yoyogi Park at noon Saturday 27 February 2021**
 
 #### Where
 
@@ -50,13 +50,13 @@ Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-11:45am Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+2pm Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
 12:00 noon: Enter Yoyogi Park
 
 What to Expect:
 
-* We will meet at 11:45 and by noon decided where to go.
+* We will meet at 2pm and by noon decided where to go.
 * If it's warm, we will find a nice place in the big field past the fountains or a dry area.
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
