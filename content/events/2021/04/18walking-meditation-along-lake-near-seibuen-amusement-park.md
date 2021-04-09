@@ -49,7 +49,7 @@ about 18:30pm
 
 Click map image below for the walking meditation route:
 
-[![2021 apr 08 map of walk along tamako 3rd walkin meditation](//b.robnugen.com/quests/walk-to-niigata/2021/thumbs/2021_apr_08_map_of_walk_along_tamako_3rd_walkin_meditation.png)](https://goo.gl/maps/gS2jRFGeqWEvFk85A)
+[![2021 apr 08 map of walk along tamako 3rd walkin meditation](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_map_of_walk_along_tamako_3rd_walkin_meditation.png)](https://goo.gl/maps/gS2jRFGeqWEvFk85A)
 
 **Note:** _This walk is not round trip!_
 
