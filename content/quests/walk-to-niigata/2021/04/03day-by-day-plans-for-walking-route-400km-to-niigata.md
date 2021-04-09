@@ -202,8 +202,10 @@ Part 2:
 10:00am - 12:00pm
 Walk <span class="km_source">5.6</span>km,
 From [Totoro's Forest no.1](https://goo.gl/maps/vzAYmmMBejS2Z94t6)
-To [Fujisawa Central Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA) for lunch until 12:45pm
+To [Fujisawa Central Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA)
 (<span class="km_total">57</span>km walked so far)
+
+Eat lunch until 12:45pm
 
 [![walk 5.6km from Totoro's Forest no.1 to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_totoro_forest_one_to_fujisawa_central_park.png)](https://goo.gl/maps/7HH8kPzZ1JTKJxcPA)
 
@@ -239,7 +241,7 @@ From [Sayama Inariyama Prefectural Park](https://goo.gl/maps/x4uq6cNWPJp1T2AL8)
 To [Sayama City Chikozan Park Children's Zoo](https://goo.gl/maps/xZoNBYWNHmd2gqfBA)
 (<span class="km_total">65</span>km walked so far)
 
-See the zoo for an hour until 16:45pm
+See the zoo for an hour until 17:45pm
 
 [![Walk 4.4km Sayama Inariyama Prefectural Park to Sayama City Chikozan Park Children's Zoo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_sayama_inariyama_pref_park_to_sayama_chikozan_zoo.png)](https://goo.gl/maps/B26MzPgV4DwgjFbB7)
 
@@ -259,7 +261,7 @@ To [Tennenonsen Kachofugetsu Hot Spring](https://goo.gl/maps/dE9JQDCkPAhW5D7Q8)
 
 Chill at hot spring for an hour until 19:30
 
-[![Walk 2km to Hotel Will](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_fujisawa_to_hotel_will.png)](https://goo.gl/maps/miJZ7jbvfyhcjyFo8)
+[![Walk 2km Sayama City Chikozan Park Children's Zoo to Tennenonsen Kachofugetsu Hot Spring](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_sayama_city_chikozan_zoo_to_tennenonsen_4pmish_19_apr.png)](https://goo.gl/maps/TT3eYn4V9MQEdFBH6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -271,8 +273,8 @@ Part 6:
 <br>
 19:30 - 20:15
 Walk <span class="km_source">2</span>km,
-From [Tennenonsen Kachofugetsu Hot Spring](https://goo.gl/maps/99a3dRfXepv8dBDB6)
-To [Hotel Will](https://goo.gl/maps/Sr7WHBbZk8PkUNVF9) (check-in after 6pm)
+From [Tennenonsen Kachofugetsu Hot Spring](https://goo.gl/maps/PE5pWTo2tp5epBDX9)
+To [Hotel Will](https://goo.gl/maps/f6XDFXdYyaNbPPjf7) (check-in after 6pm)
 (<span class="km_total">69</span>km walked so far)
 
 
