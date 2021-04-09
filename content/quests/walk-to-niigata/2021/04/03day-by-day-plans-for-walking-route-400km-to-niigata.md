@@ -180,12 +180,31 @@ For latest updates, [join our LINE group](/contact/)!
 ([spreadsheet](https://docs.google.com/spreadsheets/d/1vQD_HxyAIPuWfAvBW_BZoosWAIS9brSWnTbswIzPUUI/edit?usp=sharing))
 Part 1:
 <br>
-Walk <span class="km_source">8</span>km,
-From [Hotel Restay](https://goo.gl/maps/CA31mVh4Uu2bhkcr7)
-To [Fujisawa Park](https://goo.gl/maps/99a3dRfXepv8dBDB6)
+8:30am - 9:00am
+Walk <span class="km_source">1.3</span>km,
+From [Hotel Restay](https://goo.gl/maps/nvNTgPQbxodLCdzU8)
+To [Totoro's Forest no.1](https://goo.gl/maps/JzYusgcubAYNord66)
+(<span class="km_total">51</span>km walked so far)
+
+Plan to hang out in Totoro's Forest for about an hour until 10am.
+
+[![walk 1.3km from Hotel Restay to Totoro's Forest no.1](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_restay_to_totoro_forest_one_19_apr_0830_am.png)](https://goo.gl/maps/LSLdeZqKm5QS5AS26)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Four</span>
+(<span class="day_date">Monday April 19th</span> *)
+Part 2:
+<br>
+10:00am - 12:00pm
+Walk <span class="km_source">5.6</span>km,
+From [Totoro's Forest no.1](https://goo.gl/maps/vzAYmmMBejS2Z94t6)
+To [Fujisawa Park](https://goo.gl/maps/X56BgD6VMDqqwfcTA) for lunch
 (<span class="km_total">58</span>km walked so far)
 
-[![06 walk 8km from Hotel Restay to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_18_seibuen_to_fujisawa_park.png)](https://goo.gl/maps/KX7Adw7pxuBGS93u9)
+[![walk 5.6km from Totoro's Forest no.1 to Fujisawa central park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_totoro_forest_one_to_fujisawa_central_park.png)](https://goo.gl/maps/7HH8kPzZ1JTKJxcPA)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
