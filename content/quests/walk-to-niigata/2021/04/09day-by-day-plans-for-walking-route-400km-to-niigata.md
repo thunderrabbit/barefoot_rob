@@ -19,6 +19,7 @@ date: 2021-04-09T12:02:45+09:00
 * [18 April Higashimurayama Chuo Park](/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/)
 * [18 April along Lake Tama near Seibuen](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/)
 * [19 April in Sayama Inariyama Prefectural Park](/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama)
+* [23 April 6pm in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park)
 * (more meditations to come)
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
@@ -433,7 +434,9 @@ From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 (<span class="km_total">128</span>km walked so far)
 
+<!--  This park is far from a station but maybe I will unlock this later
 Enjoy Walking Meditation in Shiminnomori Park
+-->
 
 [![Walk 12km from hotel in Honjo to Isesaki Shiminnomori Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_honjo_hotel_to_isesaki_shiminnomori_park.png)](https://goo.gl/maps/q7jXDRgXtnMvosUK6)
 
@@ -487,7 +490,7 @@ From [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/ZGkVuuXQiWWncu6Y6)
 To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
 (<span class="km_total">142</span>km walked so far)
 
-Walking Meditation in Maebashishioshima Park until 7pm
+[Walking Meditation in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park) until 7pm
 
 [![Walk 6km
 7-Eleven to Maebashishioshima Park

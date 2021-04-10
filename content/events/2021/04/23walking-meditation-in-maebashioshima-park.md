@@ -3,18 +3,16 @@ title: "Walking Meditation in Maebashioshima Park"
 tags: [ "evening", "event", "maebashi", "maebashioshima", "meditation", "park", "walk" ]
 author: Rob Nugen
 date: 2021-04-10T19:21:25+09:00
-episode_image: //b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_10_maebashioshima_park_for_walking_meditation_6pm_april_23_friday_day_eight.png
-episode_thumbnail: "//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/thumbs/2021_apr_10_maebashioshima_park_for_walking_meditation_6pm_april_23_friday_day_eight.png"
-EventTime: "gather at 11:45; enter the Park at noon"
-EventDate: "2021-04-15"
+EventTime: "gather at 6pm"
+EventDate: "2021-04-23"
 Aliases: [
     "/events/2021/04/23walking-meditation-in-maebashioshima-park"
 ]
 ---
 
 <img
-src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_apr_08_sayama_inariyama_prefectural_park.png"
-alt="Google Street View Sayama Inariyama Prefectural Park"
+src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_apr_10_maebashioshima_park_for_walking_meditation_6pm_april_23_friday_day_eight.png"
+alt="Google Street View Maebashioshima Park"
 class="title" />
 
 Refresh your spirit. Touch the earth. Connect with nature.
@@ -25,56 +23,54 @@ Meditation, walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 2pm at [Inariyama-Koen Station Popura](https://goo.gl/maps/aHkjr59UwQpWm6rZA)** (convenience store) 19 April 2021
+**gather at 6pm, 23 April 2021** at South Exit of [Maebashioshima Station](https://goo.gl/maps/Ao6AmDpgJNyf7pRE6)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Where
 
-Meet at the North Exit of [Inariyamakoen Station](https://goo.gl/maps/4ymu2KpquokpdPvF7) (on Ikebukuro Line)
-by [Popura Inariyamaten](https://goo.gl/maps/aHkjr59UwQpWm6rZA)  https://goo.gl/maps/aHkjr59UwQpWm6rZA
+Quite close to a station for easy access!
+
+Meet at [South exit of Maebashioshima Station](https://goo.gl/maps/3qitssmRQeW1t9Cy9) (on Ryomo Line)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-This will be the
-fourth
+After a gap of a few days since the previous meditation,
+this will be the
+fifth
 "official" Walking Meditation event during Barefoot Rob's walk across Japan.
 
-[狭山稲荷山公園](https://goo.gl/maps/9nzuPE2mMHwJStxa7) ([Sayama Inariyama Prefectural Park](https://goo.gl/maps/9nzuPE2mMHwJStxa7)) seems like a nice park for walking, so let's enjoy a walking meditation.
+[大島公園](https://goo.gl/maps/8D5s8hk5GGi6XGCq9) ([Maebashishioshima Park](https://goo.gl/maps/8D5s8hk5GGi6XGCq9)) seems like a nice park for walking, so let's enjoy a walking meditation.
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
 *Enjoy Nature*
 
-Looks like this park has lots of big beautiful trees covering a large area. (see the image above!)
+Looks like this park is small with gravel, grass, and trees.
 
 *Enjoy Breathing*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-What to Expect (April 19th, 2021):
+What to Expect (April 23rd, 2021):
 
-* 2pm: Meet at [Popura Inariyamaten](https://goo.gl/maps/aHkjr59UwQpWm6rZA)
-* 2:15pm: walk to [this entrance](https://goo.gl/maps/dDGdFSqqQ6HXnML69)
-* 2:30pm: Walking meditation for 45 minutes
+* 6pm: Meet at [South exit of Maebashioshima Station](https://goo.gl/maps/3qitssmRQeW1t9Cy9)
+* 6:10pm: walk to [Maebashishioshima Park](https://goo.gl/maps/8D5s8hk5GGi6XGCq9)
+* Walking meditation for 45 minutes
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
 
 Walking meditation for 45 minutes in
-[狭山稲荷山公園](https://goo.gl/maps/9nzuPE2mMHwJStxa7) ([Sayama Inariyama Prefectural Park](https://goo.gl/maps/9nzuPE2mMHwJStxa7))
+[大島公園](https://goo.gl/maps/8D5s8hk5GGi6XGCq9) ([Maebashishioshima Park](https://goo.gl/maps/8D5s8hk5GGi6XGCq9))
 
 To receive the latest updates, [join our LINE group](/contact/)!
-
-Afterward, you are welcome to join me [walking 4.5km](https://goo.gl/maps/B26MzPgV4DwgjFbB7) to [Sayama City Chikozan Park Children’s Zoo](https://goo.gl/maps/xZoNBYWNHmd2gqfBA)
 
 **Costs:**
 
 free! (donations accepted)
-
-not sure if the Zoo costs anything to enter http://www.parks.or.jp/chikozan/guide/000/000867.html
 
 **What to bring**
 
