@@ -470,6 +470,42 @@ to Hotel Ruruka
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
+* Day <span class="day_source">Eight</span>
+(<span class="day_date">Friday April 23rd</span> *)
+Part 4:
+<br>
+Walk <span class="km_source">11</span>km,
+From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
+To [Hotel Ruruka](https://g.page/hotel_luka?share)
+(<span class="km_total">144</span>km walked so far)
+
+[![16 walk 11km
+from kezoji park
+to Hotel Ruruka
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/ia1L9V9yd4REpDyk7)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Eight</span>
+(<span class="day_date">Friday April 23rd</span> *)
+Part 5:
+<br>
+Walk <span class="km_source">11</span>km,
+From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
+To [Hotel Ruruka](https://g.page/hotel_luka?share)
+(<span class="km_total">144</span>km walked so far)
+
+[![16 walk 11km
+from kezoji park
+to Hotel Ruruka
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/ia1L9V9yd4REpDyk7)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
 * Day <span class="day_source">Nine</span>
 (<span class="day_date">Saturday April 24th</span> *)
 Part 1:
