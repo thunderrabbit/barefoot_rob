@@ -463,7 +463,7 @@ To [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/mL9dqcyUYpvsCNgf8)
 
 [![Walk 3km
 Kezoji Park to 7-Eleven
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/JGKX75zHpehhBgVd7)
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_kezoji_park_to_seven_eleven.png)](https://goo.gl/maps/JGKX75zHpehhBgVd7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -480,7 +480,7 @@ To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
 
 [![16 walk 6km
 7-Eleven to Maebashishioshima Park
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/EwpDHU9bxeGSWzobA)
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_seven_eleven_to_maebashioshima_park.png)](https://goo.gl/maps/EwpDHU9bxeGSWzobA)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -490,15 +490,14 @@ To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
 (<span class="day_date">Friday April 23rd</span> *)
 Part 5:
 <br>
-Walk <span class="km_source">11</span>km,
-From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
+Walk <span class="km_source">2</span>km,
+From [Maebashishioshima Park](https://goo.gl/maps/ZNGCmgz5DkzL5PUQ8)
 To [Hotel Ruruka](https://g.page/hotel_luka?share)
 (<span class="km_total">144</span>km walked so far)
 
-[![16 walk 11km
-from kezoji park
-to Hotel Ruruka
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/ia1L9V9yd4REpDyk7)
+[![Walk 2km
+From Maebashishioshima Park to 前橋ホテルルカ
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_maebashi_oshima_park_to_hotel_ruka.png)](https://goo.gl/maps/A1Dom9fwjcBB1pzc6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
