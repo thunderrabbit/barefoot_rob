@@ -567,7 +567,7 @@ To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
 
 * Day <span class="day_source">Ten</span>
 (<span class="day_date">Sunday April 25th</span> *)
-1 part:
+Part 1:
 <br>
 Walk <span class="km_source">15 ~ 20(?)</span>km,
 From [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
@@ -575,6 +575,26 @@ To [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
 (<span class="km_total">178</span>km walked so far)
 
 (?) Possibly stop by [Shibukawa Skyland Park](https://g.page/skylandpark_official)
+
+Will turn left at [Planet Restroom](https://goo.gl/maps/CjjGKZRcVSd5sLDb8) and Restaurant Planet (closed)
+
+[![Walk 20km
+from Hotel Tatsumi
+to Midorinomura Camp Ground
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_09_tatsumi_to_midorinomura_camp.png)](https://goo.gl/maps/X8sTqpA2DkjgMTLN9)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Ten</span>
+(<span class="day_date">Sunday April 25th</span> *)
+Part 2:
+<br>
+Walk <span class="km_source">15 ~ 20(?)</span>km,
+From [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
+To [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
+(<span class="km_total">178</span>km walked so far)
 
 Will turn left at [Planet Restroom](https://goo.gl/maps/CjjGKZRcVSd5sLDb8) and Restaurant Planet (closed)
 
