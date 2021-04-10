@@ -7,7 +7,7 @@ aliases: [
            "12coast-to-coast-kickoff-walking-to-niigata",
            "16coast-to-coast-kickoff-walking-to-niigata",
         ]
-EventTime: "9am or so"
+EventTime: "9am"
 EventDate: "2021-04-16"
 ---
 
@@ -24,7 +24,7 @@ Meditation, walking, breathing, enjoying crisp air.
 
 #### When
 
-**9am or so Friday 16 April 2021**
+**9am Friday 16 April 2021**
 
 #### Where
 
