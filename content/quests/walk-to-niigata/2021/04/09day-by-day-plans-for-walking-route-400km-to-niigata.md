@@ -373,7 +373,7 @@ Along the way:
 
 1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)  (TODO: [call to confirm their hours](https://goo.gl/maps/gvKM5XdUTf9AYwcFA)　possible number 048-582-2577)
 
-[![11 walk 07km
+[![Walk 07km
 From Nokonoko
 to Spamu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_nokonoko_to_spamu.png)](https://goo.gl/maps/BSsapmqYtv5unAb38)
 
@@ -393,7 +393,7 @@ To [Cafe ポエム](https://goo.gl/maps/EKVdWhUNgcxEyEzWA) (open 11am - 2pm for 
 
 1. Write letters / postcards at [Cafe ポエム](https://goo.gl/maps/e1ccA3uEkeLLCz8y6) or [Ekimae Jido Park](https://goo.gl/maps/LLvCFf7gbxwwnATR9)
 
-[![13 walk 9km
+[![Walk 9km
 From SPAMU
 to Cafe ポエム
 nearish Matsuhisa Station
@@ -489,7 +489,7 @@ To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
 
 Walking Meditation in Maebashishioshima Park until 7pm
 
-[![16 walk 6km
+[![Walk 6km
 7-Eleven to Maebashishioshima Park
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_seven_eleven_to_maebashioshima_park.png)](https://goo.gl/maps/EwpDHU9bxeGSWzobA)
 
@@ -528,7 +528,7 @@ Pass by:
 
 1. [Maebashi Childrens Park](https://goo.gl/maps/C8RtNca4NecHyTCT8)
 
-[![17 walk 4km from Hotel Ruruka to Luna Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ruruka_to_luna_park.png)](https://goo.gl/maps/bPjDy3PTStycFcve9)
+[![Walk 4km from Hotel Ruruka to Luna Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ruruka_to_luna_park.png)](https://goo.gl/maps/bPjDy3PTStycFcve9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -544,7 +544,7 @@ To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public ba
 (<span class="km_total">158</span>km walked so far)
 
 
-[![18 walk 10km from Luna Park to Sky Terme Shibukawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_luna_park_to_sky_terme_shibukawa.png)](https://goo.gl/maps/BtqtcopX3FgPxfdH9)
+[![Walk 10km from Luna Park to Sky Terme Shibukawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_luna_park_to_sky_terme_shibukawa.png)](https://goo.gl/maps/BtqtcopX3FgPxfdH9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -559,7 +559,7 @@ From [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9)
 To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
 (<span class="km_total">161</span>km walked so far)
 
-[![19 walk 3km from Sky Terme Shibukawa to Hotel Tatsumi](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_sky_terme_shibukawa_to_hotel_tatsumi.png)](https://goo.gl/maps/r4hMfgGqQ8AGdXdYA)
+[![Walk 3km from Sky Terme Shibukawa to Hotel Tatsumi](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_sky_terme_shibukawa_to_hotel_tatsumi.png)](https://goo.gl/maps/r4hMfgGqQ8AGdXdYA)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -578,7 +578,7 @@ To [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
 
 Will turn left at [Planet Restroom](https://goo.gl/maps/CjjGKZRcVSd5sLDb8) and Restaurant Planet (closed)
 
-[![19 walk 20km
+[![Walk 20km
 from Hotel Tatsumi
 to Midorinomura Camp Ground
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_09_tatsumi_to_midorinomura_camp.png)](https://goo.gl/maps/X8sTqpA2DkjgMTLN9)
@@ -598,7 +598,7 @@ To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
 
 Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
 
-[![19 walk 19km
+[![Walk 19km
 from Midorinomura
 to Yumotokan
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
@@ -619,7 +619,7 @@ To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 
 Oh nooo the Bungy jump location seems to be closed April 27th!!
 
-[![28 walk 04km to bungee jump](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_yumotokan_to_bungy_japan_sarugakyo.png)](https://goo.gl/maps/uBbZKq8htvqJzEZ99)
+[![Walk 04km to bungee jump](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_yumotokan_to_bungy_japan_sarugakyo.png)](https://goo.gl/maps/uBbZKq8htvqJzEZ99)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -634,7 +634,7 @@ From [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
 To [Sports Inn Fujiya](https://goo.gl/maps/b5wA3i7BLJ3H4BvN7)
 (<span class="km_total">203</span>km walked so far)
 
-[![29 walk 06km from bungee jump to Sports Inn Fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_25_bungy_to_sports_inn_fujiya.png)](https://goo.gl/maps/kty4uPThdQditLMq7)
+[![Walk 06km from bungee jump to Sports Inn Fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_25_bungy_to_sports_inn_fujiya.png)](https://goo.gl/maps/kty4uPThdQditLMq7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -661,8 +661,7 @@ Notice the tunnels on Highway 17 (Mikuni Highway), south of [Obansanja Shrine](h
 
 You may notice there is another [tunnel looking thing, but it has a sidewalk](https://goo.gl/maps/6apj5cUHDrySQp4z9) next to it.
 
-[![30
-walk 14km
+[![Walk 14km
 from Sports Inn Fujiya
 to Family House Akashiya
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_sports_inn_fujiya_family_house_akashiya.png)](https://goo.gl/maps/zfJWheGEa9n6Ywo27)
@@ -680,7 +679,7 @@ From [Family House Akashiya](https://goo.gl/maps/43Jynj1L11zv7dTC9)
 To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 (<span class="km_total">220</span>km walked so far)
 
-[![31 walk 03km to dragondola](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_akashiya_to_dragondola.png)](https://goo.gl/maps/ahRhhdeoTS5g1Y6KA)
+[![Walk 03km to dragondola](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_akashiya_to_dragondola.png)](https://goo.gl/maps/ahRhhdeoTS5g1Y6KA)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -695,7 +694,7 @@ From [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
 To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
 (<span class="km_total">227</span>km walked so far)
 
-[![32 walk 07km from Dragondola to Lodge Montoze](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_dragondola_to_lodge_montoze.png)](https://goo.gl/maps/ury1z75cxJRbmQqT9)
+[![Walk 07km from Dragondola to Lodge Montoze](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_dragondola_to_lodge_montoze.png)](https://goo.gl/maps/ury1z75cxJRbmQqT9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -725,7 +724,7 @@ but we shall see exactly
 what *is* possible!
 
 
-[![33 walk 06km
+[![Walk 06km
 from Lodge Montoze
 to Kagura White Horse Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_montoze_to_white_horse_inn.png)](https://goo.gl/maps/BY2oHijT5LBUC5dL7)
 
@@ -742,7 +741,7 @@ From [Kagura White Horse Inn](https://goo.gl/maps/2AudNcQR7T3QpVmG9)
 To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
 (<span class="km_total">240</span>km walked so far)
 
-[![34 walk 07km from Kagura White Horse Inn to echigo yuzawa Hirokawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_white_horse_to_hirokawa_hotel.png)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
+[![Walk 07km from Kagura White Horse Inn to echigo yuzawa Hirokawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_white_horse_to_hirokawa_hotel.png)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -757,7 +756,7 @@ From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
 To [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/9Vh8oyT9iXbBfcai9)
 (<span class="km_total">258</span>km walked so far)
 
-[![35 walk 18km
+[![Walk 18km
 from Hirokawa Hotel
 to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_hirokawa_to_6_day_city_onsen_biz_hotel.png)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
@@ -775,7 +774,7 @@ From [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）]
 To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 (<span class="km_total">278</span>km walked so far)
 
-[![36 walk 20km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_six_day_onsen_to_sudaya_inn.png)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
+[![Walk 20km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_six_day_onsen_to_sudaya_inn.png)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -791,7 +790,7 @@ To somewhere near [Shinanogawa Kasen Park
 信濃川河川公園](https://goo.gl/maps/772bic4Ed7V7i4hv6)
 (<span class="km_total">297</span>km walked so far) **_nearly_ 75% complete!**
 
-[![36 walk 19km from Sudaya Inn to Shinanogawa Kasen Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_sudaya_to_shinanogawa_park.png)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
+[![Walk 19km from Sudaya Inn to Shinanogawa Kasen Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_sudaya_to_shinanogawa_park.png)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -807,7 +806,7 @@ From somewhere near [Shinanogawa Kasen Park
 To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
 (<span class="km_total">310</span>km walked so far)
 
-[![36 walk 13km from Shinanogawa Kasen Park to 旅館 竹花屋](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_shinanogawa_park_to_bamboo_flower_ya.png)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
+[![Walk 13km from Shinanogawa Kasen Park to 旅館 竹花屋](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_shinanogawa_park_to_bamboo_flower_ya.png)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -822,7 +821,7 @@ From [旅館 竹花屋](https://goo.gl/maps/Vj8xmTabwdbEG6Mt8)
 To [Mitsuke English Garden](https://goo.gl/maps/gJ8jemH1yH3bW1UDA)
 (<span class="km_total">325</span>km walked so far)
 
-[![36 walk 15km from 旅館 竹花屋 to Mitsuke English Garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/XybZ4457tKDsRoj39)
+[![Walk 15km from 旅館 竹花屋 to Mitsuke English Garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/XybZ4457tKDsRoj39)
 
 
 </div>
@@ -838,7 +837,7 @@ From [Mitsuke English Garden](https://goo.gl/maps/VUV1VZFyVCc9Z1Vm8)
 To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/z7Uqv89a6L4rnEce8)
 (<span class="km_total">339</span>km walked so far)
 
-[![36 walk 14km from Mitsuke English Garden to APA Hotel Tsubamesanjo Ekimae](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/hiCVrkZTt6BnnG2CA)
+[![Walk 14km from Mitsuke English Garden to APA Hotel Tsubamesanjo Ekimae](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/hiCVrkZTt6BnnG2CA)
 
 
 </div>
@@ -854,7 +853,7 @@ From [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/vSkkLDLpuxHcZY57A)
 To [Guest House Googoo ゲストハウス ぐーぐー](https://g.page/GuestHouse-Googoo?share)
 (<span class="km_total">355</span>km walked so far)
 
-[![36 walk 16km
+[![Walk 16km
 from APA Hotel Tsubamesanjo Ekimae
 to ゲストハウス ぐーぐー](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_apa_hotel_tsubamesanjo_to_guest_house_googoo.png)](https://goo.gl/maps/fpZxLJV1JG2qhuJw5)
 
