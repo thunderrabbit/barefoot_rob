@@ -20,15 +20,15 @@ my $month   = $dt->month;
 my $day     = $dt->day;
 my $tz_date = $thedate . "T" . $thetime . $zoffset;
 
-my $content_directory = "/home/thunderrabbit/barefoot_rob/content";
+my $content_directory = "~/barefoot_rob/content";
 my $blog_directory = "/blog";    #  appended to $content_directory when writing actual file.
 my $events_directory = "/events";    #  appended to $content_directory when writing actual file.
 my $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
 
 my %event_template_files = (
-    "weekly_alignment" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt",
-    "walking_meditation" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt",
-    "quest_update" => "/home/thunderrabbit/.emacs.d/modes/hugo/templates/niigata_2021_walking_update.txt",
+    "weekly_alignment" => "~/barefoot_rob/templates/event_weekly-alignment_template.txt",
+    "walking_meditation" => "~/barefoot_rob/templates/event_walking_meditation_template.txt",
+    "quest_update" => "~/barefoot_rob/templates/niigata_2021_walking_update.txt",
 );
 
 my %event_output_directories = (
