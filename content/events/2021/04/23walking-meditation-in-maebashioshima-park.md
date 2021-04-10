@@ -8,7 +8,7 @@ episode_thumbnail: "//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thu
 EventTime: "gather at 11:45; enter the Park at noon"
 EventDate: "2021-04-15"
 Aliases: [
-    "/events/2021/04/15walking-meditation-in-maebashioshima-park"
+    "/events/2021/04/23walking-meditation-in-maebashioshima-park"
 ]
 ---
 
