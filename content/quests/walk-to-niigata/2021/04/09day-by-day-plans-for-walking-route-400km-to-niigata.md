@@ -473,15 +473,14 @@ Kezoji Park to 7-Eleven
 (<span class="day_date">Friday April 23rd</span> *)
 Part 4:
 <br>
-Walk <span class="km_source">11</span>km,
-From [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
-To [Hotel Ruruka](https://g.page/hotel_luka?share)
-(<span class="km_total">144</span>km walked so far)
+Walk <span class="km_source">6</span>km,
+From [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/ZGkVuuXQiWWncu6Y6)
+To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
+(<span class="km_total">142</span>km walked so far)
 
-[![16 walk 11km
-from kezoji park
-to Hotel Ruruka
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/ia1L9V9yd4REpDyk7)
+[![16 walk 6km
+7-Eleven to Maebashishioshima Park
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_kezoji_to_ruruka_hotel.png)](https://goo.gl/maps/EwpDHU9bxeGSWzobA)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
