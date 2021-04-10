@@ -424,14 +424,18 @@ To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 
 * Day <span class="day_source">Eight</span>
 (<span class="day_date">Friday April 23rd</span> *)
+([spreadsheet](https://docs.google.com/spreadsheets/d/1tNs0zJIHT12jspRH3sNuv_Vx5qtLZtfO3Ku82-6Y76A/edit?usp=sharing))
 Part 1:
 <br>
+8:30am - 10:30am:
 Walk <span class="km_source">7</span>km,
 From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 (<span class="km_total">131</span>km walked so far)
 
-[![15 walk 12km from hotel in Honjo to Isesaki Shiminnomori Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_honjo_hotel_to_isesaki_shiminnomori_park.png)](https://goo.gl/maps/q7jXDRgXtnMvosUK6)
+Enjoy Walking Meditation in Shiminnomori Park
+
+[![Walk 12km from hotel in Honjo to Isesaki Shiminnomori Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_honjo_hotel_to_isesaki_shiminnomori_park.png)](https://goo.gl/maps/q7jXDRgXtnMvosUK6)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -441,12 +445,15 @@ To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 (<span class="day_date">Friday April 23rd</span> *)
 Part 2:
 <br>
+11:30am - 13:00pm:
 Walk <span class="km_source">5</span>km,
 From [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
 To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 (<span class="km_total">133</span>km walked so far)
 
-[![15 walk 5km from Isesaki Shiminnomori Park to Kezoji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_isesaki_shiminnomori_park_to_kezoji_park.png)](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
+Hang out until 14:30pm at Kezoji Park
+
+[![Walk 5km from Isesaki Shiminnomori Park to Kezoji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_isesaki_shiminnomori_park_to_kezoji_park.png)](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -456,6 +463,7 @@ To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
 (<span class="day_date">Friday April 23rd</span> *)
 Part 3:
 <br>
+14:30 - 15:30:
 Walk <span class="km_source">3</span>km,
 From [Kezoji Park](https://goo.gl/maps/3vyoireebTe1fHL88)
 To [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/mL9dqcyUYpvsCNgf8)
@@ -473,10 +481,13 @@ Kezoji Park to 7-Eleven
 (<span class="day_date">Friday April 23rd</span> *)
 Part 4:
 <br>
+16:00 - 18:00
 Walk <span class="km_source">6</span>km,
 From [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/ZGkVuuXQiWWncu6Y6)
 To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
 (<span class="km_total">142</span>km walked so far)
+
+Walking Meditation in Maebashishioshima Park until 7pm
 
 [![16 walk 6km
 7-Eleven to Maebashishioshima Park
@@ -490,6 +501,7 @@ To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
 (<span class="day_date">Friday April 23rd</span> *)
 Part 5:
 <br>
+19:00 - 19:45pm
 Walk <span class="km_source">2</span>km,
 From [Maebashishioshima Park](https://goo.gl/maps/ZNGCmgz5DkzL5PUQ8)
 To [Hotel Ruruka](https://g.page/hotel_luka?share)
