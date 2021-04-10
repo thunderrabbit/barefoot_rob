@@ -1,0 +1,23 @@
+---
+title: "%s"
+tags: [ %s ]
+author: Rob Nugen
+date: %s
+aliases: [
+    "alias_path"
+]
+---
+
+<img
+src="%episode_image"
+alt="Update from the road"
+class="title" />
+
+#### Feeling
+
+#### Recently
+
+#### Coming up
+
+#### Now
+

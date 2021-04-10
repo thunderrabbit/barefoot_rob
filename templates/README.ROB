@@ -1,0 +1,142 @@
+Hey Rob
+
+17:19pm 10 April 2021
+
+How's stuff?
+
+I am really proud of you for prepping so hard for your walk.  I
+presume it went wonderfully!  Were you able to do a candle meditation
+each day?
+
+Anyway, right now I am writing this on my Lemur, and about to do some
+blending of hardlinks and such to make things hopefully make more
+sense.
+
+There are four (4) places for these files to be used.  Emacs and Atom,
+both on Lemur and Macbook Pro.
+
+This file is on both Lemur and Macbook Pro.
+
+* Lemur at ~/.emacs.d/modes/hugo/templates/README.ROB
+* MBP at ~/.emacs.d/personal/hugo/templates/README.ROB
+
+I am about to create some hardlinks of this file and some of the
+template files.
+
+BRB
+
+17:24pm Okay, I have just pushed this to the repo and am now writing
+on my Macbook Pro.  I wrote the date and faked the date above.
+
+Plan: hardlink the template files (used in
+`~/barefoot_rob/generate_events.pl`) to `~/barefoot_rob/templates/`,
+with the hope that (will not make Hugo mad and) will allow the
+`generate_events.pl` to work on both MBP and Lemur machines.
+
+Steps:
+
+* determine what files to link
+* hardlink them on Lemur from this repo to `/home/thunderrabbit/barefoot_rob/templates/`
+* push this repo
+* push ~/barefoot_rob repo
+* pull the repo on Lemur
+* pull ~/barefoot_rob repo on MBP
+* erase one copy and re-hardlink the files together on MBP
+* push everything (should be no changes)
+* change one thing (push and make sure it shows up everywhere)
+
+Ready?  Go!
+
+17:30pm files to link on MBP (via `~/barefoot_rob/generate_events.pl`):
+
+    /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt
+    /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt
+    /home/thunderrabbit/.emacs.d/modes/hugo/templates/niigata_2021_walking_update.txt
+
+((17:34 Aha!  This is the very problem.  The above URLS are on Lemur,
+not on this machine.  Okay back to Lemur we go...))
+
+17:35 okay on Lemur again now, about to create hardlinks from the
+files above to ~/barefoot_rob/templates/
+
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt /home/thunderrabbit/barefoot_rob/templates/event_weekly-alignment_template.txt
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt  /home/thunderrabbit/barefoot_rob/templates/event_walking_meditation_template.txt
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/niigata_2021_walking_update.txt /home/thunderrabbit/barefoot_rob/templates/niigata_2021_walking_update.txt
+
+17:46 Done creating hardlinks on Lemur.
+
+17:52 Okay back on Macbook Pro, after having re-encountered the
+problem we are solving, creating hardlinks on Lemur, pushing both
+repos on Lemur, pulling *this* repo on MBP but not yet pulled the
+other repo on MBP.
+
+17:58 Okay on MBP I have pulled the ~/barefoot_rob/ repo and see the template files:
+
+    /Users/thunderrabbit/barefoot_rob/templates:
+    total used in directory 24 available 4291180339
+    drwxr-xr-x   5 thunderrabbit  staff   170 Apr 10 17:56 .
+    drwxrwxr-x  24 thunderrabbit  staff   816 Apr 10 17:56 ..
+    -rw-r--r--   1 thunderrabbit  staff  3594 Apr 10 17:56 event_walking_meditation_template.txt
+    -rw-r--r--   1 thunderrabbit  staff   838 Apr 10 17:56 event_weekly-alignment_template.txt
+    -rw-r--r--   1 thunderrabbit  staff   217 Apr 10 17:56 niigata_2021_walking_update.txt
+
+I *also* see the template files at
+
+    /Users/thunderrabbit/.emacs.d/personal/hugo/templates:
+    total used in directory 120 available 4291180351
+    drwxrwxr-x  17 thunderrabbit  staff   578 Apr 10 18:00 .
+    drwxrwxr-x   7 thunderrabbit  staff   238 Apr 10 17:09 ..
+    -rw-rw-r--   1 thunderrabbit  staff  3431 Apr 10 18:00 README.ROB
+    -rw-rw-r--   1 thunderrabbit  staff   353 Apr 10 17:09 blog_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff   138 Jul  2  2019 dream_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff   305 Apr 10 17:09 event_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff  3594 Apr 10 17:09 event_walking_meditation_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff   838 Apr 10 17:09 event_weekly-alignment_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff    97 Jan  8  2020 journal_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff   124 Jan  1  2019 mt3_episode_template.txt
+    -rw-r--r--   1 thunderrabbit  staff   209 Jan 13  2019 mt3_parts_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff   153 May  7  2019 nihongo_template.txt
+    -rw-rw-r--   1 thunderrabbit  staff   217 Apr 10 17:09 niigata_2021_walking_update.txt
+    -rw-r--r--   1 thunderrabbit  staff    58 May  5  2019 snippet_part.txt
+    -rw-r--r--   1 thunderrabbit  staff    60 May  5  2019 snippet_worker.txt
+    -rw-r--r--   1 thunderrabbit  staff   864 Jan  6  2019 storylog_template.txt
+
+If I diff the three in `~/barefoot_rob/templates`, they should match `~/.emacs.d/` versions.
+
+
+    diff /Users/thunderrabbit/barefoot_rob/templates/event_walking_meditation_template.txt /Users/thunderrabbit/.emacs.d/personal/hugo/templates/event_walking_meditation_template.txt
+    diff /Users/thunderrabbit/barefoot_rob/templates/event_weekly-alignment_template.txt /Users/thunderrabbit/.emacs.d/personal/hugo/templates/event_weekly-alignment_template.txt
+    diff /Users/thunderrabbit/barefoot_rob/templates/niigata_2021_walking_update.txt /Users/thunderrabbit/.emacs.d/personal/hugo/templates/niigata_2021_walking_update.txt
+
+18:05 great!  No differences.
+
+So delete the ones in `~/barefoot_rob/templates/` (because I will delete all three files)
+
+And now re-hardlink them here on MBP
+
+    ln /Users/thunderrabbit/.emacs.d/personal/hugo/templates/event_walking_meditation_template.txt /Users/thunderrabbit/barefoot_rob/templates/event_walking_meditation_template.txt
+    ln /Users/thunderrabbit/.emacs.d/personal/hugo/templates/event_weekly-alignment_template.txt /Users/thunderrabbit/barefoot_rob/templates/event_weekly-alignment_template.txt
+    ln /Users/thunderrabbit/.emacs.d/personal/hugo/templates/niigata_2021_walking_update.txt /Users/thunderrabbit/barefoot_rob/templates/niigata_2021_walking_update.txt
+
+18:09 okay that seemed to work.  Let's recheck the dired
+
+    /Users/thunderrabbit/barefoot_rob/templates:
+    total used in directory 24 available 4291180529
+    drwxr-xr-x   5 thunderrabbit  staff   170 Apr 10 18:09 .
+    drwxrwxr-x  24 thunderrabbit  staff   816 Apr 10 17:56 ..
+    -rw-rw-r--   2 thunderrabbit  staff  3594 Apr 10 17:09 event_walking_meditation_template.txt
+    -rw-rw-r--   2 thunderrabbit  staff   838 Apr 10 17:09 event_weekly-alignment_template.txt
+    -rw-rw-r--   2 thunderrabbit  staff   217 Apr 10 17:09 niigata_2021_walking_update.txt
+
+Yahooo! This two ^ says there are 2 inodes(?) to the file, i.e. the hardlinks were created.
+
+18:21 Atom was a bit hesitant to notice the changed file, but
+basically it is all working on both machines.
+
+Now I will create a hardlink of this README.ROB in the ~/barefoot_rob/templates/ directory
+
+    ln /Users/thunderrabbit/.emacs.d/personal/hugo/templates/README.ROB /Users/thunderrabbit/barefoot_rob/templates/README.ROB
+
+Yayyyyy now just need to create the hardlink over on Lemur..
+
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/README.ROB /home/thunderrabbit/barefoot_rob/templates/README.ROB
