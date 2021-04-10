@@ -8,4 +8,6 @@ aliases: [
 ]
 ---
 
-https://www.facebook.com/thunderrabbit/posts/10165132576065716
+[![2021 apr 10 brandon clift interviewed rob nugen before niigata walk](//b.robnugen.com/blog/2021/2021_apr_10_brandon_clift_interviewed_rob_nugen_before_niigata_walk.png)](https://www.facebook.com/thunderrabbit/posts/10165132576065716)
+
+([Mankind Project interviewed me on Facebook live](https://www.facebook.com/thunderrabbit/posts/10165132576065716))
