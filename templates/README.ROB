@@ -137,4 +137,6 @@ Now I will create a hardlink of this README.ROB in the ~/barefoot_rob/templates/
 
     ln /Users/thunderrabbit/.emacs.d/personal/hugo/templates/README.ROB /Users/thunderrabbit/barefoot_rob/templates/README.ROB
 
-Yayyyyy now just need to create the symlink over on Lemur..
+Yayyyyy now just need to create the hardlink over on Lemur..
+
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/README.ROB /home/thunderrabbit/barefoot_rob/templates/README.ROB
