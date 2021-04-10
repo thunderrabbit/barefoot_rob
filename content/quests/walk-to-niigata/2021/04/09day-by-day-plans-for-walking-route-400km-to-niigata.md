@@ -431,7 +431,7 @@ Part 1:
 Walk <span class="km_source">7</span>km,
 From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
-(<span class="km_total">131</span>km walked so far)
+(<span class="km_total">128</span>km walked so far)
 
 Enjoy Walking Meditation in Shiminnomori Park
 
