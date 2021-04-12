@@ -581,7 +581,7 @@ To [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/EtszY5v48GUnfPWc9)
 
 [![Walk ~8km
 from Hotel Tatsumi to Kaneshimaonsen Fuki Hot Spring
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_09_tatsumi_to_midorinomura_camp.png)](https://goo.gl/maps/4fizYWqFqLrSEZMu8)
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_10_hotel_tatsumi_to_kaneshima_onsen.png)](https://goo.gl/maps/4fizYWqFqLrSEZMu8)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -599,7 +599,7 @@ To [Midorinomura Camping Ground](https://goo.gl/maps/MAao34q748ZT9mXX7)
 Will turn left at [Planet Restroom](https://goo.gl/maps/QKyvUXP15HrDRZoSA) and Restaurant Planet (closed)
 
 [![Walk 10km from Kaneshimaonsen Fuki Hot Spring to Midorinomura Camp Ground
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_09_tatsumi_to_midorinomura_camp.png)](https://goo.gl/maps/S8AneK7xAR67hwZR7)
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_10_kaneshima_onsen_to_midorinomura_campground.png)](https://goo.gl/maps/S8AneK7xAR67hwZR7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
