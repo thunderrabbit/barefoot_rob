@@ -649,6 +649,8 @@ From [赤根峠 ポケットパーク](https://goo.gl/maps/HbjBAbqGgGxxAh4e6)
 To [ラーメンショップ月夜野店 (Ramen restaurant)](https://goo.gl/maps/TX8t5wcrDKS5okzk7)
 (<span class="km_total">191</span>km walked so far)
 
+Including through a tunnel with a narrow sidewalk..
+
 Will pass [Meigetsu Orchards](https://goo.gl/maps/ExNE3fy7vyAsvdPy5)
 
 [![Walk 5km 赤根峠 ポケットパーク to Ramen restaurant via Meigetsu Orchards
