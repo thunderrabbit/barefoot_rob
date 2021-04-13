@@ -607,7 +607,67 @@ Will turn left at [Planet Restroom](https://goo.gl/maps/QKyvUXP15HrDRZoSA) and R
 
 * Day <span class="day_source">Eleven</span>
 (<span class="day_date">Monday April 26th</span> *)
-1 part:
+Part 1:
+<br>
+Walk <span class="km_source">19</span>km,
+From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
+To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
+(<span class="km_total">197</span>km walked so far)
+
+Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+
+[![Walk 19km
+from Midorinomura
+to Yumotokan
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Eleven</span>
+(<span class="day_date">Monday April 26th</span> *)
+Part 2:
+<br>
+Walk <span class="km_source">19</span>km,
+From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
+To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
+(<span class="km_total">197</span>km walked so far)
+
+Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+
+[![Walk 19km
+from Midorinomura
+to Yumotokan
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Eleven</span>
+(<span class="day_date">Monday April 26th</span> *)
+Part 3:
+<br>
+Walk <span class="km_source">19</span>km,
+From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
+To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
+(<span class="km_total">197</span>km walked so far)
+
+Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+
+[![Walk 19km
+from Midorinomura
+to Yumotokan
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Eleven</span>
+(<span class="day_date">Monday April 26th</span> *)
+Part 4:
 <br>
 Walk <span class="km_source">19</span>km,
 From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
