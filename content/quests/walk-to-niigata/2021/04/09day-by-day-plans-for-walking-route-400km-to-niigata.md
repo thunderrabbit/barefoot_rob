@@ -609,17 +609,16 @@ Will turn left at [Planet Restroom](https://goo.gl/maps/QKyvUXP15HrDRZoSA) and R
 (<span class="day_date">Monday April 26th</span> *)
 Part 1:
 <br>
-Walk <span class="km_source">19</span>km,
-From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
-To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
-(<span class="km_total">197</span>km walked so far)
+Walk <span class="km_source">5</span>km,
+From [Midorinomura Camping Ground](https://goo.gl/maps/Tz2EtJZqTm32zcPv9)
+To [Kodaira Meat Shop](https://goo.gl/maps/u6z8wBS5Ruap2geF7)
+(<span class="km_total">184</span>km walked so far)
 
-Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+Will likely visit [上州たかやま 田んぼアート (field art)](https://goo.gl/maps/TUaNj9xixnEDDDfcA) for photos!
 
-[![Walk 19km
-from Midorinomura
-to Yumotokan
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+[![Walk 5km
+from Midorinomura Camping Ground to Kodaira Meat Shop
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_midorinomura_camping_ground_to_kodaira_meat_shop.png)](https://goo.gl/maps/MsESdZi3kTwHDKAA9)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -629,17 +628,13 @@ to Yumotokan
 (<span class="day_date">Monday April 26th</span> *)
 Part 2:
 <br>
-Walk <span class="km_source">19</span>km,
-From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
-To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
-(<span class="km_total">197</span>km walked so far)
+Walk <span class="km_source">2</span>km up at 6% grade
+From [Kodaira Meat Shop](https://goo.gl/maps/wR9EjV3pbr2t8YSj6)
+To [赤根峠 ポケットパーク](https://goo.gl/maps/k7k2dxuiFLmmjyXG8)
+(<span class="km_total">186</span>km walked so far)
 
-Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
-
-[![Walk 19km
-from Midorinomura
-to Yumotokan
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+[![Walk 2km From Kodaira Meat Shop to 赤根峠 ポケットパーク
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_kodaira_meat_shop_to_red_something_pocket_park.png)](https://goo.gl/maps/FTk9YHM5ahZza8wR7)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -649,17 +644,15 @@ to Yumotokan
 (<span class="day_date">Monday April 26th</span> *)
 Part 3:
 <br>
-Walk <span class="km_source">19</span>km,
-From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
-To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
-(<span class="km_total">197</span>km walked so far)
+Walk <span class="km_source">5</span>km,
+From [赤根峠 ポケットパーク](https://goo.gl/maps/HbjBAbqGgGxxAh4e6)
+To [ラーメンショップ月夜野店 (Ramen restaurant)](https://goo.gl/maps/TX8t5wcrDKS5okzk7)
+(<span class="km_total">191</span>km walked so far)
 
-Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+Will pass [Meigetsu Orchards](https://goo.gl/maps/ExNE3fy7vyAsvdPy5)
 
-[![Walk 19km
-from Midorinomura
-to Yumotokan
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+[![Walk 5km 赤根峠 ポケットパーク to Ramen restaurant via Meigetsu Orchards
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_pocket_park_to_ramen_restaurant.png)](https://goo.gl/maps/9JuvyCzYj7nG6Ydf8)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -669,17 +662,15 @@ to Yumotokan
 (<span class="day_date">Monday April 26th</span> *)
 Part 4:
 <br>
-Walk <span class="km_source">19</span>km,
-From [Midorinomura Camping Ground](https://goo.gl/maps/2uRJNsLAnVYTt7tz9)
-To [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
-(<span class="km_total">197</span>km walked so far)
+Walk <span class="km_source">7</span>km,
+From [ラーメンショップ月夜野店 (Ramen restaurant)](https://goo.gl/maps/X5d9GgWhfrj5VVUM6)
+To [Yumotokan](https://goo.gl/maps/JrKtZynwBbX8mxvt7)
+(<span class="km_total">198</span>km walked so far)
 
-Will pass [ラーメンショップ月夜野店 (ramen restaurant)](https://goo.gl/maps/2qnVNvTcGVbbRPvq6)
+Will pass [7-Eleven Minakami Fuse Shop](https://goo.gl/maps/C7xvqBA9X6U1FKTt6)
 
-[![Walk 19km
-from Midorinomura
-to Yumotokan
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_10_midorinomura_to_yumotokan.png)](https://goo.gl/maps/8Vd6wPXiArJGjLMi7)
+[![Walk 7km From Ramen restaurant to Yumotokan via 7-Eleven Minakami Fuse Shop
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_ramen_restaurant_to_yumotokan.png)](https://goo.gl/maps/RmaqiwMWsT3ZBgZo8)
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
