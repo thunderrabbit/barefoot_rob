@@ -31,7 +31,7 @@ then rode Bandit, getting to sit in the front seat because there was no one else
 
 I use the front seat opportunity to take a video of François on the ride.
 
-https://www.youtube.com/watch?v=4YYlocxDbRE
+{{< youtube 4YYlocxDbRE >}}
 
 We then road looping coaster four times consecutively, twice standing, and twice sitting. For me, the sitting version is a little bit more challenging due to more apparent Gs as we are further from the center of the loop.
 
