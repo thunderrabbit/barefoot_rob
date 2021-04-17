@@ -16,7 +16,7 @@ date: 2021-04-18T00:02:45+09:00
 
 #### Just the Walking Meditations:
 
-* [16 April (金) 9am Rinko Park in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/)
+<!-- * [16 April (金) 9am Rinko Park in Yokohama](/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/) -->
 * [18 April (日) 2pm Higashimurayama Chuo Park](/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/)
 * [18 April (日) ~5pm along Lake Tama near Seibuen](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/)
 * [19 April (月) 2pm in Sayama Inariyama Prefectural Park](/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama)
