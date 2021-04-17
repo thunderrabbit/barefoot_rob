@@ -9,8 +9,9 @@ aliases: [
      "/quests/walk-to-niigata/2020/10/22day-by-day-plans-for-walking-route-330km-to-niigata/",
      "/quests/walk-to-niigata/2021/02/08day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/03day-by-day-plans-for-walking-route-400km-to-niigata/",
+     "/quests/walk-to-niigata/2021/04/09day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-04-09T12:02:45+09:00
+date: 2021-04-18T00:02:45+09:00
 ---
 
 #### Just the Walking Meditations:
@@ -31,50 +32,6 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Two</span>
-(<span class="day_date">Saturday April 17th</span> *)
-Part 1:
-<br>
-Walk <span class="km_source">4</span>km,
-from my house (not shown)
-To [Yomiuriland](https://goo.gl/maps/dJkUNxNEFZjMo723A)
-(<span class="km_total">25</span>km walked so far)
-
-I will walk from my house to Yomiuriland, possibly via 百合ヶ丘駅 or just go a more direct route.
-
-[![02 walk 04km to yomiuriland](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_yurigaoka_to_yomiuriland.png)](https://goo.gl/maps/5LVCq4b3AAPK4ULo7)
-
-[Join us **Saturday April 17th**
-in Yomiuriland](/events/2021/04/17start-walking-to-niigata-kickoff-party/)
-
-👉🏿 Let's enjoy riding roller coasters in Yomiuriland!
-<br>👉🏿 Anyone want to try the bungee?  It's not *that* tall!
-
-</div>
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Two</span>
-(<span class="day_date">Saturday April 17th</span> *)
-Part 2:
-<br>
-Walk <span class="km_source">8</span>km,
-From [Yomiuriland](https://goo.gl/maps/dJkUNxNEFZjMo723A)
-To [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
-(<span class="km_total">33</span>km walked so far)
-
-It will probably be dark by the time we leave Yomiuriland,
-so I doubt we will be able to see much near Tama River.  
-But we'll cross Tama River and then walk a bit to Chuokan Hotel.
-
-[![03 walk 08km to Chuokan hotel in Fuchu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_yomiuriland_to_chuokan_hotel.png)](https://goo.gl/maps/bWkSxvfpEYupLuzX6)
-
-</div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
@@ -153,6 +110,8 @@ For latest updates, [join our LINE group](/contact/)!
 [![Walk 9km Higashimurayama Shiritsu Fujimi Community Center to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_higashimurayama_center_to_hotel_restay.png)](https://goo.gl/maps/BRDVpH1BscbrAbfk6)
 
 </div>
+<details>
+<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
