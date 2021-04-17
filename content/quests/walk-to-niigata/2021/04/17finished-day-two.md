@@ -52,8 +52,8 @@ I did some of my infamous food combinations including ice cream and potato salad
 Again for getting to take any photos until François made it out of my pocket.
 
 
-[![2021 apr 17 mizuki francois fabien](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-02/thumbs/2021_apr_17_mizuki_francois_fabien.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-02/2021_apr_17_mizuki_francois_fabien.jpeg)
 [![2021 apr 17 michael francois mizuki](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-02/thumbs/2021_apr_17_michael_francois_mizuki.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-02/2021_apr_17_michael_francois_mizuki.jpeg)
+[![2021 apr 17 mizuki francois fabien](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-02/thumbs/2021_apr_17_mizuki_francois_fabien.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-02/2021_apr_17_mizuki_francois_fabien.jpeg)
 
 Super glad that the manager was cool and let us hang out until closing time, even though officially it says we can be there for just 90 minutes.
 
