@@ -1,8 +1,11 @@
 ---
-title: 'middle of Day 3, reverse order'
+title: 'middle of Day 3'
 author: 'Rob Nugen'
 location: 'geo:35.77297,139.41514;u=21.600000381469727'
 date: '2021-04-18T21:11:52+09:00'
+aliases: [
+"/quests/walk-to-niigata/2021/04/18middle-of-day-3-reverse-order/",
+]
 ---
 
 After standing at the train line for a while and getting pictures of François while next to the trains as they went by the broken fence, I discovered that one of the crossings nearby was for a very small path crossing the tracks.
