@@ -33,7 +33,17 @@ class="title" /></a>
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
 
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
 
+* Day <span class="day_source">Five</span>
+(<span class="day_date">Tuesday April 20th</span> *)
+
+ホテルウィルリゾート日高店 to Hotel Park Inn via 関越病院 (maybe)
+
+https://goo.gl/maps/icskFypsQ4exUSY69
+
+</div>
 
 <details>
 <summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
