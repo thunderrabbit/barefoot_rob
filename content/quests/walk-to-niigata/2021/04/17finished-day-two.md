@@ -39,7 +39,7 @@ I forgot to take a picture of the giant water slide with the water down to a tri
 
 Then we went to ride spin coaster, UFO ride, and the VR goggle ride where we put lights on the car beforehand.
 
-Then we rode teacups (as spinny as possible), then Bandit again.
+Then we rode teacups (as spinny as possible), then Bandit again.  I felt totally bumped around on Bandit the second time compared to the first.  Two main differences I noted: we were in the second seat of the car, not the front seat, and we had just gotten sickly dizzy on teacups.
 
 (( It's 23:56pm as I write this mostly using voice transcription with my phone while I'm sitting in the bathtub at the hotel. Good thing the phone is waterproof because I nearly fell asleep and lowered the phone into the bath water. ))
 
