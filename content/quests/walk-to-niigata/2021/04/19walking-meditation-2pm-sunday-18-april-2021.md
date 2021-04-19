@@ -4,10 +4,6 @@ author: 'Rob Nugen'
 date: '2021-04-19T08:10:28+09:00'
 ---
 
-Shraddhan and Yuna met me for walking meditation this day.
-
-We had a lovely time in the lovely park near Yasaka Station 八坂駅.
-
 [![2021 apr 18 shraddhan walking](//b.robnugen.com/tmp/day-03/thumbs/2021_apr_18_shraddhan_walking.jpeg)](//b.robnugen.com/tmp/day-03/2021_apr_18_shraddhan_walking.jpeg)
 
 [![2021 apr 18 yuna contemplating](//b.robnugen.com/tmp/day-03/thumbs/2021_apr_18_yuna_contemplating.jpeg)](//b.robnugen.com/tmp/day-03/2021_apr_18_yuna_contemplating.jpeg)
