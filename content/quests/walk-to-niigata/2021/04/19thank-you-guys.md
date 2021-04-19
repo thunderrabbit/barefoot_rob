@@ -5,9 +5,13 @@ location: 'geo:35.84873,139.38402;u=5.486785888671875'
 date: '2021-04-19T15:23:08+09:00'
 ---
 
-I happen to see some kids walking home from school I guess.. they were curious about my lack of shoes and my shirt so ask some questions to get details about my plan.
+I happened to see some kids walking home from school I guess..
+they were curious about my shirt lack of shoes
+so asked some questions to get details about my plan.
 
-I asked if anyone would like to take a picture and though I heard A chorus of five or so voices say yes, only two actually join me for the picture.
+I asked if anyone would like to take a picture
+and though I heard a chorus of five or so voices say yes,
+only two actually joined me for the picture.
 
 Thank you, courageous two!
 
