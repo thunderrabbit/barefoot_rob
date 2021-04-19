@@ -33,9 +33,6 @@ class="title" /></a>
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
 
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
-
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
@@ -91,6 +88,9 @@ To [Ranzan BBQ Tsuki River](https://goo.gl/maps/6Kogzy3aQgcGCJNk7)
 [![Walk 6km from Lawson Hatoyamaizumii Shop to Ranzan Valley BBQ Area](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_08_lawson_to_ranzan_valley_bbq.png)](https://goo.gl/maps/CJEwtgMhLqHbbnbo9)
 
 </div>
+
+<details>
+<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
