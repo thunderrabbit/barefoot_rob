@@ -5,6 +5,8 @@
 # 12 April 2021
 #
 
+# rsync caused havoc by wiping too much or leaving everything
+
 REMOTE_UNTRACKED_FILES="$1"
 
 # REMOTE_BFR_DIR should match ~/journal/untracked_remote_bfr_file_shower.sh
