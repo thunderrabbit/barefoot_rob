@@ -5,4 +5,4 @@
 # 12 April 2021
 #
 
-rsync -r bfr:barefoot_rob/content/quests/walk-to-niigata/2021/ ~/barefoot_rob/content/quests/walk-to-niigata/2021/
+rsync -r --remove-source-files bfr:barefoot_rob/content/ ~/barefoot_rob/content/
