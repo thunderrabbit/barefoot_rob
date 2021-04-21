@@ -38,61 +38,6 @@ These are maps of each segment, subject to change.  For the latest info, [PM me 
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
-* Day <span class="day_source">Five</span>
-(<span class="day_date">Tuesday April 20th</span> *)
-
-ホテルウィルリゾート日高店 to Hotel Park Inn via 関越病院 (maybe)
-
-https://goo.gl/maps/icskFypsQ4exUSY69
-
-</div>
-
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Six</span>
-(<span class="day_date">Wednesday April 21st</span> *)
-Part 1:
-<br>
-9am - 12noon pm:
-Walk <span class="km_source">9</span>km,
-From [Ranzan Valley BBQ Camp](https://goo.gl/maps/XHRSRBkjN2n1jtcM8)
-To [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8) closes at 3pm
-(<span class="km_total">97</span>km walked so far)
-
-[![Walk 9km From ranzan
-to Nokonoko Italian
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_ranzan_to_nokonoko.png
-)](https://goo.gl/maps/xtL5ioTrgWHiipbS7)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Six</span>
-(<span class="day_date">Wednesday April 21st</span> *)
-Part 2:
-<br>
-Walk <span class="km_source">7</span>km,
-From [のこのこ Italian restaurant](https://goo.gl/maps/CyPZ6je6E1MuKinb8)
-to [Hotel Spa Mu](https://spamu.jp/index.html)
-(<span class="km_total">104</span>km walked so far)
-**> 25% complete!!**
-
-Along the way:
-
-1. [Dai Sushi](https://goo.gl/maps/cfFVgS1Kxc6Zhyjo6)  (TODO: [call to confirm their hours](https://goo.gl/maps/gvKM5XdUTf9AYwcFA)　possible number 048-582-2577)
-
-[![Walk 07km
-From Nokonoko
-to Spamu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_15_nokonoko_to_spamu.png)](https://goo.gl/maps/BSsapmqYtv5unAb38)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
 * Day <span class="day_source">Seven</span>
 (<span class="day_date">Thursday April 22nd</span> *)
 Part 1:
@@ -131,6 +76,10 @@ To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 [![Walk 08km to hotel in Honjo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_matsuhisa_to_honjo_hotel.png)](https://goo.gl/maps/FQ3ozdMhanTvcmA86)
 
 </div>
+
+<details>
+<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
+
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
