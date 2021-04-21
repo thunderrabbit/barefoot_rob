@@ -15,4 +15,3 @@ I knew the trip would be tough, so continuing to move.  I think the honeymoon st
 * home
 
 Four stages of adaptation to new challenge (as offered by Jason when he gave me the Deep Blue, which has been amazing; thank you!)
-
