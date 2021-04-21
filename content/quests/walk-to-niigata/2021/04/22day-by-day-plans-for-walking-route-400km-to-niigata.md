@@ -27,7 +27,7 @@ date: 2021-04-22T05:50:45+09:00
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
 src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_mar_29_overview_map_to_replace_iframe.png"
-alt="Route across Honshu"
+alt="Route across Honshu (dates listed at this link are wrong; locations are off.  Refer to details below the map on this page)"
 class="title" /></a>
 
 #### Details:
