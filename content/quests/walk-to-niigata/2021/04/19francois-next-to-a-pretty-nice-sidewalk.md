@@ -1,5 +1,5 @@
 ---
-title: 'Francois next to a pretty nice sidewalk'
+title: 'François next to a pretty nice sidewalk'
 author: 'Rob Nugen'
 location: 'geo:35.78442,139.41589;u=3.7900924682617188'
 date: '2021-04-19T09:33:56+09:00'

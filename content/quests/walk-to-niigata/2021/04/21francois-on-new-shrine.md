@@ -1,5 +1,5 @@
 ---
-title: 'Francois on new shrine'
+title: 'François on new shrine'
 author: 'Rob Nugen'
 location: 'geo:36.03928,139.34668;u=102.10800170898438'
 date: '2021-04-21T09:05:44+09:00'

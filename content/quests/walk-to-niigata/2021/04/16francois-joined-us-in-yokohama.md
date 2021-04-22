@@ -1,5 +1,5 @@
 ---
-title: 'Francois joined us in Yokohama'
+title: 'François joined us in Yokohama'
 author: 'Rob Nugen'
 date: '2021-04-16T13:02:32+09:00'
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Francois and manhole cover with birds'
+title: 'François and manhole cover with birds'
 author: 'Rob Nugen'
 location: 'geo:35.86897,139.38016;u=55.400001525878906'
 date: '2021-04-19T16:35:13+09:00'

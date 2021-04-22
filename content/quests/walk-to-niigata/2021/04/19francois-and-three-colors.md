@@ -1,5 +1,5 @@
 ---
-title: 'Francois and three colors'
+title: 'François and three colors'
 author: 'Rob Nugen'
 location: 'geo:35.84272,139.38475;u=3.7900924682617188'
 date: '2021-04-19T14:42:34+09:00'
