@@ -34,52 +34,6 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Seven</span>
-(<span class="day_date">Thursday April 22nd</span> *)
-Part 1:
-<br>
-9am - 11am
-Walk <span class="km_source">9</span>km,
-From [Hotel Spa Mu](https://goo.gl/maps/eM6A3e9NeBu17dEa6) https://spamu.jp/index.html
-To [Cafe ポエム](https://goo.gl/maps/EKVdWhUNgcxEyEzWA) (open 11am - 2pm for lunch)
-(<span class="km_total">113</span>km walked so far)
-
-1. Write letters / postcards at [Cafe ポエム](https://goo.gl/maps/e1ccA3uEkeLLCz8y6) or [Ekimae Jido Park](https://goo.gl/maps/LLvCFf7gbxwwnATR9)
-
-[![Walk 9km
-From SPAMU
-to Cafe ポエム
-nearish Matsuhisa Station
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_08_spamu_to_cafe_tsumugi.png
-)](https://goo.gl/maps/KaYDSbWU8bH643CH8)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Seven</span>
-(<span class="day_date">Thursday April 22nd</span> *)
-Part 2:
-<br>
-2pm - 5pm
-Walk <span class="km_source">8</span>km,
-From [Cafe ポエム](https://goo.gl/maps/8HM9yd14T5ucEZdC7)
-To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
-(<span class="km_total">121</span>km walked so far)
-
-1. Mail postcards at [Misato Post Office](https://goo.gl/maps/kdt9THqZcspkZGii8) (open 9am - 5pm)
-
-[![Walk 08km to hotel in Honjo](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_matsuhisa_to_honjo_hotel.png)](https://goo.gl/maps/FQ3ozdMhanTvcmA86)
-
-</div>
-
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
-
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
@@ -91,78 +45,19 @@ Part 1:
 8:30am - 10:30am:
 Walk <span class="km_source">7</span>km,
 From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
-To [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
-(<span class="km_total">128</span>km walked so far)
-
-<!--  This park is far from a station but maybe I will unlock this later
-Enjoy Walking Meditation in Shiminnomori Park
--->
-
-[![Walk 12km from hotel in Honjo to Isesaki Shiminnomori Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_honjo_hotel_to_isesaki_shiminnomori_park.png)](https://goo.gl/maps/q7jXDRgXtnMvosUK6)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eght</span>
-(<span class="day_date">Friday April 23rd</span> *)
-Part 2:
-<br>
-11:30am - 13:00pm:
-Walk <span class="km_source">5</span>km,
-From [Isesaki Shiminnomori Park](https://goo.gl/maps/AZSLorHcyzeuSbQu8)
-To [Kezoji Park](https://goo.gl/maps/oqAQaVT2siyDHUuC7)
-(<span class="km_total">133</span>km walked so far)
-
-Hang out until 14:30pm at Kezoji Park
-
-[![Walk 5km from Isesaki Shiminnomori Park to Kezoji Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_feb_24_isesaki_shiminnomori_park_to_kezoji_park.png)](https://goo.gl/maps/nwdgKvAYi1ftkXN79)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eight</span>
-(<span class="day_date">Friday April 23rd</span> *)
-Part 3:
-<br>
-14:30 - 15:30:
-Walk <span class="km_source">3</span>km,
-From [Kezoji Park](https://goo.gl/maps/3vyoireebTe1fHL88)
-To [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/mL9dqcyUYpvsCNgf8)
-(<span class="km_total">136</span>km walked so far)
-
-[![Walk 3km
-Kezoji Park to 7-Eleven
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_kezoji_park_to_seven_eleven.png)](https://goo.gl/maps/JGKX75zHpehhBgVd7)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eight</span>
-(<span class="day_date">Friday April 23rd</span> *)
-Part 4:
-<br>
-16:00 - 18:00
-Walk <span class="km_source">6</span>km,
-From [7-Eleven 前橋二之宮町南店](https://goo.gl/maps/ZGkVuuXQiWWncu6Y6)
 To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
-(<span class="km_total">142</span>km walked so far)
+
+https://goo.gl/maps/zRd4QM9z6PEfJAxX6
 
 [Walking Meditation in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park) until 7pm
 
-[![Walk 6km
-7-Eleven to Maebashishioshima Park
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_seven_eleven_to_maebashioshima_park.png)](https://goo.gl/maps/EwpDHU9bxeGSWzobA)
-
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Eight</span>
 (<span class="day_date">Friday April 23rd</span> *)
-Part 5:
+Part 2:
 <br>
 19:00 - 19:45pm
 Walk <span class="km_source">2</span>km,
@@ -175,6 +70,10 @@ From Maebashishioshima Park to 前橋ホテルルカ
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_maebashi_oshima_park_to_hotel_ruka.png)](https://goo.gl/maps/A1Dom9fwjcBB1pzc6)
 
 </div>
+
+<details>
+<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
+
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
