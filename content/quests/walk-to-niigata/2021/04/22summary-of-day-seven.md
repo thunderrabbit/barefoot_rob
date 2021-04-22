@@ -22,3 +22,5 @@ To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 2. Get splinter ~~removed~~ cut out of my foot
 3. Eat dinner as the local antisthesia wore off
 4. hobble to hotel like omgayfkm
+5. client session 7pm
+6. go to sleep early
