@@ -21,3 +21,4 @@ To [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
 1. Mail postcards at [Misato Post Office](https://goo.gl/maps/kdt9THqZcspkZGii8) (open 9am - 5pm)
 2. Get splinter ~~removed~~ cut out of my foot
 3. Eat dinner as the local antisthesia wore off
+4. hobble to hotel like omgayfkm
