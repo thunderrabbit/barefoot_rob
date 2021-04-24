@@ -4,6 +4,40 @@ author: 'Rob Nugen'
 date: '2021-04-23T20:09:32+09:00'
 ---
 
+Summary of Day Eight
+
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Eight</span>
+(<span class="day_date">Friday April 23rd</span> *)
+Part 1:
+<br>
+8:30am - 10:30am:
+Walk <span class="km_source">7</span>km,
+From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
+To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
+
+https://goo.gl/maps/zRd4QM9z6PEfJAxX6
+
+[Walking Meditation in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park) until 7pm
+
+
+* Day <span class="day_source">Eight</span>
+(<span class="day_date">Friday April 23rd</span> *)
+Part 2:
+<br>
+19:00 - 19:45pm
+Walk <span class="km_source">2</span>km,
+From [Maebashishioshima Park](https://goo.gl/maps/ZNGCmgz5DkzL5PUQ8)
+To [Hotel Ruruka](https://g.page/hotel_luka?share)
+(<span class="km_total">144</span>km walked so far)
+
+</div>
+
+
+
+
 Summary of Day Eight *WAS*:
 
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->

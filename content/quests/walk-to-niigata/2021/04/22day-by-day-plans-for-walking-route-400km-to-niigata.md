@@ -13,7 +13,7 @@ aliases: [
      "/quests/walk-to-niigata/2021/04/18day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/22day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-04-22T05:50:45+09:00
+date: 2021-04-24T19:33:45+09:00
 ---
 
 #### Just the Walking Meditations:
@@ -34,109 +34,24 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eight</span>
-(<span class="day_date">Friday April 23rd</span> *)
-([spreadsheet](https://docs.google.com/spreadsheets/d/1tNs0zJIHT12jspRH3sNuv_Vx5qtLZtfO3Ku82-6Y76A/edit?usp=sharing))
-Part 1:
-<br>
-8:30am - 10:30am:
-Walk <span class="km_source">7</span>km,
-From [Saitama Grand hotel in Honjo](https://www.saitamagrandhotel.com/honjo/)
-To [Maebashishioshima Park](https://goo.gl/maps/dK1dpGaicsBHPHqbA)
-
-https://goo.gl/maps/zRd4QM9z6PEfJAxX6
-
-[Walking Meditation in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park) until 7pm
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eight</span>
-(<span class="day_date">Friday April 23rd</span> *)
-Part 2:
-<br>
-19:00 - 19:45pm
-Walk <span class="km_source">2</span>km,
-From [Maebashishioshima Park](https://goo.gl/maps/ZNGCmgz5DkzL5PUQ8)
-To [Hotel Ruruka](https://g.page/hotel_luka?share)
-(<span class="km_total">144</span>km walked so far)
-
-[![Walk 2km
-From Maebashishioshima Park to 前橋ホテルルカ
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_09_maebashi_oshima_park_to_hotel_ruka.png)](https://goo.gl/maps/A1Dom9fwjcBB1pzc6)
-
-</div>
-
-<details>
-<summary><i><b>Click here to see the rest of the walk plans..</b></i></summary>
-
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Nine</span>
-(<span class="day_date">Saturday April 24th</span> *)
-Part 1:
-<br>
-Walk <span class="km_source">4</span>km,
-From [Hotel Ruruka](https://g.page/hotel_luka?share)
-To [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
-(<span class="km_total">148</span>km walked so far)
-
-Pass by:
-
-1. [Maebashi Childrens Park](https://goo.gl/maps/C8RtNca4NecHyTCT8)
-
-[![Walk 4km from Hotel Ruruka to Luna Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_ruruka_to_luna_park.png)](https://goo.gl/maps/bPjDy3PTStycFcve9)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Nine</span>
-(<span class="day_date">Saturday April 24th</span> *)
-Part 2:
-<br>
-Walk <span class="km_source">10</span>km,
-From [Luna Park](https://goo.gl/maps/q2yUFJnM2ynKgXsa9)
-To [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9) (super public bath)
-(<span class="km_total">158</span>km walked so far)
 
 
-[![Walk 10km from Luna Park to Sky Terme Shibukawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_luna_park_to_sky_terme_shibukawa.png)](https://goo.gl/maps/BtqtcopX3FgPxfdH9)
 
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Nine</span>
-(<span class="day_date">Saturday April 24th</span> *)
-Part 3:
-<br>
-Walk <span class="km_source">3</span>km,
-From [Sky Terme Shibukawa](https://goo.gl/maps/wjJSFushThj6XKUm9)
-To [Hotel Tatsumi](https://goo.gl/maps/AHaL7N59DXABBX2F9)
-(<span class="km_total">161</span>km walked so far)
-
-[![Walk 3km from Sky Terme Shibukawa to Hotel Tatsumi](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_11_sky_terme_shibukawa_to_hotel_tatsumi.png)](https://goo.gl/maps/r4hMfgGqQ8AGdXdYA)
-
-</div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Ten</span>
 (<span class="day_date">Sunday April 25th</span> *)
 Part 1:
-<br>
+
+Drive with Lin to AU Shop to hopefully get a new handset
+
+Part 2:
+
 Walk <span class="km_source">6 ~ 10(?)</span>km,
 From [Hotel Tatsumi](https://goo.gl/maps/BboGQtXeDCV1Vf8w5)
 To [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/EtszY5v48GUnfPWc9)
 (<span class="km_total">169</span>km walked so far)
-
-(?) Possibly stop by [Shibukawa Skyland Park](https://g.page/skylandpark_official) via https://goo.gl/maps/yEppuH7sbBVKts1m8
 
 [![Walk ~8km
 from Hotel Tatsumi to Kaneshimaonsen Fuki Hot Spring
@@ -148,8 +63,8 @@ from Hotel Tatsumi to Kaneshimaonsen Fuki Hot Spring
 
 * Day <span class="day_source">Ten</span>
 (<span class="day_date">Sunday April 25th</span> *)
-Part 2:
-<br>
+Part 3:
+
 Walk <span class="km_source">10</span>km,
 From [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/CnqwjSSVngR8MgM47)
 To [Midorinomura Camping Ground](https://goo.gl/maps/MAao34q748ZT9mXX7)
@@ -161,6 +76,12 @@ Will turn left at [Planet Restroom](https://goo.gl/maps/QKyvUXP15HrDRZoSA) and R
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_10_kaneshima_onsen_to_midorinomura_campground.png)](https://goo.gl/maps/S8AneK7xAR67hwZR7)
 
 </div>
+
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
