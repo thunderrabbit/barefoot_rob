@@ -36,3 +36,8 @@ contract and they don't have a 5G phone.
 What an incredible reason is that?? Especially given that half the
 fuckin' time I look at my phone, it is on 4G because we are in the
 middle of no 5G towers.
+
+##### 20:08 Sunday 25 April 2021 JST
+
+Just called CSR and they will send a new same model of phone to my
+hotel location.  Nice!
