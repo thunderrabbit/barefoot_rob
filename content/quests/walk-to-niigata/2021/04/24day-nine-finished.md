@@ -4,9 +4,18 @@ author: 'Rob Nugen'
 date: '2021-04-24T19:26:46+09:00'
 ---
 
-As of yesterday, Lin planned to meet me at Sky Terme Shibukawa (super sento (public bath)).  She did that, but then *drove* me to the hotel because my phone died and I wanted to get it resolved as quickly as possible.  Phone shop is closed until tomorrow (and booked until May), but we will try to get in tomorrow and get a replacement handset.
+After my phone died, I was already pretty close to Sky Terme Shibukawa
+so was able to walk sans phone from Bando Bashi to Sky Terme Shibukawa
+with the help of locals pointing the way.
 
-Anyway, about today, the sento was nice, not huge, but has a great view, being 5 stories above green fields.  Nice open air deck.
+As of yesterday, Lin planned to meet me at Sky Terme Shibukawa (super
+sento (public bath)).  She did that, but then *drove* me to the hotel
+because my phone died and I wanted to get it resolved as quickly as
+possible.  Phone shop is closed until tomorrow (and booked until May),
+but we will try to get in tomorrow and get a replacement handset.
+
+Anyway, about today, the sento was nice, not huge, but has a great
+view, being 5 stories above green fields.  Nice open air deck.
 
 Day Nine Summary
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
