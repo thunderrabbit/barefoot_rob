@@ -1,10 +1,11 @@
 ---
-title: "Walking Update - Beginning to walk again Day Eleven"
+title: "Beginning to walk again: Day Eleven"
 tags: [ "chills", "hills", "quest", "update", "walk" ]
 author: Rob Nugen
 date: 2021-04-26T06:10:06+09:00
 aliases: [
-    "/quests/walk-to-niigata/2021/04/29walking-update-beginning-to-walk-again-day-eleven"
+    "/quests/walk-to-niigata/2021/04/29walking-update-beginning-to-walk-again-day-eleven",
+    "/quests/walk-to-niigata/2021/04/26beginning-to-walk-again-day-eleven",
 ]
 ---
 

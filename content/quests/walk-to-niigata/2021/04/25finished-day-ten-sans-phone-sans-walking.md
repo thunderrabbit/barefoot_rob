@@ -68,3 +68,39 @@ cannot make calls out, though.
 
 Oh, I was able to print the maps for the next 6 days or so.  Tomorrow
 I plan to start walking using paper maps.
+
+
+Here was the plan for Day 10
+
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Ten</span>
+(<span class="day_date">Sunday April 25th</span> *)
+Part 1:
+
+Drive with Lin to AU Shop to hopefully get a new handset
+
+Part 2:
+
+Walk <span class="km_source">6 ~ 10(?)</span>km,
+From [Hotel Tatsumi](https://goo.gl/maps/BboGQtXeDCV1Vf8w5)
+To [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/EtszY5v48GUnfPWc9)
+(<span class="km_total">169</span>km walked so far)
+
+</div>
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Ten</span>
+(<span class="day_date">Sunday April 25th</span> *)
+Part 3:
+
+Walk <span class="km_source">10</span>km,
+From [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/CnqwjSSVngR8MgM47)
+To [Midorinomura Camping Ground](https://goo.gl/maps/MAao34q748ZT9mXX7)
+(<span class="km_total">179</span>km walked so far)
+
+Will turn left at [Planet Restroom](https://goo.gl/maps/QKyvUXP15HrDRZoSA) and Restaurant Planet (closed)
+
+</div>

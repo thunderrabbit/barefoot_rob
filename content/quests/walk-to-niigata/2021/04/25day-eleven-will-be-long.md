@@ -1,10 +1,11 @@
 ---
-title: "Walking Update - Day Eleven will be long"
+title: "Day Eleven will be long"
 tags: [ "eleven", "quest", "tough", "update", "walk" ]
 author: Rob Nugen
 date: 2021-04-25T18:22:31+09:00
 aliases: [
     "/quests/walk-to-niigata/2021/04/29walking-update-day-eleven-will-be-long",
+    "/quests/walk-to-niigata/2021/04/25day-eleven-will-be-long",
 ]
 ---
 

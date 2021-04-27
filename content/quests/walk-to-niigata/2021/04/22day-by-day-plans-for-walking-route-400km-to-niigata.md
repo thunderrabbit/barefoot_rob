@@ -22,7 +22,7 @@ date: 2021-04-24T19:33:45+09:00
 <!-- * [18 April (日) 2pm Higashimurayama Chuo Park](/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/)
 * [18 April (日) ~5pm along Lake Tama near Seibuen](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/)
 * [19 April (月) 2pm in Sayama Inariyama Prefectural Park](/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama) -->
-* [23 April (金) 6pm in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park)
+<!-- * [23 April (金) 6pm in Maebashishioshima Park](/events/2021/04/23walking-meditation-in-maebashioshima-park) -->
 * (more meditations to come)
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
@@ -37,124 +37,10 @@ These are maps of each segment, subject to change.  For the latest info, [PM me 
 
 
 
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Ten</span>
-(<span class="day_date">Sunday April 25th</span> *)
-Part 1:
-
-Drive with Lin to AU Shop to hopefully get a new handset
-
-Part 2:
-
-Walk <span class="km_source">6 ~ 10(?)</span>km,
-From [Hotel Tatsumi](https://goo.gl/maps/BboGQtXeDCV1Vf8w5)
-To [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/EtszY5v48GUnfPWc9)
-(<span class="km_total">169</span>km walked so far)
-
-[![Walk ~8km
-from Hotel Tatsumi to Kaneshimaonsen Fuki Hot Spring
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_10_hotel_tatsumi_to_kaneshima_onsen.png)](https://goo.gl/maps/4fizYWqFqLrSEZMu8)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Ten</span>
-(<span class="day_date">Sunday April 25th</span> *)
-Part 3:
-
-Walk <span class="km_source">10</span>km,
-From [Kaneshimaonsen Fuki Hot Spring](https://goo.gl/maps/CnqwjSSVngR8MgM47)
-To [Midorinomura Camping Ground](https://goo.gl/maps/MAao34q748ZT9mXX7)
-(<span class="km_total">179</span>km walked so far)
-
-Will turn left at [Planet Restroom](https://goo.gl/maps/QKyvUXP15HrDRZoSA) and Restaurant Planet (closed)
-
-[![Walk 10km from Kaneshimaonsen Fuki Hot Spring to Midorinomura Camp Ground
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_10_kaneshima_onsen_to_midorinomura_campground.png)](https://goo.gl/maps/S8AneK7xAR67hwZR7)
-
-</div>
-
-
 <details>
 <summary><i><b>Click here to see
 the rest of the walk plans..</b></i></summary>
 
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eleven</span>
-(<span class="day_date">Monday April 26th</span> *)
-Part 1:
-<br>
-Walk <span class="km_source">5</span>km,
-From [Midorinomura Camping Ground](https://goo.gl/maps/Tz2EtJZqTm32zcPv9)
-To [Kodaira Meat Shop](https://goo.gl/maps/u6z8wBS5Ruap2geF7)
-(<span class="km_total">184</span>km walked so far)
-
-Will likely visit [上州たかやま 田んぼアート (field art)](https://goo.gl/maps/TUaNj9xixnEDDDfcA) for photos!
-
-[![Walk 5km
-from Midorinomura Camping Ground to Kodaira Meat Shop
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_midorinomura_camping_ground_to_kodaira_meat_shop.png)](https://goo.gl/maps/MsESdZi3kTwHDKAA9)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eleven</span>
-(<span class="day_date">Monday April 26th</span> *)
-Part 2:
-<br>
-Walk <span class="km_source">2</span>km up at 6% grade
-From [Kodaira Meat Shop](https://goo.gl/maps/wR9EjV3pbr2t8YSj6)
-To [赤根峠 ポケットパーク](https://goo.gl/maps/k7k2dxuiFLmmjyXG8)
-(<span class="km_total">186</span>km walked so far)
-
-[![Walk 2km From Kodaira Meat Shop to 赤根峠 ポケットパーク
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_kodaira_meat_shop_to_red_something_pocket_park.png)](https://goo.gl/maps/FTk9YHM5ahZza8wR7)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eleven</span>
-(<span class="day_date">Monday April 26th</span> *)
-Part 3:
-<br>
-Walk <span class="km_source">5</span>km,
-From [赤根峠 ポケットパーク](https://goo.gl/maps/HbjBAbqGgGxxAh4e6)
-To [ラーメンショップ月夜野店 (Ramen restaurant)](https://goo.gl/maps/TX8t5wcrDKS5okzk7)
-(<span class="km_total">191</span>km walked so far)
-
-Including through a tunnel with a narrow sidewalk..
-
-Will pass [Meigetsu Orchards](https://goo.gl/maps/ExNE3fy7vyAsvdPy5)
-
-[![Walk 5km 赤根峠 ポケットパーク to Ramen restaurant via Meigetsu Orchards
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_pocket_park_to_ramen_restaurant.png)](https://goo.gl/maps/9JuvyCzYj7nG6Ydf8)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Eleven</span>
-(<span class="day_date">Monday April 26th</span> *)
-Part 4:
-<br>
-Walk <span class="km_source">7</span>km,
-From [ラーメンショップ月夜野店 (Ramen restaurant)](https://goo.gl/maps/X5d9GgWhfrj5VVUM6)
-To [Yumotokan](https://goo.gl/maps/JrKtZynwBbX8mxvt7)
-(<span class="km_total">198</span>km walked so far)
-
-Will pass [7-Eleven Minakami Fuse Shop](https://goo.gl/maps/C7xvqBA9X6U1FKTt6)
-
-[![Walk 7km From Ramen restaurant to Yumotokan via 7-Eleven Minakami Fuse Shop
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_12_ramen_restaurant_to_yumotokan.png)](https://goo.gl/maps/RmaqiwMWsT3ZBgZo8)
-
-</div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 

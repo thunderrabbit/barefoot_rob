@@ -1,10 +1,11 @@
 ---
-title: "Walking Update - Arrived in Yomotokan Day 11"
+title: "Arrived in Yumotokan Day 11"
 tags: [ "eleven", "hills", "long", "quest", "tired", "update", "walk" ]
 author: Rob Nugen
 date: 2021-04-26T15:45:18+09:00
 aliases: [
-    "/quests/walk-to-niigata/2021/04/29walking-update-arrived-in-yomotokan-day-11"
+    "/quests/walk-to-niigata/2021/04/29walking-update-arrived-in-yomotokan-day-11",
+    "/quests/walk-to-niigata/2021/04/26arrived-in-yumotokan-day-11",
 ]
 ---
 
