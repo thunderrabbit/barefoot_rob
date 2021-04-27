@@ -35,6 +35,53 @@ I thought these leaves were cute and wish I had made them more visible.  It was 
 
 [![2021 apr 26 little bitty leaves](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_little_bitty_leaves.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_little_bitty_leaves.jpeg)
 
+
+
+Francois on a truck scale
+
+[![2021 apr 27 francois on truck scale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_on_truck_scale.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_on_truck_scale.jpeg)
+[![2021 apr 27 francois not registering on the scale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_not_registering_on_the_scale.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_not_registering_on_the_scale.jpeg)
+
+We have walked quite a bit!
+
+[![2021 apr 27 one hundred fifty-nine kilometers from tokyo](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_one_hundred_fifty-nine_kilometers_from_tokyo.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_one_hundred_fifty-nine_kilometers_from_tokyo.jpeg)
+
+Wow that solar panel is big for just one support..
+
+[![2021 apr 27 weirdly supported solar panel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_weirdly_supported_solar_panel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_weirdly_supported_solar_panel.jpeg)
+
+Oh it rotates and tilts to follow the sun!
+
+[![2021 apr 27 solar panel rotator](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_solar_panel_rotator.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_solar_panel_rotator.jpeg)
+
+It made small adjustments every 30 seconds or so
+
+[![2021 apr 27 solar panel tilter](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_solar_panel_tilter.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_solar_panel_tilter.jpeg)
+
+Flowers
+
+[![2021 apr 27 non specific shape of flowers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_non_specific_shape_of_flowers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_non_specific_shape_of_flowers.jpeg)
+[![2021 apr 27 v specific shape of flowers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_v_specific_shape_of_flowers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_v_specific_shape_of_flowers.jpeg)
+[![2021 apr 27 less specific shape of flowers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_less_specific_shape_of_flowers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_less_specific_shape_of_flowers.jpeg)
+
+Rivers
+
+[![2021 apr 27 curvy river](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_curvy_river.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_curvy_river.jpeg)
+[![2021 apr 27 straight river maybe](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_straight_river_maybe.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_straight_river_maybe.jpeg)
+
+What does this say?
+
+[![2021 apr 27 warning sign](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_warning_sign.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_warning_sign.jpeg)
+
+
+[![2021 apr 27 bridge behind trees](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_bridge_behind_trees.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_bridge_behind_trees.jpeg)
+[![2021 apr 27 red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_red_bridge.jpeg)
+[![2021 apr 27 under trees under bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_under_trees_under_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_under_trees_under_bridge.jpeg)
+[![2021 apr 27 spinner thingie](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_spinner_thingie.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_spinner_thingie.jpeg)
+[![2021 apr 27  map near yumotokan](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27__map_near_yumotokan.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27__map_near_yumotokan.jpeg)
+
+
+
 Here was the plan for Day Eleven
 
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
