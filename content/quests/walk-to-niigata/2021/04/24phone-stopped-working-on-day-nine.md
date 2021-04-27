@@ -6,6 +6,13 @@ date: 2021-04-24T19:13:53+09:00
 draft: false
 ---
 
+<img
+src="//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_tone_river.jpeg"
+alt="2021 April 24th my phone died on Day 9 of my walk"
+class="title" />
+
+My phone conked out while I was walking over Bando Bridge over Tone River
+
 Of all the things I did not expect to put a pause in my walk: phone
 not working is pretty high on the list.
 

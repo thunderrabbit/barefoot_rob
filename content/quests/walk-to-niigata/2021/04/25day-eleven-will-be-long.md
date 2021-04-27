@@ -22,7 +22,7 @@ a result.  Printed maps at 7-11 and plan to use them tomorrow to walk.
 #### Now
 
 Lin is resting beside me and noted tomorrow is going to be a bit of a
-long day walking.  I am grateful for my day off today!
+long day walking.  I am grateful for my day off today! (Day 10)
 
 #### Coming up
 
