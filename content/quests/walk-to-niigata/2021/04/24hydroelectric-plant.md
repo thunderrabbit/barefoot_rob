@@ -2,9 +2,10 @@
 title: "Hydroelectric Plant"
 tags: [ "hydroelectric", "photos", "quest", "update", "walk" ]
 author: Rob Nugen
-date: 2021-04-26T11:41:09+09:00
+date: '2021-04-24T13:05:26+09:00'
 aliases: [
-    "/quests/walk-to-niigata/2021/04/26hydroelectric-plant",
+"/quests/walk-to-niigata/2021/04/26hydroelectric-plant",
+"/quests/walk-to-niigata/2021/04/24hydroelectric-plant",
 ]
 ---
 
