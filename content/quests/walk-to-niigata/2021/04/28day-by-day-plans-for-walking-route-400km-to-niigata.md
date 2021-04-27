@@ -12,8 +12,9 @@ aliases: [
      "/quests/walk-to-niigata/2021/04/09day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/18day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/22day-by-day-plans-for-walking-route-400km-to-niigata/",
+     "/quests/walk-to-niigata/2021/04/28day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-04-24T19:33:45+09:00
+date: 2021-04-27T19:33:45+09:00
 ---
 
 #### Just the Walking Meditations:
