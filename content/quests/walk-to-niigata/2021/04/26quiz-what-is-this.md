@@ -1,5 +1,5 @@
 ---
-title: "Quiz: what is this"
+title: "Quiz: what is this?"
 tags: [ "picture", "quest", "quiz", "update", "walk" ]
 author: Rob Nugen
 date: 2021-04-26T11:13:59+09:00
