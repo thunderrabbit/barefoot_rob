@@ -10,7 +10,7 @@ aliases: [
 
 It is late on Day 12 and I just finished uploading Day 9 and Day 11 photos..
 
-Day 12 will have to wait.  Day photos have been uploaded to Smugmug for now
+Day 12 will have to wait.  Day 12 photos have been uploaded to Smugmug for now
 
 https://thunderrabbit.smugmug.com/Travel/Japan/Quests/2021-walk-to-Niigata/Day-12-2021-april-27/
 
