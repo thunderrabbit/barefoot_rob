@@ -13,6 +13,32 @@ src=""
 alt="Update from the road"
 class="title" />
 
+My phone conked out while I was walking over Bando Bridge over Tone River
+
+[![2021 apr 26 tone river](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_tone_river.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_tone_river.jpeg)
+
+
+Old school fire hydrant
+
+[![2021 apr 26 hydrant from 1992](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_hydrant_from_1992.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_hydrant_from_1992.jpeg)
+
+Fancy new curb caught my eye.  Why was this section redone?
+
+[![2021 apr 26 fancy new curb](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_fancy_new_curb.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_fancy_new_curb.jpeg)
+
+This may be a manhole cover of an eggplant carrying a telescope.
+
+[![2021 apr 26 manhole cover with water character holding telescope](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_manhole_cover_with_water_character_holding_telescope.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_manhole_cover_with_water_character_holding_telescope.jpeg)
+
+A bridge for Akane
+
+[![2021 apr 26 akane bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_akane_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_akane_bridge.jpeg)
+
+I thought these leaves were cute and wish I had made them more visible.  It was quite sunny so hard to see what the screen was seeing
+
+[![2021 apr 26 little bitty leaves](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_little_bitty_leaves.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_little_bitty_leaves.jpeg)
+
+
 
 
 Here was the plan for Day Eleven

@@ -35,45 +35,6 @@ class="title" /></a>
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
 
-
-
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
-
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Twelve</span>
-(<span class="day_date">Tuesday April 27th</span> *)
-Part 1:
-<br>
-Walk <span class="km_source">4</span>km,
-From [Yumotokan](https://goo.gl/maps/cijTraJ8KDRvAoBH7)
-To [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
-(<span class="km_total">201</span>km walked so far)
-**> 50% complete!!**
-
-Oh nooo the Bungy jump location seems to be closed April 27th!!
-
-[![Walk 04km to bungee jump](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_17_yumotokan_to_bungy_japan_sarugakyo.png)](https://goo.gl/maps/uBbZKq8htvqJzEZ99)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Twelve</span>
-(<span class="day_date">Tuesday April 27th</span> *)
-Part 2:
-<br>
-Walk <span class="km_source">2</span>km,
-From [Bungy Japan Sarugakyo](https://g.page/sarugakyo-bungy?share)
-To [Sports Inn Fujiya](https://goo.gl/maps/b5wA3i7BLJ3H4BvN7)
-(<span class="km_total">203</span>km walked so far)
-
-[![Walk 06km from bungee jump to Sports Inn Fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_25_bungy_to_sports_inn_fujiya.png)](https://goo.gl/maps/kty4uPThdQditLMq7)
-
-</div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
@@ -104,6 +65,12 @@ to Family House Akashiya
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_sports_inn_fujiya_family_house_akashiya.png)](https://goo.gl/maps/zfJWheGEa9n6Ywo27)
 
 </div>
+
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
