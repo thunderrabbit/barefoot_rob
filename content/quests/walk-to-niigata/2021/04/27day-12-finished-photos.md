@@ -2,17 +2,17 @@
 title: "Day 12 finished (photos)"
 tags: [ "jason", "phoneless", "photos", "quest", "update", "walk" ]
 author: Rob Nugen
-date: 2021-04-27T20:11:09+09:00
+date: 2021-04-27T21:11:09+09:00
 aliases: [
     "/quests/walk-to-niigata/2021/04/27day-12-finished-photos",
 ]
 ---
 
-<img
-src=""
-alt="Update from the road"
-class="title" />
+It is late on Day 12 and I just finished uploading Day 9 and Day 11 photos..
 
+Day 12 will have to wait.  Day photos have been uploaded to Smugmug for now
+
+https://thunderrabbit.smugmug.com/Travel/Japan/Quests/2021-walk-to-Niigata/Day-12-2021-april-27/
 
 
 Here was the plan for Day Twelve
