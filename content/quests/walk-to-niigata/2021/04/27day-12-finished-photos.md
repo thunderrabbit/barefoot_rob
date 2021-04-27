@@ -2,7 +2,7 @@
 title: "Day 12 finished (photos)"
 tags: [ "jason", "phoneless", "photos", "quest", "update", "walk" ]
 author: Rob Nugen
-date: 2021-04-27T16:11:09+09:00
+date: 2021-04-27T20:11:09+09:00
 aliases: [
     "/quests/walk-to-niigata/2021/04/27day-12-finished-photos",
 ]

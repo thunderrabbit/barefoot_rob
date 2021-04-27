@@ -2,7 +2,7 @@
 title: "Day 13 will likely be challenging"
 tags: [ "maps", "plan", "quest", "update", "walk" ]
 author: Rob Nugen
-date: 2021-04-27T18:41:09+09:00
+date: 2021-04-27T19:41:09+09:00
 aliases: [
     "/quests/walk-to-niigata/2021/04/28day-13-will-likely-be-challenging",
 ]
