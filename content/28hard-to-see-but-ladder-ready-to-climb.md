@@ -10,3 +10,5 @@ Oh my gosh there's a ladder right there across the highway from us but there's a
 [![2021 apr 27 i want to climb this ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_i_want_to_climb_this_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_i_want_to_climb_this_ladder.jpeg)          
 
 Later I decided these ladders are for the monkeys in the area because the concrete walls are hard to climb.
+
+(the black smear in the photo is a car entering the frame)
