@@ -15,3 +15,5 @@ And between the trees we can just barely make out the tunnel that we're walking 
 The image is over 5 MB so I cannot upload it now.    here's a placeholder image I'll fix it later hopefully.
 
 [![2021 apr 27 tunnel visible between the trees](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-013/thumbs/2021_apr_27_tunnel_visible_between_the_trees.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-013/2021_apr_27_tunnel_visible_between_the_trees.jpeg)          
+
+((8:48am Thursday 29 April 2021 (Day 14) Having lots of trouble getting this image uploaded.))
