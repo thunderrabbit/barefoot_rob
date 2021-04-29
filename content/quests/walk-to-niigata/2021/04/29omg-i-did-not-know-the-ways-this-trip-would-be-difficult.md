@@ -17,6 +17,7 @@ I had a good cry this morning with Shraddhan on our daily call.
 * not able to find the photo I took yesterday
 * not getting the photo I wanted (and basically too late to go back)
 * and it's raining today
+* camera could not use 32MB card
 
 Plan for yesterday was
 
