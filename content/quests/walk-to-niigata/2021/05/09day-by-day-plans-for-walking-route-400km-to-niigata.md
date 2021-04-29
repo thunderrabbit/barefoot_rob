@@ -30,10 +30,6 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
-
 <div class="walk-segment">
 
 * Day <span class="day_source">Fifteen</span>
@@ -80,6 +76,12 @@ To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
 [![Walk 07km from Kagura White Horse Inn to echigo yuzawa Hirokawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_white_horse_to_hirokawa_hotel.png)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
 
 </div>
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
+
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
