@@ -27,4 +27,29 @@ What did they write on this sign?
 
 Cherry blossoms are nearly in full bloom here
 
-[![2021 apr 29 cherry blossoms now blooming](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_cherry_blossoms_now_blooming.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_cherry_blossoms_now_blooming.jpeg)          
+[![2021 apr 29 cherry blossoms now blooming](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_cherry_blossoms_now_blooming.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_cherry_blossoms_now_blooming.jpeg)
+
+
+Here was the plan for today but we skipped Dragondola because the weather was cloudy and seemed like we would not be able to see anything anyway.
+
+<div class="walk-segment">
+
+* Day <span class="day_source">Fourteen</span>
+(<span class="day_date">Thursday April 29th</span> *)
+Part 1:
+<br>
+Walk <span class="km_source">3</span>km,
+From [Family House Akashiya](https://goo.gl/maps/43Jynj1L11zv7dTC9)
+To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
+(<span class="km_total">220</span>km walked so far)
+
+* Day <span class="day_source">Fourteen</span>
+(<span class="day_date">Thursday April 29th</span> *)
+Part 2:
+<br>
+Walk <span class="km_source">7</span>km,
+From [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
+To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
+(<span class="km_total">227</span>km walked so far)
+
+</div>

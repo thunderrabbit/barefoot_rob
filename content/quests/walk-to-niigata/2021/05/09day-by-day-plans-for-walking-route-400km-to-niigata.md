@@ -14,7 +14,7 @@ aliases: [
      "/quests/walk-to-niigata/2021/04/22day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/28day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-04-29T08:52:20+09:00
+date: 2021-04-29T16:52:20+09:00
 ---
 
 <!-- #### Just the Walking Meditations: -->
@@ -29,37 +29,6 @@ class="title" /></a>
 #### Details:
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
-
-
-<div class="walk-segment">
-
-* Day <span class="day_source">Fourteen</span>
-(<span class="day_date">Thursday April 29th</span> *)
-Part 1:
-<br>
-Walk <span class="km_source">3</span>km,
-From [Family House Akashiya](https://goo.gl/maps/43Jynj1L11zv7dTC9)
-To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
-(<span class="km_total">220</span>km walked so far)
-
-[![Walk 03km to dragondola](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_akashiya_to_dragondola.png)](https://goo.gl/maps/ahRhhdeoTS5g1Y6KA)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Fourteen</span>
-(<span class="day_date">Thursday April 29th</span> *)
-Part 2:
-<br>
-Walk <span class="km_source">7</span>km,
-From [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
-To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
-(<span class="km_total">227</span>km walked so far)
-
-[![Walk 07km from Dragondola to Lodge Montoze](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_dragondola_to_lodge_montoze.png)](https://goo.gl/maps/ury1z75cxJRbmQqT9)
-
-</div>
 
 <details>
 <summary><i><b>Click here to see
