@@ -1,27 +1,27 @@
 ---
 title: 'red bridge and abandoned trampoline building'
 author: 'Rob Nugen'
-date: '2021-04-28T18:54:16+09:00'
+date: '2021-04-28T09:14:16+09:00'
 ---
 
 
-Bridge pretty near Sarugakyo Onsen area
+Bridge pretty close to Sarugakyo Onsen area
 
 [![2021 apr 28 red bridge from the side](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_red_bridge_from_the_side.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_red_bridge_from_the_side.jpeg)
-
-909 am
 
 This was taken from the same point I just took the Red bridge picture
 
 [![2021 apr 28 valley underlooking red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_valley_underlooking_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_valley_underlooking_red_bridge.jpeg)
 
-916 a.m. approaching the Red bridge 
+916 a.m. approaching the Red bridge
 
 [![2021 apr 28 approaching the red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_approaching_the_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_approaching_the_red_bridge.jpeg)
 
-9:18am walking on the bridge
+Jason took pics of me on the Red bridge
 
-[![2021 apr 28 walking on the red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_walking_on_the_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_walking_on_the_red_bridge.jpeg)
+[![2021 apr 28 rob cheese on red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_cheese_on_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_cheese_on_red_bridge.jpeg)
+
+[![2021 apr 28 rob walking on red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_walking_on_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_walking_on_red_bridge.jpeg)
 
 Built in 1963
 
