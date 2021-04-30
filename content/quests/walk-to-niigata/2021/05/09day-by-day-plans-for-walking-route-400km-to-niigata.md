@@ -43,17 +43,25 @@ To [Kagura White Horse Inn](https://goo.gl/maps/jxFH8Yjw76n3e4dh8)
 
 There is a tunnel on Highway 17
 just north of Lodge Montoze,
-through which I cannot safely walk
-because there are no sidewalks.  
+through which I can ~~not~~ safely walk
+~~because~~ though there are no sidewalks.  
 One of my skiing friends said
 there will likely be very few skiers
-by this date, so I can likely
+by this date, so I can ~~likely
 use the ski slopes to the west
 of the tunnel, possibly using
-Tashiro Ropeway.
+Tashiro Ropeway.~~
+
 I prefer walking if possible,
 but we shall see exactly
 what *is* possible!
+
+Update 30 April 2021:  Owner of Montoze Lodge said
+there is no reasonable way to go around the mountain.
+Must go through the tunnel.
+Be careful or he will give us a ride.
+
+We were careful and had a [great time finding a whole magical world](/quests/walk-to-niigata/2021/04/30found-a-secret-door-out-of-tunnel/).
 
 
 [![Walk 06km
@@ -91,13 +99,10 @@ the rest of the walk plans..</b></i></summary>
 <br>
 Walk <span class="km_source">18</span>km,
 From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
-To [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/9Vh8oyT9iXbBfcai9)
-(<span class="km_total">258</span>km walked so far)
 
-[![Walk 18km
-from Hirokawa Hotel
-to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
-](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_hirokawa_to_6_day_city_onsen_biz_hotel.png)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
+To Muikamacchi Hutte
+
+https://goo.gl/maps/PPHFZCVyzfrs1GgAA
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
@@ -108,11 +113,13 @@ to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
 1 part:
 <br>
 Walk <span class="km_source">20</span>km,
-From [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](https://goo.gl/maps/keGzkXfLb5W3i7j69)
+From Muikamacchi Hutte
+
 To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 (<span class="km_total">278</span>km walked so far)
 
-[![Walk 20km from 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉） to Sudaya Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_six_day_onsen_to_sudaya_inn.png)](https://goo.gl/maps/s2FPFxj3vQcdJDtX6)
+https://goo.gl/maps/PPHFZCVyzfrs1GgAA
+
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
