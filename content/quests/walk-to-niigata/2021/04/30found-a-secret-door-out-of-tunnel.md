@@ -33,6 +33,8 @@ Hmmm if only there were a way to go outside.
 
 Walked a few steps further and discovered two huge doors 4 meters tall, standing wide open to the beautiful forest outside.
 
+geo:36.858386,138.773803
+
 [![2021 apr 30 a huge set of doors appeared](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_a_huge_set_of_doors_appeared.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_a_huge_set_of_doors_appeared.jpeg)
 
 The middle hinge was higher than I am tall!
@@ -53,4 +55,27 @@ On top of the ladder I see the windowed tunnel was actually a connector between 
 
 I could almost make out the name of the end of the first tunnel
 
-[![2021 apr 30 the north end of southern tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_the_north_end_of_southern_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_the_north_end_of_southern_tunnel.jpeg)          
+[![2021 apr 30 the north end of southern tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_the_north_end_of_southern_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_the_north_end_of_southern_tunnel.jpeg)   
+
+
+I'm on top of the world (of happiness)!
+
+[![2021 apr 30 selfie atop ladder between tunnels](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_selfie_atop_ladder_between_tunnels.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_selfie_atop_ladder_between_tunnels.jpeg)
+
+Back down the ladder looked a bit spooky and was totally fine.
+
+[![2021 apr 30 back down the ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_back_down_the_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_back_down_the_ladder.jpeg)
+
+Looking back, I could just about see the name of the second tunnel
+
+[![2021 apr 30 almost see the name of the second tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_almost_see_the_name_of_the_second_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_almost_see_the_name_of_the_second_tunnel.jpeg)
+[![2021 apr 30 exploring the area between tunnels](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_exploring_the_area_between_tunnels.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_exploring_the_area_between_tunnels.jpeg)
+[![2021 apr 30 i wonder if there is something over there](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_i_wonder_if_there_is_something_over_there.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_i_wonder_if_there_is_something_over_there.jpeg)
+
+These wall holders really intrigue me
+
+[![2021 apr 30 looking at wall holder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_looking_at_wall_holder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_looking_at_wall_holder.jpeg)
+
+Cool!  It opens up into a larger space..  including a ladder!
+
+[![2021 apr 30 found the ladder back here](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_found_the_ladder_back_here.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_found_the_ladder_back_here.jpeg)
