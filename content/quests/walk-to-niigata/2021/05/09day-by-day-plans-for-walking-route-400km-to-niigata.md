@@ -42,7 +42,7 @@ From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
 
 To Muikamacchi Hutte
 
-https://goo.gl/maps/PPHFZCVyzfrs1GgAA
+https://goo.gl/maps/1VKdCF6QGi7d29WD6
 
 </div>
 
@@ -65,8 +65,7 @@ From Muikamacchi Hutte
 To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
 (<span class="km_total">278</span>km walked so far)
 
-https://goo.gl/maps/PPHFZCVyzfrs1GgAA
-
+https://goo.gl/maps/GYWkWbniJ3hazKEB9
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
