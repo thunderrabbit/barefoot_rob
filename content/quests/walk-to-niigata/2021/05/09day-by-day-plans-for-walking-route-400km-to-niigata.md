@@ -30,67 +30,7 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-<div class="walk-segment">
 
-* Day <span class="day_source">Fifteen</span>
-(<span class="day_date">Friday April 30th</span> *)
-1 part:
-<br>
-Walk <span class="km_source">6</span>km,
-From [Lodge Montoze](https://goo.gl/maps/RHXs15jPyHPNVPyX6)
-To [Kagura White Horse Inn](https://goo.gl/maps/jxFH8Yjw76n3e4dh8)
-(<span class="km_total">233</span>km walked so far)
-
-There is a tunnel on Highway 17
-just north of Lodge Montoze,
-through which I can ~~not~~ safely walk
-~~because~~ though there are no sidewalks.  
-One of my skiing friends said
-there will likely be very few skiers
-by this date, so I can ~~likely
-use the ski slopes to the west
-of the tunnel, possibly using
-Tashiro Ropeway.~~
-
-I prefer walking if possible,
-but we shall see exactly
-what *is* possible!
-
-Update 30 April 2021:  Owner of Montoze Lodge said
-there is no reasonable way to go around the mountain.
-Must go through the tunnel.
-Be careful or he will give us a ride.
-
-We were careful and had a [great time finding a whole magical world](/quests/walk-to-niigata/2021/04/30found-a-secret-door-out-of-tunnel/).
-
-
-[![Walk 06km
-from Lodge Montoze
-to Kagura White Horse Inn](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_montoze_to_white_horse_inn.png)](https://goo.gl/maps/BY2oHijT5LBUC5dL7)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Sixteen</span>
-(<span class="day_date">Saturday May 1st</span> *)
-1 part:
-<br>
-Walk <span class="km_source">7</span>km,
-From [Kagura White Horse Inn](https://goo.gl/maps/2AudNcQR7T3QpVmG9)
-To [Echigo Yuzawa Hirokawa](https://goo.gl/maps/ANN6Rf7ktQ9FPPVR8)
-(<span class="km_total">240</span>km walked so far)
-
-[![Walk 07km from Kagura White Horse Inn to echigo yuzawa Hirokawa](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_white_horse_to_hirokawa_hotel.png)](https://goo.gl/maps/RFfN7jWY9YySRdfX7)
-
-</div>
-
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
-
-
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Seventeen</span>
@@ -105,7 +45,14 @@ To Muikamacchi Hutte
 https://goo.gl/maps/PPHFZCVyzfrs1GgAA
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
+
+
 <div class="walk-segment">
 
 * Day <span class="day_source">Eighteen</span>
