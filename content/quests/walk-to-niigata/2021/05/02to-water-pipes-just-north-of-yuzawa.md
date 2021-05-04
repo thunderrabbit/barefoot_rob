@@ -1,10 +1,9 @@
 ---
-title: 'to water pipes just north of Yuzawa'
+title: 'two water pipes just north of Yuzawa'
 author: 'Rob Nugen'
 location: 'geo:36.94433,138.801;u=50.707000732421875'
 date: '2021-05-02T09:15:52+09:00'
 ---
-
 
 Two giant water pipes begging for me to climb them..
 

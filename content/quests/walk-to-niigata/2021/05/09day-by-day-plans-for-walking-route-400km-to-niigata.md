@@ -26,22 +26,6 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-
-<div class="walk-segment">
-
-* Day <span class="day_source">Seventeen</span>
-(<span class="day_date">Sunday May 2nd</span> *)
-1 part:
-<br>
-Walk <span class="km_source">18</span>km,
-From [Echigo Yuzawa Hirokawa](https://goo.gl/maps/r96BygqeXbYe1THj6)
-
-To Muikamacchi Hutte
-
-https://goo.gl/maps/1VKdCF6QGi7d29WD6
-
-</div>
-
 <div class="walk-segment">
 
 * Day <span class="day_source">Twenty</span>
