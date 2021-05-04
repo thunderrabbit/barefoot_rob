@@ -14,12 +14,8 @@ aliases: [
      "/quests/walk-to-niigata/2021/04/22day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/28day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-05-02T07:52:20+09:00
+date: 2021-05-04T20:52:20+09:00
 ---
-
-<!-- #### Just the Walking Meditations: -->
-
-<!-- * (more meditations to come) -->
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
 src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_mar_29_overview_map_to_replace_iframe.png"
@@ -46,45 +42,6 @@ https://goo.gl/maps/1VKdCF6QGi7d29WD6
 
 </div>
 
-
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
-
-
-
-<div class="walk-segment">
-
-* Day <span class="day_source">Eighteen</span>
-(<span class="day_date">Monday May 3rd</span> *)
-1 part:
-<br>
-Walk <span class="km_source">20</span>km,
-From Muikamacchi Hutte
-
-To [須田屋旅館　Sudaya Inn](https://goo.gl/maps/HoS8FAY3otAAWVyp8)
-(<span class="km_total">278</span>km walked so far)
-
-https://goo.gl/maps/GYWkWbniJ3hazKEB9
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-<div class="walk-segment">
-
-* Day <span class="day_source">Nineteen</span>
-(<span class="day_date">Tuesday May 4th</span> *)
-1 part:
-<br>
-Walk <span class="km_source">19</span>km,
-From [Sudaya Inn](https://goo.gl/maps/6iPB9Un5KK1WBkzJ7)
-To somewhere near [Shinanogawa Kasen Park
-信濃川河川公園](https://goo.gl/maps/772bic4Ed7V7i4hv6)
-(<span class="km_total">297</span>km walked so far) **_nearly_ 75% complete!**
-
-[![Walk 19km from Sudaya Inn to Shinanogawa Kasen Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_sudaya_to_shinanogawa_park.png)](https://goo.gl/maps/JNN2mw4aXHQWpnHt5)
-
-</div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
 
 * Day <span class="day_source">Twenty</span>
@@ -100,7 +57,11 @@ To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
 [![Walk 13km from Shinanogawa Kasen Park to 旅館 竹花屋](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_shinanogawa_park_to_bamboo_flower_ya.png)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
 <div class="walk-segment">
 
 * Day <span class="day_source">Twenty-one</span>
