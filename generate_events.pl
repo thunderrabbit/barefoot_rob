@@ -47,7 +47,7 @@ my %event_tag_hashes = (
 my %event_title_prefixes = (
     "weekly_alignment" => "Weekly Alignment - ",
     "walking_meditation" => "Walking Meditation ",
-    "quest_update" => "Walking Update - ",
+    "quest_update" => "",
 );
 
 my $what_kinda_event = get_event_type(sort keys %event_template_files);
