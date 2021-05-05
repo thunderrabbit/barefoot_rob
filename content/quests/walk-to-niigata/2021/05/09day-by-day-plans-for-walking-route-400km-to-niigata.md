@@ -14,7 +14,7 @@ aliases: [
      "/quests/walk-to-niigata/2021/04/22day-by-day-plans-for-walking-route-400km-to-niigata/",
      "/quests/walk-to-niigata/2021/04/28day-by-day-plans-for-walking-route-400km-to-niigata/",
  ]
-date: 2021-05-04T20:52:20+09:00
+date: 2021-05-06T04:38:20+09:00
 ---
 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1A1OVQwqxKwVBHxJ4jt_b80Fl6itn9R05&usp=sharing"><img
@@ -26,25 +26,6 @@ class="title" /></a>
 
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
-<div class="walk-segment">
-
-* Day <span class="day_source">Twenty</span>
-(<span class="day_date">Wednesday May 5th</span> *)
-1 part:
-<br>
-Walk <span class="km_source">13</span>km,
-From somewhere near [Shinanogawa Kasen Park
-信濃川河川公園](https://goo.gl/maps/cH3vkzMVdZ6nmfDq9)
-To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
-(<span class="km_total">310</span>km walked so far)
-
-[![Walk 13km from Shinanogawa Kasen Park to 旅館 竹花屋](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_shinanogawa_park_to_bamboo_flower_ya.png)](https://goo.gl/maps/DsDXNdqv3gyp8DnWA)
-
-</div>
-
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
 
 <div class="walk-segment">
 
@@ -54,14 +35,20 @@ the rest of the walk plans..</b></i></summary>
 <br>
 Walk <span class="km_source">15</span>km,
 From [旅館 竹花屋](https://goo.gl/maps/Vj8xmTabwdbEG6Mt8)
-To [Mitsuke English Garden](https://goo.gl/maps/gJ8jemH1yH3bW1UDA)
+To [Reant near Mitsuke English Garden](https://goo.gl/maps/7kEw9V9YtZ9MNnCH8)
 (<span class="km_total">325</span>km walked so far)
 
 [![Walk 15km from 旅館 竹花屋 to Mitsuke English Garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/XybZ4457tKDsRoj39)
 
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
+
 <div class="walk-segment">
 
 * Day <span class="day_source">Twenty-two</span>
