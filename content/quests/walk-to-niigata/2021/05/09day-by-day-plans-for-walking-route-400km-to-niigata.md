@@ -43,9 +43,6 @@ To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/z7Uqv89a6L4rnEce8)
 
 </div>
 
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
 
 <div class="walk-segment">
 
@@ -94,7 +91,5 @@ Walk To [Aoyama Seaside Park](https://goo.gl/maps/ESta1vrXJ64PwboTA)
 [![54 walk 9km from staircase to Aoyama Seaside Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_27_bridge_to_aoyama_beach_cafes.png)](https://goo.gl/maps/xFPT8sSpui1ikbHFA)
 
 </div>
-
-</details>
 
 (*) Note: dates are subject to change!  For the latest info, [PM me on LINE](/contact/).
