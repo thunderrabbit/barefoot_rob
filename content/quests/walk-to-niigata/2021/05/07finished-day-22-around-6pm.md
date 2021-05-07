@@ -2,7 +2,7 @@
 title: "Finished Day 22 around 6pm"
 tags: [ "day 22", "quest", "tired", "update", "walk" ]
 author: Rob Nugen
-date: 2021-05-08T06:59:08+09:00
+date: 2021-05-07T18:59:08+09:00
 aliases: [
     "/quests/walk-to-niigata/2021/05/07finished-day-22-around-6pm"
 ]
