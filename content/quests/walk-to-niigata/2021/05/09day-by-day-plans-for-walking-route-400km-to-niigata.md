@@ -29,23 +29,6 @@ These are maps of each segment, subject to change.  For the latest info, [PM me 
 
 <div class="walk-segment">
 
-* Day <span class="day_source">Twenty-two</span>
-(<span class="day_date">Friday May 7th</span> *)
-1 part:
-<br>
-Walk <span class="km_source">14</span>km,
-From [Mitsuke English Garden](https://goo.gl/maps/VUV1VZFyVCc9Z1Vm8)
-To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/z7Uqv89a6L4rnEce8)
-(<span class="km_total">339</span>km walked so far)
-
-[![Walk 14km from Mitsuke English Garden to APA Hotel Tsubamesanjo Ekimae](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/hiCVrkZTt6BnnG2CA)
-
-
-</div>
-
-
-<div class="walk-segment">
-
 * Day <span class="day_source">Twenty-three</span>
 (<span class="day_date">Saturday May 8th</span> *)
 1 part:
