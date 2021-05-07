@@ -12,11 +12,11 @@ I did a couple of livestreams on Instagram yesterday.  (I [downloaded](https://i
 
 Water pouring into rice fields
 
-{{< youtube -ltEFRpkT9U >}}
+https://www.youtube.com/watch?v=-ltEFRpkT9U
 
 Great talking to Eddie a bit on his way to get his kids.
 
-{{< youtube 7DIq1T_-HNc >}}
+https://www.youtube.com/watch?v=7DIq1T_-HNc
 
 
 [APA Hotel Tsubamesanjo Ekimae](https://www.apahotel.com/en/hotel/kousinetsu/tsubamesanjo-ekimae/) is really the best I have used this walk in terms of price per ameneties.
