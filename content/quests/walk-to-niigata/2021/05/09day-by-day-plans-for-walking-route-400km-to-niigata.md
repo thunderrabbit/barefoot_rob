@@ -29,28 +29,6 @@ These are maps of each segment, subject to change.  For the latest info, [PM me 
 
 <div class="walk-segment">
 
-* Day <span class="day_source">Twenty-one</span>
-(<span class="day_date">Thursday May 6th</span> *)
-1 part:
-<br>
-Walk <span class="km_source">15</span>km,
-From [旅館 竹花屋](https://goo.gl/maps/Vj8xmTabwdbEG6Mt8)
-To [Reant near Mitsuke English Garden](https://goo.gl/maps/7kEw9V9YtZ9MNnCH8)
-(<span class="km_total">325</span>km walked so far)
-
-[![Walk 15km from 旅館 竹花屋 to Mitsuke English Garden](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_22_takebanaya_to_apa_hotel_tsubamesanjo.png)](https://goo.gl/maps/XybZ4457tKDsRoj39)
-
-
-</div>
-
-
-<details>
-<summary><i><b>Click here to see
-the rest of the walk plans..</b></i></summary>
-
-
-<div class="walk-segment">
-
 * Day <span class="day_source">Twenty-two</span>
 (<span class="day_date">Friday May 7th</span> *)
 1 part:
@@ -64,7 +42,11 @@ To [APA Hotel Tsubamesanjo Ekimae](https://goo.gl/maps/z7Uqv89a6L4rnEce8)
 
 
 </div>
-<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+
+<details>
+<summary><i><b>Click here to see
+the rest of the walk plans..</b></i></summary>
+
 <div class="walk-segment">
 
 * Day <span class="day_source">Twenty-three</span>
