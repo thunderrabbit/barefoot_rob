@@ -10,10 +10,6 @@ aliases: [
 
 Before I started walking, Jason H described a simple 4 steps to adapting to any stressful situation.  I think I am in the last stage now; I have just come to realize walking is my life.  Nothing can be done to change it.  Just walk walk walk.
 
-Strangely(?), I did not upload any pictures from the road today, though I did take several pictures, including of a [rather large ratsnake](https://www.reddit.com/r/whatsthissnake/comments/n63io4/green_snake_near_a_river_in_mitsuke_niigata_japan/) I encountered before crossing the river nearest my destination.
-
-https://youtu.be/xZ69ZoqPdKk
-
 I felt quite hot and tired by the end of today.  Not a drop of rain in sight, and plenty of sun, so I am glad I put on sunscreen before I started out at 7am.  I arrived at the hotel about 2:30pm, so 7.5 hours walking 17.5 kilometers (according to Google Maps)
 
 [![2021 may 06 day 21 walk map](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/thumbs/2021_may_06_day_21_walk_map.png)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/2021_may_06_day_21_walk_map.png)
