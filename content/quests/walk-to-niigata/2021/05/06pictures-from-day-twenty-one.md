@@ -42,14 +42,6 @@ Curious loops on wires a I guess to keep birds off them
 
 [![2021 may 06 no birds on these wires](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/thumbs/2021_may_06_no_birds_on_these_wires.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/2021_may_06_no_birds_on_these_wires.jpeg)
 
-
-Saw a [rather large ratsnake](https://www.reddit.com/r/whatsthissnake/comments/n63io4/green_snake_near_a_river_in_mitsuke_niigata_japan/) I encountered before crossing Kariyata River.  He was quite chill.
-
-[![2021 may 06 François playing dead near snake](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/thumbs/2021_may_06_francois_playing_dead_near_snake.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/2021_may_06_francois_playing_dead_near_snake.jpeg)
-
-
-{{< youtube xZ69ZoqPdKk >}}
-
 Wow I was back there a few days ago..
 
 [![2021 may 06 mountains still back there](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/thumbs/2021_may_06_mountains_still_back_there.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-21/2021_may_06_mountains_still_back_there.jpeg)
