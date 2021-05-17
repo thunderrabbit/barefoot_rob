@@ -69,5 +69,4 @@ friend Missy texted me right after that. She's like, Oh, I just had an
 amazing experience. And she was telling me about her experience. And
 so we decided that the snake was a messenger letting me know to
 contact her because she had just had a had an amazing experience. So
-that was neat. on them on YouTube. I called it Missy's Snake or
-something.
+that was neat. I put him on YouTube. I called it Missy's green snake.
