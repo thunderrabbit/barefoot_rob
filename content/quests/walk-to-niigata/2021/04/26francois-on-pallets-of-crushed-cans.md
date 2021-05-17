@@ -1,5 +1,5 @@
 ---
-title: "Francois on pallets of crushed cans"
+title: "François on pallets of crushed cans"
 tags: [ "pictures", "quest", "francois", "cans", "recycling" ]
 author: Rob Nugen
 date: 2021-04-26T14:14:14+09:00
@@ -16,9 +16,9 @@ Indeed it is!
 
 [![2021 apr 27 closeup of pallets with crushed cans](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_closeup_of_pallets_with_crushed_cans.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_closeup_of_pallets_with_crushed_cans.jpeg)
 
-Francois would like to have a seat here
+François would like to have a seat here
 
-[![2021 apr 27 francois sitting on crushed cans](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_sitting_on_crushed_cans.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_sitting_on_crushed_cans.jpeg)
+[![2021 apr 27 François sitting on crushed cans](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_sitting_on_crushed_cans.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_sitting_on_crushed_cans.jpeg)
 
 I believe these are steel cans
 
@@ -35,4 +35,4 @@ How do they collect this many of the same type of can?
 
 rusted cans hmm I wonder how long these have been here
 
-[![2021 apr 27 francois tired of sitting on cans](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_tired_of_sitting_on_cans.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_tired_of_sitting_on_cans.jpeg)
+[![2021 apr 27 François tired of sitting on cans](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_tired_of_sitting_on_cans.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_tired_of_sitting_on_cans.jpeg)

@@ -56,4 +56,4 @@ To Ojiya Park Hotel
 
 🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
 
-[![2021 may 04 francois and pizza](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_francois_and_pizza.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_francois_and_pizza.jpeg)          
+[![2021 may 04 François and pizza](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_francois_and_pizza.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_francois_and_pizza.jpeg)          

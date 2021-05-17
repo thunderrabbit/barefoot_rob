@@ -50,9 +50,9 @@ From where does this water come?
 
 [![2021 apr 27 magic water pipe](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_magic_water_pipe.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_magic_water_pipe.jpeg)
 
-Francois at construction site
+François at construction site
 
-[![2021 apr 27 francois at construction site](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_at_construction_site.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_at_construction_site.jpeg)
+[![2021 apr 27 François at construction site](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_at_construction_site.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_at_construction_site.jpeg)
 
 The first little road ended here
 
@@ -82,7 +82,7 @@ Red roof within apple orchards
 
 [![2021 apr 27 strikingly red roof](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_strikingly_red_roof.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_strikingly_red_roof.jpeg)
 
-cute pond and concrete for what?  I wanted to put Francois on it, but decided it was too far away from the edges of the pond to do safely, and the locals might wonder what I was doing..
+cute pond and concrete for what?  I wanted to put François on it, but decided it was too far away from the edges of the pond to do safely, and the locals might wonder what I was doing..
 
 [![2021 apr 27 cute little pond](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_cute_little_pond.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_cute_little_pond.jpeg)
 

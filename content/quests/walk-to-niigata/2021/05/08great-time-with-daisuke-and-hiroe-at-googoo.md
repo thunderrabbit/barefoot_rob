@@ -23,7 +23,7 @@ And they have ice cream...  Yikes stripes! Will I wake up in time tomorrow?
 
 [![2021 may 08 restaurant googoo ](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_restaurant_googoo_.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_restaurant_googoo_.jpeg)
 
-[![2021 may 08 francois with umeshu](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_francois_with_umeshu.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_francois_with_umeshu.jpeg)
+[![2021 may 08 François with umeshu](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_francois_with_umeshu.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_francois_with_umeshu.jpeg)
 
 [![2021 may 08 daisuke working at googoo](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_daisuke_working_at_googoo.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_daisuke_working_at_googoo.jpeg)          
 

@@ -37,10 +37,10 @@ I thought these leaves were cute and wish I had made them more visible.  It was 
 
 
 
-Francois on a truck scale
+François on a truck scale
 
-[![2021 apr 27 francois on truck scale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_on_truck_scale.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_on_truck_scale.jpeg)
-[![2021 apr 27 francois not registering on the scale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_not_registering_on_the_scale.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_not_registering_on_the_scale.jpeg)
+[![2021 apr 27 François on truck scale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_on_truck_scale.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_on_truck_scale.jpeg)
+[![2021 apr 27 François not registering on the scale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_27_francois_not_registering_on_the_scale.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_27_francois_not_registering_on_the_scale.jpeg)
 
 We have walked quite a bit!
 

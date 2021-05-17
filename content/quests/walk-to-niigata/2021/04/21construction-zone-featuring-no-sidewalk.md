@@ -12,9 +12,9 @@ And I was able to make my way through it even with the construction worker guys 
 
 I didn't get a picture of that, but I did get to discover just how hot fresh poured asphalt can be.
 
-Also got a chance to take a picture of Francois on rabbit shaped barrier holders.
+Also got a chance to take a picture of François on rabbit shaped barrier holders.
 
-[![2021 apr 20 francois on rabbit shaped barrier holder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/thumbs/2021_apr_20_francois_on_rabbit_shaped_barrier_holder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/2021_apr_20_francois_on_rabbit_shaped_barrier_holder.jpeg)
+[![2021 apr 20 François on rabbit shaped barrier holder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/thumbs/2021_apr_20_francois_on_rabbit_shaped_barrier_holder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/2021_apr_20_francois_on_rabbit_shaped_barrier_holder.jpeg)
 
 And then the most amazing thing is finding this new manhole cover it hasn't even had its plastic taken off yet...
 

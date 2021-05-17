@@ -5,7 +5,7 @@ location: 'geo:35.84272,139.38475;u=3.7900924682617188'
 date: '2021-04-19T14:42:34+09:00'
 ---
 
-[![2021 apr 18 francois and three colors](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-04/thumbs/2021_apr_18_francois_and_three_colors.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-04/2021_apr_18_francois_and_three_colors.jpeg)          
+[![2021 apr 18 François and three colors](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-04/thumbs/2021_apr_18_francois_and_three_colors.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-04/2021_apr_18_francois_and_three_colors.jpeg)          
 
 I enjoyed seeing these flowers of three different colors.
 

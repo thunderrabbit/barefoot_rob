@@ -36,7 +36,7 @@ Ma and I enjoyed tie-dyeing handkerchiefs at the indigo dyeing studio.
 I told the guides/instructors I would come back many hundreds of
 times.
 
-[![2020 jan francois with ghost](//b.robnugen.com/journal/2020/thumbs/2020_jan_francois_with_ghost.jpg)](//b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg)
+[![2020 jan François with ghost](//b.robnugen.com/journal/2020/thumbs/2020_jan_francois_with_ghost.jpg)](//b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg)
 
 We visited the nearby art museum as well.
 

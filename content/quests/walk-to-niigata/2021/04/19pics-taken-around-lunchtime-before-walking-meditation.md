@@ -20,7 +20,7 @@ Flowers below.   I like colored manhole covers.  How do they remain colorful?
 
 Wires above
 
-[![2021 apr 18 francois too much to drink](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/thumbs/2021_apr_18_francois_too_much_to_drink.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/2021_apr_18_francois_too_much_to_drink.jpeg)
+[![2021 apr 18 François too much to drink](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/thumbs/2021_apr_18_francois_too_much_to_drink.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/2021_apr_18_francois_too_much_to_drink.jpeg)
 
-Francois been drinking too much ..   milk tea?
+François been drinking too much ..   milk tea?
 

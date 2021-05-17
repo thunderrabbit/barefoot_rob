@@ -22,5 +22,5 @@ The indigo dye workshop was *amazing* fun.  I told the staff I'd come back
 hundreds of times.  It was a bit of a challenge to understand the
 Japanese, but we had a great time dyeing and created some beautiful handkerchiefs!
 
-[![2020 jan francois with ghost](//b.robnugen.com/journal/2020/thumbs/2020_jan_francois_with_ghost.jpg)](//b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg)
+[![2020 jan François with ghost](//b.robnugen.com/journal/2020/thumbs/2020_jan_francois_with_ghost.jpg)](//b.robnugen.com/journal/2020/2020_jan_francois_with_ghost.jpg)
 [![2020 jan tie dyed](//b.robnugen.com/journal/2020/thumbs/2020_jan_tie_dyed.jpg)](//b.robnugen.com/journal/2020/2020_jan_tie_dyed.jpg)

@@ -4,7 +4,7 @@ author: 'Rob Nugen'
 date: '2021-04-18T22:27:58+09:00'
 ---
 
-[![2021 apr 18 francois ignoring lake tama](//b.robnugen.com/tmp/day-03/thumbs/2021_apr_18_francois_ignoring_lake_tama.jpeg)](//b.robnugen.com/tmp/day-03/2021_apr_18_francois_ignoring_lake_tama.jpeg)
+[![2021 apr 18 François ignoring lake tama](//b.robnugen.com/tmp/day-03/thumbs/2021_apr_18_francois_ignoring_lake_tama.jpeg)](//b.robnugen.com/tmp/day-03/2021_apr_18_francois_ignoring_lake_tama.jpeg)
 
 After this cute picture, 3 hours of painful walking on super incredibly rough asphalt.
 
