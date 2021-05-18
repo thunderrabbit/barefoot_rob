@@ -36,3 +36,22 @@ Silly wall blocking the view.
 some water wants to get into the little river *first!*
 
 [![2021 apr 26 back end of little river](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_back_end_of_little_river.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_back_end_of_little_river.jpeg)
+
+audio transcript:
+
+I found a what I believe to be an electrical power plant that hydro
+Electric plant and I described the water pouring off of us like a
+small river pouring that cascading into a bigger river as like 10
+bathtubs per second worth of water. And I don't know, what was a more
+common unit of measure and I guess, cubic meters per second in Japan
+is it's usually cubic feet per second in the US, maybe yards per
+second anyway. I measured it and and estimated it to be 10 bathtubs
+per second. pouring from the small river into a big river. I took a
+lot of pictures with with my old phone then I was like, Oh, I have
+this cool camera. So I went and took photos with the cool camera of
+this area as well. And so kind of did a little backtracking. But
+anyway, I took a bunch of photos, I really enjoyed seeing the area and
+taking lots of photos, even though no one else in the area seemed to
+care about it anymore. Because they had already seen it. But um, there
+weren't a lot of people in the area, but a few so that was that was a
+cool thing. And I wonder if I can find where that was on the map.
