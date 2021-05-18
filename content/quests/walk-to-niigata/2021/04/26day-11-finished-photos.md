@@ -8,13 +8,6 @@ aliases: [
 ]
 ---
 
-<img
-src=""
-alt="Update from the road"
-class="title" />
-
-
-
 Old school fire hydrant
 
 [![2021 apr 26 hydrant from 1992](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/thumbs/2021_apr_26_hydrant_from_1992.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_hydrant_from_1992.jpeg)
