@@ -25,7 +25,7 @@ if (!cookie) {
   document.cookie = 'resolution='
   			 	+ Math.max( screen.width, screen.height )
   				+ ",1"
-  				+ '; path=/';
+  				+ ';domain=robnugen.com;path=/';
 
 
   // Progressive enhance if available
@@ -69,7 +69,7 @@ if (!cookie) {
       		document.cookie = 'resolution='
       						+ resolution
       						+ ( 'devicePixelRatio' in window ? ',' + devicePixelRatio : ',1')
-      						+ '; path=/';
+      						+ ';domain=robnugen.com;path=/';
       }
       else {
       // Otherwise rely on our fallback AGAIN!
@@ -78,7 +78,7 @@ if (!cookie) {
       document.cookie = 'resolution='
       			 	+ Math.max( screen.width, screen.height )
       				+ ",1"
-      				+ '; path=/';
+      				+ ';domain=robnugen.com;path=/';
 
       }
 
