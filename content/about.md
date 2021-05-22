@@ -16,7 +16,7 @@ My experience in counseling and facilitation work includes:
 
 * 10+ years attending and 4+ years leading a weekly peer counseling circle for men
 * 1+ year’s experience suicide hotline volunteer
-* 17+ years barefoot walking in Houston Texas and Tokyo Japan
+* 18+ years barefoot walking in Houston Texas and Tokyo Japan
 * Shamanic healing training
 * ShadowWork basic training
 
