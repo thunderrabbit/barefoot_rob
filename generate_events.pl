@@ -271,7 +271,8 @@ sub input_date($) {
 
 sub parse_user_date($) {
   my ($user_date) = (@_);
-  my $epoch = str2time($user_date);
+  print "in parse got this date: $user_date \n";
+  my $epoch = str2time($user_date, "+0900");
   return DateTime->from_epoch(epoch => $epoch);
 }
 
