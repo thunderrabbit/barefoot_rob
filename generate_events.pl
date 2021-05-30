@@ -216,7 +216,8 @@ sub get_date($) {
 }
 
 sub show_dates($) {
-  my ($dt) = (@_);
+  my ($dt_now) = (@_);
+  my $dt = $dt_now->clone;      # don't mess with global date
   my $desired_day_of_week = 4;  # Thursday
   print "in get date.   TODO: let us choose which upcoming Thursday to use.... \n";
   my $days_until_coming_thursday = ($desired_day_of_week + 7 - $dt->day_of_week) % 7;  #  https://codereview.stackexchange.com/a/33648/5794
