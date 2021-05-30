@@ -303,7 +303,7 @@ sub get_event_type() {
     }# $ii
 
     print "Enter the number of the type you want to select: ";
-    my $jj = <STDIN>;
+    my $jj = 1; # read from user after done debugging <STDIN>;
 
     $event_type = $event_types[$jj-1];
 
