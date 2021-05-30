@@ -203,11 +203,14 @@ sub get_title($)
 }
 
 sub get_date($) {
+  my $confirmed = 0;
   my ($dt) = (@_);
-  show_dates($dt);
-  my $user_date = "2021-05-25"; # input_date();
-  my $user_dt = parse_user_date($user_date);
-  print $user_dt->strftime("%A %d %B %Y\n");
+  while (!$confirmed) {
+    show_dates($dt);
+    my $user_date = "2021-05-25"; # input_date();
+    my $user_dt = parse_user_date($user_date);
+    $confirmed = ask_confirm_date($user_dt);
+  }
 }
 
 sub show_dates($) {
@@ -227,8 +230,32 @@ sub show_dates($) {
   $dt->add( days => 7 );
   print $dt->day_name . " " . $dt->ymd . "\n";
   $dt->add( days => 7 );
-  print $dt->day_name . " " . $dt->ymd . " " . $dt->strftime("%A %d %B %Y") . "\n";
+  print $dt->day_name . " " . $dt->ymd . "\n";
   return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
+}
+
+sub ask_confirm_date($) {
+  my ($dt) = (@_);
+  my $string_to_confirm = $dt->strftime("%A %d %B %Y");   ##  Sunday 30 May 2021
+  return confirm_string($string_to_confirm);
+}
+
+sub confirm_string($) {
+  my ($string_to_confirm) = (@_);
+  my $confirmed = 0;
+  print "\nIs this correct?  (yes/no)\n";
+  print "  $string_to_confirm\n";
+  while (1) {
+    my $resp = <STDIN>;
+       $resp =~ s/^\s+|\s+$//g;
+
+    if    ($resp =~ /^y/i) { $confirmed = 1; last; }
+    elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
+    else  {
+      print "Please answer \"yes\" or \"no\".  ";
+    }
+  }
+  return $confirmed;
 }
 
 sub parse_user_date($) {
