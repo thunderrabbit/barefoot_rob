@@ -209,6 +209,15 @@ sub get_date($) {
   print $days_until_coming_thursday . "\n";
   print "leavin get date\n";
   $dt->add( days => $days_until_coming_thursday );
+  print $dt->day_name . " " . $dt->ymd . "\n";
+  $dt->add( days => 7 );
+  print $dt->day_name . " " . $dt->ymd . "\n";
+  $dt->add( days => 7 );
+  print $dt->day_name . " " . $dt->ymd . "\n";
+  $dt->add( days => 7 );
+  print $dt->day_name . " " . $dt->ymd . "\n";
+  $dt->add( days => 7 );
+  print $dt->day_name . " " . $dt->ymd . "\n";
   return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
 }
 
