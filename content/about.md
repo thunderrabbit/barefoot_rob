@@ -7,7 +7,7 @@ date: 2020-02-10T15:38:44+09:00
 <img
 src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
 alt="Barefoot Rob - I am happy to see you"
-class="title" />
+class="half" />
 
 Rob conducts workshops and meetings giving people skills to connect with each other and with their personal life mission.
 
