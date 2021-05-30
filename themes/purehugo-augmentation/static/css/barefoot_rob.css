@@ -10,6 +10,9 @@
 img.title {
   width:100%
 }
+img.half {
+  width:50%
+}
 
 .content-event-subhead {
     color: #555;

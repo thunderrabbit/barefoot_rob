@@ -4,7 +4,10 @@ tags: [ "barefoot rob", "about" ]
 date: 2020-02-10T15:38:44+09:00
 ---
 
-[![2020 nov rob profile 800px](//b.robnugen.com/rob/portraits/thumbs/2020_nov_rob_profile_800px.png)](//b.robnugen.com/rob/portraits/2020_nov_rob_profile_800px.png)
+<img
+src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
+alt="Barefoot Rob - I am happy to see you"
+class="title" />
 
 Rob conducts workshops and meetings giving people skills to connect with each other and with their personal life mission.
 
@@ -26,4 +29,14 @@ Doing inner emotional work, you should have a competent and trusted guide. Leadi
 
 My workshops will let you explore what blocks you from offering the best of yourself to the world. We will work through the emotions and allow your inner guidance to shine through.  
 
-[Sign up for a session](/contact)
+## Contact
+
+[Contact](/contact)
+
+[Sign up for a session](//www.calendly.com/robnugen/30min)
+
+## Testimonial
+
+Rob has been an enormous blessing in my life. His facilitation work, guidance, and leadership have helped me to sense, understand, express and process my own emotions. He treats each person as a true individual and listens with openness, care, and compassion. In my personal experience Rob is excellent at both counseling and facilitation. He can serve a wide range of clients because he doesn’t have his own agenda, and pays close attention to the subjective and personal aspects of one’s emotions, life circumstances, and individual values, goals, or priorities. Whether you are struggling with overwhelming emotions, seeking greater self understanding, or simply desire more clarity about the direction you want to go in life, Rob can provide the space, tools, and support for you to discover your own wisdom.
+
+--Nathan Brandli--
