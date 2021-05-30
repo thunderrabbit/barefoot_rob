@@ -124,9 +124,11 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 ## BUILD OUTPUT
 #
 my $new_entry;
-my $title = get_title($event_title_prefixes{$what_kinda_event});
 
 my ($event_date, $event_date_human) = get_date($dt);
+
+my $title = get_title($event_title_prefixes{$what_kinda_event});
+
 my $tagstring = get_tags(%{$event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
