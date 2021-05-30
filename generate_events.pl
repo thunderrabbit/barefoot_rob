@@ -233,7 +233,6 @@ sub show_dates($) {
   print $dt->day_name . " " . $dt->ymd . "\n";
   $dt->add( days => 7 );
   print $dt->day_name . " " . $dt->ymd . "\n";
-  return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
 }
 
 sub ask_confirm_date($) {
