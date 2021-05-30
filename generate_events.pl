@@ -3,6 +3,7 @@
 use strict;
 use Data::Dumper;
 use DateTime;
+use Date::Parse;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
@@ -124,9 +125,11 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 ## BUILD OUTPUT
 #
 my $new_entry;
-my $title = get_title($event_title_prefixes{$what_kinda_event});
 
 my ($event_date, $event_date_human) = get_date($dt);
+
+my $title = get_title($event_title_prefixes{$what_kinda_event});
+
 my $tagstring = get_tags(%{$event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
@@ -201,7 +204,20 @@ sub get_title($)
 }
 
 sub get_date($) {
-  my ($dt) = (@_);
+  my $confirmed = 0;
+  my ($dt_now) = (@_);
+  while (!$confirmed) {
+    show_dates($dt_now);
+    my $user_date = input_date($dt_now);
+    print "\n\n\n\n\n" . $user_date . "\n\n\n\n\n";
+    my $user_dt = parse_user_date($user_date);
+    $confirmed = ask_confirm_date($user_dt);
+  }
+}
+
+sub show_dates($) {
+  my ($dt_now) = (@_);
+  my $dt = $dt_now->clone;      # don't mess with global date
   my $desired_day_of_week = 4;  # Thursday
   print "in get date.   TODO: let us choose which upcoming Thursday to use.... \n";
   my $days_until_coming_thursday = ($desired_day_of_week + 7 - $dt->day_of_week) % 7;  #  https://codereview.stackexchange.com/a/33648/5794
@@ -218,7 +234,46 @@ sub get_date($) {
   print $dt->day_name . " " . $dt->ymd . "\n";
   $dt->add( days => 7 );
   print $dt->day_name . " " . $dt->ymd . "\n";
-  return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
+}
+
+sub ask_confirm_date($) {
+  my ($dt) = (@_);
+  my $string_to_confirm = $dt->strftime("%A %d %B %Y");   ##  Sunday 30 May 2021
+  return confirm_string($string_to_confirm);
+}
+
+sub confirm_string($) {
+  my ($string_to_confirm) = (@_);
+  my $confirmed = 0;
+  print "\nIs this correct?  (yes/no)\n";
+  print "  $string_to_confirm\n";
+  while (1) {
+    my $resp = <STDIN>;
+       $resp =~ s/^\s+|\s+$//g;
+
+    if    ($resp =~ /^y/i) { $confirmed = 1; last; }
+    elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
+    else  {
+      print "Please answer \"yes\" or \"no\".  ";
+    }
+  }
+  return $confirmed;
+}
+
+sub input_date($) {
+  my ($dt_now) = (@_);
+  my $thedate = $dt->ymd;  # year-month-date (numeric).
+  print "Input date of event: ($thedate)\n";
+  my $user_date = <STDIN>;
+  chomp($user_date);
+  return length($user_date) ? $user_date : $thedate;
+}
+
+sub parse_user_date($) {
+  my ($user_date) = (@_);
+  print "in parse got this date: $user_date \n";
+  my $epoch = str2time($user_date);    #  https://stackoverflow.com/a/7487117/194309
+  return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
 sub kebab_case($) {
