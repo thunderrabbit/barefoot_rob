@@ -205,6 +205,9 @@ sub get_title($)
 sub get_date($) {
   my ($dt) = (@_);
   show_dates($dt);
+  my $user_date = "2021-05-25"; # input_date();
+  my $user_dt = parse_user_date($user_date);
+  print $user_dt->strftime("%A %d %B %Y\n");
 }
 
 sub show_dates($) {
@@ -224,8 +227,22 @@ sub show_dates($) {
   $dt->add( days => 7 );
   print $dt->day_name . " " . $dt->ymd . "\n";
   $dt->add( days => 7 );
-  print $dt->day_name . " " . $dt->ymd . "\n";
+  print $dt->day_name . " " . $dt->ymd . " " . $dt->strftime("%A %d %B %Y") . "\n";
   return ($dt->ymd, $dt->strftime("%A %d %B %Y"));
+}
+
+sub parse_user_date($) {
+  my ($hyphenated_date) = (@_);
+  my ($yyyy,$mm,$dd) = (2021,05,25);   ###  https://stackoverflow.com/a/7487117/194309
+  return DateTime->new(
+        year      => $yyyy,
+        month     => $mm,
+        day       => $dd,
+        hour      => 12,
+        minute    => 0,
+        second    => 0,
+        time_zone => $zone,
+    );
 }
 
 sub kebab_case($) {
