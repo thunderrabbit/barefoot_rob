@@ -15,7 +15,7 @@ src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
 alt="Barefoot Rob - I am happy to see you"
 class="title" />
 
-Find your center.  Connect to silence within your heart.
+Find your center.  Connect to the wisdom of your heart.
 
 #### When
 
@@ -37,13 +37,14 @@ eyeゲージングとは
     なぜか始まると深い意識に変化していきます。
     本当の自分に気づき　自分の真の美しさがわかるでしょう。
 
-* ※経験後の変化
+    ※経験後の変化
 
     自分の強い友人になる！
     自分を知る。自分や他者をより愛せるようになったり
     日常の中でのコミュニケーション能力が上がり、
     相手をより受け入れたり　尊重し合えたりする力が増してきます。
     この世の中がより身近になり　もっとあなたの味方になっていくでしょう。
+
 
 * 日時: 6月5日(土) 15時00分 から18時00分
 * 場所: 渋谷スクランブル交差点　交番前辺り
@@ -61,5 +62,3 @@ Welcome to stop by anytime between 15:00 and 18:00 if you want to try eye gazing
 **Costs:**
 
 free! (donations accepted)
-
-**What to bring**
