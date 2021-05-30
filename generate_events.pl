@@ -271,8 +271,9 @@ sub input_date($) {
 
 sub parse_user_date($) {
   my ($user_date) = (@_);
-  my $epoch = str2time($user_date);
-  return DateTime->from_epoch(epoch => $epoch);
+  print "in parse got this date: $user_date \n";
+  my $epoch = str2time($user_date);    #  https://stackoverflow.com/a/7487117/194309
+  return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
 sub kebab_case($) {
