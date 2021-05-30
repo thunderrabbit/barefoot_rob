@@ -3,6 +3,7 @@
 use strict;
 use Data::Dumper;
 use DateTime;
+use Date::Parse;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
@@ -204,10 +205,11 @@ sub get_title($)
 
 sub get_date($) {
   my $confirmed = 0;
-  my ($dt) = (@_);
+  my ($dt_now) = (@_);
   while (!$confirmed) {
-    show_dates($dt);
-    my $user_date = "2021-05-25"; # input_date();
+    show_dates($dt_now);
+    my $user_date = input_date($dt_now);
+    print "\n\n\n\n\n" . $user_date . "\n\n\n\n\n";
     my $user_dt = parse_user_date($user_date);
     $confirmed = ask_confirm_date($user_dt);
   }
@@ -258,18 +260,19 @@ sub confirm_string($) {
   return $confirmed;
 }
 
+sub input_date($) {
+  my ($dt_now) = (@_);
+  my $thedate = $dt->ymd;  # year-month-date (numeric).
+  print "Input date of event: ($thedate)\n";
+  my $user_date = <STDIN>;
+  chomp($user_date);
+  return length($user_date) ? $user_date : $thedate;
+}
+
 sub parse_user_date($) {
-  my ($hyphenated_date) = (@_);
-  my ($yyyy,$mm,$dd) = (2021,05,25);   ###  https://stackoverflow.com/a/7487117/194309
-  return DateTime->new(
-        year      => $yyyy,
-        month     => $mm,
-        day       => $dd,
-        hour      => 12,
-        minute    => 0,
-        second    => 0,
-        time_zone => $zone,
-    );
+  my ($user_date) = (@_);
+  my $epoch = str2time($user_date);
+  return DateTime->from_epoch(epoch => $epoch);
 }
 
 sub kebab_case($) {
