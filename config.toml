@@ -6,7 +6,7 @@ rssLimit = 50
 [markup.goldmark.renderer]
 unsafe= true
 [params]
-    mainSections = ["quests"]
+    mainSections = ["events"]
   	author = "Rob Nugen"
     hideSidebarIconText = true
 	twitterName = "thunderrabbit"
