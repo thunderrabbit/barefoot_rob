@@ -1,5 +1,5 @@
 ---
-title: "I want to do eye gazing with at least one hundred people"
+title: "Eye Gazing with one hundred people #eyegazing100"
 tags: [ "quest", "eye gazing", "100", "eye", "gazing", "people" ]
 author: Rob Nugen
 date: 2021-06-04T12:36:44+09:00
@@ -8,6 +8,7 @@ aliases: [
    "/eye-gazing-100/",
    "04want-to-do-eye-gazing-with-at-least-one-hundred-people",
    "i-want-to-do-eye-gazing-with-at-least-one-hundred-people",
+   "eye-gazing-with-one-hundred-people-eyegazing100",
 ]
 ---
 
