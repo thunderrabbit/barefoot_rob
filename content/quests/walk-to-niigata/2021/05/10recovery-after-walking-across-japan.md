@@ -1,7 +1,11 @@
 ---
-title: 'what just happened?'
+title: 'recovery after walking across Japan'
 author: 'Rob Nugen'
 date: '2021-05-10T10:24:05+09:00'
+aliases: [
+   "10what-just-happened/",
+   "10recovery-after-walking-across-japan",
+]
 ---
 
 Wow yeah it's like I'm just glad it's over, sad it's over, and not really sure how to integrate all the pieces.
