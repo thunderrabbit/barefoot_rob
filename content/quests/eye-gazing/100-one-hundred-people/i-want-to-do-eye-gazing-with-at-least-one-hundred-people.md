@@ -18,3 +18,11 @@ but I can certainly put the word out and connect with that many over
 the month of June, I imagine.
 
 Gather online `#eyegazing100`
+
+https://www.instagram.com/hadashiusagi/
+
+https://www.facebook.com/thunderrabbit/
+
+https://twitter.com/thunderrabbit
+
+https://youtube.com/thunderrabbit
