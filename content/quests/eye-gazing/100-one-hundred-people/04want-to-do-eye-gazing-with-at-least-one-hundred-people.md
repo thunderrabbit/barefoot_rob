@@ -7,6 +7,6 @@ draft: false
 ---
 
 Tomorrow I plan to go to Shibuya to offer Free Eye Gazing with people
-who are willing to try.  I don't know that I will get to 100 tomorrow,
+who are willing to try.  I don't know that I will connect with 100 people tomorrow,
 but I can certainly put the word out and connect with that many over
 the month of June, I imagine.
