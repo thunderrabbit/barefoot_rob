@@ -11,7 +11,7 @@ aliases: [
 ]
 ---
 
-Tomorrow I plan to go to Shibuya to offer
+June 5th, 2021 (土) I plan to go to Shibuya to offer
 [Free Eye Gazing](/events/2021/06/05free-eye-gazing-near-shibuya-crossing/)
 with anyone who is interested.  I don't guess that I will connect with 100 people tomorrow,
 but I can certainly put the word out and connect with that many over
