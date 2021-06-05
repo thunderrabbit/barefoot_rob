@@ -8,7 +8,8 @@ episode_thumbnail: "https://b.robnugen.com/events/2021/thumbs/2021_may_22_yoyogi
 EventTime: "gather at 11:45; enter the Park at noon"
 EventDate: "2021-06-05"
 Aliases: [
-    "/events/2021/05/27walking-meditation-welcome-rainy-season-2021"
+    "/events/2021/05/27walking-meditation-welcome-rainy-season-2021",
+    "/events/2021/06/05walking-meditation-welcome-rainy-season-2021",
 ]
 ---
 
