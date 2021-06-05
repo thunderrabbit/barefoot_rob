@@ -20,10 +20,12 @@ the month of June, I imagine.
 
 Gather online `#eyegazing100`
 
-https://www.instagram.com/hadashiusagi/
+[meetup.com](https://www.meetup.com/Tokyo-Sol-barefoot-more/)
 
-https://www.facebook.com/thunderrabbit/
+[instagram.com/hadashiusagi](https://www.instagram.com/hadashiusagi/)
 
-https://twitter.com/thunderrabbit
+[facebook.com/thunderrabbit](https://www.facebook.com/thunderrabbit/)
 
-https://youtube.com/thunderrabbit
+[twitter.com/thunderrabbit](https://twitter.com/thunderrabbit)
+
+[youtube.com/thunderrabbit](https://youtube.com/thunderrabbit)
