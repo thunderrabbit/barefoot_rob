@@ -5,8 +5,8 @@ author: Rob Nugen
 date: %s
 EventTime: "7pm ~ 8:30pm"
 EventDate: "%s"
-Aliases: [
-    "alias_path"
+aliases: [
+    "alias_path",
 ]
 ---
 

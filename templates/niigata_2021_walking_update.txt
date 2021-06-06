@@ -4,7 +4,7 @@ tags: [ %s ]
 author: Rob Nugen
 date: %s
 aliases: [
-    "alias_path"
+    "alias_path",
 ]
 ---
 
@@ -20,4 +20,3 @@ class="title" />
 #### Coming up
 
 #### Now
-
