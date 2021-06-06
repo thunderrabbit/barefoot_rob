@@ -216,7 +216,7 @@ sub get_date($) {
     $user_dt = parse_user_date($user_date);
     $confirmed = ask_confirm_date($user_dt);
   }
-  # return two formats of parsed and confirmed date
+  # return two formats of date which has been parsed by `parse_user_date` and confirmed by user
   return ($user_dt->ymd, $user_dt->strftime("%A %d %B %Y"));
 }
 
