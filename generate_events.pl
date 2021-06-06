@@ -267,6 +267,7 @@ sub confirm_string($) {
 sub input_date($) {
   my ($dt_now) = (@_);
   my $thedate = $dt->ymd;  # year-month-date (numeric).
+  $thedate = "2021-06-20";    ###  hardcode while testing
   print "Input date of event: ($thedate)\n";
   my $user_date = <STDIN>;
   chomp($user_date);
@@ -360,7 +361,8 @@ sub get_event_type() {
       print "$iipad($ii) $event_types[$ii-1] $iipad($ii)\n";
     }# $ii
 
-    print "Enter the number of the type you want to select: ";
+    $selected_type = "3";    ###  hardcode while testing
+    print "Enter the number of the type you want to select: ($selected_type) ";
     my $raw_input = <STDIN>;
 
     $raw_input =~ s/\D+//g;     ## TODO: how to specify this ain't raw anymore?
