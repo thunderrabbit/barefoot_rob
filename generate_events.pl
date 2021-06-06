@@ -207,14 +207,17 @@ sub get_title($)
 
 sub get_date($) {
   my $confirmed = 0;
+  my $user_dt;   # will be returned once we confirm its value
   my ($dt_now) = (@_);
   while (!$confirmed) {
     show_dates($dt_now);
     my $user_date = input_date($dt_now);
     print "\n\n\n\n\n" . $user_date . "\n\n\n\n\n";
-    my $user_dt = parse_user_date($user_date);
+    $user_dt = parse_user_date($user_date);
     $confirmed = ask_confirm_date($user_dt);
   }
+  # return two formats of parsed and confirmed date
+  return ($user_dt->ymd, $user_dt->strftime("%A %d %B %Y"));
 }
 
 sub show_dates($) {
