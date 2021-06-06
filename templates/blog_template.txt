@@ -11,7 +11,7 @@ aliases: [
 ---
 
 <img
-src="//b.robnugen.com/blog/2021/have_the_courage_to_follow_your_heart_and_intuition.jpg"
+src="%episode_image"
 alt="Have the courage to follow your heart and intuition"
 class="title" />
 
