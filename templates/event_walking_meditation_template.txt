@@ -13,7 +13,7 @@ Aliases: [
 ---
 
 <img
-src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_apr_08_sayama_inariyama_prefectural_park.png"
+src="%episode_image"
 alt="Google Street View Sayama Inariyama Prefectural Park"
 class="title" />
 
