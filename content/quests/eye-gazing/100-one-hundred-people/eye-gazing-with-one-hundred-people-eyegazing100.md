@@ -29,3 +29,7 @@ Gather online `#eyegazing100`
 [twitter.com/thunderrabbit](https://twitter.com/thunderrabbit)
 
 [youtube.com/thunderrabbit](https://youtube.com/thunderrabbit)
+
+##### 6 June 2021: 11% complete!
+
+Not including people I know, I shared eye gazing moments with 11 people yesterday!
