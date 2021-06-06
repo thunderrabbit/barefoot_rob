@@ -348,6 +348,7 @@ sub get_tags($) {
 sub get_event_type() {
   my (@event_types) = (@_);
   my $event_type;
+  my $selected_type;
 
     print "\n";
     print "Possible event types:\n";
@@ -360,9 +361,12 @@ sub get_event_type() {
     }# $ii
 
     print "Enter the number of the type you want to select: ";
-    my $jj = <STDIN>;
+    my $raw_input = <STDIN>;
 
-    $event_type = $event_types[$jj-1];
+    $raw_input =~ s/\D+//g;     ## TODO: how to specify this ain't raw anymore?
+    chomp($raw_input);
+    $selected_type = length($raw_input) ? $raw_input : $selected_type;
+    $event_type = $event_types[$selected_type-1];
 
     # confirm selected image
     print "\nCtrl-C if you ain't happy with your choice!\n";
