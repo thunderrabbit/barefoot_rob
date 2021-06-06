@@ -212,7 +212,6 @@ sub get_date($) {
   while (!$confirmed) {
     show_dates($dt_now);
     my $user_date = input_date($dt_now);
-    print "\n\n\n\n\n" . $user_date . "\n\n\n\n\n";
     $user_dt = parse_user_date($user_date);
     $confirmed = ask_confirm_date($user_dt);
   }
