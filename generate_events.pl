@@ -139,8 +139,6 @@ my ($episode_image,$episode_thumb) = get_episode_image();
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
-$new_entry->{episode_image} = $episode_image;
-$new_entry->{episode_thumbnail} = $episode_thumb;
 $new_entry->{EventDate} = $event_date;
 # now build the output!
 my $mt3_episode_output = $event_template;

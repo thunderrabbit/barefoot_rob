@@ -3,8 +3,6 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-episode_image: %s
-episode_thumbnail: "%s"
 EventTime: "7pm ~ 8:30pm"
 EventDate: "%s"
 Aliases: [
