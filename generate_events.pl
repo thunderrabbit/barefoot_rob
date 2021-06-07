@@ -84,19 +84,7 @@ my $event_template;
 my $bframes_output;
 my $known_videos_diff;
 
-my $run_live = 0;
-if ($run_live) {
-  local $/;  # makes changes local to this block
-  undef $/;  # file slurp mode (default is "\n")
-
-  open (ETF,"<".$event_template_file);
-  $event_template = <ETF>;
-  close ETF;
-
-  $bframes_output = `cd ~/mt3; ./bframes.sh`;
-  $known_videos_diff = `cd ~/mt3.com; ./deploy.sh; git diff data/playlists/knownvideos.toml`;
-
-} else {
+{
   # debug interface just to get the bulk of the code working
 
   local $/;  # makes changes local to this block
@@ -106,7 +94,7 @@ if ($run_live) {
   $event_template = <ETF>;
 
   close ETF;
-}# $run_live
+}
 
 if ($verbosity > 2) {
   print "length(ETF) = " . length($event_template) . "\n";
