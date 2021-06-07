@@ -88,7 +88,7 @@ my $bframes_output;
 
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF,"<".$event_template_file);
+  open (ETF, "<", $event_template_file);
 
   $event_template = <ETF>;
 
@@ -156,7 +156,7 @@ my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$d
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
 
-open(OUT, ">$outfile_path") or die "Could not open file '$outfile_path'";
+open(OUT, ">", $outfile_path) or die "Could not open file '$outfile_path'";
 print OUT $mt3_episode_output;
 close(OUT);
 
