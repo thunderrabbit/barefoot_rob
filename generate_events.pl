@@ -26,23 +26,19 @@ my $content_directory = "$home/barefoot_rob/content";
 my $blog_directory = "/blog";    #  appended to $content_directory when writing actual file.
 my $events_directory = "/events";    #  appended to $content_directory when writing actual file.
 my $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
+my $slow_down_book_dir = "/quests/slow-down";    #  appended to $content_directory when writing actual file.
 
 my %event_template_files = (
     "blog_entry" => "$home/barefoot_rob/templates/blog_template.txt",
+    "book_chapter" => "$home/barefoot_rob/templates/book_chapter_template.txt",
     "weekly_alignment" => "$home/barefoot_rob/templates/event_weekly-alignment_template.txt",
     "walking_meditation" => "$home/barefoot_rob/templates/event_walking_meditation_template.txt",
     "quest_update" => "$home/barefoot_rob/templates/niigata_2021_walking_update.txt",
 );
 
-my %event_output_directories = (
-    "blog_entry" => $blog_directory,
-    "weekly_alignment" => $events_directory,
-    "walking_meditation" => $events_directory,
-    "quest_update" => $niigata_walk_dir,
-);
-
 my %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
+    "book_chapter" => {"book" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
@@ -52,6 +48,7 @@ my %event_title_prefixes = (
     "blog_entry" => "",
     "weekly_alignment" => "Weekly Alignment - ",
     "walking_meditation" => "Walking Meditation ",
+    "book_chapter" => "",
     "quest_update" => "",
 );
 
@@ -157,14 +154,22 @@ foreach my $key (keys %$new_entry) {
 # store this for debugging
 $new_entry->{mt3_episode_output} = $mt3_episode_output;
 
-# Create outfile path based on today's date and unique title of livestream
-# my convention: the deepest directories are months, not days, so day is part of base filename
-my $alias_path = $event_output_directories{$what_kinda_event} . "/" . $dt->ymd("/") . kebab_case($title);
+# Create outfile path based on today's date
+# convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
+my %event_output_directories = (
+    "blog_entry" => $blog_directory . "/" . $dt->ymd("/"),             # don't end with slash, by `convention` above
+    "book_chapter" => $slow_down_book_dir . "/" . $event_date . "_",   # don't end with slash because book directories have no dates
+    "weekly_alignment" => $events_directory . "/" . $dt->ymd("/"),     # don't end with slash, by `convention` above
+    "walking_meditation" => $events_directory . "/" . $dt->ymd("/"),   # don't end with slash, by `convention` above
+    "quest_update" => $niigata_walk_dir . "/" . $dt->ymd("/"),         # don't end with slash, by `convention` above
+);
+
+my $alias_path = $event_output_directories{$what_kinda_event} . kebab_case($title);
 my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
 
-open(OUT, ">$outfile_path");
+open(OUT, ">$outfile_path") or die "Could not open file '$outfile_path'";
 print OUT $mt3_episode_output;
 close(OUT);
 
