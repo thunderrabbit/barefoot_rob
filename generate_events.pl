@@ -169,7 +169,7 @@ my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$d
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
 
-open(OUT, ">$outfile_path");
+open(OUT, ">$outfile_path") or die "Could not open file '$outfile_path'";
 print OUT $mt3_episode_output;
 close(OUT);
 
