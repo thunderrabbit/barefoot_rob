@@ -174,7 +174,7 @@ print OUT $mt3_episode_output;
 close(OUT);
 
 print "+---------------------------------+\n";
-print "| wrote to $outfile_path:                  |\n";
+print "| wrote to $outfile_path\n";
 print "+---------------------------------+\n";
 
 
