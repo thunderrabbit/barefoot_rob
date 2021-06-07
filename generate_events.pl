@@ -81,32 +81,18 @@ my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes 
 # TODO: error handling
 #
 my $event_template;
-my $bframes_output;
-my $known_videos_diff;
 
-my $run_live = 0;
-if ($run_live) {
-  local $/;  # makes changes local to this block
-  undef $/;  # file slurp mode (default is "\n")
-
-  open (ETF,"<".$event_template_file);
-  $event_template = <ETF>;
-  close ETF;
-
-  $bframes_output = `cd ~/mt3; ./bframes.sh`;
-  $known_videos_diff = `cd ~/mt3.com; ./deploy.sh; git diff data/playlists/knownvideos.toml`;
-
-} else {
+{
   # debug interface just to get the bulk of the code working
 
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF,"<".$event_template_file);
+  open (ETF, "<", $event_template_file);
 
   $event_template = <ETF>;
 
   close ETF;
-}# $run_live
+}
 
 if ($verbosity > 2) {
   print "length(ETF) = " . length($event_template) . "\n";
@@ -145,7 +131,7 @@ $mt3_episode_output =~ s/^(date: .*)/date: $tz_date/im;
 $mt3_episode_output =~ s/human_date_here/$event_date_human/;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
-foreach my $key (keys %$new_entry) {
+foreach my $key (keys %{ $new_entry }) {
   my $value = $new_entry->{$key};
   $mt3_episode_output =~ s/^(\Q$key\E: .*?)%s(.*)/$1$value$2/im;
 }# $k
@@ -169,7 +155,7 @@ my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$d
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
 
-open(OUT, ">$outfile_path") or die "Could not open file '$outfile_path'";
+open(OUT, ">", $outfile_path) or die "Could not open file '$outfile_path'";
 print OUT $mt3_episode_output;
 close(OUT);
 
@@ -183,7 +169,7 @@ print "+---------------------------------+\n";
 # SUBROUTINES FOLLOW
 sub get_title($)
 {
-  my ($prefix) = (@_);
+  my ($prefix) = @_;
   my $confirmed = 0;
   my $title;
   while (!$confirmed) {
@@ -194,26 +180,15 @@ sub get_title($)
     $title =~ s/^"(.*)"$/$1/;  # strip surrounding "s
     $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace  }
     $title = $prefix.$title;
-    print "\nIs this title string correct?  (y/n)\n";
-    print "  $title\n";
-    while (1) {
-      my $resp = <STDIN>;
-      $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i) { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"y\" or \"n\".  ";
-      }
-    }# while confirm tags
+    $confirmed = ask_confirm_string($title);
   }
   return $title;
 }
 
 sub get_date($) {
+  my ($dt_now) = @_;
   my $confirmed = 0;
   my $user_dt;   # will be returned once we confirm its value
-  my ($dt_now) = (@_);
   while (!$confirmed) {
     show_dates($dt_now);
     my $user_date = input_date($dt_now);
@@ -225,7 +200,7 @@ sub get_date($) {
 }
 
 sub show_dates($) {
-  my ($dt_now) = (@_);
+  my ($dt_now) = @_;
   my $dt = $dt_now->clone;      # don't mess with global date
   my $desired_day_of_week = 4;  # Thursday
   print "in get date.   TODO: let us choose which upcoming Thursday to use.... \n";
@@ -243,16 +218,17 @@ sub show_dates($) {
   print $dt->day_name . " " . $dt->ymd . "\n";
   $dt->add( days => 7 );
   print $dt->day_name . " " . $dt->ymd . "\n";
+  return 1;
 }
 
 sub ask_confirm_date($) {
-  my ($dt) = (@_);
+  my ($dt) = @_;
   my $string_to_confirm = $dt->strftime("%A %d %B %Y");   ##  Sunday 30 May 2021
-  return confirm_string($string_to_confirm);
+  return ask_confirm_string($string_to_confirm);
 }
 
-sub confirm_string($) {
-  my ($string_to_confirm) = (@_);
+sub ask_confirm_string($) {
+  my ($string_to_confirm) = @_;
   my $confirmed = 0;
   print "\nIs this correct?  (yes/no)\n";
   print "  $string_to_confirm\n";
@@ -270,7 +246,7 @@ sub confirm_string($) {
 }
 
 sub input_date($) {
-  my ($dt_now) = (@_);
+  my ($dt_now) = @_;
   my $thedate = $dt->ymd;  # year-month-date (numeric).
   $thedate = "2021-06-20";    ###  hardcode while testing
   print "Input date of event: ($thedate)\n";
@@ -280,14 +256,14 @@ sub input_date($) {
 }
 
 sub parse_user_date($) {
-  my ($user_date) = (@_);
+  my ($user_date) = @_;
   print "in parse got this date: $user_date \n";
   my $epoch = str2time($user_date);    #  https://stackoverflow.com/a/7487117/194309
   return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
 sub kebab_case($) {
-  my ($title) = (@_);
+  my ($title) = @_;
       $title = lc($title);    # make title lowercase
       $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
@@ -295,10 +271,10 @@ sub kebab_case($) {
   return $title;
 }
 
-sub get_tags($) {
+sub get_tags(%) {
+  my (%tags) = @_;
   my $confirmed = 0;
   my $tagstring;
-  my (%tags) = (@_);
 
   while (!$confirmed) {
     # put the tags in a hash
@@ -333,26 +309,15 @@ sub get_tags($) {
     }# while read tags
 
     # confirm tags
-    print "\nIs this tag string correct?  (yes/no)\n";
-    print "  $tagstring\n";
-    while (1) {
-      my $resp = <STDIN>;
-         $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"yes\" or \"no\".  ";
-      }
-    }# while confirm tags
+    $confirmed = ask_confirm_string($tagstring);
 
   }# !$confirmed
 
   return $tagstring;
 }# get_tags()
 
-sub get_event_type() {
-  my (@event_types) = (@_);
+sub get_event_type(@) {
+  my (@event_types) = @_;
   my $event_type;
   my $selected_type;
 
@@ -382,7 +347,7 @@ sub get_event_type() {
   return $event_type;
 }
 
-sub get_episode_image($) {
+sub get_episode_image() {
   my $confirmed = 0;
   my ($episode_image,$episode_thumb);
 
@@ -406,20 +371,7 @@ sub get_episode_image($) {
     $episode_thumb = $episode_thumbs[$jj-1];
 
     # confirm selected image
-    print "\nIs this episode image correct?  (yes/no)\n";
-    print "  episode_image:     $episode_image\n";
-    print "  episode_thumbnail: $episode_thumb\n";
-
-    while (1) {
-      my $resp = <STDIN>;
-         $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"yes\" or \"no\".  ";
-      }
-    }# while confirm images
+    $confirmed = ask_confirm_string($episode_image);
 
   }# !$confirmed
 
