@@ -132,7 +132,7 @@ $mt3_episode_output =~ s/^(date: .*)/date: $tz_date/im;
 $mt3_episode_output =~ s/human_date_here/$event_date_human/;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
-foreach my $key (keys %$new_entry) {
+foreach my $key (keys %{ $new_entry }) {
   my $value = $new_entry->{$key};
   $mt3_episode_output =~ s/^(\Q$key\E: .*?)%s(.*)/$1$value$2/im;
 }# $k
