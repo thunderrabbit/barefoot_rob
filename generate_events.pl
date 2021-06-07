@@ -309,18 +309,7 @@ sub get_tags() {
     }# while read tags
 
     # confirm tags
-    print "\nIs this tag string correct?  (yes/no)\n";
-    print "  $tagstring\n";
-    while (1) {
-      my $resp = <STDIN>;
-         $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"yes\" or \"no\".  ";
-      }
-    }# while confirm tags
+    $confirmed = ask_confirm_string($tagstring);
 
   }# !$confirmed
 
@@ -382,20 +371,7 @@ sub get_episode_image() {
     $episode_thumb = $episode_thumbs[$jj-1];
 
     # confirm selected image
-    print "\nIs this episode image correct?  (yes/no)\n";
-    print "  episode_image:     $episode_image\n";
-    print "  episode_thumbnail: $episode_thumb\n";
-
-    while (1) {
-      my $resp = <STDIN>;
-         $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i)  { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"yes\" or \"no\".  ";
-      }
-    }# while confirm images
+    $confirmed = ask_confirm_string($episode_image);
 
   }# !$confirmed
 
