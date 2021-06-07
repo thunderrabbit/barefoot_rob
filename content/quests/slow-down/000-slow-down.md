@@ -54,6 +54,24 @@ The first day was the best and easiest by far, 21 km walking with my wife Lin, t
 
 ## Stop?
 
+During my walk, there were times that I had to have compassion on myself.
+And while the desire was there to fulfill my promise to walk barefoot across
+the country. There were points, that it was literally
+
+dangerous to do so. I had to put on sandals after walking until it got dark,
+and I couldn't see where I was putting my feet.
+
+And so I could get a light. It was in the moment of pain that I just had to
+put on sandals. And as soon as it got to be into a lighted area again, I took them off.
+
+I walked barefoot and injured my feet and injured my feet again walking on
+a sidewalk that hadn't seen a barefeet since its inception, I'm sure,
+
+covered in gravel and grass and glass. And I just wondered how I was going
+to make it. And then I realized that I could put on sandals.  my sandals.
+
+
+
 Oh no!  Something really unexpected happened.  This is the curse and the beauty of adventure!  OH no, much harder than I expected.
 
 Let’s just retreat and curl up at home with a nice book and pretend nothing happened.
