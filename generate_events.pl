@@ -168,7 +168,7 @@ print "+---------------------------------+\n";
 # DONE!
 # END MAIN()
 # SUBROUTINES FOLLOW
-sub get_title($)
+sub get_title()
 {
   my ($prefix) = (@_);
   my $confirmed = 0;
@@ -197,7 +197,7 @@ sub get_title($)
   return $title;
 }
 
-sub get_date($) {
+sub get_date() {
   my $confirmed = 0;
   my $user_dt;   # will be returned once we confirm its value
   my ($dt_now) = (@_);
@@ -211,7 +211,7 @@ sub get_date($) {
   return ($user_dt->ymd, $user_dt->strftime("%A %d %B %Y"));
 }
 
-sub show_dates($) {
+sub show_dates() {
   my ($dt_now) = (@_);
   my $dt = $dt_now->clone;      # don't mess with global date
   my $desired_day_of_week = 4;  # Thursday
@@ -232,13 +232,13 @@ sub show_dates($) {
   print $dt->day_name . " " . $dt->ymd . "\n";
 }
 
-sub ask_confirm_date($) {
+sub ask_confirm_date() {
   my ($dt) = (@_);
   my $string_to_confirm = $dt->strftime("%A %d %B %Y");   ##  Sunday 30 May 2021
   return confirm_string($string_to_confirm);
 }
 
-sub confirm_string($) {
+sub confirm_string() {
   my ($string_to_confirm) = (@_);
   my $confirmed = 0;
   print "\nIs this correct?  (yes/no)\n";
@@ -256,7 +256,7 @@ sub confirm_string($) {
   return $confirmed;
 }
 
-sub input_date($) {
+sub input_date() {
   my ($dt_now) = (@_);
   my $thedate = $dt->ymd;  # year-month-date (numeric).
   $thedate = "2021-06-20";    ###  hardcode while testing
@@ -266,14 +266,14 @@ sub input_date($) {
   return length($user_date) ? $user_date : $thedate;
 }
 
-sub parse_user_date($) {
+sub parse_user_date() {
   my ($user_date) = (@_);
   print "in parse got this date: $user_date \n";
   my $epoch = str2time($user_date);    #  https://stackoverflow.com/a/7487117/194309
   return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
-sub kebab_case($) {
+sub kebab_case() {
   my ($title) = (@_);
       $title = lc($title);    # make title lowercase
       $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
@@ -282,7 +282,7 @@ sub kebab_case($) {
   return $title;
 }
 
-sub get_tags($) {
+sub get_tags() {
   my $confirmed = 0;
   my $tagstring;
   my (%tags) = (@_);
@@ -369,7 +369,7 @@ sub get_event_type() {
   return $event_type;
 }
 
-sub get_episode_image($) {
+sub get_episode_image() {
   my $confirmed = 0;
   my ($episode_image,$episode_thumb);
 
