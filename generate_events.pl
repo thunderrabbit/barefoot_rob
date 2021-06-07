@@ -180,18 +180,7 @@ sub get_title()
     $title =~ s/^"(.*)"$/$1/;  # strip surrounding "s
     $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace  }
     $title = $prefix.$title;
-    print "\nIs this title string correct?  (y/n)\n";
-    print "  $title\n";
-    while (1) {
-      my $resp = <STDIN>;
-      $resp =~ s/^\s+|\s+$//g;
-
-      if    ($resp =~ /^y/i) { $confirmed = 1; last; }
-      elsif ($resp =~ /^n/i) { $confirmed = 0; last; }
-      else  {
-        print "Please answer \"y\" or \"n\".  ";
-      }
-    }# while confirm tags
+    $confirmed = ask_confirm_string($title);
   }
   return $title;
 }
