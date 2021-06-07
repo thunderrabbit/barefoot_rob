@@ -81,7 +81,6 @@ my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes 
 # TODO: error handling
 #
 my $event_template;
-my $bframes_output;
 
 {
   # debug interface just to get the bulk of the code working
