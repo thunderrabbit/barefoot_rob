@@ -3,7 +3,8 @@ title: "Eye Gazing Workshop"
 tags: [ "eye", "gazing", "workshop", "free" ]
 author: Rob Nugen
 date: 2019-08-17T10:23:12+09:00
-draft: false
+EventTime: "2pm - 4pm"
+EventDate: 2019-08-17
 ---
 
 They say our eyes are the window to the soul. This workshop will give us a chance to look more deeply into ourselves and more deeply into those around us.
