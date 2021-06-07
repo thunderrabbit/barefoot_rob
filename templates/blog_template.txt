@@ -12,7 +12,7 @@ aliases: [
 
 <img
 src="%episode_image"
-alt="Have the courage to follow your heart and intuition"
+alt=""
 class="title" />
 
-<div class="note">(image credit: https://hipwallpaper.com/view/Gtg24n)</div>
+<div class="note">(image credit: )</div>
