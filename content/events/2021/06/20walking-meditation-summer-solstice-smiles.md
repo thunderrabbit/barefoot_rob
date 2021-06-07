@@ -12,7 +12,7 @@ aliases: [
 
 <img
 src="https://b.robnugen.com/blog/2021/2021_jun_05_max_yuma_hiro_yuna_emico.jpg"
-alt=""
+alt="Max, Yuma, Hiro, Yuna, Emico after walking meditation"
 class="title" />
 
 Refresh your spirit. Touch the earth. Connect with nature.
@@ -23,7 +23,7 @@ Meditation, walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at noon Saturday, June 5th, 2021**
+**gather at 11:45; enter Yoyogi Park at noon Sunday, June 20th, 2021**
 
 #### Where
 
