@@ -36,16 +36,6 @@ my %event_template_files = (
     "quest_update" => "$home/barefoot_rob/templates/niigata_2021_walking_update.txt",
 );
 
-# Create outfile path based on today's date
-# convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
-my %event_output_directories = (
-    "blog_entry" => $blog_directory . "/" . $dt->ymd("/"),             # don't end with slash, by `convention` above
-    "book_chapter" => $slow_down_book_dir . "/",                       # end with slash because book directories have no dates
-    "weekly_alignment" => $events_directory . "/" . $dt->ymd("/"),     # don't end with slash, by `convention` above
-    "walking_meditation" => $events_directory . "/" . $dt->ymd("/"),   # don't end with slash, by `convention` above
-    "quest_update" => $niigata_walk_dir . "/" . $dt->ymd("/"),         # don't end with slash, by `convention` above
-);
-
 my %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
     "book_chapter" => {"book" => 1},
@@ -163,6 +153,16 @@ foreach my $key (keys %$new_entry) {
 
 # store this for debugging
 $new_entry->{mt3_episode_output} = $mt3_episode_output;
+
+# Create outfile path based on today's date
+# convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
+my %event_output_directories = (
+    "blog_entry" => $blog_directory . "/" . $dt->ymd("/"),             # don't end with slash, by `convention` above
+    "book_chapter" => $slow_down_book_dir . "/" . $event_date . "_",   # don't end with slash because book directories have no dates
+    "weekly_alignment" => $events_directory . "/" . $dt->ymd("/"),     # don't end with slash, by `convention` above
+    "walking_meditation" => $events_directory . "/" . $dt->ymd("/"),   # don't end with slash, by `convention` above
+    "quest_update" => $niigata_walk_dir . "/" . $dt->ymd("/"),         # don't end with slash, by `convention` above
+);
 
 my $alias_path = $event_output_directories{$what_kinda_event} . kebab_case($title);
 my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
