@@ -2,11 +2,11 @@
 
 if [ -z "$1" ]
   then
-    echo "Usage: $0 <Do you like new browser tab? Y / N>"
-    exit
+    echo "Usage: $0 <open browser? y / N>  <show drafts? y / N>"
 fi
 
 WANT_BROWSER=$1
+SHOW_DRAFTS=$2
 
 echo removing thousands of entries so Hugo can monitor changes live
 rm -rf content/journal/19*
@@ -21,4 +21,9 @@ if [[ "$WANT_BROWSER" =~ ^[yY] ]]
     xdg-open http://localhost:1313/
 fi
 
-hugo server
+if [[ "$SHOW_DRAFTS" =~ ^[yY] ]]
+  then
+    hugo server -D
+  else
+    hugo server
+fi
