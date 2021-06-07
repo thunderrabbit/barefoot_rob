@@ -47,7 +47,7 @@ my %event_tag_hashes = (
 my %event_title_prefixes = (
     "blog_entry" => "",
     "weekly_alignment" => "Weekly Alignment - ",
-    "walking_meditation" => "Walking Meditation ",
+    "walking_meditation" => "Walking Meditation",
     "book_chapter" => "",
     "quest_update" => "",
 );

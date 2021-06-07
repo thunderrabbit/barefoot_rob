@@ -1,5 +1,5 @@
 ---
-title: "Walking Meditation : Summer Solstice Smiles"
+title: "Walking Meditation: Summer Solstice Smiles"
 tags: [ "event", "meditation", "solstice", "summer", "walk" ]
 author: Rob Nugen
 date: 2021-06-07T21:11:43+09:00
