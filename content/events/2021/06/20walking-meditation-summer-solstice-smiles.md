@@ -6,7 +6,7 @@ date: 2021-06-07T21:11:43+09:00
 EventTime: "gather at 11:45; enter the Park at noon"
 EventDate: "2021-06-20"
 aliases: [
-    "/events/2021/06/07walking-meditation-summer-solstice-smiles",
+    "/events/2021/06/20walking-meditation-summer-solstice-smiles",
 ]
 ---
 
