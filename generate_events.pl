@@ -170,7 +170,7 @@ print "+---------------------------------+\n";
 # SUBROUTINES FOLLOW
 sub get_title()
 {
-  my ($prefix) = (@_);
+  my ($prefix) = @_;
   my $confirmed = 0;
   my $title;
   while (!$confirmed) {
@@ -198,9 +198,9 @@ sub get_title()
 }
 
 sub get_date() {
+  my ($dt_now) = @_;
   my $confirmed = 0;
   my $user_dt;   # will be returned once we confirm its value
-  my ($dt_now) = (@_);
   while (!$confirmed) {
     show_dates($dt_now);
     my $user_date = input_date($dt_now);
@@ -212,7 +212,7 @@ sub get_date() {
 }
 
 sub show_dates() {
-  my ($dt_now) = (@_);
+  my ($dt_now) = @_;
   my $dt = $dt_now->clone;      # don't mess with global date
   my $desired_day_of_week = 4;  # Thursday
   print "in get date.   TODO: let us choose which upcoming Thursday to use.... \n";
@@ -233,13 +233,13 @@ sub show_dates() {
 }
 
 sub ask_confirm_date() {
-  my ($dt) = (@_);
+  my ($dt) = @_;
   my $string_to_confirm = $dt->strftime("%A %d %B %Y");   ##  Sunday 30 May 2021
   return confirm_string($string_to_confirm);
 }
 
 sub confirm_string() {
-  my ($string_to_confirm) = (@_);
+  my ($string_to_confirm) = @_;
   my $confirmed = 0;
   print "\nIs this correct?  (yes/no)\n";
   print "  $string_to_confirm\n";
@@ -257,7 +257,7 @@ sub confirm_string() {
 }
 
 sub input_date() {
-  my ($dt_now) = (@_);
+  my ($dt_now) = @_;
   my $thedate = $dt->ymd;  # year-month-date (numeric).
   $thedate = "2021-06-20";    ###  hardcode while testing
   print "Input date of event: ($thedate)\n";
@@ -267,14 +267,14 @@ sub input_date() {
 }
 
 sub parse_user_date() {
-  my ($user_date) = (@_);
+  my ($user_date) = @_;
   print "in parse got this date: $user_date \n";
   my $epoch = str2time($user_date);    #  https://stackoverflow.com/a/7487117/194309
   return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
 sub kebab_case() {
-  my ($title) = (@_);
+  my ($title) = @_;
       $title = lc($title);    # make title lowercase
       $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
@@ -283,9 +283,9 @@ sub kebab_case() {
 }
 
 sub get_tags() {
+  my (%tags) = @_;
   my $confirmed = 0;
   my $tagstring;
-  my (%tags) = (@_);
 
   while (!$confirmed) {
     # put the tags in a hash
@@ -339,7 +339,7 @@ sub get_tags() {
 }# get_tags()
 
 sub get_event_type() {
-  my (@event_types) = (@_);
+  my (@event_types) = @_;
   my $event_type;
   my $selected_type;
 
