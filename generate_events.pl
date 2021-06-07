@@ -227,7 +227,7 @@ sub ask_confirm_date() {
   return ask_confirm_string($string_to_confirm);
 }
 
-sub ask_confirm_string() {
+sub ask_confirm_string($) {
   my ($string_to_confirm) = @_;
   my $confirmed = 0;
   print "\nIs this correct?  (yes/no)\n";
