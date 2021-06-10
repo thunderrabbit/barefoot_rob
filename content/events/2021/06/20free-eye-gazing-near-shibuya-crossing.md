@@ -15,7 +15,7 @@ src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
 alt="Barefoot Rob - I am happy to see you"
 class="title" />
 
-Find your center.  Connect to the wisdom of your heart.
+Be seen for who you *are*, not what you do.
 
 #### When
 
