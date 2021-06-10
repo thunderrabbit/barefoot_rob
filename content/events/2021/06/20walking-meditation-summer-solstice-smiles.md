@@ -54,6 +54,10 @@ What to Expect:
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
 
+After the walking meditation:
+
+Feel free to join us for lunch on the top level of [Miyashita Park](https://www.miyashita-park.tokyo/) (near Shibuya Station)
+
 To receive the latest updates, [join our LINE group](/contact/)!
 
 **Costs:**
