@@ -1,0 +1,62 @@
+{{ partial "header_member.html" . }}
+
+LIST
+<div id="layout" class="pure-g">
+    {{ partial "sidebar.html" . }}
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
+                        {{ if ne .Params.EventDate nil }}
+                          <h1 class="content-event-subhead">
+                            {{ if ne .Params.EventTime nil }}{{  .Params.EventTime }}{{ end }}
+                            {{ dateFormat "Monday 02 January 2006" .Params.EventDate }}
+                          </h1>
+                        {{ end }}
+                        <p class="post-meta">
+                            {{ if isset .Params "categories" }}
+                                {{ range .Params.categories }}
+                                    <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>
+                                {{ end }}
+                            {{ end }}
+                        </p>
+                    </header>
+                    {{ if not .Site.Params.hideShareOptions }}
+                    <div class="post-share">
+                        <div class="post-share-links">
+                            <h4 style="">Share</h4>
+                            {{ if isset .Site.Params "facebook" }}
+                            <a href="#" data-type="facebook" data-url="{{ .Permalink }}" data-title="{{ .Title }}" data-description="{{ .Description }}" data-media="" class="prettySocial fa fa-facebook"></a>
+                            {{ end }}
+                            {{ if isset .Site.Params "googleplus" }}
+                            <a href="#" data-type="googleplus" data-url="{{ .Permalink }}" data-description="{{ .Description }}" class="prettySocial fa fa-google-plus"></a>
+                            {{ end }}
+                            {{ if isset .Site.Params "twitter" }}
+                            <a href="#" data-type="twitter" data-url="{{ .Permalink }}" data-description="{{ .Description }}" data-via="{{ .Site.Params.twitter }}" class="prettySocial fa fa-twitter"></a>
+                            {{ end }}
+
+                        </div>
+                    </div>
+                    {{ end }}
+                    <div class="post-description">
+                        {{ .Content }}
+                    </div>
+                    {{ template "_internal/disqus.html" . }}
+                </section>
+            </div>
+            <div class="pager">
+                 {{with .NextPage}} <a href="{{.Permalink}}" rel="prev" style="float: left!important">❮ {{.Title}}</a>{{end}}
+                 {{with .PrevPage}} <a href="{{.Permalink}}" rel="next" style="float: right!important"> {{.Title}} ❯</a>{{end}}
+            </div>
+            {{ partial "footer.html" . }}
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

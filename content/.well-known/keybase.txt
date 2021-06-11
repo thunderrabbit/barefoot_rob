@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thunderrabbit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://robnugen.com
+  * I am thunderrabbit (https://keybase.io/thunderrabbit) on keybase.
+  * I have a public key ASBd5AWmGMv-8ISLuKMpx6LQaoFQTt4yRmiEzYagpjYjCAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bba5ab2a551621ecf62f0b9ec09099bdb93083e1ef32795ca3f3e1eb04b148450a",
+      "host": "keybase.io",
+      "kid": "01205de405a618cbfef0848bb8a329c7a2d06a81504ede32466884cd86a0a63623080a",
+      "uid": "3eba317b883abc4559b60bd5b26ca000",
+      "username": "thunderrabbit"
+    },
+    "merkle_root": {
+      "ctime": 1570446969,
+      "hash": "c7b3cf34938f73a2cedb7ee1da7bd7d91cf5ff1b179f2407c281e5d38a527138de6cc08263fd11d81799aa3dd79573d044608b66f007cf42215ee66fdaf3c0da",
+      "hash_meta": "e9e90f2770d2c648ad0fff17df3932466cedbde39a98d4b446b74638a6c1074d",
+      "seqno": 7893089
+    },
+    "service": {
+      "entropy": "85X7fMFAYDQrKqX6XDj7XPlD",
+      "hostname": "robnugen.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570446983,
+  "expire_in": 504576000,
+  "prev": "28c42687c3ee943a4dcc843736dc244c6c257ddebfc0893c72b8c5f4532aa74e",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXeQFphjL/vCEi7ijKcei0GqBUE7eMkZohM2GoKY2IwgKp3BheWxvYWTESpcCHMQgKMQmh8PulDpNzIQ3NtwkTGwlfd6/wIk8crjF9FMqp07EIFraDdkqwfp0hLm8AV6+eH/o3X/RC25k4g0QB4NmO9F1AgHCo3NpZ8RAa61fgGPm6L4SCNbtAzEDGnX+IRxT4x88YQa0qNBwX9ZkTSSBD9zemtu6d0+6B462Y8OLVI0gWezS3aF1EDeUAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG18OcP1xvdIYJlPtAwKeGtaH7oW+aIBhin8jbE3FvUQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thunderrabbit
+
+==================================================================

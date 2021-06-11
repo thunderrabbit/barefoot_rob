@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
 
+    <script src="/ai-cookie-snippet.js"></script>
     <meta name="description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
 
     {{hugo.Generator}}
@@ -22,9 +23,12 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
 
     <link rel="stylesheet" href='{{ "css/all.min.css" | absURL }}'>
-    <link rel="stylesheet" href='{{ "css/barefoot_rob.css" | absURL }}'>{{/* copied from theme and added this line */}}
+    <link rel="stylesheet" href='{{ "css/barefoot_rob.css?1" | absURL }}'>{{/* copied from theme and added this line */}}
+    <link rel="stylesheet" href='{{ "css/journal.css" | absURL }}'>{{/* copied from theme and added this line */}}
+    <link rel="stylesheet" href='{{ "css/runes.css" | absURL }}'>{{/* copied from theme and added this line */}}
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href='{{ "index.xml" | absURL }}' />
+
 </head>
 <body>

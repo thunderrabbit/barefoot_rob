@@ -8,8 +8,8 @@
         <div>
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
-                {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-                {{ range $pages }}
+                {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+                {{ range $paginator.Pages }}
                 <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
                 <section class="post">
                     <header class="post-header">
@@ -21,7 +21,7 @@
                                 By <strong class="post-author">{{ . }}</strong>
                             {{ end }}
                             {{ if isset .Params "categories" }}
-                                under 
+                                under
                                 {{ range .Params.categories }}<a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>{{ end }}
                             {{ end }}
                         </p>
@@ -33,13 +33,11 @@
                 </section>
                 {{ end }}
             </div>
-            {{ partial "pagination.html" $pages }}
-            {{ template "_internal/pagination.html" . }}
+            {{ partial "pagination.html" . }}
             {{ partial "footer.html" . }}
         </div>
     </div>
 </div>
 
-{{ partial "analytics.html" . }}
 </body>
 </html>

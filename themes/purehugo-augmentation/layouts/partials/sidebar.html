@@ -4,19 +4,54 @@
             <h1 class="brand-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
             <h2 class="brand-tagline">{{ with .Site.Params.description }} {{.}} {{end}}</h2>
         </hgroup>
-
+<link rel="micropub" href="https://www.robnugen.com/micropub/index.php">
+<link rel="media_endpoint" href="https://b.robnugen.com/micropub/">
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
         <nav class="nav">
             <ul class="nav-list">
+                <li class="nav-item">
+                    <a class="pure-button" href='/'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} home{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "events" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} events{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "services" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} services{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "about" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} about{{ end }}
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "contact" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} contact{{ end }}
+                    </a>
+                </li>
+<!--
+                <li class="nav-item">
+                    <a class="pure-button" href='{{ "faq" | absURL }}'>
+                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} faq{{ end }}
+                    </a>
+                </li>
+-->
                 {{ if .Site.Params.twitterName }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://twitter.com/{{ .Site.Params.twitterName }}">
+                    <a class="pure-button" rel="me" href="https://twitter.com/{{ .Site.Params.twitterName }}">
                         <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.githubName }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://github.com/{{ .Site.Params.githubName }}">
+                    <a class="pure-button" rel="me" href="https://github.com/{{ .Site.Params.githubName }}">
                         <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
                     </a>
                 </li>
@@ -35,21 +70,6 @@
                     </a>
                 </li>
                 {{ end }}
-                <li class="nav-item">
-                    <a class="pure-button" href='/'>
-                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} home{{ end }}
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="pure-button" href='{{ "journal" | absURL }}'>
-                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} journal{{ end }}
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="pure-button" href='{{ "blog" | absURL }}'>
-                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarIconText }} blog{{ end }}
-                    </a>
-                </li>
                 <!-- li class="nav-item">
                     <a class="pure-button" href='{{ "index.xml" | absURL }}'>
                         <i class="fa fa-rss"></i>{{ if not .Site.Params.hideSidebarIconText }} rss{{ end }}
