@@ -5,6 +5,7 @@ author: Rob Nugen
 date: 2021-06-04T11:36:44+09:00
 aliases: [
    "what-is-eye-gazing",
+   "/eye-gazing",
 ]
 ---
 
