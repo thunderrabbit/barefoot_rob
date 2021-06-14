@@ -5,6 +5,10 @@ categories: [ "blog" ]
 author: Rob Nugen
 draft: false
 date: 2021-05-28T11:00:31+09:00
+aliases: [
+    "/confidential-listening",
+    "28do-you-ever-just-need-to-talk",
+]
 ---
 
 <!--
