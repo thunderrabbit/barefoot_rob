@@ -2,7 +2,7 @@
 title: "Weekly Alignments - every Thursday 7pm JST"
 tags: [ "alignment", "event", "every", "thursday", "weekly" ]
 author: Rob Nugen
-date: 2021-06-08T17:44:10+09:00
+date: 2021-06-14T17:44:10+09:00
 EventTime: "7pm ~ 8:30pm JST each Thursday"
 EventDate: "2021-06-17"
 aliases: [
