@@ -4,7 +4,7 @@ tags: [ "alignment", "event", "every", "thursday", "weekly" ]
 author: Rob Nugen
 date: 2021-06-14T17:44:10+09:00
 EventTime: "7pm ~ 8:30pm JST each Thursday"
-EventDate: "2021-06-17"
+EventDate: "2021-06-24"
 aliases: [
     "/events/2021/06/weekly-alignments-every-thursday-7pm-jst",
 ]
