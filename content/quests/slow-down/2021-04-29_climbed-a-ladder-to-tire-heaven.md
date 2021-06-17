@@ -16,7 +16,7 @@ alt="Tire heaven"
 class="title" />
 
 
-### written 2021_may_17 skipped dragondola snow_shed_tires_first_walk_first_two_tunnels
+(written 2021_may_17 skipped dragondola snow_shed_tires_first_walk_first_two_tunnels)
 
 
 While planning the trip, I discovered a tunnel through which I could
@@ -24,31 +24,37 @@ not walk because there's no sidewalks. And after a lot of thinking and
 a lot of planning and looking around and trying to figure out a way, I
 kept using the Street View to look at the tunnel and try to find,
 like, come when I walked through eyes, I know it's kind of long and
-this is me mikuni Tom Naidu that's the Japanese three country
+this is Mikuni Tunnel that's the Japanese three country
 tunnel. And when dragging this is using Google Maps when dragging the
 peg man to activate streetview I noticed that there were some other
 places I could drop the peg man to, to see things. And those places
 were in fact, a series of trails that don't show up on the map unless
-I'm dragging the peg man to try to find a place to land. So, while not
+I'm dragging the peg man to try to find a place to land.
+
+So, while not
 sure how this works behind the scenes, but while the trails are not
 used for navigation purposes, like what's the best way to walk from
 here to here? They don't show up in that kind of data, but they are
-available for the Pac Man to show you what is actually there. So maybe
+available for the Peg Man to show you what is actually there. So maybe
 I Anyway, there's many different ways that might be happening but a
 simplest might be that they're just tagged like don't use this why
 would they be tagged to not use it? I wonder? Hmm, maybe because they
 were rough overgrown trails that were quite challenging to walk
-on. And ah, next time I'll walk through the tunnel It was really I
+on.
+
+And ah, next time I'll walk through the tunnel It was really I
 mean, I don't know I mean, if I was just walking and like had proper
 hiking boots, which I did but I didn't use them they were in my bag so
 I carried my boots along with my computer in my journal and this is
 when it was great to have Jason's help because he really supported
-like picking up the bag even it kind of as mad as I was that he was
+like picking up the bag even it kind of..  as mad as I was that he was
 there it was great to have him there because he would like pick up the
 pick up the bag when it was going over rough spots and so it's kind of
 magical to have that caught that conflict of interest is I don't want
 him to be there and thank you for helping carry my bag kind of
-thing. So I mean I love him and now all of that ROI and gratitude and
+thing.
+
+So I mean I love him and now all of that ROI and gratitude and
 all this acknowledge I had this this conflict inside me is like leave
 me alone. Thanks for carrying my bag. Both of them were there so it
 was like
@@ -61,7 +67,7 @@ it's probably right around this corner here. And then check the map is
 like oh fuck saikhan still two kilometers to go. And they probably
 right around this trails. Oh, it's still one kilometer to go. So it
 was like it was tough walking just even on the highway there because
-it was uphill and Baba bomb but We got to the, like the corner where
+it was uphill and blah blah blah, but We got to the, like the corner where
 actually that's where the the trail was about to be there. And this is
 where I had wanted to book my accommodation. But they weren't
 open. And by not open, I think it was abandoned. These locations were
