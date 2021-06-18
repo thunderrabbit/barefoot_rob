@@ -4,11 +4,21 @@ author: 'Rob Nugen'
 date: '2021-05-03T22:15:30+09:00'
 ---
 
-Just before walking under one of the snowsheds it started to hail a little bit as part of the precipitation.  The hailstones were only a few millimeters across, but definitely not sleet because it wasn't that cold.  I ate one of the hailstones and it was great.  :-)
+Just before walking under one of the snowsheds it started to hail a little bit
+as part of the precipitation.  The hailstones were only a few millimeters across,
+but definitely not sleet because it wasn't that cold.  
+I ate one of the hailstones and it was great.  :-)
 
-For several long barefoot segments, I was walking in the street which was much nicer than the adjacent sidewalk.  I could see way down the street and move out of the way when cars came, which they rarely did because it was so rural.
+For several long barefoot segments, I was walking in the street which was much
+nicer than the adjacent sidewalk.  I could see way down the street and move out
+of the way when cars came, which they rarely did because it was so rural.
 
-Just before Urasa Station, I interacted with two groups of people: two teenage Japanese boys who took pictures with me including IG @kousei_mountains, and three people speaking English, but who didn't seem interested in talking when I said hello and such.  I felt a little sad because I haven't gotten to speak much English (in person) during this trip.
+Just before Urasa Station, I interacted with two groups of people:
+two teenage Japanese boys who took pictures with me including
+[@kousei_mountains on Instagram](https://www.instagram.com/kousei_mountains/),
+and three people speaking English, but who didn't seem interested in talking
+when I said hello and such.  I felt a little sad because I haven't gotten to
+speak much English (in person) during this trip.
 
 Day 18 was
 
