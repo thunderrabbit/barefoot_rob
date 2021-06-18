@@ -13,6 +13,11 @@ For several long barefoot segments, I was walking in the street which was much
 nicer than the adjacent sidewalk.  I could see way down the street and move out
 of the way when cars came, which they rarely did because it was so rural.
 
+<img
+src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/2021_may_03_two_kousei_rob.jpg"
+alt="image credit: IG @kousei_mountains"
+class="title" />
+
 Just before Urasa Station, I interacted with two groups of people:
 two teenage Japanese boys who took pictures with me including
 [@kousei_mountains on Instagram](https://www.instagram.com/kousei_mountains/),
