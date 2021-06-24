@@ -37,6 +37,16 @@ My workshops will let you explore what blocks you from offering the best of your
 
 ## Testimonial
 
-Rob has been an enormous blessing in my life. His facilitation work, guidance, and leadership have helped me to sense, understand, express and process my own emotions. He treats each person as a true individual and listens with openness, care, and compassion. In my personal experience Rob is excellent at both counseling and facilitation. He can serve a wide range of clients because he doesn’t have his own agenda, and pays close attention to the subjective and personal aspects of one’s emotions, life circumstances, and individual values, goals, or priorities. Whether you are struggling with overwhelming emotions, seeking greater self understanding, or simply desire more clarity about the direction you want to go in life, Rob can provide the space, tools, and support for you to discover your own wisdom.
+Rob has been an enormous blessing in my life. His facilitation work, guidance,
+and leadership have helped me to sense, understand, express and process my own
+emotions. He treats each person as a true individual and listens with openness,
+care, and compassion. In my personal experience Rob is excellent at both
+counseling and facilitation. He can serve a wide range of clients because he
+doesn’t have his own agenda, and pays close attention to the subjective and
+personal aspects of one’s emotions, life circumstances, and individual values,
+goals, or priorities. Whether you are struggling with overwhelming emotions,
+seeking greater self understanding, or simply desire more clarity about the
+direction you want to go in life, Rob can provide the space, tools, and support
+for you to discover your own wisdom.
 
 --Nathan Brandli--
