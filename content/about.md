@@ -35,7 +35,27 @@ My workshops will let you explore what blocks you from offering the best of your
 
 [Sign up for a session](//www.calendly.com/robnugen/30min)
 
-## Testimonial
+## Testimonials
+
+
+
+[![2021 apr 06 Anna Preuss testimonial](//b.robnugen.com/blog/2021/2021_apr_06_anna_testimonial.png)](https://www.facebook.com/anna.preuss21/posts/10158946010922655)
+
+I met Rob within in business setting and we set a little group up to be
+accountability buddies. During our group meetings I have gotten to know
+Rob well and have been continuously impressed by his clear presence,
+skills and generosity.  
+
+Recently, I was struggling with a mental blockage and Rob offered to guide me
+through a process to explore and resolve the blockage. Rob's thoughtful and
+intuitive approach, combined with his grounding energy and gentle commitment
+to helping others to heal was super helpful in releasing the old pattern.
+
+Anyone, who feels stuck and wants a helping hand or maybe just needs to be
+listened, would find a session with Rob beneficial. I highly recommend Rob!
+
+-- Anna Preuss
+
 
 Rob has been an enormous blessing in my life. His facilitation work, guidance,
 and leadership have helped me to sense, understand, express and process my own
@@ -49,4 +69,7 @@ seeking greater self understanding, or simply desire more clarity about the
 direction you want to go in life, Rob can provide the space, tools, and support
 for you to discover your own wisdom.
 
---Nathan Brandli--
+-- Nathan Brandli
+
+
+![2020 dec 30 bob mayhew testimonial](//b.robnugen.com/blog/2021/2020_dec_30_bob_mayhew_testimonial.png)
