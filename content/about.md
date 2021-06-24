@@ -38,6 +38,7 @@ My workshops will let you explore what blocks you from offering the best of your
 ## Testimonials
 
 
+<div class="walk-segment">
 
 [![2021 apr 06 Anna Preuss testimonial](//b.robnugen.com/blog/2021/2021_apr_06_anna_testimonial.png)](https://www.facebook.com/anna.preuss21/posts/10158946010922655)
 
@@ -56,6 +57,8 @@ listened, would find a session with Rob beneficial. I highly recommend Rob!
 
 -- Anna Preuss
 
+</div>
+<div class="walk-segment">
 
 Rob has been an enormous blessing in my life. His facilitation work, guidance,
 and leadership have helped me to sense, understand, express and process my own
@@ -71,5 +74,9 @@ for you to discover your own wisdom.
 
 -- Nathan Brandli
 
+</div>
+<div class="walk-segment">
 
 ![2020 dec 30 bob mayhew testimonial](//b.robnugen.com/blog/2021/2020_dec_30_bob_mayhew_testimonial.png)
+
+</div>
