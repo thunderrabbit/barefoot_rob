@@ -11,7 +11,7 @@ aliases: [
 ---
 
 <img
-src="//b.robnugen.com/journal/2021/manpukuji_hayama_park/thumbs/2021_jun_24_pre_manpukuji_hayama_park_benches.jpg"
+src="//b.robnugen.com/journal/2021/manpukuji_hayama_park/2021_jun_24_pre_manpukuji_hayama_park_benches.jpg"
 alt="Benches in the park"
 class="title" />
 
