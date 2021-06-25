@@ -42,7 +42,7 @@ My workshops will let you explore what blocks you from offering the best of your
 
 [![2021 apr 06 Anna Preuss testimonial](//b.robnugen.com/blog/2021/2021_apr_06_anna_testimonial.png)](https://www.facebook.com/anna.preuss21/posts/10158946010922655)
 
-I met Rob within in business setting and we set a little group up to be
+I met Rob within a business setting and we set a little group up to be
 accountability buddies. During our group meetings I have gotten to know
 Rob well and have been continuously impressed by his clear presence,
 skills and generosity.  
