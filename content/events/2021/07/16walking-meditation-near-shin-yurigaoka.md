@@ -23,7 +23,9 @@ class="title" />
 
 **Meet in Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98)**  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
-[![2021 jun 24 pre manpukuji hayama meeting point](//b.robnugen.com/journal/2021/manpukuji_hayama_park/thumbs/thumbs/2021_jun_24_pre_manpukuji_hayama_meeting_point.jpg)](//b.robnugen.com/journal/2021/manpukuji_hayama_park/thumbs/2021_jun_24_pre_manpukuji_hayama_meeting_point.jpg)
+Meet by the mailboxes:
+
+[![July 16th meeting point](//b.robnugen.com/journal/2021/manpukuji_hayama_park/thumbs/2021_jun_24_pre_manpukuji_hayama_meeting_point.jpg)](//b.robnugen.com/journal/2021/manpukuji_hayama_park/2021_jun_24_pre_manpukuji_hayama_meeting_point.jpg)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
