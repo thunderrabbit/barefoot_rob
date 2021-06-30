@@ -38,9 +38,9 @@ All attendees must agree to uphold our [Agreements](agreements).
 
 ## Costs (for four meetings each month) ##
 
-* ¥[20,000: four sessions per month](https://py.pl/1QdAcu)
+* ¥[20,000: four sessions per month](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-43S50560BE9974917L63H7VA)
 
-[Subscribe via PayPal](https://py.pl/1QdAcu)
+[Subscribe via PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-43S50560BE9974917L63H7VA)
 
 Unsubscribe anytime.
 
