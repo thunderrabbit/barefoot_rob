@@ -56,7 +56,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **Costs:**
 
-free! (donations accepted)
+free! (This will be the last of my free walking meditations)
 
 **What to bring**
 
