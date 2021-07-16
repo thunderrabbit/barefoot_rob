@@ -2,6 +2,20 @@ package rpl::Functions;
 
 use strict;
 
+my $zone = "Asia/Tokyo";
+my $zoffset = "+09:00";
+
+our $dt = DateTime->now(
+    time_zone  => $zone,
+);
+
+our $thedate = $dt->ymd;  # year-month-date (numeric).
+our $thetime = $dt->hms;  # hour-min-sec    (numeric).
+our $year    = $dt->year;
+our $month   = $dt->month;
+our $day     = $dt->day;
+our $tz_date = $thedate . "T" . $thetime . $zoffset;
+
 sub get_title($)
 {
   my ($prefix) = @_;

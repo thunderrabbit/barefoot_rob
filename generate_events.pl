@@ -14,20 +14,6 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
-my $zone = "Asia/Tokyo";
-my $zoffset = "+09:00";
-
-my $dt = DateTime->now(
-    time_zone  => $zone,
-);
-
-my $thedate = $dt->ymd;  # year-month-date (numeric).
-my $thetime = $dt->hms;  # hour-min-sec    (numeric).
-my $year    = $dt->year;
-my $month   = $dt->month;
-my $day     = $dt->day;
-my $tz_date = $thedate . "T" . $thetime . $zoffset;
-
 my $what_kinda_event = get_event_type(sort keys %rpl::Constants::event_template_files);
 
 my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
