@@ -111,7 +111,7 @@ my %event_output_directories = (
 
 my $alias_path = $event_output_directories{$what_kinda_event};
 my $title_path = rpl::Functions::kebab_case($title);
-my $outfile_path = $rpl::Constants::content_directory . $alias_path;
+my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
 my $outfile_and_title_path = $outfile_path . $title_path . ".md";
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
