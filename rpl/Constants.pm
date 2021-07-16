@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+package rpl::Constants;
 
 use strict;
 
