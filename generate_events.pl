@@ -75,7 +75,7 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 #
 my $new_entry;
 
-my ($event_date, $event_date_human) = get_date($dt);
+my ($event_date, $event_date_human) = get_date($rpl::Functions::dt);
 
 my $title = get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
@@ -89,7 +89,7 @@ $new_entry->{EventDate} = $event_date;
 my $mt3_episode_output = $event_template;
 
 # handle date separately
-$mt3_episode_output =~ s/^(date: .*)/date: $tz_date/im;
+$mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
 $mt3_episode_output =~ s/human_date_here/$event_date_human/;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
@@ -105,11 +105,11 @@ $new_entry->{mt3_episode_output} = $mt3_episode_output;
 # Create outfile path based on today's date
 # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
 my %event_output_directories = (
-    "blog_entry" => $rpl::Constants::blog_directory . "/" . $dt->ymd("/"),             # don't end with slash, by `convention` above
+    "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
     "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date . "_",   # don't end with slash because book directories have no dates
-    "weekly_alignment" => $rpl::Constants::events_directory . "/" . $dt->ymd("/"),     # don't end with slash, by `convention` above
-    "walking_meditation" => $rpl::Constants::events_directory . "/" . $dt->ymd("/"),   # don't end with slash, by `convention` above
-    "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $dt->ymd("/"),         # don't end with slash, by `convention` above
+    "weekly_alignment" => $rpl::Constants::events_directory . "/" . $rpl::Functions::dt->ymd("/"),     # don't end with slash, by `convention` above
+    "walking_meditation" => $rpl::Constants::events_directory . "/" . $rpl::Functions::dt->ymd("/"),   # don't end with slash, by `convention` above
+    "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
 my $alias_path = $event_output_directories{$what_kinda_event} . kebab_case($title);
