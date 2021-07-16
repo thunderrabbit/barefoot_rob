@@ -11,9 +11,13 @@ aliases: [
 ---
 
 <img
-src="//b.robnugen.com/journal/2021/manpukuji_hayama_park/2021_jun_24_pre_manpukuji_hayama_park_benches.jpg"
-alt="Benches in the park"
+src="//b.robnugen.com/blog/2021/2021_july_16_walking_meditation_hiro_kyoko_andy_rob_travis_hiro.jpg"
+alt="Hiro, Kyoko, Andy, Rob, Travis, Hiro after walking meditation"
 class="title" />
+
+<div class="note">(image credit: Rinko Hayashi)</div>
+
+We had a great time!   https://www.robnugen.com/blog/2021/07/16/great-fun-walking-meditation-in-manpukuji-park/
 
 #### When
 
