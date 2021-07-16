@@ -109,17 +109,19 @@ my %event_output_directories = (
     "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
-my $alias_path = $event_output_directories{$what_kinda_event} . rpl::Functions::kebab_case($title);
-my $outfile_path = $rpl::Constants::content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
+my $alias_path = $event_output_directories{$what_kinda_event};
+my $title_path = rpl::Functions::kebab_case($title);
+my $outfile_path = $rpl::Constants::content_directory . $alias_path;
+my $outfile_and_title_path = $outfile_path . $title_path . ".md";
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
 
-open(OUT, ">", $outfile_path) or die "Could not open file '$outfile_path'";
+open(OUT, ">", $outfile_and_title_path) or die "Could not open file '$outfile_and_title_path'";
 print OUT $mt3_episode_output;
 close(OUT);
 
 print "+---------------------------------+\n";
-print "| wrote to $outfile_path\n";
+print "| wrote to $outfile_and_title_path\n";
 print "+---------------------------------+\n";
 
 
