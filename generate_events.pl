@@ -80,7 +80,7 @@ my ($event_date, $event_date_human) = get_date($dt);
 my $title = get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
 my $tagstring = get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
-my ($episode_image,$episode_thumb) = get_episode_image();
+my ($episode_image,$episode_thumb) = get_episode_image($title, @episode_images, @episode_thumbs);
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;

@@ -196,7 +196,8 @@ sub get_event_type(@) {
   return $event_type;
 }
 
-sub get_episode_image() {
+sub get_episode_image(@) {
+  my ($title, @episode_images, @episode_thumbs) = @_;
   my $confirmed = 0;
   my ($episode_image,$episode_thumb);
 
