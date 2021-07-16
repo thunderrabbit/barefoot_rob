@@ -2,8 +2,6 @@
 
 use strict;
 use Data::Dumper;
-use DateTime;
-use Date::Parse;
 
 # https://stackoverflow.com/a/46550384/194309
 use Cwd qw( abs_path );
