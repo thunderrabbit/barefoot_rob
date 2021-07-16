@@ -27,9 +27,9 @@ my $month   = $dt->month;
 my $day     = $dt->day;
 my $tz_date = $thedate . "T" . $thetime . $zoffset;
 
-my $what_kinda_event = get_event_type(sort keys %event_template_files);
+my $what_kinda_event = get_event_type(sort keys %rpl::Constants::event_template_files);
 
-my $event_template_file = $event_template_files{$what_kinda_event};
+my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
 
 my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
@@ -90,9 +90,9 @@ my $new_entry;
 
 my ($event_date, $event_date_human) = get_date($dt);
 
-my $title = get_title($event_title_prefixes{$what_kinda_event});
+my $title = get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
-my $tagstring = get_tags(%{$event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
+my $tagstring = get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = get_episode_image();
 
 $new_entry->{title} = $title;
@@ -118,15 +118,15 @@ $new_entry->{mt3_episode_output} = $mt3_episode_output;
 # Create outfile path based on today's date
 # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
 my %event_output_directories = (
-    "blog_entry" => $blog_directory . "/" . $dt->ymd("/"),             # don't end with slash, by `convention` above
-    "book_chapter" => $slow_down_book_dir . "/" . $event_date . "_",   # don't end with slash because book directories have no dates
-    "weekly_alignment" => $events_directory . "/" . $dt->ymd("/"),     # don't end with slash, by `convention` above
-    "walking_meditation" => $events_directory . "/" . $dt->ymd("/"),   # don't end with slash, by `convention` above
-    "quest_update" => $niigata_walk_dir . "/" . $dt->ymd("/"),         # don't end with slash, by `convention` above
+    "blog_entry" => $rpl::Constants::blog_directory . "/" . $dt->ymd("/"),             # don't end with slash, by `convention` above
+    "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date . "_",   # don't end with slash because book directories have no dates
+    "weekly_alignment" => $rpl::Constants::events_directory . "/" . $dt->ymd("/"),     # don't end with slash, by `convention` above
+    "walking_meditation" => $rpl::Constants::events_directory . "/" . $dt->ymd("/"),   # don't end with slash, by `convention` above
+    "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
 my $alias_path = $event_output_directories{$what_kinda_event} . kebab_case($title);
-my $outfile_path = $content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
+my $outfile_path = $rpl::Constants::content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
 
