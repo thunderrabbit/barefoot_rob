@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 use strict;
-use Data::Dumper;
 
 # https://stackoverflow.com/a/46550384/194309
 use Cwd qw( abs_path );
