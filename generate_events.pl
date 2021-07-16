@@ -14,7 +14,7 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
-my $what_kinda_event = get_event_type(sort keys %rpl::Constants::event_template_files);
+my $what_kinda_event = rpl::Functions::get_event_type(sort keys %rpl::Constants::event_template_files);
 
 my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
 
@@ -75,12 +75,12 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 #
 my $new_entry;
 
-my ($event_date, $event_date_human) = get_date($rpl::Functions::dt);
+my ($event_date, $event_date_human) = rpl::Functions::get_date($rpl::Functions::dt);
 
-my $title = get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
+my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
-my $tagstring = get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
-my ($episode_image,$episode_thumb) = get_episode_image($title, @episode_images, @episode_thumbs);
+my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
+my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
@@ -112,7 +112,7 @@ my %event_output_directories = (
     "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
-my $alias_path = $event_output_directories{$what_kinda_event} . kebab_case($title);
+my $alias_path = $event_output_directories{$what_kinda_event} . rpl::Functions::kebab_case($title);
 my $outfile_path = $rpl::Constants::content_directory . $alias_path . ".md";   # $year/$month/$day were defined at top of script
 
 $mt3_episode_output =~ s/alias_path/$alias_path/;
