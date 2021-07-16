@@ -1,6 +1,22 @@
 package rpl::Functions;
 
 use strict;
+use DateTime;
+use Date::Parse;
+
+my $zone = "Asia/Tokyo";
+my $zoffset = "+09:00";
+
+our $dt = DateTime->now(
+    time_zone  => $zone,
+);
+
+our $thedate = $dt->ymd;  # year-month-date (numeric).
+our $thetime = $dt->hms;  # hour-min-sec    (numeric).
+our $year    = $dt->year;
+our $month   = $dt->month;
+our $day     = $dt->day;
+our $tz_date = $thedate . "T" . $thetime . $zoffset;
 
 sub get_title($)
 {
@@ -182,7 +198,8 @@ sub get_event_type(@) {
   return $event_type;
 }
 
-sub get_episode_image() {
+sub get_episode_image(@) {
+  my ($title, @episode_images, @episode_thumbs) = @_;
   my $confirmed = 0;
   my ($episode_image,$episode_thumb);
 
