@@ -5,6 +5,12 @@ use Data::Dumper;
 use DateTime;
 use Date::Parse;
 
+# https://stackoverflow.com/a/46550384/194309
+use Cwd qw( abs_path );
+use File::Basename qw( dirname );
+use lib dirname(abs_path(__FILE__));
+use rpl::Constants;
+
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
 my $zone = "Asia/Tokyo";
