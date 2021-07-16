@@ -27,3 +27,5 @@ class="" />
 <div class="note">(image credit: Rob Nugen)</div>
 
 Funny how small the pictures are compared to a "full res" picture today.  At least they are in color!!
+
+HI Wende!
