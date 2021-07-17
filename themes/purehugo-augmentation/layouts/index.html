@@ -12,7 +12,7 @@
               {{ $future_events := where (where .Site.RegularPages "Type" "events") ".Params.eventdate" "ge" (now.Format "2006-01-02") }}
               {{ range sort $future_events "Params.eventdate" "asc" }}
 
-                <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
+                <h1 class="content-subhead">{{ .Params.eventdate }}</h1>
                 <section class="post">
                     <header class="post-header">
 
