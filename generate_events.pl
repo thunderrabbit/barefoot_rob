@@ -115,9 +115,9 @@ my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, thi
 my $outfile_and_title_path = $outfile_path . $title_path . ".md";
 
 my $dirname_of_output_file = dirname($outfile_and_title_path);
-mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309 
+mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309
 
-$mt3_episode_output =~ s/alias_path/$alias_path/;
+$mt3_episode_output =~ s|alias_path|$alias_path$title_path|;
 
 open(OUT, ">", $outfile_and_title_path) or die "Could not open file '$outfile_and_title_path'";
 print OUT $mt3_episode_output;
