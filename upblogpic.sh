@@ -8,4 +8,4 @@ echo ssh b.rn "'mkdir -p ~/b.robnugen.com/blog/$THISYEAR'"
 
 scp $@ b.rn:b.robnugen.com/blog/$THISYEAR
 
-
+ssh b.rn '~/scripts/create_thumbs.pl /home/thundergoblin/b.robnugen.com/blog/2021'
