@@ -10,7 +10,7 @@
             <div class="posts">
               {{/* https://discourse.gohugo.io/t/how-to-filter-mainsections-posts-based-on-frontmatter-dates/33345 */}}
               {{ $future_events := where (where .Site.RegularPages "Type" "events") ".Params.eventdate" "ge" (now.Format "2006-01-02") }}
-              {{ range sort $future_events "Params.eventdate" "desc" }}
+              {{ range sort $future_events "Params.eventdate" "asc" }}
 
                 <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
                 <section class="post">
