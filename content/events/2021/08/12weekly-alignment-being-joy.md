@@ -25,6 +25,8 @@ class="title" />
 
 #### Details
 
+This week we develop and expand our ability to feel and enjoy BEING alive, instead of seeking joy externally.
+
 (image credit: Image by <a href="https://pixabay.com/photos/">Free-Photos</a>)
 
 #### About Weekly Alignments

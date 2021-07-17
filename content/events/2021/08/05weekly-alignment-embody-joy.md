@@ -26,6 +26,8 @@ class="title" />
 
 #### Details
 
+This week we feel joy in our physical bodies, welcoming joy from within.
+
 (image credit: Image credit <a href="https://pixabay.com/users/geralt-9301/">Gerd Altmann</a>)
 
 #### About Weekly Alignments
