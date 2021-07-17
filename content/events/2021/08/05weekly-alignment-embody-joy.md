@@ -6,7 +6,7 @@ date: 2021-07-17T12:05:38+09:00
 EventTime: "7pm ~ 8:30pm"
 EventDate: "2021-08-05"
 aliases: [
-    "/events/2021/07/17weekly-alignment-embody-joy",
+    "/events/2021/08/05weekly-alignment-embody-joy",
 ]
 ---
 
