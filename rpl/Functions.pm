@@ -99,7 +99,6 @@ sub ask_confirm_string($) {
 sub input_date($) {
   my ($dt_now) = @_;
   my $thedate = $dt->ymd;  # year-month-date (numeric).
-  $thedate = "2021-06-20";    ###  hardcode while testing
   print "Input date of event: ($thedate)\n";
   my $user_date = <STDIN>;
   chomp($user_date);
