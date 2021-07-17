@@ -72,7 +72,7 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 #
 my $new_entry;
 
-my ($event_date, $event_date_human) = rpl::Functions::get_date($rpl::Functions::dt);
+my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);
 
 my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
@@ -81,13 +81,13 @@ my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
-$new_entry->{EventDate} = $event_date;
+$new_entry->{EventDate} = $event_date_time->ymd;
 # now build the output!
 my $mt3_episode_output = $event_template;
 
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
-$mt3_episode_output =~ s/human_date_here/$event_date_human/;
+$mt3_episode_output =~ s/human_date_here/${event_date_time->strftime("%A %d %B %Y")}/;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
 foreach my $key (keys %{ $new_entry }) {
@@ -103,9 +103,9 @@ $new_entry->{mt3_episode_output} = $mt3_episode_output;
 # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
 my %event_output_directories = (
     "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
-    "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date . "_",   # don't end with slash because book directories have no dates
+    "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date_time->ymd . "_",   # don't end with slash because book directories have no dates
     "weekly_alignment" => $rpl::Constants::events_directory . "/" . $rpl::Functions::dt->ymd("/"),     # don't end with slash, by `convention` above
-    "walking_meditation" => $rpl::Constants::events_directory . "/" . $rpl::Functions::dt->ymd("/"),   # don't end with slash, by `convention` above
+    "walking_meditation" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
     "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
