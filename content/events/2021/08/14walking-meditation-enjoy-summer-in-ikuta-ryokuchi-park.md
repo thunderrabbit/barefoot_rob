@@ -23,7 +23,7 @@ Meditation, walking, breathing, enjoying morning summer air.
 
 #### When
 
-**gather at 09:45; leave Mukogaoka-Yuen Station (向ヶ丘遊園駅) at 10am Saturday, June 5th, 2021**
+**gather at 09:45; leave Mukogaoka-Yuen Station (向ヶ丘遊園駅) at 10am Saturday, August 14th, 2021**
 
 #### Where
 
