@@ -52,6 +52,12 @@ We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 
 Live and interactive, the curriculum will adjust based on attendee questions and input.  Lots of clarity and positive energy assured!
 
+* 2021 July 22 [Bring your action into the world](/events/2021/07/22weekly-alignment-accessing-our-outer-warrior)
+* 2021 July 29 [Access your Inner Warrior](/events/2021/07/29weekly-alignment-accessing-our-inner-warrior)
+* 2021 Aug 05 [Embody Joy](/events/2021/08/05weekly-alignment-embody-joy)
+* 2021 Aug 12 [Joy in Being](/events/2021/08/12weekly-alignment-being-joy)
+* 2021 Aug 19 [Joy in Grief](/events/2021/08/19weekly-alignment-joy-within-grief)
+* 2021 Aug 26 [Generating Joy](/events/2021/08/26weekly-alignment-generating-joy)
 
 ## Listen to Recent Events ##
 
