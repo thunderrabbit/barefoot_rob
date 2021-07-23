@@ -20,7 +20,7 @@ my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes 
 #######################################################3#######################################################3
 # THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
 #
-# load latest files from events directory
+# load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
 # look for files which contain a line including "tags" and "mmm"
 # ask which file to pull data from
 # EVENT_FILE = slurp file user selects from list
