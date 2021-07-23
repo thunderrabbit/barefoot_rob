@@ -27,6 +27,7 @@ my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes 
 # $blog_date = get date from user, default to most recent Monday
 # create BLOGFILE:
 ## BLOGFILE = copy  EVENT_FILE to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
+#  $ cp content/events/2021/07/22weekly-alignment-accessing-our-outer-warrior.md content/blog/2021/07/
 ## (NOOP): keep same title and tags
 ## change date in frontmatter to match $blog_date  (see below "# handle date separately")
 ## remove line starting with EventTime
