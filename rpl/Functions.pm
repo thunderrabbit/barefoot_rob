@@ -198,7 +198,7 @@ sub get_event_type(@) {
 }
 
 ##  Return a list of files based on a directory
-sub get_event_file_to_blog($) {
+sub get_list_of_files_in_dir($) {
   my ($path_to_events) = @_;
   print "Returning events from " . $path_to_events . "\n";
   opendir DIR,$path_to_events;
