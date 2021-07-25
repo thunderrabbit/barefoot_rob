@@ -200,6 +200,8 @@ sub get_event_type(@) {
 ##  Return a list of files based on a directory
 sub get_list_of_files_in_dir($) {
   my ($path_to_events) = @_;
+  my @list_of_files;
+
   print "Returning events from " . $path_to_events . "\n";
   opendir DIR,$path_to_events;
   my @dir = readdir(DIR);
@@ -207,7 +209,7 @@ sub get_list_of_files_in_dir($) {
   ## loop thanks to https://stackoverflow.com/a/1045814
   foreach(@dir){
       if (-f $path_to_events . "/" . $_ ){
-        print $path_to_events . "/" . $_ . "\n";    # will return a list of files
+        push (@list_of_files, $path_to_events . "/" . $_);    # will return a list of files
       }elsif(-d $path_to_events . "/" . $_){
         next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
         print "ignoring directory " . $path_to_events . "/" . $_ . "\n";
@@ -216,9 +218,7 @@ sub get_list_of_files_in_dir($) {
       }
   }
 
-#  find content/events/2021/ | sort -r | grep $year/$month
-  # find $path_to_events . $(date +%Y/) | sort -r | grep $year/$month
-
+  return @list_of_files;
 }
 
 sub get_episode_image(@) {
