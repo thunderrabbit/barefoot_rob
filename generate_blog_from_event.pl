@@ -13,6 +13,7 @@ my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
 my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/2021/07");
 
+my $event_file_to_blog = rpl::Functions::get_event_type(@event_list_for_month);   # func get_event_type is generic, but misnamed here
 
 print $event_file_to_blog;
 print "exiting on line 17.  Keep going if we have something that we can cp to the blog dir..";
