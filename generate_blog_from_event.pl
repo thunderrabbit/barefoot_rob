@@ -39,22 +39,22 @@ print rpl::Functions::strip_path($event_file_to_blog) . "\n";
 # Get input data from commands
 # TODO: error handling
 #
-my $event_template;
+my $blog_template;
 
 {
   # debug interface just to get the bulk of the code working
 
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $event_template_file);
+  open (ETF, "<", $event_file_to_blog);
 
-  $event_template = <ETF>;
+  $blog_template = <ETF>;
 
   close ETF;
 }
 
 if ($verbosity > 2) {
-  print "length(ETF) = " . length($event_template) . "\n";
+  print "length(ETF) = " . length($blog_template) . "\n";
 }
 
 my $number_args = $#ARGV + 1;
@@ -83,7 +83,7 @@ $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
 $new_entry->{EventDate} = $event_date_time->ymd;
 # now build the output!
-my $mt3_episode_output = $event_template;
+my $mt3_episode_output = $blog_template;
 
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
