@@ -16,13 +16,6 @@ my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Consta
 my $event_file_to_blog = rpl::Functions::get_event_type(@event_list_for_month);   # func get_event_type is generic, but misnamed here
 
 print rpl::Functions::strip_path($event_file_to_blog) . "\n";
-exit;
-
-my $what_kinda_event = rpl::Functions::get_event_type(sort keys %rpl::Constants::event_template_files);
-
-my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
-
-my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
 #######################################################3#######################################################3
 # THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
