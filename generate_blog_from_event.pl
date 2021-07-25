@@ -74,9 +74,9 @@ my $new_entry;
 
 my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);
 
-my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
+my $title = ""; #rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
-my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
+my $tagstring = ""; # rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
 
 $new_entry->{title} = $title;
@@ -110,7 +110,7 @@ my %event_output_directories = (
     "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
-my $alias_path = $event_output_directories{$what_kinda_event};
+my $alias_path = ""; # $event_output_directories{$what_kinda_event};
 my $title_path = rpl::Functions::kebab_case($title);
 my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
 my $outfile_and_title_path = $outfile_path . $title_path . ".md";
