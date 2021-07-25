@@ -210,7 +210,6 @@ sub get_event_file_to_blog($) {
           print $path_to_events . "/" . $_,"   : file\n";
       }elsif(-d $path_to_events . "/" . $_){
           next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
-          get_event_file_to_blog($path_to_events . "/" . $_);
       }else{
           print $path_to_events . "/" . $_,"   : other\n";
       }
