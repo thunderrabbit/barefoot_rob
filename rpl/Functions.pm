@@ -197,6 +197,30 @@ sub get_event_type(@) {
   return $event_type;
 }
 
+
+sub get_event_file_to_blog($) {
+  my ($path_to_events) = @_;
+  print $path_to_events . "\n";
+  opendir DIR,$path_to_events;
+  my @dir = readdir(DIR);
+  close DIR;
+  ## loop thanks to https://stackoverflow.com/a/1045814
+  foreach(@dir){
+      if (-f $path_to_events . "/" . $_ ){
+          print $path_to_events . "/" . $_,"   : file\n";
+      }elsif(-d $path_to_events . "/" . $_){
+          next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
+          get_event_file_to_blog($path_to_events . "/" . $_);
+      }else{
+          print $path_to_events . "/" . $_,"   : other\n";
+      }
+  }
+
+#  find content/events/2021/ | sort -r | grep $year/$month
+  # find $path_to_events . $(date +%Y/) | sort -r | grep $year/$month
+
+}
+
 sub get_episode_image(@) {
   my ($title, @episode_images, @episode_thumbs) = @_;
   my $confirmed = 0;
