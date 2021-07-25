@@ -11,8 +11,10 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
+# load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
 my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/2021/07");
 
+# ask which file to pull data from
 my $event_file_to_blog = rpl::Functions::get_event_type(@event_list_for_month);   # func get_event_type is generic, but misnamed here
 
 print rpl::Functions::strip_path($event_file_to_blog) . "\n";
@@ -20,9 +22,6 @@ print rpl::Functions::strip_path($event_file_to_blog) . "\n";
 #######################################################3#######################################################3
 # THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
 #
-# load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
-# look for files which contain a line including "tags" and "mmm"
-# ask which file to pull data from
 # EVENT_FILE = slurp file user selects from list
 # $blog_date = get date from user, default to most recent Monday
 # create BLOGFILE:
