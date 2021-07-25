@@ -11,6 +11,12 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
+my $event_file_to_blog = rpl::Functions::get_event_file_to_blog($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/2021/07");
+
+print $event_file_to_blog;
+print "exiting on line 17.  Keep going if we have something that we can cp to the blog dir..";
+exit;
+
 my $what_kinda_event = rpl::Functions::get_event_type(sort keys %rpl::Constants::event_template_files);
 
 my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
