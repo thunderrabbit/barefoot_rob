@@ -197,21 +197,22 @@ sub get_event_type(@) {
   return $event_type;
 }
 
-
+##  Return a list of files based on a directory
 sub get_event_file_to_blog($) {
   my ($path_to_events) = @_;
-  print $path_to_events . "\n";
+  print "Returning events from " . $path_to_events . "\n";
   opendir DIR,$path_to_events;
   my @dir = readdir(DIR);
   close DIR;
   ## loop thanks to https://stackoverflow.com/a/1045814
   foreach(@dir){
       if (-f $path_to_events . "/" . $_ ){
-          print $path_to_events . "/" . $_,"   : file\n";
+        print $path_to_events . "/" . $_ . "\n";    # will return a list of files
       }elsif(-d $path_to_events . "/" . $_){
-          next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
+        next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
+        print "ignoring directory " . $path_to_events . "/" . $_ . "\n";
       }else{
-          print $path_to_events . "/" . $_,"   : other\n";
+        print "ignoring non file non directory " . $path_to_events . "/" . $_ . "\n";
       }
   }
 
