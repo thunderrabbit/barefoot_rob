@@ -22,8 +22,6 @@ print rpl::Functions::strip_path($event_file_to_blog) . "\n";
 #######################################################3#######################################################3
 # THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
 #
-# EVENT_FILE = slurp file user selects from list
-# $blog_date = get date from user, default to most recent Monday
 # create BLOGFILE:
 ## BLOGFILE = copy  EVENT_FILE to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
 #  $ cp content/events/2021/07/22weekly-alignment-accessing-our-outer-warrior.md content/blog/2021/07/
@@ -42,8 +40,7 @@ print rpl::Functions::strip_path($event_file_to_blog) . "\n";
 my $blog_template;
 
 {
-  # debug interface just to get the bulk of the code working
-
+  # EVENT_FILE = slurp file user selects from list
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
   open (ETF, "<", $event_file_to_blog);
@@ -52,6 +49,20 @@ my $blog_template;
 
   close ETF;
 }
+
+$blog_template =~ /(title: ")([^"]+)(")/;
+my $blog_title = ($2);
+print "TITLE $blog_title\n";
+
+$blog_template =~ /(EventDate: ")([^"]+)(")/;
+# $blog_date = event date from frontmatter (make blog date the same date as the event was)
+my $blog_date = ($2);
+print "DATE $blog_date\n";
+
+exit;
+
+print $blog_template;
+
 
 if ($verbosity > 2) {
   print "length(ETF) = " . length($blog_template) . "\n";
