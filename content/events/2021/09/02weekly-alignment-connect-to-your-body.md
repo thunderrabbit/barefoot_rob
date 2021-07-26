@@ -25,7 +25,11 @@ class="title" />
 
 #### Details
 
-(image credit: )
+Get in touch with embodied feeling, connecting with yourself and therefore the world around you.
+
+For the next four weeks we will deepen our connection with felt experience.
+
+(Image by <a href="https://pixabay.com/users/publicdomainpictures-14/">PublicDomainPictures</a>)
 
 #### About Weekly Alignments
 
