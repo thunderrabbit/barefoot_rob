@@ -54,10 +54,10 @@ $blog_template =~ /(title: ")([^"]+)(")/;
 my $blog_title = $2;
 print "TITLE $blog_title\n";
 
-$blog_template =~ /(EventDate: ")([^"]+)(")/;
-# $blog_date = event date from frontmatter (make blog date the same date as the event was)
-my $blog_date = $2;
-print "DATE $blog_date\n";
+# get event date from frontmatter (make blog date the same date as the event was)
+$blog_template =~ /(EventDate: ")([^"]+)(")/;               # get date from frontmatter
+my ($blog_year, $blog_month, $blog_day) = split("-",$2);    # $2 expected format yyyy-mm-dd
+print "DATE $blog_year $blog_month $blog_day\n";
 
 exit;
 
