@@ -20,21 +20,10 @@ my $event_file_to_blog = rpl::Functions::get_event_type(@event_list_for_month); 
 print rpl::Functions::strip_path($event_file_to_blog) . "\n";
 
 #######################################################3#######################################################3
-# THIS IS TO MAKE BLOG ENTRIES BASED ON EVENTS
-#
-# create BLOGFILE:
-## BLOGFILE = copy  EVENT_FILE to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
-#  $ cp content/events/2021/07/22weekly-alignment-accessing-our-outer-warrior.md content/blog/2021/07/
-## (NOOP): keep same title and tags
-## change date in frontmatter to match $blog_date  (see below "# handle date separately")
-## remove line starting with EventTime
-## remove line starting with EventDate
-## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
-# append body with "If this sounds like something that would interest you, contact me, email me, find me so we can talk."
-#
+# BEGIN MAKE BLOG ENTRIES BASED ON EVENTS
 #######################################################3#######################################################3
 
-# Get input data from commands
+# Slurp the event file
 # TODO: error handling
 #
 my $blog_template;
@@ -65,10 +54,21 @@ unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/
     exit(1); ## tells the caller side that there is an error
 }
 
-exit;
+
+#
+# create BLOGFILE:
+## (NOOP): keep same title and tags
+## change date in frontmatter to match $blog_date  (see below "# handle date separately")
+## remove line starting with EventTime
+## remove line starting with EventDate
+## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
+# append body with "If this sounds like something that would interest you, contact me, email me, find me so we can talk."
+## BLOGFILE = write to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
+#
 
 print $blog_template;
 
+exit;
 
 if ($verbosity > 2) {
   print "length(ETF) = " . length($blog_template) . "\n";
@@ -116,6 +116,10 @@ foreach my $key (keys %{ $new_entry }) {
 
 # store this for debugging
 $new_entry->{mt3_episode_output} = $mt3_episode_output;
+
+#######################################################3#######################################################3
+# END MAKE BLOG ENTRIES BASED ON EVENTS
+#######################################################3#######################################################3
 
 # Create outfile path based on today's date
 # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
