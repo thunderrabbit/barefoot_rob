@@ -51,12 +51,12 @@ my $blog_template;
 }
 
 $blog_template =~ /(title: ")([^"]+)(")/;
-my $blog_title = ($2);
+my $blog_title = $2;
 print "TITLE $blog_title\n";
 
 $blog_template =~ /(EventDate: ")([^"]+)(")/;
 # $blog_date = event date from frontmatter (make blog date the same date as the event was)
-my $blog_date = ($2);
+my $blog_date = $2;
 print "DATE $blog_date\n";
 
 exit;
