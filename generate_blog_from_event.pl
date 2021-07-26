@@ -57,13 +57,27 @@ unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/
 
 #
 # create BLOGFILE:
+# Split $blog_template into frontmatter and body text
+
+# process frontmatter
 ## (NOOP): keep same title and tags
 ## change date in frontmatter to match $blog_date  (see below "# handle date separately")
-## remove line starting with EventTime
-## remove line starting with EventDate
+## frontmatter remove line starting with EventTime
+## frontmatter remove line starting with EventDate
+
+# process body
+## Split on the #### title bits
+## before first #### is the image
+## Process image section
+### Ask if user wants to update image to one sent on CLI
+### Update image if so
+
 ## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
+### remove #### When block
+### remove #### Where block
 # append body with "If this sounds like something that would interest you, contact me, email me, find me so we can talk."
-## BLOGFILE = write to $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)(remove first two digits from (EVENT_FILE basename) keep the rest of basename)
+# determine $blog_outfile_name $blog_directory/(YYYY/MM/ $blog_date)/(DD $blog_date)kebab_case title
+# BLOGFILE = write to $blog_outfile_name
 #
 
 print $blog_template;
