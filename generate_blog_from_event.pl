@@ -59,6 +59,12 @@ $blog_template =~ /(EventDate: ")([^"]+)(")/;               # get date from fron
 my ($blog_year, $blog_month, $blog_day) = split("-",$2);    # $2 expected format yyyy-mm-dd
 print "DATE $blog_year $blog_month $blog_day\n";
 
+## Make sure date looks reasonable
+unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/^\d{2}$/) {   #https://stackoverflow.com/a/6697134/194309
+    print "Seems like the date we got from the event doesn't look like a date. $blog_year年$blog_month月$blog_day日\n";
+    exit(1); ## tells the caller side that there is an error
+}
+
 exit;
 
 print $blog_template;
