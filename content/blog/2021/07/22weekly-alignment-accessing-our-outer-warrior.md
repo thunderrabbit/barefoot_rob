@@ -42,7 +42,7 @@ Having the focus of a system allows the daily activity to create motion toward
 the goal, even if it's not visible on a day to day basis.
 In total, the motion is there, simply by having a system in place.
 
-In, David Allen's Getting Things Done system, the goal is to get things done,
+In David Allen's Getting Things Done system, the goal is to get things done,
 and the system is to have an inbox that we put tasks in, and access every day.
 
 What are some goals that you have and what are the systems you have in place
