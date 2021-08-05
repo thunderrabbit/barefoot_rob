@@ -29,7 +29,7 @@ our %event_tag_hashes = (
 our %event_title_prefixes = (
     "blog_entry" => "",
     "weekly_alignment" => "Weekly Alignment - ",
-    "walking_meditation" => "Walking Meditation",
+    "walking_meditation" => "",
     "book_chapter" => "",
     "quest_update" => "",
 );
