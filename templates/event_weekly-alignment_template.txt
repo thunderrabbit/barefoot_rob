@@ -11,7 +11,7 @@ aliases: [
 ---
 
 <img
-src="%episode_image"
+src="episode_image"
 alt="Weekly Alignments 7pm Thursdays JST"
 class="title" />
 

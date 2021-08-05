@@ -89,7 +89,7 @@ my $mt3_episode_output = $event_template;
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
 my $human_date = $event_date_time->strftime("%A %d %B %Y");
 $mt3_episode_output =~ s/human_date_here/$human_date/;
-$mt3_episode_output =~ s/%episode_image/$episode_image/;
+$mt3_episode_output =~ s/episode_image/$episode_image/;
 # do the rest algorithmically
 foreach my $key (keys %{ $new_entry }) {
   my $value = $new_entry->{$key};
