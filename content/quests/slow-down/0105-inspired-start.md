@@ -20,7 +20,11 @@ So that's an example of the difficulty I had. Linking my world with the real wor
 
 Step by step, we move forward. So let's see if we can do this thing.
 
-My friend Michael calls this navel gazing. I think, as I'm wondering aloud about my life and the choices. I didn't tend to make this book available free on my website at this URL, and you can even watch it creation if you watch this other URL.
+My friend Michael calls this navel gazing. I think, as I'm wondering aloud about my life and the choices. I didn't tend to make this book available free on my website at this URL https://www.robnugen.com/quests/slow-down/, and you can even watch its creation if you watch one of these other URLs
+
+* https://github.com/thunderrabbit/barefoot_rob/
+* https://bitbucket.org/thunderrabbit/barefoot_rob/
+* https://gitlab.bmemc.com/thunderrabbit/barefoot_rob
 
 So with that, let's get started.
 
@@ -31,6 +35,6 @@ I have often said it makes no difference what you do.  And then again it makes a
 
 
 
-Do whatever you want.  Nothing matters.
+Do whatever you want.  Nothing matters.  No one cares.
 
 Do whatever you want.  It makes all the difference in the world.
