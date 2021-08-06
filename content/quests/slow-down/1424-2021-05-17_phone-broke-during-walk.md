@@ -7,7 +7,7 @@ EventDate: "2021-04-24"
 aliases: [
     "/quests/slow-down/2021-05-17_phone-broke-during-walk",
 ]
-draft: true
+draft: false
 ---
 
 <img

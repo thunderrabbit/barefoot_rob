@@ -7,7 +7,7 @@ EventDate: "2021-05-17"
 aliases: [
     "/quests/slow-down/2021-05-17_post-first-walk-stories",
 ]
-draft: true
+draft: false
 ---
 
 The key takeaways was that nothing really matters. And everything

@@ -7,7 +7,7 @@ EventDate: "2021-05-04"
 aliases: [
     "/quests/slow-down/2021-05-04_let-go-and-eat-pizza",
 ]
-draft: true
+draft: false
 ---
 
 <img

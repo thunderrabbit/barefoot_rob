@@ -6,7 +6,7 @@ date: 2021-06-07T08:00:11+09:00
 aliases: [
     "/quests/slow-down/slow-down/",
 ]
-draft: true
+draft: false
 ---
 
 ## Slow Down

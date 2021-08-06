@@ -7,7 +7,7 @@ EventDate: "2021-03-19"
 aliases: [
     "/quests/slow-down/2021-03-19_deneys-interview-rob-re-walk-to-niigata",
 ]
-draft: true
+draft: false
 ---
 
 <img

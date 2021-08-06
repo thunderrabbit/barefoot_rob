@@ -8,7 +8,7 @@ aliases: [
     "/quests/slow-down/2021-04-29_climbed-a-ladder-to-tire-heaven",
     "/quests/walk-to-niigata/2021/04/29climbed-a-mystery-ladder-to-find-an-amazing-array-of-tires/",
 ]
-draft: true
+draft: false
 ---
 
 <img

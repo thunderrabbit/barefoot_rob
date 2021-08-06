@@ -6,7 +6,7 @@ date: 2021-08-07T08:00:11+09:00
 aliases: [
     "/quests/slow-down/0105-inspired-start/",
 ]
-draft: true
+draft: false
 ---
 
 1. Allow easy sorting of files (by title, not date)

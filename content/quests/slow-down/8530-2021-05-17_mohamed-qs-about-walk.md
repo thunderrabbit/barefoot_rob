@@ -7,7 +7,7 @@ EventDate: "2021-05-17"
 aliases: [
     "/quests/slow-down/2021-05-17_mohamed-qs-about-walk",
 ]
-draft: true
+draft: false
 ---
 
 <img
