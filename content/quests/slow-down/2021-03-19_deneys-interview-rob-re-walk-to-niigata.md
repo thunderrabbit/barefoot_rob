@@ -1,5 +1,5 @@
 ---
-title: "8534 Deneys interview Rob re walk to Niigata"
+title: "8319 Deneys interview Rob re walk to Niigata"
 tags: [ "book", "deneys", "interview" ]
 author: Rob Nugen
 date: 2021-06-07T15:34:52+09:00
