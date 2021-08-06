@@ -1,5 +1,5 @@
 ---
-title: "8441 Let Go and eat pizza"
+title: "1504 Let Go and eat pizza"
 tags: [ "book", "canaks", "pizza", "release" ]
 author: Rob Nugen
 date: 2021-06-07T14:41:03+09:00

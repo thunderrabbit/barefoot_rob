@@ -1,5 +1,5 @@
 ---
-title: "8515 Climbed a ladder to tire heaven"
+title: "1429 Climbed a ladder to tire heaven"
 tags: [ "book", "explore", "fun", "great", "heaven", "tires" ]
 author: Rob Nugen
 date: 2021-06-07T15:15:52+09:00

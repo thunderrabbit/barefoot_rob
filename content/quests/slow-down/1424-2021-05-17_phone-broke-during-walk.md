@@ -1,9 +1,9 @@
 ---
-title: "8528 Phone Broke During Walk"
+title: "1424 Phone Broke During Walk"
 tags: [ "book", "broke", "erg", "phone" ]
 author: Rob Nugen
 date: 2021-06-07T15:28:19+09:00
-EventDate: "2021-05-17"
+EventDate: "2021-04-24"
 aliases: [
     "/quests/slow-down/2021-05-17_phone-broke-during-walk",
 ]
