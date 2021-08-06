@@ -4,7 +4,7 @@ tags: [ "slow", "down", "book" ]
 author: Rob Nugen
 date: 2021-08-07T08:00:11+09:00
 aliases: [
-    "/quests/slow-down/slow-down/",
+    "/quests/slow-down/0105-inspired-start/",
 ]
 draft: true
 ---
