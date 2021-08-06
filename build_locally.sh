@@ -14,7 +14,7 @@ rm -rf content/journal/200*
 rm -rf content/journal/201*
 rm -rf content/journal/2020/*
 
-rm -rf content/public/*
+rm -rf public/*
 
 if [[ "$WANT_BROWSER" =~ ^[yY] ]]
   then
