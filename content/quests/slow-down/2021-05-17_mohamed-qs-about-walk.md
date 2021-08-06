@@ -1,5 +1,5 @@
 ---
-title: "Mohamed Qs about walk"
+title: "8530 Mohamed Qs about walk"
 tags: [ "book", "faq", "mohamed" ]
 author: Rob Nugen
 date: 2021-06-07T15:30:48+09:00
@@ -720,5 +720,3 @@ Thank ya. Thanks for your time and your questions very helpful to help
 me get the stories out. Okay, great. Have a good one.
 
 Be well bye bye
-
-

@@ -1,5 +1,5 @@
 ---
-title: "Deneys interview Rob re walk to Niigata"
+title: "8534 Deneys interview Rob re walk to Niigata"
 tags: [ "book", "deneys", "interview" ]
 author: Rob Nugen
 date: 2021-06-07T15:34:52+09:00
@@ -206,5 +206,3 @@ That's on my site as well. Yeah.
 Yeah. Okay. Excellent. Yeah. So we can Yeah, I'll try to put something
 together. Yeah. Okay. Excellent. All the
 best. Yeah. Yeah. Excellent. You too. Okay. All the best. Bye bye.
-
-

@@ -1,5 +1,5 @@
 ---
-title: "Phone Broke During Walk"
+title: "8528 Phone Broke During Walk"
 tags: [ "book", "broke", "erg", "phone" ]
 author: Rob Nugen
 date: 2021-06-07T15:28:19+09:00
@@ -434,5 +434,3 @@ weren't a lot of people in the area, but a few so that was that was a
 cool thing. And I wonder if I can find where that was on the map. I'm
 sure I can but yeah, anyways, so that's, that's enough for this audio
 thing to new one in a second.
-
-

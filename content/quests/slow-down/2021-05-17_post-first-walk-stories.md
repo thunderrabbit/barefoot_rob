@@ -1,5 +1,5 @@
 ---
-title: "Post First Walk Stories"
+title: "8526 Post First Walk Stories"
 tags: [ "book", "stories" ]
 author: Rob Nugen
 date: 2021-06-07T15:26:06+09:00
@@ -263,5 +263,3 @@ a way to
 Yeah, it helped. I'm not supposed to know it doesn't matter. So I'm
 going to pop this up onto the get it transcribed and continue next one
 in a second.
-
-
