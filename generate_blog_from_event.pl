@@ -62,9 +62,15 @@ my $blog_frontmatter = rpl::Functions::extract_frontmatter($blog_template);
 
 # process frontmatter
 ## (NOOP): keep same title and tags
-## change date in frontmatter to match $blog_date  (see below "# handle date separately")
-## frontmatter remove line starting with EventTime
-## frontmatter remove line starting with EventDate
+
+## change date in frontmatter to match current date
+$blog_frontmatter =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
+
+## frontmatter remove line starting with EventTime (only used on events, not blog entry after the fact)
+$blog_frontmatter =~ s/^(EventTime: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
+
+## frontmatter remove line starting with EventDate (only used on events, not blog entry after the fact)
+$blog_frontmatter =~ s/^(EventDate: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
 
 # process body
 ## Split on the #### title bits
