@@ -260,3 +260,11 @@ sub get_episode_image(@) {
   return ($episode_image,$episode_thumb);
 
 }# get_episode_image()
+
+sub extract_frontmatter($) {
+  my ($markdown_file_contents) = @_;
+  $markdown_file_contents =~ m!(?:---\n)(.*)(?:---)!ms;     # Gets multiple lines between rows of three hyphens
+  my $frontmatter = $1;
+  chomp $frontmatter;
+  return $frontmatter;
+}

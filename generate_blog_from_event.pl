@@ -58,8 +58,7 @@ unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/
 #
 # create BLOGFILE:
 # Split $blog_template into frontmatter and body text
-#### $blog_frontmatter = $rpl::Functions::extract_frontmatter($blog_template);
-
+my $blog_frontmatter = rpl::Functions::extract_frontmatter($blog_template);
 
 # process frontmatter
 ## (NOOP): keep same title and tags
