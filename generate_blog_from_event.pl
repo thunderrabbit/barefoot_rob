@@ -108,15 +108,6 @@ print "$image_section\n";
 
 exit;
 
-if ($verbosity > 2) {
-  print "length(ETF) = " . length($blog_template) . "\n";
-}
-
-my $number_args = $#ARGV + 1;
-if ($number_args == 0) {
-    print "Feel free to send images as arguments.\n";
-}
-
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
