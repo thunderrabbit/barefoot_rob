@@ -11,6 +11,8 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
+my $what_kinda_event = "blog_entry";  # see generate_events.pl for ways to make this different
+
 print "In October - December, remove the 0 in the line below to see events, or figure out how to pad with zero\n\n";
 
 # load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
@@ -154,7 +156,7 @@ my %event_output_directories = (
     "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
 );
 
-my $alias_path = ""; # $event_output_directories{$what_kinda_event};
+my $alias_path = $event_output_directories{$what_kinda_event};
 my $title_path = rpl::Functions::kebab_case($title);
 my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
 my $outfile_and_title_path = $outfile_path . $title_path . ".md";
