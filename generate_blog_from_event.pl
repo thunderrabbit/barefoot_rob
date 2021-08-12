@@ -55,9 +55,6 @@ unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/
 }
 
 
-#
-# create BLOGFILE:
-# Split $blog_template into frontmatter and body text
 my $blog_frontmatter = rpl::Functions::extract_frontmatter($blog_template);
 
 # process frontmatter
@@ -87,7 +84,12 @@ $blog_frontmatter =~ s/^(EventDate: .*\n)//im;     # Fred, is there a way to not
 # BLOGFILE = write to $blog_outfile_name
 #
 
-print $blog_template;
+# create BLOGFILE:
+
+print "---\n";
+print $blog_frontmatter . "\n";
+print "---\n";
+print "$blog_body\n";
 
 exit;
 
