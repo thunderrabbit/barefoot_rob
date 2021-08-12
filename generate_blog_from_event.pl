@@ -123,7 +123,7 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 my $new_entry;
 
 
-my $title = ""; #rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
+my $title = $blog_title; #rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
 my $tagstring = ""; # rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
