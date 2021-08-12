@@ -166,13 +166,14 @@ sub get_tags(%) {
   return $tagstring;
 }# get_tags()
 
+# This was for event types but now can be used for any $type of @things
 sub get_event_type(@) {
-  my (@event_types) = @_;
+  my ($type_of_thing, @event_types) = @_;
   my $event_type;
   my $selected_type;
 
     print "\n";
-    print "Possible event types:\n";
+    print "Possible $type_of_thing:\n";
     print "\n";
 
     my $num_event_types = scalar(@event_types);
