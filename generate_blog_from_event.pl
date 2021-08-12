@@ -80,7 +80,7 @@ my @body_parts = rpl::Functions::split_body("####", $blog_body);
 
 ## before first #### is the image
 ## Process image section
-### Ask if user wants to update image to one sent on CLI
+### Ask if user wants to update image to one sent on CLI   (see generate_events.pl for ideas)
 ### Update image if so
 my $image_section = $body_parts[0];
 
