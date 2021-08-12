@@ -12,7 +12,7 @@ use rpl::Functions;
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
 # load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
-my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/2021/07");
+my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/2021/08");
 
 # ask which file to pull data from
 my $event_file_to_blog = rpl::Functions::get_event_type("Events", @event_list_for_month);   # func get_event_type is generic, but misnamed here
