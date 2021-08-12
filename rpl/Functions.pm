@@ -276,3 +276,11 @@ sub wipe_frontmatter($) {
   chomp $after_frontmatter;
   return $after_frontmatter;
 }
+
+sub split_body(@) {
+  my ($splitter, $body) = @_;
+
+  my @body_parts = split /$splitter/,$body;
+
+  return @body_parts;
+}

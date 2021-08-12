@@ -72,14 +72,24 @@ $blog_frontmatter =~ s/^(EventDate: .*\n)//im;     # Fred, is there a way to not
 
 my $blog_body = rpl::Functions::wipe_frontmatter($blog_template);
 
-print $blog_body . "\n\n\n\n\n";
-
 # process body
 ## Split on the #### title bits
+
+my @body_parts = rpl::Functions::split_body("####", $blog_body);
+
+
 ## before first #### is the image
 ## Process image section
 ### Ask if user wants to update image to one sent on CLI
 ### Update image if so
+my $image_section = $body_parts[0];
+
+
+
+# foreach (@body_parts) {
+#   print "body part $_ \n\n\n";
+# }
+
 
 ## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
 ### remove #### When block
@@ -94,7 +104,7 @@ print $blog_body . "\n\n\n\n\n";
 print "---\n";
 print $blog_frontmatter . "\n";
 print "---\n";
-print "$blog_body\n";
+print "$image_section\n";
 
 exit;
 
