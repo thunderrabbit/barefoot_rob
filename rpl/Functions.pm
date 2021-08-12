@@ -268,3 +268,11 @@ sub extract_frontmatter($) {
   chomp $frontmatter;
   return $frontmatter;
 }
+
+sub wipe_frontmatter($) {
+  my ($markdown_file_contents) = @_;
+  $markdown_file_contents =~ m!(?:---\n)(?:.*)(?:---)(.*)!ms;     # Gets multiple lines after second row of three hyphens
+  my $after_frontmatter = $1;
+  chomp $after_frontmatter;
+  return $after_frontmatter;
+}

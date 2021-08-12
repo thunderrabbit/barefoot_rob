@@ -69,6 +69,11 @@ $blog_frontmatter =~ s/^(EventTime: .*\n)//im;     # Fred, is there a way to not
 ## frontmatter remove line starting with EventDate (only used on events, not blog entry after the fact)
 $blog_frontmatter =~ s/^(EventDate: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
 
+
+my $blog_body = rpl::Functions::wipe_frontmatter($blog_template);
+
+print $blog_body . "\n\n\n\n\n";
+
 # process body
 ## Split on the #### title bits
 ## before first #### is the image
