@@ -105,11 +105,6 @@ my $image_section = $body_parts[0];
 
 # create BLOGFILE:
 
-print "---\n";
-print $blog_frontmatter . "\n";
-print "---\n";
-print "$image_section\n";
-
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
@@ -129,8 +124,14 @@ my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
+
 # now build the output!
-my $mt3_episode_output = $blog_template;
+###  Would be good to make this more understandable and flexible.
+my $mt3_episode_output =
+"---\n" .
+"$blog_frontmatter\n" .
+"---\n" .
+"$image_section\n";
 
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
