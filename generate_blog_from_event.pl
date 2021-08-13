@@ -55,22 +55,41 @@ unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/
 }
 
 
-#
-# create BLOGFILE:
-# Split $blog_template into frontmatter and body text
+my $blog_frontmatter = rpl::Functions::extract_frontmatter($blog_template);
 
 # process frontmatter
 ## (NOOP): keep same title and tags
-## change date in frontmatter to match $blog_date  (see below "# handle date separately")
-## frontmatter remove line starting with EventTime
-## frontmatter remove line starting with EventDate
+
+## change date in frontmatter to match current date
+$blog_frontmatter =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
+
+## frontmatter remove line starting with EventTime (only used on events, not blog entry after the fact)
+$blog_frontmatter =~ s/^(EventTime: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
+
+## frontmatter remove line starting with EventDate (only used on events, not blog entry after the fact)
+$blog_frontmatter =~ s/^(EventDate: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
+
+
+my $blog_body = rpl::Functions::wipe_frontmatter($blog_template);
 
 # process body
 ## Split on the #### title bits
+
+my @body_parts = rpl::Functions::split_body("####", $blog_body);
+
+
 ## before first #### is the image
 ## Process image section
-### Ask if user wants to update image to one sent on CLI
+### Ask if user wants to update image to one sent on CLI   (see generate_events.pl for ideas)
 ### Update image if so
+my $image_section = $body_parts[0];
+
+
+
+# foreach (@body_parts) {
+#   print "body part $_ \n\n\n";
+# }
+
 
 ## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
 ### remove #### When block
@@ -80,18 +99,14 @@ unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/
 # BLOGFILE = write to $blog_outfile_name
 #
 
-print $blog_template;
+# create BLOGFILE:
+
+print "---\n";
+print $blog_frontmatter . "\n";
+print "---\n";
+print "$image_section\n";
 
 exit;
-
-if ($verbosity > 2) {
-  print "length(ETF) = " . length($blog_template) . "\n";
-}
-
-my $number_args = $#ARGV + 1;
-if ($number_args == 0) {
-    print "Feel free to send images as arguments.\n";
-}
 
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
@@ -103,7 +118,6 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 #
 my $new_entry;
 
-my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);
 
 my $title = ""; #rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
@@ -112,14 +126,11 @@ my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
-$new_entry->{EventDate} = $event_date_time->ymd;
 # now build the output!
 my $mt3_episode_output = $blog_template;
 
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
-my $human_date = $event_date_time->strftime("%A %d %B %Y");
-$mt3_episode_output =~ s/human_date_here/$human_date/;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
 # do the rest algorithmically
 foreach my $key (keys %{ $new_entry }) {
@@ -139,10 +150,6 @@ $new_entry->{mt3_episode_output} = $mt3_episode_output;
 # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
 my %event_output_directories = (
     "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
-    "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date_time->ymd . "_",   # don't end with slash because book directories have no dates
-    "weekly_alignment" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),     # don't end with slash, by `convention` above
-    "walking_meditation" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
-    "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
 );
 
 my $alias_path = ""; # $event_output_directories{$what_kinda_event};
