@@ -110,8 +110,6 @@ print $blog_frontmatter . "\n";
 print "---\n";
 print "$image_section\n";
 
-exit;
-
 # Do the same for episodes as we did for frames.
 # Because we don't have to monkey with the $id here,
 # we can do the whole thumbs loop in one line.
