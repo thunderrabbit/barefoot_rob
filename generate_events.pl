@@ -11,7 +11,7 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
-my $what_kinda_event = rpl::Functions::get_event_type(sort keys %rpl::Constants::event_template_files);
+my $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %rpl::Constants::event_template_files);
 
 my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
 

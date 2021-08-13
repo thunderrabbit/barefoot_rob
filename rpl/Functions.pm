@@ -166,13 +166,14 @@ sub get_tags(%) {
   return $tagstring;
 }# get_tags()
 
+# This was for event types but now can be used for any $type of @things
 sub get_event_type(@) {
-  my (@event_types) = @_;
+  my ($type_of_thing, @event_types) = @_;
   my $event_type;
   my $selected_type;
 
     print "\n";
-    print "Possible event types:\n";
+    print "Possible $type_of_thing:\n";
     print "\n";
 
     my $num_event_types = scalar(@event_types);
@@ -197,6 +198,36 @@ sub get_event_type(@) {
   return $event_type;
 }
 
+##  Return a list of files based on a directory
+sub get_list_of_files_in_dir($) {
+  my ($path_to_events) = @_;
+  my @list_of_files;
+
+  print "Returning events from " . $path_to_events . "\n";
+  opendir DIR,$path_to_events;
+  my @dir = readdir(DIR);
+  close DIR;
+  ## loop thanks to https://stackoverflow.com/a/1045814
+  foreach(@dir){
+      if (-f $path_to_events . "/" . $_ ){
+        push (@list_of_files, $path_to_events . "/" . $_);    # will return a list of files
+      }elsif(-d $path_to_events . "/" . $_){
+        next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
+        print "ignoring directory " . $path_to_events . "/" . $_ . "\n";
+      }else{
+        print "ignoring non file non directory " . $path_to_events . "/" . $_ . "\n";
+      }
+  }
+
+  return @list_of_files;
+}
+
+## Designed to simply remove the first bit of the path that is always the same
+sub strip_path($) {
+  my ($long_name_is_long) = @_;
+  $long_name_is_long =~ s|/home/thunderrabbit/barefoot_rob/content/||g;
+  return $long_name_is_long;
+}
 sub get_episode_image(@) {
   my ($title, @episode_images, @episode_thumbs) = @_;
   my $confirmed = 0;
@@ -229,3 +260,27 @@ sub get_episode_image(@) {
   return ($episode_image,$episode_thumb);
 
 }# get_episode_image()
+
+sub extract_frontmatter($) {
+  my ($markdown_file_contents) = @_;
+  $markdown_file_contents =~ m!(?:---\n)(.*)(?:---)!ms;     # Gets multiple lines between rows of three hyphens
+  my $frontmatter = $1;
+  chomp $frontmatter;
+  return $frontmatter;
+}
+
+sub wipe_frontmatter($) {
+  my ($markdown_file_contents) = @_;
+  $markdown_file_contents =~ m!(?:---\n)(?:.*)(?:---)(.*)!ms;     # Gets multiple lines after second row of three hyphens
+  my $after_frontmatter = $1;
+  chomp $after_frontmatter;
+  return $after_frontmatter;
+}
+
+sub split_body(@) {
+  my ($splitter, $body) = @_;
+
+  my @body_parts = split /$splitter/,$body;
+
+  return @body_parts;
+}

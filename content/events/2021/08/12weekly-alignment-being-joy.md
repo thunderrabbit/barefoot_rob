@@ -12,7 +12,7 @@ aliases: [
 
 <img
 src="https://b.robnugen.com/blog/2021/dog_being_joy.jpg"
-alt="Weekly Alignments 7pm Thursdays JST"
+alt="Dog happily looking out car window"
 class="title" />
 
 #### When
