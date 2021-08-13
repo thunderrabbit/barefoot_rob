@@ -96,6 +96,8 @@ my $image_section = $body_parts[0];
 #   print "body part $_ \n\n\n";
 # }
 
+##  Figure out a reliable way to find the About section
+my $about_wa_section = "####" . $body_parts[4];     # only in case of Weekly Alignments is it 4
 
 ## remove lines after (frontmatter (second occurence of ---) and optional image (begins with "<img")) up until "#### Details"
 ### remove #### When block
@@ -133,8 +135,9 @@ my $mt3_episode_output =
 "---\n" .
 "$blog_frontmatter\n" .
 "---\n" .
-"$image_section\n";
-
+"$image_section\n" .
+"$about_wa_section\n" .
+"\n";
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
 $mt3_episode_output =~ s/%episode_image/$episode_image/;
