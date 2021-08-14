@@ -24,3 +24,5 @@ scp -r $DIRECTORY b.rn:$REMOTE_BLOG_YEAR/$BASENAME
 ssh b.rn "$REMOTE_USER_DIR/scripts/fix_mode_blog_year.sh"
 
 ssh b.rn "$REMOTE_USER_DIR/scripts/create_thumbs.pl $REMOTE_BLOG_YEAR/$BASENAME"
+
+ssh b.rn "ln $REMOTE_USER_DIR/scripts/index.php $REMOTE_BLOG_YEAR/$BASENAME/"    # Allow view images via https://b.robnugen.com/
