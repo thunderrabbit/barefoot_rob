@@ -10,10 +10,7 @@ aliases: [
 ]
 ---
 
-<img
-src="https://b.robnugen.com/blog/2021/walking_meditation/2021_aug_14_miku_andy_son_rob_in_rain.jpg"
-alt=""
-class="title" />
+{{% img-responsive "https://b.robnugen.com/blog/2021/walking_meditation/2021_aug_14_miku_andy_son_rob_in_rain.jpg" "2021 aug 14 miku andy son rob in rain" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
