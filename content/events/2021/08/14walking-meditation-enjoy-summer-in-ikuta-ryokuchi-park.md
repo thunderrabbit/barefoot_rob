@@ -10,6 +10,8 @@ aliases: [
 ]
 ---
 
+## Thanks to everyone for joining!   [Click here for photos!](/blog/2021/08/14/walking-meditation-enjoy-summer-in-ikuta-ryokuchi-park/)
+
 <img
 src="https://b.robnugen.com/blog/2021/ikuta_ryokuchi_park_trees.jpg"
 alt="trees in park, https://trip.pref.kanagawa.jp/destination/exploring-ikuta-ryokuchi-park/410"
