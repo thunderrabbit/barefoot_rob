@@ -1,6 +1,6 @@
 ---
 title: "FULL MOON - EARTH HANDPAN + MOVEMENT + BAREFOOT MEDITATION"
-tags: [ "2021", "august", "barefoot", "event", "handpan", "meditation", "michael", "rin", "rob", "walk", "yoga", "yoyogi" ]
+tags: [ "canceled", "2021", "august", "barefoot", "event", "handpan", "meditation", "michael", "rin", "rob", "walk", "yoga", "yoyogi" ]
 author: Rob Nugen
 date: 2021-08-13T17:40:47+09:00
 EventTime: "10am"
@@ -13,19 +13,25 @@ aliases: [
 <img
 src="https://b.robnugen.com/blog/2021/2021_aug_13_michael_handpan_and_rin_yoga_event.jpg"
 alt=""
-class="title" />
+class="half" />
 
-## combined event grounded in earth, yoga, music, and spirit ##
+## This event is canceled due to one of the organizers possibly getting COVID 19 ##
+
+### CANCELED: ~~combined event grounded in earth, yoga, music, and spirit~~ ###
 
 #### When
 
-**10am Saturday, August 21st, 2021**
+This event is canceled due to one of the organizers possibly getting COVID 19
+
+~~**10am Saturday, August 21st, 2021**~~
 
 #### Where
 
 **Yoyogi Park**
 
-For the exact location, register via Peatix https://fullmoonhandpan.peatix.com/
+This event is canceled due to one of the organizers possibly getting COVID 19
+
+~~For the exact location, register via Peatix https://fullmoonhandpan.peatix.com/ .~~
 
 #### Details
 
