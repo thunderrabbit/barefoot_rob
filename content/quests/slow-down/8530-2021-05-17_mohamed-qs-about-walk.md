@@ -1,5 +1,6 @@
 ---
 title: "8530 Mohamed Qs about walk"
+type: "book"
 tags: [ "book", "faq", "mohamed" ]
 author: Rob Nugen
 date: 2021-06-07T15:30:48+09:00

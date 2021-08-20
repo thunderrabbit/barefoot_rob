@@ -1,5 +1,6 @@
 ---
 title: "8526 Post First Walk Stories"
+type: "book"
 tags: [ "book", "stories" ]
 author: Rob Nugen
 date: 2021-06-07T15:26:06+09:00

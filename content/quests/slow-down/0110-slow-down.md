@@ -1,5 +1,6 @@
 ---
 title: "0110 Slow Down"
+type: "book"
 tags: [ "slow", "down", "book" ]
 author: Rob Nugen
 date: 2021-06-07T08:00:11+09:00
