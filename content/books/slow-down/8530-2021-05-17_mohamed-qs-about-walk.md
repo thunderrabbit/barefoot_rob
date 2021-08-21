@@ -7,7 +7,8 @@ date: 2021-06-07T15:30:48+09:00
 EventDate: "2021-05-17"
 aliases: [
     "/quests/slow-down/2021-05-17_mohamed-qs-about-walk",
-    "/books/slow-down/2021-05-17_mohamed-qs-about-walk",
+    "/quests/slow-down/8530-mohamed-qs-about-walk",
+    "/books/slow-down/8530-mohamed-qs-about-walk",
 ]
 draft: false
 ---

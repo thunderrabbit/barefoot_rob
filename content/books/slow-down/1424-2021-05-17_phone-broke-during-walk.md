@@ -7,7 +7,8 @@ date: 2021-06-07T15:28:19+09:00
 EventDate: "2021-04-24"
 aliases: [
     "/quests/slow-down/2021-05-17_phone-broke-during-walk",
-    "/books/slow-down/2021-05-17_phone-broke-during-walk",
+    "/quests/slow-down/1424-phone-broke-during-walk",
+    "/books/slow-down/1424-phone-broke-during-walk",
 ]
 draft: false
 ---
