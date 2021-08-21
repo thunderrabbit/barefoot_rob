@@ -42,21 +42,7 @@ All we have to do is start planning. And for me the biggest concern was getting 
 
 it took some long discussions to assure her that I would remain safe during the trip. At the end, my head, I have two eyes. And I like my feet intact. So, all my body parts intact. So my definite intent intention to remain intact for as long as possible, including the duration of this walk. So, she finally agreed. Having the support was invaluable.
 
-As we shall soon see. Day number one walking from Yokohama, to my house. Our house woke up early, they took the train to Rinko Park in Yokohama. I
-
-kept my bicycle at home which meant I needed to roll the bag to the train station, so that I could
-
-not have to go by the train station. Walk is 21 kilometers, and would actually be basically 5% of my walk across the island.
-
-Super great to have.
-
-It felt super great to have support of Mark
-
-Shraddhan, et cetera. I'm already forgetting the names of everyone who showed up on the first day, Lucas was there. Mark your daughter. And Lin came, a woman named Yumi came I believe she gave me gifts, chocolate and crackers. She had also done wrong. Similarly, Malinois, we did a walking meditation that morning, which gave people a chance to connect with the earth, and the present. And then we did.
-
-Did a foot photo shoot at the water with my foot in the water on the Oklahoma side of things, and lots of hugs and then basically started walking. The beautiful thing is that my wife had driven the route, many, many times, and knew exactly how to get home from there. On this day, I didn't have to use my phone as a map, and could just see if it has a camera, which I did on the way from Yokohama to our house. One of the first pictures, was that François sitting next to a cool statue. And my friend. Shraddhan helped take some photos there as well. I was glad that Shraddhan and Lin got along well,
-
-
+As we shall soon see. 
 
 
 Do whatever you want.  Nothing matters.  No one cares.
