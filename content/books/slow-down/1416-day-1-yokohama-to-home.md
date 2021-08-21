@@ -11,10 +11,7 @@ aliases: [
 draft: false
 ---
 
-<img
-src=""
-alt=""
-class="title" />
+{{% img-responsive "https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-01/2021_apr_15_francois_on_steps_by_yokohama_bay.jpeg" "2021 apr 15 francois on steps by yokohama bay" %}}
 
 Day number one walking from Yokohama, to my house. Our house woke up early, they took the train to Rinko Park in Yokohama. I
 left my bicycle at home which meant I needed to roll the bag to the train station, so that I would
