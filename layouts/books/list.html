@@ -8,11 +8,11 @@
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
                 {{ range sort .Paginator.Pages.ByTitle }}
-                <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>  PH A BOOK L.html
-                <section class="post">gghdfgfdhfghd
-                    <header class="post-header">dddd
+                <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
+                <section class="post">
+                    <header class="post-header">
 
-                        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>ffgssgfdfgsd
+                        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
 
                         <p class="post-meta">
                             {{ with .Params.author }}
