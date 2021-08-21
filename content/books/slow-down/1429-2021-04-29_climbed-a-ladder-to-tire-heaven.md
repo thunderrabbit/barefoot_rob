@@ -8,6 +8,7 @@ EventDate: "2021-04-29"
 aliases: [
     "/quests/walk-to-niigata/2021/04/29climbed-a-mystery-ladder-to-find-an-amazing-array-of-tires/",
     "/quests/slow-down/2021-04-29_climbed-a-ladder-to-tire-heaven",
+    "/quests/slow-down/1429-2021-04-29_climbed-a-ladder-to-tire-heaven",
     "/quests/slow-down/1429-climbed-a-ladder-to-tire-heaven",
     "/books/slow-down/1429-climbed-a-ladder-to-tire-heaven",
 ]

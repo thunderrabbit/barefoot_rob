@@ -7,6 +7,7 @@ date: 2021-06-07T15:26:06+09:00
 EventDate: "2021-05-17"
 aliases: [
     "/quests/slow-down/2021-05-17_post-first-walk-stories",
+    "/quests/slow-down/8526-2021-05-17_post-first-walk-stories",
     "/quests/slow-down/8526-post-first-walk-stories",
     "/books/slow-down/8526-post-first-walk-stories",
 ]

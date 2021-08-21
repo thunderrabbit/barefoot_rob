@@ -7,6 +7,7 @@ date: 2021-06-07T15:34:52+09:00
 EventDate: "2021-03-19"
 aliases: [
     "/quests/slow-down/2021-03-19_deneys-interview-rob-re-walk-to-niigata",
+    "/quests/slow-down/8319-2021-03-19_deneys-interview-rob-re-walk-to-niigata/",
     "/quests/slow-down/8319-deneys-interview-rob-re-walk-to-niigata",
     "/books/slow-down/8319-deneys-interview-rob-re-walk-to-niigata",
 ]
