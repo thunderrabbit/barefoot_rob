@@ -8,7 +8,6 @@ EventDate: "2021-08-21"
 aliases: [
     "/events/2021/08/21full-moon-earth-handpan-movement-barefoot-meditation",
 ]
-draft: true
 ---
 
 <img
