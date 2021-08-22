@@ -1,7 +1,7 @@
 baseURL = "https://www.robnugen.com/"
 languageCode = "en-us"
 title = "Barefoot Rob"
-theme = ["purehugo-augmentation", "purehugo" ]
+theme = [ "purehugo" ]
 rssLimit = 50
 [markup.goldmark.renderer]
 unsafe= true
