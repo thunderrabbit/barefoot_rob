@@ -1,8 +1,19 @@
 ---
-title: 'Summary of Day Eight was'
+title: 'Summary of Day Eight'
 author: 'Rob Nugen'
 date: '2021-04-23T20:09:32+09:00'
+aliases: [
+"/quests/walk-to-niigata/2021/04/23summary-of-day-eight-was/",
+"/quests/walk-to-niigata/2021/04/23summary-of-day-eight/",
+]
 ---
+
+
+{{% img-responsive "https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/2021_apr_23_1437_resting_by_tree.jpg" "2021 apr 23 1437 resting by tree" %}}
+
+[![2021 apr 23 1813 sturdy power tower](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/thumbs/2021_apr_23_1813_sturdy_power_tower.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/2021_apr_23_1813_sturdy_power_tower.jpg)
+
+
 
 Summary of Day Eight
 

@@ -14,6 +14,10 @@ Day 12 will have to wait.  Day 12 photos have been uploaded to Smugmug for now
 
 https://thunderrabbit.smugmug.com/Travel/Japan/Quests/2021-walk-to-Niigata/Day-12-2021-april-27/
 
+[![2021 apr 27 1829 dinner fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1829_dinner_fujiya.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1829_dinner_fujiya.jpg)
+[![2021 apr 27 1830 dinner with son](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1830_dinner_with_son.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1830_dinner_with_son.jpg)
+
+
 
 Here was the plan for Day Twelve
 

@@ -23,3 +23,8 @@ And then the most amazing thing is finding this new manhole cover it hasn't even
 Here it is in context with the sidewalk ripped out around it
 
 [![2021 apr 20 manhole cover placed before sidewalk](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/thumbs/2021_apr_20_manhole_cover_placed_before_sidewalk.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/2021_apr_20_manhole_cover_placed_before_sidewalk.jpeg)          
+
+Francois found the sidewalk!
+
+[![2021 apr 21 1519 francois on asphalt pile](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/thumbs/2021_apr_21_1519_francois_on_asphalt_pile.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-06/2021_apr_21_1519_francois_on_asphalt_pile.jpg)
+

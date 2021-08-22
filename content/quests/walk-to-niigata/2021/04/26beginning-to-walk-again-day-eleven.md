@@ -9,6 +9,11 @@ aliases: [
 ]
 ---
 
+<img
+src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-11/2021_apr_26_0711_underway_sans_phone.jpg"
+alt="2021 apr 26 0711 underway sans phone"
+class="half" />
+
 Good morning from みどりの村キャムプ場, which has a pretty nice setup
 of bungalows and such.  Not much food in the camp area, but a coveni
 is outside the property.
@@ -21,3 +26,4 @@ Tuesday night.
 Mountains and hills coming soon to a walk near me!
 
 Now it's time to pack!!
+

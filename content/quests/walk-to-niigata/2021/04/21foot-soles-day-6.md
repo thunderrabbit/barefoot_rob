@@ -1,7 +1,10 @@
 ---
 title: 'foot soles, Day 6'
 author: 'Rob Nugen'
-date: '2021-04-22T16:47:35+09:00'
+date: '2021-04-21T19:47:35+09:00'
+aliases: [
+"/quests/walk-to-niigata/2021/04/22foot-soles-day-6/",
+]
 ---
 
 Here are the soles of my feet, photos taken last night, at the end of day 6.

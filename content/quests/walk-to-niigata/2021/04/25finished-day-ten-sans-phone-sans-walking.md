@@ -12,6 +12,8 @@ Shibukawa to Midorinomura camp area.
 Lin and I woke up for breakfast at 6:30, packed, then spent the
 morning driving around trying to get my handset working again.
 
+[![2021 apr 25 0726 rob breakfast window gunma](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-10/thumbs/2021_apr_25_0726_rob_breakfast_window_gunma.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-10/2021_apr_25_0726_rob_breakfast_window_gunma.jpg)
+
 Amazingly, the shop staff was able to reboot my phone with a
 llllonnnngggg press (18 seconds) of the power button.  I thought I had
 "done everything" but apparently I hadn't done that.
@@ -54,6 +56,8 @@ my house" and could not interfere with management of the local shop.
 We ate lunch, then went to 金島温泉, which was small, cheap, clean(?), and
 fine, but got about 2 stars from me and low rating from Lin as well.
 
+[![2021 apr 25 1340 lin rob](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-10/thumbs/2021_apr_25_1340_lin_rob.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-10/2021_apr_25_1340_lin_rob.jpg)
+
 We finished around 4pm there which was too late for me to then walk to
 my place for tonight, so she is joining me in a bungalow at
 緑の村キャムプ area.
@@ -69,6 +73,7 @@ cannot make calls out, though.
 Oh, I was able to print the maps for the next 6 days or so.  Tomorrow
 I plan to start walking using paper maps.
 
+[![2021 apr 25 1809 rob computer cabin](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-10/thumbs/2021_apr_25_1809_rob_computer_cabin.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-10/2021_apr_25_1809_rob_computer_cabin.jpg)
 
 Here was the plan for Day 10
 
