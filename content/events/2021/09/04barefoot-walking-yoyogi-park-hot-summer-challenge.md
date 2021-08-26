@@ -1,5 +1,5 @@
 ---
-title: "Barefoot Walking - Yoyogi Park hot Summer challenge"
+title: "Barefoot Walking - Yoyogi Park hot Summer challenge (new date September 4th)"
 tags: [ "2021", "september", "barefoot", "event", "hot", "walk", "yoyogi" ]
 author: Rob Nugen
 date: 2021-08-05T20:58:09+09:00
