@@ -4,3 +4,4 @@
 [submodule "content/journal"]
 	path = content/journal
 	url = git@bitbucket.org:thunderrabbit/robnugen-journal-entries.git
+	branch = journal
