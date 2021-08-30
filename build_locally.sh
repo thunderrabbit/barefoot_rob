@@ -8,12 +8,6 @@ fi
 WANT_BROWSER=$1
 SHOW_DRAFTS=$2
 
-echo removing thousands of entries so Hugo can monitor changes live
-rm -rf content/journal/19*
-rm -rf content/journal/200*
-rm -rf content/journal/201*
-rm -rf content/journal/2020/*
-
 rm -rf public/*
 
 if [[ "$WANT_BROWSER" =~ ^[yY] ]]
