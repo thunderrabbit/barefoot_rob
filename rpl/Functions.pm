@@ -225,7 +225,7 @@ sub get_list_of_files_in_dir($) {
 ## Designed to simply remove the first bit of the path that is always the same
 sub strip_path($) {
   my ($long_name_is_long) = @_;
-  $long_name_is_long =~ s|/home/thunderrabbit/barefoot_rob/content/||g;
+  $long_name_is_long =~ s|/home/thunderrabbit/barefoot_rob_master/content/||g;
   return $long_name_is_long;
 }
 sub get_episode_image(@) {
