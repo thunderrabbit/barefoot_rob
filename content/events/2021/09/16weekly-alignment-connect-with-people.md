@@ -8,6 +8,7 @@ EventDate: "2021-09-16"
 aliases: [
     "/events/2021/09/16weekly-alignment-connect-with-people",
 ]
+draft: true
 ---
 
 <img

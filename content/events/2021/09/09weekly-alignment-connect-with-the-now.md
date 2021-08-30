@@ -8,6 +8,7 @@ EventDate: "2021-09-09"
 aliases: [
     "/events/2021/09/09weekly-alignment-connect-with-the-now",
 ]
+draft: true
 ---
 
 <img
