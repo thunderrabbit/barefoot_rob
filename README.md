@@ -1,12 +1,10 @@
-This repo has journal entries and blog entries in separate sections.
+This repo has event, blog, and other entries in separate sections.
 
-    content/journal
+    content/event
            /blog
 
-I would like for only the `blog` entries to show up on the top page.
+Using [mainsections](https://gohugo.io/functions/where/#mainsections) `event` entries to show up on the top page.
 
-In `THEME/layouts.html`, I tried [`{{ range where .Paginator.Pages "Section" "blog" }}`](https://github.com/thunderrabbit/barefoot_rob/blob/a78e8d288dcb7137c002722332b2f08754d258df/themes/purehugo-augmentation/layouts/index.html#L11)
+I would like the prev/next at the bottom of single event pages to only point to other events
 
-That didn't work, so I tried [sending the pagination variable to the pagination.html partial](https://github.com/thunderrabbit/barefoot_rob/commit/3e5a1d6cc6f4bef8277efdb53d85a48f88f3ad4a#diff-93f892dedc737343c346fa10d4950db9)
-
-SOLVED!   https://gohugo.io/functions/where/#mainsections
+Similarly for prev/next at the bottom of single blog entries to only point to other blog entries..
