@@ -1,5 +1,5 @@
 ---
-title: "Barefoot Walking - Yoyogi Park hot Summer challenge (new date September 4th)"
+title: "Barefoot Walking - Yoyogi Park hot Summer challenge"
 tags: [ "2021", "september", "barefoot", "event", "hot", "walk", "yoyogi" ]
 author: Rob Nugen
 date: 2021-08-05T20:58:09+09:00
@@ -24,9 +24,7 @@ Definitely bring sandals and water for this one!
 
 #### When
 
-# NEW DATE, postponed to September 4th: #
-
-**gather at 11:45; enter Yoyogi Park at noon Saturday, ~~August 28th,~~ <b>September 4th</b> 2021**
+**gather at 11:45; enter Yoyogi Park at noon Saturday, <b>September 4th</b> 2021**
 
 #### Where
 
