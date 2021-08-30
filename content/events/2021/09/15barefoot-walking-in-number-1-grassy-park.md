@@ -1,12 +1,12 @@
 ---
-title: "Barefoot Walking in Number 1 Grassy Park"
+title: "Barefoot Walking dusk in Shinyuri Art Park"
 tags: [ "2021", "Shinyuri Art Parks", "barefoot", "event", "grassy", "september", "shin yurigaoka", "walk", "walking", "新ゆりアートパークス" ]
 author: Rob Nugen
 date: 2021-08-30T18:16:16+09:00
-EventTime: "gather at 11:45; enter the Park at noon"
+EventTime: "16:30 at Shinyuri Art Park"
 EventDate: "2021-09-15"
 aliases: [
-    "/events/2021/09/15barefoot-walking-in-number-1-grassy-park",
+    "/events/2021/09/15barefoot-walking-dusk-in-shinyuri-art-park",
 ]
 ---
 
@@ -14,17 +14,21 @@ aliases: [
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
-Barefoot Walking Experience:
+Barefoot Walking Experience at [Shinyuri Art Parks](http://www.airgreen.info/artparks.html)
 
-Barefoot walking, breathing, enjoying fresh air.
+Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
-#### When
+#### First Meeting Point
 
-**gather at 11:45; enter Yoyogi Park at HUMANDATE**
+**16:00**
 
-#### Where
+**Meet in Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98)**  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
-**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+#### Second Meeting Point
+
+**16:30**
+
+[Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -32,24 +36,24 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 *Enjoy Nature*
 
-Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
+Shinyuri Art Parks features an immaculate large grassy field.
 
 *Enjoy Breathing*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-11:45am Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+*Enjoy Community*
 
-12:00 noon: Enter Yoyogi Park
+Find like-minded others who enjoy walking barefoot!
 
-What to Expect:
+*What to Expect*
 
-* We will meet at 11:45 and by noon decided where to go.
-* If it's raining, we will just walk around the loop.
-* If it's dry; we can find a place to sit.
-* I will guide us in meditation, including walking meditation.
-* Feel free to take off your shoes; whatever makes you comfortable.
+* The event is on, rain or shine.
+* We'll walk from Shin Yurigaoka station starting 16:15
+* Feel free to join at Shinyuri Art Parks by 16:30.
+* Take off your shoes in the park; connect with mother earth!
+* Meet friends, enjoy chatting, connecting
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -60,8 +64,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 **What to bring**
 
 Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe a bag for them just in case you need to put them on
-during the walk!
+shoes which you can take off at the grassy field.
 
 Self care is important, so wear shoes whenever you need to!
 
