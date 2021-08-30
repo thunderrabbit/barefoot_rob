@@ -45,25 +45,25 @@ BRB
 on my Macbook Pro.  I wrote the date and faked the date above.
 
 Plan: hardlink the template files (used in
-`~/barefoot_rob/generate_events.pl`) to `~/barefoot_rob/templates/`,
+`~/barefoot_rob_master/generate_events.pl`) to `~/barefoot_rob_master/templates/`,
 with the hope that (will not make Hugo mad and) will allow the
 `generate_events.pl` to work on both MBP and Lemur machines.
 
 Steps:
 
 * determine what files to link
-* hardlink them on Lemur from this repo to `/home/thunderrabbit/barefoot_rob/templates/`
+* hardlink them on Lemur from this repo to `/home/thunderrabbit/barefoot_rob_master/templates/`
 * push this repo
-* push ~/barefoot_rob repo
+* push ~/barefoot_rob_master repo
 * pull the repo on Lemur
-* pull ~/barefoot_rob repo on MBP
+* pull ~/barefoot_rob_master repo on MBP
 * erase one copy and re-hardlink the files together on MBP
 * push everything (should be no changes)
 * change one thing (push and make sure it shows up everywhere)
 
 Ready?  Go!
 
-17:30pm files to link on MBP (via `~/barefoot_rob/generate_events.pl`):
+17:30pm files to link on MBP (via `~/barefoot_rob_master/generate_events.pl`):
 
     /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt
     /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt
@@ -73,11 +73,11 @@ Ready?  Go!
 not on this machine.  Okay back to Lemur we go...))
 
 17:35 okay on Lemur again now, about to create hardlinks from the
-files above to ~/barefoot_rob/templates/
+files above to ~/barefoot_rob_master/templates/
 
-    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt /home/thunderrabbit/barefoot_rob/templates/event_weekly-alignment_template.txt
-    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt  /home/thunderrabbit/barefoot_rob/templates/event_walking_meditation_template.txt
-    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/niigata_2021_walking_update.txt /home/thunderrabbit/barefoot_rob/templates/niigata_2021_walking_update.txt
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_weekly-alignment_template.txt /home/thunderrabbit/barefoot_rob_master/templates/event_weekly-alignment_template.txt
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/event_walking_meditation_template.txt  /home/thunderrabbit/barefoot_rob_master/templates/event_walking_meditation_template.txt
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/niigata_2021_walking_update.txt /home/thunderrabbit/barefoot_rob_master/templates/niigata_2021_walking_update.txt
 
 17:46 Done creating hardlinks on Lemur.
 
@@ -86,7 +86,7 @@ problem we are solving, creating hardlinks on Lemur, pushing both
 repos on Lemur, pulling *this* repo on MBP but not yet pulled the
 other repo on MBP.
 
-17:58 Okay on MBP I have pulled the ~/barefoot_rob/ repo and see the template files:
+17:58 Okay on MBP I have pulled the ~/barefoot_rob_master/ repo and see the template files:
 
     /Users/thunderrabbit/barefoot_rob/templates:
     total used in directory 24 available 4291180339
@@ -117,7 +117,7 @@ I *also* see the template files at
     -rw-r--r--   1 thunderrabbit  staff    60 May  5  2019 snippet_worker.txt
     -rw-r--r--   1 thunderrabbit  staff   864 Jan  6  2019 storylog_template.txt
 
-If I diff the three in `~/barefoot_rob/templates`, they should match `~/.emacs.d/` versions.
+If I diff the three in `~/barefoot_rob_master/templates`, they should match `~/.emacs.d/` versions.
 
 
     diff /Users/thunderrabbit/barefoot_rob/templates/event_walking_meditation_template.txt /Users/thunderrabbit/.emacs.d/personal/hugo/templates/event_walking_meditation_template.txt
@@ -126,7 +126,7 @@ If I diff the three in `~/barefoot_rob/templates`, they should match `~/.emacs.d
 
 18:05 great!  No differences.
 
-So delete the ones in `~/barefoot_rob/templates/` (because I will delete all three files)
+So delete the ones in `~/barefoot_rob_master/templates/` (because I will delete all three files)
 
 And now re-hardlink them here on MBP
 
@@ -149,10 +149,10 @@ Yahooo! This two ^ says there are 2 inodes(?) to the file, i.e. the hardlinks we
 18:21 Atom was a bit hesitant to notice the changed file, but
 basically it is all working on both machines.
 
-Now I will create a hardlink of this README.ROB in the ~/barefoot_rob/templates/ directory
+Now I will create a hardlink of this README.ROB in the ~/barefoot_rob_master/templates/ directory
 
     ln /Users/thunderrabbit/.emacs.d/personal/hugo/templates/README.ROB /Users/thunderrabbit/barefoot_rob/templates/README.ROB
 
 Yayyyyy now just need to create the hardlink over on Lemur..
 
-    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/README.ROB /home/thunderrabbit/barefoot_rob/templates/README.ROB
+    ln /home/thunderrabbit/.emacs.d/modes/hugo/templates/README.ROB /home/thunderrabbit/barefoot_rob_master/templates/README.ROB
