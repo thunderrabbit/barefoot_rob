@@ -3,7 +3,7 @@ title: 'Who you are is why you are here'
 author: 'Rob Nugen'
 date: '2021-04-01T05:36:09+09:00'
 aliases: [
-   "/journal/2021/04/01/who-you-are-is-why-you-are-here/"
+   "/blog/2021/04/01/who-you-are-is-why-you-are-here/"
 ]
 ---
 
