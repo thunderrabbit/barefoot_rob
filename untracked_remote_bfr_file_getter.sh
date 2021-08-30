@@ -10,8 +10,8 @@
 REMOTE_UNTRACKED_FILES="$1"
 
 # REMOTE_BFR_DIR should match ~/journal/untracked_remote_bfr_file_shower.sh
-REMOTE_BFR_DIR='~/barefoot_rob/content'         # must be in single quotes so ~ does not expand locally.
-LOCAL_BFR_DIR=~/barefoot_rob/content         # must not be in any quotes so ~ does expand locally.
+REMOTE_BFR_DIR='~/barefoot_rob_master/content'         # must be in single quotes so ~ does not expand locally.
+LOCAL_BFR_DIR=~/barefoot_rob_master/content         # must not be in any quotes so ~ does expand locally.
 REMOTE_JUSTIN_CASE='~/untracked_files_copied_to_local_box'  # must be in single quotes so ~ does not expand locally.
 
 CONCAT_FILES_TO_COPY=""
