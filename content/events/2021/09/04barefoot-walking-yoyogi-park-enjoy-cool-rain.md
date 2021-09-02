@@ -1,5 +1,5 @@
 ---
-title: "Barefoot Walking - Yoyogi Park hot Summer challenge"
+title: "Barefoot Walking - Yoyogi Park enjoy cool rain!"
 tags: [ "2021", "september", "barefoot", "event", "hot", "walk", "yoyogi" ]
 author: Rob Nugen
 date: 2021-08-05T20:58:09+09:00
@@ -8,6 +8,7 @@ EventDate: "2021-09-04"
 aliases: [
     "/events/2021/08/28barefoot-walking-yoyogi-park-hot-august-challenge",
     "/events/2021/09/04barefoot-walking-yoyogi-park-hot-summer-challenge",
+    "/events/2021/09/04barefoot-walking-yoyogi-park-enjoy-cool-rain",
 ]
 ---
 
