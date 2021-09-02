@@ -12,6 +12,8 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2021/walking_meditation/2021_aug_14_miku_andy_son_rob_in_rain.jpg" "2021 aug 14 miku andy son rob in rain" %}}
 
+We had a lovely time!   https://www.robnugen.com/blog/2021/09/01barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa
+
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking: share new experiences with like-minded friends!
