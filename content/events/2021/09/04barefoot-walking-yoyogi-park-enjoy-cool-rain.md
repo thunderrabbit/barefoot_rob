@@ -19,9 +19,9 @@ class="title" />
 
 Challenge your spirit. Touch the earth. Connect with natural energy.
 
-Barefoot walking Experience on hot asphalt?
+Barefoot walking Experience cooled by rain
 
-Definitely bring sandals and water for this one!
+Let's enjoy cooler weather!
 
 #### When
 
