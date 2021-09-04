@@ -5,6 +5,7 @@ author: Rob Nugen
 date: 2021-09-04T17:02:09+09:00
 aliases: [
     "/blog/2021/09/04barefoot-walking-yoyogi-park-enjoy-cool-rain-",
+    "/blog/2021/09/04barefoot-walking-yoyogi-park-enjoy-cool-rain",
 ]
 ---
 
@@ -28,4 +29,3 @@ We met Mark and had a nice chat!
 [![2021 sep 04 yoyogi park vax fence 48](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_sep_04_yoyogi_park_vax_fence_48.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_yoyogi_park_vax_fence_48.jpg)
 [![2021 sep 04 yoyogi park vax fence 49](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_sep_04_yoyogi_park_vax_fence_49.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_yoyogi_park_vax_fence_49.jpg)
 [![2021 sep 04 yoyogi park vax fence 50](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_sep_04_yoyogi_park_vax_fence_50.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_yoyogi_park_vax_fence_50.jpg)
-
