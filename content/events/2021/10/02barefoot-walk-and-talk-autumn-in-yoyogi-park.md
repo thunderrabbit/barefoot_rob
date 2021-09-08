@@ -20,7 +20,7 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at HUMANDATE**
+**gather at 11:45; enter Yoyogi Park at 12:00 noon**
 
 #### Where
 
@@ -34,7 +34,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
 
-*Enjoy Breathing*
+*Enjoy Connection*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
