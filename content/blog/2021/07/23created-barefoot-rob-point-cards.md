@@ -16,4 +16,4 @@ Exciting!
 
 [![2021 july 23 barefoot rob point card front](//b.robnugen.com/blog/2021/thumbs/2021_july_23_barefoot_rob_point_card_front.jpg)](//b.robnugen.com/blog/2021/2021_july_23_barefoot_rob_point_card_front.jpg)
 
-The front of the card is from our [June event in Yoyogi Park](https://www.robnugen.com/blog/2021/06/05/walking-meditation-welcome-rainy-season-2021/)
+The front of the card is from our [June event in Yoyogi Park](//blog/2021/06/05/walking-meditation-welcome-rainy-season-2021/)
