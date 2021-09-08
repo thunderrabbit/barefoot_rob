@@ -2,6 +2,16 @@
 
 Online home of Barefoot Rob Nugen
 
+For 21 years, I've been walking barefoot whenever possible.  What started as simple enjoyment for me has turned into more passion as I realize the many health benefits of walking barefoot.
+
+Societally, we have been encouraged to enclose our feet in too small shoes;
+this causes all variety of problems,
+[exacerbating bunions](https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799) <!-- https://web.archive.org/web/20210817235047/https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799 -->
+to
+[lower back pain](https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/). <!-- https://web.archive.org/web/20210301133842/https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/ -->
+
+
+
 Barefooting is the way to be.  Bare feet help us balance more naturally,
 
 
