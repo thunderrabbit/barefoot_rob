@@ -3,7 +3,7 @@ title: "Barefoot Walking dusk in Shinyuri Art Park"
 tags: [ "2021", "Shinyuri Art Parks", "barefoot", "event", "grassy", "september", "shin yurigaoka", "walk", "walking", "新ゆりアートパークス" ]
 author: Rob Nugen
 date: 2021-08-30T18:16:16+09:00
-EventTime: "16:30 at Shinyuri Art Park"
+EventTime: "16:00 at Shinyuri Art Park"
 EventDate: "2021-09-15"
 aliases: [
     "/events/2021/09/15barefoot-walking-dusk-in-shinyuri-art-park",
@@ -20,13 +20,13 @@ Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
 #### First Meeting Point
 
-16:00  (4:00pm)
+15:30  (3:30pm)
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point
 
-16:30 (4:30pm)
+16:00 (4:00pm)
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
@@ -50,8 +50,8 @@ Find like-minded others who enjoy walking barefoot!
 *What to Expect*
 
 * The event is on, rain or shine.
-* We'll walk from Shin Yurigaoka station starting 16:15
-* Feel free to join at Shinyuri Art Parks by 16:30.
+* We'll walk from Shin Yurigaoka station starting 15:45
+* Feel free to join at Shinyuri Art Parks by 16:00.
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
 
