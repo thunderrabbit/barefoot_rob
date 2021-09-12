@@ -20,3 +20,12 @@ EventDate: "2021-09-29"
 #### Details
 
 https://tedxogikubo.com/
+
+
+SPOILER ALERT:  Here's a pre-recorded version to help myself prep:
+
+<audio controls>
+  <source src="//b.robnugen.com/rob/presentations/2021/2021_sep_12_tedx_happy_soles_happy_souls.ogg" type="audio/ogg">
+  <source src="//b.robnugen.com/rob/presentations/2021/2021_sep_12_tedx_happy_soles_happy_souls.mp3" type="audio/mpeg">
+  Your browser does not support this audio content.
+</audio>
