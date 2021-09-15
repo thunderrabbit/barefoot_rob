@@ -5,6 +5,7 @@
 
     <div class="content pure-u-1 pure-u-md-3-4">
         <div>
+          {{ if eq .Paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
             <!-- A wrapper for all the future blog posts -->
             <h1>Upcoming Events</h1>
             <div class="posts">
@@ -36,6 +37,7 @@
                 </section>
                 {{ end }}
             </div>
+          {{ end }} {{/* End only show upcoming events on page 1 of /events/ */}}
             <!-- A wrapper for all the past blog posts -->
             <h1>Past Events</h1>
             <div class="posts">
