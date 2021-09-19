@@ -39,7 +39,8 @@
             </div>
           {{ end }} {{/* End only show upcoming events on page 1 of /events/ */}}
           <!-- A wrapper for all the past blog posts -->
-          <h1>Past Events</h1>
+          <h1>Past Events <div class="note">(Page {{ .Paginator.PageNumber }})</div></h1>
+
           <div class="posts">
               {{ $past_events := where .Pages ".Params.eventdate" "le" (now.Format "2006-01-02") }}
 
