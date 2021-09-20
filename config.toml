@@ -2,6 +2,7 @@ baseURL = "https://www.robnugen.com/"
 languageCode = "en-us"
 theme = [ "purehugo" ]
 rssLimit = 50
+defaultContentLanguageInSubdir = true
 [markup.goldmark.renderer]
 unsafe= true
 [params]
