@@ -1,6 +1,5 @@
 baseURL = "https://www.robnugen.com/"
 languageCode = "en-us"
-title = "Barefoot Rob"
 theme = [ "purehugo" ]
 rssLimit = 50
 [markup.goldmark.renderer]
@@ -18,3 +17,16 @@ unsafe= true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
     journal = "/journal/:year/:month/:day/:title/"
+
+[languages]
+  [languages.en]
+    title = "Barefoot Rob"
+    weight = 1
+    LanguageName = "EN"
+    description = "Enjoy feet on earth"
+
+  [languages.ja]
+    title = "ビー玉からくり第三弾"
+    weight = 2
+    LanguageName = "JA"
+    description = "ビー玉からくり第三弾"
