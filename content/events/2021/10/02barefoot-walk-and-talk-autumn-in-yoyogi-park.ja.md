@@ -69,6 +69,7 @@ What to Expect:
 
 皆さんもご存知の通りです。 私はあなたがそれについて考えたことを知っていますし、あなたが自分で良い決断をしてくれることを信じています。
 私はあなたが自分で良い決断をしてくれると信じています。 もしあなたがマスクのあるグループを希望するなら
-https://www.meetup.com/tokyospontaneous をお勧めします。
+https://www.meetup.com/tokyospontaneous
+をお勧めします。
 
 https://www.DeepL.com/Translator（無料版）で翻訳しました。

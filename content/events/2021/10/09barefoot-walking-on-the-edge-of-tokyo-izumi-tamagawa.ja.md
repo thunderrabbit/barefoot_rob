@@ -68,7 +68,8 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 あなたはその状況を知っています。 私はあなたがそれについて考えたことを知っていますし、あなたが自分で良い決断をすることを信じています。
 私は、あなたが自分で良い決断をすることを信じています。 厳密にマスクをしているグループには
-https://www.meetup.com/tokyospontaneous をお勧めします。
+https://www.meetup.com/tokyospontaneous
+をお勧めします。
 
 
 www.DeepL.com/Translator（無料版）で翻訳しました。
