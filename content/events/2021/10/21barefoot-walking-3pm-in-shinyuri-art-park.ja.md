@@ -3,7 +3,7 @@ title: "15時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2021", "Shinyuri Art Parks", "barefoot", "event", "grassy", "october", "shin yurigaoka", "walk", "walking", "新ゆりアートパークス" ]
 author: Rob Nugen
 date: 2021-09-15T18:16:16+09:00
-EventTime: "15:00 at Shinyuri Art Park"
+EventTime: "15:00に新ゆりアートパークス"
 EventDate: "2021-10-21"
 aliases: [
     "/events/2021/10/21barefoot-walking-3pm-in-shinyuri-art-park",
