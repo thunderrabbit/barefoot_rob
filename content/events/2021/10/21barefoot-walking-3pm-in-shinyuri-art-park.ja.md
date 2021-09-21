@@ -1,5 +1,5 @@
 ---
-title: "15時から新百合芸術劇場で裸足でウォーキング"
+title: "15時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2021", "Shinyuri Art Parks", "barefoot", "event", "grassy", "october", "shin yurigaoka", "walk", "walking", "新ゆりアートパークス" ]
 author: Rob Nugen
 date: 2021-09-15T18:16:16+09:00
@@ -15,7 +15,7 @@ aliases: [
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
-[新百合アートパーク](http://www.airgreen.info/artparks.html)での裸足歩行体験
+[新ゆりアートパークス](http://www.airgreen.info/artparks.html)での裸足歩行体験
 
 裸足で歩き、呼吸を整え、新鮮な空気と美しい草原を楽しみます。
 
@@ -29,7 +29,7 @@ aliases: [
 
 15:00 (15:00)
 
-[新百合アートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
+[新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
 
@@ -37,7 +37,7 @@ aliases: [
 
 * 自然を楽しむ *
 
-新百合アートパークは、広大な芝生の広場が特徴です。
+新ゆりアートパークスは、広大な芝生の広場が特徴です。
 
 * 呼吸を楽しむ *
 
@@ -51,7 +51,7 @@ aliases: [
 
 * イベントは、雨天決行です。
 * 15:45に新百合ヶ丘駅を出発します。
-* 15:00までに新百合アートパークに集合してください。
+* 15:00までに新ゆりアートパークスに集合してください。
 * 公園では靴を脱いで、母なる大地とつながりましょう。
 * 友達に会って、おしゃべりを楽しんで、つながる
 
