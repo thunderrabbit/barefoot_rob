@@ -16,22 +16,22 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" href='{{ "events" | absURL }}'>
+                    <a class="pure-button" href='{{ "events" | relLangURL }}'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} events{{ end }}
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" href='{{ "services" | absURL }}'>
+                    <a class="pure-button" href='{{ "en/services" | relURL }}'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} services{{ end }}
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" href='{{ "about" | absURL }}'>
+                    <a class="pure-button" href='{{ "en/about" | relURL }}'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} about{{ end }}
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" href='{{ "contact" | absURL }}'>
+                    <a class="pure-button" href='{{ "contact" | relLangURL }}'>
                         <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} contact{{ end }}
                     </a>
                 </li>
