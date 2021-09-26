@@ -23,11 +23,11 @@ unsafe= true
   [languages.en]
     title = "Barefoot Rob"
     weight = 1
-    LanguageName = "EN"
+    LanguageName = "English"
     description = "Enjoy being on earth"
 
   [languages.ja]
     title = "裸足のロブ"
     weight = 2
-    LanguageName = "JA"
+    LanguageName = "日本語"
     description = "Enjoy being on earth"

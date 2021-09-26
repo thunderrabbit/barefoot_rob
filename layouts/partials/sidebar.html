@@ -75,6 +75,16 @@
                         <i class="fa fa-rss"></i>{{ if not .Site.Params.hideSidebarIconText }} rss{{ end }}
                     </a>
                 </li -->
+
+                {{/* https://gohugo.io/content-management/multilingual/#list-all-available-languages */}}
+                {{ range $.Site.Home.AllTranslations }}
+                <li class="nav-item">
+                  <a class="pure-button" href="{{ .Permalink | absLangURL }}">
+                    <i class="fa">{{ .Language.LanguageName }}</i>
+                  </a>
+                </li>
+                {{ end }}
+
             </ul>
         </nav>
     </div>
