@@ -18,7 +18,7 @@ Enjoy chatting and barefoot walking: share new experiences with like-minded frie
 
 #### When
 
-**gather at 11:45; walk toward Tama River at noon**
+**09 Oct 2021, gather at 11:45; walk toward Tama River at noon**
 
 #### Where
 

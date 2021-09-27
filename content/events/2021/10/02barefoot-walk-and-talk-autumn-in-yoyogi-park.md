@@ -20,7 +20,7 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at 12:00 noon**
+**02 Oct 2021, gather at 11:45; enter Yoyogi Park at 12:00 noon**
 
 #### Where
 
