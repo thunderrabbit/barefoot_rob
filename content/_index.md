@@ -16,16 +16,6 @@ Walking barefoot helps us balance more naturally,
 as toes have more leverage to balance us if they are given more space to spread out.  
 Plus having more nerve endings on the ground gives more detail to the brain about how to balance.
 
-Sure, going barefoot you might get the occasional scrape or cut, ..
-but you also get access to
-[52 bones, 66 joints, over 200 muscles, tendons and ligaments](https://venturaortho.com/foot-and-ankle/) <!-- https://web.archive.org/web/20210227095145/https://venturaortho.com/foot-and-ankle/ -->
- plus
- [400 thousand neurons](https://www.reference.com/science/feet-many-nerve-endings-constantly-stepping-f6d36b17817c3bb8)! <!-- https://web.archive.org/web/20210128030604/https://www.reference.com/science/feet-many-nerve-endings-constantly-stepping-f6d36b17817c3bb8 -->
-
-All of these are all designed to
-[help you navigate the world](https://www.correcttoes.com/foot-help/how-going-barefoot-affects-your-brain/) <!-- https://web.archive.org/web/20210225020504/https://www.correcttoes.com/foot-help/how-going-barefoot-affects-your-brain/ -->
-around you.
-
 
 <img
 src="//b.robnugen.com/blog/2021/2021_jun_05_max_yuma_hiro_rob_yuna.jpg"

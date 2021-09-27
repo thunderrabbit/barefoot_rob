@@ -12,20 +12,6 @@
 から
 [腰痛](https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/)になってしまいます。<!-- https://web.archive.org/web/20210301133842/https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/ -->
 
-裸足で歩くと、より自然にバランスをとることができます。
-裸足で歩くことで、自然にバランスをとることができます。
-さらに、地面に多くの神経終末があると、脳にバランスの取り方を詳しく伝えることができます。
-
-裸足でいると、たまに擦り傷や切り傷ができるかもしれません。
-しかし、それだけではなく
-[52の骨、66の関節、200以上の筋肉、腱、靭帯](https://venturaortho.com/foot-and-ankle/) <!-- https://web.archive.org/web/20210227095145/https://venturaortho.com/foot-and-ankle/ -->
- さらに
- [400,000のニューロン](https://www.reference.com/science/feet-many-nerve-endings-constantly-stepping-f6d36b17817c3bb8)! <!-- https://web.archive.org/web/20210128030604/https://www.reference.com/science/feet-many-nerve-endings-constantly-stepping-f6d36b17817c3bb8 -->
-
-これらはすべて、以下の目的のために設計されています。
-<!--https://www.correcttoes.com/foot-help/how-going-barefoot-affects-your-brain/ -->
-[これらはすべて、世界をナビゲートするために設計されています]((https://www.correcttoes.com/foot-help/how-going-barefoot-affects-your-brain/))。 <!-- https://web.archive.org/web/20210225020504/https://www.correcttoes.com/foot-help/how-going-barefoot-affects-your-brain/ -->
-
 
 <img
 src="//b.robnugen.com/blog/2021/2021_jun_05_max_yuma_hiro_rob_yuna.jpg"
