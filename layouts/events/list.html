@@ -5,6 +5,16 @@
 
     <div class="content pure-u-1 pure-u-md-3-4">
         <div>
+          {{ if .IsTranslated }}
+          <h4>{{ i18n "translations" }}</h4>
+          <ul>
+              {{ range .Translations }}
+              <li>
+                  <a href="{{ .Permalink }}">{{ .Language.LanguageName }}: {{ .Title }}</a>
+              </li>
+              {{ end }}
+          </ul>
+          {{ end }}
           {{ if eq .Paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
             <!-- A wrapper for all the future blog posts -->
             <h1>Upcoming Events</h1>
