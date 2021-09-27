@@ -33,8 +33,7 @@ alt="five adults standing happily barefoot in grass"
 class="title" />
 
 
-if you'd like to get started barefooting,
-enter your email address to receive my free English PDF.
+if you'd like to hear more about our events, enter your email below.
 
 <!-- AWeber Web Form Generator 3.0.1 -->
 <style type="text/css">
