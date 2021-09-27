@@ -61,7 +61,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **Costs:**
 
-500 yen, includes alcohol and rags for wiping feet clean
+500 yen
 
 **What to bring**
 
