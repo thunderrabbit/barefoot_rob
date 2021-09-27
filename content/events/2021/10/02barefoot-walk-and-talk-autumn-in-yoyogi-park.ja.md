@@ -24,7 +24,7 @@ aliases: [
 
 #### 場所
 
-**[原宿入口付近の時計](https://goo.gl/maps/xabS6Nw7TgNScqeCA)による代々木公園**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+**[代々木公園の原宿入り口付近の時計](https://goo.gl/maps/xabS6Nw7TgNScqeCA)による代々木公園**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
 最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
 
