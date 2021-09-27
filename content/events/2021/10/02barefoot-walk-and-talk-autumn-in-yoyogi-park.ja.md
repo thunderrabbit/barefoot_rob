@@ -20,11 +20,11 @@ aliases: [
 
 #### いつ
 
-**11:45集合、12:00代々木公園入場**
+**2021年10月02日　11:45集合、12:00代々木公園入場**
 
 #### 場所
 
-**[代々木公園の原宿入り口付近の時計](https://goo.gl/maps/xabS6Nw7TgNScqeCA)による代々木公園**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+**[代々木公園の原宿入り口付近の時計](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
 最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
 
