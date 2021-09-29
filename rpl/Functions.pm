@@ -194,7 +194,6 @@ sub get_event_type(@) {
     # confirm selected image
     print "\nCtrl-C if you ain't happy with your choice!\n";
     print "  event_type:     $event_type\n";
-
   return $event_type;
 }
 
@@ -283,4 +282,14 @@ sub split_body(@) {
   my @body_parts = split /$splitter/,$body;
 
   return @body_parts;
+}
+
+sub this_looks_like_a_hash($) {
+  my ($string) = @_;
+  print $string . " looks like a hash\n" if $string !~ /^\//;  ## was =~ /^%/; but I took the % off the hashes to reference them by adding % back on
+}
+
+sub this_looks_like_a_file_path($) {
+    my ($string) = @_;
+    print $string . " looks like a file path\n" if $string =~ /^\//;
 }
