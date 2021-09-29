@@ -27,7 +27,7 @@ my $event_template;
 
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $event_template_file);
+  open (ETF, "<", $event_template_file) or die "could not find template " . $event_template_file;
 
   $event_template = <ETF>;
 
