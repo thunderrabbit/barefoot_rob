@@ -17,6 +17,10 @@ my $what_kinda_event;
 
 ##  This do loop allows %event_template_files to contain a reference to another hash so we can get more detailed templates
 ##  At this point we can go down to the location level, but cannot poop out multiple templates per event (e.g. multi-language / different platforms (my site / FB / Meetup / Instagram))
+
+
+# TODO: return an array of templates and we'll loop through each one when outputting stuff
+
 do {
 
   $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %select_from_hash);
