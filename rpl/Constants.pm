@@ -10,12 +10,18 @@ our $events_directory = "/events";    #  appended to $content_directory when wri
 our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
 our $slow_down_book_dir = "/quests/slow-down";    #  appended to $content_directory when writing actual file.
 
+our %walk_location_files = (
+    "yoyogi_park" => "$home/barefoot_rob_master/templates/walk_and_talk/yoyogi_park_en.txt",
+    "izumi_tamagawa" => "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_en.txt",
+    "shin_yuri_art_park" => "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park_en.txt",
+);
+
 our %event_template_files = (
     "blog_entry" => "$home/barefoot_rob_master/templates/blog_template.txt",
     "book_chapter" => "$home/barefoot_rob_master/templates/book_chapter_template.txt",
     "weekly_alignment" => "$home/barefoot_rob_master/templates/event_weekly-alignment_template.txt",
     "walking_meditation" => "$home/barefoot_rob_master/templates/event_walking_meditation_template.txt",
-    "barefoot_walk" => "$home/barefoot_rob_master/templates/event_barefoot_walking.txt",
+    "barefoot_walk" => "walk_location_files",
     "quest_update" => "$home/barefoot_rob_master/templates/niigata_2021_walking_update.txt",
 );
 
