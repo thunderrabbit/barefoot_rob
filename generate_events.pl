@@ -23,10 +23,6 @@ do {
 
   $event_template_file = $select_from_hash{$what_kinda_event};
 
-  ## I tried this but could not get it to work.  The idea is to read the sting $event_template_file as if it were the name of a hash:
-  ## %rpl::Constants::{$event_template_file}
-  ##  %select_from_hash = %rpl::Constants::{$event_template_file} if rpl::Functions::this_looks_like_a_hash($event_template_file);
-
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
   if($event_template_file == "walk_location_files") {
     %select_from_hash = %rpl::Constants::walk_location_files;
