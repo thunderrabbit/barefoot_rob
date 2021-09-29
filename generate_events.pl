@@ -11,9 +11,32 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
-my $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %rpl::Constants::event_template_files);
+my $event_template_file;
+my %select_from_hash = %rpl::Constants::event_template_files;
+my $what_kinda_event;
 
-my $event_template_file = $rpl::Constants::event_template_files{$what_kinda_event};
+##  This do loop allows %event_template_files to contain a reference to another hash so we can get more detailed templates
+##  At this point we can go down to the location level, but cannot poop out multiple templates per event (e.g. multi-language / different platforms (my site / FB / Meetup / Instagram))
+do {
+
+  $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %select_from_hash);
+
+  $event_template_file = $select_from_hash{$what_kinda_event};
+
+  ## I tried this but could not get it to work.  The idea is to read the sting $event_template_file as if it were the name of a hash:
+  ## %rpl::Constants::{$event_template_file}
+  ##  %select_from_hash = %rpl::Constants::{$event_template_file} if rpl::Functions::this_looks_like_a_hash($event_template_file);
+
+  ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
+  if($event_template_file == "walk_location_files") {
+    %select_from_hash = %rpl::Constants::walk_location_files;
+  } elsif($event_template_file == "the_good_place") {
+    %select_from_hash = %rpl::Constants::the_good_place;
+  } else {
+    %select_from_hash = %rpl::Constants::walk_location_files;
+  }
+
+} until (rpl::Functions::this_looks_like_a_file_path($event_template_file));
 
 my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
