@@ -99,6 +99,8 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);
 
+### will need to get a title for each language, but not for each social network.. hmmm
+### Also, I want to use the same filename (in English) even for the Japanese output
 my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
 my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
