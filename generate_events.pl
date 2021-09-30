@@ -97,16 +97,16 @@ if ($number_args == 0) {
 my @episode_images = @ARGV;
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
-## BUILD OUTPUT
-#
-my $new_entry;
-
 my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);
 
 my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
 my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
+
+## BUILD OUTPUT
+#
+my $new_entry;
 
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
