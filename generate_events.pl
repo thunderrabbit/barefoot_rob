@@ -21,9 +21,13 @@ my $what_kinda_event;
 
 # TODO: return an array of templates and we'll loop through each one when outputting stuff
 
+my $original_what_kinda_event = "";     ## later restore what_kinda_event after we go into sub-hashes for walking events so we can get tags and location later down this script
+
 do {
 
   $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %select_from_hash);
+
+  $original_what_kinda_event = $what_kinda_event unless $original_what_kinda_event;
 
   $event_template_file = $select_from_hash{$what_kinda_event};
 
@@ -37,6 +41,9 @@ do {
   }
 
 } until (rpl::Functions::this_looks_like_a_file_path($event_template_file));
+
+## restore $what_kinda_event which may have gotten borked when diving into sub hashes
+$what_kinda_event = $original_what_kinda_event;
 
 my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
