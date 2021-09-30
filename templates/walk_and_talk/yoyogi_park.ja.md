@@ -20,7 +20,7 @@ aliases: [
 
 #### いつ
 
-**EVENT_YYYY年EVENT_MM月EVENT_DD日　11:45集合、12:00代々木公園入場**
+**EVENT_YYYY年EVENT_M月EVENT_D日　11:45集合、12:00代々木公園入場**
 
 #### 場所
 

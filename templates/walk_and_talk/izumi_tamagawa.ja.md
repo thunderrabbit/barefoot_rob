@@ -18,7 +18,7 @@ aliases: [
 
 #### いつ
 
-**EVENT_YYYY年EVENT_MM月EVENT_DD日　11時45分集合、正午に多摩川を目指して歩きます。**
+**EVENT_YYYY年EVENT_M月EVENT_D日　11時45分集合、正午に多摩川を目指して歩きます。**
 
 #### 場所
 
