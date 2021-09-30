@@ -57,24 +57,32 @@ my %event_templates;   ## 'bout to get multiple templates (one per language, soc
 
 ## Load each template in the selected array
 foreach(@event_paths_array) {
+  my $extension;   ## only needed up here because of the { #debug interface } block
   {
     # debug interface just to get the bulk of the code working
 
     local $/;  # makes changes local to this block
     undef $/;  # file slurp mode (default is "\n")
 
+    $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
+    $extension = $1;
+
+    if ($verbosity > 3) {
+      print "template extension `" . $extension . "` should be used when writing file based on this template\n";
+    }
+
     if ($verbosity > 2) {
       print "loading template:\n" . $_ . "\n";
     }
     open (ETF, "<", $_) or die "could not find template " . $_;
 
-    $event_templates{".md"} = <ETF>;
+    $event_templates{$extension} = <ETF>;
 
     close ETF;
   }
 
   if ($verbosity > 2) {
-    print "length(ETF) = " . length($event_templates{".md"}) . "\n";
+    print "length(ETF) = " . length($event_templates{$extension}) . "\n";
   }
 }
 
