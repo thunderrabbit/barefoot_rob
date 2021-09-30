@@ -113,52 +113,53 @@ my $new_entry;
 $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
 $new_entry->{EventDate} = $event_date_time->ymd;
-# now build the output!
-my $mt3_episode_output = $event_templates{".md"};
 
-# handle date separately
-$mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
-my $human_date = $event_date_time->strftime("%A %d %B %Y");
-$mt3_episode_output =~ s/human_date_here/$human_date/;
-$mt3_episode_output =~ s/episode_image/$episode_image/;
-# do the rest algorithmically
-foreach my $key (keys %{ $new_entry }) {
-  my $value = $new_entry->{$key};
-  $mt3_episode_output =~ s/^(\Q$key\E: .*?)%s(.*)/$1$value$2/im;
-}# $k
+# now build the outputs!
+  my $mt3_episode_output = $event_templates{".md"};
+
+  # handle date separately
+  $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
+  my $human_date = $event_date_time->strftime("%A %d %B %Y");
+  $mt3_episode_output =~ s/human_date_here/$human_date/;
+  $mt3_episode_output =~ s/episode_image/$episode_image/;
+  # do the rest algorithmically
+  foreach my $key (keys %{ $new_entry }) {
+    my $value = $new_entry->{$key};
+    $mt3_episode_output =~ s/^(\Q$key\E: .*?)%s(.*)/$1$value$2/im;
+  }# $k
 
 
-# store this for debugging
-$new_entry->{mt3_episode_output} = $mt3_episode_output;
+  # store this for debugging
+  $new_entry->{mt3_episode_output} = $mt3_episode_output;
 
-# Create outfile path based on today's date
-# convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
-my %event_output_directories = (
-    "barefoot_walk" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
-    "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
-    "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date_time->ymd . "_",   # don't end with slash because book directories have no dates
-    "weekly_alignment" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),     # don't end with slash, by `convention` above
-    "walking_meditation" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
-    "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
-);
+  # Create outfile path based on today's date
+  # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
+  my %event_output_directories = (
+      "barefoot_walk" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
+      "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
+      "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . $event_date_time->ymd . "_",   # don't end with slash because book directories have no dates
+      "weekly_alignment" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),     # don't end with slash, by `convention` above
+      "walking_meditation" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
+      "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
+  );
 
-my $alias_path = $event_output_directories{$what_kinda_event};
-my $title_path = rpl::Functions::kebab_case($title);
-my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
-my $outfile_and_title_path = $outfile_path . $title_path . ".md";
+  my $alias_path = $event_output_directories{$what_kinda_event};
+  my $title_path = rpl::Functions::kebab_case($title);
+  my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
+  my $outfile_and_title_path = $outfile_path . $title_path . ".md";
 
-my $dirname_of_output_file = dirname($outfile_and_title_path);
-mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309
+  my $dirname_of_output_file = dirname($outfile_and_title_path);
+  mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309
 
-$mt3_episode_output =~ s|alias_path|$alias_path$title_path|;
+  $mt3_episode_output =~ s|alias_path|$alias_path$title_path|;
 
-open(OUT, ">", $outfile_and_title_path) or die "Could not open file '$outfile_and_title_path'";
-print OUT $mt3_episode_output;
-close(OUT);
+  open(OUT, ">", $outfile_and_title_path) or die "Could not open file '$outfile_and_title_path'";
+  print OUT $mt3_episode_output;
+  close(OUT);
 
-print "+---------------------------------+\n";
-print "| wrote to $outfile_and_title_path\n";
-print "+---------------------------------+\n";
+  print "+---------------------------------+\n";
+  print "| wrote to $outfile_and_title_path\n";
+  print "+---------------------------------+\n";
 
 
 # DONE!
