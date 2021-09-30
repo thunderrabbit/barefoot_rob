@@ -57,22 +57,22 @@ my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes 
 #
 my $event_template;
 
-## Will need to do this once for each template in the selected array
-{
-  # debug interface just to get the bulk of the code working
+  ## Will need to do this once for each template in the selected array
+  {
+    # debug interface just to get the bulk of the code working
 
-  local $/;  # makes changes local to this block
-  undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $event_paths_array[0]) or die "could not find template " . $event_paths_array[0];
+    local $/;  # makes changes local to this block
+    undef $/;  # file slurp mode (default is "\n")
+    open (ETF, "<", $event_paths_array[0]) or die "could not find template " . $event_paths_array[0];
 
-  $event_template = <ETF>;
+    $event_template = <ETF>;
 
-  close ETF;
-}
+    close ETF;
+  }
 
-if ($verbosity > 2) {
-  print "length(ETF) = " . length($event_template) . "\n";
-}
+  if ($verbosity > 2) {
+    print "length(ETF) = " . length($event_template) . "\n";
+  }
 
 my $number_args = $#ARGV + 1;
 if ($number_args == 0) {
