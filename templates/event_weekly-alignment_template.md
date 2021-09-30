@@ -17,7 +17,7 @@ class="title" />
 
 #### When
 
-**7pm ~ 8:30pm JST human_date_here**
+**7pm ~ 8:30pm JST HUMANDATE**
 
 #### Where
 
