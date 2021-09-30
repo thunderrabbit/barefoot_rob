@@ -293,3 +293,28 @@ sub this_looks_like_a_file_path($) {
     my ($string) = @_;
     print $string . " looks like a file path\n" if $string =~ /^\//;
 }
+
+# https://www.perlmonks.org/?node_id=118961
+# https://www.perlmonks.org/?node_id=455955;displaytype=displaycode
+sub is_array($) {
+    my ($ref) = @_;
+    # Firstly arrays need to be references, throw
+    #  out non-references early.
+    return 0 unless ref $ref;
+
+    # Now try and eval a bit of code to treat the
+    #  reference as an array.  If it complains
+    #  in the 'Not an ARRAY reference' then we're
+    #  sure it's not an array, otherwise it was.
+    eval {
+      my $a = @$ref;
+    };
+    if ($@=~/^Not an ARRAY reference/) {
+      return 0;
+    } elsif ($@) {
+      die "Unexpected error in eval: $@\n";
+    } else {
+      return 1;
+    }
+
+  }
