@@ -32,10 +32,10 @@ do {
   $event_template_file = $select_from_hash{$what_kinda_event};
 
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
-  if($event_template_file == "walk_location_files") {
+  if($event_template_file eq "walk_location_files") {
     print "\n$event_template_file? We must go deeper!\n";
     %select_from_hash = %rpl::Constants::walk_location_files;
-  } elsif($event_template_file == "the_good_place") {
+  } elsif($event_template_file eq "the_good_place") {
     print "\n$event_template_file? We must go deeper!\n";
     %select_from_hash = %rpl::Constants::the_good_place;
   }
