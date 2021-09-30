@@ -48,8 +48,6 @@ $what_kinda_event = $original_what_kinda_event;
 
 @event_paths_array = @$event_type_selector;
 
-print @event_paths_array;
-
 my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
 # Get input data from commands
@@ -64,6 +62,10 @@ foreach(@event_paths_array) {
 
     local $/;  # makes changes local to this block
     undef $/;  # file slurp mode (default is "\n")
+
+    if ($verbosity > 2) {
+      print "loading template:\n" . $_ . "\n";
+    }
     open (ETF, "<", $_) or die "could not find template " . $_;
 
     $event_templates{".md"} = <ETF>;
