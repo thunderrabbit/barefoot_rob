@@ -11,8 +11,8 @@ use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
-my $event_templates_selector;
-my @event_templates_array;
+my $event_type_selector;
+my @event_paths_array;
 my %select_from_hash = %rpl::Constants::event_template_files;
 my $what_kinda_event;
 
@@ -30,25 +30,25 @@ do {
 
   $original_what_kinda_event = $what_kinda_event unless $original_what_kinda_event;
 
-  $event_templates_selector = $select_from_hash{$what_kinda_event};
+  $event_type_selector = $select_from_hash{$what_kinda_event};
 
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
-  if($event_templates_selector eq "walk_location_files") {
-    print "\n$event_templates_selector? We must go deeper!\n";
+  if($event_type_selector eq "walk_location_files") {
+    print "\n$event_type_selector? We must go deeper!\n";
     %select_from_hash = %rpl::Constants::walk_location_files;
-  } elsif($event_templates_selector eq "the_good_place") {
-    print "\n$event_templates_selector? We must go deeper!\n";
+  } elsif($event_type_selector eq "the_good_place") {
+    print "\n$event_type_selector? We must go deeper!\n";
     %select_from_hash = %rpl::Constants::the_good_place;
   }
 
-} until (rpl::Functions::is_array($event_templates_selector));
+} until (rpl::Functions::is_array($event_type_selector));
 
 ## restore $what_kinda_event which may have gotten borked when diving into sub hashes
 $what_kinda_event = $original_what_kinda_event;
 
-@event_templates_array = @$event_templates_selector;
+@event_paths_array = @$event_type_selector;
 
-print @event_templates_array;
+print @event_paths_array;
 
 my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
 
@@ -63,7 +63,7 @@ my $event_template;
 
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $event_templates_array[0]) or die "could not find template " . $event_templates_array[0];
+  open (ETF, "<", $event_paths_array[0]) or die "could not find template " . $event_paths_array[0];
 
   $event_template = <ETF>;
 
