@@ -33,11 +33,11 @@ do {
 
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
   if($event_template_file == "walk_location_files") {
+    print "\n$event_template_file? We must go deeper!\n";
     %select_from_hash = %rpl::Constants::walk_location_files;
   } elsif($event_template_file == "the_good_place") {
+    print "\n$event_template_file? We must go deeper!\n";
     %select_from_hash = %rpl::Constants::the_good_place;
-  } else {
-    %select_from_hash = %rpl::Constants::walk_location_files;
   }
 
 } until (rpl::Functions::this_looks_like_a_file_path($event_template_file));
