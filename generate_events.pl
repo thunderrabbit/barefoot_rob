@@ -115,7 +115,8 @@ $new_entry->{tags} = $tagstring;
 $new_entry->{EventDate} = $event_date_time->ymd;
 
 # now build the outputs!
-  my $mt3_episode_output = $event_templates{".md"};
+foreach my $extension (keys %event_templates) {
+  my $mt3_episode_output = $event_templates{$extension};
 
   # handle date separately
   $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
@@ -146,7 +147,7 @@ $new_entry->{EventDate} = $event_date_time->ymd;
   my $alias_path = $event_output_directories{$what_kinda_event};
   my $title_path = rpl::Functions::kebab_case($title);
   my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
-  my $outfile_and_title_path = $outfile_path . $title_path . ".md";
+  my $outfile_and_title_path = $outfile_path . $title_path . $extension;
 
   my $dirname_of_output_file = dirname($outfile_and_title_path);
   mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309
@@ -160,6 +161,7 @@ $new_entry->{EventDate} = $event_date_time->ymd;
   print "+---------------------------------+\n";
   print "| wrote to $outfile_and_title_path\n";
   print "+---------------------------------+\n";
+}
 
 
 # DONE!
