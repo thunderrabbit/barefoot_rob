@@ -55,24 +55,26 @@ my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes 
 # Get input data from commands
 # TODO: error handling
 #
-my $event_template;
+my %event_templates;   ## 'bout to get multiple templates (one per language, social network)
 
-  ## Will need to do this once for each template in the selected array
+## Load each template in the selected array
+foreach(@event_paths_array) {
   {
     # debug interface just to get the bulk of the code working
 
     local $/;  # makes changes local to this block
     undef $/;  # file slurp mode (default is "\n")
-    open (ETF, "<", $event_paths_array[0]) or die "could not find template " . $event_paths_array[0];
+    open (ETF, "<", $_) or die "could not find template " . $_;
 
-    $event_template = <ETF>;
+    $event_templates{".md"} = <ETF>;
 
     close ETF;
   }
 
   if ($verbosity > 2) {
-    print "length(ETF) = " . length($event_template) . "\n";
+    print "length(ETF) = " . length($event_templates{".md"}) . "\n";
   }
+}
 
 my $number_args = $#ARGV + 1;
 if ($number_args == 0) {
@@ -100,7 +102,7 @@ $new_entry->{title} = $title;
 $new_entry->{tags} = $tagstring;
 $new_entry->{EventDate} = $event_date_time->ymd;
 # now build the output!
-my $mt3_episode_output = $event_template;
+my $mt3_episode_output = $event_templates{".md"};
 
 # handle date separately
 $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
