@@ -18,7 +18,7 @@ aliases: [
 
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。
 
-#### いつ
+#### 日程
 
 **EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
 

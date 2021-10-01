@@ -16,7 +16,7 @@ aliases: [
 
 裸足で歩きながらおしゃべりを楽しむ：気の合う仲間と新しい体験を共有する
 
-#### いつ
+#### 日程
 
 **EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
 
