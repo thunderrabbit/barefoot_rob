@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at 11:45; enter the Park at noon"
+EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
 EventDate: "%s"
 aliases: [
     "alias_path",
@@ -20,13 +20,13 @@ aliases: [
 
 #### 第一集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　14時30分
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
 新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第二集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　15時00分
+EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 

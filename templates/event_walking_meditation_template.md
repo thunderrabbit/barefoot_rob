@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at 11:45; enter the Park at noon"
+EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
 EventDate: "%s"
 aliases: [
     "alias_path",
@@ -23,7 +23,7 @@ Meditation, walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at noon Saturday, June 5th, 2021**
+**gather at FIRST_GATHERING_TIME; enter Yoyogi Park at EVENT_TIME HUMANDATE**
 
 #### Where
 
@@ -42,13 +42,13 @@ Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-11:45am Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+FIRST_GATHERING_TIME Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-12:00 noon: Enter Yoyogi Park
+EVENT_TIME: Enter Yoyogi Park
 
 What to Expect:
 
-* We will meet at 11:45 and by noon decided where to go.
+* We will meet at FIRST_GATHERING_TIME and by EVENT_TIME decided where to go.
 * If it's raining, we will just walk around the loop.
 * If it's dry; we can find a place to sit.
 * I will guide us in meditation, including walking meditation.

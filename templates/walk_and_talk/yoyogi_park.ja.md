@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at 11:45; enter the Park at noon"
+EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
 EventDate: "%s"
 aliases: [
     "alias_path",
@@ -20,7 +20,7 @@ aliases: [
 
 #### いつ
 
-**EVENT_YYYY年EVENT_M月EVENT_D日　11:45集合、12:00代々木公園入場**
+**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
 
 #### 場所
 
@@ -39,13 +39,13 @@ aliases: [
 自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。
 一息一歩、体の動きに気づくことで、すべてから解放されます。
 
-11:45am 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
+FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
 正午12時00分 代々木公園に入場
 
 What to Expect:
 
-* 11:45に集合し、正午までに行く場所を決めます。
+* FIRST_GATHERING_TIMEに集合し、正午までに行く場所を決めます。
 * 雨が降っている場合は、一周します。
 * 雨が降っていたら、一周歩いてみましょう！ 雨が降っていなければ、座る場所を探します。
 * 歩く瞑想も含めて、私が瞑想を指導します。

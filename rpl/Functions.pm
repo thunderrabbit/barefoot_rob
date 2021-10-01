@@ -43,7 +43,8 @@ sub get_date($) {
   while (!$confirmed) {
     show_dates($dt_now);
     my $user_date = input_date($dt_now);
-    $user_dt = parse_user_date($user_date);
+    my $user_time = input_time();
+    $user_dt = parse_user_date($user_date . " " . $user_time);
     $confirmed = ask_confirm_date($user_dt);
   }
   # return DateTime which has been parsed by `parse_user_date` and confirmed by user
@@ -74,7 +75,7 @@ sub show_dates($) {
 
 sub ask_confirm_date($) {
   my ($dt) = @_;
-  my $string_to_confirm = $dt->strftime("%A %d %B %Y");   ##  Sunday 30 May 2021
+  my $string_to_confirm = $dt->strftime("%A %d %B %Y %H:%M");   ##  Sunday 30 May 2021
   return ask_confirm_string($string_to_confirm);
 }
 
@@ -103,6 +104,14 @@ sub input_date($) {
   my $user_date = <STDIN>;
   chomp($user_date);
   return length($user_date) ? $user_date : $thedate;
+}
+
+sub input_time() {
+  my $default_time = "12:00";
+  print "Input primary time of event: ($default_time)\n";
+  my $user_time = <STDIN>;
+  chomp $user_time;
+  return length($user_time) ? $user_time : $default_time;
 }
 
 sub parse_user_date($) {

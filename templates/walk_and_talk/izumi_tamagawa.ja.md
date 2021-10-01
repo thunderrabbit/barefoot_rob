@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at 11:45; enter the Park at noon"
+EventTime: "gather at FIRST_GATHERING_TIME; walk to river at EVENT_TIME"
 EventDate: "%s"
 aliases: [
     "alias_path",
@@ -18,7 +18,7 @@ aliases: [
 
 #### いつ
 
-**EVENT_YYYY年EVENT_M月EVENT_D日　11時45分集合、正午に多摩川を目指して歩きます。**
+**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
 
 #### 場所
 
@@ -45,7 +45,7 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
 
-11:45am 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 正午12時00分 多摩川に向かって歩く
 
