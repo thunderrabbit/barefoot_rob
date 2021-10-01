@@ -97,9 +97,9 @@ if ($number_args == 0) {
 my @episode_images = @ARGV;
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
-my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);   # default is now
+my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt);   # default is now
 my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );      # clone = don't mess with global date
-my ($first_gathering_time) = rpl::Functions::input_time("gathering time of event",$guessed_gathering_time);  # TODO parse user input to make sure we get HH:MM
+my $first_gathering_time = rpl::Functions::input_time("gathering time of event",$guessed_gathering_time);  # TODO parse user input to make sure we get HH:MM
 
 print $event_date_time . "\n";
 print $first_gathering_time . "\n";
