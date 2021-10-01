@@ -43,7 +43,7 @@ sub get_date($) {
   while (!$confirmed) {
     show_dates($dt_now);
     my $user_date = input_date($dt_now);
-    my $user_time = input_time();
+    my $user_time = input_time("primary time of event");  ## cannot send $user_date at this point because it has not been parsed into a timestamp object
     $user_dt = parse_user_date($user_date . " " . $user_time);
     $confirmed = ask_confirm_date($user_dt);
   }
@@ -106,9 +106,16 @@ sub input_date($) {
   return length($user_date) ? $user_date : $thedate;
 }
 
-sub input_time() {
+sub input_time(@) {
+  my ($time_description, $dt) = @_;
+  ## assume noon if nothing was sent
   my $default_time = "12:00";
-  print "Input primary time of event: ($default_time)\n";
+
+  if($dt) {
+    $default_time = $dt->strftime("%H:%M");  # 24 hour format
+  }
+
+  print "Input $time_description: ($default_time)\n";
   my $user_time = <STDIN>;
   chomp $user_time;
   return length($user_time) ? $user_time : $default_time;

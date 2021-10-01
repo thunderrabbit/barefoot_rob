@@ -97,7 +97,12 @@ if ($number_args == 0) {
 my @episode_images = @ARGV;
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
-my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);
+my ($event_date_time) = rpl::Functions::get_date($rpl::Functions::dt);   # default is now
+my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );      # clone = don't mess with global date
+my ($first_gathering_time) = rpl::Functions::input_time("gathering time of event",$guessed_gathering_time);  # TODO parse user input to make sure we get HH:MM
+
+print $event_date_time . "\n";
+print $first_gathering_time . "\n";
 
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
@@ -130,6 +135,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
+  $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_time/g;
   $mt3_episode_output =~ s/episode_image/$episode_image/;
   # do the rest algorithmically
   foreach my $key (keys %{ $new_entry }) {
