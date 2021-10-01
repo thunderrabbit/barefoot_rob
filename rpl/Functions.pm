@@ -98,7 +98,7 @@ sub ask_confirm_string($) {
 }
 
 sub input_date($) {
-  my ($dt_now) = @_;
+  my ($dt) = @_;
   my $thedate = $dt->ymd;  # year-month-date (numeric).
   print "Input date of event: ($thedate)\n";
   my $user_date = <STDIN>;
