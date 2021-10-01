@@ -51,6 +51,19 @@ sub get_date($) {
   return ($user_dt);
 }
 
+sub get_time(@) {
+  my ($time_description, $dt) = @_;
+  my $confirmed = 0;
+  my $user_dt;   # will be returned once we confirm its value
+  while (!$confirmed) {
+    my $user_time = input_time($time_description, $dt);
+    $user_dt = parse_user_date($dt->ymd . " " . $user_time);  # Without ->ymd "T11:45:00" appends to the date
+    $confirmed = 1; ##     ## eff confirming this; too boring   WAS  ask_confirm_date($user_dt);
+  }
+  # return DateTime which has been parsed by `parse_user_date`
+  return ($user_dt);
+}
+
 sub show_dates($) {
   my ($dt_now) = @_;
   my $dt = $dt_now->clone;      # don't mess with global date
