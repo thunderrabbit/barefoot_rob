@@ -14,17 +14,21 @@ aliases: [
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
-Barefoot Walking Experience:
+Barefoot Walking Experience at [Shinyuri Art Parks](http://www.airgreen.info/artparks.html)
 
-Barefoot walking, breathing, enjoying fresh air.
+Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
-#### When
+#### First Meeting Point
 
-**gather at FIRST_GATHERING_TIME; enter Yoyogi Park at HUMANDATE**
+HUMANDATE, FIRST_GATHERING_TIME
 
-#### Where
+Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
-**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+#### Second Meeting Point
+
+HUMANDATE, EVENT_TIME
+
+[Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -32,24 +36,24 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 *Enjoy Nature*
 
-Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
+Shinyuri Art Parks features an immaculate large grassy field.
 
 *Enjoy Breathing*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-FIRST_GATHERING_TIME Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+*Enjoy Community*
 
-EVENT_TIME: Enter Yoyogi Park
+Find like-minded others who enjoy walking barefoot!
 
-What to Expect:
+*What to Expect*
 
-* We will meet at FIRST_GATHERING_TIME and by EVENT_TIME decided where to go.
-* If it's raining, we will just walk around the loop.
-* If it's dry; we can find a place to sit.
-* I will guide us in meditation, including walking meditation.
-* Feel free to take off your shoes; whatever makes you comfortable.
+* The event is on, rain or shine.
+* We'll walk from Shin Yurigaoka station <!-- starting 15:45 -->
+* Feel free to join at Shinyuri Art Parks by EVENT_TIME.
+* Take off your shoes in the park; connect with mother earth!
+* Meet friends, enjoy chatting, connecting
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -60,13 +64,12 @@ To receive the latest updates, [join our LINE group](/contact/)!
 **What to bring**
 
 Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe a bag for them just in case you need to put them on
-during the walk!
+shoes which you can take off at the grassy field.
 
 Self care is important, so wear shoes whenever you need to!
 
 **Covid Considerations**
 
-You know the drill.  I know you have thought about it and I trust you
+You know the situation.  I know you have thought about it and I trust you
 to make a good decision for yourself.  If you want a group with masks,
 I recommend https://www.meetup.com/tokyospontaneous
