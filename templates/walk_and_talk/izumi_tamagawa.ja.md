@@ -3,7 +3,7 @@ title: "裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at FIRST_GATHERING_TIME; walk to Tama River at EVENT_TIME"
+EventTime: "FIRST_GATHERING_TIMEに集合、EVENT_TIMEに多摩川まで歩く"
 EventDate: "%s"
 aliases: [
     "alias_path",

@@ -3,7 +3,7 @@ title: "裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "barefoot", "event", "field", "izumi-tamagawa", "walk" ]
 author: Rob Nugen
 date: 2021-09-15T06:12:07+09:00
-EventTime: "gather at 11:45; walk to river at noon"
+EventTime: "11:45に集合、12:00に多摩川まで歩く"
 EventDate: "2021-10-09"
 aliases: [
     "/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa",
