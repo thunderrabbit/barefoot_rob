@@ -3,7 +3,7 @@ title: "Barefoot Walking on the edge of Tokyo: Izumi-Tamagawa"
 tags: [ "barefoot", "event", "field", "izumi-tamagawa", "walk" ]
 author: Rob Nugen
 date: 2021-09-15T06:12:07+09:00
-EventTime: "gather at 11:45; walk to river at noon"
+EventTime: "gather at 11:45; walk to Tama River at 12:00"
 EventDate: "2021-10-09"
 aliases: [
     "/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa",
@@ -45,7 +45,7 @@ We'll walk to a lovely grass baseball field next to Tama River.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-11:45am Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+11:45 Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 12:00: Walk toward Tama River
 
