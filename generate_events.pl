@@ -131,12 +131,13 @@ foreach my $extension (keys %event_templates) {
   my $event_m = $event_date_time->month;
   my $event_d = $event_date_time->day;
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
+  my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   $mt3_episode_output =~ s/HUMANDATE/$human_date/;
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
-  $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_time/g;
+  $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
   $mt3_episode_output =~ s/episode_image/$episode_image/;
   # do the rest algorithmically
