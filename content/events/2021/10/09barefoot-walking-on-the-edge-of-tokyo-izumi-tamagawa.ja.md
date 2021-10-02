@@ -31,6 +31,8 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 #### 第二集合場所
 
+2021年10月9日　12:00後
+
 [多摩川と小田急の踏切](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 

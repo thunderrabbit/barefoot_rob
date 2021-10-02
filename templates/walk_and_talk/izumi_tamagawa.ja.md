@@ -31,6 +31,8 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 #### 第二集合場所
 
+EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
+
 [多摩川と小田急の踏切](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
