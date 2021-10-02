@@ -36,9 +36,9 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-*Enjoy Nature*
+*Enjoy Grass*
 
-Tama River has lots of walkways and often grass along its banks.
+We'll walk to a lovely grass baseball field next to Tama River.
 
 *Enjoy Breathing*
 
@@ -47,9 +47,9 @@ motions of your body, one breath and one step at a time.
 
 11:45am Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-12:00 noon: Walk toward Tama River
+12:00: Walk toward Tama River
 
-Walk around the grass for a bit, then possibly walk along the river.  Watch for little rocks!
+The grass is nice for walking and relaxing.  We sometimes play frisbee on the field!
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -60,12 +60,12 @@ To receive the latest updates, [join our LINE group](/contact/)!
 **What to bring**
 
 Whatever you need to take care of yourself.  Bring lightweight
-shoes and maybe a bag for them if you want to carry them while walking!
+shoes for the short (~5 minute) walk to the river.  Watch for little rocks!
 
 Self care is important, so wear shoes whenever you need to!
 
 **Covid Considerations**
 
 You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.  For a group strictly wearing masks,
+to make a good decision for yourself.  If you want a group with masks,
 I recommend https://www.meetup.com/tokyospontaneous

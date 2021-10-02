@@ -36,26 +36,20 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-*Enjoy Nature*
+*Enjoy Grass*
 
-Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
+We'll walk to a lovely grass baseball field next to Tama River.
 
 *Enjoy Breathing*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-FIRST_GATHERING_TIME Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-EVENT_TIME: Enter Yoyogi Park
+EVENT_TIME: Walk toward Tama River
 
-What to Expect:
-
-* We will meet at FIRST_GATHERING_TIME and by EVENT_TIME decided where to go.
-* If it's raining, we will just walk around the loop.
-* If it's dry; we can find a place to sit.
-* I will guide us in meditation, including walking meditation.
-* Feel free to take off your shoes; whatever makes you comfortable.
+The grass is nice for walking and relaxing.  We sometimes play frisbee on the field!
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -65,14 +59,13 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **What to bring**
 
-Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe a bag for them just in case you need to put them on
-during the walk!
+Whatever you need to take care of yourself.  Bring lightweight
+shoes for the short (~5 minute) walk to the river.  Watch for little rocks!
 
 Self care is important, so wear shoes whenever you need to!
 
 **Covid Considerations**
 
-You know the drill.  I know you have thought about it and I trust you
+You know the situation.  I know you have thought about it and I trust you
 to make a good decision for yourself.  If you want a group with masks,
 I recommend https://www.meetup.com/tokyospontaneous
