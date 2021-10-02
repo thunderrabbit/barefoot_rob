@@ -22,7 +22,7 @@ aliases: [
 
 #### 場所
 
-**集合場所：和泉多摩川駅前ベンチ(https://goo.gl/maps/4yh8TLgADixQYnzU8)** 集合場所：和泉多摩川駅前ベンチ(https://goo.gl/maps/4yh8TLgADixQYnzU8)
+**[集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)** 集合場所：和泉多摩川駅前ベンチ(https://goo.gl/maps/4yh8TLgADixQYnzU8)
 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 [![2021 Aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
