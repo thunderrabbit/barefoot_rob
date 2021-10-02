@@ -19,6 +19,7 @@ our %walk_location_files = (
       "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.en.md",
       "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.ja.md",
       "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.facebook.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.meetup.txt",
     ],
     "shin_yuri_art_park" => [
       "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.en.md",
