@@ -1,6 +1,6 @@
 ---
 title: "Barefoot Walking on the edge of Tokyo: Izumi-Tamagawa"
-tags: [ "barefoot", "event", "walk", "field", "izumi-tamagawa" ]
+tags: [ "barefoot", "event", "field", "izumi-tamagawa", "walk" ]
 author: Rob Nugen
 date: 2021-09-15T06:12:07+09:00
 EventTime: "gather at 11:45; walk to river at noon"
