@@ -1,5 +1,5 @@
 ---
-title: "%s"
+title: "裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ %s ]
 author: Rob Nugen
 date: %s

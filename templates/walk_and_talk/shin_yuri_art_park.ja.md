@@ -1,5 +1,5 @@
 ---
-title: "%s"
+title: "新ゆりアートパークスで裸足でウォーキング"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
