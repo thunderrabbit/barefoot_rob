@@ -12,19 +12,25 @@ aliases: [
 
 {{% img-responsive "episode_image" "" %}}
 
-Refresh your spirit. Touch the earth. Connect with nature.
+Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
-Barefoot Walking Experience:
-
-Barefoot walking, breathing, enjoying fresh air.
+Enjoy chatting and barefoot walking: share new experiences with like-minded friends!
 
 #### When
 
-**gather at FIRST_GATHERING_TIME; enter Yoyogi Park at HUMANDATE**
+**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**
 
 #### Where
 
-**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+**Meeting Spot #1 by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
+https://goo.gl/maps/4yh8TLgADixQYnzU8
+
+[![2021 aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
+
+**Meeting Spot #2 by [Tama River and Odakyu rail crossing](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)**
+https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (on the Tokyo side of the river)
+
+[![2021 aug 16 tama river odakyu line setagaya](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_tama_river_odakyu_line_setagaya.png)](//b.robnugen.com/blog/2021/2021_aug_16_tama_river_odakyu_line_setagaya.png)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
