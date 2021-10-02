@@ -1,6 +1,6 @@
 ---
 title: "裸足で歩く、東京の端っこ。和泉多摩川"
-tags: [ "barefoot", "event", "walk", "field", "izumi-tamagawa" ]
+tags: [ "barefoot", "event", "field", "izumi-tamagawa", "walk" ]
 author: Rob Nugen
 date: 2021-09-15T06:12:07+09:00
 EventTime: "gather at 11:45; walk to river at noon"
@@ -18,7 +18,7 @@ aliases: [
 
 #### 日程
 
-**2021年10月09日　11時45分集合、正午に多摩川を目指して歩きます。**
+**2021年10月9日　11:45集合、正午に多摩川を目指して歩きます。**
 
 #### 場所
 
@@ -45,7 +45,7 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
 
-11:45am 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+11:45 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 正午12時00分 多摩川に向かって歩く
 
