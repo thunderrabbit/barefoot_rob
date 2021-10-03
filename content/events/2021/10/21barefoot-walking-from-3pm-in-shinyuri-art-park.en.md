@@ -53,7 +53,7 @@ Find like-minded others who enjoy walking barefoot!
 *What to Expect*
 
 * The event is on, rain or shine.
-* We'll walk from Shin Yurigaoka station starting 15:45
+* We'll walk from Shin Yurigaoka station starting 14:45
 * Feel free to join at Shinyuri Art Parks by 15:00.
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
