@@ -169,7 +169,7 @@ foreach my $extension (keys %event_templates) {
   my $dirname_of_output_file = dirname($outfile_and_title_path);
   mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309
 
-  $mt3_episode_output =~ s|alias_path|$alias_path$title_path|;
+  $mt3_episode_output =~ s|alias_path|$alias_path$title_path|g;
 
   open(OUT, ">", $outfile_and_title_path) or die "Could not open file '$outfile_and_title_path'";
   print OUT $mt3_episode_output;

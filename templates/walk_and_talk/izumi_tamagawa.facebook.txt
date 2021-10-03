@@ -35,7 +35,7 @@ EVENT_TIME: Walk toward Tama River
 
 The grass is nice for walking and relaxing.  We sometimes play frisbee on the field!
 
-Latest info https://www.robnugen.com/alias_path
+Latest info https://www.robnugen.com/enalias_path
 
 **Costs:**
 
@@ -77,7 +77,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 
-最新情報は、https://www.robnugen.com/alias_path
+最新情報は、https://www.robnugen.com/jaalias_path
 
 
 #### 詳細
