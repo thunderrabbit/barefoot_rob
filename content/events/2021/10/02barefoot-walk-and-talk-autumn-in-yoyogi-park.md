@@ -10,7 +10,9 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_brick_walkways_below_trees.jpg" "" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_brick_walkways_below_trees.jpg" "brick walkways below trees" %}}
+
+[We had a great time!](/blog/2021/10/03barefoot-walk-and-talk-autumn-in-yoyogi-park)
 
 Refresh your spirit. Touch the earth. Connect with nature.
 

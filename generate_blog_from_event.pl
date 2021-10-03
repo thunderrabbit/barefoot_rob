@@ -16,7 +16,7 @@ my $what_kinda_event = "blog_entry";  # see generate_events.pl for ways to make 
 print "In October - December, remove the 0 in the line below to see events, or figure out how to pad with zero\n\n";
 
 # load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
-my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/" . $rpl::Functions::year . "/0" . $rpl::Functions::month);
+my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/" . $rpl::Functions::year . "/" . $rpl::Functions::month);
 
 # ask which file to pull data from
 my $event_file_to_blog = rpl::Functions::get_event_type("Events", @event_list_for_month);   # func get_event_type is generic, but misnamed here
