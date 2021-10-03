@@ -22,11 +22,13 @@ Barefoot walking, breathing, enjoying fresh air.
 
 **gather at FIRST_GATHERING_TIME; enter Yoyogi Park at HUMANDATE**
 
+To receive the latest updates, [join our LINE group](/contact/)!
+
 #### Where
 
 **Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-To receive the latest updates, [join our LINE group](/contact/)!
+[![2021 oct 02 yoyogi park walk meet here](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_02_yoyogi_park_walk_meet_here.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_02_yoyogi_park_walk_meet_here.jpg)
 
 #### Details
 

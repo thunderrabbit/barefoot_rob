@@ -22,11 +22,13 @@ aliases: [
 
 **EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
 
+最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+
 #### 場所
 
 **[代々木公園の原宿入り口付近の時計](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+[![2021 oct 02 yoyogi park walk meet here](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_02_yoyogi_park_walk_meet_here.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_02_yoyogi_park_walk_meet_here.jpg)
 
 #### 詳細
 
