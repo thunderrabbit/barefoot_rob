@@ -132,7 +132,7 @@ foreach my $extension (keys %event_templates) {
   my $event_d = $event_date_time->day;
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
-  $mt3_episode_output =~ s/HUMANDATE/$human_date/;
+  $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;

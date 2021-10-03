@@ -23,13 +23,13 @@ Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
 #### First Meeting Point
 
-21 Oct 2021, 14:30  (2:30pm)
+Thursday 21 October 2021, 14:30
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point
 
-21 Oct 2021, 15:00 (3:00pm)
+Thursday 21 October 2021, 15:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 

@@ -22,13 +22,13 @@ aliases: [
 
 #### 第一集合場所
 
-2021年10月21日　14時30分
+2021年10月21日　14:30
 
 新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第二集合場所
 
-2021年10月21日　15時00分
+2021年10月21日　15:00
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
