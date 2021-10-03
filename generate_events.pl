@@ -126,16 +126,21 @@ foreach my $extension (keys %event_templates) {
 
   # handle date separately
   $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;  ## timestamp of when ./generate_events.pl was called
-  my $human_date = $event_date_time->strftime("%A %d %B %Y");
-  my $event_yyyy = $event_date_time->year;
-  my $event_m = $event_date_time->month;
-  my $event_d = $event_date_time->day;
+  my $human_date = $event_date_time->strftime("%A %d %B %Y");  # https://metacpan.org/pod/DateTime#strftime-Patterns
+  my $event_yyyy = $event_date_time->year;   # https://metacpan.org/pod/DateTime
+  my $event_m = $event_date_time->month;     # 1 .. 12
+  my $event_d = $event_date_time->day;       # 1 .. 31
+  my $event_h = $event_date_time->hour;      # e.g. 15
+  my $event_h12ap = $event_date_time->hour_12 . $event_date_time->am_or_pm;    # e.g. 3pm
+  my $event_m = $event_date_time->minute;
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;
+  $mt3_episode_output =~ s/EVENT_H/$event_h/g;
+  $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
