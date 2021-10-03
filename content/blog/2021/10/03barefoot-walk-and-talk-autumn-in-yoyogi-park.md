@@ -8,9 +8,11 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_oct_03_sugako_feeling_soft_soil.jpg" "2021 oct 03 sugako feeling soft soil" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_oct_03_lin_feet_feeling.jpg" "2021 oct 03 lin feet feeling" %}}
 
 Great time in Yoyogi Park!
 
+[![2021 oct 03 sugako feeling soft soil](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_03_sugako_feeling_soft_soil.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_03_sugako_feeling_soft_soil.jpg)
+[![2021 oct 03 rob feet feeling](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_03_rob_feet_feeling.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_03_rob_feet_feeling.jpg)
 [![2021 oct 02 lin happy feet](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_02_lin_happy_feet.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_02_lin_happy_feet.jpg)
 [![2021 oct 03 michael feet feeling](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_03_michael_feet_feeling.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_03_michael_feet_feeling.jpg)
