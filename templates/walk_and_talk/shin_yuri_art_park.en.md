@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
+EventTime: "gather at FIRST_GATHERING_TIME; enter Shin Yuri Art Park at EVENT_TIME"
 EventDate: "%s"
 aliases: [
     "alias_path",
