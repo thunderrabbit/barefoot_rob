@@ -6,7 +6,9 @@ date: 2021-09-15T18:16:16+09:00
 EventTime: "15:00 at Shinyuri Art Park"
 EventDate: "2021-10-21"
 aliases: [
-    "/events/2021/10/21barefoot-walking-3pm-in-shinyuri-art-park",
+  "/events/2021/10/21barefoot-walking-3pm-in-shinyuri-art-park",
+  "/en/events/2021/10/21barefoot-walking-3pm-in-shinyuri-art-park",
+  "/en/events/2021/10/21barefoot-walking-from-3pm-in-shinyuri-art-park",
 ]
 ---
 
