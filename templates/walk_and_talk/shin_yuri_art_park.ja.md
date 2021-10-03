@@ -3,7 +3,7 @@ title: "新ゆりアートパークスで裸足でウォーキング"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
+EventTime: "新百合ヶ丘駅でFIRST_GATHERING_TIMEに集合、EVENT_TIMEに新ゆりアートパークス"
 EventDate: "%s"
 aliases: [
     "alias_path",
