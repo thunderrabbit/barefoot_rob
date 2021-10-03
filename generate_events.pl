@@ -4,7 +4,7 @@ use strict;
 
 # https://stackoverflow.com/a/46550384/194309
 use Cwd qw( abs_path );
-use File::Basename qw( dirname );
+use File::Basename qw( dirname basename );
 use lib dirname(abs_path(__FILE__));
 use rpl::Constants;
 use rpl::Functions;
@@ -112,6 +112,10 @@ my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$wha
 my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
 
+# Create alt-text for (title) image
+my $episode_image_alt = basename($episode_image);
+$episode_image_alt =~ s/_+/ /g;     ## remove underscores
+$episode_image_alt =~ s/\..*//g;    ## remove image file extension
 ## BUILD OUTPUT
 #
 my $new_entry;
@@ -145,6 +149,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
   $mt3_episode_output =~ s/episode_image/$episode_image/;
+  $mt3_episode_output =~ s/episode_image_alt/$episode_image_alt/;
   # do the rest algorithmically
   foreach my $key (keys %{ $new_entry }) {
     my $value = $new_entry->{$key};

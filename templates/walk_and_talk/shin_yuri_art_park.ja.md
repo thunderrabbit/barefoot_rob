@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "episode_image" "" %}}
+{{% img-responsive "episode_image" "episode_image_alt" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 

@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "episode_image" "" %}}
+{{% img-responsive "episode_image" "episode_image_alt" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
