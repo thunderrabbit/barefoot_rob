@@ -11,13 +11,11 @@ Barefoot walking, breathing, enjoying fresh air.
 
 **HUMANDATE: gather at FIRST_GATHERING_TIME; enter Yoyogi Park at EVENT_TIME**
 
-To receive the latest updates, [join our LINE group](/contact/)!
+Latest info https://www.robnugen.com/enalias_path
 
 ==== Where ====
 
-**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
-
-[![2021 oct 02 yoyogi park walk meet here](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_02_yoyogi_park_walk_meet_here.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_02_yoyogi_park_walk_meet_here.jpg)
+**Yoyogi Park by the clock near Harajuku entrance** (https://goo.gl/maps/xabS6Nw7TgNScqeCA)
 
 ==== Details ====
 
@@ -35,8 +33,6 @@ FIRST_GATHERING_TIME Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/x
 EVENT_TIME: Enter Yoyogi Park
 
 Latest info https://www.robnugen.com/enalias_path
-
-To receive the latest updates, [join our LINE group](/contact/)!
 
 **Costs:**
 
@@ -66,13 +62,12 @@ to make a good decision for yourself.
 
 **EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
 
-最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+最新情報は、https://www.robnugen.com/jaalias_path
 
 ==== 場所 ====
 
-**[代々木公園の原宿入り口付近の時計](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+**代々木公園の原宿入り口付近の時計**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-[![2021 oct 02 yoyogi park walk meet here](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_oct_02_yoyogi_park_walk_meet_here.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_oct_02_yoyogi_park_walk_meet_here.jpg)
 
 ==== 詳細 ====
 
@@ -106,3 +101,4 @@ FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/m
 **COVID-19の配慮について**
 
 マスク着用はご自身の判断にお任せします。
+s
