@@ -14,6 +14,9 @@ our %walk_location_files = (
     "yoyogi_park" => [
       "$home/barefoot_rob_master/templates/walk_and_talk/yoyogi_park.en.md",
       "$home/barefoot_rob_master/templates/walk_and_talk/yoyogi_park.ja.md",
+      "$home/barefoot_rob_master/templates/walk_and_talk/yoyogi_park.facebook.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/yoyogi_park.meetup.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/yoyogi_park.twitter.txt",
     ],
     "izumi_tamagawa" => [
       "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.en.md",
