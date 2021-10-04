@@ -20,7 +20,7 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### When
 
-**gather at FIRST_GATHERING_TIME; enter Yoyogi Park at HUMANDATE**
+**HUMANDATE: gather at FIRST_GATHERING_TIME; enter Yoyogi Park at EVENT_TIME**
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -36,7 +36,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
 
-*Enjoy Breathing*
+*Enjoy Connection*
 
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
