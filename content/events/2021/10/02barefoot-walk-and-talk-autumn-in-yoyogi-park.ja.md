@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_brick_walkways_below_trees.jpg" "" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_sep_04_brick_walkways_below_trees.jpg" "2021 sep 04 brick walkways below trees" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
