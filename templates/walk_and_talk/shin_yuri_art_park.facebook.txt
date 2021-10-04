@@ -49,8 +49,7 @@ Self care is important, so wear shoes whenever you need to!
 **Covid Considerations**
 
 You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.  If you want a group with masks,
-I recommend https://www.meetup.com/tokyospontaneous
+to make a good decision for yourself.
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
@@ -99,5 +98,4 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 **COVID-19の配慮について**
 
-マスク着用はご自身の判断にお任せします。もし参加者全員のマスク着用の方がご安心いただける様でしたら、こちらのグループをおすすめします
-https://www.meetup.com/tokyospontaneous
+マスク着用はご自身の判断にお任せします。
