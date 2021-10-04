@@ -12,7 +12,7 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-Refresh your spirit. Touch the earth. Connect with nature.
+Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
 Barefoot Walking Experience at [Shinyuri Art Parks](http://www.airgreen.info/artparks.html)
 
@@ -34,7 +34,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-*Enjoy Nature*
+*Enjoy Grass*
 
 Shinyuri Art Parks features an immaculate large grassy field.
 

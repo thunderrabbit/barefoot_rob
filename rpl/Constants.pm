@@ -25,6 +25,9 @@ our %walk_location_files = (
     "shin_yuri_art_park" => [
       "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.en.md",
       "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.ja.md",
+      "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.facebook.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.meetup.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.twitter.txt",
     ],
 );
 
