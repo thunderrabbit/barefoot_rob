@@ -1,4 +1,4 @@
-title %s
+title:   %s
 date HUMANDATE   FIRST_GATHERING_TIME
 
 Refresh your spirit. Touch the earth. Connect with nature.
