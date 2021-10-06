@@ -17,10 +17,7 @@ my %select_from_hash = %rpl::Constants::event_template_files;
 my $what_kinda_event;
 
 ##  This do loop allows %event_template_files to contain a reference to another hash so we can get more detailed templates
-##  At this point we can go down to the location level, but cannot poop out multiple templates per event (e.g. multi-language / different platforms (my site / FB / Meetup / Instagram))
-
-
-# TODO: return an array of templates and we'll loop through each one when outputting stuff
+##  At this point we can go down to the location level, and poop out multiple templates per event (e.g. multi-language / different platforms (my site / FB / Meetup / Instagram))
 
 my $original_what_kinda_event = "";     ## later restore what_kinda_event after we go into sub-hashes for walking events so we can get tags and location later down this script
 
