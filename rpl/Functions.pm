@@ -18,6 +18,18 @@ our $month   = $dt->month;
 our $day     = $dt->day;
 our $tz_date = $thedate . "T" . $thetime . $zoffset;
 
+sub std_in_logger() {
+  my $si = <STDIN>;
+  logthis($si);
+  return $si;
+}
+sub logthis($) {
+  my ($log_line) = @_;
+  my $log = $rpl::Constants::event_generator_log;
+  open(OUT, ">>", $log) or die "Could not open file '$log'";
+  print OUT $log_line;
+  close(OUT);
+}
 sub get_title($)
 {
   my ($prefix) = @_;
@@ -25,7 +37,7 @@ sub get_title($)
   my $title;
   while (!$confirmed) {
     print "Enter title that comes after '" . $prefix . "'\n\n";
-    $title = <STDIN>;
+    $title = std_in_logger();
     $title =~ s/\s+/ /g;       # two spaces => one space
     $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace
     $title =~ s/^"(.*)"$/$1/;  # strip surrounding "s
@@ -98,7 +110,7 @@ sub ask_confirm_string($) {
   print "\nIs this correct?  (yes/no)\n";
   print "  $string_to_confirm\n";
   while (1) {
-    my $resp = <STDIN>;
+    my $resp = std_in_logger();
        $resp =~ s/^\s+|\s+$//g;
 
     if    ($resp =~ /^y/i) { $confirmed = 1; last; }
@@ -114,7 +126,7 @@ sub input_date($) {
   my ($dt) = @_;
   my $thedate = $dt->ymd;  # year-month-date (numeric).
   print "Input date of event: ($thedate)\n";
-  my $user_date = <STDIN>;
+  my $user_date = std_in_logger();
   chomp($user_date);
   return length($user_date) ? $user_date : $thedate;
 }
@@ -129,7 +141,7 @@ sub input_time(@) {
   }
 
   print "Input $time_description: ($default_time)\n";
-  my $user_time = <STDIN>;
+  my $user_time = std_in_logger();
   chomp $user_time;
   return length($user_time) ? $user_time : $default_time;
 }
@@ -168,7 +180,7 @@ sub get_tags(%) {
       $tagstring = join ', ', map { "\"$_\"" } sort keys %tags;  # <------ $tagstring set here
       print "Current tag list: [ $tagstring ]\n";
 
-      my $newtagstring = <STDIN>;
+      my $newtagstring = std_in_logger();
          $newtagstring =~ s/\s+/ /g;       # two spaces => one space
          $newtagstring =~ s/^\s+|\s+$//g;  # strip surrounding whitespace
          $newtagstring =~ s/^"(.*)"$/$1/;  # strip surrounding "s
@@ -213,7 +225,7 @@ sub get_event_type(@) {
 
     $selected_type = "3";    ###  hardcode while testing
     print "Enter the number of the type you want to select: ($selected_type) ";
-    my $raw_input = <STDIN>;
+    my $raw_input = std_in_logger();
 
     $raw_input =~ s/\D+//g;     ## TODO: how to specify this ain't raw anymore?
     chomp($raw_input);
@@ -275,7 +287,7 @@ sub get_episode_image(@) {
     }# $ii
 
     print "Enter the number of the image you want to select: ";
-    my $jj = <STDIN>;
+    my $jj = std_in_logger();
 
     $episode_image = $episode_images[$jj-1];
     $episode_thumb = $episode_thumbs[$jj-1];
@@ -308,7 +320,7 @@ sub get_image_url($) {
     print "  title:     $title\n";
     print "\n";
 
-    $episode_image = <STDIN>;
+    $episode_image = std_in_logger();
     chomp $episode_image;
     $episode_thumb = image_URL_to_thumb_URL($episode_image);
 

@@ -1,9 +1,13 @@
 package rpl::Constants;
 
 use strict;
+use DateTime;
 
 our $home = $ENV{HOME};    # https://stackoverflow.com/a/1451420/194309
 
+my $dt = DateTime->now();
+
+our $event_generator_log = "$home/barefoot_rob_master/event_generators/" . $dt->ymd("_") . "_log.txt";
 our $content_directory = "$home/barefoot_rob_master/content";
 our $blog_directory = "/blog";    #  appended to $content_directory when writing actual file.
 our $events_directory = "/events";    #  appended to $content_directory when writing actual file.

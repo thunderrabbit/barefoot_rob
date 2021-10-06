@@ -16,6 +16,7 @@ my @event_paths_array;
 my %select_from_hash = %rpl::Constants::event_template_files;
 my $what_kinda_event;
 
+rpl::Functions::logthis("STARTING_ANEW\n");
 ##  This do loop allows %event_template_files to contain a reference to another hash so we can get more detailed templates
 ##  At this point we can go down to the location level, and poop out multiple templates per event (e.g. multi-language / different platforms (my site / FB / Meetup / Instagram))
 
@@ -194,5 +195,5 @@ foreach my $extension (keys %event_templates) {
   print "+---------------------------------+\n";
 }
 
-
+rpl::Functions::logthis("\nFINISHED_ADIEU\n");
 # DONE!
