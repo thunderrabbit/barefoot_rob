@@ -87,8 +87,10 @@ foreach(@event_paths_array) {
 }
 
 my $number_args = $#ARGV + 1;
+my $need_image_url = 0;   # if image URLs were sent on command line, we can just select from them
 if ($number_args == 0) {
     print "Feel free to send images as arguments.\n";
+    $need_image_url = 1;  # images URLs were not sent on command line.  This allows embedding image URL in event_generators/
 }
 
 # Do the same for episodes as we did for frames.
@@ -110,7 +112,12 @@ print "first departure time: $first_departure_time" . "\n";
 my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 
 my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
-my ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
+my ($episode_image,$episode_thumb);
+if($need_image_url) {
+  ($episode_image,$episode_thumb) = rpl::Functions::get_image_url($title);
+} else {
+  ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
+}
 
 # Create alt-text for (title) image
 my $episode_image_alt = basename($episode_image);

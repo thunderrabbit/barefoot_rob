@@ -289,6 +289,35 @@ sub get_episode_image(@) {
 
 }# get_episode_image()
 
+sub image_URL_to_thumb_URL($) {
+  my ($image_url) = @_;
+  my $thumb_url;
+  if($image_url =~ m{(.*)/([^/]+)}) {
+    $thumb_url = "$1/thumbs/$2";
+  }
+  return $thumb_url;
+}
+
+sub get_image_url($) {
+  my ($title) = @_;
+  my $confirmed = 0;
+  my ($episode_image,$episode_thumb);
+
+  while (!$confirmed) {
+    print "Please enter image URL for the following event:\n";
+    print "  title:     $title\n";
+    print "\n";
+
+    $episode_image = <STDIN>;
+    chomp $episode_image;
+    $episode_thumb = image_URL_to_thumb_URL($episode_image);
+
+    $confirmed = ask_confirm_string($episode_thumb);
+
+  }# !$confirmed
+  return ($episode_image,$episode_thumb);
+}
+
 sub extract_frontmatter($) {
   my ($markdown_file_contents) = @_;
   $markdown_file_contents =~ m!(?:---\n)(.*)(?:---)!ms;     # Gets multiple lines between rows of three hyphens
