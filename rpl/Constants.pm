@@ -30,6 +30,14 @@ our %walk_location_files = (
       "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.message.txt",
       "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa.twitter.txt",
     ],
+    "izumi_tamagawa_full_moon" => [
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_full_moon.en.md",
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_full_moon.ja.md",
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_full_moon.facebook.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_full_moon.meetup.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_full_moon.message.txt",
+      "$home/barefoot_rob_master/templates/walk_and_talk/izumi_tamagawa_full_moon.twitter.txt",
+    ],
     "shin_yuri_art_park" => [
       "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.en.md",
       "$home/barefoot_rob_master/templates/walk_and_talk/shin_yuri_art_park.ja.md",
