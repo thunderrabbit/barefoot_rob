@@ -156,7 +156,7 @@ sub parse_user_date($) {
 sub kebab_case($) {
   my ($title) = @_;
       $title = lc($title);    # make title lowercase
-      $title =~ s/[\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
+      $title =~ s/[\/\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
       $title =~ s/-+/-/g;     # replace multiple hyphens with one (to match Hugo URLs)
   return $title;
