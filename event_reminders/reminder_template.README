@@ -1,0 +1,13 @@
+## link templates for creating Google Calendar reminders. Others to come?
+## https://calendar.google.com/calendar/u/0/render?action=TEMPLATE&text=Paid+Package+TEDx+Speaker+Coaching+session+(My+Calendar)&dates=20210918T010000Z/20210918T023000Z&location=Click+to+join+meeting:+https://app.acuityscheduling.com/schedule.php?owner%3D12186363%26action%3Dzoom%26uniqueID%3Dd53e2e13da484f8c23629edac76a92d8%26ownerID%3D12186363&details=Click+to+join+meeting:+https://app.acuityscheduling.com/schedule.php?owner%3D12186363%26action%3Dzoom%26uniqueID%3Dd53e2e13da484f8c23629edac76a92d8%26ownerID%3D12186363%0A%0AView/Change+Appointment:%0Ahttps://app.acuityscheduling.com/schedule.php?owner%3D12186363%26id%255B%255D%3Dd53e2e13da484f8c23629edac76a92d8%26action%3Dappt%0A%0A(created+by+Acuity+Scheduling)%0AAcuityID%3D669750723%0AGoogle&sf=true&output=xml
+
+#
+# https://calendar.google.com/calendar/u/0/render?
+# action=TEMPLATE
+# &text=PLUS_POWERED_TITLE
+# &dates=START_SLASH_END_DATE
+# &location=PLUS_POWERED_LOCATION
+# &details=PLUS_POWERED_DETAILS
+# &add=WHO_YA_GONNA_MEET
+# &sf=true
+# &output=xml
