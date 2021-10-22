@@ -1,0 +1,7 @@
+title:  Hey it's just One week before %s
+HUMANDATE
+
+This will be a chance to meet like-minded community and breathe fresh air!
+
+https://www.robnugen.com/enalias_path
+https://www.robnugen.com/jaalias_path
