@@ -144,6 +144,7 @@ foreach my $extension (keys %event_templates) {
   my $event_minute = $event_date_time->minute;
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
+  $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;

@@ -1,4 +1,4 @@
-title:  Hey it's just One week before %s
+Hey it's just One week before EVENT_TITLE
 HUMANDATE
 
 This will be a chance to meet like-minded community and breathe fresh air!
