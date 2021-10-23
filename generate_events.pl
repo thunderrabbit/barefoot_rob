@@ -99,6 +99,8 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt);   # default is now
 my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );      # clone = don't mess with other date
+my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
+my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      # clone = don't mess with other date
 my $first_gathering_time = rpl::Functions::get_time("gathering time of event",$guessed_gathering_time);
 my $first_departure_time = $first_gathering_time->clone->add( minutes => 15 )->strftime("%H:%M");      # Only used for Shin Yuri Art Park, with two meeting points
 print "event date time: $event_date_time" . "\n";
@@ -136,6 +138,8 @@ foreach my $extension (keys %event_templates) {
   # handle date separately
   $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;  ## timestamp of when ./generate_events.pl was called
   my $human_date = $event_date_time->strftime("%A %d %B %Y");  # https://metacpan.org/pod/DateTime#strftime-Patterns
+  my $date_14_days_before = $t_minus_14_days_date->strftime("%A %d %B %Y");
+  my $date_07_days_before = $t_minus_07_days_date->strftime("%A %d %B %Y");
   my $event_yyyy = $event_date_time->year;   # https://metacpan.org/pod/DateTime
   my $event_m = $event_date_time->month;     # 1 .. 12
   my $event_d = $event_date_time->day;       # 1 .. 31
@@ -147,7 +151,9 @@ foreach my $extension (keys %event_templates) {
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
-  $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;
+  $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;   # for reminders
+  $mt3_episode_output =~ s/T_MINUS_14_DAYS_DATE/$date_14_days_before/g;    # for reminders
+  $mt3_episode_output =~ s/T_MINUS_07_DAYS_DATE/$date_07_days_before/g;    # for reminders
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;

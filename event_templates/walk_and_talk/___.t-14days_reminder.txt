@@ -1,3 +1,5 @@
+Post on T_MINUS_14_DAYS_DATE
+
 Hey just letting you know we have another event coming up in a couple of weeks on EVENT_DAY_MONTH_DATE!
 
 EVENT_TITLE
