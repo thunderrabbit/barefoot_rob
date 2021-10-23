@@ -153,6 +153,21 @@ sub parse_user_date($) {
   return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
+sub ordinate($) {
+  my ($cardinal) = @_;
+  my $ordinal;
+  if ($cardinal =~ /(?<!1)1$/) {
+      $ordinal = 'st';
+  } elsif ($cardinal =~ /(?<!1)2$/) {
+      $ordinal = 'nd';
+  } elsif ($cardinal =~ /(?<!1)3$/) {
+      $ordinal = 'rd';
+  } else {
+      $ordinal = 'th';
+  }
+  return $cardinal.$ordinal;
+}
+
 sub kebab_case($) {
   my ($title) = @_;
       $title = lc($title);    # make title lowercase

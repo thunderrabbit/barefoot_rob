@@ -142,10 +142,12 @@ foreach my $extension (keys %event_templates) {
   my $event_h = $event_date_time->hour;      # e.g. 15
   my $event_h12ap = $event_date_time->hour_12 . $event_date_time->am_or_pm;    # e.g. 3pm
   my $event_minute = $event_date_time->minute;
+  my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
+  $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;

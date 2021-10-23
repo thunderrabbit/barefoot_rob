@@ -22,6 +22,7 @@ our %walk_location_files = (
       "$home/barefoot_rob_master/event_templates/walk_and_talk/yoyogi_park/yoyogi_park.meetup.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/yoyogi_park/yoyogi_park.twitter.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "izumi_tamagawa" => [
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.en.md",
@@ -31,6 +32,7 @@ our %walk_location_files = (
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.message.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.twitter.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "izumi_tamagawa_full_moon" => [
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.en.md",
@@ -40,6 +42,7 @@ our %walk_location_files = (
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.message.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.twitter.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "shin_yuri_art_park" => [
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.en.md",
@@ -48,6 +51,7 @@ our %walk_location_files = (
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.meetup.txt",
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.twitter.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
 );
 
