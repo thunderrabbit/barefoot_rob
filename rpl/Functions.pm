@@ -153,6 +153,7 @@ sub parse_user_date($) {
   return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
+# https://stackoverflow.com/a/11369946/194309
 sub ordinate($) {
   my ($cardinal) = @_;
   my $ordinal;
