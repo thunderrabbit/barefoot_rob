@@ -65,6 +65,11 @@ our %event_template_files = (
     "weekly_alignment" => [
       "$home/barefoot_rob_master/event_templates/event_weekly-alignment_template.md",
     ],
+    "mkp_family" => [
+      "$home/barefoot_rob_master/event_templates/mkp/mkp_yoyogi_family_hangout_slack.md",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
     "walking_meditation" => [
       "$home/barefoot_rob_master/event_templates/event_walking_meditation_template.md",
     ],
