@@ -12,20 +12,32 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-#### First Meeting Point
+Yoyogi Park Meet-up
+
+A chance to finally meet in person!
+
+Stay as long or as short as you like...
+
+When:
 
 HUMANDATE, FIRST_GATHERING_TIME
 
-**Yoyogi Park by the clock near Harajuku entrance**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+Where:
 
-#### Second Meeting Point
+Yoyogi Park by the clock near Harajuku entrance  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-HUMANDATE, EVENT_TIME
+We will walk into the park at EVENT_TIME
 
-We'll be in the park somewhere; send a message on LINE or Slack to find us.
+If you arrive after EVENT_TIME, we'll be in the park somewhere; send a message on LINE or Slack to find us.
 
-#### Details
+Details:
 
-**What to bring**
+Family and friends are welcome.
 
-Whatever you need to take care of yourself.
+Bring your own non-alcoholic drinks, and a snack if necessary.
+
+Take this chance to relax in the beauty of Yoyogi Park while catching up with old friends, or finally meeting friends whom you've gotten to know online.
+
+Queries: Rob
+
+See you there!
