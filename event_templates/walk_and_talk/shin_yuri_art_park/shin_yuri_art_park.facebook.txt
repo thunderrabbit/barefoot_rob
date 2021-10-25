@@ -1,6 +1,14 @@
 title:       %s
 
-Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
+HUMANDATE       FIRST_GATHERING_TIME
+
+Privacy = Public
+
+CLICK NEXT
+
+Walk on Japan's Number 1 Grassy Field!
+
+Connect with earth and friends.
 
 Barefoot Walking Experience at Shinyuri Art Parks (http://www.airgreen.info/artparks.html)
 
@@ -10,7 +18,7 @@ Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
 HUMANDATE, FIRST_GATHERING_TIME
 
-Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
+Shin Yurigaoka between KFC, MUFG, and Dean and Deluca:  https://w3w.co/locator.juggler.nail
 
 ==== Second Meeting Point ====
 
@@ -61,7 +69,7 @@ to make a good decision for yourself.
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
-新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
+新百合ヶ丘 KFC、MUFG、ディーンアンドデルーカの間: https://w3w.co/locator.juggler.nail
 
 ==== 第二集合場所 ====
 

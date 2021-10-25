@@ -1,5 +1,11 @@
 title:       %s
 
+HUMANDATE       FIRST_GATHERING_TIME
+
+Privacy = Public
+
+CLICK NEXT
+
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking: share new experiences with like-minded friends!
