@@ -35,6 +35,30 @@ My workshops will let you explore what blocks you from offering the best of your
 
 [Sign up for a session](//www.calendly.com/robnugen/30min)
 
+## Trainings and Certifications
+
+* ManKind Project Primary Integration Training. March 2021
+
+* ManKind Project Integration Group Facilitation Training. September 2020
+
+* Shadow Work Facilitator Training. October 2019
+
+* QPR (Question Persuade Refer) Gatekeeper Training Certification. May 2018
+QPR is an emergency mental health intervention for suicidal persons.
+
+* ManKind Project Leadership Training 1 - The Container of Leadership   March 2018
+
+* Lifeline Support Worker Certification.  January 2018
+
+* ManKind Project Staff Training 1.  October 2017
+
+* Young Religious Unitarian Universalist Youth Advisor 1998 - 2002
+
+* ManKind Project Primary Integration Training January 1998
+
+* ManKind Project New Warrior Training Adventure November 1997
+
+
 ## Testimonials
 
 
@@ -80,3 +104,10 @@ for you to discover your own wisdom.
 ![2020 dec 30 bob mayhew testimonial](//b.robnugen.com/blog/2021/2020_dec_30_bob_mayhew_testimonial.png)
 
 </div>
+
+
+## Contact
+
+[Contact](/contact)
+
+[Sign up for a session](//www.calendly.com/robnugen/30min)
