@@ -17,6 +17,11 @@
           window.location.replace('{{ .Permalink }}')
 	        return
         }
+        // also do events to fix my pointcard URL
+        if (window.location.pathname !== '/events/') {
+          window.location.replace('{{ .Permalink }}')
+	        return
+        }
         var getFirstBrowserLanguage = function () {
           var nav = window.navigator,
           browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],
