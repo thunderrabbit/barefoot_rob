@@ -101,4 +101,3 @@ FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/m
 **COVID-19の配慮について**
 
 マスク着用はご自身の判断にお任せします。
-s
