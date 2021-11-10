@@ -35,19 +35,18 @@ But I didn’t expect this...
 #2:
 <br>Their partners have seen the changes and want to do the work for themselves.  
 
-Women have started to ask if there’s a group they can join. 
+Women have started to ask if there’s a group they can join.
 
 People began asking me, “Rob, I want to do it, but my partner isn’t interested.”  
 
-“How do I get them to understand?   … to really hear me?” 
+“How do I get them to understand?   … to really hear me?”
 
 I didn’t have a good answer or easily accessible resources for that.
 
 But now I'm putting together a training on exactly that. Soon I'll be
 doing a mini workshop
 
-###  “How to have one clear and safe conversation
-to feel heard & get what you need. Without drama.”
+###  “How to have one clear and safe conversation to feel heard & get what you need. Without drama.”
 
 All the details are coming next week!
 
