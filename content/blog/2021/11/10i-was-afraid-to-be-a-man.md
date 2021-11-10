@@ -33,9 +33,7 @@ While attending the group, I have seen men move from...
 But I didn’t expect this...  
 
 #2:
-<br>Their partners have seen the changes and want to do the work for themselves.  
-
-Women have started to ask if there’s a group they can join.
+<br>Women have started to ask if there’s a group they can join.
 
 People began asking me, “Rob, I want to do it, but my partner isn’t interested.”  
 
