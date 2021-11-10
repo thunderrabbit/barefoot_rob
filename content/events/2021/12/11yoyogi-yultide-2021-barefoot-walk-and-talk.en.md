@@ -2,7 +2,7 @@
 title: "Yoyogi Yultide 2021 barefoot Walk and Talk"
 tags: [ "2021", "barefoot", "cool", "dec", "event", "park", "walk", "yoyogi", "yuletide" ]
 author: Rob Nugen
-date: 2021-11-10T18:39:40+09:00
+date: 2021-11-10T19:16:38+09:00
 EventTime: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2021-12-11"
 aliases: [
@@ -47,11 +47,12 @@ motions of your body, one breath and one step at a time.
 
 What to Expect:
 
-* We will meet at 11:45 and by 12:00 decided where to go.
+* We will meet at 11:45 and by 12:00 decide where to go.
+* I will talk about how to safely walk barefoot.
+* We will feel asphalt, grass, and myriad other surfaces.
 * If it's raining, we will just walk around the loop.
-* If it's dry; we can find a place to sit.
-* I will guide us in meditation, including walking meditation.
-* Feel free to take off your shoes; whatever makes you comfortable.
+* If it's dry; we might find a place to sit.
+* Let's enjoy discovering the park together!
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -62,7 +63,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 **What to bring**
 
 Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe a bag for them just in case you need to put them on
+shoes and maybe a bag to carry them just in case you need to put them on
 during the walk!
 
 Self care is important, so wear shoes whenever you need to!
