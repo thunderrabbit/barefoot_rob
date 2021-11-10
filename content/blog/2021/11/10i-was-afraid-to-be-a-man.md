@@ -6,7 +6,7 @@ author: Rob Nugen
 draft: false
 date: 2021-11-10T17:12:42+09:00
 aliases: [
-    "alias_path",
+    "/en/blog/2021/11/09/i-was-afraid-to-be-a-man/",
 ]
 ---
 
