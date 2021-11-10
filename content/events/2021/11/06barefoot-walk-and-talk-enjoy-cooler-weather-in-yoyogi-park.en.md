@@ -18,6 +18,8 @@ Barefoot Walking Experience:
 
 Barefoot walking, breathing, enjoying fresh air.
 
+[We had a great time!](/blog/2021/11/10barefoot-walk-and-talk-enjoy-cooler-weather-in-yoyogi-park)
+
 #### When
 
 **Saturday 06 November 2021: gather at 11:45; enter Yoyogi Park at 12:00**

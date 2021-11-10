@@ -18,6 +18,8 @@ aliases: [
 
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。
 
+[楽しかった！](/blog/2021/11/10barefoot-walk-and-talk-enjoy-cooler-weather-in-yoyogi-park)
+
 #### 日程
 
 **2021年11月6日　11:45集合、12:00代々木公園入場**
