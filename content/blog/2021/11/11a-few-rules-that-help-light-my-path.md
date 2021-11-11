@@ -12,7 +12,7 @@ aliases: [
 
 A few rules that help light my path:
 
-* Walk with kindred spirits.  I walk barefoot.  Most people don’t.  They don’t have to walk barefoot, but if I'm not accepted for how I show up, it’s best to not work/continue together. 
+* Walk with kindred spirits.  I walk barefoot.  Most people don’t. That's fine. but if I'm not accepted for how I show up, it’s best to not work together. 
 * Seek your own inner guidance.  Feelings are a well-honed natural guidance system for life. Hear AniKiko’s "[Follow the Whispers](https://open.spotify.com/track/3xmrEEOGLW40L4CtnHa65P)"
 * Play hard.  Beastie Boys said "My work is my play cause I'm playing when I work"
 * Do the right thing.   We are playing a long game.  Prioritize long term thinking over short term gain.
