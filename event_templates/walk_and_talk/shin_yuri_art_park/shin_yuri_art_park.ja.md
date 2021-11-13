@@ -18,6 +18,8 @@ aliases: [
 
 裸足で歩き、呼吸を整え、新鮮な空気と美しい草原を楽しみます。
 
+毎月第三木曜日
+
 #### 第一集合場所
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
