@@ -2,7 +2,7 @@
 title: "Enjoy barefoot walking with lovely ShinYuri community"
 tags: [ "2021", "art park", "barefoot", "cool", "dec", "event", "shin yuri", "walk" ]
 author: Rob Nugen
-date: 2021-11-14T08:44:33+09:00
+date: 2021-11-14T08:54:52+09:00
 EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2021-12-16"
 aliases: [
@@ -17,6 +17,8 @@ Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 Barefoot Walking Experience at [Shinyuri Art Parks](http://www.airgreen.info/artparks.html)
 
 Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
+
+Every Third Thursday of the month
 
 #### First Meeting Point
 

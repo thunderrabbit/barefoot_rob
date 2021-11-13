@@ -2,7 +2,7 @@
 title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2021", "art park", "barefoot", "cool", "dec", "event", "shin yuri", "walk" ]
 author: Rob Nugen
-date: 2021-11-14T08:44:33+09:00
+date: 2021-11-14T08:54:52+09:00
 EventTime: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
 EventDate: "2021-12-16"
 aliases: [
@@ -17,6 +17,8 @@ aliases: [
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html)での裸足歩行体験
 
 裸足で歩き、呼吸を整え、新鮮な空気と美しい草原を楽しみます。
+
+毎月第三木曜日
 
 #### 第一集合場所
 
