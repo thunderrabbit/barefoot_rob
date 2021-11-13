@@ -137,5 +137,43 @@ EVENT_TIME 多摩川に向かって歩く
 ============== T  A  G  S ===============
 =========================================
 
-Making friends
-Wellness
+* Making friends
+* Wellness
+* Stress Management?
+* Relaxation
+* Consciousness
+* Outdoors
+
+
+UNSELECT Make this an online event
+
+CLICK Yoyogi Park
+
+CLICK Edit map pin
+
+SLIDE MAP under pin
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+How to find us:
+Look for Barefoot Rob, barefoot by the clock!
++++++++++++++++++++++++++++++++++++++++++++++++
+
+COVID-19 safety measures
+
+Masks OFF
+VAX   OFF
+
+Venue Outdoor
+
+Optional settings
+
+Allow guests:    5
+
+Event fee:  ON
+Direct from member
+JPY    500
+
+Publish
+
+Notify

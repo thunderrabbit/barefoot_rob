@@ -102,3 +102,46 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 **COVID-19の配慮について**
 
 マスク着用はご自身の判断にお任せします。
+
+
+----------------------------------------
+TOPICS  FEEL FREE TO CHANGE:
+* Wellness
+* Stress Management
+* Relaxation
+* Consciousness
+* Outdoors
+
+
+UNSELECT Make this an online event
+
+CLICK Yoyogi Park
+
+CLICK Edit map pin
+
+SLIDE MAP under pin
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+How to find us:
+Look for Barefoot Rob, barefoot by the clock!
++++++++++++++++++++++++++++++++++++++++++++++++
+
+COVID-19 safety measures
+
+Masks OFF
+VAX   OFF
+
+Venue Outdoor
+
+Optional settings
+
+Allow guests:    5
+
+Event fee:  ON
+Direct from member
+JPY    500
+
+Publish
+
+Notify
