@@ -1,8 +1,17 @@
 title:       %s
 HUMANDATE       FIRST_GATHERING_TIME
 
-episode_image
+Privacy: Public
 
+CLICK Next
+-------------------------------------
+
+Location
+
+Izumi Tamagawa Station (I ASSUME; I am writing this blind on 14 Nov 2021)
+
+CLICK Next
+-------------------------------------
 
 Privacy = Public
 
@@ -135,3 +144,8 @@ EVENT_TIME 多摩川に向かって歩く
 **COVID-19の配慮について**
 
 マスク着用はご自身の判断にお任せします。
+
+-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+CLICK Next
+-------------------------------------
+episode_image

@@ -1,7 +1,17 @@
 title:   %s
 date HUMANDATE   FIRST_GATHERING_TIME
 
-episode_image
+Privacy: Public
+
+CLICK Next
+-------------------------------------
+
+Location
+
+Yoyogi Park 代々木公園, Yoyogi Kōen (28k people have checked in here)
+
+CLICK Next
+-------------------------------------
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
@@ -103,3 +113,9 @@ FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/m
 **COVID-19の配慮について**
 
 マスク着用はご自身の判断にお任せします。
+
+
+-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+CLICK Next
+-------------------------------------
+episode_image

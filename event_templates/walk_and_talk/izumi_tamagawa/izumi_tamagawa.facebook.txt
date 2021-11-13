@@ -2,7 +2,16 @@ title:       %s
 
 HUMANDATE       FIRST_GATHERING_TIME
 
-episode_image
+Privacy: Public
+
+CLICK Next
+-------------------------------------
+
+Location
+
+Izumi Tamgawa Station (I Assume; I am writing this on 14 Nov 2021 w/o being on FB)
+CLICK Next
+-------------------------------------
 
 
 Privacy = Public
@@ -121,3 +130,8 @@ FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/
 **COVID-19の配慮について**
 
 マスク着用はご自身の判断にお任せします。
+
+-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+CLICK Next
+-------------------------------------
+episode_image
