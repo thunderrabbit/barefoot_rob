@@ -1,4 +1,7 @@
 title:       %s
+date HUMANDATE   FIRST_GATHERING_TIME
+
+episode_image
 
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 

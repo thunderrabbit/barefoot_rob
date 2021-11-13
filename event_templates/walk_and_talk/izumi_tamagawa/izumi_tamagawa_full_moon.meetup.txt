@@ -1,6 +1,9 @@
 title:       %s
 HUMANDATE       FIRST_GATHERING_TIME
 
+episode_image
+
+
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking on the full moon night.

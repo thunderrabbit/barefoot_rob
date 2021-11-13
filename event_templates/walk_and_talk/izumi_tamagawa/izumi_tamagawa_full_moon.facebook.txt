@@ -1,6 +1,9 @@
 title:       %s
 HUMANDATE       FIRST_GATHERING_TIME
 
+episode_image
+
+
 Privacy = Public
 
 CLICK NEXT
