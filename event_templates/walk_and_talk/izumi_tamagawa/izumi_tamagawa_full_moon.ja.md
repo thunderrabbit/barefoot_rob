@@ -12,6 +12,8 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
+https://www.timeanddate.com/eclipse/in/japan/tokyo
+
 夜の空気を感じよう。満月を満喫しよう。
 自然とつながる。友達とつながる。
 

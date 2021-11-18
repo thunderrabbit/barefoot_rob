@@ -12,6 +12,8 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
+https://www.timeanddate.com/eclipse/in/japan/tokyo
+
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking on the full moon night.  Share beautiful experiences with like-minded friends!
