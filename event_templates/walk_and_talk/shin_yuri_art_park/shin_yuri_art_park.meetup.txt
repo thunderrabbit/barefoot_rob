@@ -115,7 +115,7 @@ TOPICS  FEEL FREE TO CHANGE:
 
 UNSELECT Make this an online event
 
-CLICK Yoyogi Park
+CLICK Shin Yuri Art Park
 
 CLICK Edit map pin
 
@@ -124,7 +124,7 @@ SLIDE MAP under pin
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Look for Barefoot Rob, barefoot by the clock!
+Look for Barefoot Rob, barefoot between KFC and D&D
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 COVID-19 safety measures
