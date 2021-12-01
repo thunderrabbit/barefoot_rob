@@ -13,11 +13,12 @@ draft: false
 
 {{% img-responsive "https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-01/2021_apr_15_francois_on_steps_by_yokohama_bay.jpeg" "2021 apr 15 francois on steps by yokohama bay" %}}
 
-Day number one walking from Yokohama, to my house. Our house woke up early, they took the train to Rinko Park in Yokohama. I
+Day number one walking from Yokohama to my house. Our house woke up early, then took the train to Rinko Park in Yokohama. I
 left my bicycle at home which meant I needed to roll the bag to the train station, so that I would
-not have to go by the train station.
+not have to go back by the train station.
+While rolling the bag, I could hear something gently brushing the ground.  By the time I got to the station, concrete had worn a hole in my rain cover and waterproof jacket.  Not so waterproof anymore.
 
-The walk is 21 kilometers, and would actually be basically 5% of my walk across the island.
+The walk from Yokohama to home is 21 kilometers, and would actually be basically 5% of my walk across the island.
 
 It felt super great to have support of everyone who showed up on the first day: Mark, Emma, Shraddhan, Lukas, Yuumi, Lin, Clare,
 
