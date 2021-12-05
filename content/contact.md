@@ -2,6 +2,9 @@
 title: "Contact"
 tags: [ "barefoot rob", "contact" ]
 date: 2021-11-10T15:38:44+09:00
+aliases: [
+    "/contact",
+]
 ---
 
 To join our Walk and Talk LINE group, PM me:
