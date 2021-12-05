@@ -24,6 +24,15 @@ our %walk_location_files = (
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "karakida_tama_center" => [
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.en.md",
+      # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.ja.md",
+      # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.facebook.txt",
+      # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.meetup.txt",
+      # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.twitter.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
     "izumi_tamagawa" => [
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.en.md",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.ja.md",
