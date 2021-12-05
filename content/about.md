@@ -2,6 +2,9 @@
 title: "About"
 tags: [ "barefoot rob", "about" ]
 date: 2020-02-10T15:38:44+09:00
+aliases: [
+    "/about",
+]
 ---
 
 <img
