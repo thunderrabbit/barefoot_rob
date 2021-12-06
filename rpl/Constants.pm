@@ -26,7 +26,7 @@ our %walk_location_files = (
     ],
     "karakida_tama_center" => [
       "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.en.md",
-      # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.ja.md",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.ja.md",
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.facebook.txt",
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.meetup.txt",
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.twitter.txt",
