@@ -45,7 +45,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 *ちょっと長めの散歩*
 
 
-[唐木田駅から多摩センター駅まで〜3.7km歩き](https://goo.gl/maps/haUxJbUCQJVbsLUQ7)、下記の公園の中を通過する予定です：
+[唐木田駅から多摩センター駅まで〜3.7km歩き](https://goo.gl/maps/diH14KkkkcAURACV8)、下記の公園の中を通過する予定です：
 
 * 二反田公園
 * 鶴牧西公園

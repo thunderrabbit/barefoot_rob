@@ -41,7 +41,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 *Longish walk*
 
-We'll walk ~3.7km from [Karakida Station to Tama Center Station](https://goo.gl/maps/haUxJbUCQJVbsLUQ7), likely through the following parks:
+We'll walk ~3.7km from [Karakida Station to Tama Center Station](https://goo.gl/maps/diH14KkkkcAURACV8), likely through the following parks:
 
 * Nitanda Park
 * Tsurumaki Nishi Park
