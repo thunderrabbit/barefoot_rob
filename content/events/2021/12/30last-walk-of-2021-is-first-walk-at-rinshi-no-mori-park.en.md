@@ -18,6 +18,10 @@ Barefoot Walking Experience:
 
 Barefoot walking, breathing, enjoying fresh air.
 
+#### Zeroeth Meeting Line Segment
+
+https://b.robnugen.com/blog/2021/kosugi_to_meguro.png
+
 #### First Meeting Point
 
 Thursday 30 December 2021, 11:40
