@@ -24,6 +24,8 @@ Thursday 30 December 2021, 11:40
 
 Musashi-Koyama Station [next to Family Mart](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
 
+We will leave Musahi-Koyama Station between 11:45 and 11:50.
+
 #### Second Meeting Point
 
 Thursday 30 December 2021, 12:00
