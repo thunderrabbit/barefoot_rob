@@ -2,8 +2,8 @@
 title: "Last walk of 2021 is first Walk at Rinshi-no-Mori Park"
 tags: [ "2021", "barefoot", "dec", "event", "first", "last", "rinshi-no-mori", "walk" ]
 author: Rob Nugen
-date: 2021-12-14T11:35:18+09:00
-EventTime: "gather at 11:45; meet in Rinshi-no-Mori Park at 12:00"
+date: 2021-12-14T11:37:05+09:00
+EventTime: "gather at 11:40; meet in Rinshi-no-Mori Park at 12:00"
 EventDate: "2021-12-30"
 aliases: [
     "/events/2021/12/30last-walk-of-2021-is-first-walk-at-rinshi-no-mori-park",
@@ -20,7 +20,7 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### First Meeting Point
 
-Thursday 30 December 2021, 11:45
+Thursday 30 December 2021, 11:40
 
 Musashi-Koyama Station [next to Family Mart](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
 
