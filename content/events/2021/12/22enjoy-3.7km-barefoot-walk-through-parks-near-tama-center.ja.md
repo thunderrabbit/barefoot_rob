@@ -18,7 +18,7 @@ aliases: [
 
 裸足で歩いて～3.7km、[唐木田駅]からスタート(https://goo.gl/maps/DENh4ZpPHre5L8Lc7)
 
-裸足で歩いて、素晴らしい景色、美しい自然、新鮮な空気を楽しんで、素敵な散歩になります。
+裸足で歩いて、素晴らしい景色、美しい自然、新鮮な空気を楽しむ、素敵な散歩になります。
 
 [![2021 Dec 04 Kyoko Andy fish bench](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_dec_04_kyoko_andy_fish_bench.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_dec_04_kyoko_andy_fish_bench.jpg)
 
