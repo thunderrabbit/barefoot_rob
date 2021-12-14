@@ -1,16 +1,16 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Last walk of 2021 is first Walk at Rinshi-no-Mori Park"
+tags: [ "2021", "barefoot", "dec", "event", "first", "last", "rinshi-no-mori", "walk" ]
 author: Rob Nugen
-date: %s
-EventTime: "gather at FIRST_GATHERING_TIME; meet in Rinshi-no-Mori Park at EVENT_TIME"
-EventDate: "%s"
+date: 2021-12-14T11:35:18+09:00
+EventTime: "gather at 11:45; meet in Rinshi-no-Mori Park at 12:00"
+EventDate: "2021-12-30"
 aliases: [
-    "alias_path",
+    "/events/2021/12/30last-walk-of-2021-is-first-walk-at-rinshi-no-mori-park",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/rinshi_no_mori_park_jan_2020.png" "rinshi no mori park jan 2020" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature.
 
@@ -20,13 +20,13 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### First Meeting Point
 
-HUMANDATE, FIRST_GATHERING_TIME
+Thursday 30 December 2021, 11:45
 
 Musashi-Koyama Station [next to Family Mart](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
 
 #### Second Meeting Point
 
-HUMANDATE, EVENT_TIME
+Thursday 30 December 2021, 12:00
 
 Circular space in [Rinshi-no-Mori Park](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
