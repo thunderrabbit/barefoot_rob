@@ -1,16 +1,16 @@
 ---
 title: "裸足でウォーク＆トーク～林試の森公園"
-tags: [ %s ]
+tags: [ "2021", "barefoot", "dec", "event", "first", "last", "rinshi-no-mori", "walk" ]
 author: Rob Nugen
-date: %s
-EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
-EventDate: "%s"
+date: 2021-12-17T20:12:49+09:00
+EventTime: "gather at 11:40; enter the Park at 12:00"
+EventDate: "2021-12-30"
 aliases: [
-    "alias_path",
+    "/events/2021/12/30last-walk-of-2021-is-first-walk-at-rinshi-no-mori-park",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/rinshi_no_mori_park_jan_2020.png" "rinshi no mori park jan 2020" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
@@ -20,13 +20,13 @@ aliases: [
 
 #### 第一集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+2021年12月30日　11:40
 
 武蔵小山駅 [ファミマの隣](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
 
 #### 第二集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+2021年12月30日　12:00
 
 Circular space in [林試の森公園](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
@@ -47,7 +47,7 @@ playground/picnic areas.
 自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。
 一息一歩、体の動きに気づくことで、すべてから解放されます。
 
-FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
+11:40 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
 正午12時00分 代々木公園に入場
 
