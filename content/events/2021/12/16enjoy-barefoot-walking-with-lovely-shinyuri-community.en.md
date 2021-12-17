@@ -10,6 +10,12 @@ aliases: [
 ]
 ---
 
+We had a great time!
+
+[![2021 dec 16 group andy asakawa oshita kyoko rob hiro james shinagawa](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_dec_16_group_andy_asakawa_oshita_kyoko_rob_hiro_james_shinagawa.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_dec_16_group_andy_asakawa_oshita_kyoko_rob_hiro_james_shinagawa.jpg)
+
+[![2021 dec 16 pass the leaf](//b.robnugen.com/blog/2021/walk_and_talk/thumbs/2021_dec_16_pass_the_leaf.jpg)](//b.robnugen.com/blog/2021/walk_and_talk/2021_dec_16_pass_the_leaf.jpg)
+
 {{% img-responsive "https://b.robnugen.com/blog/2021/2021_nov_11_shin_yuri_art_park_group.jpg" "2021 nov 11 shin yuri art park group" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
