@@ -10,7 +10,9 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2021/rinshi_no_mori_park_jan_2020.png" "rinshi no mori park jan 2020" %}}
+{{< youtube TkplKUngeFE >}}
+
+[![rinshi no mori park jan 2020](//b.robnugen.com/blog/2021/thumbs/rinshi_no_mori_park_jan_2020.png)](//b.robnugen.com/blog/2021/rinshi_no_mori_park_jan_2020.png)
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
