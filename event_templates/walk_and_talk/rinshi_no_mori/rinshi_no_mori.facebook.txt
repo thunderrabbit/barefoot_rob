@@ -29,13 +29,13 @@ Barefoot walking, breathing, enjoying fresh air.
 
 HUMANDATE, FIRST_GATHERING_TIME
 
-Musashi-Koyama Station [next to Family Mart](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
+Musashi-Koyama Station next to Family Mart https://goo.gl/maps/y3UrUcLu5heqNc8VA
 
 ==== Second Meeting Point ====
 
 HUMANDATE, EVENT_TIME
 
-Circular space in [Rinshi-no-Mori Park](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+Circular space in Rinshi-no-Mori Park https://goo.gl/maps/RT2w4S4BvaHFreHM8
 
 Latest info https://www.robnugen.com/enalias_path
 
@@ -88,13 +88,13 @@ to make a good decision for yourself.
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
-武蔵小山駅 [ファミマの隣](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
+武蔵小山駅 ファミマの隣 https://goo.gl/maps/y3UrUcLu5heqNc8VA
 
 ==== 第二集合場所 ====
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
-[林試の森公園の出会いの広場。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+林試の森公園の出会いの広場。 https://goo.gl/maps/RT2w4S4BvaHFreHM8
 
 
 最新情報は、https://www.robnugen.com/jaalias_path
