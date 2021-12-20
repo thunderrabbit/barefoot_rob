@@ -28,7 +28,7 @@ aliases: [
 
 2021年12月30日　12:00
 
-Circular space in [林試の森公園](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+[林試の森公園の中にある大きなロータリー。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
@@ -37,10 +37,10 @@ Circular space in [林試の森公園](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
 *自然に親しむ*
 
-林試の森公園 features
-forested grounds and open spaces,
-plus a stream and
-playground/picnic areas.
+公園内には、
+緑豊かな敷地や様々な広場があり、
+小川も流れています。。。
+遊具・ピクニックエリアもあります。
 
 *Enjoy Connection*（つながりを楽しむ）
 
@@ -55,7 +55,7 @@ What to Expect:
 
 * 裸足で安全に歩く方法についてお話します。
 * アスファルト、芝生、その他無数の表面を感じます。
-* Let's enjoy discovering the park together!
+* 公園での新たな発見を、皆で楽しみましょう！
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
 
