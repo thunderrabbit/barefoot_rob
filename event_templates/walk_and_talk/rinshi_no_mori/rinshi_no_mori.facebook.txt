@@ -1,0 +1,148 @@
+title:       %s
+
+HUMANDATE       FIRST_GATHERING_TIME
+
+Privacy: Public
+
+CLICK Next
+-------------------------------------
+
+Location
+
+Shin Yurigaoka Station (this copy of the event is for newcomers who would need to meet there)
+
+CLICK Next
+-------------------------------------
+
+
+Privacy = Public
+
+CLICK NEXT
+
+Refresh your spirit. Touch the earth. Connect with nature.
+
+Barefoot Walking Experience:
+
+Barefoot walking, breathing, enjoying fresh air.
+
+==== First Meeting Point ====
+
+HUMANDATE, FIRST_GATHERING_TIME
+
+Musashi-Koyama Station [next to Family Mart](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
+
+==== Second Meeting Point ====
+
+HUMANDATE, EVENT_TIME
+
+Circular space in [Rinshi-no-Mori Park](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+
+Latest info https://www.robnugen.com/enalias_path
+
+==== Details ====
+
+*Enjoy Nature*
+
+Rinshi-no-Mori Park features
+forested grounds and open spaces,
+plus a stream and
+playground/picnic areas.
+
+*Enjoy Connection*
+
+Get away from it all by settling into your being and noticing the
+motions of your body, one breath and one step at a time.
+
+What to Expect:
+
+* I will talk about how to safely walk barefoot.
+* We will feel asphalt, grass, and myriad other surfaces.
+* Let's enjoy discovering the park together!
+
+Latest info https://www.robnugen.com/enalias_path
+
+**Costs:**
+
+500 yen
+
+**What to bring**
+
+Whatever you need to take care of yourself.  Come wearing lightweight
+shoes and maybe a bag to carry them just in case you need to put them on
+during the walk!
+
+Self care is important, so wear shoes whenever you need to!
+
+**Covid Considerations**
+
+You know the drill.  I know you have thought about it and I trust you
+to make a good decision for yourself.
+
+精神をリフレッシュする。地球に触れる。自然とつながる。
+
+裸足で歩く体験。
+
+裸足で歩き、呼吸し、新鮮な空気を楽しむ。
+
+==== 第一集合場所 ====
+
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+
+武蔵小山駅 [ファミマの隣](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
+
+==== 第二集合場所 ====
+
+EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+
+[林試の森公園の出会いの広場。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+
+
+最新情報は、https://www.robnugen.com/jaalias_path
+
+==== 詳細 ====
+
+*自然に親しむ*
+
+公園内には、
+緑豊かな敷地や様々な広場があり、
+小川も流れています。。。
+遊具・ピクニックエリアもあります。
+
+*Enjoy Connection*（つながりを楽しむ）
+
+自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。
+一息一歩、体の動きに気づくことで、すべてから解放されます。
+
+FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
+
+正午12時00分 代々木公園に入場
+
+What to Expect:
+
+* 裸足で安全に歩く方法についてお話します。
+* アスファルト、芝生、その他無数の表面を感じます。
+* 公園での新たな発見を、皆で楽しみましょう！
+
+最新情報は、https://www.robnugen.com/jaalias_path
+
+**参加費**
+
+500円
+
+**持ち物**
+
+ご自身のケアに必要なもの。 軽装でお越しください。
+また、ウォーキング中に靴を履く必要がある場合に備えて、靴を入れる袋も必要です。
+軽い靴を履いてきてください。
+
+セルフケアは重要ですので、必要に応じて靴を履きましょう。
+
+**COVID-19の配慮について**
+
+マスク着用はご自身の判断にお任せします。
+
+
+-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+CLICK Next
+-------------------------------------
+episode_image

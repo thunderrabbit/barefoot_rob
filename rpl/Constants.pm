@@ -27,8 +27,8 @@ our %walk_location_files = (
     "rinshi_no_mori" => [
       "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.en.md",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.ja.md",
-      # "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.facebook.txt",
-      # "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.meetup.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.facebook.txt",
+      "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.meetup.txt",
       # "$home/barefoot_rob_master/event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.twitter.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-07days_reminder.txt",
       "$home/barefoot_rob_master/event_templates/walk_and_talk/___.t-14days_reminder.txt",
