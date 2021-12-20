@@ -28,15 +28,11 @@ Latest info https://www.robnugen.com/enalias_path
 
 *Enjoy Nature*
 
-Rinshi-no-Mori Park features
-forested grounds and open spaces,
-plus a stream and
-playground/picnic areas.
+Rinshi-no-Mori Park features forested grounds and open spaces, plus a stream and playground/picnic areas.
 
 *Enjoy Connection*
 
-Get away from it all by settling into your being and noticing the
-motions of your body, one breath and one step at a time.
+Get away from it all by settling into your being and noticing the motions of your body, one breath and one step at a time.
 
 What to Expect:
 
@@ -52,16 +48,13 @@ Latest info https://www.robnugen.com/enalias_path
 
 **What to bring**
 
-Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe a bag to carry them just in case you need to put them on
-during the walk!
+Whatever you need to take care of yourself.  Come wearing lightweight shoes and maybe a bag to carry them just in case you need to put them on during the walk!
 
 Self care is important, so wear shoes whenever you need to!
 
 **Covid Considerations**
 
-You know the drill.  I know you have thought about it and I trust you
-to make a good decision for yourself.
+You know the drill.  I know you have thought about it and I trust you to make a good decision for yourself.
 
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
@@ -96,8 +89,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 *Enjoy Connection*（つながりを楽しむ）
 
-自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。
-一息一歩、体の動きに気づくことで、すべてから解放されます。
+自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。一息一歩、体の動きに気づくことで、すべてから解放されます。
 
 FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
@@ -117,9 +109,7 @@ What to Expect:
 
 **持ち物**
 
-ご自身のケアに必要なもの。 軽装でお越しください。
-また、ウォーキング中に靴を履く必要がある場合に備えて、靴を入れる袋も必要です。
-軽い靴を履いてきてください。
+ご自身のケアに必要なもの。 軽装でお越しください。また、ウォーキング中に靴を履く必要がある場合に備えて、靴を入れる袋も必要です。軽い靴を履いてきてください。
 
 セルフケアは重要ですので、必要に応じて靴を履きましょう。
 
@@ -136,13 +126,13 @@ TOPICS  FEEL FREE TO CHANGE:
 * Wellness
 * Stress Management
 * Relaxation
-* Consciousness
+* Barefoot
 * Outdoors
 
 
 UNSELECT Make this an online event
 
-CLICK Shin Yuri Art Park
+CLICK Rinshi No Mori Park
 
 CLICK Edit map pin
 
@@ -151,7 +141,7 @@ SLIDE MAP under pin
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Look for Barefoot Rob, barefoot between KFC and D&D
+Look for Barefoot Rob, barefoot by Family Mart at Musashi Koyama station FIRST_GATHERING_TIMEam
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 COVID-19 safety measures
