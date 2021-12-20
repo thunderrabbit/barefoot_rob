@@ -28,7 +28,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
-[林試の森公園の中にある大きなロータリー。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+[林試の森公園の出会いの広場。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。

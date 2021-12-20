@@ -28,7 +28,7 @@ aliases: [
 
 2021年12月30日　12:00
 
-[林試の森公園の中にある大きなロータリー。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+[林試の森公園の出会いの広場。](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
