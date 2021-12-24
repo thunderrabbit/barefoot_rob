@@ -5,6 +5,7 @@ use strict;
 # https://stackoverflow.com/a/46550384/194309
 use Cwd qw( abs_path );
 use File::Basename qw( dirname basename );
+use File::Path qw( make_path );     # For recursive mkdir to any depth
 use lib dirname(abs_path(__FILE__));
 use rpl::Constants;
 use rpl::Functions;
@@ -192,7 +193,12 @@ foreach my $extension (keys %event_templates) {
   my $outfile_and_title_path = $outfile_path . $title_path . $extension;
 
   my $dirname_of_output_file = dirname($outfile_and_title_path);
-  mkdir($dirname_of_output_file);     # TODO consider File::Path  https://stackoverflow.com/a/701494/194309
+
+  ## https://stackoverflow.com/a/701494/194309
+  eval { make_path($dirname_of_output_file) };        # Recursive mkdir to any depth
+  if ($@) {
+    print "Couldn't create $dirname_of_output_file: $@";
+  }
 
   $mt3_episode_output =~ s|alias_path|$alias_path$title_path|g;
 
