@@ -6,8 +6,8 @@ date: 2021-12-30T06:37:05+09:00
 EventTime: "canceled"
 EventDate: "2021-12-30"
 aliases: [
-    "/events/2021/12/30last-walk-of-2021-is-first-walk-at-rinshi-no-mori-park",
-    "/events/2021/12/30cancelled-rinshi-no-mori-park-2021-dec-30th-event-is-canceled",
+    "events/2021/12/30last-walk-of-2021-is-first-walk-at-rinshi-no-mori-park",
+    "events/2021/12/30cancelled-rinshi-no-mori-park-2021-dec-30th-event-is-canceled",
 ]
 ---
 
