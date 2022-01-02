@@ -6,7 +6,7 @@ date: 2022-01-02T20:18:09+09:00
 EventTime: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2022-01-08"
 aliases: [
-    "events/2022/01/06welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
+    "/ja/events/2022/01/06welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
     "/events/2022/01/08welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
 ]
 ---
