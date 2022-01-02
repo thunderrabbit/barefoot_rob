@@ -2,11 +2,12 @@
 title: "Welcome 2022! Enjoy crisp air and leaves in Yoyogi Park"
 tags: [ "2022", "barefoot", "cold", "crisp", "event", "jan", "walk", "yoyogi" ]
 author: Rob Nugen
-date: 2021-12-24T14:57:36+09:00
+date: 2022-01-02T20:18:09+09:00
 EventTime: "gather at 11:45; enter the Park at 12:00"
-EventDate: "2022-01-06"
+EventDate: "2022-01-08"
 aliases: [
     "/events/2022/01/06welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
+    "/events/2022/01/08welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
 ]
 ---
 
@@ -20,7 +21,7 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### When
 
-**Thursday 06 January 2022: gather at 11:45; enter Yoyogi Park at 12:00**
+**Saturday 08 January 2022: gather at 11:45; enter Yoyogi Park at 12:00**
 
 To receive the latest updates, [join our LINE group](/contact/)!
 

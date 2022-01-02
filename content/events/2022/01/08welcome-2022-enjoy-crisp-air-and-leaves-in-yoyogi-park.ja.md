@@ -2,11 +2,12 @@
 title: "裸足でウォーク＆トーク～代々木公園"
 tags: [ "2022", "barefoot", "cold", "crisp", "event", "jan", "walk", "yoyogi" ]
 author: Rob Nugen
-date: 2021-12-24T14:57:36+09:00
+date: 2022-01-02T20:18:09+09:00
 EventTime: "gather at 11:45; enter the Park at 12:00"
-EventDate: "2022-01-06"
+EventDate: "2022-01-08"
 aliases: [
     "/events/2022/01/06welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
+    "/events/2022/01/08welcome-2022-enjoy-crisp-air-and-leaves-in-yoyogi-park",
 ]
 ---
 
@@ -20,7 +21,7 @@ aliases: [
 
 #### 日程
 
-**2022年1月6日　11:45集合、12:00代々木公園入場**
+**2022年1月8日　11:45集合、12:00代々木公園入場**
 
 最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
 
