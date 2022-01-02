@@ -6,7 +6,7 @@ date: %s
 EventTime: "FIRST_GATHERING_TIMEに集合、EVENT_TIMEに多摩川まで歩く"
 EventDate: "%s"
 aliases: [
-    "alias_path",
+    "/jaalias_path",
 ]
 ---
 

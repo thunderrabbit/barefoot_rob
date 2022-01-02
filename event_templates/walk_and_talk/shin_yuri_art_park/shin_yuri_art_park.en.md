@@ -6,7 +6,7 @@ date: %s
 EventTime: "gather at FIRST_GATHERING_TIME; enter Shin Yuri Art Park at EVENT_TIME"
 EventDate: "%s"
 aliases: [
-    "alias_path",
+    "/enalias_path",
 ]
 ---
 

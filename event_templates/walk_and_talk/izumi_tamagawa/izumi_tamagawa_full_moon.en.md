@@ -6,7 +6,7 @@ date: %s
 EventTime: "gather at FIRST_GATHERING_TIME; walk to Tama River at EVENT_TIME"
 EventDate: "%s"
 aliases: [
-    "alias_path",
+    "/enalias_path",
 ]
 ---
 
