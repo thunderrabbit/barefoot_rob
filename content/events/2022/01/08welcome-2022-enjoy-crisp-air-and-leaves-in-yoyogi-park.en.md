@@ -13,6 +13,12 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2021/2021_nov_14_yoyogi_leaves.jpg" "2021 nov 14 yoyogi leaves" %}}
 
+[![2022 jan 08 bare feet prints snow](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_08_bare_feet_prints_snow.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_08_bare_feet_prints_snow.jpg)
+[![2022 jan 08 bare feet snow](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_08_bare_feet_snow.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_08_bare_feet_snow.jpg)
+[![2022 jan 08 barefoot rob snow yoyogi park](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_08_barefoot_rob_snow_yoyogi_park.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_08_barefoot_rob_snow_yoyogi_park.jpg)
+[![2022 jan 08 valeria barefoot yoyogi park](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_08_valeria_barefoot_yoyogi_park.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_08_valeria_barefoot_yoyogi_park.jpg)
+
+
 Refresh your spirit. Touch the earth. Connect with nature.
 
 Barefoot Walking Experience:
