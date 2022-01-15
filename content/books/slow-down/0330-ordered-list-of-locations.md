@@ -9,6 +9,20 @@ aliases: [
  ]
 date: 2022-01-15T11:05:45+09:00
 ---
+<script>
+// https://stackoverflow.com/a/68079421/194309
+const expandElements = shouldExpand => {
+    let detailsElements = document.querySelectorAll("details");
+
+    detailsElements = [...detailsElements];
+
+    if (shouldExpand) {
+        detailsElements.map(item => item.setAttribute("open", shouldExpand));
+    } else {
+        detailsElements.map(item => item.removeAttribute("open"));
+    }
+};
+</script>
 
 Adapted from https://github.com/thunderrabbit/barefoot_rob/blob/20e1764324cf164cce2d1c5cd33e364fba8212ee/content/quests/walk-to-niigata/2021/04/09day-by-day-plans-for-walking-route-400km-to-niigata.md
 
@@ -28,6 +42,9 @@ class="title" /></a>
 
 #### Details:
 
+<button onClick="expandElements(true)">Expand Sections</button>
+<button onClick="expandElements(false)">Collapse Sections</button>
+
 These are maps of each segment, subject to change.  For the latest info, [PM me on LINE](/contact/).
 
 <div class="walk-segment">
@@ -39,6 +56,8 @@ Walk <span class="km_source">21</span>km,
 From [Rinko Park](https://www.google.com/maps/place/Rinko+Park/@35.4610616,139.6347058,17z/) on the bay in Yokohama
 to my house (not shown).
 (<span class="km_total">21</span>km walked so far)
+<details>
+<summary><i>Expand Day 1</i></summary>
 
 As part of the kickoff event,
 I will lead a [walking meditation in Rinko Park](/en/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/).
@@ -50,7 +69,7 @@ in Yokohama](/en/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/),
 on the [concrete circle in Rinko Park](https://goo.gl/maps/WAjBxaoAmmv5yyo18).
 
 [![Walk to our area from Rinko Park](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_rinko_park_to_our_area.png)](https://goo.gl/maps/QzxDHh2J1gwe6p1u9)
-
+</details>
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
 <div class="walk-segment">
