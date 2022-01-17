@@ -10,7 +10,8 @@ aliases: [
 ]
 draft: false
 ---
-<div class="_4t5n" role="main">
+<details>
+<summary>non-walk pics</summary>
   <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
     <div class="_3-95 _2pim _2lek _2lel">#nexttokq dig dos diggers</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/201311/1389890_605968272784255_1303895012_n_17843320201046179.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/201311/1389890_605968272784255_1303895012_n_17843320201046179.jpg" class="_2yuc _3-96" /></a></div>
@@ -2480,6 +2481,9 @@ draft: false
     </div>
     <div class="_3-94 _2lem">Apr 29, 2021, 4:56 PM</div>
   </div>
+</details>
+<details>
+<summary>pics and non-walk pics</summary>
   <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
     <div class="_3-95 _2pim _2lek _2lel">Cherry blossom still in full effect</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178919896_271447731358346_9067675672056813306_n_17882934311150078.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178919896_271447731358346_9067675672056813306_n_17882934311150078.jpg" class="_2yuc _3-96" /></a>
@@ -8575,3 +8579,4 @@ draft: false
     <div class="_3-94 _2lem">Apr 29, 2021, 6:12 PM</div>
   </div>
 </div>
+</details>
