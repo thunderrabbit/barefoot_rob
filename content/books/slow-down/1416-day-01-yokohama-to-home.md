@@ -50,11 +50,11 @@ Bye Shraddhan at the corner of Nittori as he turned right to go to Shin Yokohama
 
 First bag upgrade; proof of concept but crushed the box lid.
 
-<div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-  <div class="_3-95 _2pim _2lek _2lel">François and flowers near Yokohama Stadium</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">François and flowers near Yokohama Stadium</div>
   <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173900631_467548331237165_5969135765002845833_n_18218444182035062.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173900631_467548331237165_5969135765002845833_n_18218444182035062.jpg" class="_2yuc _3-96" /></a>
   </div>
-  <div class="_3-94 _2lem">2021 April 16 15:01:25 PM JST</div>
+  <div class="date_taken_local">2021 apr 16 15:01:25</div>
 </div>
 
 Second bag upgrade to waterproof.. we still use the waterproof box in her garden.
