@@ -1470,9 +1470,7 @@ draft: false
               <div class="_3-94 _2lem">Jun 17, 2020, 2:58 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">I was going to climb, but there&#039;s an active spider web spanning the entrance right at the bottom of the steps.
-
-                The spider is visible here, out of focus, right in the middle of the red gate.</div>
+              <div class="_3-95 _2pim _2lek _2lel">I was going to climb, but there&#039;s an active spider web spanning the entrance right at the bottom of the steps.<br>The spider is visible here, out of focus, right in the middle of the red gate.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103768842_672253416655450_1840295287838225350_n_17927138164400329.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103768842_672253416655450_1840295287838225350_n_17927138164400329.jpg" class="_2yuc _3-96" /></a></div>
               <div class="_3-94 _2lem">Jun 17, 2020, 2:54 PM</div>
             </div>
@@ -1925,9 +1923,7 @@ draft: false
               <div class="_3-94 _2lem">Oct 11, 2020, 2:24 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Plants in the back of a pickup truck
-
-                This stuff has apparently been here for a minute because the plants are beginning to take over.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Plants in the back of a pickup truck<br>This stuff has apparently been here for a minute because the plants are beginning to take over.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120938951_625215518157051_7476065240373921710_n_17877604684896242.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120938951_625215518157051_7476065240373921710_n_17877604684896242.jpg" class="_2yuc _3-96" /></a></div>
               <div class="_3-94 _2lem">Oct 6, 2020, 1:49 PM</div>
             </div>
@@ -2073,9 +2069,7 @@ draft: false
               <div class="_3-94 _2lem">Aug 16, 2020, 12:40 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">What are these?
-
-                &#064;da_ma_da_ma</div>
+              <div class="_3-95 _2pim _2lek _2lel">What are these?<br>&#064;da_ma_da_ma</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117508867_711552663033751_5203263902004898731_n_17872358851881387.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117508867_711552663033751_5203263902004898731_n_17872358851881387.jpg" class="_2yuc _3-96" /></a></div>
               <div class="_3-94 _2lem">Aug 15, 2020, 1:19 PM</div>
             </div>
@@ -2275,9 +2269,7 @@ draft: false
               <div class="_3-94 _2lem">Jul 6, 2020, 11:39 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Cool! I walked to Yokohama!
-
-                Not downtown but still Yokohama</div>
+              <div class="_3-95 _2pim _2lek _2lel">Cool! I walked to Yokohama!<br><br>Not downtown but still Yokohama</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106486833_1654196191412328_8491817069521102676_n_17872965616794189.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106486833_1654196191412328_8491817069521102676_n_17872965616794189.jpg" class="_2yuc _3-96" /></a></div>
               <div class="_3-94 _2lem">Jul 6, 2020, 11:31 PM</div>
             </div>
@@ -2410,9 +2402,7 @@ draft: false
               <div class="_3-94 _2lem">Jun 30, 2020, 1:31 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Today is the first day that I have walked to Yomiuriland.
-
-                I plan to walk here on the afternoon of April 13th 2021 as my first stop on the way to Niigata.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Today is the first day that I have walked to Yomiuriland.<br><br>I plan to walk here on the afternoon of April 13th 2021 as my first stop on the way to Niigata.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106004244_632789017586481_1210905842661148879_n_17942493256365592.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106004244_632789017586481_1210905842661148879_n_17942493256365592.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -2500,11 +2490,7 @@ draft: false
               <div class="_3-94 _2lem">Jun 26, 2020, 1:58 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Walking through a tunnel, we found some windows, and then a giant set of doors leading to a beautiful area outside the windows where we could probably camp for a while without anybody noticing..
-
-                I found a ladder and climbed up near the top of the tunnel to take some pics as well.
-
-                The windowed section is a connector between what used to be two separate tunnels!</div>
+              <div class="_3-95 _2pim _2lek _2lel">Walking through a tunnel, we found some windows, and then a giant set of doors leading to a beautiful area outside the windows where we could probably camp for a while without anybody noticing..<br><br>I found a ladder and climbed up near the top of the tunnel to take some pics as well.<br><br>The windowed section is a connector between what used to be two separate tunnels!</div>
               <div class="_3-95 _2let">
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178873848_3960011544078508_6378587213711072259_n_17912439172677878.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178873848_3960011544078508_6378587213711072259_n_17912439172677878.jpg" class="_2yuc _3-96" /></a></div>
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180269479_927271874717827_2644831498659299080_n_17948334253455334.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180269479_927271874717827_2644831498659299080_n_17948334253455334.jpg" class="_2yuc _3-96" /></a></div>
@@ -2757,9 +2743,7 @@ draft: false
               <div class="_3-94 _2lem">Apr 23, 2021, 4:09 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Interesting to see how this highway just cuts through all these smaller roads that were lined up in a grid.
-
-                I imagine there was a lot of discussion and consternation when this highway was planned to come through.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Interesting to see how this highway just cuts through all these smaller roads that were lined up in a grid.<br><br>I imagine there was a lot of discussion and consternation when this highway was planned to come through.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176550492_187318296566478_1267252213658064951_n_18160523875193835.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176550492_187318296566478_1267252213658064951_n_18160523875193835.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -2819,9 +2803,7 @@ draft: false
               <div class="_3-94 _2lem">Apr 22, 2021, 8:30 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Here is a splinter the doctor cut out of my foot.
-
-                It&#039;s now 3 hours later and my foot hurts 10 times worse now even while not standing on it.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Here is a splinter the doctor cut out of my foot.<br><br>It&#039;s now 3 hours later and my foot hurts 10 times worse now even while not standing on it.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176239823_761084841251956_4106500805036958321_n_17882300423239233.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176239823_761084841251956_4106500805036958321_n_17882300423239233.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -2855,15 +2837,7 @@ draft: false
               <div class="_3-94 _2lem">Apr 22, 2021, 3:35 AM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Multitasking:
-
-                Thanks to Lin for calling ahead to the hospital that&#039;s very close to my hotel in Honjo. They have a dermatologist who should be able to extract the splinter from my right foot.
-
-                After taking a shower and changing my clothes at the hotel, while leaving my room I opened the door onto my big toenail.
-
-                In the photo, the angled white line (looking like a backslash \) marks the distance the door edge made it up my toenail before stopping.
-
-                Good thing I was already headed to the hospital. :-\</div>
+              <div class="_3-95 _2pim _2lek _2lel">Multitasking:<br><br>Thanks to Lin for calling ahead to the hospital that&#039;s very close to my hotel in Honjo. They have a dermatologist who should be able to extract the splinter from my right foot.<br><br>After taking a shower and changing my clothes at the hotel, while leaving my room I opened the door onto my big toenail.<br><br>In the photo, the angled white line (looking like a backslash \) marks the distance the door edge made it up my toenail before stopping.<br><br>Good thing I was already headed to the hospital. :-\</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175986931_750650199150575_432512747020622283_n_18108655273239377.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175986931_750650199150575_432512747020622283_n_18108655273239377.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -3067,9 +3041,7 @@ draft: false
               <div class="_3-94 _2lem">Apr 21, 2021, 2:12 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">I&#039;m wearing sandals
-
-                After my progress came to a standstill due to terrible sidewalk being hot and gravelly and stabby, I decided to wear my sandals.</div>
+              <div class="_3-95 _2pim _2lek _2lel">I&#039;m wearing sandals<br><br>After my progress came to a standstill due to terrible sidewalk being hot and gravelly and stabby, I decided to wear my sandals.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175281179_2906685036269201_7109878344067342329_n_17864297369452364.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175281179_2906685036269201_7109878344067342329_n_17864297369452364.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -3365,9 +3337,7 @@ draft: false
               <div class="_3-94 _2lem">Apr 19, 2021, 11:42 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">I met a fellow traveler
-
-                http://ogasho.at.webry.info</div>
+              <div class="_3-95 _2pim _2lek _2lel">I met a fellow traveler<br><br>http://ogasho.at.webry.info</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175114699_951771822247600_5528931165577155739_n_17910020689693755.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175114699_951771822247600_5528931165577155739_n_17910020689693755.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -3621,9 +3591,7 @@ draft: false
               <div class="_3-94 _2lem">Apr 18, 2021, 4:10 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Sight injury
-
-                That little red dot by my pinky toe is a little puncture wound that I got.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Sight injury<br><br>That little red dot by my pinky toe is a little puncture wound that I got.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174350163_296623671836199_2074216614074639882_n_17869754558419510.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174350163_296623671836199_2074216614074639882_n_17869754558419510.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -4499,9 +4467,7 @@ draft: false
               <div class="_3-94 _2lem">Mar 20, 2021, 3:08 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Spring is springing! Less than a month before I start my walk across Japan!
-
-                https://www.robnugen.com/</div>
+              <div class="_3-95 _2pim _2lek _2lel">Spring is springing! Less than a month before I start my walk across Japan!<br><br>https://www.robnugen.com/</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/160941782_258413599113206_3815450640340246437_n_18203156098005897.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/160941782_258413599113206_3815450640340246437_n_18203156098005897.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -5192,9 +5158,7 @@ draft: false
               <div class="_3-94 _2lem">Nov 26, 2021, 7:22 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">&#064;missy_just_another_girl
-
-                https://i.pinimg.com/originals/11/4a/8e/114a8e3ace2aca7fbec6f630e7191e7f.jpg</div>
+              <div class="_3-95 _2pim _2lek _2lel">&#064;missy_just_another_girl<br><br>https://i.pinimg.com/originals/11/4a/8e/114a8e3ace2aca7fbec6f630e7191e7f.jpg</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/260059895_316683790048416_7908695307668350624_n_17945399392579192.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/260059895_316683790048416_7908695307668350624_n_17945399392579192.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -5270,32 +5234,14 @@ draft: false
               <div class="_3-94 _2lem">Nov 22, 2021, 9:36 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Enjoy successful communication!
-
-                Join us for 90 minutes and receive
-
-                * One simple trick to being heard
+              <div class="_3-95 _2pim _2lek _2lel">Enjoy successful communication!<br><br>Join us for 90 minutes and receive<br><br>* One simple trick to being heard
                 * Live practice sessions
                 * Recognize your strengths in communication
                 * Discover your biases in communication
-                * New ways of listening and speaking now
-
-                DATES &amp; TIMES
-
-                I’m running the workshop twice so you can choose which day and time zone is best for you (or you can attend both for twice the fun!)
-
-                Option 1: Friday, December 3rd, 2021: 7pm - 8:30pm JST
-                🇺🇸 Honolulu 00AM | 🇬🇧 London 10AM | 🇯🇵 Tokyo 7PM | 🇦🇺 Sydney 9PM
-
-                Option 2: Wednesday, December 8th, 2021: 10am - 11:30am JST
+                * New ways of listening and speaking now<br><br>DATES &amp; TIMES<br><br>I’m running the workshop twice so you can choose which day and time zone is best for you (or you can attend both for twice the fun!)<br><br>Option 1: Friday, December 3rd, 2021: 7pm - 8:30pm JST
+                🇺🇸 Honolulu 00AM | 🇬🇧 London 10AM | 🇯🇵 Tokyo 7PM | 🇦🇺 Sydney 9PM<br><br>Option 2: Wednesday, December 8th, 2021: 10am - 11:30am JST
                 🇺🇸 Dec 7th: Honolulu 15PM | Los Angeles 17PM | Houston 19PM
-                Dec 8th: 🇬🇧 London 01AM | 🇯🇵 Tokyo 10AM | 🇦🇺 Sydney 12PM
-
-                Can’t join us live? Lifetime replay access of the general content is included in your ticket.
-
-                HOW TO SAVE YOUR SEAT
-
-                Early bird price $27 until November 27th. Register here https://docs.google.com/document/d/1tgTHvBj6mlM3Gi-jh2Az6B0kIy-iEur1DoBIQS6O9Es/edit</div>
+                Dec 8th: 🇬🇧 London 01AM | 🇯🇵 Tokyo 10AM | 🇦🇺 Sydney 12PM<br><br>Can’t join us live? Lifetime replay access of the general content is included in your ticket.<br><br>HOW TO SAVE YOUR SEAT<br><br>Early bird price $27 until November 27th. Register here https://docs.google.com/document/d/1tgTHvBj6mlM3Gi-jh2Az6B0kIy-iEur1DoBIQS6O9Es/edit</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/257835907_478608856834738_6161170962454611590_n_17876346875597908.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/257835907_478608856834738_6161170962454611590_n_17876346875597908.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -5321,9 +5267,7 @@ draft: false
               <div class="_3-94 _2lem">Nov 18, 2021, 5:35 AM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">I&#039;ll put my footprints into the mud! It&#039;ll be fun!
-
-                #barefooting #mud #haha</div>
+              <div class="_3-95 _2pim _2lek _2lel">I&#039;ll put my footprints into the mud! It&#039;ll be fun!<br><br>#barefooting #mud #haha</div>
               <div class="_3-95 _2let">
                 <div><video src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/257353214_140043281700789_4369885402326579576_n_18137888695220736.mp4" controls="1" class="_2yuc _3-96"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/257353214_140043281700789_4369885402326579576_n_18137888695220736.mp4">
                       <div>Click for video:</div><img />
@@ -5422,9 +5366,7 @@ draft: false
               <div class="_3-94 _2lem">Nov 14, 2021, 12:28 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Oh, grate!
-
-                #roppongimidtown</div>
+              <div class="_3-95 _2pim _2lek _2lel">Oh, grate!<br><br>#roppongimidtown</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/255398605_3024279667840327_4059502366571996873_n_17891841206374088.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/255398605_3024279667840327_4059502366571996873_n_17891841206374088.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -5544,11 +5486,7 @@ draft: false
               <div class="_3-94 _2lem">Nov 8, 2021, 12:51 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Do you want to feel heard in your relationships?
-
-                I&#039;m thinking about running a 60-minute workshop on how to have one clear and safe conversation to feel heard and get what you need, without drama.
-
-                It&#039;s $27. Are you in? Comment or DM</div>
+              <div class="_3-95 _2pim _2lek _2lel">Do you want to feel heard in your relationships?<br><br>I&#039;m thinking about running a 60-minute workshop on how to have one clear and safe conversation to feel heard and get what you need, without drama.<br><br>It&#039;s $27. Are you in? Comment or DM</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253154362_6310839485655023_957679246136172624_n_18185158399181064.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253154362_6310839485655023_957679246136172624_n_18185158399181064.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -5608,9 +5546,7 @@ draft: false
               <div class="_3-94 _2lem">Nov 3, 2021, 6:22 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Enjoying exploration while barefoot
-
-                Join us in Barefoot exploration on Saturday in Yoyogi Park!
+              <div class="_3-95 _2pim _2lek _2lel">Enjoying exploration while barefoot<br><br>Join us in Barefoot exploration on Saturday in Yoyogi Park!
                 https://www.robnugen.com/en/events/</div>
               <div class="_3-95 _2let">
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253063138_941652503107577_4252421212642498535_n_17895390170419427.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253063138_941652503107577_4252421212642498535_n_17895390170419427.jpg" class="_2yuc _3-96" /></a></div>
@@ -6224,9 +6160,7 @@ draft: false
               <div class="_3-94 _2lem">Oct 15, 2021, 8:58 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Enjoyed great time barefoot today near Izumi Tamagawa!
-
-                #walklifebalance #barefootwalkandtalk #barefooting</div>
+              <div class="_3-95 _2pim _2lek _2lel">Enjoyed great time barefoot today near Izumi Tamagawa!<br><br>#walklifebalance #barefootwalkandtalk #barefooting</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244614340_419932869732908_6865030322966577883_n_17919533260854324.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244614340_419932869732908_6865030322966577883_n_17919533260854324.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -6326,16 +6260,8 @@ draft: false
               <div class="_3-94 _2lem">Oct 6, 2021, 11:58 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Enjoy Walking Barefoot
-
-                This Saturday from noon
-                near Izumi Tamagawa Station
-
-                Barefoot walking and relaxing on soft grass.
-
-                https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa
-
-                #barefooting #walkandtalk #walklifebalance</div>
+              <div class="_3-95 _2pim _2lek _2lel">Enjoy Walking Barefoot<br><br>This Saturday from noon
+                near Izumi Tamagawa Station<br><br>Barefoot walking and relaxing on soft grass.<br><br>https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa<br><br>#barefooting #walkandtalk #walklifebalance</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244419594_853524258865861_9179291739078332895_nwebp_17883629942455234.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244419594_853524258865861_9179291739078332895_nwebp_17883629942455234.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -6361,15 +6287,7 @@ draft: false
               <div class="_3-94 _2lem">Oct 6, 2021, 2:02 AM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Enjoy Walking Barefoot
-
-                Saturday 09 October 2021
-
-                Enjoy walking and relaxing on soft grass.
-
-                https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa
-
-                #barefooting #walkandtalk #walklifebalance</div>
+              <div class="_3-95 _2pim _2lek _2lel">Enjoy Walking Barefoot<br><br>Saturday 09 October 2021<br><br>Enjoy walking and relaxing on soft grass.<br><br>https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa<br><br>#barefooting #walkandtalk #walklifebalance</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244416416_827041547968574_9208504784096401740_nwebp_17923978312873632.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244416416_827041547968574_9208504784096401740_nwebp_17923978312873632.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -6396,13 +6314,7 @@ draft: false
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
               <div class="_3-95 _2pim _2lek _2lel">#barefooting #walkandtalk
-                Join us 11:45 at Izumi-Tamagawa Station near benches
-
-                Saturday 09 October 2021
-
-                Enjoy walking and relaxing on soft grass.
-
-                https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa</div>
+                Join us 11:45 at Izumi-Tamagawa Station near benches<br><br>Saturday 09 October 2021<br><br>Enjoy walking and relaxing on soft grass.<br><br>https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/243930391_902896570433494_171043019558058062_nwebp_17925350833747057.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/243930391_902896570433494_171043019558058062_nwebp_17925350833747057.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -6867,9 +6779,7 @@ draft: false
               <div class="_3-94 _2lem">Aug 10, 2021, 11:34 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">We enjoyed walking in the summer rain today!
-
-                #walkingmeditation</div>
+              <div class="_3-95 _2pim _2lek _2lel">We enjoyed walking in the summer rain today!<br><br>#walkingmeditation</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/227582353_117689117257087_6212221770305795245_n_17885352524484191.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/227582353_117689117257087_6212221770305795245_n_17885352524484191.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7061,9 +6971,7 @@ draft: false
               <div class="_3-94 _2lem">Jun 17, 2021, 9:23 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">SV
-
-                Wait a minute, Japanese language doesn&#039;t really include V...</div>
+              <div class="_3-95 _2pim _2lek _2lel">SV<br><br>Wait a minute, Japanese language doesn&#039;t really include V...</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/197838601_4816130291735937_6837020251924937088_n_17909973703850507.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/197838601_4816130291735937_6837020251924937088_n_17909973703850507.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7126,13 +7034,7 @@ draft: false
               <div class="_3-94 _2lem">Jun 8, 2021, 2:04 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Try eye gazing with me in Shibuya this Saturday
-
-                any time between 3pm and 6pm...
-
-                Between Hachiko and the police box
-
-                I look forward to seeing you!</div>
+              <div class="_3-95 _2pim _2lek _2lel">Try eye gazing with me in Shibuya this Saturday<br><br>any time between 3pm and 6pm...<br><br>Between Hachiko and the police box<br><br>I look forward to seeing you!</div>
               <div class="_3-95 _2let">
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/193367795_320937052742895_1170691336601640150_n_17994727204346492.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/193367795_320937052742895_1170691336601640150_n_17994727204346492.jpg" class="_2yuc _3-96" /></a></div>
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/194953166_985281045555259_5049326099010597882_n_17887724000296639.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/194953166_985281045555259_5049326099010597882_n_17887724000296639.jpg" class="_2yuc _3-96" /></a></div>
@@ -7140,27 +7042,17 @@ draft: false
               <div class="_3-94 _2lem">Jun 1, 2021, 9:26 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">eyeゲージングとは
-
-                瞑想法の一つです。
+              <div class="_3-95 _2pim _2lek _2lel">eyeゲージングとは<br><br>瞑想法の一つです。
                 誰でも深い瞑想体験ができます。
                 瞑想の姿勢で相手の目をただ観るのです。
                 そうすると自分の心が相手にくっきりと見えてきます。
                 恥ずかしがり屋の人でも大丈夫です。
-                なぜか始まると深い意識に変化していきます。本当の自分に気づき　自分の真の美しさがわかるでしょう。
-
-                目の中に見えるもの、心のプロセス、体験はみなさんそれぞれ違いますが、不思議なものが見えてくる方もいます。
-
-                ※経験後の変化
+                なぜか始まると深い意識に変化していきます。本当の自分に気づき　自分の真の美しさがわかるでしょう。<br><br>目の中に見えるもの、心のプロセス、体験はみなさんそれぞれ違いますが、不思議なものが見えてくる方もいます。<br><br>※経験後の変化
                 自分の強い友人になる！
                 自分を知る。自分や他者をより愛せるようになったり
                 日常の中でのコミュニケーション能力が上がり、
                 相手をより受け入れたり　尊重し合えたりする力が増してきます。
-                この世の中がより身近になり　もっとあなたの味方になっていくでしょう。
-
-                日時: 6月5日(土) 15時00分 から18時00分
-
-                場所: 渋谷スクランブル交差点　交番前辺り</div>
+                この世の中がより身近になり　もっとあなたの味方になっていくでしょう。<br><br>日時: 6月5日(土) 15時00分 から18時00分<br><br>場所: 渋谷スクランブル交差点　交番前辺り</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191630052_739802260021179_179489537852245984_n_17909196133861393.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191630052_739802260021179_179489537852245984_n_17909196133861393.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7210,11 +7102,7 @@ draft: false
               <div class="_3-94 _2lem">May 27, 2021, 6:57 AM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Eye gazing is one of the most powerful practices on this planet, allowing us to experience a deeper connection to ourself and others. Many people, including myself, have had indescribable experiences while eye gazing, such as seeing auras, past lives, and other images. By simply looking into another person’s eyes, you can discover more about yourself, humanity as a collective, and our roles as spiritual beings.
-
-                https://www.collective-evolution.com/2016/12/03/eye-gazing-science-reveals-how-it-affects-our-communication/
-
-                Shibuya 3pm June 5th Hachiko Square</div>
+              <div class="_3-95 _2pim _2lek _2lel">Eye gazing is one of the most powerful practices on this planet, allowing us to experience a deeper connection to ourself and others. Many people, including myself, have had indescribable experiences while eye gazing, such as seeing auras, past lives, and other images. By simply looking into another person’s eyes, you can discover more about yourself, humanity as a collective, and our roles as spiritual beings.<br><br>https://www.collective-evolution.com/2016/12/03/eye-gazing-science-reveals-how-it-affects-our-communication/<br><br>Shibuya 3pm June 5th Hachiko Square</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191368413_162816599126302_2534581133430463370_n_17913736543776254.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191368413_162816599126302_2534581133430463370_n_17913736543776254.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7315,9 +7203,7 @@ draft: false
               <div class="_3-94 _2lem">May 24, 2021, 6:52 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Sit face to face with a loved one, looking gently into their eyes.
-
-                What happens for you?</div>
+              <div class="_3-95 _2pim _2lek _2lel">Sit face to face with a loved one, looking gently into their eyes.<br><br>What happens for you?</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189584928_2299725353495527_3536328954507827865_n_17845503098599951.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189584928_2299725353495527_3536328954507827865_n_17845503098599951.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7417,11 +7303,7 @@ draft: false
               <div class="_3-94 _2lem">May 20, 2021, 10:16 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Eye contact
-
-                Eye contact allows both physical distance and social connection
-
-                I will offer Free Eye Contact in Shibuya some days in June.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Eye contact<br><br>Eye contact allows both physical distance and social connection<br><br>I will offer Free Eye Contact in Shibuya some days in June.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189432233_995478671259367_6222627502536314432_n_17885002661153205.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189432233_995478671259367_6222627502536314432_n_17885002661153205.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7471,9 +7353,7 @@ draft: false
               <div class="_3-94 _2lem">May 19, 2021, 7:01 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Free Eye Contact
-
-                Coming soon</div>
+              <div class="_3-95 _2pim _2lek _2lel">Free Eye Contact<br><br>Coming soon</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/187341119_493697855392309_5776973316998154865_n_17882692397326041.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/187341119_493697855392309_5776973316998154865_n_17882692397326041.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -7573,9 +7453,7 @@ draft: false
               <div class="_3-94 _2lem">May 11, 2021, 9:13 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Safely home
-
-                Thank you everyone for lIving your life to the fullest!</div>
+              <div class="_3-95 _2pim _2lek _2lel">Safely home<br><br>Thank you everyone for lIving your life to the fullest!</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183911376_154941736575837_3777836203078281563_n_17858748509527339.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183911376_154941736575837_3777836203078281563_n_17858748509527339.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -8178,9 +8056,7 @@ draft: false
               <div class="_3-94 _2lem">May 4, 2021, 7:31 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Thank you Pizza Canak for cheese all the way to the edge.
-
-                https://m.facebook.com/PIZZACANAK/</div>
+              <div class="_3-95 _2pim _2lek _2lel">Thank you Pizza Canak for cheese all the way to the edge.<br><br>https://m.facebook.com/PIZZACANAK/</div>
               <div class="_3-95 _2let">
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181276461_826556727975177_4008038520845552118_n_17895088592055916.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181276461_826556727975177_4008038520845552118_n_17895088592055916.jpg" class="_2yuc _3-96" /></a></div>
                 <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181298064_271142111385453_745580162846594629_n_17904520150888373.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181298064_271142111385453_745580162846594629_n_17904520150888373.jpg" class="_2yuc _3-96" /></a></div>
@@ -8397,9 +8273,7 @@ draft: false
               <div class="_3-94 _2lem">May 3, 2021, 3:32 PM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Good morning spider webs
-
-                &#064;missy_just_another_girl</div>
+              <div class="_3-95 _2pim _2lek _2lel">Good morning spider webs<br><br>&#064;missy_just_another_girl</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181246342_803306540590285_4975231905170542756_n_17875018442308895.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181246342_803306540590285_4975231905170542756_n_17875018442308895.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
@@ -8499,11 +8373,7 @@ draft: false
               <div class="_3-94 _2lem">May 3, 2021, 1:21 AM</div>
             </div>
             <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-              <div class="_3-95 _2pim _2lek _2lel">Snow covered Japanese Alps in the background while I&#039;m walking along highway 17.
-
-                This morning I left Day Six City, walked through Day Ten City, and am headed another 18km from here.
-
-                As &#064;eddie_jp_ predicted, I received a nice gift of two cans of coffee from two people who stopped after driving by me on the small road next to the highway.</div>
+              <div class="_3-95 _2pim _2lek _2lel">Snow covered Japanese Alps in the background while I&#039;m walking along highway 17.<br><br>This morning I left Day Six City, walked through Day Ten City, and am headed another 18km from here.<br><br>As &#064;eddie_jp_ predicted, I received a nice gift of two cans of coffee from two people who stopped after driving by me on the small road next to the highway.</div>
               <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/180829351_447167523049739_2623709687451799984_n_17936878387476930.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/180829351_447167523049739_2623709687451799984_n_17936878387476930.jpg" class="_2yuc _3-96" /></a>
                 <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
                   <tbody>
