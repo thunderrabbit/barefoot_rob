@@ -1,12 +1,12 @@
 ---
-title: "9000 downloaded from ig"
+title: "99999 downloaded from ig"
 type: "book"
 tags: [ "book", "pics" ]
 author: Rob Nugen
 date: 2021-06-07T15:30:48+09:00
 EventDate: "2021-05-17"
 aliases: [
-    "/en/books/slow-down/9000-downloaded-from-ig",
+    "/en/books/slow-down/99999-instagrizzipped",
 ]
 draft: false
 ---
