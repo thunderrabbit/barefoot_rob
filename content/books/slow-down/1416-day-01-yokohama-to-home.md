@@ -11,7 +11,7 @@ aliases: [
 draft: false
 ---
 
-{{% img-responsive "https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-01/2021_apr_15_francois_on_steps_by_yokohama_bay.jpeg" "2021 apr 15 francois on steps by yokohama bay" %}}
+{{% img-responsive "https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-01/2021_apr_15_francois_on_steps_by_yokohama_bay.jpeg" "2021 apr 16 francois on steps by yokohama bay" %}}
 
 Looking at the whole map, I realized it was so close to being a coast to coast walk.   Just add a single day of 20km and bingo Coast to Coast.
 
