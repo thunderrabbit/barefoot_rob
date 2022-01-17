@@ -4116,56 +4116,6 @@ draft: false
     <div class="_3-94 _2lem">Apr 16, 2021, 12:52 AM</div>
   </div>
   <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
-    <div class="_3-95 _2pim _2lek _2lel">François and flowers near Yokohama Stadium</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173900631_467548331237165_5969135765002845833_n_18218444182035062.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173900631_467548331237165_5969135765002845833_n_18218444182035062.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">0</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">2021:04:16 15:01:25</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">3</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="_3-94 _2lem">Apr 15, 2021, 10:02 PM</div>
-  </div>
-  <div class="pam _3-95 _2ph- _2lej uiBoxWhite noborder">
     <div class="_3-95 _2pim _2lek _2lel">Cute white flowers</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172977266_3964493333635362_8729490115839242120_n_17906935561733231.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172977266_3964493333635362_8729490115839242120_n_17906935561733231.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
