@@ -153,6 +153,13 @@ sub parse_user_date($) {
   return DateTime->from_epoch(epoch => $epoch, time_zone  => $zone);   # https://metacpan.org/pod/DateTime#DateTime-%3Efrom_epoch(-epoch-=%3E-$epoch,-...-)
 }
 
+sub prepend_book_title_based_on_date($) {
+  my ($entry_date) = @_;
+  print "in prepend_book_title_based_on_date, got this date: $entry_date \n";
+  my $leading_zero = $entry_date->strftime("%m%d");
+  return $leading_zero + 1000;         # code golf to produce 1419 for April 19th    The 1 prefix is for my book entry title convention
+}
+
 # https://stackoverflow.com/a/11369946/194309
 sub ordinate($) {
   my ($cardinal) = @_;
