@@ -8,4 +8,44 @@ But it was fine in a long walk. Rain rain rain over the hill and down a very ste
 
 then sort of walking left along the highway, cross the street and the rain was still raining pretty pretty effectively and feel a different texture on the sidewalk which was nice sensation going through the dark and rainy, giant sidewalk found a very interesting recycling center. I think I can find those pictures that I may have taken some photos but it was hard to take photos with all the rain. And fortunately, I had a waterproof phone but dragging my gear and having camera to take photos and how the phone being rained. On was kind of non responsive or incorrectly responding to the raindrops as opposed to my fingers and I also had the map to deal with the phone so it was really kind of a pain in the ass to be following the map and then try to switch to camera mode and the phone is like Oh, raindrop, raindrop and reacting to all the raindrops. You could barely see what I was looking at it was kind of foggy on the camera lens maybe. But overall was fine. I enjoyed walking through some review. Let's have water coming down the another hill. It was a curvy hill it was curving up into the right. Getting into the two o area that's the city to o ch Q o
 
-and walk walk walk I found a water fountain that is the middle of the night so no one was there and it was raining anyway so I splashed in the fountain had a lot of fun splashing in the water and just basically enjoyed myself took some pictures of a kind of a the entrance to a park or something maybe it was a cemetery I don't know. That was before the water fountain in the city. eventually got to the hotel where I was staying, utterly drenched and soaked and the guy at the front desk was like hello. Hi I made a reservation. He's like you know why the hell he's so wet? Would you have an umbrella? And I just explained you I've walked here from Yomiuri land he's like, okay, come on. Like sorry about the water. He's like, don't worry about it. It's like it just drenching dripping water on the tile there. It was tile as well as had to walk carefully. Got into the room and basically just collapsed. That hung up my junk to dry. My intent was my clothes. And it was all dry by mornings I don't remember being wet in the morning. That's one good thing about the bathrooms and hotels they tend to keep them really dry so there won't be mildew or whatever. And closed, dried and headed out the next morning. The I think the same guy was there maybe I don't remember. But that was cool. That was a walk from Yomiuri land to the hotel in Ch you
+and walk walk walk I found a water fountain that is the middle of the night so no one was there and it was raining anyway so I splashed in the fountain had a lot of fun splashing in the water and just basically enjoyed myself took some pictures of a kind of a the entrance to a park or something maybe it was a cemetery I don't know. That was before the water fountain in the city. eventually got to the hotel where I was staying, utterly drenched and soaked and the guy at the front desk was like hello. Hi I made a reservation. He's like you know why the hell he's so wet? Would you have an umbrella? And I just explained you I've walked here from Yomiuri land he's like, okay, come on. Like sorry about the water. He's like, don't worry about it. It's like it just drenching dripping water on the tile there. It was tile as well as had to walk carefully. Got into the room and basically just collapsed. That hung up my junk to dry. My intent was my clothes. And it was all dry by mornings I don't remember being wet in the morning. That's one good thing about the bathrooms and hotels they tend to keep them really dry so there won't be mildew or whatever. And closed, dried and headed out the next morning. The I think the same guy was there maybe I don't remember. But that was cool. That was a walk from Yomiuri land to the hotel in Chuo
+
+
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Water feature</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174655637_505968003764458_6058625341735838492_n_17936450878500592.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174655637_505968003764458_6058625341735838492_n_17936450878500592.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 17 22:36:36</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">WASH STA</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174326099_965258217662841_6718645016457348227_n_18104614207243178.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174326099_965258217662841_6718645016457348227_n_18104614207243178.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 17 22:31:16</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Pink azaleas maybe</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174365089_984892991914831_8839228524351372439_n_17868718745452099.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174365089_984892991914831_8839228524351372439_n_17868718745452099.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 17 22:27:40</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Splish splash waterproof feet</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174153250_824456351802772_1170652897193516672_n_17908370614759004.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174153250_824456351802772_1170652897193516672_n_17908370614759004.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 17 22:22:25</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Too tired to read this but this is where I am right now, #rainy #walk</div>
+  <div class="_3-95 _2let">
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173555108_492374152130948_8068198805042547757_n_18166976974186605.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173555108_492374152130948_8068198805042547757_n_18166976974186605.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174451259_158072306123881_7212499619507834323_n_18081551860265002.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174451259_158072306123881_7212499619507834323_n_18081551860265002.jpg" class="_2yuc _3-96" /></a></div>
+  </div>
+  <div class="post_date_usa">Apr 17, 2021, 5:20 AM</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Cool design on a manhole cover</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175599048_1113476125837918_9100459415970606528_n_17918589175623714.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175599048_1113476125837918_9100459415970606528_n_17918589175623714.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 17 20:48:09</div>
+</div>

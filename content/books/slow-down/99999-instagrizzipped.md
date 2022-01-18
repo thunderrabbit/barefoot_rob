@@ -3808,44 +3808,6 @@ draft: false
     <div class="post_date_usa">Apr 17, 2021, 4:02 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Water feature</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174655637_505968003764458_6058625341735838492_n_17936450878500592.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174655637_505968003764458_6058625341735838492_n_17936450878500592.jpg" class="_2yuc _3-96" /></a>
-    </div>
-    <div class="date_taken_local">2021 apr 17 22:36:36</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">WASH STA</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174326099_965258217662841_6718645016457348227_n_18104614207243178.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174326099_965258217662841_6718645016457348227_n_18104614207243178.jpg" class="_2yuc _3-96" /></a>
-    </div>
-    <div class="date_taken_local">2021 apr 17 22:31:16</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Pink azaleas maybe</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174365089_984892991914831_8839228524351372439_n_17868718745452099.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174365089_984892991914831_8839228524351372439_n_17868718745452099.jpg" class="_2yuc _3-96" /></a>
-    </div>
-    <div class="date_taken_local">2021 apr 17 22:27:40</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Splish splash waterproof feet</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174153250_824456351802772_1170652897193516672_n_17908370614759004.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174153250_824456351802772_1170652897193516672_n_17908370614759004.jpg" class="_2yuc _3-96" /></a>
-    </div>
-    <div class="date_taken_local">2021 apr 17 22:22:25</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Too tired to read this but this is where I am right now, #rainy #walk</div>
-    <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173555108_492374152130948_8068198805042547757_n_18166976974186605.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173555108_492374152130948_8068198805042547757_n_18166976974186605.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174451259_158072306123881_7212499619507834323_n_18081551860265002.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174451259_158072306123881_7212499619507834323_n_18081551860265002.jpg" class="_2yuc _3-96" /></a></div>
-    </div>
-    <div class="post_date_usa">Apr 17, 2021, 5:20 AM</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Cool design on a manhole cover</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175599048_1113476125837918_9100459415970606528_n_17918589175623714.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175599048_1113476125837918_9100459415970606528_n_17918589175623714.jpg" class="_2yuc _3-96" /></a>
-    </div>
-    <div class="date_taken_local">2021 apr 17 20:48:09</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cute white flowers</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172977266_3964493333635362_8729490115839242120_n_17906935561733231.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172977266_3964493333635362_8729490115839242120_n_17906935561733231.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
