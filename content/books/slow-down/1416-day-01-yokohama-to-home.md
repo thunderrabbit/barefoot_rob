@@ -61,6 +61,14 @@ Second bag upgrade to waterproof.. we still use the waterproof box in her garden
 
 Stopped at 11 of 21km at convenience store
 
+
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Lin and I at 11 of 21 kilometers</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173463533_1112364635951271_5792201743481041732_n_18148528660095658.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173463533_1112364635951271_5792201743481041732_n_18148528660095658.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 16 17:20:47</div>
+</div>
+
 So tired and so genki, and so lost even when relatively close to home.  Super glad to have Lin's guidance.
 
 5% finished by the time we got home.
