@@ -12,7 +12,7 @@ our $content_directory = "$home/barefoot_rob_master/content";
 our $blog_directory = "/blog";    #  appended to $content_directory when writing actual file.
 our $events_directory = "/events";    #  appended to $content_directory when writing actual file.
 our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
-our $slow_down_book_dir = "/quests/slow-down";    #  appended to $content_directory when writing actual file.
+our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directory when writing actual file.
 
 our %walk_location_files = (
     "yoyogi_park" => [
@@ -99,7 +99,7 @@ our %event_template_files = (
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
-    "book_chapter" => {"book" => 1},
+    "book_chapter" => {"book" => 1, "day-" => 1, "walk" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "barefoot_walk" => {"walk" => 1, "barefoot" => 1, "event" => 1},
