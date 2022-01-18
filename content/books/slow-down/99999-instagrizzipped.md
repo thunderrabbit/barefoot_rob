@@ -3810,202 +3810,26 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Water feature</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174655637_505968003764458_6058625341735838492_n_17936450878500592.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174655637_505968003764458_6058625341735838492_n_17936450878500592.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">0</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="date_taken_local">2021 apr 17 22:36:36</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">3</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
     </div>
-    <div class="post_date_usa">Apr 17, 2021, 5:37 AM</div>
+    <div class="date_taken_local">2021 apr 17 22:36:36</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">WASH STA</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174326099_965258217662841_6718645016457348227_n_18104614207243178.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174326099_965258217662841_6718645016457348227_n_18104614207243178.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">1</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="date_taken_local">2021 apr 17 22:31:16</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">4</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
     </div>
-    <div class="post_date_usa">Apr 17, 2021, 5:36 AM</div>
+    <div class="date_taken_local">2021 apr 17 22:31:16</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Pink azaleas maybe</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174365089_984892991914831_8839228524351372439_n_17868718745452099.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174365089_984892991914831_8839228524351372439_n_17868718745452099.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">0</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="date_taken_local">2021 apr 17 22:27:40</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">3</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
     </div>
-    <div class="post_date_usa">Apr 17, 2021, 5:28 AM</div>
+    <div class="date_taken_local">2021 apr 17 22:27:40</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Splish splash waterproof feet</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174153250_824456351802772_1170652897193516672_n_17908370614759004.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174153250_824456351802772_1170652897193516672_n_17908370614759004.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">0</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="date_taken_local">2021 apr 17 22:22:25</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">3</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
     </div>
-    <div class="post_date_usa">Apr 17, 2021, 5:23 AM</div>
+    <div class="date_taken_local">2021 apr 17 22:22:25</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Too tired to read this but this is where I am right now, #rainy #walk</div>
@@ -4018,102 +3842,8 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cool design on a manhole cover</div>
     <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175599048_1113476125837918_9100459415970606528_n_17918589175623714.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175599048_1113476125837918_9100459415970606528_n_17918589175623714.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">0</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="date_taken_local">2021 apr 17 20:48:09</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">3</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
     </div>
-    <div class="post_date_usa">Apr 17, 2021, 3:48 AM</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Lin and I at 11 of 21 kilometers</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173463533_1112364635951271_5792201743481041732_n_18148528660095658.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173463533_1112364635951271_5792201743481041732_n_18148528660095658.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene capture type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">standard</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Scene type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">1</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="date_taken_local">2021 apr 16 17:20:47</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">4</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="post_date_usa">Apr 16, 2021, 12:52 AM</div>
+    <div class="date_taken_local">2021 apr 17 20:48:09</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cute white flowers</div>
