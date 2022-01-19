@@ -7,7 +7,7 @@ EventDate: "%s"
 aliases: [
     "alias_path",
 ]
-draft: true
+draft: false
 ---
 
 <img
