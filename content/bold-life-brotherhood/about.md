@@ -1,12 +1,12 @@
 ---
-title: "Bold Life Brotherhood"
+title: "Bold Life Tribe"
 tags: [ "blb", "bold", "purpose", "life", "men", "event" ]
 categories: [ "blb" ]
 author: Rob Nugen
 date: 2020-11-01T09:25:00+09:00
 ---
 
-## Bold Life Brotherhood ##
+## Bold Life Tribe ##
 
 * Monday nights, 7pm Japan time (UTC+9).
 * For men ready for more in life
@@ -27,7 +27,7 @@ date: 2020-11-01T09:25:00+09:00
 
 ## What is Bold Life Mastery? ##
 
-The [Bold Life Brotherhood](https://www.theboldlifebrotherhood.com/) year-long course can be repeated
+The Bold Life Tribe year-long course can be repeated
 indefinitely as we take daily bold action towards improving our lives.
 
 [![bold life brotherhood wheel](//b.robnugen.com/blog/2020/blb/thumbs/blb_wheel.png)](//b.robnugen.com/blog/2020/blb/blb_wheel.png)
@@ -36,7 +36,7 @@ Every month will focus on a different core virtue.  (See Upcoming Schedule below
 
 ## The Jungian Archetypes ##
 
-Bold Life Brotherhood draws on the energies found in the male Jungian
+Bold Life Tribe draws on the energies found in the male Jungian
 archetypes. These are sensible and practical. They are universally
 shared ideas, symbols, and energies. When you make an important
 decision, you exercise careful thought and wisdom (King energy). When

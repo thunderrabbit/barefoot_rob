@@ -1,6 +1,6 @@
 ---
-title: "bold life brotherhood"
-tags: [ "blb", "copy" ]
+title: "bold life tribe"
+tags: [ "blt", "copy" ]
 categories: [ "blog" ]
 author: Rob Nugen
 draft: true
@@ -17,6 +17,6 @@ The solution to being distracted, disorganized, and unproductive is to get aroun
 .
 You are the average of the five people you spend the most time with.
 .
-Here at the bold life brotherhood, we connect every single Monday to sharpen our skills, increase our productivity, and set weekly actionable goals to overcome that part of ourselves that settles for less.�
+Here at the bold life tribe, we connect every single Monday to sharpen our skills, increase our productivity, and set weekly actionable goals to overcome that part of ourselves that settles for less.
 .
 Take bold consistent action to move into your highest ideal of life
