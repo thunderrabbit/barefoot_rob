@@ -11,6 +11,6 @@ draft: true
 ---
 
 <img
-src="%episode_image"
+src="episode_image"
 alt=""
 class="title" />

@@ -11,7 +11,7 @@ draft: false
 ---
 
 <img
-src="%https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/2021_apr_18_francois_looking_for_water.jpeg"
+src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/2021_apr_18_francois_looking_for_water.jpeg"
 alt=""
 class="title" />
 
