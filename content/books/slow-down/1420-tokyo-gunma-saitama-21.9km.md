@@ -2,10 +2,10 @@
 title: "Tokyo, Gunma, Saitama 21.9km"
 tags: [ "book", "day-5", "walk" ]
 author: Rob Nugen
-date: 2022-01-20T11:34:07+09:00
+date: 2022-01-20T11:35:41+09:00
 EventDate: "2021-04-20"
 aliases: [
-    "/books/slow-down/1420-tokyo-gunma-saitama-21.9km",
+    "/en/books/slow-down/1420-tokyo-gunma-saitama-21.9km",
 ]
 draft: false
 ---

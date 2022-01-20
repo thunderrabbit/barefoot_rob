@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventDate: "%s"
 aliases: [
-    "alias_path",
+    "/enalias_path",
 ]
 draft: false
 ---
