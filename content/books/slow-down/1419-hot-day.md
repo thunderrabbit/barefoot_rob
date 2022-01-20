@@ -70,7 +70,11 @@ From there it was just a few minutes walk to the hotel and oh my God those minut
   <div class="date_taken_local">2021 apr 19 14:30:13</div>
 </div>
 
-Led me to where I saw a crane under a bridge
+https://www.reddit.com/r/japanlife/comments/s77qqb/comment/ht9fc2p/?context=3
+
+https://goo.gl/maps/aLiqeHSmfKyHZUc7A
+
+That led me to where I saw a crane under a bridge
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Crane</div>
