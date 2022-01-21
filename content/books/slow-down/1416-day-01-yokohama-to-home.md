@@ -44,7 +44,11 @@ Yuumi gave me gifts: chocolate and crackers. She had also done a similarly long 
 and lots of hugs and then basically started walking. The beautiful thing is that my wife had driven the route, many, many times, and knew exactly how to get home from there. On this day, I didn't have to use my phone as a map, and could just see if it has a camera, which I did on the way from Yokohama to our house. One of the first pictures, was that François sitting next to a cool statue. And my friend. Shraddhan helped take some photos there as well. I was glad that Shraddhan and Lin got along well,
 and happily surprised Shraddhan joined for quite a bit.  So glad they were happily talking with each other when I was slow with my bag.
 
-Pizza place; he paid!
+#### date: '2021-04-16T13:44:02+09:00'
+
+We went to a Hawaiian Cafe for lunch and Shraddhan generously picked up the check for the three of us.
+
+For some reason I did not think to take any pictures.
 
 Bye Shraddhan at the corner of Nittori as he turned right to go to Shin Yokohama Station. I tried to take a photo of him from far away.
 
@@ -59,6 +63,33 @@ First bag upgrade; proof of concept but crushed the box lid.
 
 Second bag upgrade to waterproof.. we still use the waterproof box in her garden.
 
+#### date: '2021-04-16T16:31:38+09:00'
+
+    title: 'two consecutive upgrades'
+    location: 'geo:35.5241,139.59129;u=72.9000015258789'
+
+[![2021 apr 16 before getting a base box](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/gear/thumbs/2021_apr_16_before_getting_a_base_box.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/gear/2021_apr_16_before_getting_a_base_box.jpeg)
+
+This picture is from when we said bye to Clare and Yuumi.
+
+See how the bag looks all crushed and tired?
+
+For my computer's safety I had it up at the top of the bag so it wouldn't get crushed, but it was causing the bag to pull the handle as if to collapse the cart.
+
+Lin had an excellent idea of getting a box to hold most of the heavy stuff, i.e. computer and two blank book diaries.  
+
+
+[![2021 apr 16 white box with crushable lid](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/gear/thumbs/2021_apr_16_white_box_with_crushable_lid.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/gear/2021_apr_16_white_box_with_crushable_lid.jpeg)
+
+We bought this box at a home center, with the idea that if it doesn't work then can use it in her office.  It worked well enough for a while but the lid kept getting crushed under the weight of the bag and presumably putting pressure on the computer inside the box.
+
+
+[![2021 apr 16 green box with strong lid](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/gear/thumbs/2021_apr_16_green_box_with_strong_lid.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/gear/2021_apr_16_green_box_with_strong_lid.jpeg)
+
+Now, it looks like we've solved it by going to a heavier duty home center and getting a heavier duty box.
+
+Super thanks to Lin for knowing that that was a heavier duty home center and would have the stuff we need.
+
 Stopped at 11 of 21km at convenience store
 
 
@@ -72,3 +103,13 @@ Stopped at 11 of 21km at convenience store
 So tired and so genki, and so lost even when relatively close to home.  Super glad to have Lin's guidance.
 
 5% finished by the time we got home.
+
+#### date: '2021-04-16T22:27:58+09:00'
+
+    title: 'finished day one.'
+
+( this is being written 12 hours after the datestamp )
+
+Arrived home last night at 22:05, super sluggish, barely able to drag self up and down the stairs.  The first few times I went down, I walked backwards because my legs could not handle going forward down the stairs.
+
+So so grateful for Lin joining me and sorting out the luggage issue.
