@@ -5,6 +5,7 @@ author: Rob Nugen
 date: 2022-01-19T09:05:19+09:00
 EventDate: "2021-04-19"
 aliases: [
+    "/en/books/slow-down/1419-day-04-hot-day",
     "/en/books/slow-down/1419-hot-day",
     "/en/books/slow-down/1419",
 ]
