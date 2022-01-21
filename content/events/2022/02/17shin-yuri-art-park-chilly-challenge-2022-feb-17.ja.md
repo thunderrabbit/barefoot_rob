@@ -1,23 +1,16 @@
 ---
 title: "14時から新ゆりアートパークスで裸足でウォーキング"
-tags: [ "2022", "art", "barefoot", "community", "event", "jan", "park", "shinyuri", "walk" ]
+tags: [ "artpark", "barefoot", "challenge", "chilly", "event", "shinyuri", "walk" ]
 author: Rob Nugen
-date: 2021-12-24T16:30:32+09:00
+date: 2022-01-21T10:13:57+09:00
 EventTime: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
-EventDate: "2022-01-20"
+EventDate: "2022-02-17"
 aliases: [
-    "/events/2022/01/20welcome-2022-in-shin-yuri-art-park-",
+    "/ja/events/2022/02/17shin-yuri-art-park-chilly-challenge-2022-feb-17",
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_dec_16_andy_asakawa_oshita_kyoko_rob_hiro_james_shinagawa.jpg" "2021 dec 16 andy asakawa oshita kyoko rob hiro james shinagawa" %}}
-
-楽しかった！
-
-[![2022 jan 20 art park barefoot group](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_art_park_barefoot_group.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group.jpg)
-[![2022 jan 20 leaf pass 1](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_1.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_1.jpg)
-[![2022 jan 20 leaf pass 2](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_2.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_2.jpg)
-
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group.jpg" "2022 jan 20 art park barefoot group" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
@@ -29,13 +22,13 @@ aliases: [
 
 #### 第一集合場所
 
-2022年1月20日　13:30
+2022年2月17日　13:30
 
 新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第二集合場所
 
-2022年1月20日　14:00
+2022年2月17日　14:00
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 

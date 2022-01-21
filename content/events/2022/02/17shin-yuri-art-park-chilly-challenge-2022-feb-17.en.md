@@ -1,22 +1,16 @@
 ---
-title: "Welcome 2022 in Shin Yuri Art Park!"
-tags: [ "2022", "art", "barefoot", "community", "event", "jan", "park", "shinyuri", "walk" ]
+title: "Shin Yuri Art Park Chilly Challenge 2022 Feb 17"
+tags: [ "artpark", "barefoot", "challenge", "chilly", "event", "shinyuri", "walk" ]
 author: Rob Nugen
-date: 2021-12-24T16:30:32+09:00
+date: 2022-01-21T10:13:57+09:00
 EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
-EventDate: "2022-01-20"
+EventDate: "2022-02-17"
 aliases: [
-    "/events/2022/01/20welcome-2022-in-shin-yuri-art-park-",
+    "/en/events/2022/02/17shin-yuri-art-park-chilly-challenge-2022-feb-17",
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_dec_16_andy_asakawa_oshita_kyoko_rob_hiro_james_shinagawa.jpg" "2021 dec 16 andy asakawa oshita kyoko rob hiro james shinagawa" %}}
-
-We had a great time!
-
-[![2022 jan 20 art park barefoot group](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_art_park_barefoot_group.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group.jpg)
-[![2022 jan 20 leaf pass 1](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_1.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_1.jpg)
-[![2022 jan 20 leaf pass 2](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_2.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_2.jpg)
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group.jpg" "2022 jan 20 art park barefoot group" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
@@ -28,13 +22,13 @@ Every Third Thursday of the month
 
 #### First Meeting Point
 
-Thursday 20 January 2022, 13:30
+Thursday 17 February 2022, 13:30
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point
 
-Thursday 20 January 2022, 14:00
+Thursday 17 February 2022, 14:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
