@@ -1,10 +1,10 @@
 ---
 title: "裸足でウォーク＆トーク～林試の森公園"
-tags: [ "barefoot", "event", "meguro", "park", "walk" ]
+tags: [ "barefoot", "event", "meguro", "park", "walk", "林試の森公園" ]
 author: Rob Nugen
 date: 2022-01-13T14:15:07+09:00
 EventTime: "gather at 11:40; enter the Park at 12:00"
-EventDate: "2022-01-22"
+EventDate: "2022-01-22T12:00:00+09:00"
 aliases: [
     "/ja/events/2022/01/22hello-rinshi-no-mori-park-barefoot-walk-and-talk",
 ]

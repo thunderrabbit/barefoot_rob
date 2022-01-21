@@ -4,7 +4,7 @@ tags: [ %s ]
 author: Rob Nugen
 date: %s
 EventTime: "唐木田駅でFIRST_GATHERING_TIMEに集合"
-EventDate: "%s"
+EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/jaalias_path",
 ]

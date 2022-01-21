@@ -4,7 +4,7 @@ tags: [ "artpark", "barefoot", "challenge", "chilly", "event", "shinyuri", "walk
 author: Rob Nugen
 date: 2022-01-21T10:13:57+09:00
 EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
-EventDate: "2022-02-17"
+EventDate: "2022-02-17T14:00:00+09:00"
 aliases: [
     "/en/events/2022/02/17shin-yuri-art-park-chilly-challenge-2022-feb-17",
 ]

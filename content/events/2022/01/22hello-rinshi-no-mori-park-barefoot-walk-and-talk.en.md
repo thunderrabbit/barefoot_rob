@@ -1,10 +1,10 @@
 ---
 title: "Hello Rinshi-no-Mori Park barefoot Walk and Talk"
-tags: [ "barefoot", "event", "meguro", "park", "walk" ]
+tags: [ "barefoot", "event", "meguro", "park", "walk", "林試の森公園" ]
 author: Rob Nugen
 date: 2022-01-13T14:15:07+09:00
 EventTime: "gather at 11:40; meet in Rinshi-no-Mori Park at 12:00"
-EventDate: "2022-01-22"
+EventDate: "2022-01-22T12:00:00+09:00"
 aliases: [
     "/en/events/2022/01/22hello-rinshi-no-mori-park-barefoot-walk-and-talk",
 ]

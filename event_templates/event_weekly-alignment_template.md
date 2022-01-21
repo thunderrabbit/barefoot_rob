@@ -4,7 +4,7 @@ tags: [ %s ]
 author: Rob Nugen
 date: %s
 EventTime: "7pm ~ 8:30pm"
-EventDate: "%s"
+EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "alias_path",
 ]

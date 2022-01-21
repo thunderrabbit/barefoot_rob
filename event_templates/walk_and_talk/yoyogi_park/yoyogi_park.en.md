@@ -4,7 +4,7 @@ tags: [ %s ]
 author: Rob Nugen
 date: %s
 EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
-EventDate: "%s"
+EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
 ]

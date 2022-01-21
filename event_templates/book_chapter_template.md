@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventDate: "%s"
+EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
 ]
