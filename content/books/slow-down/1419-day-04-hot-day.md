@@ -63,6 +63,19 @@ I estimated in just 1.2 kilometer I would get to a convenience store which was v
 
 From there it was just a few minutes walk to the hotel and oh my God those minutes took forever I could see the stand of trees and what I hoped was the sign for the hotel what looked like a mile away and step by step going across the parking lot I finally got to the next road to turn right and then along that road and cross that road and watch out for traffic and go and go then turn left at the next street and then the road started to get really rough and painful on My feet and somehow got there and got to the entrance and was so so grateful that they greeted me and realized who I must be because I had made a reservation months in advance and they were like wow and actually took a picture with me it was really sweet and I'm really grateful for their support and they gave me a free drink as I waited for the room to be ready and then headed upstairs.
 
+#### date: '2021-04-19T20:54:54+09:00'
+
+    title: 'lovely greetings at Hotel Will Resort'
+    location: 'geo:35.89916,139.38705;u=1799.9990234375'
+
+The owners greeted me as I came in struggling with my luggage.
+
+They even opened up a non-smoking room for me at my request.
+
+Thank you for the lovey support!
+
+[![2021 apr 19 welcome to hotel will resort](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-04/thumbs/2021_apr_19_welcome_to_hotel_will_resort.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-04/2021_apr_19_welcome_to_hotel_will_resort.jpeg)          
+
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François at a tunnel</div>
