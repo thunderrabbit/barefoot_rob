@@ -2651,7 +2651,7 @@ draft: false
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176524640_905140653390419_4468515035942699057_n_18008058139312444.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176524640_905140653390419_4468515035942699057_n_18008058139312444.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175993570_480827226680997_456482234348278551_n_17914710067673856.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175993570_480827226680997_456482234348278551_n_17914710067673856.jpg" class="_2yuc _3-96" /></a></div>
     </div>
-    <div class="post_date_usa">Apr 23, 2021, 4:34 PM</div>
+    <div class="date_taken_local">2021 apr 24 09:34:02</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
@@ -2720,66 +2720,6 @@ draft: false
       </table>
     </div>
     <div class="date_taken_local">2021 apr 24 09:08:30</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Interesting to see how this highway just cuts through all these smaller roads that were lined up in a grid.<br><br>I imagine there was a lot of discussion and consternation when this highway was planned to come through.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176550492_187318296566478_1267252213658064951_n_18160523875193835.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176550492_187318296566478_1267252213658064951_n_18160523875193835.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">4</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="post_date_usa">Apr 22, 2021, 8:52 PM</div>
-  </div>
-  <div class="image_start uiBoxWhite noborder">
-    <div class="title_text">Mountains coming soon</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175258081_511154526565497_7579762835881361967_n_17984992762357705.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175258081_511154526565497_7579762835881361967_n_17984992762357705.jpg" class="_2yuc _3-96" /></a>
-      <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <tbody>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Device ID</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">android-ff458253b5c6d7f6</div>
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Date taken</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-
-            </td>
-          </tr>
-          <tr class="_51mx">
-            <td class="_51m- _2pin _2oao">
-              <div class="_tqp">Source type</div>
-            </td>
-            <td class="_51m- _2pin _2piu _23bw _51mw">
-              <div class="_tqp">4</div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="date_taken_local">2021 apr 23 13:29:21</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Here is a splinter the doctor cut out of my foot.<br><br>It&#039;s now 3 hours later and my foot hurts 10 times worse now even while not standing on it.</div>
