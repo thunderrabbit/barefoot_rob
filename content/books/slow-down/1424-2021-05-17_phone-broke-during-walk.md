@@ -15,10 +15,36 @@ draft: false
 ---
 
 <img
-src=""
+src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176524640_905140653390419_4468515035942699057_n_18008058139312444.jpg"
 alt=""
 class="title" />
 
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Tunnel under a small power tower</div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174567743_1738492246331267_5930242986606607191_n_18175775314105437.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174567743_1738492246331267_5930242986606607191_n_18175775314105437.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 24 12:02:34</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text">Texas T-bone</div>
+  <div class="_3-95 _2let">
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176524640_905140653390419_4468515035942699057_n_18008058139312444.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176524640_905140653390419_4468515035942699057_n_18008058139312444.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175993570_480827226680997_456482234348278551_n_17914710067673856.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175993570_480827226680997_456482234348278551_n_17914710067673856.jpg" class="_2yuc _3-96" /></a></div>
+  </div>
+  <div class="date_taken_local">2021 apr 24 09:34:02</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text"></div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176926906_3876730572446680_3736527106061450230_n_17889912986032513.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176926906_3876730572446680_3736527106061450230_n_17889912986032513.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 24 09:11:11</div>
+</div>
+<div class="image_start uiBoxWhite noborder">
+  <div class="title_text"></div>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176348058_215288176625140_2984815956492727196_n_17894394854011374.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176348058_215288176625140_2984815956492727196_n_17894394854011374.jpg" class="_2yuc _3-96" /></a>
+  </div>
+  <div class="date_taken_local">2021 apr 24 09:08:30</div>
+</div>
 
 So my phone died during the walk, it was surprising to say the
 least. I know exactly where it happened. I don't know why it
