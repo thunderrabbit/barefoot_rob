@@ -1,10 +1,18 @@
 ---
 title: "Bold Life Tribe"
-tags: [ "blb", "bold", "purpose", "life", "men", "event" ]
-categories: [ "blb" ]
+tags: [ "bold-life-tribe", "bold", "purpose", "life", "men", "event" ]
+categories: [ "bold-life-tribe" ]
 author: Rob Nugen
-date: 2020-11-01T09:25:00+09:00
+date: 2021-11-01T09:25:00+09:00
+aliases: [
+"/en/bold-life-brotherhood/about/",
+"/en/bold-life-tribe/about/",
+"/bold-life-brotherhood/about/",
+"/bold-life-tribe/about/",
+]
 ---
+
+Bold Life Brotherhood is now open to all:
 
 ## Bold Life Tribe ##
 

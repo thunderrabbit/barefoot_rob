@@ -1,9 +1,15 @@
 ---
-title: "Bold Life Brotherhood - Registration"
-tags: [ "blb", "registration" ]
-categories: [ "blb" ]
+title: "Bold Life Tribe - Registration"
+tags: [ "bold-life-tribe", "registration" ]
+categories: [ "bold-life-tribe" ]
 author: Rob Nugen
-date: 2020-05-11T00:23:00+09:00
+date: 2021-11-11T00:23:00+09:00
+aliases: [
+"/en/bold-life-brotherhood/registration/",
+"/en/bold-life-tribe/registration/",
+"/bold-life-brotherhood/registration/",
+"/bold-life-tribe/registration/",
+]
 ---
 
 Ready to start your Bold Life?
@@ -31,7 +37,7 @@ netlify-honeypot="sage" data-netlify="true">
 
 <div>
     <label class="pure-form" for="inquiry">
-        What do you hope to gain from joining Bold Life Brotherhood?
+        What do you hope to gain from joining Bold Life Tribe?
         <textarea id="inquiry" rows="10" cols="120" name="inquiry"></textarea>
     </label>
 </div>
