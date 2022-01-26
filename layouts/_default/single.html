@@ -20,7 +20,7 @@
                             {{ if isset .Params "categories" }}
                                 under
                                 {{ range .Params.categories }}
-                                    <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absURL }}'>{{ . }}</a>
+                                    <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absLangURL }}'>{{ . }}</a>
                                 {{ end }}
                             {{ end }}
                         </p>
