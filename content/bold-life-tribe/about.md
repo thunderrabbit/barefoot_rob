@@ -3,7 +3,7 @@ title: "Bold Life Tribe"
 tags: [ "bold-life-tribe", "bold", "purpose", "life", "men", "event" ]
 categories: [ "bold-life-tribe" ]
 author: Rob Nugen
-date: 2021-11-01T09:25:00+09:00
+date: 2021-11-11T09:25:00+09:00
 aliases: [
 "/en/bold-life-brotherhood/about/",
 "/en/bold-life-tribe/about/",
@@ -12,9 +12,11 @@ aliases: [
 ]
 ---
 
-Bold Life Brotherhood is now open to all:
+Bold Life Brotherhood was for men.
 
-## Bold Life Tribe ##
+Bold Life Tribe is open to all:
+
+## [/en/bold-life-tribe/](Bold Life Tribe) ##
 
 * Monday nights, 7pm Japan time (UTC+9).
 * For men ready for more in life
@@ -38,7 +40,7 @@ Bold Life Brotherhood is now open to all:
 The Bold Life Tribe year-long course can be repeated
 indefinitely as we take daily bold action towards improving our lives.
 
-[![bold life brotherhood wheel](//b.robnugen.com/blog/2020/blb/thumbs/blb_wheel.png)](//b.robnugen.com/blog/2020/blb/blb_wheel.png)
+[![bold life tribe wheel](//b.robnugen.com/blog/2020/blb/thumbs/blb_wheel.png)](//b.robnugen.com/blog/2020/blb/blb_wheel.png)
 
 Every month will focus on a different core virtue.  (See Upcoming Schedule below)
 
@@ -54,7 +56,7 @@ which kind of energy to bring to which situation.
 
 ## Costs (for four meetings each month) ##
 
-You are welcome to check out your first meeting free.  Simply [register](/bold-life-brotherhood/registration/) to access the meeting.
+You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
 * ¥10,000: four sessions per month
 

@@ -3,7 +3,7 @@ title: "Bold Life Tribe - Registration"
 tags: [ "bold-life-tribe", "registration" ]
 categories: [ "bold-life-tribe" ]
 author: Rob Nugen
-date: 2021-11-11T00:23:00+09:00
+date: 2021-11-07T13:23:00+09:00
 aliases: [
 "/en/bold-life-brotherhood/registration/",
 "/en/bold-life-tribe/registration/",

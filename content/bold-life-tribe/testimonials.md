@@ -3,7 +3,7 @@ title: "Testimonials"
 tags: [ "blb", "testimonials", "men" ]
 categories: [ "blb" ]
 author: Rob Nugen
-date: 2021-11-13T09:23:00+09:00
+date: 2021-11-05T09:23:00+09:00
 aliases: [
 "/en/bold-life-brotherhood/testimonials/",
 "/en/bold-life-tribe/testimonials/",

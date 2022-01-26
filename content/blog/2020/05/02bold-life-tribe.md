@@ -4,12 +4,6 @@ tags: [ "blt", "bold", "purpose", "life", "men", "women", "event" ]
 categories: [ "blt" ]
 author: Rob Nugen
 date: 2020-11-01T09:25:00+09:00
-aliases: [
-  "/bold-life-brotherhood/",
-  "/en/bold-life-brotherhood/",
-  "/bold-life-tribe/",
-  "/en/bold-life-tribe/",
-]
 ---
 
 ## Bold Life Tribe ##
