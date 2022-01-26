@@ -46,10 +46,10 @@ Every month will focus on a different core virtue.  (See Upcoming Schedule below
 
 ## The Jungian Archetypes ##
 
-Bold Life Tribe draws on the energies found in the male Jungian
+Bold Life Tribe draws on the energies found in the Jungian
 archetypes. These are sensible and practical. They are universally
 shared ideas, symbols, and energies. When you make an important
-decision, you exercise careful thought and wisdom (King energy). When
+decision, you exercise careful thought and wisdom (Sovereign energy). When
 protecting your family from harm, your energy would be sharp, focused,
 and fierce (Warrior energy). It’s that simple. The key is knowing
 which kind of energy to bring to which situation.
