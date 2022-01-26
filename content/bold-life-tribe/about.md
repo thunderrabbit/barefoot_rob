@@ -58,7 +58,7 @@ which kind of energy to bring to which situation.
 
 You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
-* ~~¥10,000~~ **relaunch rate until February 28, 2022 lock in ¥5,000** for four sessions per month
+* ~~¥10,000~~ **Special 2022 Relaunch Rate until February 28!** lock in ¥5,000 for four sessions per month
 
 <!--  5,000 yen button -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
