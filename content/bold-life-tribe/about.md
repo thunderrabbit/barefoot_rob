@@ -58,14 +58,25 @@ which kind of energy to bring to which situation.
 
 You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
-* ¥10,000: four sessions per month
+* ~~¥10,000~~ **relaunch rate until February 28, 2022 lock in ¥5,000** for four sessions per month
 
+<!--  5,000 yen button -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="TWW92AERS7APE">
+<input type="image" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<!--  / 5,000 yen button -->
+<!--   10,000 yen button  
+- ->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="T32GVS6KMJFGC">
 <input type="image" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+<!-- /  10,000 yen button  -->
 
 Unsubscribe anytime.
 
