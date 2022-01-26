@@ -3,7 +3,7 @@ title: "About Bold Life Tribe"
 tags: [ "bold-life-tribe", "bold", "purpose", "life", "men", "event" ]
 categories: [ "bold-life-tribe" ]
 author: Rob Nugen
-date: 2021-11-11T09:25:00+09:00
+date: 2022-01-26T09:25:00+09:00
 aliases: [
 "/en/bold-life-brotherhood/about/",
 "/en/bold-life-tribe/about/",
@@ -58,7 +58,9 @@ which kind of energy to bring to which situation.
 
 You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
-* ~~¥10,000~~ **Special 2022 Relaunch Rate until February 28!** lock in ¥5,000 for four sessions per month
+* ~~¥10,000~~
+
+**Special 2022 Relaunch Rate until February 28!** lock in ¥5,000 per month
 
 <!--  5,000 yen button -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
