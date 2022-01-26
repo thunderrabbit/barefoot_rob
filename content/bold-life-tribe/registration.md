@@ -1,5 +1,5 @@
 ---
-title: "Bold Life Tribe - Registration"
+title: "Bold Life Tribe Registration"
 tags: [ "bold-life-tribe", "registration" ]
 categories: [ "bold-life-tribe" ]
 author: Rob Nugen
