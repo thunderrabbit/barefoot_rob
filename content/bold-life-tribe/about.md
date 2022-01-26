@@ -1,5 +1,5 @@
 ---
-title: "Bold Life Tribe"
+title: "About Bold Life Tribe"
 tags: [ "bold-life-tribe", "bold", "purpose", "life", "men", "event" ]
 categories: [ "bold-life-tribe" ]
 author: Rob Nugen
