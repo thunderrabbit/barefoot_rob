@@ -16,7 +16,7 @@ Bold Life Brotherhood was for men.
 
 Bold Life Tribe is open to all:
 
-## [/en/bold-life-tribe/](Bold Life Tribe) ##
+## [Bold Life Tribe](/en/bold-life-tribe/) ##
 
 * Monday nights, 7pm Japan time (UTC+9).
 * For men ready for more in life
