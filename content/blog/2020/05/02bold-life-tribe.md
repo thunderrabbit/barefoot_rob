@@ -6,7 +6,9 @@ author: Rob Nugen
 date: 2020-11-01T09:25:00+09:00
 ---
 
-## Bold Life Tribe ##
+Bold Life Brotherhood is now open to all:
+
+## [Bold Life Tribe](/bold-life-tribe/) ##
 
 * Monday nights, 7pm Japan time (UTC+9).
 * For men ready for more in life
