@@ -32,6 +32,8 @@ Circular space in [Rinshi-no-Mori Park](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
+{{< youtube rCp-1Xmf44c >}}
+
 #### Details
 
 *Enjoy Nature*
