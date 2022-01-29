@@ -35,7 +35,8 @@ February is the month of __TRUTH__
 #### This Week
 
 
-
 **Costs:**
 
 First session is free
+
+<div class="note">Image credit https://www.deviantart.com/marcospsychic/art/Marcos-Family-Sword-Crimson-Feather-Sword-Name-374302221</div>
