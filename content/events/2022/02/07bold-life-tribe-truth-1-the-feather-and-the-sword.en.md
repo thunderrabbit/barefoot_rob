@@ -2,7 +2,7 @@
 title: "Bold Life Tribe - TRUTH 1 - the feather and the sword"
 tags: [ "2022", "blt", "bold-life-tribe", "event", "february", "online" ]
 author: Rob Nugen
-date: 2022-01-29T11:34:03+09:00
+date: 2022-01-29T11:37:34+09:00
 EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-02-07T19:00:00+09:00"
 aliases: [
@@ -39,4 +39,6 @@ February is the month of __TRUTH__
 
 First session is free
 
-<div class="note">Image credit https://www.deviantart.com/marcospsychic/art/Marcos-Family-Sword-Crimson-Feather-Sword-Name-374302221</div>
+<div class="note">Image credit:
+<a href="https://www.deviantart.com/marcospsychic/art/Marcos-Family-Sword-Crimson-Feather-Sword-Name-374302221">https://www.deviantart.com/marcospsychic/art/Marcos-Family-Sword-Crimson-Feather-Sword-Name-374302221</a>
+</div>
