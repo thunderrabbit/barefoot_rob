@@ -34,6 +34,7 @@ February is the month of __TRUTH__
 
 #### This Week
 
+In order to proceed in life cleanly, we sometimes have to state hard truths to people in our lives - as well as state them to ourselves.  But we don’t have to SAY them hard.  We can speak our truths either with a sword or a feather - depending on whom we are speaking to - and how they are able to hear us.
 
 **Costs:**
 

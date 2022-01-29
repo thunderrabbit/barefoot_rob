@@ -2,7 +2,7 @@
 title: "Bold Life Tribe - TRUTH 1 - the feather and the sword"
 tags: [ "2022", "blt", "bold-life-tribe", "event", "february", "online" ]
 author: Rob Nugen
-date: 2022-01-29T11:37:34+09:00
+date: 2022-01-29T11:48:42+09:00
 EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-02-07T19:00:00+09:00"
 aliases: [
@@ -34,6 +34,7 @@ February is the month of __TRUTH__
 
 #### This Week
 
+In order to proceed in life cleanly, we sometimes have to state hard truths to people in our lives - as well as state them to ourselves.  But we don’t have to SAY them hard.  We can speak our truths either with a sword or a feather - depending on whom we are speaking to - and how they are able to hear us.
 
 **Costs:**
 
