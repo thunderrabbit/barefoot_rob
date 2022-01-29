@@ -95,6 +95,9 @@ our %event_template_files = (
     "quest_update" => [
       "$home/barefoot_rob_master/event_templates/niigata_2021_walking_update.md",
     ],
+    "bold_life_tribe" => [
+      "$home/barefoot_rob_master/event_templates/bold-life-tribe/weekly-online-events.en.md",
+    ],
 );
 
 our %event_tag_hashes = (
@@ -104,6 +107,7 @@ our %event_tag_hashes = (
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "barefoot_walk" => {"walk" => 1, "barefoot" => 1, "event" => 1},
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
+    "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
 );
 
 our %event_title_prefixes = (
@@ -113,4 +117,5 @@ our %event_title_prefixes = (
     "barefoot_walk" => "",
     "book_chapter" => "",
     "quest_update" => "",
+    "bold_life_tribe" => "Bold Life Tribe - ",
 );
