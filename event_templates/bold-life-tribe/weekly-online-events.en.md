@@ -18,6 +18,8 @@ Live up to your full potential.
 
 You don't have to do it alone!
 
+Join [Bold Life Tribe!](/en/bold-life-tribe/)
+
 #### When:
 
 First 4 Mondays every month
