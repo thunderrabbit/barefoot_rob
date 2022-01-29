@@ -1,6 +1,6 @@
 ---
 title: "About Bold Life Tribe"
-tags: [ "bold-life-tribe", "bold", "purpose", "life", "men", "event" ]
+tags: [ "bold-life-tribe", "bold", "purpose", "life", "men", "women", "event" ]
 categories: [ "bold-life-tribe" ]
 author: Rob Nugen
 date: 2022-01-26T09:25:00+09:00
@@ -19,7 +19,7 @@ Bold Life Tribe is open to all:
 ## [Bold Life Tribe](/en/bold-life-tribe/) ##
 
 * Monday nights, 7pm Japan time (UTC+9).
-* For men ready for more in life
+* For men and women ready for more in life
 * Subscribe below to book your place
 
 ### ⭕ BUILD LEADERSHIP ###
