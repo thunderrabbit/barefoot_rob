@@ -2,11 +2,11 @@
 title: "Bold Life Tribe - TRUTH 1 - the feather and the sword"
 tags: [ "2022", "blt", "bold-life-tribe", "event", "february", "online" ]
 author: Rob Nugen
-date: 2022-01-29T11:27:47+09:00
+date: 2022-01-29T11:34:03+09:00
 EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-02-07T19:00:00+09:00"
 aliases: [
-    "/enbold-life-tribe-truth-1-the-feather-and-the-sword",
+    "/en/events/2022/02/07bold-life-tribe-truth-1-the-feather-and-the-sword",
 ]
 ---
 

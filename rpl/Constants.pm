@@ -73,6 +73,7 @@ our %walk_location_files = (
     ],
 );
 
+#  ///   MUST ALSO DO %event_output_directories   ///
 our %event_template_files = (
     "blog_entry" => [
       "$home/barefoot_rob_master/event_templates/blog_template.md",
@@ -99,6 +100,7 @@ our %event_template_files = (
       "$home/barefoot_rob_master/event_templates/bold-life-tribe/weekly-online-events.en.md",
     ],
 );
+#  ///   MUST ALSO DO %event_output_directories   ///
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
