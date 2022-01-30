@@ -119,8 +119,9 @@ if($what_kinda_event eq "bold_life_tribe") {
 
   my $prefix = $rpl::Constants::event_title_prefixes{$what_kinda_event};
   my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};  # 2 should return TRUTH
-  my $topic = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week];  # TRUTH 1 should return "the feather and the sword"
+  my $topic = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # TRUTH 1 should return "the feather and the sword"
 
+  print @rpl::BLTConstants::bold_life_tribe_weekly_titles["TRUTH"];
   print ("\n\n\n\nFred I want these to all match:\n\n");
   print($prefix . " --should be--> Bold Life Tribe            ");           # OK
   print "OK\n" if ($prefix eq "Bold Life Tribe");

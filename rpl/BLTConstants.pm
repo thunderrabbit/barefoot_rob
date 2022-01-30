@@ -18,7 +18,7 @@ our %bold_life_tribe_themes = (
     12 => "FREEDOM",
 );
 
-our %bold_life_tribe_weekly_titles = {
+our %bold_life_tribe_weekly_titles = (
     "CALLINGS" => [
        "What's Your Why?  (kinda freestyling here)",
        "Hearing the Call  (kinda freestyling here)",
@@ -91,4 +91,4 @@ our %bold_life_tribe_weekly_titles = {
        "From Expectations",
        "Freedom",
     ],
-};
+);
