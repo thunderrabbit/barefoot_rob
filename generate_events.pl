@@ -28,8 +28,6 @@ do {
 
   $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %select_from_hash);
 
-  $original_what_kinda_event = $what_kinda_event unless $original_what_kinda_event;
-
   $event_type_selector = $select_from_hash{$what_kinda_event};
 
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
@@ -42,9 +40,6 @@ do {
   }
 
 } until (rpl::Functions::is_array($event_type_selector));
-
-## restore $what_kinda_event which may have gotten borked when diving into sub hashes
-$what_kinda_event = $original_what_kinda_event;
 
 @event_paths_array = @$event_type_selector;
 
@@ -99,7 +94,8 @@ if ($number_args == 0) {
 my @episode_images = @ARGV;
 my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
-my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt);   # default is now
+my $preferred_day_of_week = $rpl::Constants::event_day_of_week{$what_kinda_event};
+my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week);   # default is now
 my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );      # clone = don't mess with other date
 my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
 my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      # clone = don't mess with other date
@@ -217,18 +213,17 @@ foreach my $extension (keys %event_templates) {
 
   # Create outfile path based on today's date
   # convention: the deepest directories are months, not days, so day is part of base filename, e.g. /yyyy/mm/ddtitle.md
+  #  Will default to events.
   my %event_output_directories = (
-      "barefoot_walk" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
-      "bold_life_tribe" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
       "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
       "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . rpl::Functions::prepend_book_title_based_on_date($event_date_time) . "-",   # don't end with slash because book directories have no dates
-      "weekly_alignment" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),     # don't end with slash, by `convention` above
       "mkp_family" =>  "/",     # eventually create in MKP Japan web directory?
-      "walking_meditation" => $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/"),   # don't end with slash, by `convention` above
       "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
   );
 
   my $alias_path = $event_output_directories{$what_kinda_event};
+  ##  don't require every walk_and_talk location in %event_output_directories
+  $alias_path = $rpl::Constants::events_directory . "/" . $event_date_time->ymd("/") unless $alias_path;
   my $title_path = rpl::Functions::kebab_case($title);
   my $outfile_path = $rpl::Constants::content_directory . $alias_path;   # oh, this includes the dd part of the filename (ddtitle.md)
   my $outfile_and_title_path = $outfile_path . $title_path . $extension;

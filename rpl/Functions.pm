@@ -48,12 +48,12 @@ sub get_title($)
   return $title;
 }
 
-sub get_date($) {
-  my ($dt_now) = @_;
+sub get_date(@) {
+  my ($dt_now, $desired_day_of_week) = @_;
   my $confirmed = 0;
   my $user_dt;   # will be returned once we confirm its value
   while (!$confirmed) {
-    show_dates($dt_now);
+    show_dates($dt_now, $desired_day_of_week);
     my $user_date = input_date($dt_now);
     my $user_time = input_time("primary time of event");  ## cannot send $user_date at this point because it has not been parsed into a timestamp object
     $user_dt = parse_user_date($user_date . " " . $user_time);
@@ -76,10 +76,9 @@ sub get_time(@) {
   return ($user_dt);
 }
 
-sub show_dates($) {
-  my ($dt_now) = @_;
+sub show_dates(@) {
+  my ($dt_now, $desired_day_of_week) = @_;
   my $dt = $dt_now->clone;      # don't mess with global date
-  my $desired_day_of_week = 4;  # Thursday
   print "in get date.   TODO: let us choose which upcoming Thursday to use.... \n";
   my $days_until_coming_thursday = ($desired_day_of_week + 7 - $dt->day_of_week) % 7;  #  https://codereview.stackexchange.com/a/33648/5794
   print $dt->day_of_week . "\n";

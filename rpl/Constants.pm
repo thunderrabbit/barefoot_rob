@@ -102,22 +102,32 @@ our %event_template_files = (
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
 
+our %event_day_of_week = (
+    "blog_entry" => 3,
+    "book_chapter" => 3,
+    "weekly_alignment" => 3,
+    "walking_meditation" => 3,
+    "yoyogi_park" => 6,
+    "rinshi_no_mori" => 6,
+    "izumi_tamagawa" => 3,
+    "shin_yuri_art_park" => 4,
+    "quest_update" => 3,
+    "bold_life_tribe" => 1,
+);
+
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
     "book_chapter" => {"book" => 1, "day-" => 1, "walk" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
-    "barefoot_walk" => {"walk" => 1, "barefoot" => 1, "event" => 1},
+    "rinshi_no_mori" => {"walk" => 1, "barefoot" => 1, "event" => 1, "meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1},
+    "shin_yuri_art_park" => {"walk" => 1, "barefoot" => 1, "event" => 1, "art_park" => 1, "新百合ヶ丘駅" => 1},
+    "yoyogi_park" => {"walk" => 1, "barefoot" => 1, "event" => 1, "yoyogi" => 1, "代々木公園" => 1},
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
 );
 
 our %event_title_prefixes = (
-    "blog_entry" => "",
     "weekly_alignment" => "Weekly Alignment - ",
-    "walking_meditation" => "",
-    "barefoot_walk" => "",
-    "book_chapter" => "",
-    "quest_update" => "",
     "bold_life_tribe" => "Bold Life Tribe",
 );
