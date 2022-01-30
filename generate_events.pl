@@ -110,8 +110,8 @@ my $title;
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
 if($what_kinda_event eq "bold_life_tribe") {
-  my $blt_month = 2;
-  my $blt_week = 1;
+  my $blt_month = $event_date_time->month;  # https://metacpan.org/pod/DateTime#$dt-%3Emonth
+  my $blt_week = $event_date_time->weekday_of_month;  # https://metacpan.org/pod/DateTime#$dt-%3Eweekday_of_month
 
   my $prefix = $rpl::Constants::event_title_prefixes{$what_kinda_event};
   my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};  # 2 should return TRUTH
