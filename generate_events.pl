@@ -99,6 +99,7 @@ my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_da
 my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );      # clone = don't mess with other date
 my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
 my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      # clone = don't mess with other date
+my $bold_life_tribe_publish_date = $event_date_time->clone->subtract( days => 6 );      # Publish Bold Life Tribe just N days ahead so they don't swamp future even though I can bang them out
 my $first_gathering_time = rpl::Functions::get_time("gathering time of event",$guessed_gathering_time);
 my $first_departure_time = $first_gathering_time->clone->add( minutes => 15 )->strftime("%H:%M");      # Only used for Shin Yuri Art Park, with two meeting points
 print "event date time: $event_date_time" . "\n";
@@ -147,7 +148,11 @@ foreach my $extension (keys %event_templates) {
   my $mt3_episode_output = $event_templates{$extension};
 
   # handle date separately
-  $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;  ## timestamp of when ./generate_events.pl was called
+  if($what_kinda_event eq "bold_life_tribe") {
+    $mt3_episode_output =~ s/^(date: .*)/date: $bold_life_tribe_publish_date$rpl::Functions::zoffset/im;  ## timestamp of when ./generate_events.pl was called
+  } else {
+    $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;  ## timestamp of when ./generate_events.pl was called
+  }
   my $human_date = $event_date_time->strftime("%A %d %B %Y");  # https://metacpan.org/pod/DateTime#strftime-Patterns
   my $date_14_days_before = $t_minus_14_days_date->strftime("%A %d %B %Y");
   my $date_07_days_before = $t_minus_07_days_date->strftime("%A %d %B %Y");

@@ -5,7 +5,7 @@ use DateTime;
 use Date::Parse;
 
 my $zone = "Asia/Tokyo";
-my $zoffset = "+09:00";
+our $zoffset = "+09:00";
 
 our $dt = DateTime->now(
     time_zone  => $zone,
