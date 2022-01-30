@@ -119,5 +119,5 @@ our %event_title_prefixes = (
     "barefoot_walk" => "",
     "book_chapter" => "",
     "quest_update" => "",
-    "bold_life_tribe" => "Bold Life Tribe - ",
+    "bold_life_tribe" => "Bold Life Tribe",
 );
