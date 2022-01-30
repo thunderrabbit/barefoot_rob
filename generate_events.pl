@@ -8,6 +8,7 @@ use File::Basename qw( dirname basename );
 use File::Path qw( make_path );     # For recursive mkdir to any depth
 use lib dirname(abs_path(__FILE__));
 use rpl::Constants;
+use rpl::BLTConstants;    # for Bold Life Tribe automated titles and content
 use rpl::Functions;
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
@@ -108,9 +109,24 @@ print "event date time: $event_date_time" . "\n";
 print "first gathering time: $first_gathering_time" . "\n";
 print "first departure time: $first_departure_time" . "\n";
 
+my $title;
+
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
-my $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
+if($what_kinda_event eq "bold_life_tribe") {
+  print("$what_kinda_event\n");
+  print("$what_kinda_event\n");
+  my $blt_month = 2;
+  my $blt_week = 1;
+
+  my $prefix = $rpl::Constants::event_title_prefixes{$what_kinda_event};
+  my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};
+  my $topic = "the feather and the sword";
+
+  $title = rpl::Functions::get_title($prefix . $theme . " " . $blt_week . " - " . $topic);
+} else {
+  $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
+}
 
 my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb);
