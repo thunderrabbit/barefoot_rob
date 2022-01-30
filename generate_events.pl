@@ -123,7 +123,10 @@ if($what_kinda_event eq "bold_life_tribe") {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
-my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
+my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
+$taghash{$event_date_time->year} = 1;              # Add year to tags
+$taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags
+my $tagstring = rpl::Functions::get_tags(%taghash);  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb);
 if($need_image_url) {
   ($episode_image,$episode_thumb) = rpl::Functions::get_image_url($title);
