@@ -117,36 +117,10 @@ if($what_kinda_event eq "bold_life_tribe") {
   my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};  # 2 should return TRUTH
   my $topic = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # TRUTH 1 should return "the feather and the sword"
 
-  print @rpl::BLTConstants::bold_life_tribe_weekly_titles["TRUTH"];
-  print ("\n\n\n\nFred I want these to all match:\n\n");
-  print($prefix . " --should be--> Bold Life Tribe            ");           # OK
-  print "OK\n" if ($prefix eq "Bold Life Tribe");
-  print($theme . " --should be--> TRUTH            ");                      # OK
-  print "OK\n" if ($theme eq "TRUTH");
-  print($topic . " --should be--> the feather and the sword            ");  # false
-  print "OK\n" if ($topic eq "the feather and the sword");
-  print "\n\n\n\n";
-
-  # print("loop print\n");
-  #
-  # foreach (keys %rpl::BLTConstants::bold_life_tribe_weekly_titles) {
-  #   print "key " . $_ . "\n";
-  # }
-  #
-  # print("just print\n");
-  # print($rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week]."\n");
-
-  print "Fred, if all the above worked, lines AFTER this should also say 'Bold Life Tribe - TRUTH 1 - the feather and the sword'\n\n\n";
   $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $topic);
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
-exit;
-
-
-
-
-
 
 my $tagstring = rpl::Functions::get_tags(%{$rpl::Constants::event_tag_hashes{$what_kinda_event}});  # returns qq/"mt3", "livestream", "maybe_others"/
 my ($episode_image,$episode_thumb);
