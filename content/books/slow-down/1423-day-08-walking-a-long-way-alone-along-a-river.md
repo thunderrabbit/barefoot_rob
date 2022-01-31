@@ -15,7 +15,7 @@ src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/2021_apr
 alt=""
 class="title" />
 
-Now that it's 9 months later, I don't recall much about this day.  Google maps says I walked 23.1km in 6 hours 42 minutes.  Saitama Grand Hotel Honjo to Hotel Ruka, which I often read as Hote Ruruka.
+Now that it's 9 months later, I don't recall much about this day.  Google maps says I walked 23.1km in 6 hours 42 minutes.  Saitama Grand Hotel Honjo to Hotel Ruka, which I often read as Hotel Ruruka.
 
 https://photos.app.goo.gl/LMY75HbGsLHrADtt5
 
@@ -58,6 +58,14 @@ all the way across their field
 
 [![2021 apr 23 1813 sturdy power tower](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/thumbs/2021_apr_23_1813_sturdy_power_tower.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/2021_apr_23_1813_sturdy_power_tower.jpg)
 
+#### date: '2021-04-24T04:26:46+09:00'
+
+    title: 'day 8 finished'
+    location: 'geo:36.38188,139.09379;u=10.875'
+
+I made it to my hotel last night just after dark, turned off all the lights,
+took a bath in complete darkness and fell asleep in the bath, woke up when the
+water started getting cold, put ointment on my feet and jumped directly into bed.
 
 
 Summary of Day Eight
