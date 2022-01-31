@@ -1,6 +1,6 @@
 ---
 title: "met shop 0002 and abandoned hotel in Monkey Capital"
-tags: [ "2021", "april", "book", "day-12", "monkey capital", "walk", "猿ヶ" ]
+tags: [ "2021", "april", "book", "day-12", "monkey capital", "walk", "猿ケ京" ]
 author: Rob Nugen
 date: 2022-01-31T10:33:44+09:00
 EventDate: "2021-04-27T12:00:00+09:00"
@@ -11,7 +11,7 @@ draft: false
 ---
 
 <img
-src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_shop_0002_lost_her_name_as_of_2022_jan_31.jpeg"
+src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg"
 alt=""
 class="title" />
 
