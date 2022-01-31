@@ -39,6 +39,15 @@ Day 12 will have to wait.  Day 12 photos have been uploaded to Smugmug for now
 
 https://thunderrabbit.smugmug.com/Travel/Japan/Quests/2021-walk-to-Niigata/Day-12-2021-april-27/
 
+#### 2021-04-27 10:21:09
+
+Hiked to top of hill near Hie Shrine
+
+https://goo.gl/maps/v9EcbncMP8AtAC6MA
+
+[![2022 jan 31 2021 apr 27 after walking up trail near hie shrine](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2022_jan_31_2021_apr_27_after_walking_up_trail_near_hie_shrine.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2022_jan_31_2021_apr_27_after_walking_up_trail_near_hie_shrine.jpeg)          
+
+
 [![2021 apr 27 1829 dinner fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1829_dinner_fujiya.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1829_dinner_fujiya.jpg)
 [![2021 apr 27 1830 dinner with son](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1830_dinner_with_son.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1830_dinner_with_son.jpg)
 
