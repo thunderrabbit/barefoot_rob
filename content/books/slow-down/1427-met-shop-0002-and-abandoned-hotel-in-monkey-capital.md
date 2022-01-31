@@ -15,6 +15,20 @@ src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr
 alt=""
 class="title" />
 
+#### 2022-jan-31 13:48
+
+I found the shop!  I gave up scanning along the road and just clicked and boom here it is:
+
+https://goo.gl/maps/cLdDCDxoPEUGc9ZAA
+
+亀屋酒店
+Kameya Liquor Store
+
+* 〒379-1404 群馬県利根郡みなかみ町相俣25-1
+* 25-1 Aimata, Minakami, Tone District, Gunma 379-1404
+
++81-278-66-0002
+
 #### date: 2021-04-27T20:11:09+09:00
 
     title: "Day 12 finished (photos)"
