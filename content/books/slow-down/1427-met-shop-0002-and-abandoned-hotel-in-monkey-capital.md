@@ -11,8 +11,8 @@ draft: false
 ---
 
 <img
-src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg"
-alt=""
+src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1050_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg"
+alt="Barefoot Rob holding François next to Kameya 0002 shop owner"
 class="title" />
 
 #### 2022-jan-31 13:48
@@ -65,6 +65,7 @@ AND as of 2 Feb 2022, here are Day 12 photos here:
 [![2021 apr 27 10:28:09 sandals impressed with debris](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_102809_sandals_impressed_with_debris.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_102809_sandals_impressed_with_debris.jpg)
 [![2021 apr 27 10:34:22 do not climb on rail](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_103422_do_not_climb_on_rail.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_103422_do_not_climb_on_rail.jpg)
 [![2021 apr 27 10:47:22 francois for sale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_104722_francois_for_sale.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_104722_francois_for_sale.jpg)
+[![2021 apr 27 1050 kameya 0002 lost her name as of 2022 jan 31](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1050_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1050_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg)
 [![2021 apr 27 11:26:40 koi flags by lake](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_112640_koi_flags_by_lake.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_112640_koi_flags_by_lake.jpg)
 [![2021 apr 27 11:26:56 wow koi flags across lake](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_112656_wow_koi_flags_across_lake.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_112656_wow_koi_flags_across_lake.jpg)
 [![2021 apr 27 11:31:49 how did these rails get pushed over](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_113149_how_did_these_rails_get_pushed_over.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_113149_how_did_these_rails_get_pushed_over.jpg)
