@@ -61,6 +61,17 @@ AND as of 2 Feb 2022, here are Day 12 photos here:
 [![2021 apr 27 10:07:05 jason walking along wooded road](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_100705_jason_walking_along_wooded_road.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_100705_jason_walking_along_wooded_road.jpg)
 [![2021 apr 27 10:07:29 old fence along woods](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_100729_old_fence_along_woods.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_100729_old_fence_along_woods.jpg)
 [![2021 apr 27 10:12:22 i think we went up this road](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_101222_i_think_we_went_up_this_road.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_101222_i_think_we_went_up_this_road.jpg)
+
+
+
+#### 2021-04-27 10:21:09
+
+Hiked to top of hill near Hie Shrine
+
+https://goo.gl/maps/v9EcbncMP8AtAC6MA
+
+[![2022 jan 31 2021 apr 27 after walking up trail near hie shrine](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1022_after_walking_up_trail_near_hie_shrine.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1022_after_walking_up_trail_near_hie_shrine.jpeg)
+
 [![2021 apr 27 10:26:51 flooded rice field](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_102651_flooded_rice_field.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_102651_flooded_rice_field.jpg)
 [![2021 apr 27 10:28:09 sandals impressed with debris](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_102809_sandals_impressed_with_debris.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_102809_sandals_impressed_with_debris.jpg)
 [![2021 apr 27 10:34:22 do not climb on rail](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_103422_do_not_climb_on_rail.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_103422_do_not_climb_on_rail.jpg)
@@ -154,15 +165,6 @@ AND as of 2 Feb 2022, here are Day 12 photos here:
 [![2021 apr 27 12:58:24 spring water along street](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_125824_spring_water_along_street.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_125824_spring_water_along_street.jpg)
 [![2021 apr 27 12:58:26 spring water along street](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_125826_spring_water_along_street.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_125826_spring_water_along_street.jpg)
 
-
-
-#### 2021-04-27 10:21:09
-
-Hiked to top of hill near Hie Shrine
-
-https://goo.gl/maps/v9EcbncMP8AtAC6MA
-
-[![2022 jan 31 2021 apr 27 after walking up trail near hie shrine](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1022_after_walking_up_trail_near_hie_shrine.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1022_after_walking_up_trail_near_hie_shrine.jpeg)          
 
 
 [![2021 apr 27 1829 dinner fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1829_dinner_fujiya.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1829_dinner_fujiya.jpg)
