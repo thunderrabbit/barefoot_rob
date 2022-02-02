@@ -75,14 +75,30 @@ https://goo.gl/maps/v9EcbncMP8AtAC6MA
 [![2021 apr 27 10:26:51 flooded rice field](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_102651_flooded_rice_field.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_102651_flooded_rice_field.jpg)
 [![2021 apr 27 10:28:09 sandals impressed with debris](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_102809_sandals_impressed_with_debris.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_102809_sandals_impressed_with_debris.jpg)
 [![2021 apr 27 10:34:22 do not climb on rail](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_103422_do_not_climb_on_rail.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_103422_do_not_climb_on_rail.jpg)
+
+Day 12 is when we met the woman with phone number
+ending in 0002!  She and her crew were really friendly,
+saying they knew the owner back at Day 11 and the owner at Fujiya.
+
 [![2021 apr 27 10:47:22 francois for sale](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_104722_francois_for_sale.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_104722_francois_for_sale.jpg)
 [![2021 apr 27 1050 kameya 0002 lost her name as of 2022 jan 31](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1050_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1050_kameya_0002_lost_her_name_as_of_2022_jan_31.jpg)
+
+
+
 [![2021 apr 27 11:26:40 koi flags by lake](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_112640_koi_flags_by_lake.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_112640_koi_flags_by_lake.jpg)
 [![2021 apr 27 11:26:56 wow koi flags across lake](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_112656_wow_koi_flags_across_lake.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_112656_wow_koi_flags_across_lake.jpg)
 [![2021 apr 27 11:31:49 how did these rails get pushed over](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_113149_how_did_these_rails_get_pushed_over.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_113149_how_did_these_rails_get_pushed_over.jpg)
 [![2021 apr 27 11:48:18 abandoned hotel ro](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_114818_abandoned_hotel_ro.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_114818_abandoned_hotel_ro.jpg)
 [![2021 apr 27 11:48:22 abandoned hotel ro entrance](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_114822_abandoned_hotel_ro_entrance.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_114822_abandoned_hotel_ro_entrance.jpg)
 [![2021 apr 27 11:50:50 looking north toward bungee bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_115050_looking_north_toward_bungee_bridge.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_115050_looking_north_toward_bungee_bridge.jpg)
+
+
+After seeing this building for a bit, I was like "whoah it's abandoned!" and started taking pics.
+
+Akayako Hotel was abandoned, with its front door literally open and leaves strewn into the lobby.
+
+It's right on Highway 17 below the bungee jump area.
+
 [![2021 apr 27 11:53:22 abandoned akayako hotel exterior](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_115322_abandoned_akayako_hotel_exterior.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_115322_abandoned_akayako_hotel_exterior.jpg)
 [![2021 apr 27 11:53:27 abandoned akayako hotel next to highway](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_115327_abandoned_akayako_hotel_next_to_highway.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_115327_abandoned_akayako_hotel_next_to_highway.jpg)
 [![2021 apr 27 11:54:48 tables in akayako hotel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_115448_tables_in_akayako_hotel.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_115448_tables_in_akayako_hotel.jpg)
@@ -137,6 +153,9 @@ https://goo.gl/maps/v9EcbncMP8AtAC6MA
 [![2021 apr 27 12:13:53 francois and figurines in akayako hotel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_121353_francois_and_figurines_in_akayako_hotel.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_121353_francois_and_figurines_in_akayako_hotel.jpg)
 [![2021 apr 27 12:14:44 letter from ek levator in akayako hotel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_121444_letter_from_ek_levator_in_akayako_hotel.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_121444_letter_from_ek_levator_in_akayako_hotel.jpg)
 [![2021 apr 27 12:14:48 postmark closeup in akayako hotel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_121448_postmark_closeup_in_akayako_hotel.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_121448_postmark_closeup_in_akayako_hotel.jpg)
+
+It was super interesting to see all the safes, TVs, blankets... plus perfectly fine little things like cups and saucers.
+
 [![2021 apr 27 12:17:36 bungee bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_121736_bungee_bridge.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_121736_bungee_bridge.jpg)
 [![2021 apr 27 12:19:09 guard rail construction](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_121909_guard_rail_construction.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_121909_guard_rail_construction.jpg)
 [![2021 apr 27 12:19:13 guard rail construction](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_121913_guard_rail_construction.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_121913_guard_rail_construction.jpg)
@@ -165,14 +184,16 @@ https://goo.gl/maps/v9EcbncMP8AtAC6MA
 [![2021 apr 27 12:58:24 spring water along street](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_125824_spring_water_along_street.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_125824_spring_water_along_street.jpg)
 [![2021 apr 27 12:58:26 spring water along street](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_125826_spring_water_along_street.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_125826_spring_water_along_street.jpg)
 
+#### 1pm or so
 
+Dragged our butts into Fujiya Hotel where my phone would be delivered.  I expected the owner to let me know it arrived but eventually had to go down and she was like "oh hmmm yeah.." and eventually "oh here it is!" buried under a few sheets within a huge stack of paper on her desk!
+
+Wow would I have received it if I hadn't asked??
+
+"That's my phone you're burying there!!"
 
 [![2021 apr 27 1829 dinner fujiya](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1829_dinner_fujiya.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1829_dinner_fujiya.jpg)
 [![2021 apr 27 1830 dinner with son](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1830_dinner_with_son.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1830_dinner_with_son.jpg)
-
-Day 12 is when we met the woman with phone number
-ending in 0002 and saw an abandoned hotel right
-on the road below the bungee jump area.
 
 
 Here was the plan for Day Twelve
