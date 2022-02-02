@@ -36,6 +36,8 @@ I just put all the content below based on entries visible here
 
 BUT it seems the post date for some might not match the order in which photos were taken.  
 
+The order below is my best guess, but the bestest way would be to check the exif data on the photos, not necessarily including the ones Jason took of me (with his camera, I think), which we can pretty easily establish were taken while on the red bridge.
+
 #### END 22:50pm JST Wednesday 2 February 2022
 
 #### date: '2021-04-28T09:00:22+09:00'
