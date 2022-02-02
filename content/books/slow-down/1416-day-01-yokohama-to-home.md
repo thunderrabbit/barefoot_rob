@@ -7,6 +7,8 @@ date: 2021-08-21T13:28:19+09:00
 EventDate: "2021-04-16"
 aliases: [
     "/books/slow-down/1416-day-1-yokohama-to-home",
+    "/yn0416",
+    "/ynday01",
 ]
 draft: false
 ---

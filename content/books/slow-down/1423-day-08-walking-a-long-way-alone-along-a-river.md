@@ -6,6 +6,8 @@ date: 2022-01-23T14:22:03+09:00
 EventDate: "2021-04-23T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1423-day-08-walking-a-long-way-alone-along-a-river",
+    "/yn0423",
+    "/ynday08",
 ]
 draft: false
 ---

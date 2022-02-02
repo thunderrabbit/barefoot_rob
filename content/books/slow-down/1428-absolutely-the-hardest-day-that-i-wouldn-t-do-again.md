@@ -6,6 +6,8 @@ date: 2022-02-02T21:32:14+09:00
 EventDate: "2021-04-28T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1428-absolutely-the-hardest-day-that-i-wouldn-t-do-again",
+    "/yn0428",
+    "/ynday13",
 ]
 draft: false
 ---

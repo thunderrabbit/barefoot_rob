@@ -7,6 +7,8 @@ date: 2021-12-01T12:50:19+09:00
 EventDate: "2021-04-17"
 aliases: [
     "/books/slow-down/1417-day-2-home-to-chuo-via-yomiuriland",
+    "/yn0417",
+    "/ynday02",
 ]
 draft: false
 ---

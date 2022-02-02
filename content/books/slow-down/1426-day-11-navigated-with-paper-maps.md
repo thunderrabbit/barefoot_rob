@@ -6,6 +6,8 @@ date: 2022-01-29T18:55:01+09:00
 EventDate: "2021-04-26T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1426-day-11-navigated-with-paper-maps",
+    "/yn0426",
+    "/ynday11",
 ]
 draft: false
 ---

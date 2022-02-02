@@ -11,6 +11,8 @@ aliases: [
     "/quests/slow-down/1429-2021-04-29_climbed-a-ladder-to-tire-heaven",
     "/quests/slow-down/1429-climbed-a-ladder-to-tire-heaven",
     "/books/slow-down/1429-climbed-a-ladder-to-tire-heaven",
+    "/yn0429",
+    "/ynday14",
 ]
 draft: false
 ---

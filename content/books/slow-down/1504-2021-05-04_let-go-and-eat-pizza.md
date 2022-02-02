@@ -10,6 +10,8 @@ aliases: [
     "/quests/slow-down/1504-2021-05-04_let-go-and-eat-pizza",
     "/quests/slow-down/1504-let-go-and-eat-pizza",
     "/books/slow-down/1504-let-go-and-eat-pizza",
+    "/yn0504",
+    "/ynday19",
 ]
 draft: false
 ---

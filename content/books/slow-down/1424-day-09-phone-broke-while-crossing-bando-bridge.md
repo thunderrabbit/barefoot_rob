@@ -6,6 +6,8 @@ date: 2022-01-29T18:10:17+09:00
 EventDate: "2021-04-24T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1424-day-09-phone-broke-while-crossing-bando-bridge",
+    "/yn0424",
+    "/ynday09",
 ]
 draft: false
 ---

@@ -7,6 +7,8 @@ EventDate: "2021-04-20"
 aliases: [
     "/en/books/slow-down/1420-tokyo-gunma-saitama-21.9km",
     "/en/books/slow-down/1420-day-05-tokyo-gunma-saitama-21.9km",
+    "/yn0420",
+    "/ynday05",
 ]
 draft: false
 ---

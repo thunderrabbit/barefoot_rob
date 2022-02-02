@@ -8,6 +8,8 @@ aliases: [
     "/en/books/slow-down/1419-day-04-hot-day",
     "/en/books/slow-down/1419-hot-day",
     "/en/books/slow-down/1419",
+    "/yn0419",
+    "/ynday04",
 ]
 draft: false
 ---

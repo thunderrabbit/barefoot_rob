@@ -6,6 +6,8 @@ date: 2022-01-21T10:59:55+09:00
 EventDate: "2021-04-21"
 aliases: [
     "/en/books/slow-down/1421-day-06-long-walk-along-highways",
+    "/yn0421",
+    "/ynday06",
 ]
 draft: false
 ---

@@ -6,6 +6,8 @@ date: 2022-01-21T12:31:56+09:00
 EventDate: "2021-04-22"
 aliases: [
     "/en/books/slow-down/1422-day-07-from-spamu-to-post-splinter-removal-agony",
+    "/yn0422",
+    "/ynday07",
 ]
 draft: false
 ---

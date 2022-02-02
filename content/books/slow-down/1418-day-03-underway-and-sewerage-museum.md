@@ -6,6 +6,8 @@ date: 2022-01-18T14:47:08+09:00
 EventDate: "2021-04-18"
 aliases: [
     "/books/slow-down/1418-day-03-underway-and-sewerage-museum",
+    "/yn0418",
+    "/ynday03",
 ]
 draft: false
 ---
