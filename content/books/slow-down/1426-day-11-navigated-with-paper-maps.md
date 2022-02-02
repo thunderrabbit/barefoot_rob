@@ -1,5 +1,5 @@
 ---
-title: "day 11 Navigated with paper maps"
+title: "1426 day 11 Navigated with paper maps"
 tags: [ "book", "day-11", "long", "walk" ]
 author: Rob Nugen
 date: 2022-01-29T18:55:01+09:00

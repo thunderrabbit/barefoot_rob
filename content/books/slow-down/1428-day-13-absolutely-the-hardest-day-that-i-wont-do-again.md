@@ -1,5 +1,5 @@
 ---
-title: "Day 13 - absolutely the hardest day that I won't do again"
+title: "1428 Day 13 absolutely the hardest day that I won't do again"
 tags: [ "2021", "april", "book", "day-13", "walk" ]
 author: Rob Nugen
 date: 2022-02-02T21:56:08+09:00

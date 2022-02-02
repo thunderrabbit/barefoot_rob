@@ -1,11 +1,12 @@
 ---
-title: "met shop 0002 and abandoned hotel in Monkey Capital"
+title: "1427 Day 12 met shop 0002 and abandoned hotel in Monkey Capital"
 tags: [ "2021", "april", "book", "day-12", "monkey capital", "walk", "猿ケ京" ]
 author: Rob Nugen
 date: 2022-01-31T10:33:44+09:00
 EventDate: "2021-04-27T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1427-met-shop-0002-and-abandoned-hotel-in-monkey-capital",
+    "/en/books/slow-down/1427-day-12-met-shop-0002-and-abandoned-hotel-in-monkey-capital",
     "/yn0427",
     "/ynday12",
 ]

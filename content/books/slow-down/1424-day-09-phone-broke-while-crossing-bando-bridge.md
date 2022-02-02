@@ -1,5 +1,5 @@
 ---
-title: "day 09 phone broke while crossing Bando Bridge"
+title: "1424 day 09 phone broke while crossing Bando Bridge"
 tags: [ "book", "day-9", "long", "walk" ]
 author: Rob Nugen
 date: 2022-01-29T18:10:17+09:00

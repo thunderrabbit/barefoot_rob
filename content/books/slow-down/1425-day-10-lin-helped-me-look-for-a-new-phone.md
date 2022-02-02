@@ -1,5 +1,5 @@
 ---
-title: "day 10 Lin helped me look for a new phone"
+title: "1425 day 10 Lin helped me look for a new phone"
 tags: [ "book", "day-10", "long", "walk" ]
 author: Rob Nugen
 date: 2022-01-29T18:14:06+09:00
