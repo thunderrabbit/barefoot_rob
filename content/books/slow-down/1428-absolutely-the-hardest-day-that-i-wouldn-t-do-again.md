@@ -14,5 +14,5 @@ draft: false
 
 <img
 src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_planning_to_hike_from_here_to_there.jpeg"
-alt=""
+alt="Barefoot Rob pointing to start and end points on hiking trail map"
 class="title" />
