@@ -17,6 +17,27 @@ src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr
 alt="Barefoot Rob pointing to start and end points on hiking trail map"
 class="title" />
 
+#### BEGIN 22:50pm JST Wednesday 2 February 2022
+
+I just put all the content below based on entries visible here
+
+    content/quests/walk-to-niigata/2021/04/28almost-at-the-trail-we-need-to-take.md
+    content/quests/walk-to-niigata/2021/04/28day-13-will-likely-be-challenging.md
+    content/quests/walk-to-niigata/2021/04/28francois--get-down-from-there.md
+    content/quests/walk-to-niigata/2021/04/28good-morning-day-13.md
+    content/quests/walk-to-niigata/2021/04/28hard-to-see-but-ladder-ready-to-climb.md
+    content/quests/walk-to-niigata/2021/04/28highway-17-before-trail.md
+    content/quests/walk-to-niigata/2021/04/28oops-we-were-only-halfway-when-i-thought-we-were-close.md
+    content/quests/walk-to-niigata/2021/04/28red-bridge-and-abandoned-trampoline-building.md
+    content/quests/walk-to-niigata/2021/04/28snow-on-the-trail-and-tunnel-through-the-trees.md
+    content/quests/walk-to-niigata/2021/04/28this-concrete-block-keeps-the-road-in-place.md
+    content/quests/walk-to-niigata/2021/04/29omg-i-did-not-know-the-ways-this-trip-would-be-difficult.md
+    content/quests/walk-to-niigata/2021/04/29past-trail-arriving-at-akashiya-house.md
+
+BUT it seems the post date for some might not match the order in which photos were taken.  
+
+#### END 22:50pm JST Wednesday 2 February 2022
+
 #### date: '2021-04-28T09:00:22+09:00'
 
     title: "good morning day 13"
