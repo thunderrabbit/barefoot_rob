@@ -9,8 +9,11 @@ aliases: [
 
 <img
 src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
-alt="Barefoot Rob - I am happy to see you"
+alt="Barefoot Rob - World's Greatest Grounding Coach"
 class="half" />
+
+Find Joy in your life by getting out of
+your head and into your body.
 
 Rob conducts workshops and meetings giving people skills to connect with each other and with their personal life mission.
 

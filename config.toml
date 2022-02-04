@@ -13,7 +13,7 @@ unsafe= true
 	githubName = "thunderrabbit"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
-	description = "keep pushing the limits"
+	description = "World's Best Grounding Coach"
 	hideShareOptions = true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
@@ -24,10 +24,10 @@ unsafe= true
     title = "Barefoot Rob"
     weight = 1
     LanguageName = "English"
-    description = "Enjoy being on earth"
+    description = "World's Best Grounding Coach"
 
   [languages.ja]
     title = "裸足のロブ"
     weight = 2
     LanguageName = "日本語"
-    description = "Enjoy being on earth"
+    description = "World's Best Grounding Coach"

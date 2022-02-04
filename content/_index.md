@@ -1,4 +1,6 @@
-# Connect yourself to Earth
+# World's Greatest Grounding Coach
+
+{{< youtube LJzb5n9ldP8 >}}
 
 For 21 years, I've been walking barefoot whenever possible.  
 What started as simple enjoyment for me has turned into more passion as I realize the many
