@@ -12,7 +12,7 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2021/2021_sep_15_barefoot_walk/2021_aug_30_best_grassy_park_grass.jpg" "" %}}
 
-We had a great time!   https://www.robnugen.com/blog/2021/09/15/barefoot-walking-dusk-in-shinyuri-art-park/
+We had a great time!   https://www.robnugen.com/en/blog/2021/09/15/barefoot-walking-dusk-in-shinyuri-art-park/
 
 Refresh your spirit. Touch the earth. Connect with nature.
 

@@ -5,6 +5,8 @@ author: Rob Nugen
 date: 2021-09-15T16:53:42+09:00
 aliases: [
     "/blog/2021/09/15barefoot-walking-dusk-in-shinyuri-art-park",
+    "/en/blog/2021/09/15/barefoot-walking-dusk-in-shinyuri-art-park",
+    "/blog/2021/09/15/barefoot-walking-dusk-in-shinyuri-art-park",
 ]
 ---
 
