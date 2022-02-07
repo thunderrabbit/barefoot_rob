@@ -2,8 +2,17 @@
 
 {{< youtube LJzb5n9ldP8 >}}
 
+Feeling anxious?  Angry?  Lost?
+
+Join me in the Ever Present Present.
+
+Whether it's via barefooting, confidential listening,
+meditation, or a few deep breaths, connect deeply to
+your Joy in this moment.
+
 For 21 years, I've been walking barefoot whenever possible.  
-What started as simple enjoyment for me has turned into more passion as I realize the many
+
+There are many
 [health benefits of walking barefoot](https://duckduckgo.com/?q=health+benefits+of+walking+barefoot).
 
 Culturally, we have been encouraged to enclose our feet in too small shoes.
@@ -15,9 +24,7 @@ to
 [lower back pain](https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/). <!-- https://web.archive.org/web/20210301133842/https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/ -->
 
 Walking barefoot helps us balance more naturally,
-as toes have more leverage to balance us if they are given more space to spread out.  
-Plus having more nerve endings on the ground gives more detail to the brain about how to balance.
-
+and brings awareness to our physical body in this moment.
 
 <img
 src="//b.robnugen.com/blog/2021/2021_jun_05_max_yuma_hiro_rob_yuna.jpg"

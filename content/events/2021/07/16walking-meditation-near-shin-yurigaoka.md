@@ -17,7 +17,7 @@ class="title" />
 
 <div class="note">(image credit: Rinko Hayashi)</div>
 
-We had a great time!   https://www.robnugen.com/blog/2021/07/16/great-fun-walking-meditation-in-manpukuji-park/
+We had a great time!   https://www.robnugen.com/en/blog/2021/07/16/great-fun-walking-meditation-in-manpukuji-park/
 
 #### When
 

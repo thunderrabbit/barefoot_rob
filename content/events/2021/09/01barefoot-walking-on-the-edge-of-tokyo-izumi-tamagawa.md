@@ -12,7 +12,7 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2021/2021_sep_01_izumi_tamagawa/2021_sep_01_izumi_tamagawa_andy_rob_hiro.jpg" "2021 sep 01 izumi tamagawa andy rob hiro" %}}
 
-We had a lovely time!   https://www.robnugen.com/blog/2021/09/01barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa
+We had a lovely time!   https://www.robnugen.com/en/blog/2021/09/01barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa
 
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
