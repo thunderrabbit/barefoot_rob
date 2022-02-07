@@ -18,6 +18,19 @@ our %bold_life_tribe_themes = (
     12 => "FREEDOM",
 );
 
+# photo URL on my site => credit URL
+# todo: handle no credit URL
+our %blt_truth_pics = (
+    "https://b.robnugen.com/blog/2022/feather_sword_by_marcospsychic.png" =>
+      "https://www.deviantart.com/marcospsychic/art/Marcos-Family-Sword-Crimson-Feather-Sword-Name-374302221",
+    "https://b.robnugen.com/blog/2022/blt_truth_2_mastery.jpg" =>
+      "https://pixabay.com/users/aytekin27-10747064/",
+);
+
+our %blt_pics_and_creds = (
+    "TRUTH" => %blt_truth_pics,
+);
+
 our %bold_life_tribe_weekly_titles = (
     "CALLINGS" => [
        "What's Your Why?  (kinda freestyling here)",
