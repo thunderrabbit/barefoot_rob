@@ -122,7 +122,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   my $tagline = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # e.g. "the feather and the sword"
 
   $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $tagline);
-  $blurb = rpl::Functions::blt_topic_file_path_for_date($event_date_time);
+  $blurb = rpl::Functions::blt_blurb_file_path_for_date($event_date_time);
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }

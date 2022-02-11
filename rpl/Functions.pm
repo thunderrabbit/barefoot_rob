@@ -25,19 +25,19 @@ sub return_contents_of_file($) {
 }
 
 # give me a file path for BLT topic, given a date
-sub blt_topic_file_path_for_date($) {
+sub blt_blurb_file_path_for_date($) {
   my ($dt) = @_;   # must be a DateTime or this function will be sad
+  my $path_prefix = "event_generators/blt/blurbs/";
   my $blt_month = $dt->month;  # e.g. 2
-  my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};
-  my $path = $dt->strftime("%A %d %B %Y %H:%M");   ##  Sunday 30 May 2021
+  my $mm = $dt->strftime("%m");  # 02 just for the beginning of file name
+  my $blt_week = $dt->weekday_of_month;  # https://metacpan.org/pod/DateTime#$dt-%3Eweekday_of_month
+  my $theme = lc($rpl::BLTConstants::bold_life_tribe_themes{$blt_month});
+  my $path = $dt->strftime("%Y_%m_%d");   ##  Sunday 30 May 2021
+  my $path_to_blurb = $path_prefix.$mm."_".$theme."_".$blt_week."_".$path.".txt";
   print ("this should be a path like\n");
-  print ("event_generators/blt/topics/02_truth_1_2022_02_07.txt\n");
-  print ($theme."\n");
-  print ($path."\n");
-  print ($path."\n");
-  print ($path."\n");
-  print ($path."\n");
-
+  print ("event_generators/blt/blurbs/02_truth_1_2022_02_07.txt\n");
+  print ($path_to_blurb."\n");
+  return $path_to_blurb;
 }
 
 sub std_in_logger() {
