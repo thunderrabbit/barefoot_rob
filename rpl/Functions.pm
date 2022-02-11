@@ -21,23 +21,35 @@ our $tz_date = $thedate . "T" . $thetime . $zoffset;
 # poop out contents of file
 # (will be used for BLT descriptions e.g. event_generators/blt/topics/02_truth_1_2022_02_07.txt)
 sub return_contents_of_file($) {
-
+  my ($full_path) = @_;
+  local $/;  # makes changes local to this block
+  undef $/;  # file slurp mode (default is "\n")
+  open (ETF, "<", $full_path) or die "could not find template " . $full_path;
+  my $content = <ETF>;
+  close ETF;
+  return $content;
 }
 
 # give me a file path for BLT topic, given a date
-sub blt_blurb_file_path_for_date($) {
+sub __blt_blurb_file_path_for_date($) {
   my ($dt) = @_;   # must be a DateTime or this function will be sad
-  my $path_prefix = "event_generators/blt/blurbs/";
+  my $path_prefix = $rpl::Constants::blt_blurbs;
   my $blt_month = $dt->month;  # e.g. 2
   my $mm = $dt->strftime("%m");  # 02 just for the beginning of file name
   my $blt_week = $dt->weekday_of_month;  # https://metacpan.org/pod/DateTime#$dt-%3Eweekday_of_month
   my $theme = lc($rpl::BLTConstants::bold_life_tribe_themes{$blt_month});
   my $path = $dt->strftime("%Y_%m_%d");   ##  Sunday 30 May 2021
-  my $path_to_blurb = $path_prefix.$mm."_".$theme."_".$blt_week."_".$path.".txt";
+  my $path_to_blurb = $path_prefix."/".$mm."_".$theme."_".$blt_week."_".$path.".txt";
   print ("this should be a path like\n");
-  print ("event_generators/blt/blurbs/02_truth_1_2022_02_07.txt\n");
+  print ("/home/thunderrabbit/barefoot_rob_master/event_generators/blt/blurbs/02_truth_1_2022_02_07.txt\n");
   print ($path_to_blurb."\n");
   return $path_to_blurb;
+}
+
+sub blt_blurb_for_date($) {
+  my ($dt) = @_;   # must be a DateTime or next function will be sad
+  my $blurb_filename = __blt_blurb_file_path_for_date($dt);
+  return return_contents_of_file($blurb_filename);
 }
 
 sub std_in_logger() {
