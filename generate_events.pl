@@ -114,9 +114,9 @@ if($what_kinda_event eq "bold_life_tribe") {
   my $blt_month = $event_date_time->month;  # https://metacpan.org/pod/DateTime#$dt-%3Emonth
   my $blt_week = $event_date_time->weekday_of_month;  # https://metacpan.org/pod/DateTime#$dt-%3Eweekday_of_month
 
-  my $prefix = $rpl::Constants::event_title_prefixes{$what_kinda_event};
-  my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};  # 2 should return TRUTH
-  my $topic = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # TRUTH 1 should return "the feather and the sword"
+  my $prefix = $rpl::Constants::event_title_prefixes{$what_kinda_event};   # "Bold Life Tribe"
+  my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};  # e.g. TRUTH
+  my $topic = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # e.g. "the feather and the sword"
 
   $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $topic);
 } else {
