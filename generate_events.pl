@@ -127,8 +127,6 @@ if($what_kinda_event eq "bold_life_tribe") {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
-print $blurb;
-exit;
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
 $taghash{$event_date_time->year} = 1;              # Add year to tags
 $taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags
@@ -174,6 +172,7 @@ foreach my $extension (keys %event_templates) {
   my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
+  $mt3_episode_output =~ s/BLT_TOPIC_YAYER/$blurb/g;
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;   # for reminders

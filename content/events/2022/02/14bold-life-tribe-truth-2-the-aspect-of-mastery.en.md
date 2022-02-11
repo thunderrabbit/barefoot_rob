@@ -40,11 +40,14 @@ February is the month of __TRUTH__
 
 The Magician makes things happen.
 
-It appears as magic to some – as the practical application of skill to others.
+It appears as magic to some – as the practical application
+of skill to others.
 
-The magician and wizard in us is able to create something seemingly from nothing
+The magician and wizard in us is able to create something
+seemingly from nothing.
 
 The magician has mastery over the material world.
+
 
 #### Costs: ####
 
