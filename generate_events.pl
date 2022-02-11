@@ -107,6 +107,9 @@ print "first gathering time: $first_gathering_time" . "\n";
 print "first departure time: $first_departure_time" . "\n";
 
 my $title;
+# Topic is not yet used (11 Feb 2022)
+my $topic;   # e.g. February is the month of __TRUTH__
+my $blurb;   # paragraph to fill in BLT_TOPIC_YAYER
 
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
@@ -116,13 +119,15 @@ if($what_kinda_event eq "bold_life_tribe") {
 
   my $prefix = $rpl::Constants::event_title_prefixes{$what_kinda_event};   # "Bold Life Tribe"
   my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};  # e.g. TRUTH
-  my $topic = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # e.g. "the feather and the sword"
+  my $tagline = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # e.g. "the feather and the sword"
 
-  $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $topic);
+  $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $tagline);
+  $blurb = rpl::Functions::blt_topic_file_path_for_date($event_date_time);
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
+exit;
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
 $taghash{$event_date_time->year} = 1;              # Add year to tags
 $taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags
