@@ -24,16 +24,11 @@ sub return_contents_of_file($) {
 
 }
 
-sub blt_topic_per_month($) {
-  my ($mm) = @_;  # e.g. 2
-  return $rpl::BLTConstants::bold_life_tribe_themes{$mm};
-}
-
 # give me a file path for BLT topic, given a date
 sub blt_topic_file_path_for_date($) {
   my ($dt) = @_;   # must be a DateTime or this function will be sad
   my $blt_month = $dt->month;  # e.g. 2
-  my $theme = blt_topic_per_month($blt_month);
+  my $theme = $rpl::BLTConstants::bold_life_tribe_themes{$blt_month};
   my $path = $dt->strftime("%A %d %B %Y %H:%M");   ##  Sunday 30 May 2021
   print ("this should be a path like\n");
   print ("event_generators/blt/topics/02_truth_1_2022_02_07.txt\n");
