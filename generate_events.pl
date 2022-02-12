@@ -131,9 +131,10 @@ my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
 $taghash{$event_date_time->year} = 1;              # Add year to tags
 $taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags
 my $tagstring = rpl::Functions::get_tags(%taghash);  # returns qq/"mt3", "livestream", "maybe_others"/
-my ($episode_image,$episode_thumb);
+my ($episode_image,$episode_thumb,$image_credit);
 if($need_image_url) {
   ($episode_image,$episode_thumb) = rpl::Functions::get_image_url($title);
+  $image_credit = rpl::Functions::get_image_credit();
 } else {
   ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
 }
@@ -188,6 +189,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
   $mt3_episode_output =~ s/episode_image/$episode_image/;
   $mt3_episode_output =~ s/episode_image_alt/$episode_image_alt/;
+  $mt3_episode_output =~ s/IMAGE_CREDIT/$image_credit/g;
   # do the rest algorithmically
   foreach my $key (keys %{ $new_entry }) {
     my $value = $new_entry->{$key};

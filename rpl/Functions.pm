@@ -386,6 +386,18 @@ sub get_image_url($) {
   return ($episode_image,$episode_thumb);
 }
 
+sub get_image_credit() {
+  my $image_credit;
+
+  print "Please enter image credit URL if exists:\n";
+  print "\n";
+
+  $image_credit = std_in_logger();
+  chomp $image_credit;
+
+  return $image_credit;
+}
+
 sub extract_frontmatter($) {
   my ($markdown_file_contents) = @_;
   $markdown_file_contents =~ m!(?:---\n)(.*)(?:---)!ms;     # Gets multiple lines between rows of three hyphens
