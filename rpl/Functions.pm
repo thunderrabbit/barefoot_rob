@@ -20,11 +20,11 @@ our $tz_date = $thedate . "T" . $thetime . $zoffset;
 
 # poop out contents of file
 # (will be used for BLT descriptions e.g. event_generators/blt/topics/02_truth_1_2022_02_07.txt)
-sub return_contents_of_file($) {
-  my ($full_path) = @_;
+sub return_contents_of_file(@) {
+  my ($full_path,$ignore_error) = @_;
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $full_path) or die "could not find template " . $full_path;
+  open (ETF, "<", $full_path) or $ignore_error or die "could not find template " . $full_path;
   my $content = <ETF>;
   close ETF;
   return $content;
@@ -49,7 +49,7 @@ sub __blt_blurb_file_path_for_date($) {
 sub blt_blurb_for_date($) {
   my ($dt) = @_;   # must be a DateTime or next function will be sad
   my $blurb_filename = __blt_blurb_file_path_for_date($dt);
-  return return_contents_of_file($blurb_filename);
+  return return_contents_of_file($blurb_filename,1);
 }
 
 sub std_in_logger() {
