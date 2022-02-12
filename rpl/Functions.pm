@@ -52,6 +52,12 @@ sub blt_blurb_for_date($) {
   return return_contents_of_file($blurb_filename,1);
 }
 
+sub blt_create_empty_blurb_file_for_date($) {
+  my ($dt) = @_;   # must be a DateTime or next function will be sad
+  my $blurb_filename = __blt_blurb_file_path_for_date($dt);
+  open (ETF, ">", $blurb_filename);
+  close ETF;
+}
 sub std_in_logger() {
   my $si = <STDIN>;
   logthis($si);

@@ -123,6 +123,10 @@ if($what_kinda_event eq "bold_life_tribe") {
 
   $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $tagline);
   $blurb = rpl::Functions::blt_blurb_for_date($event_date_time);
+  unless ($blurb) {
+    print "Need to create blurb file\n";
+    rpl::Functions::blt_create_empty_blurb_file_for_date($event_date_time);
+  }
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
