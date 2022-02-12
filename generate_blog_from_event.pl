@@ -16,7 +16,10 @@ my $what_kinda_event = "blog_entry";  # see generate_events.pl for ways to make 
 print "In October - December, remove the 0 in the line below to see events, or figure out how to pad with zero\n\n";
 
 # load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
-my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($rpl::Constants::content_directory . $rpl::Constants::events_directory . "/" . $rpl::Functions::year . "/" . $rpl::Functions::month);
+my $event_dir = $rpl::Constants::content_directory . $rpl::Constants::events_directory . "/" . $rpl::Functions::year . "/0" . $rpl::Functions::month;
+print("looking for events in\n$event_dir\n");
+
+my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($event_dir);
 
 # ask which file to pull data from
 my $event_file_to_blog = rpl::Functions::get_event_type("Events", @event_list_for_month);   # func get_event_type is generic, but misnamed here
@@ -55,7 +58,11 @@ print "DATE $blog_year $blog_month $blog_day\n";
 ## Make sure date looks reasonable
 unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/^\d{2}$/) {   #https://stackoverflow.com/a/6697134/194309
     print "Seems like the date we got from the event doesn't look like a date. $blog_year年$blog_month月$blog_day日\n";
-    exit(1); ## tells the caller side that there is an error
+    print "trying again without day, because that helped for some reason I couldn't figure out..\n";
+    unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/) {   #https://stackoverflow.com/a/6697134/194309
+      exit(1); ## tells the caller side that there is an error
+    }
+    print "Yep that worked for some reason.\n";
 }
 
 
