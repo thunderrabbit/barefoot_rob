@@ -107,9 +107,9 @@ print "first gathering time: $first_gathering_time" . "\n";
 print "first departure time: $first_departure_time" . "\n";
 
 my $title;
-# Topic is not yet used (11 Feb 2022)
-my $topic;   # e.g. February is the month of __TRUTH__
-my $blurb;   # paragraph to fill in BLT_TOPIC_YAYER
+# Topic is not yet dynamic (22 Feb 2022)
+my $topic = "March is the month of __PURPOSE__";   # e.g. February is the month of __TRUTH__
+my $blurb;   # paragraph to fill in BLURB_BLOCK
 
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
@@ -177,7 +177,8 @@ foreach my $extension (keys %event_templates) {
   my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
-  $mt3_episode_output =~ s/BLT_TOPIC_YAYER/$blurb/g;
+  $mt3_episode_output =~ s/TOPIC_LINE/$topic/;
+  $mt3_episode_output =~ s/BLURB_BLOCK/$blurb/;
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;   # for reminders

@@ -34,11 +34,11 @@ First 4 Mondays every month
 
 #### Topic:
 
-February is the month of __TRUTH__
+TOPIC_LINE
 
 #### This Week:
 
-BLT_TOPIC_YAYER
+BLURB_BLOCK
 
 #### Costs: ####
 
