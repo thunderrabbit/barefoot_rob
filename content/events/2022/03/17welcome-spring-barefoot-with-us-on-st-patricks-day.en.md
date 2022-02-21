@@ -1,5 +1,5 @@
 ---
-title: "Welcome Spring barefoot with us on St Patricks Day"
+title: "Welcome Spring barefoot with us on St Patrick's Day"
 tags: [ "2022", "art_park", "barefoot", "community", "event", "march", "march 17", "spring", "st patricks", "walk", "新百合ヶ丘駅" ]
 author: Rob Nugen
 date: 2022-02-22T04:20:47+09:00
