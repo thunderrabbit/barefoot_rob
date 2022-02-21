@@ -107,9 +107,9 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 ----------------------------------------
 TOPICS  FEEL FREE TO CHANGE:
 * Wellness
-* Stress Management
+* Community
 * Relaxation
-* Consciousness
+* Barefoot
 * Outdoors
 
 
