@@ -26,7 +26,7 @@ HUMANDATE, FIRST_GATHERING_TIME
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
-#### Second Meeting Point
+#### Second Meeting Point is Shin Yuri Art Park
 
 HUMANDATE, EVENT_TIME
 
