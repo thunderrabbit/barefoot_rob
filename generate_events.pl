@@ -107,8 +107,7 @@ print "first gathering time: $first_gathering_time" . "\n";
 print "first departure time: $first_departure_time" . "\n";
 
 my $title;
-# Topic is not yet dynamic (22 Feb 2022)
-my $topic = "March is the month of __PURPOSE__";   # e.g. February is the month of __TRUTH__
+my $topic;   # e.g. February is the month of __TRUTH__
 my $blurb;   # paragraph to fill in BLURB_BLOCK
 
 ### will need to get a title for each language, but not for each social network.. hmmm
@@ -122,6 +121,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   my $tagline = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # e.g. "the feather and the sword"
 
   $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $tagline);
+  $topic = $event_date_time->month . " is the month of __".$theme."__";
   $blurb = rpl::Functions::blt_blurb_for_date($event_date_time);
   unless ($blurb) {
     print "Need to create blurb file\n";
