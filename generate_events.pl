@@ -121,7 +121,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   my $tagline = $rpl::BLTConstants::bold_life_tribe_weekly_titles{$theme}[$blt_week - 1];  # e.g. "the feather and the sword"
 
   $title = rpl::Functions::get_title($prefix . " - " . $theme . " " . $blt_week . " - " . $tagline);
-  $topic = $event_date_time->month . " is the month of __".$theme."__";
+  $topic = $event_date_time->month_name . " is the month of __".$theme."__";  # https://metacpan.org/pod/DateTime#$dt-%3Emonth_name
   $blurb = rpl::Functions::blt_blurb_for_date($event_date_time);
   unless ($blurb) {
     print "Need to create blurb file\n";
