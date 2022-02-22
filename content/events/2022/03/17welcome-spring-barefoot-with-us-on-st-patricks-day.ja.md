@@ -1,5 +1,5 @@
 ---
-title: "14時から新ゆりアートパークスで裸足でウォーキング"
+title: "14時から新ゆりアートパークスにて裸足ウォーキングで春を迎えましょう"
 tags: [ "2022", "art_park", "barefoot", "community", "event", "march", "march 17", "spring", "st patricks", "walk", "新百合ヶ丘駅" ]
 author: Rob Nugen
 date: 2022-02-22T04:20:47+09:00
