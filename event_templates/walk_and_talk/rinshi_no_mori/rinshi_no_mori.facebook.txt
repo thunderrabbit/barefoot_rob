@@ -106,10 +106,6 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。
 一息一歩、体の動きに気づくことで、すべてから解放されます。
 
-FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合 https://goo.gl/maps/xabS6Nw7TgNScqeCA
-
-正午12時00分 代々木公園に入場
-
 What to Expect:
 
 * 裸足で安全に歩く方法についてお話します。
