@@ -42,9 +42,7 @@ BLURB_BLOCK
 
 #### Costs: ####
 
-~~10,000 yen per month~~
-
-*5,000 yen* per month (intro price until February 28th!)
+10,000 yen per month
 
 Enjoy your first meeting as my guest.
 
