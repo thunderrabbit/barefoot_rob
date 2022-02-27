@@ -379,6 +379,7 @@ sub get_image_url($) {
 
   while (!$confirmed) {
     print "Please enter image URL for the following event:\n";
+    print "https://pixabay.com/";
     print "  title:     $title\n";
     print "\n";
 

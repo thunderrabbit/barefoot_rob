@@ -29,7 +29,7 @@ our %bold_life_tribe_weekly_titles = (
        "the feather and the sword",
        "the aspect of mastery",
        "white lies + soul truth",
-       "4",
+       "the truth of death",
     ],
     "PURPOSE" => [
        "Awareness",
