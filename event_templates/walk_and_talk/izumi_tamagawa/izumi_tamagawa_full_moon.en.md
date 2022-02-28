@@ -62,7 +62,7 @@ The grass is nice for walking and relaxing.  Enjoy the light of the full moon.
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
-**Costs:**
+**Donation:**
 
 500 yen
 

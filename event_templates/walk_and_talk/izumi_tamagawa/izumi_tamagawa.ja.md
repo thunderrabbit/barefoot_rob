@@ -61,7 +61,7 @@ FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/
 
 **参加費**
 
-500円
+500円 (寄付)
 
 **持ち物**
 

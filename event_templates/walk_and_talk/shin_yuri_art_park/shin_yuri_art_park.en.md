@@ -59,7 +59,7 @@ Find like-minded others who enjoy walking barefoot!
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
-**Costs:**
+**Donation:**
 
 500 yen
 

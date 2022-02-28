@@ -78,7 +78,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 **参加費**
 
-500円
+500円 (寄付)
 
 **持ち物**
 
