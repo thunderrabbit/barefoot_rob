@@ -12,6 +12,8 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2021/rinshi_no_mori_park_jan_2020.jpg" "rinshi no mori park jan 2020" %}}
 
+[We had a great time!](/blog/2022/02/26/barefoot-not-so-chilly-challenge-in-rinshi-no-mori-park)
+
 Refresh your spirit. Touch the earth. Connect with nature.
 
 Barefoot Walking Experience:

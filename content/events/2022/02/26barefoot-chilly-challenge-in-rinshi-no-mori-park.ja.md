@@ -12,6 +12,8 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2021/rinshi_no_mori_park_jan_2020.jpg" "rinshi no mori park jan 2020" %}}
 
+[楽しかった！](/blog/2022/02/26/barefoot-not-so-chilly-challenge-in-rinshi-no-mori-park)
+
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
 裸足で歩く体験。
