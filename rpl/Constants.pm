@@ -119,6 +119,7 @@ our %event_day_of_week = (
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
+# not used because https://github.com/thunderrabbit/barefoot_rob/issues/4
 my %walk_and_talk_tags = ("walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1);
 
 our %event_tag_hashes = (
@@ -126,9 +127,9 @@ our %event_tag_hashes = (
     "book_chapter" => {"book" => 1, "day-" => 1, "walk" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
-    "rinshi_no_mori" => (%walk_and_talk_tags, {"meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1}),
-    "shin_yuri_art_park" => (%walk_and_talk_tags, {"art_park" => 1, "新百合ヶ丘駅" => 1}),
-    "yoyogi_park" => (%walk_and_talk_tags, {"yoyogi" => 1, "代々木公園" => 1}),
+    "rinshi_no_mori" => {"walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1, "meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1},
+    "shin_yuri_art_park" => {"walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1, "art_park" => 1, "新百合ヶ丘駅" => 1},
+    "yoyogi_park" => {"walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1, "yoyogi" => 1, "代々木公園" => 1},
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
 );
