@@ -12,14 +12,11 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-精神をリフレッシュする。地球に触れる。Touch the sea.
-Connect with yourself and nature.　自然とつながる。
-
-Barefoot walking, breathing, enjoying fresh sea breeze.
+精神をリフレッシュする。地球や海に触れる。自然とつながる。
 
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。
 
-#### 合場所
+#### 集合場所
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
@@ -31,26 +28,28 @@ Circular space next to 臨港パーク アーチ橋, in **[横浜の臨港パー
 
 *自然に親しむ*
 
-Rinko Park features
-large grassy open spaces surrounded by trees,
-plus concerete steps, walkways, and a bridge,
-great for experiencing many surfaces barefoot.
+臨港パークは木々に囲まれた大きな芝生エリア、
+コンクリートの階段、
+歩道や橋などがあるため、
+裸足であらゆる表面を体験できます。
 
 *Enjoy Connection*（つながりを楽しむ）
 
-Enjoy connection to yourself and our community.
-Share new experiences with like-minded others.
+自分自身との、
+我々のコミュニティーとの繋がりを楽しみましょう。
+同じ志を持った人たちと共に新しい体験を共有しましょう。
 
-Enjoy the present moment by settling into your the
-motions of your body, one breath and one step at a time.
+自身の身体の動きを感じ取りながら、
+一息つづ一歩づつと、
+その瞬間を楽しみましょう。
 
 
-What to Expect:
+イベントの内容:
 
 * 裸足で安全に歩く方法についてお話します。
-* We will feel grass, concrete, and sea breeze.
+* 芝生、コンクリート、海風を感じられます。
 * 公園での新たな発見を、皆で楽しみましょう！
-* If the weather is nice, bring lunch to enjoy in the park!
+* お天気が良い場合はランチを持参してください。公園でお昼を一緒に食べましょう！
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
 
@@ -60,9 +59,7 @@ What to Expect:
 
 **持ち物**
 
-Lunch if you'd like to join us for lunch!
-
-Anything else you need to take care of yourself.
+お昼を食べたい方はランチを持参ください！
 
 ご自身のケアに必要なもの。
 
