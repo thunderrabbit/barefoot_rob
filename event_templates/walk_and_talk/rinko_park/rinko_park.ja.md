@@ -20,7 +20,7 @@ aliases: [
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
-Circular space next to 臨港パーク アーチ橋, in **[横浜の臨港パーク](https://goo.gl/maps/k5XcA7ueXCCsPErV9)**
+臨港パークの「臨港パーク アーチ橋」の[横の円形スペース](https://goo.gl/maps/k5XcA7ueXCCsPErV9)に集合。
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
 
@@ -63,7 +63,7 @@ Circular space next to 臨港パーク アーチ橋, in **[横浜の臨港パー
 
 ご自身のケアに必要なもの。
 
-No need for a shoe bag; we'll be walking in sight of our belongings.
+靴袋をお持ちいただく必要はございません。 持ち物を確認しながら歩きます。
 
 セルフケアは重要ですので、必要に応じて靴を履きましょう。
 
