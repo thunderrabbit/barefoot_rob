@@ -917,6 +917,10 @@ To [龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）](h
 from Hirokawa Hotel
 to 龍氣別館（六日町温泉 ビジネスホテル・日帰り温泉）
 ](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_21_hirokawa_to_6_day_city_onsen_biz_hotel.png)](https://goo.gl/maps/T3NhEDLFG4zL7GqY9)
+
+
+biz hotel canceled so we stayed at Muikamacchi Hutte, 90-4 Koguriyama, Minamiuonuma, Niigata 949-6636
+
 </details>
 
 </div>
