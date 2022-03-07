@@ -10,3 +10,7 @@ Lots of wind buffetting these tents and inflatable tent covers
 
 [![2021 apr 30 tents and covers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-16/thumbs/2021_apr_30_tents_and_covers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-16/2021_apr_30_tents_and_covers.jpeg)
 [![2021 apr 30 tent and cover](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-16/thumbs/2021_apr_30_tent_and_cover.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-16/2021_apr_30_tent_and_cover.jpeg)          
+
+This was at NASPA Camp Garden
+
+https://g.page/naspa-camp-garden?share
