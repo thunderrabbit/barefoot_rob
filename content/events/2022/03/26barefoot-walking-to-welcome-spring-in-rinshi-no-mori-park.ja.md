@@ -35,6 +35,8 @@ aliases: [
 
 #### 詳細
 
+{{< youtube 2NantJmW4Ug >}}
+
 *自然に親しむ*
 
 公園内には、

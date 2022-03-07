@@ -34,6 +34,8 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
+{{< youtube 2NantJmW4Ug >}}
+
 *Enjoy Nature*
 
 Rinshi-no-Mori Park features
