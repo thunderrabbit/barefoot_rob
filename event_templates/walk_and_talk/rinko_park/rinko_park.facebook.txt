@@ -1,0 +1,146 @@
+title:       %s
+
+HUMANDATE       FIRST_GATHERING_TIME
+
+Privacy: Public
+
+CLICK Next
+-------------------------------------
+
+Location
+
+Rinshi-no-mori park
+
+CLICK Next
+-------------------------------------
+
+
+Privacy = Public
+
+CLICK NEXT
+
+Refresh your spirit. Touch the earth. Touch the sea.
+Connect with yourself and nature.
+
+Barefoot walking, breathing, enjoying fresh sea breeze.
+
+==== WHERE ====
+
+HUMANDATE, EVENT_TIME
+
+Circular space in **[Rinko Park in Yokohama](https://goo.gl/maps/k5XcA7ueXCCsPErV9)**, next to Rinko Park Arch Bridge.
+
+Latest info https://www.robnugen.com/enalias_path
+
+==== Details ====
+
+*Enjoy Nature*
+
+Rinko Park features
+large grassy open spaces surrounded by trees,
+plus concerete steps, walkways, and a bridge,
+great for experiencing many surfaces barefoot.
+
+*Enjoy Connection*
+
+Enjoy connection to yourself and our community.
+Share new experiences with like-minded others.
+
+Enjoy the present moment by settling into your the
+motions of your body, one breath and one step at a time.
+
+What to Expect:
+
+* I will talk about how to safely walk barefoot.
+* We will feel grass, concrete, and sea breeze.
+* Let's enjoy discovering the park together!
+* If the weather is nice, bring lunch to enjoy in the park!
+
+Latest info https://www.robnugen.com/enalias_path
+
+==== Donation: ====
+
+500 yen
+
+==== What to bring ====
+
+Lunch if you'd like to join us for lunch!
+
+Anything else you need to take care of yourself.
+
+No need for a shoe bag; we'll be walking in sight of our belongings.
+
+Self care is important, so wear shoes whenever you need to!
+
+==== Covid Considerations ====
+
+You know the situation.
+I know you have thought about it and I trust you
+to make a good decision for yourself.
+
+精神をリフレッシュする。地球や海に触れる。自然とつながる。
+
+裸足で歩き、呼吸し、新鮮な空気を楽しむ。
+
+==== 集合場所 ====
+
+EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+
+臨港パークの「臨港パーク アーチ橋」の[横の円形スペース](https://goo.gl/maps/k5XcA7ueXCCsPErV9)に集合。
+
+最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+
+最新情報は、https://www.robnugen.com/jaalias_path
+
+==== 詳細 ====
+
+*自然に親しむ*
+
+臨港パークは木々に囲まれた大きな芝生エリア、
+コンクリートの階段、
+歩道や橋などがあるため、
+裸足であらゆる表面を体験できます。
+
+*Enjoy Connection*（つながりを楽しむ）
+
+自分自身との、
+我々のコミュニティーとの繋がりを楽しみましょう。
+同じ志を持った人たちと共に新しい体験を共有しましょう。
+
+自身の身体の動きを感じ取りながら、
+一息つづ一歩づつと、
+その瞬間を楽しみましょう。
+
+
+イベントの内容:
+
+* 裸足で安全に歩く方法についてお話します。
+* 芝生、コンクリート、海風を感じられます。
+* 公園での新たな発見を、皆で楽しみましょう！
+* お天気が良い場合はランチを持参してください。公園でお昼を一緒に食べましょう！
+
+最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+
+**参加費**
+
+500円 (寄付)
+
+**持ち物**
+
+お昼を食べたい方はランチを持参ください！
+
+ご自身のケアに必要なもの。
+
+持ち物が見える範囲内の距離を歩くので、靴袋をお持ちいただく必要はございません。
+
+セルフケアは重要ですので、必要に応じて靴を履きましょう。
+
+**COVID-19の配慮について**
+
+マスク着用はご自身の判断にお任せします。
+
+
+-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+CLICK Next
+-------------------------------------
+episode_image

@@ -31,7 +31,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 Rinko Park features
 large grassy open spaces surrounded by trees,
-plus concerete steps, walkways, and a bridge,
+plus concrete steps, walkways, and a bridge,
 great for experiencing many surfaces barefoot.
 
 *Enjoy Connection*
