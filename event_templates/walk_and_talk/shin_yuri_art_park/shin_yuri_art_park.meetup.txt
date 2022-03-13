@@ -1,110 +1,110 @@
-title:       %s
+title:       %s　
 date HUMANDATE   FIRST_GATHERING_TIME
-
+　
 episode_image
-
+　
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
-
+　
 Barefoot Walking Experience at Shinyuri Art Parks (http://www.airgreen.info/artparks.html)
-
+　
 Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
-
+　
 ==== First Meeting Point ====
-
+　
 HUMANDATE, FIRST_GATHERING_TIME
 
 Shin Yurigaoka between KFC, MUFG, and Dean and Deluca
-https://w3w.co/locator.juggler.nail
+https://w3w.co/locator.juggler.nail　
 https://goo.gl/maps/aoY2j7WxkNjSC2u98
-
+　
 ==== Second Meeting Point ====
-
+　
 HUMANDATE, EVENT_TIME
-
+　
 Shinyuri Art Parks (http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
-
+　
 Latest info https://www.robnugen.com/enalias_path
-
+　
 ==== Details ====
-
+　
 *Enjoy Grass*
-
+　
 Shinyuri Art Parks features an immaculate large grassy field.
-
+　
 *Enjoy Breathing*
 
-Get away from it all by settling into your being and noticing the
+Get away from it all by settling into your being and not　icing the
 motions of your body, one breath and one step at a time.
-
+　
 *Enjoy Community*
-
+　
 Find like-minded others who enjoy walking barefoot!
-
+　
 **Donation:**
-
+　
 500 yen
-
+　
 **What to bring**
 
-Whatever you need to take care of yourself.  Come wearing lightweight
+Whatever you need to take care of yourself.  Come　 wearing lightweight
 shoes which you can take off at the grassy field.
-
+　
 Self care is important, so wear shoes whenever you need to!
-
+　
 **Covid Considerations**
 
-You know the situation.  I know you have thought about it and I trust you
+You know the situation.  I know you h　ave thought about it and I trust you
 to make a good decision for yourself.
-
+　
 精神をリフレッシュする。地球に触れる。自然とつながる。
-
+　
 新ゆりアートパークス (http://www.airgreen.info/artparks.html)での裸足歩行体験
-
+　
 裸足で歩き、呼吸を整え、新鮮な空気と美しい草原を楽しみます。
-
+　
 ==== 第一集合場所 ====
-
+　
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
 新百合ヶ丘駅のKFC、MUFG、ディーンアンドデルーカの間
-https://goo.gl/maps/aoY2j7WxkNjSC2u98
+https://goo.gl/maps/aoY2j7WxkNjSC2u　98
 https://w3w.co/locator.juggler.nail
-
+　
 ==== 第ニ集合場所は新ゆりアートパークスになります ====
-
+　
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
-
+　
 新ゆりアートパークス (http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
-
+　
 最新情報は、https://www.robnugen.com/jaalias_path
-
+　
 ==== 詳細 ====
-
+　
 *自然を楽しむ*
-
+　
 新ゆりアートパークスは、広大な芝生の広場が特徴です。
-
+　
 *呼吸を楽しむ*
-
+　
 一呼吸、一歩一歩、体の動きに気を配りながら、心を落ち着かせて、日常から離れてみましょう。
-
+　
 *コミュニティを楽しむ*
-
+　
 裸足で歩くことを楽しむ仲間を見つけてください。
-
+　
 **参加費**
-
+　
 500円 (寄付)
-
+　
 **持ち物**
 
-ご自身のケアに必要なもの。 軽装でお越しください。
+ご自身のケアに必要なもの。 　軽装でお越しください。
 軽い靴を履いてきてください。
-
+　
 セルフケアが大切なので、必要に応じて靴を履くようにしましょう。
-
+　
 **COVID-19の配慮について**
-
+　
 マスク着用はご自身の判断にお任せします。
 
 
@@ -113,39 +113,39 @@ TOPICS  FEEL FREE TO CHANGE:
 * Wellness
 * Community
 * Relaxation
-* Barefoot
+* Barefoot　
 * Outdoors
 
-
+　
 UNSELECT Make this an online event
-
+　
 CLICK Shin Yuri Art Park
-
+　
 CLICK Edit map pin
-
+　
 SLIDE MAP under pin
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Look for Barefoot Rob, barefoot between KFC and D&D
+Look for Barefoot Rob, barefoot between KFC and　 D&D
 +++++++++++++++++++++++++++++++++++++++++++++++
-
+　
 COVID-19 safety measures
 
-Masks OFF
+Masks OFF　
 VAX   OFF
-
+　
 Venue Outdoor
-
+　
 Optional settings
-
+　
 Allow guests:    5
 
 Event fee:  ON
-Direct from member
+Direct fro　m member
 JPY    500
-
+　
 Publish
 
 Notify
