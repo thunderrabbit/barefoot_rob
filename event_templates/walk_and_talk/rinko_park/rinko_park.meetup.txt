@@ -4,8 +4,7 @@ date HUMANDATE   FIRST_GATHERING_TIME
 episode_image
 
 
-Refresh your spirit. Touch the earth. Touch the sea.
-Connect with yourself and nature.
+Refresh your spirit. Touch the earth. Touch the sea. Connect with yourself and nature.
 
 Barefoot walking, breathing, enjoying fresh sea breeze.
 
@@ -13,7 +12,9 @@ Barefoot walking, breathing, enjoying fresh sea breeze.
 
 HUMANDATE, EVENT_TIME
 
-Circular space in **[Rinko Park in Yokohama](https://goo.gl/maps/k5XcA7ueXCCsPErV9)**, next to Rinko Park Arch Bridge.
+Circular space in Rinko Park in Yokohama, next to Rinko Park Arch Bridge.
+
+https://goo.gl/maps/k5XcA7ueXCCsPErV9)
 
 Latest info https://www.robnugen.com/enalias_path
 
@@ -21,18 +22,13 @@ Latest info https://www.robnugen.com/enalias_path
 
 *Enjoy Nature*
 
-Rinko Park features
-large grassy open spaces surrounded by trees,
-plus concerete steps, walkways, and a bridge,
-great for experiencing many surfaces barefoot.
+Rinko Park features large grassy open spaces surrounded by trees, plus concrete steps, walkways, and a bridge, great for experiencing many surfaces barefoot.
 
 *Enjoy Connection*
 
-Enjoy connection to yourself and our community.
-Share new experiences with like-minded others.
+Enjoy connection to yourself and our community. Share new experiences with like-minded others.
 
-Enjoy the present moment by settling into your the
-motions of your body, one breath and one step at a time.
+Enjoy the present moment by settling into your the motions of your body, one breath and one step at a time.
 
 What to Expect:
 
@@ -59,9 +55,7 @@ Self care is important, so wear shoes whenever you need to!
 
 ==== Covid Considerations ====
 
-You know the situation.
-I know you have thought about it and I trust you
-to make a good decision for yourself.
+You know the situation. I know you have thought about it and I trust you to make a good decision for yourself.
 
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
 
@@ -71,9 +65,9 @@ to make a good decision for yourself.
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
-臨港パークの「臨港パーク アーチ橋」の[横の円形スペース](https://goo.gl/maps/k5XcA7ueXCCsPErV9)に集合。
+臨港パークの「臨港パーク アーチ橋」の横の円形スペースに集合。
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+https://goo.gl/maps/k5XcA7ueXCCsPErV9
 
 最新情報は、https://www.robnugen.com/jaalias_path
 
@@ -81,21 +75,13 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 *自然に親しむ*
 
-臨港パークは木々に囲まれた大きな芝生エリア、
-コンクリートの階段、
-歩道や橋などがあるため、
-裸足であらゆる表面を体験できます。
+臨港パークは木々に囲まれた大きな芝生エリア、コンクリートの階段、歩道や橋などがあるため、裸足であらゆる表面を体験できます。
 
 *Enjoy Connection*（つながりを楽しむ）
 
-自分自身との、
-我々のコミュニティーとの繋がりを楽しみましょう。
-同じ志を持った人たちと共に新しい体験を共有しましょう。
+自分自身との、我々のコミュニティーとの繋がりを楽しみましょう。同じ志を持った人たちと共に新しい体験を共有しましょう。
 
-自身の身体の動きを感じ取りながら、
-一息つづ一歩づつと、
-その瞬間を楽しみましょう。
-
+自身の身体の動きを感じ取りながら、一息つづ一歩づつと、その瞬間を楽しみましょう。
 
 イベントの内容:
 
@@ -103,8 +89,6 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 * 芝生、コンクリート、海風を感じられます。
 * 公園での新たな発見を、皆で楽しみましょう！
 * お天気が良い場合はランチを持参してください。公園でお昼を一緒に食べましょう！
-
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
 
 **参加費**
 
@@ -147,6 +131,8 @@ SLIDE MAP under pin
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
+
+Look for Barefoot Rob, barefoot in circular space by Rink Park Arch Bridge
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 
