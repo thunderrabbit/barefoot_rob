@@ -48,7 +48,7 @@
                 {{ end }}
             </div>
           {{ end }} {{/* End only show upcoming events on page 1 of /events/ */}}
-          <!-- A wrapper for all the past blog posts -->
+          <!-- BEGIN all the past events -->
           <h1>Past Events <div class="note">{{ partial "mini_pagination.html" . }}</div></h1>
 
           <div class="posts">
@@ -82,6 +82,7 @@
               </section>
               {{ end }}
           </div>
+          <!-- END all the past events -->
           {{ partial "pagination.html" . }}
           {{ partial "footer.html" . }}
         </div>
