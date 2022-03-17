@@ -12,13 +12,17 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
+<div class="note">写真:
+<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+</div>
+
 精神をリフレッシュする。地球に触れる。自然とつながる。友達とつながる。
 
 裸足で歩きながらおしゃべりを楽しむ：気の合う仲間と新しい体験を共有する
 
 #### 日程
 
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
+**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、FIRST_DEPARTURE_TIMEにBlueCafeを目指して歩きます。**
 
 #### 第一集合場所
 
@@ -31,16 +35,22 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 #### 第二集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_DEPARTURE_TIME後
 
-[多摩川と小田急の踏切](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
-https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
+[Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
+https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
-[![2021 Aug 16 tama river odakyu line setagaya](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_tama_river_odakyu_line_setagaya.png)](//b.robnugen.com/blog/2021/2021_aug_16_tama_river_odakyu_line_setagaya.png)
+https://b.robnugen.com/blog/2022/blue_cafe.jpg
 
 最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
 
 #### 詳細
+
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+
+FIRST_DEPARTURE_TIME: Blue Cafeに集合
+
+EVENT_TIME 多摩川に向かって歩く
 
 *自然を楽しむ*
 
@@ -50,10 +60,6 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
-
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
-
-正午12時00分 多摩川に向かって歩く
 
 芝生の上を少し歩いてから、場合によっては川沿いを歩きます。 小さな石を探してみましょう。
 
