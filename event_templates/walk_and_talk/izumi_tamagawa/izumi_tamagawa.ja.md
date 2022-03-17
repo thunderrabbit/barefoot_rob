@@ -36,7 +36,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_DEPARTURE_TIME後
 [Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
 https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
-https://b.robnugen.com/blog/2022/blue_cafe.jpg
+[![blue cafe](//b.robnugen.com/blog/2022/thumbs/blue_cafe.jpg)](//b.robnugen.com/blog/2022/blue_cafe.jpg)
 
 最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
 

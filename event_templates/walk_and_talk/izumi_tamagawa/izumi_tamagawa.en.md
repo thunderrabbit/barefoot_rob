@@ -30,7 +30,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 **Meeting Spot #2 around FIRST_DEPARTURE_TIME [Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
 https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
-https://b.robnugen.com/blog/2022/blue_cafe.jpg
+[![blue cafe](//b.robnugen.com/blog/2022/thumbs/blue_cafe.jpg)](//b.robnugen.com/blog/2022/blue_cafe.jpg)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
