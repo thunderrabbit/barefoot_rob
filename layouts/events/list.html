@@ -19,36 +19,24 @@
 {{ if eq .Paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
   <!-- A wrapper for all the future blog posts -->
   <h1>Upcoming Events</h1>
-  <div class="posts">
-      {{ $future_events := where .Pages ".Params.eventdate" "ge" (now.Format "2006-01-02T15:04:05-07:00") }}
-
-      {{ range sort $future_events ".Params.eventdate" "asc" }}
-      <section class="post">
-          <header class="post-header">
-
-              <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
-              {{ if ne .Params.EventDate nil }}
-                <h1 class="content-event-subhead">
-                  {{ if ne .Params.EventTime nil }}{{  .Params.EventTime }}{{ end }}
-                  {{ dateFormat "Monday 02 January 2006" .Params.EventDate }}
-                </h1>
-              {{ end }}
-              <p class="post-meta">
-                  {{ if isset .Params "categories" }}
-                      {{ range .Params.categories }}
-                          <a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absLangURL }}'>{{ . }}</a>
-                      {{ end }}
-                  {{ end }}
-              </p>
-          </header>
-      </section>
-      {{ end }}
-  </div>
+    {{ $future_events := where .Pages ".Params.eventdate" "ge" (now.Format "2006-01-02T15:04:05-07:00") }}
+    <div class="posts">
+      <ul class="post">
+        {{ range sort $future_events ".Params.eventdate" "asc" }}
+        <li>
+          {{ if ne .Params.EventDate nil }}
+              {{ dateFormat "Mon 02 Jan 2006" .Params.EventDate }}:
+          {{ end }}
+              <a href="{{ .Permalink }}" class="post-mini-title">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
 {{ end }} {{/* End only show upcoming events on page 1 of /events/ */}}
 <!--  END mini list of upcoming events -->
           {{ if eq .Paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
             <!-- A wrapper for all the future blog posts -->
-            <h1>Upcoming Events</h1>
+            <h1>Upcoming Event Details</h1>
             <div class="posts">
                 {{ $future_events := where .Pages ".Params.eventdate" "ge" (now.Format "2006-01-02T15:04:05-07:00") }}
 
