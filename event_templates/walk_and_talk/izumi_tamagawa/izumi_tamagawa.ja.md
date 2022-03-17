@@ -20,10 +20,6 @@ aliases: [
 
 裸足で歩きながらおしゃべりを楽しむ：気の合う仲間と新しい体験を共有する
 
-#### 日程
-
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、FIRST_DEPARTURE_TIMEにBlueCafeを目指して歩きます。**
-
 #### 第一集合場所
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME

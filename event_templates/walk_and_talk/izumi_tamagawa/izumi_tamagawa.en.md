@@ -20,11 +20,7 @@ Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking: share new experiences with like-minded friends!
 
-#### When
-
-**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Blue Cafe at FIRST_DEPARTURE_TIME**
-
-#### Where
+#### Join Us
 
 **Meeting Spot #1 FIRST_GATHERING_TIME by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
 https://goo.gl/maps/4yh8TLgADixQYnzU8
