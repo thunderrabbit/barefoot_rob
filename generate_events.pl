@@ -131,6 +131,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
+print("what_kinda_event: " . $what_kinda_event . "\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
 $taghash{$event_date_time->year} = 1;              # Add year to tags
 $taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags
