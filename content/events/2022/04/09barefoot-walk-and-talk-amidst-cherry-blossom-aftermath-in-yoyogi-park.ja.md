@@ -2,13 +2,14 @@
 title: "裸足でウォーク＆トーク～代々木公園"
 tags: [ "2022", "Barefoot Rob", "april", "barefoot", "cherry blossoms", "event", "sakura", "walk", "yoyogi", "はだし", "代々木公園", "花見", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-03-17T22:08:32+09:00
+date: 2022-03-18T14:02:43+09:00
 EventLocation: "Yoyogi Park"
 EventTime: "12:00"
 TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2022-04-09T12:00:00+09:00"
 aliases: [
     "/ja/events/2022/04/09barefoot-walk-and-talk-amidst-cherry-blossoms-in-yoyogi-park",
+    "/ja/events/2022/04/09barefoot-walk-and-talk-amidst-cherry-blossom-aftermath-in-yoyogi-park",
 ]
 ---
 
