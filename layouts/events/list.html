@@ -24,6 +24,7 @@
       <ul class="post">
         {{ range sort $future_events ".Params.eventdate" "asc" }}
         <li>
+          <a href="{{ .Permalink }}" class="post-mini-title">
           {{ if ne .Params.EventDate nil }}
               {{ dateFormat "Jan 02 Mon" .Params.EventDate }}
           {{ end }}
@@ -31,7 +32,8 @@
           {{ if ne .Params.EventTime nil }}
               {{ .Params.EventTime }}
           {{ end }}
-              in <a href="{{ .Permalink }}" class="post-mini-title">{{ .Params.EventLocation }}</a>
+              in {{ .Params.EventLocation }}
+          </a>
         </li>
         {{ end }}
       </ul>
