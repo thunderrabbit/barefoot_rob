@@ -3,6 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventTime: "EVENT_TIME"
 TimeDescription: "Zoom doors open at FIRST_GATHERING_TIME; start promptly at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [

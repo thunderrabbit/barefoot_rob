@@ -3,6 +3,7 @@ title: "EVENT_H時から新ゆりアートパークスで裸足でウォーキ�
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventTime: "EVENT_TIME"
 TimeDescription: "新百合ヶ丘駅でFIRST_GATHERING_TIMEに集合、EVENT_TIMEに新ゆりアートパークス"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
