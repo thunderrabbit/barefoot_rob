@@ -3,6 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME; enter Shin Yuri Art Park at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"

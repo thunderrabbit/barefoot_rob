@@ -3,6 +3,7 @@ title: "EVENT_H時:唐木田駅から多摩センター駅スまで裸足でウ�
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "唐木田駅でFIRST_GATHERING_TIMEに集合"
 EventDate: "%sTEVENT_TIME:00+09:00"

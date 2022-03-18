@@ -178,9 +178,11 @@ foreach my $extension (keys %event_templates) {
   my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
+  my $event_location = $rpl::Constants::event_locations{$what_kinda_event};
   $mt3_episode_output =~ s/TOPIC_LINE/$topic/;
   $mt3_episode_output =~ s/BLURB_BLOCK/$blurb/;
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
+  $mt3_episode_output =~ s/EVENT_LOCATION/$event_location/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;   # for reminders
   $mt3_episode_output =~ s/T_MINUS_14_DAYS_DATE/$date_14_days_before/g;    # for reminders

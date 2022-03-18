@@ -31,7 +31,7 @@
           {{ if ne .Params.EventTime nil }}
               {{ .Params.EventTime }}
           {{ end }}
-              <a href="{{ .Permalink }}" class="post-mini-title">{{ .Title }}</a>
+              in <a href="{{ .Permalink }}" class="post-mini-title">{{ .Params.EventLocation }}</a>
         </li>
         {{ end }}
       </ul>

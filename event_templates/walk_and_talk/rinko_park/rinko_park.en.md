@@ -3,6 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME in Rinko Park circular space"
 EventDate: "%sTEVENT_TIME:00+09:00"

@@ -128,6 +128,14 @@ our %event_day_of_week = (
     "bold_life_tribe" => 1,
 );
 
+our %event_locations = (
+    "yoyogi_park" => "Yoyogi Park",
+    "rinko_park" => "Rinko Park, Yokohama",
+    "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
+    "izumi_tamagawa" => "Izumi Tamagawa",
+    "shin_yuri_art_park" => "Shin Yuri Art Park",
+);
+
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
 # not used because https://github.com/thunderrabbit/barefoot_rob/issues/4
 my %walk_and_talk_tags = ("walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1);

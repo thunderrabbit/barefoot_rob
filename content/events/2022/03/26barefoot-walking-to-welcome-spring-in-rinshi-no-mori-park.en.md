@@ -3,6 +3,7 @@ title: "Barefoot Walking to welcome Spring in Rinshi-no-Mori Park"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "march", "meguro", "rinshi-no-mori", "sakura", "spring", "walk", "はだし", "林試の森公園", "桜", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-02-28T10:07:47+09:00
+EventLocation: "Rinshi-no-Mori Park, Meguro"
 EventTime: "12:00"
 TimeDescription: "gather at 11:30; meet in Rinshi-no-Mori Park at 12:00"
 EventDate: "2022-03-26T12:00:00+09:00"

@@ -3,6 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "7pm ~ 8:30pm"
 EventDate: "%sTEVENT_TIME:00+09:00"

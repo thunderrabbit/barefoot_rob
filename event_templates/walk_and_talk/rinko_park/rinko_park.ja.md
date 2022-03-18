@@ -3,6 +3,7 @@ title: "裸足でウォーク＆トーク～海のとなり臨港パーク"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
+EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME in 臨港パーク circular space"
 EventDate: "%sTEVENT_TIME:00+09:00"
