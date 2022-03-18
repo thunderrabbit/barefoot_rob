@@ -3,7 +3,7 @@ title: "Barefoot Chilly Challenge 2022 in Yoyogi Park"
 tags: [ "2022", "barefoot", "challenge", "chilly", "event", "february", "walk", "yoyogi" ]
 author: Rob Nugen
 date: 2022-01-10T12:32:52+09:00
-EventTime: "gather at 11:45; enter the Park at 12:00"
+TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2022-02-12T12:00:00+09:00"
 aliases: [
     "/en/events/2022/02/12barefoot-chilly-challenge-2022-in-yoyogi-park",

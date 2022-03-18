@@ -7,7 +7,7 @@ aliases: [
            "12coast-to-coast-kickoff-walking-to-niigata",
            "16coast-to-coast-kickoff-walking-to-niigata",
         ]
-EventTime: "9am"
+TimeDescription: "9am"
 EventDate: "2021-04-16"
 ---
 

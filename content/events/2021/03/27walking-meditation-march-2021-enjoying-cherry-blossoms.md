@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2021-02-28T18:41:50+09:00
 episode_image: https://b.robnugen.com/blog/2021/2021_feb_27_walking_in_park.jpg
 episode_thumbnail: "https://b.robnugen.com/blog/2021/thumbs/2021_feb_27_walking_in_park.jpg"
-EventTime: "gather at 11:45; enter Yoyogi Park at noon"
+TimeDescription: "gather at 11:45; enter Yoyogi Park at noon"
 EventDate: "2021-03-27"
 ---
 

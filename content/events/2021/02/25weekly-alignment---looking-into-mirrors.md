@@ -3,7 +3,7 @@ title: "Weekly Alignments - Looking into mirrors"
 tags: [ "alignment", "event", "mirrors", "projections", "weekly" ]
 author: Rob Nugen
 date: 2021-02-25
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-02-25"
 ---
 

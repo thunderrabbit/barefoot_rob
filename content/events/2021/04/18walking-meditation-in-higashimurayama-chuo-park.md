@@ -3,7 +3,7 @@ title: "Walking Meditation in Higashimurayama Chuo Park"
 tags: [ "event", "meditation", "afternoon", "higashimurayama", "walk" ]
 author: Rob Nugen
 date: 2021-04-03T12:34:59+09:00
-EventTime: "gather at 14:00"
+TimeDescription: "gather at 14:00"
 EventDate: "2021-04-18"
 Aliases: [
     "/events/2021/04/18walking-meditation-in-higashimurayama-chuo-park/",

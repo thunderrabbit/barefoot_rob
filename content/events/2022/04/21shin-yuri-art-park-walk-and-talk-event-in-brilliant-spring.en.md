@@ -3,7 +3,7 @@ title: "Shin Yuri Art Park walk and talk event in brilliant Spring"
 tags: [ "2022", "Barefoot Rob", "april", "art_park", "barefoot", "event", "spring", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-03-17T19:57:24+09:00
-EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2022-04-21T14:00:00+09:00"
 aliases: [
     "/en/events/2022/04/21shin-yuri-art-park-walk-and-talk-event-in-brilliant-spring",

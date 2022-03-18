@@ -3,7 +3,7 @@ title: "Weekly Alignment - Digging In"
 tags: [ "event", "weekly", "alignment", "digging in" ]
 author: Rob Nugen
 date: 2021-01-29T18:03:17+09:00
-EventTime: "7pm - 8:30pm JST"
+TimeDescription: "7pm - 8:30pm JST"
 EventDate: "2021-02-04"
 ---
 

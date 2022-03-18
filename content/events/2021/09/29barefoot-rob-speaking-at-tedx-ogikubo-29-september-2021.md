@@ -3,7 +3,7 @@ title: "Barefoot Rob speaking at TEDx Ogikubo 29 September 2021"
 tags: [ "event", "tedx", "speaking", "event", "september", "2021" ]
 author: Rob Nugen
 date: 2021-08-31T11:02:28+09:00
-EventTime: "16:00 - 21:00"
+TimeDescription: "16:00 - 21:00"
 EventDate: "2021-09-29"
 ---
 

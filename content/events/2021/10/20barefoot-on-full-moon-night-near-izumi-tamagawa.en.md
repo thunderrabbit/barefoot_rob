@@ -3,7 +3,7 @@ title: "Barefoot on full moon night near Izumi Tamagawa"
 tags: [ "2021", "barefoot", "event", "full", "moon", "moonlight", "night", "oct", "tamagawa", "walk" ]
 author: Rob Nugen
 date: 2021-10-09T23:08:57+09:00
-EventTime: "gather at 20:45; walk to Tama River at 21:00"
+TimeDescription: "gather at 20:45; walk to Tama River at 21:00"
 EventDate: "2021-10-20"
 aliases: [
     "/events/2021/10/20barefoot-on-full-moon-night-near-izumi-tamagawa",

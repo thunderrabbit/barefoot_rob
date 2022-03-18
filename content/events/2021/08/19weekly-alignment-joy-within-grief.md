@@ -3,7 +3,7 @@ title: "Weekly Alignment - Joy within Grief"
 tags: [ "alignment", "event", "grief", "joy", "joy 4", "weekly" ]
 author: Rob Nugen
 date: 2021-07-18T12:55:31+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-08-19"
 aliases: [
     "/events/2021/08/19weekly-alignment-joy-within-grief",

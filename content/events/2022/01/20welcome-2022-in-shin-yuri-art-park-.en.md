@@ -3,7 +3,7 @@ title: "Welcome 2022 in Shin Yuri Art Park!"
 tags: [ "2022", "art", "barefoot", "community", "event", "jan", "park", "shinyuri", "walk" ]
 author: Rob Nugen
 date: 2021-12-24T16:30:32+09:00
-EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2022-01-20"
 aliases: [
     "/events/2022/01/20welcome-2022-in-shin-yuri-art-park-",

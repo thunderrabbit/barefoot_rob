@@ -3,7 +3,7 @@ title: "Weekly Alignment - Listening to our Self when it counts"
 tags: [ "event", "weekly", "align", "self", "listening" ]
 author: Rob Nugen
 date: 2020-12-12T21:53:36+09:00
-EventTime: "7pm - 8pm"
+TimeDescription: "7pm - 8pm"
 EventDate: 2020-12-17
 ---
 

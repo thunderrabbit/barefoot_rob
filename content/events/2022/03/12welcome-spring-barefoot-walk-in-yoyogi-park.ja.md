@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～代々木公園"
 tags: [ "2022", "barefoot", "event", "march", "spring", "walk", "yoyogi", "代々木公園" ]
 author: Rob Nugen
 date: 2022-02-12T21:16:20+09:00
-EventTime: "gather at 11:45; enter the Park at 12:00"
+TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2022-03-12T12:00:00+09:00"
 aliases: [
     "/ja/events/2022/03/12welcome-spring-barefoot-walk-in-yoyogi-park",

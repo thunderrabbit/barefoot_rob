@@ -3,7 +3,7 @@ title: "CANCELED: Rinshi-no-Mori Park 2021 Dec 30th event is Canceled"
 tags: [ "2021", "barefoot", "dec", "event", "first", "last", "rinshi-no-mori", "walk", "canceled" ]
 author: Rob Nugen
 date: 2021-12-30T06:37:05+09:00
-EventTime: "canceled"
+TimeDescription: "canceled"
 EventDate: "2021-12-30"
 aliases: [
     "events/2021/12/30last-walk-of-2021-is-first-walk-at-rinshi-no-mori-park",

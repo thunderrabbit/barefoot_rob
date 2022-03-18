@@ -3,7 +3,7 @@ title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2021", "barefoot", "event", "full", "moon", "moonlight", "night", "oct", "tamagawa", "walk" ]
 author: Rob Nugen
 date: 2021-10-12T22:52:10+09:00
-EventTime: "20:45に集合、21:00に多摩川まで歩く"
+TimeDescription: "20:45に集合、21:00に多摩川まで歩く"
 EventDate: "2021-10-20"
 aliases: [
     "/events/2021/10/20barefoot-on-full-moon-night-near-izumi-tamagawa",

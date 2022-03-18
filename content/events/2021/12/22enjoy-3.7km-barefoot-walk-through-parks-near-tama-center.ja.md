@@ -3,7 +3,7 @@ title: "12時:唐木田駅から多摩センター駅スまで裸足でウォー
 tags: [ "2021", "3.7km", "barefoot", "dec", "event", "karakida", "tama", "walk" ]
 author: Rob Nugen
 date: 2021-12-06T15:50:52+09:00
-EventTime: "唐木田駅で11:45に集合"
+TimeDescription: "唐木田駅で11:45に集合"
 EventDate: "2021-12-22"
 aliases: [
     "/events/2021/12/22enjoy-3.7km-barefoot-walk-through-parks-near-tama-center",

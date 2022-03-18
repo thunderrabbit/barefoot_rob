@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～代々木公園"
 tags: [ "2021", "barefoot", "cool", "dec", "event", "park", "walk", "yoyogi", "yuletide" ]
 author: Rob Nugen
 date: 2021-11-10T19:20:15+09:00
-EventTime: "gather at 11:45; enter the Park at 12:00"
+TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2021-12-11"
 aliases: [
     "/events/2021/12/11yoyogi-yuletide-2021-barefoot-walk-and-talk",

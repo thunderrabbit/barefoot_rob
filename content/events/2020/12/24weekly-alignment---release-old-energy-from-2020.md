@@ -3,7 +3,7 @@ title: "Weekly Alignment - Release old energy from 2020"
 tags: [ "event", "align", "refresh", "energy", "meditation" ]
 author: Rob Nugen
 date: 2020-12-21T18:15:08+09:00
-EventTime: "7pm - 8pm"
+TimeDescription: "7pm - 8pm"
 EventDate: 2020-12-24
 ---
 

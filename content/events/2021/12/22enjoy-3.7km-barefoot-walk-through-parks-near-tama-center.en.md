@@ -3,7 +3,7 @@ title: "Enjoy 3.7km barefoot walk through parks near Tama Center"
 tags: [ "2021", "3.7km", "barefoot", "dec", "event", "karakida", "tama", "walk" ]
 author: Rob Nugen
 date: 2021-12-05T20:48:19+09:00
-EventTime: "gather at 11:45; enter Shin Yuri Art Park at 12:00"
+TimeDescription: "gather at 11:45; enter Shin Yuri Art Park at 12:00"
 EventDate: "2021-12-22"
 aliases: [
     "/events/2021/12/22enjoy-3.7km-barefoot-walk-through-parks-near-tama-center",

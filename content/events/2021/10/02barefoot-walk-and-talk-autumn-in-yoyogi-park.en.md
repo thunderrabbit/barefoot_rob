@@ -3,7 +3,7 @@ title: "Barefoot Walk and Talk - Autumn in Yoyogi Park"
 tags: [ "2021", "autumn", "barefoot", "chat", "event", "fun", "oct", "talk", "walk" ]
 author: Rob Nugen
 date: 2021-09-04T18:05:11+09:00
-EventTime: "gather at 11:45; enter the Park at noon"
+TimeDescription: "gather at 11:45; enter the Park at noon"
 EventDate: "2021-10-02"
 aliases: [
     "/events/2021/10/02barefoot-walk-and-talk-autumn-in-yoyogi-park",

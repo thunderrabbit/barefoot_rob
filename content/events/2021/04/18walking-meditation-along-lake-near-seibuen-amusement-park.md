@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2021-04-03T17:34:59+09:00
 episode_image: https://b.robnugen.com/blog/2021/walk_along_lake.png
 episode_thumbnail: "https://b.robnugen.com/blog/2021/thumbs/walk_along_lake.png"
-EventTime: "gather at 17:15; walk from Seibuen Amusement Park at 17:30"
+TimeDescription: "gather at 17:15; walk from Seibuen Amusement Park at 17:30"
 EventDate: "2021-04-18"
 Aliases: [
     "/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park"

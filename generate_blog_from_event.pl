@@ -74,8 +74,8 @@ my $blog_frontmatter = rpl::Functions::extract_frontmatter($blog_template);
 ## change date in frontmatter to match current date
 $blog_frontmatter =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;
 
-## frontmatter remove line starting with EventTime (only used on events, not blog entry after the fact)
-$blog_frontmatter =~ s/^(EventTime: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
+## frontmatter remove line starting with TimeDescription (only used on events, not blog entry after the fact)
+$blog_frontmatter =~ s/^(TimeDescription: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?
 
 ## frontmatter remove line starting with EventDate (only used on events, not blog entry after the fact)
 $blog_frontmatter =~ s/^(EventDate: .*\n)//im;     # Fred, is there a way to not need to \n in the capture we are erasing?

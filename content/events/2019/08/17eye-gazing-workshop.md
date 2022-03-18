@@ -3,7 +3,7 @@ title: "Eye Gazing Workshop"
 tags: [ "eye", "gazing", "workshop", "free" ]
 author: Rob Nugen
 date: 2019-08-17T10:23:12+09:00
-EventTime: "2pm - 4pm"
+TimeDescription: "2pm - 4pm"
 EventDate: 2019-08-17
 ---
 

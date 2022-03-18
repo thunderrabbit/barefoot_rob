@@ -3,7 +3,7 @@ title: "Bold Life Tribe - TRUTH 4 - the truth of death"
 tags: [ "2022", "blt", "bold-life-tribe", "death", "event", "february", "online", "truth" ]
 author: Rob Nugen
 date: 2022-02-21T19:00:00+09:00
-EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
+TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-02-28T19:00:00+09:00"
 aliases: [
     "/en/events/2022/02/28bold-life-tribe-truth-4-the-truth-of-death",

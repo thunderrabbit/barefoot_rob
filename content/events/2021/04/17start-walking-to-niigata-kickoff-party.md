@@ -4,7 +4,7 @@ tags: [ "event", "party", "niigata", "walk", "barefoot", "welcome" ]
 author: Rob Nugen
 date: 2021-01-17T23:08:55+09:00
 aliases: [ "13start-walking-to-niigata-kickoff-party" ]
-EventTime: "4pm ~ "
+TimeDescription: "4pm ~ "
 EventDate: 2021-04-17
 ---
 

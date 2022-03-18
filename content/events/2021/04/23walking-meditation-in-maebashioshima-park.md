@@ -3,7 +3,7 @@ title: "Walking Meditation in Maebashioshima Park"
 tags: [ "evening", "event", "maebashi", "maebashioshima", "meditation", "park", "walk" ]
 author: Rob Nugen
 date: 2021-04-10T19:21:25+09:00
-EventTime: "gather at 6pm"
+TimeDescription: "gather at 6pm"
 EventDate: "2021-04-23"
 Aliases: [
     "/events/2021/04/23walking-meditation-in-maebashioshima-park"

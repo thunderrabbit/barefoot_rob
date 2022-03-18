@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～林試の森公園"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "march", "meguro", "rinshi-no-mori", "sakura", "spring", "walk", "はだし", "林試の森公園", "桜", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-02-28T10:07:47+09:00
-EventTime: "gather at 11:30; enter the Park at 12:00"
+TimeDescription: "gather at 11:30; enter the Park at 12:00"
 EventDate: "2022-03-26T12:00:00+09:00"
 aliases: [
     "/ja/events/2022/03/26barefoot-walking-to-welcome-spring-in-rinshi-no-mori-park",

@@ -3,7 +3,7 @@ title: "Eye Gazing Workshop #3"
 tags: [ "eye", "gazing", "workshop", "1000yen" ]
 author: Rob Nugen
 date: 2019-11-30T12:12:12+09:00
-EventTime: "2pm - 4pm"
+TimeDescription: "2pm - 4pm"
 EventDate: 2019-11-30
 ---
 

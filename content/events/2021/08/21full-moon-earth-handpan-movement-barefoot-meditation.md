@@ -3,7 +3,7 @@ title: "FULL MOON - EARTH HANDPAN + MOVEMENT + BAREFOOT MEDITATION"
 tags: [ "canceled", "2021", "august", "barefoot", "event", "handpan", "meditation", "michael", "rin", "rob", "walk", "yoga", "yoyogi" ]
 author: Rob Nugen
 date: 2021-08-13T17:40:47+09:00
-EventTime: "10am"
+TimeDescription: "10am"
 EventDate: "2021-08-21"
 aliases: [
     "/events/2021/08/21full-moon-earth-handpan-movement-barefoot-meditation",

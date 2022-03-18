@@ -3,7 +3,7 @@ title: "Barefoot Chilly Challenge in Rinshi-no-Mori Park"
 tags: [ "barefoot", "challenge", "chilly", "event", "meguro", "rinshi-no-mori", "walk", "林試の森公園" ]
 author: Rob Nugen
 date: 2022-01-22T22:03:11+09:00
-EventTime: "gather at 11:30; meet in Rinshi-no-Mori Park at 12:00"
+TimeDescription: "gather at 11:30; meet in Rinshi-no-Mori Park at 12:00"
 EventDate: "2022-02-26T12:00:00+09:00"
 aliases: [
     "/en/events/2022/02/26barefoot-chilly-challenge-in-rinshi-no-mori-park",

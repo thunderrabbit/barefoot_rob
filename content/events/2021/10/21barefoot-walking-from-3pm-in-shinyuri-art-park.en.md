@@ -3,7 +3,7 @@ title: "Barefoot Walking from 3pm in Shinyuri Art Park"
 tags: [ "2021", "Shinyuri Art Parks", "barefoot", "event", "grassy", "october", "shin yurigaoka", "walk", "walking", "新ゆりアートパークス" ]
 author: Rob Nugen
 date: 2021-09-15T18:16:16+09:00
-EventTime: "gather at 14:30; enter Shin Yuri Art Park at 15:00"
+TimeDescription: "gather at 14:30; enter Shin Yuri Art Park at 15:00"
 EventDate: "2021-10-21"
 aliases: [
   "/events/2021/10/21barefoot-walking-3pm-in-shinyuri-art-park",

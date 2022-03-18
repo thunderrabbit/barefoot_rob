@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2021-04-01T05:47:05+09:00
 episode_image: https://b.robnugen.com/blog/2021/Banyan_Tree_Lahaina.jpg
 episode_thumbnail: "https://b.robnugen.com/blog/2021/thumbs/Banyan_Tree_Lahaina.jpg"
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-04-01"
 ---
 

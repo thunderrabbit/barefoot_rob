@@ -3,7 +3,7 @@ title: "Bold Life Tribe - TRUTH 3 - white lies + soul truth"
 tags: [ "2022", "blt", "bold-life-tribe", "event", "february", "online", "white lies" ]
 author: Rob Nugen
 date: 2022-02-14T19:00:00+09:00
-EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
+TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-02-21T19:00:00+09:00"
 aliases: [
     "/en/events/2022/02/21bold-life-tribe-truth-3-white-lies-+-soul-truth",

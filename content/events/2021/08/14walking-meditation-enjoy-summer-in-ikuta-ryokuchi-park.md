@@ -3,7 +3,7 @@ title: "Walking Meditation- Enjoy Summer in Ikuta Ryokuchi Park"
 tags: [ "event", "hot", "meditation", "outside", "park", "summer", "walk" ]
 author: Rob Nugen
 date: 2021-07-17T11:18:04+09:00
-EventTime: "gather at 09:45; enter the Park at 10am"
+TimeDescription: "gather at 09:45; enter the Park at 10am"
 EventDate: "2021-08-14"
 aliases: [
     "/events/2021/08/14walking-meditation-enjoy-summer-in-ikuta-ryokuchi-park",

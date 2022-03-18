@@ -3,7 +3,7 @@ title: "Weekly Alignment - Realtime Alignment"
 tags: [ "event", "weekly", "align", "realtime" ]
 author: Rob Nugen
 date: 2021-03-04T18:55:19+09:00
-EventTime: "7pm - 8:30pm"
+TimeDescription: "7pm - 8:30pm"
 EventDate: "2021-03-04"
 ---
 

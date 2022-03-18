@@ -3,7 +3,7 @@ title: "Enjoy barefoot walking with lovely ShinYuri community"
 tags: [ "2021", "art park", "barefoot", "cool", "dec", "event", "shin yuri", "walk" ]
 author: Rob Nugen
 date: 2021-11-14T08:54:52+09:00
-EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2021-12-16"
 aliases: [
     "/events/2021/12/16enjoy-barefoot-walking-with-lovely-shinyuri-community",

@@ -3,7 +3,7 @@ title: "[Free] Eye Gazing near Shibuya Crossing"
 tags: [ "event", "eye", "gazing", "meditation" ]
 author: Rob Nugen
 date: 2021-05-30T14:19:02+09:00
-EventTime: "anytime between 3pm and 6pm"
+TimeDescription: "anytime between 3pm and 6pm"
 EventDate: "2021-06-05"
 Aliases: [
     "/events/2021/06/05free-eye-gazing-near-shibuya-crossing"

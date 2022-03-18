@@ -3,7 +3,7 @@ title: "Weekly Alignment - Being Joy"
 tags: [ "alignment", "being", "event", "joy", "joy 2", "weekly" ]
 author: Rob Nugen
 date: 2021-07-17T14:21:12+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-08-12"
 aliases: [
     "/events/2021/08/12weekly-alignment-being-joy",

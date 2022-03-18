@@ -3,7 +3,7 @@ title: "Bold Life Tribe - PURPOSE 1 - Awareness"
 tags: [ "2022", "awareness", "blt", "bold-life-tribe", "event", "march", "online" ]
 author: Rob Nugen
 date: 2022-02-28T19:00:00+09:00
-EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
+TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-03-07T19:00:00+09:00"
 aliases: [
     "/en/events/2022/03/07bold-life-tribe-purpose-1-awareness",

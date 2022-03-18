@@ -3,7 +3,7 @@ title: "Weekly Alignment - You Are Enough"
 tags: [ "event", "weekly", "alignment" ]
 author: Rob Nugen
 date: 2021-01-17T16:04:10+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: 2021-01-14
 ---
 

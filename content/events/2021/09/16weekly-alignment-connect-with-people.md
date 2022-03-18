@@ -3,7 +3,7 @@ title: "Weekly Alignment - Connect with People"
 tags: [ "2021", "alignment", "connect", "event", "people", "sep", "weekly" ]
 author: Rob Nugen
 date: 2021-08-16T09:48:21+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-09-16"
 aliases: [
     "/events/2021/09/16weekly-alignment-connect-with-people",

@@ -3,7 +3,7 @@ title: "Bold Life Tribe - TRUTH 2 - the aspect of mastery"
 tags: [ "2022", "blt", "bold-life-tribe", "event", "february", "mastery", "online" ]
 author: Rob Nugen
 date: 2022-02-07T19:00:00+09:00
-EventTime: "Zoom doors open at 18:45; start promptly at 19:00"
+TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2022-02-14T19:00:00+09:00"
 aliases: [
     "/en/events/2022/02/14bold-life-tribe-truth-2-the-aspect-of-mastery",

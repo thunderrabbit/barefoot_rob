@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2021-04-01T10:56:07+09:00
 episode_image: https://b.robnugen.com/blog/2021/greek_islands.jpg
 episode_thumbnail: "https://b.robnugen.com/blog/2021/thumbs/greek_islands.jpg"
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-04-08"
 ---
 

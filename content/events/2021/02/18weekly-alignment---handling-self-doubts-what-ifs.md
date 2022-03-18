@@ -3,7 +3,7 @@ title: "Weekly Alignment - Handling self doubts and what-ifs"
 tags: [ "event", "weekly", "align", "what ifs", "event" ]
 author: Rob Nugen
 date: 2021-02-17T11:51:25+09:00
-EventTime: "7pm - 8:30pm JST"
+TimeDescription: "7pm - 8:30pm JST"
 EventDate: "2021-02-18"
 ---
 

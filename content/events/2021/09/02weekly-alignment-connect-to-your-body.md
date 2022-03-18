@@ -3,7 +3,7 @@ title: "Weekly Alignment - Connect to Your Body"
 tags: [ "alignment", "body", "connection", "event", "sep", "sep 2021", "weekly" ]
 author: Rob Nugen
 date: 2021-07-26T19:31:38+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-09-02"
 aliases: [
     "/events/2021/09/02weekly-alignment-connect-to-your-body",

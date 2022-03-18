@@ -3,7 +3,7 @@ title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "artpark", "barefoot", "challenge", "chilly", "event", "shinyuri", "walk" ]
 author: Rob Nugen
 date: 2022-01-21T20:54:19+09:00
-EventTime: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
+TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
 EventDate: "2022-02-17T14:00:00+09:00"
 aliases: [
     "/ja/events/2022/02/17shin-yuri-art-park-barefoot-chilly-challenge-2022-feb-17",

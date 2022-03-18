@@ -3,7 +3,7 @@ title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2022", "art", "barefoot", "community", "event", "jan", "park", "shinyuri", "walk" ]
 author: Rob Nugen
 date: 2021-12-24T16:30:32+09:00
-EventTime: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
+TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
 EventDate: "2022-01-20"
 aliases: [
     "/events/2022/01/20welcome-2022-in-shin-yuri-art-park-",

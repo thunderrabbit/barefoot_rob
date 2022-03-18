@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～海のとなり臨港パーク"
 tags: [ "2022", "Barefoot Rob", "Yokohama", "barefoot", "event", "march", "rinko-park", "spring", "walk", "はだし", "臨港パーク", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-03-07T20:01:18+09:00
-EventTime: "gather at 12:45 in 臨港パーク circular space"
+TimeDescription: "gather at 12:45 in 臨港パーク circular space"
 EventDate: "2022-03-19T13:00:00+09:00"
 aliases: [
     "/ja/events/2022/03/19barefoot-walking-in-spring-by-the-sea-in-rinko-park-yokohama",

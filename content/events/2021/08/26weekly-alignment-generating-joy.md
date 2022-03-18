@@ -3,7 +3,7 @@ title: "Weekly Alignment - Generating Joy"
 tags: [ "alignment", "event", "generating", "joy", "joy 4", "weekly" ]
 author: Rob Nugen
 date: 2021-07-18T12:56:43+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-08-26"
 aliases: [
     "/events/2021/08/26weekly-alignment-generating-joy",

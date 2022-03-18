@@ -3,7 +3,7 @@ title: "Walking Meditation in Sayama Inariyama Prefectural Park, Saitama"
 tags: [ "event", "sayama", "inariyama", "meditation", "saitama", "walk" ]
 author: Rob Nugen
 date: 2021-04-08T21:20:33+09:00
-EventTime: "gather at 2pm; begin walking 2:15pm"
+TimeDescription: "gather at 2pm; begin walking 2:15pm"
 EventDate: "2021-04-19"
 Aliases: [
     "/events/2021/04/19walking-meditation-in-sayama-inariyama-prefectural-park-saitama"

@@ -47,7 +47,7 @@
                         <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
                         {{ if ne .Params.EventDate nil }}
                           <h1 class="content-event-subhead">
-                            {{ if ne .Params.EventTime nil }}{{  .Params.EventTime }}{{ end }}
+                            {{ if ne .Params.TimeDescription nil }}{{  .Params.TimeDescription }}{{ end }}
                             {{ dateFormat "Monday 02 January 2006" .Params.EventDate }}
                           </h1>
                         {{ end }}
@@ -82,7 +82,7 @@
                       <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
                       {{ if ne .Params.EventDate nil }}
                         <h1 class="content-event-subhead">
-                          {{ if ne .Params.EventTime nil }}{{  .Params.EventTime }}{{ end }}
+                          {{ if ne .Params.TimeDescription nil }}{{  .Params.TimeDescription }}{{ end }}
                           {{ dateFormat "Monday 02 January 2006" .Params.EventDate }}
                         </h1>
                       {{ end }}

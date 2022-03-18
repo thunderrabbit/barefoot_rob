@@ -3,7 +3,7 @@ title: "Barefoot under the lunar eclipse"
 tags: [ "2021", "barefoot", "event", "izumi-tamagawa", "lunar eclipse", "moon", "nov", "walk" ]
 author: Rob Nugen
 date: 2021-11-18T18:26:59+09:00
-EventTime: "gather at 17:30; walk to Tama River at 17:45"
+TimeDescription: "gather at 17:30; walk to Tama River at 17:45"
 EventDate: "2021-11-19"
 aliases: [
     "/events/2021/11/19barefoot-under-the-lunar-eclipse",

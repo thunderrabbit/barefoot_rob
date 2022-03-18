@@ -3,7 +3,7 @@ title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2021", "barefoot", "event", "izumi-tamagawa", "lunar eclipse", "moon", "nov", "walk" ]
 author: Rob Nugen
 date: 2021-11-18T18:26:59+09:00
-EventTime: "17:30に集合、17:45に多摩川まで歩く"
+TimeDescription: "17:30に集合、17:45に多摩川まで歩く"
 EventDate: "2021-11-19"
 aliases: [
     "/events/2021/11/19barefoot-under-the-lunar-eclipse",

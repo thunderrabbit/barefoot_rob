@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2021-05-22T17:43:30+09:00
 episode_image: https://b.robnugen.com/events/2021/2021_may_22_yoyogi_park.jpeg
 episode_thumbnail: "https://b.robnugen.com/events/2021/thumbs/2021_may_22_yoyogi_park.jpeg"
-EventTime: "gather at 11:45; enter the Park at noon"
+TimeDescription: "gather at 11:45; enter the Park at noon"
 EventDate: "2021-06-05"
 Aliases: [
     "/events/2021/05/27walking-meditation-welcome-rainy-season-2021",

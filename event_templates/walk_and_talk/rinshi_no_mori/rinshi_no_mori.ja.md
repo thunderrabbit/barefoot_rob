@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～林試の森公園"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventTime: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
+TimeDescription: "gather at FIRST_GATHERING_TIME; enter the Park at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/jaalias_path",

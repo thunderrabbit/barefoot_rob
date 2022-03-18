@@ -3,7 +3,7 @@ title: "Barefoot Walking dusk in Shinyuri Art Park"
 tags: [ "2021", "Shinyuri Art Parks", "barefoot", "event", "grassy", "september", "shin yurigaoka", "walk", "walking", "新ゆりアートパークス" ]
 author: Rob Nugen
 date: 2021-08-30T18:16:16+09:00
-EventTime: "16:00 at Shinyuri Art Park"
+TimeDescription: "16:00 at Shinyuri Art Park"
 EventDate: "2021-09-15"
 aliases: [
     "/events/2021/09/15barefoot-walking-dusk-in-shinyuri-art-park",

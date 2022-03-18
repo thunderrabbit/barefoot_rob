@@ -3,7 +3,7 @@ title: "Barefoot Walk and Talk - Enjoy cooler weather in Yoyogi Park"
 tags: [ "2021", "autumn", "barefoot", "chat", "event", "fun", "november", "talk", "walk" ]
 author: Rob Nugen
 date: 2021-10-04T15:27:20+09:00
-EventTime: "gather at 11:45; enter the Park at 12:00"
+TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2021-11-06"
 aliases: [
     "/events/2021/11/06barefoot-walk-and-talk-enjoy-cooler-weather-in-yoyogi-park",

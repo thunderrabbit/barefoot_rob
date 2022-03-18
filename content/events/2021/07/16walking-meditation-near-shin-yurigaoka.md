@@ -3,7 +3,7 @@ title: "Walking Meditation near Shin Yurigaoka"
 tags: [ "event", "walk", "meditation", "suburb" ]
 author: Rob Nugen
 date: 2021-06-23T13:06:26+09:00
-EventTime: "gather at 11:45; start walking at noon"
+TimeDescription: "gather at 11:45; start walking at noon"
 EventDate: "2021-07-16"
 aliases: [
     "16walking-meditation-near-shin-yurigaoka",

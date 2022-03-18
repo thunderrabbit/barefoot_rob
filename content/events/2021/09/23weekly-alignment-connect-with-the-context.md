@@ -3,7 +3,7 @@ title: "Weekly Alignment - Connect with the Context"
 tags: [ "2021", "alignment", "connect", "context", "event", "sep", "weekly" ]
 author: Rob Nugen
 date: 2021-08-22T09:49:35+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-09-23"
 aliases: [
     "/events/2021/09/23weekly-alignment-connect-with-the-context",

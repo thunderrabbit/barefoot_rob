@@ -3,7 +3,7 @@ title: "Weekly Alignment - Letting Go"
 tags: [ "event", "weekly", "align", "release" ]
 author: Rob Nugen
 date: 2021-02-08T08:08:48+09:00
-EventTime: "7pm - 8:30pm JST"
+TimeDescription: "7pm - 8:30pm JST"
 EventDate: "2021-02-11"
 ---
 

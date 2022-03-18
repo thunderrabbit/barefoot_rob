@@ -3,7 +3,7 @@ title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2022", "Barefoot Rob", "april", "art_park", "barefoot", "event", "spring", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-03-17T19:57:24+09:00
-EventTime: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
+TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
 EventDate: "2022-04-21T14:00:00+09:00"
 aliases: [
     "/ja/events/2022/04/21shin-yuri-art-park-walk-and-talk-event-in-brilliant-spring",

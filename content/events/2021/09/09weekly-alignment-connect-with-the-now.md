@@ -3,7 +3,7 @@ title: "Weekly Alignment - Connect with the Now"
 tags: [ "alignment", "connection", "event", "now", "sep", "sep 2021", "weekly" ]
 author: Rob Nugen
 date: 2021-08-10T09:31:20+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-09-09"
 aliases: [
     "/events/2021/09/09weekly-alignment-connect-with-the-now",

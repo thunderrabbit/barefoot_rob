@@ -3,7 +3,7 @@ title: "Weekly Alignment - Embody Joy"
 tags: [ "alignment", "event", "joy", "joy 1", "weekly" ]
 author: Rob Nugen
 date: 2021-07-17T12:05:38+09:00
-EventTime: "7pm ~ 8:30pm"
+TimeDescription: "7pm ~ 8:30pm"
 EventDate: "2021-08-05"
 aliases: [
     "/events/2021/08/05weekly-alignment-embody-joy",

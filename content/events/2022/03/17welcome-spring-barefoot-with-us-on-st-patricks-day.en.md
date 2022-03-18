@@ -3,7 +3,7 @@ title: "Welcome Spring barefoot with us on St Patrick's Day"
 tags: [ "2022", "art_park", "barefoot", "community", "event", "march", "march 17", "spring", "st patricks", "walk", "新百合ヶ丘駅" ]
 author: Rob Nugen
 date: 2022-02-22T04:20:47+09:00
-EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2022-03-17T14:00:00+09:00"
 aliases: [
     "/en/events/2022/03/17welcome-spring-barefoot-with-us-on-st-patricks-day",

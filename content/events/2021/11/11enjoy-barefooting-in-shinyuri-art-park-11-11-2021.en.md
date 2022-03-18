@@ -3,7 +3,7 @@ title: "Enjoy barefooting in ShinYuri Art Park 11/11 2021"
 tags: [ "2021", "Art Park", "barefoot", "event", "grass", "nov", "shinyuri", "walk" ]
 author: Rob Nugen
 date: 2021-10-21T20:03:48+09:00
-EventTime: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2021-11-11"
 aliases: [
     "/events/2021/11/11enjoy-barefooting-in-shinyuri-art-park-11-11-2021",
