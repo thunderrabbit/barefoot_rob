@@ -3,6 +3,7 @@ title: "Barefoot Walking in Spring by the sea in Rinko Park, Yokohama"
 tags: [ "2022", "Barefoot Rob", "Yokohama", "barefoot", "event", "march", "rinko-park", "spring", "walk", "はだし", "臨港パーク", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-02-28T18:50:18+09:00
+EventTime: "13:00"
 TimeDescription: "gather at 12:45 in Rinko Park circular space"
 EventDate: "2022-03-19T13:00:00+09:00"
 aliases: [

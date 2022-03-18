@@ -3,6 +3,7 @@ title: "Welcome Spring with Blue Cafe barefoot walking event near Izumi Tamagawa
 tags: [ "2022", "Barefoot Rob", "barefoot", "blue-cafe", "event", "izumi-tamagawa", "march", "riverside", "spring", "tamagawa", "walk", "はだし", "多摩川", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-03-17T20:19:36+09:00
+EventTime: "16:15"
 TimeDescription: "gather at 15:30; walk to Blue Cafe at 15:45; walk to Tama River around 16:15"
 EventDate: "2022-03-30T16:15:00+09:00"
 aliases: [
