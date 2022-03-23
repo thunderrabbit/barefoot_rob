@@ -18,7 +18,7 @@ Bold Life Tribe is open to all:
 
 ## [Bold Life Tribe](/en/bold-life-tribe/) ##
 
-* Monday nights, 7pm Japan time (UTC+9).
+* Thursday nights, 7pm Japan time (UTC+9).
 * For men and women ready for more in life
 * Subscribe below to book your place
 
@@ -58,20 +58,11 @@ which kind of energy to bring to which situation.
 
 You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
-* ~~¥10,000~~
+* ~~¥20,000~~
 
-**Special 2022 Relaunch Rate until February 28!** lock in ¥5,000 per month
+**Special 2022 Relaunch Rate until April 30!** lock in ¥10,000 per month
 
-<!--  5,000 yen button -->
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="TWW92AERS7APE">
-<input type="image" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<!--  / 5,000 yen button -->
-<!--   10,000 yen button  
-- ->
+<!--   10,000 yen button  -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="T32GVS6KMJFGC">
@@ -84,9 +75,9 @@ Unsubscribe anytime.
 
 ## Upcoming Schedule ##
 
-We meet 7pm - ~8:30pm JST, every Monday **except 5th Mondays of a month.**
+We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 
-* February focuses on finding our __TRUTH__
+* March focuses on finding our __PURPOSE__
 
 ## Questions ##
 
