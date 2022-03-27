@@ -73,3 +73,5 @@ aliases: [
 
 マスク着用はご自身の判断にお任せします。もし参加者全員のマスク着用の方がご安心いただける様でしたら、こちらのグループをおすすめします
 https://www.meetup.com/tokyospontaneous
+
+<div class="note">(image credit https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/)</div>

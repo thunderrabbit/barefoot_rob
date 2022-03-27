@@ -74,3 +74,5 @@ I know you have thought about it and I trust you
 to make a good decision for yourself.
 If you want a group with masks,
 I recommend https://www.meetup.com/tokyospontaneous
+
+<div class="note">(image credit https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/)</div>
