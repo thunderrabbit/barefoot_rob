@@ -1,160 +1,164 @@
-title:       %s
-HUMANDATE       FIRST_GATHERING_TIME
-
-episode_image
-
-
-
-Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
-
-Enjoy chatting and barefoot walking: share new experiences with like-minded friends!
-
-#### When
-
-**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**
-
-#### Where
-
-** Meeting Spot #1 by the benches near Izumi-Tamagawa station **
-https://goo.gl/maps/4yh8TLgADixQYnzU8
-
-** Meeting Spot #2 by Tama River and Odakyu rail crossing
-https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (on the Tokyo side of the river)
-
-Latest info https://www.robnugen.com/enalias_path
-
-#### Details
-
-*Enjoy Grass*
-
-We'll walk to a lovely grass baseball field next to Tama River.
-
-*Enjoy Breathing*
-
-Get away from it all by settling into your being and noticing the
-motions of your body, one breath and one step at a time.
-
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
-
-EVENT_TIME: Walk toward Tama River
-
-The grass is nice for walking and relaxing.  We sometimes play frisbee on the field!
-
-Latest info https://www.robnugen.com/enalias_path
-
-**Donation:**
-
-500 yen
-
-**What to bring**
-
-Whatever you need to take care of yourself.  Bring lightweight
-shoes for the short (~5 minute) walk to the river.  Watch for little rocks!
-
-Self care is important, so wear shoes whenever you need to!
-
-**Covid Considerations**
-
-You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.
-
-精神をリフレッシュする。地球に触れる。自然とつながる。友達とつながる。
-
-裸足で歩きながらおしゃべりを楽しむ：気の合う仲間と新しい体験を共有する
-
-#### 日程
-
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
-
-#### 第一集合場所
-
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
-
-集合場所：和泉多摩川駅前ベンチ
-https://goo.gl/maps/4yh8TLgADixQYnzU8
-
-#### 第二集合場所
-
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
-
-多摩川と小田急の踏切
-https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
-
-
-最新情報は、https://www.robnugen.com/jaalias_path
-
-
-#### 詳細
-
-*自然を楽しむ*
-
-多摩川には遊歩道がたくさんあり、川岸にはよく芝生があります。
-
-*Enjoy Breathing*（呼吸を楽しむ）
-
-自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
-呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
-
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
-
-正午12時00分 多摩川に向かって歩く
-
-最新情報は、https://www.robnugen.com/jaalias_path
-
-**参加費**
-
-500円 (寄付)
-
-**持ち物**
-
-自分の体調管理に必要なもの。 軽い靴をお持ちください。
-軽い靴を持ってきてください。また、歩くときに靴を持ち運びたい場合は、靴を入れる袋も必要です。
-
-セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。
-
-**COVID-19の配慮について**
-
-マスク着用はご自身の判断にお任せします。
-
-
-----------------------------------------
-TOPICS  FEEL FREE TO CHANGE:
-* Wellness
-* Stress Management
-* Relaxation
-* Barefoot
-* Outdoors
-
-
-UNSELECT Make this an online event
-
-CLICK Yoyogi Park
-
-CLICK Edit map pin
-
-SLIDE MAP under pin
-
-
-+++++++++++++++++++++++++++++++++++++++++++++++
-How to find us:
-Look for Barefoot Rob, barefoot by the clock!
-+++++++++++++++++++++++++++++++++++++++++++++++
-
-COVID-19 safety measures
-
-Masks OFF
-VAX   OFF
-
-Venue Outdoor
-
-Optional settings
-
-Allow guests:    5
-
-Event fee:  ON
-Direct from member
-JPY    500
-
-Publish
-
-Notify
+title:       %s　
+HUMANDATE       FIRST_GATHERING_TIME　
+　
+episode_image　
+　
+　
+　
+Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.　
+　
+Enjoy chatting and barefoot walking: share new experiences with like-minded friends!　
+　
+#### When　
+　
+**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**　
+　
+#### Where　
+　
+** Meeting Spot #1 by the benches near Izumi-Tamagawa station **　
+https://goo.gl/maps/4yh8TLgADixQYnzU8　
+　
+** Meeting Spot #2 by Tama River and Odakyu rail crossing　
+https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (on the Tokyo side of the river)　
+　
+Latest info https://www.robnugen.com/enalias_path　
+　
+#### Details　
+　
+*Enjoy Grass*　
+　
+We'll walk to a lovely grass baseball field next to Tama River.　
+　
+*Enjoy Breathing*　
+　
+Get away from it all by settling into your being and noticing the　
+motions of your body, one breath and one step at a time.　
+　
+FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8　
+　
+EVENT_TIME: Walk toward Tama River　
+　
+The grass is nice for walking and relaxing.  We sometimes play frisbee on the field!　
+　
+Latest info https://www.robnugen.com/enalias_path　
+　
+**Donation:**　
+　
+500 yen　
+　
+**What to bring**　
+　
+Whatever you need to take care of yourself.  Bring lightweight　
+shoes for the short (~5 minute) walk to the river.  Watch for little rocks!　
+　
+Self care is important, so wear shoes whenever you need to!　
+　
+**Covid Considerations**　
+　
+You know the situation.  I know you have thought about it and I trust you　
+to make a good decision for yourself.　
+　
+精神をリフレッシュする。地球に触れる。自然とつながる。友達とつながる。　
+　
+裸足で歩きながらおしゃべりを楽しむ：気の合う仲間と新しい体験を共有する　
+　
+#### 日程　
+　
+**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**　
+　
+#### 第一集合場所　
+　
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME　
+　
+集合場所：和泉多摩川駅前ベンチ　
+https://goo.gl/maps/4yh8TLgADixQYnzU8　
+　
+#### 第二集合場所　
+　
+EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後　
+　
+多摩川と小田急の踏切　
+https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)　
+　
+　
+最新情報は、https://www.robnugen.com/jaalias_path　
+　
+　
+#### 詳細　
+　
+*自然を楽しむ*　
+　
+多摩川には遊歩道がたくさんあり、川岸にはよく芝生があります。　
+　
+*Enjoy Breathing*（呼吸を楽しむ）　
+　
+自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。　
+呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。　
+　
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8　
+　
+正午12時00分 多摩川に向かって歩く　
+　
+最新情報は、https://www.robnugen.com/jaalias_path　
+　
+**参加費**　
+　
+500円 (寄付)　
+　
+**持ち物**　
+　
+自分の体調管理に必要なもの。 軽い靴をお持ちください。　
+軽い靴を持ってきてください。また、歩くときに靴を持ち運びたい場合は、靴を入れる袋も必要です。　
+　
+セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。　
+　
+**COVID-19の配慮について**　
+　
+マスク着用はご自身の判断にお任せします。　
+　
+　
+----------------------------------------　
+TOPICS  FEEL FREE TO CHANGE:　
+* Wellness　
+* Stress Management　
+* Relaxation　
+* Barefoot　
+* Outdoors　
+　
+　
+UNSELECT Make this an online event　
+　
+CLICK Yoyogi Park　
+　
+CLICK Edit map pin　
+　
+SLIDE MAP under pin　
+　
+　
++++++++++++++++++++++++++++++++++++++++++++++++　
+How to find us:　
+
+Look for Barefoot Rob, barefoot by benches outside Izumi Tamagawa Station　
+https://goo.gl/maps/4yh8TLgADixQYnzU8　
+
++++++++++++++++++++++++++++++++++++++++++++++++　
+　
+COVID-19 safety measures　
+　
+Masks OFF　
+VAX   OFF　
+　
+Venue Outdoor　
+　
+Optional settings　
+　
+Allow guests:    5　
+　
+Event fee:  ON　
+Direct from member　
+JPY    500　
+　
+Publish　
+　
+Notify　
+　
