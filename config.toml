@@ -11,6 +11,7 @@ unsafe= true
     hideSidebarIconText = true
 	twitterName = "thunderrabbit"
 	githubName = "thunderrabbit"
+  mastadon = "@mograph.social/@robnugen"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
 	description = "World's Greatest Grounding Coach"
