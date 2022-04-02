@@ -2,11 +2,11 @@
 title: "Barefoot walking event under full moon near Izumi Tamagawa"
 tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izumi-tamagawa", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-04-02T17:32:41+09:00
-EventLocation: ""
-EventTime: "20:00"
+date: 2022-04-02T18:58:51+09:00
+EventLocation: "Izumi Tamagawa"
+EventTime: "19:55"
 TimeDescription: "gather at 19:45; walk to Tama River at 19:55"
-EventDate: "2022-04-15T20:00:00+09:00"
+EventDate: "2022-04-15T19:55:00+09:00"
 aliases: [
     "/en/events/2022/04/15barefoot-walking-event-under-full-moon-near-izumi-tamagawa",
 ]
@@ -56,7 +56,7 @@ motions of your body, one breath and one step at a time.
 
 19:45 Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-19:55 Walk toward Tama River
+19:55: Walk toward Tama River
 
 The grass is nice for walking and relaxing.  Enjoy the light of the full moon.
 
