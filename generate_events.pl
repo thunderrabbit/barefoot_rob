@@ -102,6 +102,7 @@ my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      
 my $bold_life_tribe_publish_date = $event_date_time->clone->subtract( days => 8 );  # 6 if we can get Hugo to stop lagging by being on DH server in California time zone     # Publish Bold Life Tribe just N days ahead so they don't swamp future even though I can bang them out
 my $first_gathering_time = rpl::Functions::get_time("gathering time of event",$guessed_gathering_time);
 my $first_departure_time = $first_gathering_time->clone->add( minutes => 15 )->strftime("%H:%M");      # Only used for Shin Yuri Art Park, with two meeting points
+my $izumi_departure_time = $first_gathering_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Izumi Tamagawa (five minutes walk to BLUE)
 print "event date time: $event_date_time" . "\n";
 print "first gathering time: $first_gathering_time" . "\n";
 print "first departure time: $first_departure_time" . "\n";
@@ -195,6 +196,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
+  $mt3_episode_output =~ s/IZUMI_DEPARTURE_TIME/$izumi_departure_time/g;
   $mt3_episode_output =~ s/episode_image/$episode_image/;
   $mt3_episode_output =~ s/episode_image_alt/$episode_image_alt/;
   $mt3_episode_output =~ s/IMAGE_CREDIT/$image_credit/g;

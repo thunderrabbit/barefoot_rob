@@ -1,21 +1,21 @@
 ---
 title: "裸足で歩く、東京の端っこ。和泉多摩川"
-tags: [ %s ]
+tags: [ "2022", "Barefoot Rob", "barefoot", "blue-cafe", "event", "izumi-tamagawa", "may", "riverside", "saturday", "spring", "tamagawa", "walk", "はだし", "多摩川", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "FIRST_GATHERING_TIMEに集合、EVENT_TIMEに多摩川まで歩く"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-04-02T19:54:05+09:00
+EventLocation: "Izumi Tamagawa"
+EventTime: "13:00"
+TimeDescription: "12:45に集合、13:00に多摩川まで歩く"
+EventDate: "2022-05-07T13:00:00+09:00"
 aliases: [
-    "/jaalias_path",
+    "/ja/events/2022/05/07blue-cafe-barefoot-walking-event-near-izumi-tamagawa-every-1st-saturday",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/cawa_no_mamiko.png" "cawa no mamiko" %}}
 
 <div class="note">写真:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://www.instagram.com/cawa_sanpo/">https://www.instagram.com/cawa_sanpo/</a>
 </div>
 
 精神をリフレッシュする。地球に触れる。自然とつながる。友達とつながる。
@@ -24,7 +24,7 @@ aliases: [
 
 #### 第一集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+2022年5月7日　12:45
 
 [集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
 https://goo.gl/maps/4yh8TLgADixQYnzU8
@@ -33,7 +33,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 #### 第二集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_DEPARTURE_TIME後
+2022年5月7日　13:00後
 
 [Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
 https://goo.gl/maps/PX2LgNKF9iz4EyXx9
@@ -44,11 +44,11 @@ https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
 #### 詳細
 
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+12:45 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-IZUMI_DEPARTURE_TIME: Blue Cafeに集合
+12:55: Blue Cafeに集合
 
-EVENT_TIME 多摩川に向かって歩く
+13:00 多摩川に向かって歩く
 
 *芝生を楽しむ*
 

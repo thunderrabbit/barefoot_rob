@@ -1,21 +1,21 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Blue Cafe barefoot walking event near Izumi Tamagawa every 1st Saturday"
+tags: [ "2022", "Barefoot Rob", "barefoot", "blue-cafe", "event", "izumi-tamagawa", "may", "riverside", "saturday", "spring", "tamagawa", "walk", "はだし", "多摩川", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Blue Cafe at IZUMI_DEPARTURE_TIME; walk to Tama River around EVENT_TIME"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-04-02T19:54:05+09:00
+EventLocation: "Izumi Tamagawa"
+EventTime: "13:00"
+TimeDescription: "gather at 12:45; walk to Blue Cafe at 12:55; walk to Tama River around 13:00"
+EventDate: "2022-05-07T13:00:00+09:00"
 aliases: [
-    "/enalias_path",
+    "/en/events/2022/05/07blue-cafe-barefoot-walking-event-near-izumi-tamagawa-every-1st-saturday",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/cawa_no_mamiko.png" "cawa no mamiko" %}}
 
 <div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://www.instagram.com/cawa_sanpo/">https://www.instagram.com/cawa_sanpo/</a>
 </div>
 
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
@@ -24,12 +24,12 @@ Enjoy chatting and barefoot walking: share new experiences with like-minded frie
 
 #### Join Us
 
-**Meeting Spot #1 FIRST_GATHERING_TIME by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
+**Meeting Spot #1 12:45 by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 [![2021 aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
 
-**Meeting Spot #2 around FIRST_DEPARTURE_TIME [Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
+**Meeting Spot #2 around 13:00 [Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
 https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
 [![blue cafe](//b.robnugen.com/blog/2022/thumbs/blue_cafe.jpg)](//b.robnugen.com/blog/2022/blue_cafe.jpg)
@@ -38,11 +38,11 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+12:45 Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-IZUMI_DEPARTURE_TIME: Walk toward Blue Cafe
+12:55: Walk toward Blue Cafe
 
-EVENT_TIME: Go to riverside for barefoot walk and talk event
+13:00: Go to riverside for barefoot walk and talk event
 
 *Enjoy Grass*
 
