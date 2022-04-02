@@ -1,32 +1,32 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Barefoot walking event under lunar eclipse near Izumi Tamagawa"
+tags: [ "2022", "Barefoot Rob", "barefoot", "event", "eclipsed moon", "izumi-tamagawa", "november", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Tama River at IZUMI_DEPARTURE_TIME"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-10-02T20:23:18+09:00
+EventLocation: "Izumi Tamagawa for eclipsed moon 月食"
+EventTime: "19:30"
+TimeDescription: "gather at 19:15; walk to Tama River at 19:25"
+EventDate: "2022-11-08T19:30:00+09:00"
 aliases: [
-    "/enalias_path",
+    "/en/events/2022/11/08barefoot-walking-event-under-lunar-eclipse-near-izumi-tamagawa",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/2022_nov_08_lunar_eclipse_timeanddate.com.png" "2022 nov 08 lunar eclipse timeanddate" %}}
 
 <div class="note">image:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://www.timeanddate.com/eclipse/in/japan/tokyo">https://www.timeanddate.com/eclipse/in/japan/tokyo</a>
 </div>
 
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
-Enjoy chatting and barefoot walking on the full moon night.  Share beautiful experiences with like-minded friends!
+Enjoy chatting and barefoot walking on the eclipsed moon night.  Share beautiful experiences with like-minded friends!
 
-We'll also share some quiet time in prayer under the full moon.
+We'll also share some quiet time in prayer under the eclipsed moon.
 
 #### When
 
-**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**
+**Tuesday 08 November 2022, gather at 19:15; walk toward Tama River at 19:30**
 
 #### Where
 
@@ -58,11 +58,11 @@ We'll relax in a lovely grass baseball field next to Tama River.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+19:15 Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-IZUMI_DEPARTURE_TIME: Walk toward Tama River
+19:25: Walk toward Tama River
 
-The grass is nice for walking and relaxing.  Enjoy the light of the full moon.
+The grass is nice for walking and relaxing.  Enjoy the light of the eclipsed moon.
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -78,9 +78,3 @@ Bring lightweight shoes for the short (~5 minute) walk to the river.
 Watch for little rocks!
 
 Self care is important, so wear shoes whenever you need to!
-
-**Covid Considerations**
-
-You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.  If you want a group with masks,
-I recommend https://www.meetup.com/tokyospontaneous
