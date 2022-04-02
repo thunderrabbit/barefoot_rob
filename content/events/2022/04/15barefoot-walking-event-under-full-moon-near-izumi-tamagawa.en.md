@@ -4,9 +4,9 @@ tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izum
 author: Rob Nugen
 date: 2022-04-02T20:02:40+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
-EventTime: "19:55"
+EventTime: "20:00"
 TimeDescription: "gather at 19:45; walk to Tama River at 19:55"
-EventDate: "2022-04-15T19:55:00+09:00"
+EventDate: "2022-04-15T20:00:00+09:00"
 aliases: [
     "/en/events/2022/04/15barefoot-walking-event-under-full-moon-near-izumi-tamagawa",
 ]
@@ -22,7 +22,7 @@ We'll also share some quiet time in prayer under the full moon.
 
 #### When
 
-**Friday 15 April 2022, gather at 19:45; walk toward Tama River at 19:55**
+**Friday 15 April 2022, gather at 19:45; walk toward Tama River at 20:00**
 
 #### Where
 

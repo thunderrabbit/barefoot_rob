@@ -133,7 +133,7 @@ our %event_locations = (
     "rinko_park" => "Rinko Park, Yokohama",
     "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
     "izumi_tamagawa" => "Izumi Tamagawa",
-    "izumi_tamagawa_full_moon" => "Izumi Tamagawa",
+    "izumi_tamagawa_full_moon" => "Izumi Tamagawa for full moon 満月",
     "shin_yuri_art_park" => "Shin Yuri Art Park",
 );
 

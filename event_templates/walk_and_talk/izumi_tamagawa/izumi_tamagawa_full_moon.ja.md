@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "FIRST_GATHERING_TIMEに集合、EVENT_TIMEに多摩川まで歩く"
+TimeDescription: "FIRST_GATHERING_TIMEに集合、IZUMI_DEPARTURE_TIMEに多摩川まで歩く"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/jaalias_path",
@@ -24,7 +24,7 @@ https://www.timeanddate.com/eclipse/in/japan/tokyo
 
 #### 日程
 
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
+**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、IZUMI_DEPARTURE_TIMEに多摩川を目指して歩きます。**
 
 #### 第一集合場所
 
@@ -59,7 +59,7 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-EVENT_TIME 多摩川に向かって歩く
+IZUMI_DEPARTURE_TIME 多摩川に向かって歩く
 
 芝生は散歩とリラクセーションにもってこいです。
 満月の光を楽しみましょう。

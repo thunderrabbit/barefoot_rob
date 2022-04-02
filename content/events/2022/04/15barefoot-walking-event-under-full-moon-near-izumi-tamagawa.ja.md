@@ -4,9 +4,9 @@ tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izum
 author: Rob Nugen
 date: 2022-04-02T20:02:40+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
-EventTime: "19:55"
+EventTime: "20:00"
 TimeDescription: "19:45に集合、19:55に多摩川まで歩く"
-EventDate: "2022-04-15T19:55:00+09:00"
+EventDate: "2022-04-15T20:00:00+09:00"
 aliases: [
     "/ja/events/2022/04/15barefoot-walking-event-under-full-moon-near-izumi-tamagawa",
 ]
@@ -22,7 +22,7 @@ aliases: [
 
 #### 日程
 
-**2022年4月15日　19:45集合、正午に多摩川を目指して歩きます。**
+**2022年4月15日　19:45集合、19:55に多摩川を目指して歩きます。**
 
 #### 第一集合場所
 
@@ -35,7 +35,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 #### 第二集合場所
 
-2022年4月15日　19:55後
+2022年4月15日　20:00後
 
 [多摩川と小田急の踏切](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)

@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Tama River at EVENT_TIME"
+TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Tama River at IZUMI_DEPARTURE_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
@@ -58,7 +58,7 @@ motions of your body, one breath and one step at a time.
 
 FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-EVENT_TIME: Walk toward Tama River
+IZUMI_DEPARTURE_TIME: Walk toward Tama River
 
 The grass is nice for walking and relaxing.  Enjoy the light of the full moon.
 
