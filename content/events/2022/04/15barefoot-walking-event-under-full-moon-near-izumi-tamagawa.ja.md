@@ -4,7 +4,7 @@ tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izum
 author: Rob Nugen
 date: 2022-04-02T18:13:00+09:00
 EventLocation: ""
-EventTime: "19:55"
+EventTime: "20:00"
 TimeDescription: "19:45に集合、19:55に多摩川まで歩く"
 EventDate: "2022-04-15T19:55:00+09:00"
 aliases: [
