@@ -4,7 +4,7 @@ tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izum
 author: Rob Nugen
 date: 2022-04-02T18:58:51+09:00
 EventLocation: "Izumi Tamagawa"
-EventTime: "19:55"
+EventTime: "20:00"
 TimeDescription: "gather at 19:45; walk to Tama River at 19:55"
 EventDate: "2022-04-15T19:55:00+09:00"
 aliases: [
