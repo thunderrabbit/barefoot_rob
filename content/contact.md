@@ -20,7 +20,11 @@ I sometimes post events on [meetup.com Tokyo Sol](https://www.meetup.com/Tokyo-S
 
 Interested in 1-on-1 sessions or attending other events?  Feel free to get in touch below:
 
-<form class="pure-form pure-form-stacked" name="contact" method="POST" netlify-honeypot="page" data-netlify="true">
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mzboaopl"
+  method="POST">
+  <!-- your other form fields go here -->
 
 <div>
     <label class="pure-form" for="name">
@@ -30,7 +34,8 @@ Interested in 1-on-1 sessions or attending other events?  Feel free to get in to
 </div>
 
 <p class="hidden">
-    <label>Don’t fill this out if you're human:<input class="pure-form" name="page" /></label>
+    <label>Don’t fill this out if you're human:<input class="pure-form" name="page" />
+    </label>
 </p>
 
 <div>
@@ -47,6 +52,6 @@ Interested in 1-on-1 sessions or attending other events?  Feel free to get in to
     </label>
 </div>
 
-<input class="pure-form" id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
+<button class="pure-form button_text" type="submit">Send</button>
 
 </form>
