@@ -1,9 +1,9 @@
-title:       %s　
+title:       %s
 date HUMANDATE   FIRST_GATHERING_TIME
-　
+
 episode_image
 
-　
+
 Refresh your spirit. Touch the earth. Touch the sea. Connect with yourself and nature.
 　
 Barefoot walking, breathing, enjoying fresh sea breeze.
@@ -34,7 +34,7 @@ What to Expect:
 
 * I will talk about how to safely walk barefoot.
 * We will feel grass, concrete, and sea breeze.
-* Let's enjoy discovering the park together!　
+* Let's enjoy discovering the park together!
 * If the weather is nice, bring lunch to enjoy in the park!
 　
 Latest info https://www.robnugen.com/enalias_path
@@ -63,7 +63,7 @@ You know the situation. I know you have thought about it and I trust you to make
 　
 ==== 集合場所 ====
 　
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+EVENT_YYYY年EVENT_M月EVENT_D日EVENT_TIME
 　
 臨港パークの「臨港パーク アーチ橋」の横の円形スペースに集合。
 　
@@ -87,7 +87,7 @@ https://goo.gl/maps/k5XcA7ueXCCsPErV9
 
 * 裸足で安全に歩く方法についてお話します。
 * 芝生、コンクリート、海風を感じられます。
-* 公園での新たな発見を、皆で楽しみましょう！　
+* 公園での新たな発見を、皆で楽しみましょう！
 * お天気が良い場合はランチを持参してください。公園でお昼を一緒に食べましょう！
 　
 **参加費**
@@ -116,41 +116,41 @@ TOPICS  FEEL FREE TO CHANGE:
 * Wellness
 * Stress Management
 * Relaxation
-* Barefoot　
+* Barefoot
 * Outdoors
 
-　
+
 UNSELECT Make this an online event
-　
+
 CLICK Rinko Park
-　
+
 CLICK Edit map pin
-　
+
 SLIDE MAP under pin
 
 
-+++++++++++++++　++++++++++++++++++++++++++++++++
-How to find us:
-　
-Look for Barefoot Rob, barefoot in circular space by Rinko Park Arch Bridge
-　
 +++++++++++++++++++++++++++++++++++++++++++++++
-　
+How to find us:
+
+Look for Barefoot Rob, barefoot in circular space by Rinko Park Arch Bridge
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
 COVID-19 safety measures
 
-Masks OFF　
+Masks OFF
 VAX   OFF
-　
+
 Venue Outdoor
-　
+
 Optional settings
-　
+
 Allow guests:    5
 
 Event fee:  ON
-Direct fro　m member
+Direct from member
 JPY    500
-　
+
 Publish
 
 Notify

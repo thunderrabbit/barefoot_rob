@@ -1,8 +1,8 @@
 title:       %s
 HUMANDATE       FIRST_GATHERING_TIME
-　
+
 episode_image
-　
+
 
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 　
@@ -74,18 +74,18 @@ to make a good decision for yourself.
 　
 ==== 日程 ====
 　
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
+**EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
 　
 ==== 第一集合場所 ====
 　
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME
 　
 集合場所：和泉多摩川駅前ベンチ
 https://goo.gl/maps/4yh8TLgADixQYnzU8
 　
 ==== 第二集合場所 ====
 　
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
+EVENT_YYYY年EVENT_M月EVENT_D日EVENT_TIME後
 　
 多摩川と小田急の踏切
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
@@ -96,7 +96,7 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 ==== 詳細 ====
 　
-*Enjoy moonlight*　（満月を満喫しよう）
+*Enjoy moonlight*（満月を満喫しよう）
 　
 天候が良ければ、裸足で芝生を楽しみながら月の光を浴びられます！
 　
@@ -156,8 +156,8 @@ SLIDE MAP under pin to trees next to station
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
 
-Look for Barefoot Rob, barefoot by benches outside Izumi Tamagawa Station　
-https://goo.gl/maps/4yh8TLgADixQYnzU8　
+Look for Barefoot Rob, barefoot by benches outside Izumi Tamagawa Station
+https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 

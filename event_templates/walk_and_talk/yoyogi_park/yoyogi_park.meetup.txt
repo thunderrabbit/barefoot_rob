@@ -1,8 +1,8 @@
-title:    %s　
+title:    %s
 date HUMANDATE   FIRST_GATHERING_TIME
-　
+
 episode_image
-　
+
 Refresh your spirit. Touch the earth. Connect with nature.
 　
 Barefoot Walking Experience:
@@ -16,7 +16,7 @@ Barefoot walking, breathing, enjoying fresh air.
 Latest info https://www.robnugen.com/enalias_path
 　
 ==== Where ====
-
+　
 **Yoyogi Park by the clock near Harajuku entrance**
 (https://goo.gl/maps/xabS6Nw7TgNScqeCA)
 　
@@ -28,7 +28,7 @@ Yoyogi Park has lots of big beautiful trees surrounding its large grassy field.
 　
 *Enjoy Connection*
 
-Get away from it all by settling into your being and not　icing the
+Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 　
 FIRST_GATHERING_TIME Meet at Harajuku Gate of Yoyogi Park  https://goo.gl/maps/xabS6Nw7TgNScqeCA
@@ -44,16 +44,16 @@ Latest info https://www.robnugen.com/enalias_path
 **What to bring**
 
 Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe 　a bag for them just in case you need to put them on
+shoes and maybe a bag for them just in case you need to put them on
 during the walk!
 　
 Self care is important, so wear shoes whenever you need to!
 　
 **Covid Considerations**
-
-You know the drill.  I know you have 　thought about it and I trust you
+　
+You know the drill.  I know you have thought about it and I trust you
 to make a good decision for yourself.
-
+　
 　
 精神をリフレッシュする。地球に触れる。自然とつながる。
 　
@@ -63,7 +63,7 @@ to make a good decision for yourself.
 　
 ==== 日程 ====
 　
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
+**EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
 　
 最新情報は、https://www.robnugen.com/jaalias_path
 　
@@ -79,11 +79,11 @@ to make a good decision for yourself.
 代々木公園は、広大な芝生広場を囲むように、美しい大木がたくさんあります。
 　
 *Enjoy Connection*（つながりを楽しむ）
-
-自分の存在を意識し、自分の体の動きに気づくことで、すべてか　ら逃れましょう。
+　
+自分の存在を意識し、自分の体の動きに気づくことで、すべてから逃れましょう。
 一息一歩、体の動きに気づくことで、すべてから解放されます。
-
-FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合　
+　
+FIRST_GATHERING_TIME 代々木公園の原宿ゲートに集合
 https://goo.gl/maps/xabS6Nw7TgNScqeCA
 　
 正午12時00分 代々木公園に入場
@@ -95,9 +95,9 @@ https://goo.gl/maps/xabS6Nw7TgNScqeCA
 500円 (寄付)
 　
 **持ち物**
-
+　
 ご自身のケアに必要なもの。 軽装でお越しください。
-また、ウォーキング中に靴を履　く必要がある場合に備えて、靴を入れる袋も必要です。
+また、ウォーキング中に靴を履く必要がある場合に備えて、靴を入れる袋も必要です。
 軽い靴を履いてきてください。
 　
 セルフケアは重要ですので、必要に応じて靴を履きましょう。
@@ -112,39 +112,39 @@ TOPICS  FEEL FREE TO CHANGE:
 * Wellness
 * Stress Management
 * Relaxation
-* Barefoot　
+* Barefoot
 * Outdoors
 
-　
+
 UNSELECT Make this an online event
-　
+
 CLICK Yoyogi Park
-　
+
 CLICK Edit map pin
-　
+
 SLIDE MAP under pin
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Look for Barefoot Rob, barefoot by the clock!　
+Look for Barefoot Rob, barefoot by the clock!
 +++++++++++++++++++++++++++++++++++++++++++++++
-　
+
 COVID-19 safety measures
 
-Masks OFF　
+Masks OFF
 VAX   OFF
-　
+
 Venue Outdoor
-　
+
 Optional settings
-　
+
 Allow guests:    5
 
 Event fee:  ON
-Direct fro　m member
+Direct from member
 JPY    500
-　
+
 Publish
 
 Notify

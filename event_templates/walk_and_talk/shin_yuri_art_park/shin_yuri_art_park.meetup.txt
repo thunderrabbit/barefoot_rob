@@ -33,7 +33,7 @@ Shinyuri Art Parks features an immaculate large grassy field.
 　
 *Enjoy Breathing*
 
-Get away from it all by settling into your being and not　icing the
+Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 　
 *Enjoy Community*
@@ -46,14 +46,14 @@ Find like-minded others who enjoy walking barefoot!
 　
 **What to bring**
 
-Whatever you need to take care of yourself.  Come　 wearing lightweight
+Whatever you need to take care of yourself.  Come wearing lightweight
 shoes which you can take off at the grassy field.
 　
 Self care is important, so wear shoes whenever you need to!
 　
 **Covid Considerations**
 
-You know the situation.  I know you h　ave thought about it and I trust you
+You know the situation.  I know you have thought about it and I trust you
 to make a good decision for yourself.
 　
 精神をリフレッシュする。地球に触れる。自然とつながる。
@@ -98,7 +98,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 　
 **持ち物**
 
-ご自身のケアに必要なもの。 　軽装でお越しください。
+ご自身のケアに必要なもの。 軽装でお越しください。
 軽い靴を履いてきてください。
 　
 セルフケアが大切なので、必要に応じて靴を履くようにしましょう。
