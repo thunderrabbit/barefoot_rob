@@ -137,7 +137,7 @@ EVENT_TIME 多摩川に向かって歩く
 ============== T  A  G  S ===============
 =========================================
 
-* Wellness
+* Full Moon Meditation
 * Barefoot
 * Relaxation
 * Consciousness
@@ -146,16 +146,19 @@ EVENT_TIME 多摩川に向かって歩く
 
 UNSELECT Make this an online event
 
-CLICK Yoyogi Park
+CLICK Izumi-Tamagawa Station
 
 CLICK Edit map pin
 
-SLIDE MAP under pin
+SLIDE MAP under pin to trees next to station
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Look for Barefoot Rob, barefoot by the clock!
+
+Look for Barefoot Rob, barefoot by benches outside Izumi Tamagawa Station　
+https://goo.gl/maps/4yh8TLgADixQYnzU8　
+
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 COVID-19 safety measures
