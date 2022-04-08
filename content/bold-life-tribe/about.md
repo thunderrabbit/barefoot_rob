@@ -77,7 +77,18 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 
-* March focuses on finding our __PURPOSE__
+* April focuses on creating __SYSTEMS__
+* in May move forward with external __ACTION__
+* June focuses on inner and outer __JOY__
+* July is a time to __CONNECT__
+* August we dive deep into __INTIMACY__
+* September settle into __SOVEREIGNTY__
+* October is a chance for __OFFERING__
+* November we go within via __RELEASE__
+* December is the month of __FREEDOM__
+* in January hear your inner __CALLING__
+* February focuses on __TRUTH__
+* March focuses on honing our __PURPOSE__
 
 ## Questions ##
 
