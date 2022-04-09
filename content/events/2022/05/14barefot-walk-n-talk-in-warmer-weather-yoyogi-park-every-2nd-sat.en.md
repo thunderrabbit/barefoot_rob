@@ -2,14 +2,14 @@
 title: "Barefot walk-n-talk in warmer weather Yoyogi Park (every 2nd Sat)"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "may", "saturdays", "talk", "walk", "yoyogi", "はだし", "代々木公園", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-04-09T20:04:07+09:00
+date: 2022-04-09T20:30:40+09:00
 EventLocation: "Yoyogi Park"
 EventTime: "12:00"
 TimeDescription: "gather at 11:45; enter the Park at 12:00"
-EventDate: "2022-05-07T12:00:00+09:00"
+EventDate: "2022-05-14T12:00:00+09:00"
 aliases: [
-  "/en/events/2022/05/07barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat",
-  "/en/events/2022/05/07barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat-",
+    "/en/events/2022/05/14barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat",
+    "/en/events/2022/05/14barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat-",
 ]
 ---
 
@@ -23,7 +23,7 @@ Barefoot walking, breathing, enjoying fresh air.
 
 #### When
 
-**Saturday 07 May 2022: gather at 11:45; enter Yoyogi Park at 12:00**
+**Saturday 14 May 2022: gather at 11:45; enter Yoyogi Park at 12:00**
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
