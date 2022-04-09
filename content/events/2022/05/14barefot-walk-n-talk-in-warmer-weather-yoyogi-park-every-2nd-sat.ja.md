@@ -9,6 +9,9 @@ TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2022-05-14T12:00:00+09:00"
 aliases: [
     "/ja/events/2022/05/14barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat-",
+    "/ja/events/2022/05/07barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat-",
+    "/ja/events/2022/05/14barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat",
+    "/ja/events/2022/05/07barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat",
 ]
 ---
 

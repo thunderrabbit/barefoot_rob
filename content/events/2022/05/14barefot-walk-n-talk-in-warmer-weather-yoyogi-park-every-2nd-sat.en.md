@@ -10,6 +10,7 @@ EventDate: "2022-05-14T12:00:00+09:00"
 aliases: [
     "/en/events/2022/05/14barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat",
     "/en/events/2022/05/14barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat-",
+    "/en/events/2022/05/07barefot-walk-n-talk-in-warmer-weather-yoyogi-park-every-2nd-sat",
 ]
 ---
 
