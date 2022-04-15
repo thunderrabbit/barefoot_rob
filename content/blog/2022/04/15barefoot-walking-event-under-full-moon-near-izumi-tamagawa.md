@@ -1,5 +1,5 @@
 ---
-title: "Barefoot walking event under full moon near Izumi Tamagawa"
+title: "Barefoot walking event overcast under full moon near Izumi Tamagawa"
 tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izumi-tamagawa", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-04-15T23:33:26+09:00

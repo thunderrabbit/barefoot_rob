@@ -1,5 +1,5 @@
 ---
-title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
+title: "満月の曇り夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2022", "Barefoot Rob", "april", "barefoot", "event", "full moon", "izumi-tamagawa", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-04-02T20:02:40+09:00
