@@ -41,7 +41,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
 
-[多摩川と小田急の踏切](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
+[高架下(スポーツクラブ  ブルー多摩川横)の河川敷](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 [![2021 Aug 16 tama river odakyu line setagaya](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_tama_river_odakyu_line_setagaya.png)](//b.robnugen.com/blog/2021/2021_aug_16_tama_river_odakyu_line_setagaya.png)
