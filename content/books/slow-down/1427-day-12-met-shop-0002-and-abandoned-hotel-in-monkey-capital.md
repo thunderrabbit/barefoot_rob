@@ -199,6 +199,23 @@ Wow would I have received it if I hadn't asked??
 [![2021 apr 27 1830 dinner with son](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/thumbs/2021_apr_27_1830_dinner_with_son.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-12/2021_apr_27_1830_dinner_with_son.jpg)
 
 
+BEGIN pics posted 29 April 2021, title pics-of-rob-day-12 so apparently from Day 12
+
+#### date: '2021-04-29T06:13:10+09:00'
+
+    title: 'pics of rob day 12'
+
+Jason took pics of me on the Red bridge
+
+[![2021 apr 28 rob cheese on red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_cheese_on_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_cheese_on_red_bridge.jpeg)
+[![2021 apr 28 rob walking on red bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_walking_on_red_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_walking_on_red_bridge.jpeg)
+[![2021 apr 28 rob at obansanja shrine](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_at_obansanja_shrine.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_at_obansanja_shrine.jpeg)
+[![2021 apr 28 rob on mitsukuni tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_on_mitsukuni_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_on_mitsukuni_tunnel.jpeg)
+[![2021 apr 28 rob walking along windowed tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_walking_along_windowed_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_walking_along_windowed_tunnel.jpeg)          
+
+END pics posted 29 April 2021, title pics-of-rob-day-12 so apparently from Day 12
+
+
 Here was the plan for Day Twelve
 
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
