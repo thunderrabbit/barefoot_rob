@@ -22,7 +22,7 @@ alt="Francois at Canak's Pizza"
 class="title" />
 
 Canak’s Pizza
-https://m.facebook.com/PIZZACANAK/
+https://www.facebook.com/PIZZACANAK/
 
 [![2021 may 04 canuks hand made pizza](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_canuks_hand_made_pizza.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_canuks_hand_made_pizza.jpeg)
 
