@@ -183,7 +183,8 @@ I guess these are to catch snow..
 
 This is where we transferred from highway 17 to walking on the trails around Mitsukuni Tunnel
 
-[![2021 apr 28 planning to hike from here to there](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_planning_to_hike_from_here_to_there.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_planning_to_hike_from_here_to_there.jpeg)          
+[![2021 apr 28 planning to hike from here to there](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_planning_to_hike_from_here_to_there.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_planning_to_hike_from_here_to_there.jpeg)
+
 #### date: '2021-04-28T13:59:00+09:00'
 
     title: 'snow on the trail and tunnel through the trees'
