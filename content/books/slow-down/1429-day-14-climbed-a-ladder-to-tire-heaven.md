@@ -24,6 +24,247 @@ alt="Truck Tire Heaven is an array of truck tires"
 class="title" />
 
 
+#### date: 2021-04-29T07:44:54+09:00
+
+    title: "OMG I did not know the ways this trip would be difficult"
+
+I had a good cry this morning with Shraddhan on our daily call.
+
+* callous on my right foot despite wearing sandals
+* long-ass walk yesterday 6 hours through the hills after 2 hours on the highway
+* crying last night because I could not figure out how to put together my futon
+* sandals ripping almost apart yesterday
+* not able to find the photo I took yesterday
+* not getting the photo I wanted (and basically too late to go back)
+* camera could not use 32GB card
+* and it's raining today
+
+Plan for yesterday was
+
+<!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
+<div class="walk-segment">
+
+* Day <span class="day_source">Thirteen</span>
+(<span class="day_date">Wednesday April 28th</span> *)
+1 part:
+<br>
+Walk <span class="km_source">14</span>km,
+From [Sports Inn Fujiya](https://goo.gl/maps/jXdUYeUBKoghTaQ78)
+To [Family House Akashiya](https://goo.gl/maps/Cs43KenXgvZJVFoT8)
+(<span class="km_total">217</span>km walked so far)
+
+Will use:
+
+* [Shinmikunio Bridge](https://goo.gl/maps/qBT5vo9Xu1GCvPs6A)
+
+Will *not* use:
+
+* [tunnels](https://goo.gl/maps/fvxS6g6ys3iLmdMs8)!
+
+Notice the tunnels on Highway 17 (Mikuni Highway), south of [Obansanja Shrine](https://goo.gl/maps/FPMimFRj2ETNoCj3A).  Along 17, I will take a [trail starting here](https://goo.gl/maps/eRdo2j5maUF2EdpM9), hike *around* the tunnels, past [Obansanja Shrine](https://goo.gl/maps/yyt6VTDutJXz9htm7), and [finish the trail here](https://goo.gl/maps/2LChPf3Uo6w7HVxK7).
+
+You may notice there is another [tunnel looking thing, but it has a sidewalk](https://goo.gl/maps/6apj5cUHDrySQp4z9) next to it.
+
+[![Walk 14km
+from Sports Inn Fujiya
+to Family House Akashiya
+](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_19_sports_inn_fujiya_family_house_akashiya.png)](https://goo.gl/maps/zfJWheGEa9n6Ywo27)
+
+</div>
+
+
+#### date: '2021-04-29T10:23:27+09:00'
+
+    title: 'Sake Base Naeba excellent signage'
+    location: 'geo:36.7895,138.79211;u=55.68299865722656'
+
+Sake Base Naeba has a very clear easy to read sign.
+
+[![2021 apr 28 excellent signage](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_excellent_signage.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_excellent_signage.jpeg)
+
+But the shop is closed
+
+[![2021 apr 28 but the shop is closed](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_but_the_shop_is_closed.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_but_the_shop_is_closed.jpeg)          
+
+
+
+#### date: '2021-04-29T10:26:19+09:00'
+
+    title: 'new princess souvenirs sign'
+    location: 'geo:36.78993,138.79174;u=21.121999740600586'
+
+New princess souvenirs
+
+[![2021 apr 28 new princess souvenirs sign](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_new_princess_souvenirs_sign.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_new_princess_souvenirs_sign.jpeg)
+
+Sign seems a bit less than new
+
+[![2021 apr 28 closeup of new princess sign](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_closeup_of_new_princess_sign.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_closeup_of_new_princess_sign.jpeg)
+
+
+#### date: '2021-04-29T10:29:49+09:00'
+
+    title: 'Another abandoned building'
+    location: 'geo:36.79017,138.79039;u=31.964000701904297'
+
+It looks to be about 12 stories tall and has a curved glass front facade and spiral staircase in the entryway that's completely cleared of any stuff.
+
+[![2021 apr 28 twelve story abandoned building](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_twelve_story_abandoned_building.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_twelve_story_abandoned_building.jpeg)
+[![2021 apr 28 sidewalk all broken](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_sidewalk_all_broken.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_sidewalk_all_broken.jpeg)
+[![2021 apr 28 spiral staircase in abandoned building](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_28_spiral_staircase_in_abandoned_building.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_28_spiral_staircase_in_abandoned_building.jpeg)    
+
+
+
+#### date: '2021-04-29T10:31:08+09:00'
+
+    title: 'Prosperitas temporarily closed'
+
+Google says it is temporarily closed.  I hope so because it looks like a nice place
+
+[![2021 apr 29 prosperita is closed](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_prosperita_is_closed.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_prosperita_is_closed.jpeg)
+
+Just to the right, we can see clouds hanging over the mountains
+
+[![2021 apr 29 clouds overhanging mountains](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_clouds_overhanging_mountains.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_clouds_overhanging_mountains.jpeg)          
+
+
+
+    date: '2021-04-29T11:15:47+09:00'
+    content/quests/walk-to-niigata/2021/04/29climbed-a-mystery-ladder-to-find-an-amazing-array-of-tires.md
+
+
+I found a ladder and just had to know where it led
+
+[![2021 apr 29 ladder to go on top of snow cover](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_ladder_to_go_on_top_of_snow_cover.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_ladder_to_go_on_top_of_snow_cover.jpeg)
+
+So far so good
+
+[![2021 apr 29 looking down from ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_looking_down_from_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_looking_down_from_ladder.jpeg)
+
+Oh wow this makes the entire trip worth it.  Seriously omg wowowowww this is great!!
+
+[![2021 apr 29 an array of truck tires](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_an_array_of_truck_tires.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_an_array_of_truck_tires.jpeg)
+
+Perfectly walkable being rubber so they are non-slip and a bit cushiony
+
+[![2021 apr 29 standing on a tire](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_standing_on_a_tire.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_standing_on_a_tire.jpeg)
+
+Don't mind me.  I'm just walking on an array of tires..
+
+[![2021 apr 29 walking on tires 1](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_walking_on_tires_1.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_walking_on_tires_1.jpeg)
+[![2021 apr 29 walking on tires 2](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_walking_on_tires_2.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_walking_on_tires_2.jpeg)
+[![2021 apr 29 walking on tires 3](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_walking_on_tires_3.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_walking_on_tires_3.jpeg)
+
+wow wow wow so cool!
+
+[![2021 apr 29 wow a whole mess of tires](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_wow_a_whole_mess_of_tires.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_wow_a_whole_mess_of_tires.jpeg)
+
+I think this is the happiest I have been for a while!
+
+[![2021 apr 29 could not be much happier](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_could_not_be_much_happier.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_could_not_be_much_happier.jpeg)
+
+Gotta head back eventually
+
+[![2021 apr 29 walking back over tires](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_walking_back_over_tires.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_walking_back_over_tires.jpeg)
+[![2021 apr 29 ready to go down the ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_ready_to_go_down_the_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_ready_to_go_down_the_ladder.jpeg)
+
+And I headed back down the ladder
+
+[![2021 apr 29 on the ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_on_the_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_on_the_ladder.jpeg)          
+
+
+    content/quests/walk-to-niigata/2021/04/29first-time-for-me-to-see-a-snow-blower.md
+    date: '2021-04-29T12:12:26+09:00'
+
+Wow a snow blower!
+
+I have never seen one of these up close before.
+
+[![2021 apr 29 full sized snow blower](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_full_sized_snow_blower.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_full_sized_snow_blower.jpeg)
+
+Nor had François seen one
+
+[![2021 apr 29 François on snow blower blades](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_francois_on_snow_blower_blades.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_francois_on_snow_blower_blades.jpeg)
+
+ohhhh so that's how they work!
+
+[![2021 apr 29 closeup of fan inside snow blower](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_closeup_of_fan_inside_snow_blower.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_closeup_of_fan_inside_snow_blower.jpeg)          
+
+
+#### date: '2021-04-29T13:00:38+09:00'
+
+    title: 'Interesting broken cement tube location'
+    location: 'geo:36.82993,138.78082;u=2500'
+
+Why are these cement tubes
+
+* clean,
+* broken, and
+* lined up ready to go?
+
+The ends of these concrete tubes are broken
+
+[![2021 apr 29 broken ends of concrete tubes](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_broken_ends_of_concrete_tubes.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_broken_ends_of_concrete_tubes.jpeg)
+
+otherwise they look clean and fine
+
+[![2021 apr 29 otherwise clean concrete tubes](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_otherwise_clean_concrete_tubes.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_otherwise_clean_concrete_tubes.jpeg)
+
+
+
+#### date: '2021-04-29T13:53:18+09:00'
+
+    title: 'Final random pics from today'
+
+Cute sign, but
+
+[![2021 apr 29 check out this sign](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_check_out_this_sign.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_check_out_this_sign.jpeg)
+
+are the cars supposed to be doing wheelies?
+
+[![2021 apr 29 are the cars supposed to be doing wheelies](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_are_the_cars_supposed_to_be_doing_wheelies.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_are_the_cars_supposed_to_be_doing_wheelies.jpeg)
+
+Is this broken concrete due to ice-induced cracking?
+
+[![2021 apr 29 half the curbs are broken half are fine](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_half_the_curbs_are_broken_half_are_fine.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_half_the_curbs_are_broken_half_are_fine.jpeg)
+
+Wow long walk
+
+[![2021 apr 29 walked 190km from tokyo](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_walked_190km_from_tokyo.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_walked_190km_from_tokyo.jpeg)
+
+What did they write on this sign?
+
+[![2021 apr 29 what did they write here](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_what_did_they_write_here.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_what_did_they_write_here.jpeg)
+
+Cherry blossoms are nearly in full bloom here
+
+[![2021 apr 29 cherry blossoms now blooming](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/thumbs/2021_apr_29_cherry_blossoms_now_blooming.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-14/2021_apr_29_cherry_blossoms_now_blooming.jpeg)
+
+
+Here was the plan for today but we skipped Dragondola because the weather was cloudy and seemed like we would not be able to see anything anyway.
+
+<div class="walk-segment">
+
+* Day <span class="day_source">Fourteen</span>
+(<span class="day_date">Thursday April 29th</span> *)
+Part 1:
+<br>
+Walk <span class="km_source">3</span>km,
+From [Family House Akashiya](https://goo.gl/maps/43Jynj1L11zv7dTC9)
+To [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
+(<span class="km_total">220</span>km walked so far)
+
+* Day <span class="day_source">Fourteen</span>
+(<span class="day_date">Thursday April 29th</span> *)
+Part 2:
+<br>
+Walk <span class="km_source">7</span>km,
+From [Dragondola Sanroku Station](https://goo.gl/maps/gBkPKGmpPV7t1cmZ8)
+To [Lodge Montoze](https://goo.gl/maps/j4p2azPf5xjYgyuN9)
+(<span class="km_total">227</span>km walked so far)
+
+</div>
+
 (written 2021_may_17 skipped dragondola snow_shed_tires_first_walk_first_two_tunnels)
 
 
