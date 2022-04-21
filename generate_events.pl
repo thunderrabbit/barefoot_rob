@@ -100,7 +100,13 @@ my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );
 my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
 my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      # clone = don't mess with other date
 my $bold_life_tribe_publish_date = $event_date_time->clone->subtract( days => 8 );  # 6 if we can get Hugo to stop lagging by being on DH server in California time zone     # Publish Bold Life Tribe just N days ahead so they don't swamp future even though I can bang them out
-my $first_gathering_time = rpl::Functions::get_time("gathering time of event",$guessed_gathering_time);
+my $first_gathering_time;
+if($what_kinda_event eq "book_chapter") {
+  # Don't need gathering_time, but do need a timestamp because of $first_gathering_time code etc
+  $first_gathering_time = $event_date_time;   # not used for book_chapter
+} else {
+  $first_gathering_time = rpl::Functions::get_time("gathering time of event",$guessed_gathering_time);
+}
 my $first_departure_time = $first_gathering_time->clone->add( minutes => 15 )->strftime("%H:%M");      # Only used for Shin Yuri Art Park, with two meeting points
 my $izumi_departure_time = $first_gathering_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Izumi Tamagawa (five minutes walk to BLUE)
 print "event date time: $event_date_time" . "\n";
