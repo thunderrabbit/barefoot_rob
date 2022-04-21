@@ -10,4 +10,4 @@ Cool. I found a sprayer that is a little bit ripped up so I was able to look ins
 
 [![2021 may 02 peek inside a sprayer](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/thumbs/2021_may_02_peek_inside_a_sprayer.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/2021_may_02_peek_inside_a_sprayer.jpeg)          
 
-The coordinates of this entry look to be off again cuz I'm actually right next to the highway..
+The coordinates of this entry look to be off again because I'm actually right next to the highway..
