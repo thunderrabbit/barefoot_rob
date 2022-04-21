@@ -134,6 +134,9 @@ if($what_kinda_event eq "bold_life_tribe") {
     print "Need to create blurb file\n";
     rpl::Functions::blt_create_empty_blurb_file_for_date($event_date_time);
   }
+} elsif($what_kinda_event eq "book_chapter") {
+  my $prefix = "Day Eighteen "; # $rpl::Constants::event_title_prefixes{$what_kinda_event};  # "Day Eighteen "
+  $title = rpl::Functions::get_title($prefix);
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
