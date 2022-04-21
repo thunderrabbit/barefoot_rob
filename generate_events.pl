@@ -109,9 +109,9 @@ if($what_kinda_event eq "book_chapter") {
 }
 my $first_departure_time = $first_gathering_time->clone->add( minutes => 15 )->strftime("%H:%M");      # Only used for Shin Yuri Art Park, with two meeting points
 my $izumi_departure_time = $first_gathering_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Izumi Tamagawa (five minutes walk to BLUE)
-print "event date time: $event_date_time" . "\n";
-print "first gathering time: $first_gathering_time" . "\n";
-print "first departure time: $first_departure_time" . "\n";
+print "event date time: $event_date_time\n";
+print "first gathering time: $first_gathering_time\n";
+print "first departure time: $first_departure_time\n";
 
 my $title;
 my $topic;   # e.g. February is the month of __TRUTH__
