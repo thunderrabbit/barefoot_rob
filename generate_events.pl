@@ -121,6 +121,7 @@ print "first departure time: $first_departure_time\n";
 my $title;
 my $topic;   # e.g. February is the month of __TRUTH__
 my $blurb;   # paragraph to fill in BLURB_BLOCK
+my $chapter_contents;   # for creating book_chapters
 
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
@@ -147,6 +148,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   my $prefix = "Day " . ucfirst(spell_number($ordinal_day_number)) . " "; # "Day Eighteen "
   print("Spelled as $prefix\n");
   $title = rpl::Functions::get_title($prefix);
+  $chapter_contents = rpl::Functions::book_content_for_date($event_date_time);
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }

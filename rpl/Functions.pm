@@ -58,6 +58,42 @@ sub blt_create_empty_blurb_file_for_date($) {
   open (ETF, ">", $blurb_filename);
   close ETF;
 }
+
+# give me an array of file paths from which chapter content will be pulled
+sub __book_content_file_paths_for_date($) {
+  my ($dt) = @_;   # must be a DateTime or this function will be sad
+  my $path_prefix = "/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata"; # $rpl::Constants::blt_blurbs;
+  my $chapter_date = $dt->date("/");  # e.g. 2021/05/03
+  my $mm = $dt->strftime("%m");  # 02 for path name
+  print "Returning paths with prefix $path_prefix/$chapter_date\n\n";
+  print "Okay now need to get a list of files with ^^^^ prefix\n\n";
+  exit;
+}
+
+sub return_contents_of_files(@) {
+  # should open a list(?) of file paths and return their concatenated content
+  # STEPS(?)
+  # For each path
+  #   Open file
+  #   Process file
+  #     Find date in YAML header
+  #     Find title in YAML header
+  #     Find location in YAML header
+  #     Rewrite those lines at top of file:
+  #         #### DATE\n\n    title\n    location
+  #   Sort according to date
+  # For each date
+  #   append to output (in date order)
+  # Return contents, sorted by date
+  return "list of files I think: " . join("just a test ",@_);
+}
+
+sub book_content_for_date($) {
+  my ($dt) = @_;   # must be a DateTime or next function will be sad
+  my @content_files_regex = __book_content_file_paths_for_date($dt);   # must return an ARRAY of file paths (I think (22 Apr 2022))
+  return return_contents_of_files(@content_files_regex,1);   # takes an ARRAY of file paths (I think (22 Apr 2022))
+}
+
 sub std_in_logger() {
   my $si = <STDIN>;
   logthis($si);
