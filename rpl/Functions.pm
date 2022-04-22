@@ -24,7 +24,7 @@ sub return_contents_of_file(@) {
   my ($full_path,$ignore_error) = @_;
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $full_path) or $ignore_error or die "could not find template " . $full_path;
+  open (ETF, "<", $full_path) or $ignore_error or die "could not find file " . $full_path;
   my $content = <ETF>;
   close ETF;
   return $content;
@@ -71,6 +71,7 @@ sub __book_content_file_paths_for_date($) {
 }
 
 sub return_book_chapter_for_files(@) {
+  my %date_keyed_content_hash;
   # should open a list(?) of file paths and return their concatenated content
   # STEPS(?)
   # For each path
@@ -85,22 +86,57 @@ sub return_book_chapter_for_files(@) {
   #       #### DATE\n\n    title\n    location
   #   append to output (in date order)
   # Return contents, sorted by date
-  print "Processing these files:\n" . join("just a test\n",@_);
+  print "Processing these files:\n" . join("\n",@_) . "\n\n";
   # For each path
   foreach my $filepath (@_) {
     #   Open file
     print("$filepath\n");
+    my $unprocessed_file = return_contents_of_file($filepath);
+
+    print ("$unprocessed_file\n\n");
     #   Process file
-    #     Find date in YAML header
-    #     Find title in YAML header
-    #     Find location in YAML header
-    #   Sort according to date
+    my $file_frontmatter = extract_frontmatter($unprocessed_file);
+    my $file_content = wipe_frontmatter($unprocessed_file);
+
+    print($file_frontmatter);
+    print("$file_content\n");
+    my($file_date,$file_title,$post_location);
+    #     Find date in YAML header   # Only get date value, not so it can be used but so it looks better if we just write it into chapter
+    if($file_frontmatter =~ m/date: '([^']*)'/) {
+      $file_date = $1;
+    }
+    print("$file_date\n");
+    #     Find title in YAML header   # Grab whole line to mark it as meta info
+    if($file_frontmatter =~ m/(title: .*')/) {
+      $file_title = $1;
+    }
+    print("$file_title\n");
+    #     Find location in YAML header  # Grab whole line to mark it as meta info
+    if($file_frontmatter =~ m/(location: .*)/) {
+      $post_location = $1;
+    }
+    print("$post_location\n");
     # For each date
     #   Rewrite lines at top of file:
     #       #### DATE\n\n    title\n    location
-    #   append to output (in date order)
-    # Return contents, sorted by date
+    my $dated_output_thing = "#### " . $file_date . "\n\n" .
+                             "    " . $file_title . "\n";
+    if($post_location) {
+      $dated_output_thing .= "    " . $post_location . "\n";
+    }
+
+    $dated_output_thing .= $file_content . "\n";
+    print("$dated_output_thing");
+    $date_keyed_content_hash{$file_date} = $dated_output_thing;
   }
+  my $book_chapter_output;
+  #   Sort according to date
+  foreach my $file_date_key (sort keys %date_keyed_content_hash) {
+    #   append to output (in date order)
+    $book_chapter_output .= $date_keyed_content_hash{$file_date_key} . "\n";
+  }
+  # Return contents, sorted by date
+  return $book_chapter_output;
 }
 
 sub book_content_for_date($) {
