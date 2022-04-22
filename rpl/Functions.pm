@@ -24,7 +24,7 @@ sub return_contents_of_file(@) {
   my ($full_path,$ignore_error) = @_;
   local $/;  # makes changes local to this block
   undef $/;  # file slurp mode (default is "\n")
-  open (ETF, "<", $full_path) or $ignore_error or die "could not find template " . $full_path;
+  open (ETF, "<", $full_path) or $ignore_error or die "could not find file " . $full_path;
   my $content = <ETF>;
   close ETF;
   return $content;
@@ -58,6 +58,93 @@ sub blt_create_empty_blurb_file_for_date($) {
   open (ETF, ">", $blurb_filename);
   close ETF;
 }
+
+# give me an array of file paths from which chapter content will be pulled
+sub __book_content_file_paths_for_date($) {
+  my ($dt) = @_;   # must be a DateTime or this function will be sad
+  my $path_prefix = "/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata"; # $rpl::Constants::blt_blurbs;
+  my $chapter_date = $dt->date("/");  # e.g. 2021/05/03
+  my $mm = $dt->strftime("%m");  # 02 for path name
+  print "Returning paths with prefix $path_prefix/$chapter_date\n\n";
+  print "Okay now need to get a list of files with ^^^^ prefix\n\n";
+  return get_list_of_files_in_dir("/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata/2021/05","03");
+}
+
+sub return_book_chapter_for_files(@) {
+  my %date_keyed_content_hash;
+  # should open a list(?) of file paths and return their concatenated content
+  # STEPS(?)
+  # For each path
+  #   Open file
+  #   Process file
+  #     Find date in YAML header
+  #     Find title in YAML header
+  #     Find location in YAML header
+  #   Sort according to date
+  # For each date
+  #   Rewrite lines at top of file:
+  #       #### DATE\n\n    title\n    location
+  #   append to output (in date order)
+  # Return contents, sorted by date
+  print "Processing these files:\n" . join("\n",@_) . "\n\n";
+  # For each path
+  foreach my $filepath (@_) {
+    #   Open file
+    print("$filepath\n");
+    my $unprocessed_file = return_contents_of_file($filepath);
+
+    print ("$unprocessed_file\n\n");
+    #   Process file
+    my $file_frontmatter = extract_frontmatter($unprocessed_file);
+    my $file_content = wipe_frontmatter($unprocessed_file);
+
+    print($file_frontmatter);
+    print("$file_content\n");
+    my($file_date,$file_title,$post_location);
+    #     Find date in YAML header   # Only get date value, not so it can be used but so it looks better if we just write it into chapter
+    if($file_frontmatter =~ m/date: '([^']*)'/) {
+      $file_date = $1;
+    }
+    print("$file_date\n");
+    #     Find title in YAML header   # Grab whole line to mark it as meta info
+    if($file_frontmatter =~ m/(title: .*')/) {
+      $file_title = $1;
+    }
+    print("$file_title\n");
+    #     Find location in YAML header  # Grab whole line to mark it as meta info
+    if($file_frontmatter =~ m/(location: .*)/) {
+      $post_location = $1;
+    }
+    print("$post_location\n");
+    # For each date
+    #   Rewrite lines at top of file:
+    #       #### DATE\n\n    title\n    location
+    my $dated_output_thing = "#### " . $file_date . "\n\n" .
+                             "    " . $file_title . "\n";
+    if($post_location) {
+      $dated_output_thing .= "    " . $post_location . "\n";
+    }
+
+    $dated_output_thing .= $file_content . "\n";
+    print("$dated_output_thing");
+    $date_keyed_content_hash{$file_date} = $dated_output_thing;
+  }
+  my $book_chapter_output;
+  #   Sort according to date
+  foreach my $file_date_key (sort keys %date_keyed_content_hash) {
+    #   append to output (in date order)
+    $book_chapter_output .= $date_keyed_content_hash{$file_date_key} . "\n";
+  }
+  # Return contents, sorted by date
+  return $book_chapter_output;
+}
+
+sub book_content_for_date($) {
+  my ($dt) = @_;   # must be a DateTime or next function will be sad
+  my @content_files_regex = __book_content_file_paths_for_date($dt);   # must return an ARRAY of file paths (I think (22 Apr 2022))
+  return return_book_chapter_for_files(@content_files_regex);   # takes an ARRAY of file paths (I think (22 Apr 2022))
+}
+
 sub std_in_logger() {
   my $si = <STDIN>;
   logthis($si);
@@ -302,22 +389,26 @@ sub get_event_type(@) {
 
 ##  Return a list of files based on a directory
 sub get_list_of_files_in_dir($) {
-  my ($path_to_events) = @_;
+  my ($path_to_files,$file_prefix) = @_;
+  if ($file_prefix) {print("files must be prefixed with '$file_prefix'\n");}
   my @list_of_files;
 
-  print "Returning events from " . $path_to_events . "\n";
-  opendir DIR,$path_to_events;
+  print "Returning files from " . $path_to_files . "\n";
+  opendir DIR,$path_to_files;
   my @dir = readdir(DIR);
   close DIR;
   ## loop thanks to https://stackoverflow.com/a/1045814
   foreach(@dir){
-      if (-f $path_to_events . "/" . $_ ){
-        push (@list_of_files, $path_to_events . "/" . $_);    # will return a list of files
-      }elsif(-d $path_to_events . "/" . $_){
+      if (-f $path_to_files . "/" . $_ ){
+        if(!$file_prefix || m/^$file_prefix/) {
+          # either $file_prefix is empty or filename starts with $file_prefix.  Note: a sane human would include $_ =~ in the match above but I'm playing with Perl
+          push (@list_of_files, $path_to_files . "/" . $_);    # will return a list of files
+        }
+      }elsif(-d $path_to_files . "/" . $_){
         next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
-        print "ignoring directory " . $path_to_events . "/" . $_ . "\n";
+        print "ignoring directory " . $path_to_files . "/" . $_ . "\n";
       }else{
-        print "ignoring non file non directory " . $path_to_events . "/" . $_ . "\n";
+        print "ignoring non file non directory " . $path_to_files . "/" . $_ . "\n";
       }
   }
 
