@@ -1,15 +1,23 @@
 ---
 title: "Day 19 - lovely rivers and Canak's Pizza"
-tags: [ "2021", "book", "day-19", "may", "walk" ]
+tags: [ "2021", "book", "day-19", "may", "walk", "canaks", "pizza", "release" ]
 author: Rob Nugen
 date: 2022-04-22T18:21:01+09:00
 EventDate: "2021-05-04T12:00:00+09:00"
 aliases: [
+    "/quests/slow-down/2021-05-04_let-go-and-eat-pizza",
+    "/quests/slow-down/1504-2021-05-04_let-go-and-eat-pizza",
+    "/quests/slow-down/1504-let-go-and-eat-pizza",
+    "/books/slow-down/1504-let-go-and-eat-pizza",
+    "/yn0504",
+    "/ynday19",
     "/en/books/slow-down/1504-day-19-lovely-rivers-and-canak-s-pizza",
     "/en/books/slow-down/1504-day-nineteen-lovely-rivers-and-canak-s-pizza",
 ]
 draft: false
 ---
+
+title: "1504 Let Go and eat pizza"
 
 <img
 src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_francois_and_pizza.jpeg"
@@ -113,7 +121,9 @@ I said hello to a guy in Japanese and he replied that he doesn't speak English. 
 
 
 Canak's Pizza  
-https://m.facebook.com/PIZZACANAK/
+https://www.facebook.com/PIZZACANAK/
+
+[![2021 may 04 canuks hand made pizza](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_canuks_hand_made_pizza.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_canuks_hand_made_pizza.jpeg)
 
 On my way to the hotel for tonight I walked right by a pizza place but it turned out to be closed.
 
@@ -125,16 +135,20 @@ Walking across 信濃川 (Shinano-gawa), I spent some time talking to a sweet ol
 
 He gave me two cards from the local shrine, offering one of the two and then offering both after I told him about my anti-suicide campaign of this walk.
 
+[![2021 may 04 two cards front](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_two_cards_front.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_two_cards_front.jpeg)
+[![2021 may 04 two cards back](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_two_cards_back.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_two_cards_back.jpeg)
+
 After he left, I followed my map to the hotel but couldn't find it.  I walked around to where it seemed to be on the map and suddenly there was a pizza place.
 
 Wow!  Why wasn't this shown on the map before?
 
 I looked down and somehow had fat fingered the map to get myself to the pizza place from before instead of to my hotel.
 
-But a large pizza of which I'll eat half and save the rest for tomorrow.
+Bought a large pizza of which I'll eat half and save the rest for tomorrow.
 
 いただきます!
 
+Boom ate the whole thing.  I was hungry!!
 
 Day 19 was
 
