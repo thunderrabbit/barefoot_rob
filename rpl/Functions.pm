@@ -85,7 +85,22 @@ sub return_book_chapter_for_files(@) {
   #       #### DATE\n\n    title\n    location
   #   append to output (in date order)
   # Return contents, sorted by date
-  return "Processing these files:\n" . join("just a test\n",@_);
+  print "Processing these files:\n" . join("just a test\n",@_);
+  # For each path
+  foreach my $filepath (@_) {
+    #   Open file
+    print("$filepath\n");
+    #   Process file
+    #     Find date in YAML header
+    #     Find title in YAML header
+    #     Find location in YAML header
+    #   Sort according to date
+    # For each date
+    #   Rewrite lines at top of file:
+    #       #### DATE\n\n    title\n    location
+    #   append to output (in date order)
+    # Return contents, sorted by date
+  }
 }
 
 sub book_content_for_date($) {
