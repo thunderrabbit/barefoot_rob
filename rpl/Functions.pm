@@ -91,7 +91,7 @@ sub return_book_chapter_for_files(@) {
 sub book_content_for_date($) {
   my ($dt) = @_;   # must be a DateTime or next function will be sad
   my @content_files_regex = __book_content_file_paths_for_date($dt);   # must return an ARRAY of file paths (I think (22 Apr 2022))
-  return return_book_chapter_for_files(@content_files_regex,1);   # takes an ARRAY of file paths (I think (22 Apr 2022))
+  return return_book_chapter_for_files(@content_files_regex);   # takes an ARRAY of file paths (I think (22 Apr 2022))
 }
 
 sub std_in_logger() {
