@@ -338,23 +338,23 @@ sub get_event_type(@) {
 
 ##  Return a list of files based on a directory
 sub get_list_of_files_in_dir($) {
-  my ($path_to_events,$file_prefix) = @_;
+  my ($path_to_files,$file_prefix) = @_;
   if ($file_prefix) {print("files must be prefixed with '$file_prefix'\n");}
   my @list_of_files;
 
-  print "Returning events from " . $path_to_events . "\n";
-  opendir DIR,$path_to_events;
+  print "Returning files from " . $path_to_files . "\n";
+  opendir DIR,$path_to_files;
   my @dir = readdir(DIR);
   close DIR;
   ## loop thanks to https://stackoverflow.com/a/1045814
   foreach(@dir){
-      if (-f $path_to_events . "/" . $_ ){
-        push (@list_of_files, $path_to_events . "/" . $_);    # will return a list of files
-      }elsif(-d $path_to_events . "/" . $_){
+      if (-f $path_to_files . "/" . $_ ){
+        push (@list_of_files, $path_to_files . "/" . $_);    # will return a list of files
+      }elsif(-d $path_to_files . "/" . $_){
         next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
-        print "ignoring directory " . $path_to_events . "/" . $_ . "\n";
+        print "ignoring directory " . $path_to_files . "/" . $_ . "\n";
       }else{
-        print "ignoring non file non directory " . $path_to_events . "/" . $_ . "\n";
+        print "ignoring non file non directory " . $path_to_files . "/" . $_ . "\n";
       }
   }
 
