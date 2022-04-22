@@ -149,6 +149,8 @@ if($what_kinda_event eq "bold_life_tribe") {
   print("Spelled as $prefix\n");
   $title = rpl::Functions::get_title($prefix);
   $chapter_contents = rpl::Functions::book_content_for_date($event_date_time);
+  print($chapter_contents);
+  exit;
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }

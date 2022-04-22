@@ -70,7 +70,7 @@ sub __book_content_file_paths_for_date($) {
   return get_list_of_files_in_dir("/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata/2021/05","03");
 }
 
-sub return_contents_of_files(@) {
+sub return_book_chapter_for_files(@) {
   # should open a list(?) of file paths and return their concatenated content
   # STEPS(?)
   # For each path
@@ -79,19 +79,19 @@ sub return_contents_of_files(@) {
   #     Find date in YAML header
   #     Find title in YAML header
   #     Find location in YAML header
-  #     Rewrite those lines at top of file:
-  #         #### DATE\n\n    title\n    location
   #   Sort according to date
   # For each date
+  #   Rewrite lines at top of file:
+  #       #### DATE\n\n    title\n    location
   #   append to output (in date order)
   # Return contents, sorted by date
-  return "list of files I think: " . join("just a test ",@_);
+  return "Processing these files:\n" . join("just a test\n",@_);
 }
 
 sub book_content_for_date($) {
   my ($dt) = @_;   # must be a DateTime or next function will be sad
   my @content_files_regex = __book_content_file_paths_for_date($dt);   # must return an ARRAY of file paths (I think (22 Apr 2022))
-  return return_contents_of_files(@content_files_regex,1);   # takes an ARRAY of file paths (I think (22 Apr 2022))
+  return return_book_chapter_for_files(@content_files_regex,1);   # takes an ARRAY of file paths (I think (22 Apr 2022))
 }
 
 sub std_in_logger() {
