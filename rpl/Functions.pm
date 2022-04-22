@@ -67,7 +67,7 @@ sub __book_content_file_paths_for_date($) {
   my $mm = $dt->strftime("%m");  # 02 for path name
   print "Returning paths with prefix $path_prefix/$chapter_date\n\n";
   print "Okay now need to get a list of files with ^^^^ prefix\n\n";
-  exit;
+  return get_list_of_files_in_dir("/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata/2021/05","03");
 }
 
 sub return_contents_of_files(@) {
@@ -338,7 +338,8 @@ sub get_event_type(@) {
 
 ##  Return a list of files based on a directory
 sub get_list_of_files_in_dir($) {
-  my ($path_to_events) = @_;
+  my ($path_to_events,$file_prefix) = @_;
+  if ($file_prefix) {print("files must be prefixed with '$file_prefix'\n");}
   my @list_of_files;
 
   print "Returning events from " . $path_to_events . "\n";
