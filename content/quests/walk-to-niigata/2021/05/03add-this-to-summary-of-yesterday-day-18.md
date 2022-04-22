@@ -2,6 +2,10 @@
 title: 'add this to summary of yesterday day 18'
 author: 'Rob Nugen'
 date: '2021-05-03T22:15:30+09:00'
+aliases: [
+    "/en/quests/walk-to-niigata/2021/05/03add-this-to-summary-of-yesterday-day-18/",
+    "/en/quests/walk-to-niigata/2021/05/04add-this-to-summary-of-yesterday-day-18/"
+]
 ---
 
 Just before walking under one of the snowsheds it started to hail a little bit
