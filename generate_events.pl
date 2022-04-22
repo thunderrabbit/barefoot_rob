@@ -105,6 +105,7 @@ my $first_gathering_time;
 
 #  $walk_trip_started only used for book_chapter to help calculate Titles
 my $walk_trip_started = rpl::Functions::parse_user_date("2021-04-16 12:00");  # Without ->ymd "T11:45:00" appends to the date
+my $ordinal_day_number;   # Used for book_chapter title and tags
 
 if($what_kinda_event eq "book_chapter") {
   # Don't need gathering_time, but do need a timestamp because of $first_gathering_time code etc
@@ -143,7 +144,7 @@ if($what_kinda_event eq "bold_life_tribe") {
 } elsif($what_kinda_event eq "book_chapter") {
   print("walk trip started on $walk_trip_started\n");
   print("event date time on $event_date_time\n");
-  my $ordinal_day_number = $event_date_time->subtract_datetime($walk_trip_started)->in_units('days')+1;
+  $ordinal_day_number = $event_date_time->subtract_datetime($walk_trip_started)->in_units('days')+1;
   print("So this entry is for Day $ordinal_day_number\n");
   my $prefix = "Day " . ucfirst(spell_number($ordinal_day_number)) . " "; # "Day Eighteen "
   print("Spelled as $prefix\n");
@@ -155,6 +156,9 @@ if($what_kinda_event eq "bold_life_tribe") {
 
 print("what_kinda_event: " . $what_kinda_event . "\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
+if($what_kinda_event eq "book_chapter") {
+  $taghash{"day-$ordinal_day_number"} = 1;              # Add Day Number to tags
+}
 $taghash{$event_date_time->year} = 1;              # Add year to tags
 $taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags
 my $tagstring = rpl::Functions::get_tags(%taghash);  # returns qq/"mt3", "livestream", "maybe_others"/

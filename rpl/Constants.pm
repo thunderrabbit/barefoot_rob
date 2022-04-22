@@ -143,7 +143,7 @@ my %walk_and_talk_tags = ("walk" => 1, "裸足のロブ" => 1, "はだし" => 1,
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
-    "book_chapter" => {"book" => 1, "day-" => 1, "walk" => 1},
+    "book_chapter" => {"book" => 1, "walk" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "rinshi_no_mori" => {%walk_and_talk_tags, ("meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1)},
