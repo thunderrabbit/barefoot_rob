@@ -115,10 +115,18 @@ sub return_book_chapter_for_files(@) {
       $post_location = $1;
     }
     print("$post_location\n");
-    #   Sort according to date
     # For each date
     #   Rewrite lines at top of file:
     #       #### DATE\n\n    title\n    location
+    my $dated_output_thing = "#### " . $file_date . "\n\n" .
+                             "    " . $file_title . "\n";
+    if($post_location) {
+      $dated_output_thing .= "    " . $post_location . "\n";
+    }
+
+    $dated_output_thing .= $file_content . "\n";
+    print("$dated_output_thing");
+    #   Sort according to date
     #   append to output (in date order)
     # Return contents, sorted by date
   }
