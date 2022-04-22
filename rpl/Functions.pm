@@ -64,10 +64,17 @@ sub __book_content_file_paths_for_date($) {
   my ($dt) = @_;   # must be a DateTime or this function will be sad
   my $path_prefix = "/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata"; # $rpl::Constants::blt_blurbs;
   my $chapter_date = $dt->date("/");  # e.g. 2021/05/03
-  my $mm = $dt->strftime("%m");  # 02 for path name
   print "Returning paths with prefix $path_prefix/$chapter_date\n\n";
   print "Okay now need to get a list of files with ^^^^ prefix\n\n";
-  return get_list_of_files_in_dir("/home/thunderrabbit/barefoot_rob_master/content/quests/walk-to-niigata/2021/05","03");
+  my ($path_portion,$dd_portion) = split_on_final_slash("$path_prefix/$chapter_date");
+  return get_list_of_files_in_dir($path_portion,$dd_portion);
+}
+
+sub split_on_final_slash($) {
+  my ($full_path) = @_;
+  # https://stackoverflow.com/a/2469384/194309
+  $full_path =~ m|(.*)/(.*)|;   # greedy match up to / then after same /
+  return ($1, $2)
 }
 
 sub return_book_chapter_for_files(@) {
