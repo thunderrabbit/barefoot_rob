@@ -85,7 +85,7 @@ sub return_book_chapter_for_files(@) {
   #       #### DATE\n\n    title\n    location
   #   append to output (in date order)
   # Return contents, sorted by date
-  print "Processing these files:\n" . join("just a test\n",@_);
+  print "Processing these files:\n" . join("\n",@_) . "\n\n";
   # For each path
   foreach my $filepath (@_) {
     #   Open file
