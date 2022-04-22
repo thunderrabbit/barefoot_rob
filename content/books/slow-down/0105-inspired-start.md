@@ -1,6 +1,5 @@
 ---
 title: "0105 Inspired Start"
-type: "book"
 tags: [ "slow", "down", "book" ]
 author: Rob Nugen
 date: 2021-08-07T08:00:11+09:00
@@ -42,7 +41,7 @@ All we have to do is start planning. And for me the biggest concern was getting 
 
 it took some long discussions to assure her that I would remain safe during the trip. At the end, my head, I have two eyes. And I like my feet intact. So, all my body parts intact. So my definite intent intention to remain intact for as long as possible, including the duration of this walk. So, she finally agreed. Having the support was invaluable.
 
-As we shall soon see. 
+As we shall soon see.
 
 
 Do whatever you want.  Nothing matters.  No one cares.

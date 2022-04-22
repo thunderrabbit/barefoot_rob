@@ -1,6 +1,5 @@
 ---
 title: "0120 Creation is Messy"
-type: "book"
 tags: [ "slow", "down", "book" ]
 author: Rob Nugen
 date: 2021-12-01T08:00:11+09:00
