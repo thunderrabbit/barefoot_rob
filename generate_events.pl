@@ -149,8 +149,6 @@ if($what_kinda_event eq "bold_life_tribe") {
   print("Spelled as $prefix\n");
   $title = rpl::Functions::get_title($prefix);
   $chapter_contents = rpl::Functions::book_content_for_date($event_date_time);
-  print($chapter_contents);
-  exit;
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
@@ -205,6 +203,7 @@ foreach my $extension (keys %event_templates) {
   my $event_location = $rpl::Constants::event_locations{$what_kinda_event};
   $mt3_episode_output =~ s/TOPIC_LINE/$topic/;
   $mt3_episode_output =~ s/BLURB_BLOCK/$blurb/;
+  $mt3_episode_output =~ s/CHAPTER_BLOCK/$chapter_contents/;
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/EVENT_LOCATION/$event_location/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
