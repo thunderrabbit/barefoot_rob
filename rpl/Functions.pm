@@ -349,7 +349,10 @@ sub get_list_of_files_in_dir($) {
   ## loop thanks to https://stackoverflow.com/a/1045814
   foreach(@dir){
       if (-f $path_to_files . "/" . $_ ){
-        push (@list_of_files, $path_to_files . "/" . $_);    # will return a list of files
+        if(!$file_prefix || m/^$file_prefix/) {
+          # either $file_prefix is empty or filename starts with $file_prefix.  Note: a sane human would include $_ =~ in the match above but I'm playing with Perl
+          push (@list_of_files, $path_to_files . "/" . $_);    # will return a list of files
+        }
       }elsif(-d $path_to_files . "/" . $_){
         next if $_ =~ /^\.\.?$/;   ##  Skip . and .. https://stackoverflow.com/a/21203371
         print "ignoring directory " . $path_to_files . "/" . $_ . "\n";
