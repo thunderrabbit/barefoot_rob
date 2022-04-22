@@ -146,7 +146,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   print("event date time on $event_date_time\n");
   $ordinal_day_number = $event_date_time->subtract_datetime($walk_trip_started)->in_units('days')+1;
   print("So this entry is for Day $ordinal_day_number\n");
-  my $prefix = "Day " . ucfirst(spell_number($ordinal_day_number)) . " "; # "Day Eighteen "
+  my $prefix = "Day $ordinal_day_number "; # "Day 18 "
   print("Spelled as $prefix\n");
   $title = rpl::Functions::get_title($prefix);
   $chapter_contents = rpl::Functions::book_content_for_date($event_date_time);
