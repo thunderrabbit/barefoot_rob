@@ -108,21 +108,21 @@ sub return_book_chapter_for_files(@) {
     print($file_frontmatter);
     print("$file_content\n");
     my($file_date,$file_title,$post_location);
-    #     Find date in YAML header   # Only get date value, not so it can be used but so it looks better if we just write it into chapter
-    if($file_frontmatter =~ m/date: '([^']*)'/) {
+    #     Find date in YAML header
+    if($file_frontmatter =~ m/date: (.*)/) {   # dates may have single, double, or no quotes
       $file_date = $1;
     }
-    print("$file_date\n");
+    print("FILE DATE: $file_date\n");
     #     Find title in YAML header   # Grab whole line to mark it as meta info
-    if($file_frontmatter =~ m/(title: .*')/) {
+    if($file_frontmatter =~ m/(title: .*)/) {
       $file_title = $1;
     }
-    print("$file_title\n");
+    print("FILE TITLE: $file_title\n");
     #     Find location in YAML header  # Grab whole line to mark it as meta info
     if($file_frontmatter =~ m/(location: .*)/) {
       $post_location = $1;
     }
-    print("$post_location\n");
+    print("POST LOCATION: $post_location\n");
     # For each date
     #   Rewrite lines at top of file:
     #       #### DATE\n\n    title\n    location
