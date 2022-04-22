@@ -17,6 +17,6 @@ Also sad that my computer seems to have rejected the battery starting over a wee
 
 Fortunately, the computer itself has been working fine when it's plugged in and I've used it to great success in keeping my website pretty much up to date.
 
-The walk today is 15 km so significantly shorter than yesterday, no I'm starting 2 hours later than I did yesterday.
+The walk today is 15 km so significantly shorter than yesterday, though I'm starting 2 hours later than I did yesterday.
 
-I have a call with my friend in Texas and 45 minutes and then session with a client tonight.  It's wonderful to be able to work while I'm traveling.
+I have a call with my friend in Texas in 45 minutes and then session with a client tonight.  It's wonderful to be able to work while I'm traveling.
