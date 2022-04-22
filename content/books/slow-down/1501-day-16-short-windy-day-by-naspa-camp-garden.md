@@ -1,10 +1,11 @@
 ---
-title: "Short Windy Day by NASPA Camp Garden"
-tags: [ "2021", "book", "day-16", "may", "short", "walk", "windy" ]
+title: "Day 16 - Short Windy Day by NASPA Camp Garden"
+tags: [ "2021", "book", "day-16", "may", "walk" ]
 author: Rob Nugen
-date: 2022-04-21T01:59:43+09:00
+date: 2022-04-22T17:42:34+09:00
 EventDate: "2021-05-01T12:00:00+09:00"
 aliases: [
+    "/en/books/slow-down/1501-day-16-short-windy-day-by-naspa-camp-garden",
     "/en/books/slow-down/1501-short-windy-day-by-naspa-camp-garden",
 ]
 draft: false
@@ -15,10 +16,12 @@ src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-16/2021_apr
 alt=""
 class="title" />
 
-#### date: '2021-05-01T12:51:34+09:00'
+#### 2021-05-01T12:51:34+09:00
 
     title: 'tents at Garden Log Center'
     location: 'geo:36.92678,138.81002;u=87.6500015258789'
+
+
 
 Lots of wind buffetting these tents and inflatable tent covers
 
@@ -29,10 +32,11 @@ This was at NASPA Camp Garden
 
 https://g.page/naspa-camp-garden?share
 
-
-#### date: '2021-05-01T14:15:13+09:00'
+#### 2021-05-01T14:15:13+09:00
 
     title: 'Finished Day 16'
+
+
 
 Day Sixteen was relatively short, and our last short walking day.  This was the day I wore my SOGO shirt and ran across the side of a dam in a damn beautiful area.
 
