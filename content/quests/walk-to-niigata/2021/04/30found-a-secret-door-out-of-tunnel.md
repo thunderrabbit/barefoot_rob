@@ -3,6 +3,10 @@ title: 'Found a secret door out of tunnel'
 author: 'Rob Nugen'
 location: 'geo:36.858386,138.773803;u=65'
 date: '2021-04-30T21:29:41+09:00'
+aliases: [
+  "/en/quests/walk-to-niigata/2021/05/03awesome-valley-outside-windowed-tunnel/",
+  "/en/quests/walk-to-niigata/2021/04/30found-a-secret-door-out-of-tunnel/"
+]
 ---
 
 The owner of Lodge Montoze offered to drive us through the tunnels, but traffic on Highway 17 seemed light enough to venture through the tunnels on foot.
@@ -79,3 +83,27 @@ These wall holders really intrigue me
 Cool!  It opens up into a larger space..  including a ladder!
 
 [![2021 apr 30 found the ladder back here](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_apr_30_found_the_ladder_back_here.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_apr_30_found_the_ladder_back_here.jpeg)
+
+Duplicate pictures were also posted on May 3rd.  Future editor figure out what to do.
+
+
+[![2021 may 02 outside the windowed tunnel between long tunnels](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_outside_the_windowed_tunnel_between_long_tunnels.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_outside_the_windowed_tunnel_between_long_tunnels.jpeg)
+
+There must be a way to get up there
+
+[![2021 may 02 exploring the area how do i get up there](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_exploring_the_area_how_do_i_get_up_there.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_exploring_the_area_how_do_i_get_up_there.jpeg)
+
+Some of the wall anchors did not have covers; I didn't take a picture, but there were three cables inside.
+
+[![2021 may 02 wondering about the anchors holding wall up](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_wondering_about_the_anchors_holding_wall_up.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_wondering_about_the_anchors_holding_wall_up.jpeg)
+
+Yes!  I found a ladder around the corner
+
+[![2021 may 02 found a ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_found_a_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_found_a_ladder.jpeg)
+[![2021 may 02 tunnel from top of ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_tunnel_from_top_of_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_tunnel_from_top_of_ladder.jpeg)
+[![2021 may 02 selfie from top of tunnel end](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_selfie_from_top_of_tunnel_end.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_selfie_from_top_of_tunnel_end.jpeg)
+[![2021 may 02 trying to make out name of tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_trying_to_make_out_name_of_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_trying_to_make_out_name_of_tunnel.jpeg)
+
+Eventually time to go back down..
+
+[![2021 may 02 back down ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/thumbs/2021_may_02_back_down_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-15/2021_may_02_back_down_ladder.jpeg)          
