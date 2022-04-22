@@ -71,6 +71,7 @@ sub __book_content_file_paths_for_date($) {
 }
 
 sub return_book_chapter_for_files(@) {
+  my %date_keyed_content_hash;
   # should open a list(?) of file paths and return their concatenated content
   # STEPS(?)
   # For each path
@@ -126,10 +127,16 @@ sub return_book_chapter_for_files(@) {
 
     $dated_output_thing .= $file_content . "\n";
     print("$dated_output_thing");
-    #   Sort according to date
-    #   append to output (in date order)
-    # Return contents, sorted by date
+    $date_keyed_content_hash{$file_date} = $dated_output_thing;
   }
+  my $book_chapter_output;
+  #   Sort according to date
+  foreach my $file_date_key (sort keys %date_keyed_content_hash) {
+    #   append to output (in date order)
+    $book_chapter_output .= $date_keyed_content_hash{$file_date_key} . "\n";
+  }
+  # Return contents, sorted by date
+  return $book_chapter_output;
 }
 
 sub book_content_for_date($) {
