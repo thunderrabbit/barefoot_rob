@@ -70,6 +70,7 @@ Be careful or he will give us a ride.
 
 We were careful and had a [great time finding a whole magical world](/quests/walk-to-niigata/2021/04/30found-a-secret-door-out-of-tunnel/).
 
+Here's pic of the door via Google Maps https://goo.gl/maps/Eh73bQc6CphSWg3N8
 
 [![Walk 06km
 from Lodge Montoze
