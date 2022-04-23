@@ -1,5 +1,5 @@
 ---
-title: "Day 16 - Short Windy Day by NASPA Camp Garden"
+title: "1501 Day 16 - Short Windy Day by NASPA Camp Garden"
 tags: [ "2021", "book", "day-16", "may", "walk" ]
 author: Rob Nugen
 date: 2022-04-22T17:42:34+09:00

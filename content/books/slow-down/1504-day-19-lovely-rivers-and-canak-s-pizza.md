@@ -1,5 +1,5 @@
 ---
-title: "Day 19 - lovely rivers and Canak's Pizza"
+title: "1504 Day 19 - lovely rivers and Canak's Pizza"
 tags: [ "2021", "book", "day-19", "may", "walk", "canaks", "pizza", "release" ]
 author: Rob Nugen
 date: 2022-04-22T18:21:01+09:00

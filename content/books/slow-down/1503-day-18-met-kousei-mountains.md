@@ -1,5 +1,5 @@
 ---
-title: "Day 18 - met Kousei Mountains"
+title: "1503 Day 18 - met Kousei Mountains"
 tags: [ "2021", "book", "day-18", "may", "walk" ]
 author: Rob Nugen
 date: 2022-04-22T18:19:41+09:00
@@ -23,7 +23,7 @@ class="title" />
 
 Muiamacchi Hutte was a great place to stay last night and get in out of the rain.  Nice clean rooms and great hot onsen.
 
-https://maps.app.goo.gl/1YtZtkDxyAzihFXS9 
+https://maps.app.goo.gl/1YtZtkDxyAzihFXS9
 
 #### 2021-05-03T10:18:10+09:00
 
@@ -69,7 +69,7 @@ Shall I walk to the mountains or to Day Ten City
 
 Ready for a new highway
 
-[![2021 may 02 pylon with no bridge to carry](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/thumbs/2021_may_02_pylon_with_no_bridge_to_carry.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/2021_may_02_pylon_with_no_bridge_to_carry.jpeg) 
+[![2021 may 02 pylon with no bridge to carry](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/thumbs/2021_may_02_pylon_with_no_bridge_to_carry.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-18/2021_may_02_pylon_with_no_bridge_to_carry.jpeg)
 
 #### 2021-05-03T11:16:42+09:00
 
@@ -202,5 +202,3 @@ https://goo.gl/maps/GYWkWbniJ3hazKEB9
 
 </div>
 <!-- 25 March 2021: WALK SEGMENT SEPARATOR  ===========  TO HELP ME SEE AND EDIT SEGMENT DETAILS -->
-
-

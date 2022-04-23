@@ -1,5 +1,5 @@
 ---
-title: "Day 20 - Saw very cool Myokan Weir. Also feeling sad."
+title: "1505 Day 20 - Saw very cool Myokan Weir. Also feeling sad."
 tags: [ "2021", "book", "day-20", "may", "walk" ]
 author: Rob Nugen
 date: 2022-04-22T18:29:35+09:00

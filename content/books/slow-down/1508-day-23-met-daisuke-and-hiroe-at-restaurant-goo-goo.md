@@ -1,5 +1,5 @@
 ---
-title: "Day 23 - Met Daisuke and Hiroe at Restaurant Goo Goo"
+title: "1508 Day 23 - Met Daisuke and Hiroe at Restaurant Goo Goo"
 tags: [ "2021", "book", "day-23", "may", "walk" ]
 author: Rob Nugen
 date: 2022-04-22T18:51:05+09:00
