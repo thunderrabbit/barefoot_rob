@@ -213,7 +213,7 @@ body {
   <div id="af-form-1884698591" class="af-form">
     <div id="af-header-1884698591" class="af-header">
       <div class="bodyText">
-        <p><span style="font-size: 12px;">Barefoot info and events</span></p>
+        <p><span style="font-size: 12px;">Barefoot Rob info and events</span></p>
       </div>
     </div>
     <div id="af-body-1884698591" class="af-body af-standards">
