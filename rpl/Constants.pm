@@ -83,6 +83,15 @@ our %walk_location_files = (
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
       "$templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "shin_yuri_manpukuji_park" => [
+      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.en.md",
+      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.ja.md",
+      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.facebook.txt",
+      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.meetup.txt",
+      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.twitter.txt",
+      "$templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
 );
 
 #  ///   MUST ALSO DO %event_output_directories   ///
@@ -124,6 +133,7 @@ our %event_day_of_week = (
     "rinshi_no_mori" => 6,
     "izumi_tamagawa" => 3,
     "shin_yuri_art_park" => 4,
+    "shin_yuri_manpukuji_park" => 4,
     "quest_update" => 3,
     "bold_life_tribe" => 1,
 );
@@ -135,6 +145,7 @@ our %event_locations = (
     "izumi_tamagawa" => "Izumi Tamagawa",
     "izumi_tamagawa_full_moon" => "Izumi Tamagawa for full moon 満月",
     "shin_yuri_art_park" => "Shin Yuri Art Park",
+    "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -149,6 +160,7 @@ our %event_tag_hashes = (
     "rinshi_no_mori" => {%walk_and_talk_tags, ("meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1)},
     "rinko_park" => {%walk_and_talk_tags, ("Yokohama" => 1, "rinko-park" => 1, "臨港パーク" => 1)},
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
+    "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "izumi_tamagawa" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "blue-cafe" => 1, "tamagawa" => 1, "多摩川" => 1)},
     "izumi_tamagawa_full_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "full moon" => 1, "tamagawa" => 1, "多摩川" => 1, "満月" => 1)},
     "yoyogi_park" => {%walk_and_talk_tags, ("yoyogi" => 1, "代々木公園" => 1)},
