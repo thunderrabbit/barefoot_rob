@@ -10,32 +10,23 @@
             <div class="posts">
               {{/* https://discourse.gohugo.io/t/how-to-filter-mainsections-posts-based-on-frontmatter-dates/33345 */}}
               {{ $future_events := where (where .Site.RegularPages "Type" "events") ".Params.eventdate" "ge" (now.Format "2006-01-02") }}
-              {{ range sort $future_events "Params.eventdate" "asc" }}
-
-                <h1 class="content-subhead">{{ .Params.eventdate }}</h1>
-                <section class="post">
-                    <header class="post-header">
-
-                        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
-
-                        <p class="post-meta">
-                            {{ with .Params.author }}
-                                By <strong class="post-author">{{ . }}</strong>
-                            {{ end }}
-                            {{ if isset .Params "categories" }}
-                                under
-                                {{ range .Params.categories }}<a class="post-category post-category-{{ . }}" href='{{ ( printf "categories/%s" . ) | absLangURL }}'>{{ . }}</a>{{ end }}
-                            {{ end }}
-                        </p>
-                    </header>
-
-                    <div class="post-description">
-                        {{ .Content }}
-                    </div>
-                </section>
-                {{ end }}
+                <ul class="post">
+                  {{ range sort $future_events ".Params.eventdate" "asc" }}
+                  <li>
+                    <a href="{{ .Permalink }}" class="post-mini-title">
+                    {{ if ne .Params.EventDate nil }}
+                        {{ dateFormat "Jan 02 Mon" .Params.EventDate }}
+                    {{ end }}
+                    @
+                    {{ if ne .Params.EventTime nil }}
+                        {{ .Params.EventTime }}
+                    {{ end }}
+                        in {{ .Params.EventLocation }}
+                    </a>
+                  </li>
+                  {{ end }}
+                </ul>
             </div>
-            {{/* partial "pagination.html" . <--- remove until fixed */}}
             {{ partial "footer.html" . }}
         </div>
     </div>
