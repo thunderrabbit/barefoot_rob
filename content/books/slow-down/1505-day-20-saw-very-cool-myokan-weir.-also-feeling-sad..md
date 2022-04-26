@@ -7,6 +7,8 @@ EventDate: "2021-05-05T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1505-day-20-saw-very-cool-myokan-weir.-also-feeling-sad.",
     "/en/books/slow-down/1505-day-twenty-saw-very-cool-myokan-weir.-also-feeling-sad.",
+    "/yn0505",
+    "/ynday20",
 ]
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "day 08 walking a long way alone along a river"
+title: "1423 Day 08: walking a long way alone along a river"
 tags: [ "book", "day-8", "long", "walk" ]
 author: Rob Nugen
 date: 2022-01-23T14:22:03+09:00

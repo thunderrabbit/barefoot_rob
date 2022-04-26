@@ -7,6 +7,8 @@ EventDate: "2021-05-02T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1502-day-17-looking-at-water-infrastructure",
     "/en/books/slow-down/1502-day-seventeen-looking-at-water-infrastructure",
+    "/yn0502",
+    "/ynday17",
 ]
 draft: false
 ---

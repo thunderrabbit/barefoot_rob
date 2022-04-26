@@ -7,6 +7,8 @@ EventDate: "2021-05-06T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1506-day-21-ugh-so-tired-and-saw-a-rat-snake",
     "/en/books/slow-down/1506-day-twenty-one-ugh-so-tired-and-saw-a-rat-snake",
+    "/yn0506",
+    "/ynday21",
 ]
 draft: false
 ---

@@ -6,6 +6,8 @@ date: 2022-04-22T18:19:41+09:00
 EventDate: "2021-05-03T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1503-day-18-met-kousei-mountains",
+    "/yn0503",
+    "/ynday18",
 ]
 draft: false
 ---

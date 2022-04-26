@@ -1,11 +1,12 @@
 ---
-title: "day 07 from SPAMu to post splinter removal agony"
+title: "1422 Day 07: from SPAMu to post splinter removal agony"
 tags: [ "book", "day-7", "long", "walk" ]
 author: Rob Nugen
 date: 2022-01-21T12:31:56+09:00
 EventDate: "2021-04-22"
 aliases: [
     "/en/books/slow-down/1422-day-07-from-spamu-to-post-splinter-removal-agony",
+    "/en/books/slow-down/1422-day-07-from-spamu-to-post-splinter-removal-agony/",
     "/yn0422",
     "/ynday07",
 ]

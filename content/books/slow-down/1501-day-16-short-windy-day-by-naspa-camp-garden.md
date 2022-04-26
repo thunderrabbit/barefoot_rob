@@ -7,6 +7,8 @@ EventDate: "2021-05-01T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1501-day-16-short-windy-day-by-naspa-camp-garden",
     "/en/books/slow-down/1501-short-windy-day-by-naspa-camp-garden",
+    "/yn0501",
+    "/ynday16",
 ]
 draft: false
 ---

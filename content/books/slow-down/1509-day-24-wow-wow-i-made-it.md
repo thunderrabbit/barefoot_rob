@@ -7,6 +7,9 @@ EventDate: "2021-05-09T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1509-day-24-wow-wow-i-made-it-",
     "/en/books/slow-down/1509-day-twenty-four-wow-wow-i-made-it-",
+    "/en/books/slow-down/1509-day-24-wow-wow-i-made-it/",
+    "/yn0509",
+    "/ynday24",
 ]
 draft: false
 ---

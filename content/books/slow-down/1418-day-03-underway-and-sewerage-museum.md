@@ -1,10 +1,11 @@
 ---
-title: "1418 underway and sewerage museum"
+title: "1418 Day 3: underway and sewerage museum"
 tags: [ "book", "day-3", "walk" ]
 author: Rob Nugen
 date: 2022-01-18T14:47:08+09:00
 EventDate: "2021-04-18"
 aliases: [
+    "/en/books/slow-down/1418-day-03-underway-and-sewerage-museum/",
     "/books/slow-down/1418-day-03-underway-and-sewerage-museum",
     "/yn0418",
     "/ynday03",

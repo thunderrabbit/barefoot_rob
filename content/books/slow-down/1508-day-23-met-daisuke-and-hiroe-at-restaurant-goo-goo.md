@@ -7,6 +7,8 @@ EventDate: "2021-05-08T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1508-day-23-met-daisuke-and-hiroe-at-restaurant-goo-goo",
     "/en/books/slow-down/1508-day-twenty-three-met-daisuke-and-hiroe-at-restaurant-goo-goo",
+    "/yn0508",
+    "/ynday23",
 ]
 draft: false
 ---

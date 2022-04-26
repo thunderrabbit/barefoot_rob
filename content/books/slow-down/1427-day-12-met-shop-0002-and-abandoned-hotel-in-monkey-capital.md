@@ -1,5 +1,5 @@
 ---
-title: "1427 Day 12 met shop 0002 and abandoned hotel in Monkey Capital"
+title: "1427 Day 12: met shop 0002 and abandoned hotel in Monkey Capital"
 tags: [ "2021", "april", "book", "day-12", "monkey capital", "walk", "猿ケ京" ]
 author: Rob Nugen
 date: 2022-01-31T10:33:44+09:00

@@ -1,5 +1,5 @@
 ---
-title: "1424 Phone Broke During Walk"
+title: "1424 Day 9: Phone Broke During Walk"
 type: "book"
 tags: [ "book", "broke", "erg", "phone" ]
 author: Rob Nugen

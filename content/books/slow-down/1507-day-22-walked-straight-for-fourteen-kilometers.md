@@ -7,6 +7,8 @@ EventDate: "2021-05-07T12:00:00+09:00"
 aliases: [
     "/en/books/slow-down/1507-day-22-walked-straight-for-fourteen-kilometers",
     "/en/books/slow-down/1507-day-twenty-two-walked-straight-for-fourteen-kilometers",
+    "/yn0507",
+    "/ynday22",
 ]
 draft: false
 ---
