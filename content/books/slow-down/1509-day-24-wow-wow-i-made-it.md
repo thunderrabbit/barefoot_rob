@@ -33,15 +33,25 @@ class="title" />
     title: 'Creative force'
 
 
-Last night my computer kept shutting down which I assume is caused by faulty interaction with the new battery.  I woke up early to try to open the case and take out the battery but was not able to do it because of Apple's use of pentalobe screws.  Ugh.
+Last night my computer kept shutting down which I assume is caused by
+faulty interaction with the new battery.  I woke up early to try to
+open the case and take out the battery but was not able to do it
+because of Apple's use of pentalobe screws.  Ugh.
 
-I tried super gluing my pen cap into the screw but the glue wasn't strong enough.  I tried using my knife from Bill to carve the pen cap into the right shape but wasn't able to do it.
+I tried super gluing my pen cap into the screw but the glue wasn't
+strong enough.  I tried using my knife from Bill to carve the pen cap
+into the right shape but wasn't able to do it.
 
-While in the creative mode, I realized I could use the tape to make a cover for the camera which I used to take photos of the whole operation which I cannot currently put up on my website now because my computer is not working.
+While in the creative mode, I realized I could use the tape to make a
+cover for the camera which I used to take photos of the whole
+operation which I cannot currently put up on my website now because my
+computer is not working.
 
-I wish I had asked Lin to bring my new computer from home which I have a 2% hope that she did anyway without me asking.
+I wish I had asked Lin to bring my new computer from home which I have
+a 2% hope that she did anyway without me asking.
 
-In any case here's the picture I was able to take and upload with my phone.
+In any case here's the picture I was able to take and upload with my
+phone.
 
 [![2021 may 08 made lens cap for camera](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_made_lens_cap_for_camera.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_made_lens_cap_for_camera.jpeg)          
 
@@ -52,7 +62,8 @@ In any case here's the picture I was able to take and upload with my phone.
 
 
 
-I made it to the bridge with stairs going up, the final interesting point that I planned to visit before embarking on this quest.
+I made it to the bridge with stairs going up, the final interesting
+point that I planned to visit before embarking on this quest.
 
 [![2021 may 08 François on sign for three rivers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_francois_on_sign_for_three_rivers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_francois_on_sign_for_three_rivers.jpeg)
 [![2021 may 08 approaching the bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_approaching_the_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_approaching_the_bridge.jpeg)

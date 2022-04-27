@@ -17,7 +17,9 @@ src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/2021_apr
 alt=""
 class="title" />
 
-Now that it's 9 months later, I don't recall much about this day.  Google maps says I walked 23.1km in 6 hours 42 minutes.  Saitama Grand Hotel Honjo to Hotel Ruka, which I often read as Hotel Ruruka.
+Now that it's 9 months later, I don't recall much about this day.
+Google maps says I walked 23.1km in 6 hours 42 minutes.  Saitama Grand
+Hotel Honjo to Hotel Ruka, which I often read as Hotel Ruruka.
 
 https://photos.app.goo.gl/LMY75HbGsLHrADtt5
 

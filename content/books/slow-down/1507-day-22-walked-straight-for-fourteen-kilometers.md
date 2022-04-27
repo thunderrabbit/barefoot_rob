@@ -57,7 +57,8 @@ Stereo equipment and other discarded junk
 
 
 
-These doors would have to be paper light for these door stoppers to have a chance of actually stopping them if they really opened.
+These doors would have to be paper light for these door stoppers to
+have a chance of actually stopping them if they really opened.
 
 [![2021 may 06 two huge doors vs two little stoppers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-22/thumbs/2021_may_06_two_huge_doors_vs_two_little_stoppers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-22/2021_may_06_two_huge_doors_vs_two_little_stoppers.jpeg)          
 
@@ -84,7 +85,9 @@ In any case, it's right above the water.
     title: "Finished Day 22 around 6pm"
 
 
-I did a couple of livestreams on Instagram yesterday.  (I [downloaded](https://ingramer.com/downloader/instagram/video/) and copied them to Youtube so you don't have to log in to view them.)
+I did a couple of livestreams on Instagram yesterday.  (I
+[downloaded](https://ingramer.com/downloader/instagram/video/) and
+copied them to Youtube so you don't have to log in to view them.)
 
 Water pouring into rice fields
 
@@ -95,9 +98,14 @@ Great talking to Eddie a bit on his way to get his kids.
 https://www.youtube.com/watch?v=7DIq1T_-HNc
 
 
-[APA Hotel Tsubamesanjo Ekimae](https://www.apahotel.com/en/hotel/kousinetsu/tsubamesanjo-ekimae/) is really the best I have used this walk in terms of price per ameneties.
+[APA Hotel Tsubamesanjo
+Ekimae](https://www.apahotel.com/en/hotel/kousinetsu/tsubamesanjo-ekimae/)
+is really the best I have used this walk in terms of price per
+ameneties.
 
-Private bath, bed, TV with free VOD including adult content, plus a larger than micro sized toothpaste, and a nice toothbrush with soft bristles.  Just 3700 yen.  Nice.
+Private bath, bed, TV with free VOD including adult content, plus a
+larger than micro sized toothpaste, and a nice toothbrush with soft
+bristles.  Just 3700 yen.  Nice.
 
 Day 22 was
 

@@ -76,7 +76,30 @@ but they were set up for delivery only, so I headed back back along my way.
 </div>
 
 
-This is about day three that I went to the sewerage museum. And after the museum and after the pizza place, I found myself walking along a nice little stream for maybe a kilometer or two until I got to some railroad tracks so the stream was nicely tree lined and made a great place. For people to spend a strolling Afternoon everyone walking, no bicycles or anything on the on the path. Lots of pine needles and me dragging my big old bag behind me and didn't really find a place to rest while on that path, but there may have been some I felt a bit conspicuous dragging my bag, but once I got to the railroad tracks the path I turned right off of the path and then headed along the railroad tracks, and that's where I saw the meat shop spelled m e t, and then a little bit later, took some pictures. Oh, along that line. There was a section that I was trying very hard to get a picture of Francois next to the train with the train going by. And I spent maybe 30 minutes there actually. Trying to get the perfect photo for that. Was the train in motion like, far away Closer, closer, closer? Why didn't I just take a video? I don't know. But then there were several places or walking on the rocks was very, not smooth, very painful on the feet. That's the day I found the beer can party which turned out to be a milk tea can party very surprising. And I liked the structure I found like a kind of a shape over a parking area that they had made her place plays out of scaffolding to maybe make a porch on top of it. It was me know it was neat to look like it would be great to climb though I refrained from climbing on their scaffolding
+This is about day three that I went to the sewerage museum. And after
+the museum and after the pizza place, I found myself walking along a
+nice little stream for maybe a kilometer or two until I got to some
+railroad tracks so the stream was nicely tree lined and made a great
+place. For people to spend a strolling Afternoon everyone walking, no
+bicycles or anything on the on the path. Lots of pine needles and me
+dragging my big old bag behind me and didn't really find a place to
+rest while on that path, but there may have been some I felt a bit
+conspicuous dragging my bag, but once I got to the railroad tracks the
+path I turned right off of the path and then headed along the railroad
+tracks, and that's where I saw the meat shop spelled m e t, and then a
+little bit later, took some pictures. Oh, along that line. There was a
+section that I was trying very hard to get a picture of Francois next
+to the train with the train going by. And I spent maybe 30 minutes
+there actually. Trying to get the perfect photo for that. Was the
+train in motion like, far away Closer, closer, closer? Why didn't I
+just take a video? I don't know. But then there were several places or
+walking on the rocks was very, not smooth, very painful on the
+feet. That's the day I found the beer can party which turned out to be
+a milk tea can party very surprising. And I liked the structure I
+found like a kind of a shape over a parking area that they had made
+her place plays out of scaffolding to maybe make a porch on top of
+it. It was me know it was neat to look like it would be great to climb
+though I refrained from climbing on their scaffolding
 
 https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-03/2021_apr_18_jungle_gym_car_port.jpeg
 
@@ -94,4 +117,35 @@ I couldn't bear to go up the tall Hill to what was apparently
 overlooking a lake or something. I guess I'm curious to go back there
 sometime when I have more energy.
 
-But I got out of the park and promptly stepped on someone glass and that was my first bloody injury of this walk. And then Seibuen Park was not open so I could not use the shortcut that I plan to go. And I desperately contacted people who might attend the second walking meditation but no one showed up for that. And I walked 3.7 kilometers along a walkway along side Holy Cow I think and then went to my next location but the walk was like oh my god so fucking painful on my feet. It was really really, really really really really fucking painful. And just, I mean I could walk on it for a little bit but it was just a fucking endless it seemed like like I said for three point something kilometers and it got dark so I couldn't see where I was going. And it was crazy painful. Then didn't know which way to go. When it got to some intersection. And then I tried to take a picture using the new camera and because it was dark, I didn't realize that the lens cap was still on. And then I lost the lens cap when tumbling down into a construction area where I wouldn't be able to get in there much less see the thing. So I felt really sad to lose the lens cap and really felt stupid because I had thought to myself that I should attach it to the camera somehow but I didn't want to put any kind of sticky tape or anything on the camera or the camp. And so the cap paid dearly for that with its life. And I basically didn't feel comfortable using the camera because it's it might get dirty or whatever. So anyway, I had to wear sandals for a little bit because it was literally so dark. I couldn't see where I was going. So it was dangerous. If I stepped on anything, so I wore sandals for about maybe 100 meters or 200 meters until I got to some light again and then dragging li got myself to Hotel Restay. But that's where I talked to a guy about COVID And he's the one who said it should be a crime to have people be so desperate for money that they couldn't really he's a poverty was a crime. As was his claim. And he was curious way to see it. And but yeah, we talked for a bit until another customer came. It was very strange to talk to a guy and behind the desk at a love hotel.
+But I got out of the park and promptly stepped on someone glass and
+that was my first bloody injury of this walk. And then Seibuen Park
+was not open so I could not use the shortcut that I plan to go. And I
+desperately contacted people who might attend the second walking
+meditation but no one showed up for that. And I walked 3.7 kilometers
+along a walkway along side Holy Cow I think and then went to my next
+location but the walk was like oh my god so fucking painful on my
+feet. It was really really, really really really really fucking
+painful. And just, I mean I could walk on it for a little bit but it
+was just a fucking endless it seemed like like I said for three point
+something kilometers and it got dark so I couldn't see where I was
+going. And it was crazy painful. Then didn't know which way to
+go. When it got to some intersection. And then I tried to take a
+picture using the new camera and because it was dark, I didn't realize
+that the lens cap was still on. And then I lost the lens cap when
+tumbling down into a construction area where I wouldn't be able to get
+in there much less see the thing. So I felt really sad to lose the
+lens cap and really felt stupid because I had thought to myself that I
+should attach it to the camera somehow but I didn't want to put any
+kind of sticky tape or anything on the camera or the camp. And so the
+cap paid dearly for that with its life. And I basically didn't feel
+comfortable using the camera because it's it might get dirty or
+whatever. So anyway, I had to wear sandals for a little bit because it
+was literally so dark. I couldn't see where I was going. So it was
+dangerous. If I stepped on anything, so I wore sandals for about maybe
+100 meters or 200 meters until I got to some light again and then
+dragging li got myself to Hotel Restay. But that's where I talked to a
+guy about COVID And he's the one who said it should be a crime to have
+people be so desperate for money that they couldn't really he's a
+poverty was a crime. As was his claim. And he was curious way to see
+it. And but yeah, we talked for a bit until another customer came. It
+was very strange to talk to a guy and behind the desk at a love hotel.

@@ -40,9 +40,12 @@ https://g.page/naspa-camp-garden?share
 
 
 
-Day Sixteen was relatively short, and our last short walking day.  This was the day I wore my SOGO shirt and ran across the side of a dam in a damn beautiful area.
+Day Sixteen was relatively short, and our last short walking day.
+This was the day I wore my SOGO shirt and ran across the side of a dam
+in a damn beautiful area.
 
-The onsen at Hirokawa is large warm, and covered in cool tiles of varying sizes.  Very nicely done!
+The onsen at Hirokawa is large warm, and covered in cool tiles of
+varying sizes.  Very nicely done!
 
 <div class="walk-segment">
 

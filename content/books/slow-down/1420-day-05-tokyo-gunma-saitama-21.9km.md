@@ -68,7 +68,9 @@ heading up the hill and on my way.  So happy with their response to my story
 because they actually gave me some free products
 including spray cooling roll-on and a neck cooling thing.
 
-This is the first day I talked to Brian in Corpus.  I actually got so involved talking to them that I missed my turn and had to backtrack a bit.
+This is the first day I talked to Brian in Corpus.  I actually got so
+involved talking to them that I missed my turn and had to backtrack a
+bit.
 
 We were entertained by the tree in the trail.
 

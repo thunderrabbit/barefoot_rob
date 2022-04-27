@@ -22,9 +22,15 @@ class="title" />
 
     title: "Finished Walking Day 20"
 
-It's (according to my computer).  To my feet and legs, it's early on Walkday.  My brain knows it is now Day 21, but this entry is about Day 20:
+It's (according to my computer).  To my feet and legs, it's early on
+Walkday.  My brain knows it is now Day 21, but this entry is about Day
+20:
 
-I did not take many pictures on Day 20, compared to other days.  Photographs seem to happen more in the morning, but as I get tireder and tireder from walking, the pictures taper off as I'm like bah, who cares about seeing more flowers that are not really differentiatable from other pics I have taken.
+I did not take many pictures on Day 20, compared to other days.
+Photographs seem to happen more in the morning, but as I get tireder
+and tireder from walking, the pictures taper off as I'm like bah, who
+cares about seeing more flowers that are not really differentiatable
+from other pics I have taken.
 
 Day 20 things:
 
@@ -63,21 +69,38 @@ To [旅館 竹花屋](https://goo.gl/maps/mN6tKzyQSkGFtmgR8)
     location: 'geo:37.30778,138.79659;u=19.309999465942383'
 
 
-I'm feeling quite sad this morning, possibly because the walk is coming to an end, combined with that I haven't done a lot of the things that I thought I would do, for example interviews with locals using my audio recorder, or make updates on all the different platforms that I had planned to update, including the crowdfunding campaign site.
+I'm feeling quite sad this morning, possibly because the walk is
+coming to an end, combined with that I haven't done a lot of the
+things that I thought I would do, for example interviews with locals
+using my audio recorder, or make updates on all the different
+platforms that I had planned to update, including the crowdfunding
+campaign site.
 
 Oh, and I haven't finished all the letters that I told people I would write.
 
-And and there have been some contributions on the crowdfunding site where people have asked for letters or postcards but I can't figure out how to download them to get those addresses so I'm not sure what to do there.
+And and there have been some contributions on the crowdfunding site
+where people have asked for letters or postcards but I can't figure
+out how to download them to get those addresses so I'm not sure what
+to do there.
 
-I was able to figure it out before but my tired brain just couldn't do it this morning and then I forgot about it before I packed up my computer.
+I was able to figure it out before but my tired brain just couldn't do
+it this morning and then I forgot about it before I packed up my
+computer.
 
-Also sad that my computer seems to have rejected the battery starting over a week ago.  Well the computer reports the battery is at 100% it immediately shuts off immediately when I unplug the power adapter.
+Also sad that my computer seems to have rejected the battery starting
+over a week ago.  Well the computer reports the battery is at 100% it
+immediately shuts off immediately when I unplug the power adapter.
 
-Fortunately, the computer itself has been working fine when it's plugged in and I've used it to great success in keeping my website pretty much up to date.
+Fortunately, the computer itself has been working fine when it's
+plugged in and I've used it to great success in keeping my website
+pretty much up to date.
 
-The walk today is 15 km so significantly shorter than yesterday, though I'm starting 2 hours later than I did yesterday.
+The walk today is 15 km so significantly shorter than yesterday,
+though I'm starting 2 hours later than I did yesterday.
 
-I have a call with my friend in Texas in 45 minutes and then session with a client tonight.  It's wonderful to be able to work while I'm traveling.
+I have a call with my friend in Texas in 45 minutes and then session
+with a client tonight.  It's wonderful to be able to work while I'm
+traveling.
 
 #### 2021-05-05T12:31:17+09:00
 
@@ -132,6 +155,8 @@ Fish stairs
     location: 'geo:37.39601,138.83878;u=87.5999984741211'
 
 
-I was attracted by the restroom sign icon and then realized the shop sells my favorite pudding, so I am Chilling at a dairy shop with 3km left to walk today..
+I was attracted by the restroom sign icon and then realized the shop
+sells my favorite pudding, so I am Chilling at a dairy shop with 3km
+left to walk today..
 
 [![2021 may 04 map of dairy shop location](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-20/thumbs/2021_may_04_map_of_dairy_shop_location.png)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-20/2021_may_04_map_of_dairy_shop_location.png)

@@ -29,34 +29,60 @@ class="title" />
     title: 'Arrived in Sudaya just before dark last night'
 
 
-The walk yesterday was reasonably good with just a little bit of rain.  Lots of walking along railroad tracks including scene a interesting train construction thing that I hadn't seen before.  I was a little bit late by the time I saw that I didn't take the time to upload the picture but I have a couple to upload.
+The walk yesterday was reasonably good with just a little bit of rain.
+Lots of walking along railroad tracks including scene a interesting
+train construction thing that I hadn't seen before.  I was a little
+bit late by the time I saw that I didn't take the time to upload the
+picture but I have a couple to upload.
 
-I stopped for a bit in Urasa Station, which was largely closed except for restrooms and two shops on the second floor: some kind of gift shop and a convenience store.
+I stopped for a bit in Urasa Station, which was largely closed except
+for restrooms and two shops on the second floor: some kind of gift
+shop and a convenience store.
 
-There was an up going escalator up to the second level which was high so actually about the three floors worth of steps.  So I left my bag downstairs while going upstairs to pee and such.
+There was an up going escalator up to the second level which was high
+so actually about the three floors worth of steps.  So I left my bag
+downstairs while going upstairs to pee and such.
 
-I went to the convenience store and got a bunch of stuff but then realized my wallet was downstairs in my bag because it won't fit in my pockets when I'm wearing my rain gear.
+I went to the convenience store and got a bunch of stuff but then
+realized my wallet was downstairs in my bag because it won't fit in my
+pockets when I'm wearing my rain gear.
 
-Fortunately, this is Japan, and unfortunately, the train station was nearly desolate, due to covid I guess, so my bag was completely untouched and fine when I went downstairs to get my wallet.  Anyway the point is just that I had to tell the cashier apologies and then run down the stairs and escalator back up with my wallet to pay.
+Fortunately, this is Japan, and unfortunately, the train station was
+nearly desolate, due to covid I guess, so my bag was completely
+untouched and fine when I went downstairs to get my wallet.  Anyway
+the point is just that I had to tell the cashier apologies and then
+run down the stairs and escalator back up with my wallet to pay.
 
-I was barefoot the entire day except for about 2 km walking north of that station, where the roads just didn't have any sidewalk but did have lots of gravel and such.  That was around the area that has two different snow sheds in a row on the highway next to the Joetsu Line.
+I was barefoot the entire day except for about 2 km walking north of
+that station, where the roads just didn't have any sidewalk but did
+have lots of gravel and such.  That was around the area that has two
+different snow sheds in a row on the highway next to the Joetsu Line.
 
-It was nice walking along the Uono River; it was pretty large and flowing pretty quickly with bluish looking clear snow melt water.
+It was nice walking along the Uono River; it was pretty large and
+flowing pretty quickly with bluish looking clear snow melt water.
 
-I am in a small city called Koide now, and planning to pack and go pretty soon.
+I am in a small city called Koide now, and planning to pack and go
+pretty soon.
 
-I have not updated my website to put the day by day things at the top of the page so I have to dig down a little bit to find that entry and figure out where I'm going next.
+I have not updated my website to put the day by day things at the top
+of the page so I have to dig down a little bit to find that entry and
+figure out where I'm going next.
 
 #### 2021-05-04T05:53:00+09:00
 
     title: 'Good morning Day 19'
 
 
-Well it looks like someone didn't do their job... The text written in the screenshots says I'll be staying somewhere near a park... Which was apparently written before I had found a hotel near that location, and was probably written before I decided to stay at hotels for most nights.
+Well it looks like someone didn't do their job... The text written in
+the screenshots says I'll be staying somewhere near a park... Which
+was apparently written before I had found a hotel near that location,
+and was probably written before I decided to stay at hotels for most
+nights.
 
 [![2021 may 03 day 19 not updated on day by day plans](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_03_day_19_not_updated_on_day_by_day_plans.png)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_03_day_19_not_updated_on_day_by_day_plans.png)
 
-Fortunately, I do have access to this information on my phone via the magic of Google Sheets...
+Fortunately, I do have access to this information on my phone via the
+magic of Google Sheets...
 
 According to the sheet I'll be staying at Ojiya Park Hotel in 小千谷　(おじや) .
 
@@ -78,7 +104,9 @@ Clay
     location: 'geo:37.26075,138.86893;u=13.253000259399414'
 
 
-I've made it halfway and my feet have slight injuries like skin worn through and starting to bleed on my left foot.  I should probably put on my sandals.
+I've made it halfway and my feet have slight injuries like skin worn
+through and starting to bleed on my left foot.  I should probably put
+on my sandals.
 
 [![2021 may 03 halfway finished day 19](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_03_halfway_finished_day_19.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_03_halfway_finished_day_19.jpeg)
 
@@ -110,7 +138,8 @@ Here are some pics I took from inside a tunnel
 
 Looking back on a nice view as I'm more than halfway done walking today.
 
-I said hello to a guy in Japanese and he replied that he doesn't speak English.  I guess I'm not in Tokyo anymore.
+I said hello to a guy in Japanese and he replied that he doesn't speak
+English.  I guess I'm not in Tokyo anymore.
 
 [![2021 may 03 nice view](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_03_nice_view.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_03_nice_view.jpeg)          
 
@@ -125,24 +154,37 @@ https://www.facebook.com/PIZZACANAK/
 
 [![2021 may 04 canuks hand made pizza](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_canuks_hand_made_pizza.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_canuks_hand_made_pizza.jpeg)
 
-On my way to the hotel for tonight I walked right by a pizza place but it turned out to be closed.
+On my way to the hotel for tonight I walked right by a pizza place but
+it turned out to be closed.
 
-I searched the area for other pizza places and found one that was kind of near my hotel but the wrong side of the street by like half a kilometer so I was like nah.  I ain't walking way over there just for pizza.
+I searched the area for other pizza places and found one that was kind
+of near my hotel but the wrong side of the street by like half a
+kilometer so I was like nah.  I ain't walking way over there just for
+pizza.
 
-So I bought some of my staple food for this journey and a convenience store and put it into my jacket pockets for consumption at the hotel.
+So I bought some of my staple food for this journey and a convenience
+store and put it into my jacket pockets for consumption at the hotel.
 
-Walking across 信濃川 (Shinano-gawa), I spent some time talking to a sweet old man who spent time telling me about the area and answering questions I had about the landscaping of the river and some of the local shrines.
+Walking across 信濃川 (Shinano-gawa), I spent some time talking to a
+sweet old man who spent time telling me about the area and answering
+questions I had about the landscaping of the river and some of the
+local shrines.
 
-He gave me two cards from the local shrine, offering one of the two and then offering both after I told him about my anti-suicide campaign of this walk.
+He gave me two cards from the local shrine, offering one of the two
+and then offering both after I told him about my anti-suicide campaign
+of this walk.
 
 [![2021 may 04 two cards front](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_two_cards_front.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_two_cards_front.jpeg)
 [![2021 may 04 two cards back](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/thumbs/2021_may_04_two_cards_back.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-19/2021_may_04_two_cards_back.jpeg)
 
-After he left, I followed my map to the hotel but couldn't find it.  I walked around to where it seemed to be on the map and suddenly there was a pizza place.
+After he left, I followed my map to the hotel but couldn't find it.  I
+walked around to where it seemed to be on the map and suddenly there
+was a pizza place.
 
 Wow!  Why wasn't this shown on the map before?
 
-I looked down and somehow had fat fingered the map to get myself to the pizza place from before instead of to my hotel.
+I looked down and somehow had fat fingered the map to get myself to
+the pizza place from before instead of to my hotel.
 
 Bought a large pizza of which I'll eat half and save the rest for tomorrow.
 

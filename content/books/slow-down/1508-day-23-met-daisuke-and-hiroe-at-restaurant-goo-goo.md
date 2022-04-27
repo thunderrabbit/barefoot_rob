@@ -24,9 +24,14 @@ class="title" />
     location: 'geo:37.65001,138.93668;u=3.7900924682617188'
 
 
-Just for the record, I am choosing not to walk about 60 m the wrong direction including across a busy Street so I can head toward my destination tonight and stop at a convenience store about 31 minutes away according to Google maps which will be about an hour at my pace.
+Just for the record, I am choosing not to walk about 60 m the wrong
+direction including across a busy Street so I can head toward my
+destination tonight and stop at a convenience store about 31 minutes
+away according to Google maps which will be about an hour at my pace.
 
-That is to say, there's a convenience store about 60 m wrong direction from which way I want to go so I'm not going to go there.  I will instead walk 2.4 km the correct direction so as to not waste steps.
+That is to say, there's a convenience store about 60 m wrong direction
+from which way I want to go so I'm not going to go there.  I will
+instead walk 2.4 km the correct direction so as to not waste steps.
 
 #### '2021-05-08T08:39:19+09:00'
 
@@ -46,7 +51,9 @@ François on tracks with only one line.  Yahiko Line
 
 
 
-I still haven't figured out what these labels represent pointing to the deicing number things.  The numbers seem to be within the set 65, 85, 100, now 110.
+I still haven't figured out what these labels represent pointing to
+the deicing number things.  The numbers seem to be within the set 65,
+85, 100, now 110.
 
 [![2021 may 07 three labels pointing to deicers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_07_three_labels_pointing_to_deicers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_07_three_labels_pointing_to_deicers.jpeg)          
 
@@ -57,7 +64,9 @@ I still haven't figured out what these labels represent pointing to the deicing 
 
 
 
-Wow. They've got this crank that will unroll and looks like simultaneously come down the pole to close the plastic window along a 50 m length of greenhouse.
+Wow. They've got this crank that will unroll and looks like
+simultaneously come down the pole to close the plastic window along a
+50 m length of greenhouse.
 
 [![2021 may 07 long plastic is long](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_07_long_plastic_is_long.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_07_long_plastic_is_long.jpeg)          
 

@@ -26,9 +26,15 @@ https://photos.app.goo.gl/WRfHfbpVpcHF1W52A
     title: 'Good morning Day 6'
     location: 'geo:36.03059,139.37445;u=65'
 
-Let me just first say I am tired / not wanting to get moving today.   Spirits are a bit low; I seem to have lost my preferred foot cream (prescription ointment), and while looking through my bag found things I have not used yet.  KUMON book and Way of the Peaceful Warrior (volume 3).
+Let me just first say I am tired / not wanting to get moving today.
+Spirits are a bit low; I seem to have lost my preferred foot cream
+(prescription ointment), and while looking through my bag found things
+I have not used yet.  KUMON book and Way of the Peaceful Warrior
+(volume 3).
 
-I knew the trip would be tough, so continuing to move.  I think the honeymoon stage is ending and getting into hostile territory (yikes stripes!).
+I knew the trip would be tough, so continuing to move.  I think the
+honeymoon stage is ending and getting into hostile territory (yikes
+stripes!).
 
 * honeymoon
 * hostile
@@ -122,7 +128,9 @@ class="half" />
 
     title: 'I wore my sandals'
 
-With 7km to go on Day 6, I put my sandals on to walk the rest of the way to SPAMU.  My injuries were still painful but much faster as they were not compounding
+With 7km to go on Day 6, I put my sandals on to walk the rest of the
+way to SPAMU.  My injuries were still painful but much faster as they
+were not compounding
 
 #### date: '2021-04-21T19:47:35+09:00'
 
