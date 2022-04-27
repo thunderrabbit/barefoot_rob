@@ -47,3 +47,94 @@ As we shall soon see.
 Do whatever you want.  Nothing matters.  No one cares.
 
 Do whatever you want.  It makes all the difference in the world.
+
+4. Let's talk about the Ever Present Present, or EPP.
+Alan Watts pointed out that we use the thinnest of
+hands on our clocks and watches to trace the transition of Future into Past,
+as if the present moment is actually simply a sliver of Time.
+
+As best I can tell, the present is actually all that is.  
+In _The Power of Now_ Eckhart Tolle talks about it.
+
+I heard his work was based on _The Course of Miracles_.
+
+My chapter here is based on my cursory glance at those books on my bookshelf,
+waiting patiently for me to read them or toss them or anything else.  Or nothing else.
+
+So, in short, I should not be writing this book.  As Frederick Marx said at length
+in the intro for his book _Initiations_, it falls to each generation to teach the
+new generation. I burst into tears when I read that.  Oh fuck.  I can't do it.  
+I must do it.  Aaaggggghhh  and that was.... (checks email) August 7th, 2021.  
+I sent him a photo of myself crying.
+
+* add photo
+* maybe add emails, inc his reply
+
+And now it's April 27th, 2022.  (8 months later!)  Life happens.  Things go off the rails.  
+Just come back to the project and put a few words together.  It can be no other way.
+Life takes time as we go through successive snapshots of living all taking place in the EPP.
+
+Breathe with me.  Be here now.
+
+5. I am fascinated by time.  I love taking pictures of long(?) construction projects
+like houses being built in my neighborhood, or sidewalks being repaired,
+or a street being narrowed(!) to make more room for sidewalks on each side.
+
+One of my favorite projects in my world is what I call Marble Track 3.
+In a way, I started in in early 1980s when my brother and I would build
+marble tracks with Legos.
+
+I tried to slow the marbles down by making the slopes less sloped;
+I eventually realized Legos simply couldn't do it.  I turned to Craftsticks,
+which were just popsicle sticks bought from Michael's, a craft/hobby store.
+
+I built my marble track over a period of years spanning high school and university.
+It mostly got put on hold after that when I started working full time
+(thanks to my best friend Maggie's referral)
+and then really got put on hold when I put my entire life (*) on hold to travel.
+
+I asked Maggie if she could hold the marble track for me
+while I spent a year or two in Japan.  That was in 2003.
+
+In early 2007, I realized it had been a while.
+I decided to make a new marble track, dubbed Marble Track 2,
+as a gift for Maggie.
+
+I gave Marble Track 2 to Maggie as a gift for keeping (the previously unnamed)
+Marble Track 1. And to make things make sense, gave her Marble Track 1 as well.
+
+Meanwhile, I posted
+[_Marble Track 2 basically finished_](https://www.youtube.com/watch?reload=9&v=mlUqu6QE7bw)
+(NSFW language)
+https://www.youtube.com/watch?v=mlUqu6QE7bw
+http://mt2.robnugen.com
+on Youtube and it got attracted lots of comments.
+1,289,076 views as of 27 April 2022.
+
+Most interesting comments for me were basically: "How did you make that?"
+
+"Well, I just glued sticks onto wood and more sticks onto those..."
+
+Then a whole slew of other comments were deriding my art!  "6 months wasted" etc.
+
+So now I am creating Marble Track 3.
+While doing so, I am creating a stop motion animation
+of characters creating Marble Track 3.
+
+It's taking *ages*!  My response to those trolls:
+"you think I wasted 6 months?  Well watch *this*"
+
+And my response to those who wanted to know how I made it, "watch *this*"
+which shows every stick being brought into place step by step.
+
+I try to work on it a couple hours every week,
+and the final video slowly accumulates frames.
+I estimate the final will be two hours long.
+
+Still need to add audio and CGI background, but I'll let Future Rob figure that out.
+
+So yeah, playing with time: taking years to spend hours (creating approximately
+6 to 10 photos per hour), which when viewed at 12 frames per second create a coherent
+story, which itself lasts hours!
+
+(*) Wende, engagement, Spot, Scott, house, and more!  It was hard.
