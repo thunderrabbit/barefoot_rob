@@ -10,7 +10,7 @@ aliases: [
 draft: false
 ---
 
-1. Allow easy sorting of files (by title, not date) (finished 21 August 2021)
+1. Allow easy sorting of files (by title, not date) (finished 26 April 2022)
 2. Write about perfectionism and procrastination
 
 In some ways of thinking, the walk hasn't had any effect on my life whatsoever. And just yesterday, two of my close friends, or Nakama talked about how the walk had a big impact on them. So that has helped inspire me to continue the quest and continue writing my book. In some ways, I think I am a perfectionist, and have this idea that the book must be perfect or not at all. But as my good friend, Mark says, done is better than perfect. So with that in mind, let's write this book.
