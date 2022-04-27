@@ -138,3 +138,45 @@ So yeah, playing with time: taking years to spend hours (creating approximately
 story, which itself lasts hours!
 
 (*) Wende, engagement, Spot, Scott, house, and more!  It was hard.
+
+6. Technology is a weird new shiny thing for us.
+
+Each time we come into a human body (yes I'm talking reincarnation here)
+we have to start from scratch.
+
+Even if you scratch the reincarnation part and just say we're born,
+we have to start from scratch.
+
+Chaotic sensations eventually get resolved into lights and sounds, which eventually get
+identified and faces and voices.. plus this funny body with "arms" and "legs" "fingers" and "toes"
+"head, shoulders, knees, and toes"   We have to learn all this. From scratch.
+
+But technology just keeps on marching.  
+I watched a video on Youtube via Reddit via my "phone"
+which is actually like a portable TV and radio
+on which I can see, hear, communicate, etc..  Really wild...  
+
+Oh sorry, so I watched a video that showed some guys *making a rope*...
+out of plants.  Basically out of wheat or straw or something.
+
+*Making a rope!*
+
+Now rope just magically squirts out of a rope machine,
+apparently at a Factory on the other end of my mailman's route.
+
+Now we've got not just rope, but cars, airplanes, ball point pens, and all kinds of stuff.
+Plus Bitcoin, NFTs, contact lenses, James Webb Space Telescope orbiting Lagrange Point 3
+or whatever, checking out infrared radiation so it can see further away
+than we have in recent memory.
+
+Okay, so the point is
+don't get completely swept away by technology.  
+You've got a physical body, full of blood, nerves,
+emotions, chakras, ideas, inspirations, desires...
+
+Once you've figured out enough of the chaotic sensations that come into your body,
+feel free to listen internally and decide what to do based on your inner guidance.
+
+Toss this book down or close the computer or turn off your EyeVisor 3000 and just breathe.
+
+Notice this moment.
