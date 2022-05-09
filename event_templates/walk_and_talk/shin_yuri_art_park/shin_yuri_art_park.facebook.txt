@@ -67,10 +67,6 @@ shoes which you can take off at the grassy field.
 
 Self care is important, so wear shoes whenever you need to!
 
-**Covid Considerations**
-
-You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 
@@ -117,9 +113,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 セルフケアが大切なので、必要に応じて靴を履くようにしましょう。
 
-**COVID-19の配慮について**
 
-マスク着用はご自身の判断にお任せします。
 
 
 -+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--

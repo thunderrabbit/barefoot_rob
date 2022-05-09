@@ -52,10 +52,6 @@ shoes for the short (~5 minute) walk to the river.  Watch for little rocks!
 　
 Self care is important, so wear shoes whenever you need to!
 　
-**Covid Considerations**
-　
-You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.
 　
 精神をリフレッシュする。地球に触れる。自然とつながる。友達とつながる。
 　
@@ -110,9 +106,6 @@ FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/
 　
 セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。
 　
-**COVID-19の配慮について**
-　
-マスク着用はご自身の判断にお任せします。
 　
 　
 ----------------------------------------　

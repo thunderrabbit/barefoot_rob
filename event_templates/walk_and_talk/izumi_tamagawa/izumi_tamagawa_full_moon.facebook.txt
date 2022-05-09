@@ -74,10 +74,6 @@ Watch for little rocks!
 
 Self care is important, so wear shoes whenever you need to!
 
-**Covid Considerations**
-
-You know the situation.  I know you have thought about it and I trust you
-to make a good decision for yourself.
 
 夜の空気を感じよう。満月を満喫しよう。
 自然とつながる。友達とつながる。
@@ -141,9 +137,7 @@ EVENT_TIME 多摩川に向かって歩く
 
 セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。
 
-**COVID-19の配慮について**
 
-マスク着用はご自身の判断にお任せします。
 
 -+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
 CLICK Next

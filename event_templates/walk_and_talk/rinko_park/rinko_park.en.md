@@ -66,11 +66,3 @@ Anything else you need to take care of yourself.
 No need for a shoe bag; we'll be walking in sight of our belongings.
 
 Self care is important, so wear shoes whenever you need to!
-
-**Covid Considerations**
-
-You know the situation.
-I know you have thought about it and I trust you
-to make a good decision for yourself.
-If you want a group with masks,
-I recommend https://www.meetup.com/tokyospontaneous
