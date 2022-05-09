@@ -183,13 +183,14 @@ sub get_title($)
 }
 
 sub get_date(@) {
-  my ($dt_now, $desired_day_of_week) = @_;
+  my ($dt_now, $desired_day_of_week, $desired_event_time) = @_;
   my $confirmed = 0;
   my $user_dt;   # will be returned once we confirm its value
   while (!$confirmed) {
+    # send dt_now so we know from what date to start showing future dates
     show_dates($dt_now, $desired_day_of_week);
     my $user_date = input_date($dt_now);
-    my $user_time = input_time("primary time of event");  ## cannot send $user_date at this point because it has not been parsed into a timestamp object
+    my $user_time = input_time("primary time of event", 0, $desired_event_time);  ## send 0 instead of timestamp, then string for gathering time eg "13:00"
     $user_dt = parse_user_date($user_date . " " . $user_time);
     $confirmed = ask_confirm_date($user_dt);
   }
@@ -265,9 +266,9 @@ sub input_date($) {
 }
 
 sub input_time(@) {
-  my ($time_description, $dt) = @_;
+  my ($time_description, $dt, $desired_event_time) = @_;
   ## assume noon if nothing was sent
-  my $default_time = "12:00";
+  my $default_time = $desired_event_time || "12:00";
 
   if($dt) {
     $default_time = $dt->strftime("%H:%M");  # 24 hour format

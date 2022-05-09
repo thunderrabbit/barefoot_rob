@@ -138,6 +138,16 @@ our %event_day_of_week = (
     "bold_life_tribe" => 1,
 );
 
+our %event_primary_time = (
+    "yoyogi_park" => "12:00",
+    "rinko_park" => "13:00",
+    "rinshi_no_mori" => "12:00",
+    "izumi_tamagawa" => "13:00",
+    "izumi_tamagawa_full_moon" => "20:00",
+    "shin_yuri_art_park" => "14:00",
+    "shin_yuri_manpukuji_park" => "11:00",
+);
+
 our %event_locations = (
     "yoyogi_park" => "Yoyogi Park",
     "rinko_park" => "Rinko Park, Yokohama",
