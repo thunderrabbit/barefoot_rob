@@ -98,7 +98,8 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 my $preferred_day_of_week = $rpl::Constants::event_day_of_week{$what_kinda_event};
 my $preferred_event_time = $rpl::Constants::event_primary_time{$what_kinda_event};
 my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time);   # default is now
-my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => 15 );      # clone = don't mess with other date
+my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event};
+my $guessed_gathering_time = $event_date_time->clone->subtract( minutes => $preferred_gathering_duration );      # clone = don't mess with other date
 my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
 my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      # clone = don't mess with other date
 my $bold_life_tribe_publish_date = $event_date_time->clone->subtract( days => 8 );  # 6 if we can get Hugo to stop lagging by being on DH server in California time zone     # Publish Bold Life Tribe just N days ahead so they don't swamp future even though I can bang them out

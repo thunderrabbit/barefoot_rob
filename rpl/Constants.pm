@@ -148,6 +148,16 @@ our %event_primary_time = (
     "shin_yuri_manpukuji_park" => "11:00",
 );
 
+our %gather_minutes_before_event = (
+    "yoyogi_park" => "15",
+    "rinko_park" => "15",
+    "rinshi_no_mori" => "30",
+    "izumi_tamagawa" => "15",
+    "izumi_tamagawa_full_moon" => "15",
+    "shin_yuri_art_park" => "30",
+    "shin_yuri_manpukuji_park" => "15",
+);
+
 our %event_locations = (
     "yoyogi_park" => "Yoyogi Park",
     "rinko_park" => "Rinko Park, Yokohama",
