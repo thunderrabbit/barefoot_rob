@@ -162,9 +162,9 @@ our %event_locations = (
     "yoyogi_park" => "Yoyogi Park",
     "rinko_park" => "Rinko Park, Yokohama",
     "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
-    "izumi_tamagawa" => "Izumi Tamagawa",
+    "izumi_tamagawa" => "Izumi Tamagawa (Odakyu Line)",
     "izumi_tamagawa_full_moon" => "Izumi Tamagawa for full moon 満月",
-    "shin_yuri_art_park" => "Shin Yuri Art Park",
+    "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
 );
 

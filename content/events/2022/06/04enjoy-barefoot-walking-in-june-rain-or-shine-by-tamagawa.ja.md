@@ -3,7 +3,7 @@ title: "裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2022", "Barefoot Rob", "barefoot", "blue-cafe", "event", "izumi-tamagawa", "june", "rain", "riverside", "shine", "tamagawa", "walk", "はだし", "多摩川", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-05-09T21:23:12+09:00
-EventLocation: "Izumi Tamagawa"
+EventLocation: "Izumi Tamagawa (Odakyu Line)"
 EventTime: "13:00"
 TimeDescription: "12:45に集合、13:00に多摩川まで歩く"
 EventDate: "2022-06-04T13:00:00+09:00"

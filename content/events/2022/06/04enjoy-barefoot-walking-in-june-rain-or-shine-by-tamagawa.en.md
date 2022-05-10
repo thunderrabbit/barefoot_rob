@@ -3,7 +3,7 @@ title: "Enjoy Barefoot walking in June rain or shine by Tamagawa"
 tags: [ "2022", "Barefoot Rob", "barefoot", "blue-cafe", "event", "izumi-tamagawa", "june", "rain", "riverside", "shine", "tamagawa", "walk", "はだし", "多摩川", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-05-09T21:23:12+09:00
-EventLocation: "Izumi Tamagawa"
+EventLocation: "Izumi Tamagawa (Odakyu Line)"
 EventTime: "13:00"
 TimeDescription: "gather at 12:45; walk to Blue Cafe at 12:55; walk to Tama River around 13:00"
 EventDate: "2022-06-04T13:00:00+09:00"
