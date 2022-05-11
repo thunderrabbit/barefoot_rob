@@ -14,10 +14,6 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 
-<div class="note">image:
-<a href=""></a>
-</div>
-
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking on the full moon night.  Share beautiful experiences with like-minded friends!

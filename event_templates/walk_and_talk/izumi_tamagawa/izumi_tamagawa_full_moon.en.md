@@ -14,10 +14,6 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-<div class="note">image:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
-</div>
-
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
 Enjoy chatting and barefoot walking on the full moon night.  Share beautiful experiences with like-minded friends!
