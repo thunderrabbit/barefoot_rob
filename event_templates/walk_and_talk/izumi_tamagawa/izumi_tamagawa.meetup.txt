@@ -119,7 +119,7 @@ TOPICS  FEEL FREE TO CHANGE:　
 　
 UNSELECT Make this an online event　
 　
-CLICK Yoyogi Park　
+CLICK Izumi Tamagawa　
 　
 CLICK Edit map pin　
 　
