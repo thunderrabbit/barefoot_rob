@@ -14,6 +14,8 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
+Walk barefoot on Japan's Number 1 Grassy Field!
+
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 
 Barefoot Walking Experience at [Shinyuri Art Parks](http://www.airgreen.info/artparks.html)

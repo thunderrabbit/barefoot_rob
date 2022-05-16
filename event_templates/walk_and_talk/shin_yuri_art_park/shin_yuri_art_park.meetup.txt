@@ -1,7 +1,9 @@
-title:       %s　
+title:       %s
 date HUMANDATE   FIRST_GATHERING_TIME
-　
+
 episode_image
+
+Walk barefoot on Japan's Number 1 Grassy Field!
 　
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 　
