@@ -48,3 +48,32 @@ I need to Slow Down.
 
 (five minutes please)
 
+This book is for those who have too many projects, too much going on,
+too many fucking things scratching at the eyes of attention, trying to
+get the precious nectar of time.
+
+Time
+does
+not
+work
+the
+way
+we
+think.
+
+Time transcends time.  When I smoked pot, time slowed wayyy the fuck
+down.  When I ate 7 pot brownies, time flowed backwards.  In
+Hitchhiker's Guide to the Galaxy, time just is, and can be perceived
+in any direction or orientation.
+
+I love playing with time.  My friend Kyoko routinely goes for 10 day
+meditation retreats (Vipassana).  Right now she is on a 40 day
+retreat.  Last time we talked she mentioned that now she consciously
+plays with time during her meditations.  A second can feel like an
+hour and an hour can feel like a second.
+
+I don't know what all this means except that western science doesn't
+know wtf time is.  We don't even know what gravity is, really.
+
+Oh, so I love playing with time.  I am making a stop motion animation
+of characters making a rolling ball track.
