@@ -77,3 +77,21 @@ know wtf time is.  We don't even know what gravity is, really.
 
 Oh, so I love playing with time.  I am making a stop motion animation
 of characters making a rolling ball track.
+
+Just now I glued another piece onto the sample Outer Spiral.  I took a
+picture of it which I optimally want to have visible on the website
+somewhere on the page https://www.marbletrack3.com/p/os
+
+I'm 95% that URL is currently correct; not so sure I will get the
+photo up there, but it's the photo I took around 8:35am Wednesday 18th
+May 2022.  Future tech support, feel free to look for the photo and
+mark this as done if it is in place.  It should be called
+2022_may_18_glued_second_support_on_sample_outer_spiral_inner_track.jpg
+The directory already exists...  something like
+/art/marble_track_3/parts/2022 or something like that on website
+https://b.robnugen.com/
+
+If the file exists, mark it complete here [ ] and put the link here:
+
+
+Thank you!
