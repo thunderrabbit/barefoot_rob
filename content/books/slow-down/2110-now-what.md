@@ -34,4 +34,5 @@ there are benefits beyond just "it feels good."
 
 Balance is improved; gait is improved; long term safety is improved;
 short term safety may go down slightly but can easily be mitigated
-with
+with eyesight or walking in areas known to be safe for bare feet.
+
