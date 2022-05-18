@@ -10,7 +10,7 @@ draft: false
 ---
 
 It's been over a year since I walked.  For ten days after my walk I
-was hella sad.  Klaus said it best, something like I had lost an
+was hella sad.  Klaus explained it best, something like I had lost the
 identity of "walking across Japan" so needed to go through a grieving
 process.
 
@@ -27,7 +27,8 @@ joys and benefits of barefoot walking.
 
 https://www.youtube.com/watch?v=LJzb5n9ldP8
 
-While researching, my friend Yuji spoke for 30 minutes about the
+While researching for the talk,
+I asked my physiotherapist friend Yuji who spoke for 30 minutes about the
 benefits of walking barefoot.  Suddenly I realized I had to expand my
 number of barefoot walking events.  It wasn't just a feel-good thing;
 there are benefits beyond just "it feels good."
@@ -77,3 +78,13 @@ I love my free time and yet it's sometimes too free.  I have given a
 lot of my time away free and end up resenting people who I think
 should be paying me for my time.  It's my own dang fault, and I have
 the ability to do things differently.
+
+I have been leading these events at an overall loss for a few months;
+my transportation costs and other expenses have not been covered by
+donations from the events.
+
+I'll probably increase the recommended donation from 500 yen to 1000
+yen, especially after I get the custom bamboo barefoot thingies I plan
+to have designed and made soon.  I've semi-started that process by
+asking Yoko if she can talk to her friend who makes things with
+bamboo.
