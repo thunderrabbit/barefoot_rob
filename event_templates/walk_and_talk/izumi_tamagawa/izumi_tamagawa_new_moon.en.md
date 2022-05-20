@@ -20,9 +20,9 @@ aliases: [
 
 New Moon offers the best energies for Wish making... 🌑
 
-Come and experience a simple and fun "New Moon Ritual" ✨🌑 with Maxence
+Come and experience a simple and fun "New Moon Ritual" ✨🌑 with [Maxence](https://livespiritual4.wordpress.com/about-maxence/) and [Barefoot Rob](https://www.robnugen.com/en/about/)
 
-On that day, you can charge energy to achieve specific goals... ✨
+On that day, you can charge and focus energy to achieve specific goals... ✨
 
 Throughout our time,
 we'll touch the earth,
