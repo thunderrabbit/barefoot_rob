@@ -77,8 +77,8 @@ our %walk_location_files = (
     "izumi_tamagawa_new_moon" => [
       "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.en.md",
       # "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.ja.md",
-      # "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.facebook.txt",
-      # "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.meetup.txt",
+      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.facebook.txt",
+      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.meetup.txt",
       "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.message.txt",
       "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.twitter.txt",
       "$templates/walk_and_talk/___.t-07days_reminder.txt",

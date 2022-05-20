@@ -4,126 +4,47 @@ HUMANDATE       FIRST_GATHERING_TIME
 episode_image
 
 
-Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
+New Moon offers the best energies for Wish making... 🌑　
 　
-Enjoy chatting and barefoot walking on the new moon night.
-Share beautiful experiences with like-minded friends!
+Come and experience a simple and fun "New Moon Ritual" ✨🌑 with Maxence and Barefoot Rob.　
 　
-We'll also share some quiet time in prayer under the new moon.
+On that day, you can charge and focus energy to achieve specific goals... ✨　
 　
-==== When ====
+Throughout our time, we'll touch the earth, connect with nature, connect with friends.. all while enjoying the night air.　
 　
-**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**
+Enjoy chatting and barefoot walking on the new moon night.  Share beautiful experiences with like-minded friends!　
 　
-==== Where ====
+==== When ====　
 　
-**Meeting Spot #1 by the benches near Izumi-Tamagawa station** https://goo.gl/maps/4yh8TLgADixQYnzU8
+**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**　
 　
-**Meeting Spot #2 baseball fields by Tama River below Odakyu rail line** https://goo.gl/maps/2Ysk1D4EWmc41q3k7
- (on the Tokyo side of the river)
+==== Where ====　
 　
-Latest info https://www.robnugen.com/enalias_path
+**Meeting Spot #1 by the benches near Izumi-Tamagawa station** https://goo.gl/maps/4yh8TLgADixQYnzU8　
 　
-==== Details ====
+**Meeting Spot #2 outside Blue Cafe Tamagawa** https://goo.gl/maps/PX2LgNKF9iz4EyXx9　
 　
-*Enjoy moonlight*
+Latest info https://www.robnugen.com/enalias_path　
 　
-Weather permitting, we'll be bathed in moonlight while
-enjoying the grassy field with bare feet!
+**Donation:**　
 　
-*Enjoy Grass*
+1000 yen　
 　
-We'll relax in a lovely grass baseball field next to Tama River.
+**What to bring**　
 　
-*Enjoy Breathing*
+Whatever you need to take care of yourself.　
+Probably should bring a jacket because the weather is getting cooler.　
+Bring lightweight shoes for the short (~5 minute) walk to the river.　
+Watch for little rocks!　
 　
-Get away from it all by settling into your being and noticing the
-motions of your body, one breath and one step at a time.
+Self care is important, so wear shoes whenever you need to!　
 　
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+About Maxence:　
+https://livespiritual4.wordpress.com/about-maxence/　
 　
-EVENT_TIME: Walk toward Tama River
-　
-The grass is nice for walking and relaxing.  Enjoy the light of the new moon.
-　
-Latest info https://www.robnugen.com/enalias_path
-　
-**Donation:**
-　
-500 yen
-　
-**What to bring**
-　
-Whatever you need to take care of yourself.
-Probably should bring a jacket because the weather is getting cooler.
-Bring lightweight shoes for the short (~5 minute) walk to the river.
-Watch for little rocks!
-　
-Self care is important, so wear shoes whenever you need to!
-　
+About Barefoot Rob　
+https://www.robnugen.com/en/about/　
 
-　
-夜の空気を感じよう。満月を満喫しよう。
-自然とつながる。友達とつながる。
-　
-満月の夜に裸足で歩きながらおしゃべりを楽しむ。気の合う仲間と新しい体験を共有する
-ついでに、満月の下で静かに祈る時間も共有しましょう。
-　
-==== 日程 ====
-　
-**EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
-　
-==== 第一集合場所 ====
-　
-EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME
-　
-集合場所：和泉多摩川駅前ベンチ
-https://goo.gl/maps/4yh8TLgADixQYnzU8
-　
-==== 第二集合場所 ====
-　
-EVENT_YYYY年EVENT_M月EVENT_D日EVENT_TIME後
-　
-高架下(スポーツクラブ  ブルー多摩川横)の河川敷
-https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
-　
-
-最新情報は、https://www.robnugen.com/jaalias_path
-　
-
-==== 詳細 ====
-　
-*Enjoy moonlight*（満月を満喫しよう）
-　
-天候が良ければ、裸足で芝生を楽しみながら月の光を浴びられます！
-　
-*Enjoy Breathing*（呼吸を楽しむ）
-　
-自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
-呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
-　
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
-　
-EVENT_TIME 多摩川に向かって歩く
-　
-芝生は散歩とリラクセーションにもってこいです。
-満月の光を楽しみましょう。
-　
-最新情報は、https://www.robnugen.com/jaalias_path
-　
-**参加費**
-　
-500円 (寄付)
-　
-**持ち物**
-　
-自分の体調管理に必要なもの。
-少し肌寒くなってきたので、上着を持参するといいかもしれません。
-軽い靴をお持ちください。
-軽い靴を持ってきてください。
-また、歩くときに靴を持ち運びたい場合は、靴を入れる袋も必要です。
-　
-セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。
 　
 
 
@@ -162,7 +83,7 @@ Allow guests:    5
 
 Event fee:  ON
 Direct from member
-JPY    500
+JPY    1000
 
 Publish
 
