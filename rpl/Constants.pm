@@ -74,6 +74,16 @@ our %walk_location_files = (
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
       "$templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "izumi_tamagawa_new_moon" => [
+      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.en.md",
+      # "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.ja.md",
+      # "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.facebook.txt",
+      # "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.meetup.txt",
+      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.message.txt",
+      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.twitter.txt",
+      "$templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
     "shin_yuri_art_park" => [
       "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.en.md",
       "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.ja.md",
@@ -132,6 +142,8 @@ our %event_day_of_week = (
     "rinko_park" => 6,
     "rinshi_no_mori" => 6,
     "izumi_tamagawa" => 6,
+    "izumi_tamagawa_full_moon" => 1,
+    "izumi_tamagawa_new_moon" => 1,
     "shin_yuri_art_park" => 4,
     "shin_yuri_manpukuji_park" => 4,
     "quest_update" => 3,
@@ -144,6 +156,7 @@ our %event_primary_time = (
     "rinshi_no_mori" => "12:00",
     "izumi_tamagawa" => "13:00",
     "izumi_tamagawa_full_moon" => "20:00",
+    "izumi_tamagawa_new_moon" => "20:00",
     "shin_yuri_art_park" => "14:00",
     "shin_yuri_manpukuji_park" => "11:00",
 );
@@ -154,6 +167,7 @@ our %gather_minutes_before_event = (
     "rinshi_no_mori" => "30",
     "izumi_tamagawa" => "15",
     "izumi_tamagawa_full_moon" => "15",
+    "izumi_tamagawa_new_moon" => "15",
     "shin_yuri_art_park" => "30",
     "shin_yuri_manpukuji_park" => "15",
 );
@@ -164,6 +178,7 @@ our %event_locations = (
     "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
     "izumi_tamagawa" => "Izumi Tamagawa (Odakyu Line)",
     "izumi_tamagawa_full_moon" => "Izumi Tamagawa for full moon 満月",
+    "izumi_tamagawa_new_moon" => "Izumi Tamagawa for new moon 新月",
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
 );
@@ -183,6 +198,7 @@ our %event_tag_hashes = (
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "izumi_tamagawa" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "blue-cafe" => 1, "tamagawa" => 1, "多摩川" => 1)},
     "izumi_tamagawa_full_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "full moon" => 1, "tamagawa" => 1, "多摩川" => 1, "満月" => 1)},
+    "izumi_tamagawa_new_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "new moon" => 1, "tamagawa" => 1, "多摩川" => 1, "新月" => 1)},
     "yoyogi_park" => {%walk_and_talk_tags, ("yoyogi" => 1, "代々木公園" => 1)},
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
