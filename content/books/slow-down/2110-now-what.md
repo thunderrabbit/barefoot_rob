@@ -88,3 +88,10 @@ yen, especially after I get the custom bamboo barefoot thingies I plan
 to have designed and made soon.  I've semi-started that process by
 asking Yoko if she can talk to her friend who makes things with
 bamboo.
+
+24 May 2022
+
+Just quickly to write your innate talents are the most valuable thing
+you undervalue because they are innate.  You overlook them because
+they come so easily to you.  What do people keep coming to you for?
+Continue to do those things more often.
