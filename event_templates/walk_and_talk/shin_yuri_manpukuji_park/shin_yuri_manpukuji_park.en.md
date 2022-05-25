@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; enter Manpukuji Hiyama Park at EVENT_TIME"
+TimeDescription: "gather at FIRST_GATHERING_TIME; walk toward Manpukuji Hiyama Park at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
@@ -14,11 +14,11 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
+Refresh your spirit. Step in mud. Connect with nature. Connect with friends.
 
-Barefoot Walking Experience at [Manpukuji Hiyama Park](http://www.airgreen.info/artparks.html)
+Barefoot Walking Experience in [Manpukuji Hiyama Park](https://goo.gl/maps/kTvNmsKf2XGYAbns6)
 
-Barefoot walking, breathing, enjoying fresh air and a lovely park.
+Barefoot walking, breathing, enjoying fresh air and a hilly park.
 
 #### First Meeting Point
 
@@ -30,7 +30,7 @@ Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2
 
 HUMANDATE, EVENT_TIME
 
-[Manpukuji Hiyama Park](https://goo.gl/maps/sMHEUWwgMj3bcYKq8) https://goo.gl/maps/cDRmrwqTXid1Cfd2A
+[Manpukuji Hiyama Park](https://goo.gl/maps/kTvNmsKf2XGYAbns6) https://goo.gl/maps/cDRmrwqTXid1Cfd2A
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -63,4 +63,4 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **Donation:**
 
-500 yen
+1000 yen
