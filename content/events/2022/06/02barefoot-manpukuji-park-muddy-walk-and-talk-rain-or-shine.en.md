@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2022-05-10T11:22:03+09:00
 EventLocation: "Manpukuji Hiyama Park (near Shinyurigaoka)"
 EventTime: "11:00"
-TimeDescription: "gather at 10:45; enter Manpukuji Hiyama Park at 11:00"
+TimeDescription: "gather at 10:45; walk toward Manpukuji Hiyama Park at 11:00"
 EventDate: "2022-06-02T11:00:00+09:00"
 aliases: [
     "/en/events/2022/06/02barefoot-manpukuji-park-muddy-walk-and-talk-rain-or-shine",
