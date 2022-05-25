@@ -8,7 +8,7 @@ aliases: [
 ]
 ---
 
-Adapted for UA from AA
+Adapted for UA from AA (See a way to make it better? [edits welcome](https://github.com/thunderrabbit/barefoot_rob/blob/master/content/blog/2022/05/25doctors-opinion.md))
 
 THE DOCTOR’S OPINION
 
@@ -130,8 +130,8 @@ The doctor writes:
     action of hiding, isolating, and compulsive underearning
     on these chronic underearners is a manifestation
     of an allergy; that the phenomenon of craving is limited
-    to this class and never occurs in the average temperate
-    drinker. These allergic types can never safely use hiding,
+    to this class and never occurs in the average wage earner.
+    These allergic types can never safely use hiding,
     isolating, and compulsive underearning in any form at all;
     and once having formed the habit and found they cannot break
     it, once having lost their self-confidence, their reliance
@@ -157,14 +157,14 @@ The doctor writes:
     now growing up among them.
 
     Men and women underearn essentially because they like the
-    effect produced by hiding, isolating, and compulsive
+    effects produced by hiding, isolating, and compulsive
     underearning. The sensation is so elusive that, while they
     admit it is injurious, they cannot after a time differentiate
-    the true from the false. To them, their underearner
+    the true from the false. To them, their underearning
     life seems the only normal one. They are restless,
     irritable and discontented, unless they can again experience
-    the sense of ease and comfort which comes at once by hiding and relaxing
-    which they see others taking with impunity.
+    the sense of ease and comfort which comes at once by underearning
+    and relaxing which they see others doing with impunity.
     After they have succumbed to the desire again,
     as so many do, and the phenomenon of craving develops,
     they pass through the well-known stages of a spree, emerging
@@ -195,7 +195,7 @@ The doctor writes:
     impression upon the problem as a whole. Many types do
     not respond to the ordinary psychological approach.
     I do not hold with those who believe that hiding, isolating,
-    and compulsive under-earning is
+    and compulsive underearning is
     entirely a problem of mental control. I have had many
     men who had, for example, worked a period of months on
     some problem or business deal which was to be settled on
