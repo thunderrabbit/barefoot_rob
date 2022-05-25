@@ -173,7 +173,7 @@ our %gather_minutes_before_event = (
 );
 
 our %event_locations = (
-    "yoyogi_park" => "Yoyogi Park",
+    "yoyogi_park" => "Yoyogi Park (Harajuku Gate)",
     "rinko_park" => "Rinko Park, Yokohama",
     "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
     "izumi_tamagawa" => "Izumi Tamagawa (Odakyu Line)",

@@ -3,7 +3,7 @@ title: "Barefoot Walking rain or shine in June in Yoyogi Park"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "june", "rain", "shine", "walk", "yoyogi", "はだし", "も", "代々木公園", "裸足のロブ", "雨も" ]
 author: Rob Nugen
 date: 2022-05-16T11:21:54+09:00
-EventLocation: "Yoyogi Park"
+EventLocation: "Yoyogi Park (Harajuku Gate)"
 EventTime: "12:00"
 TimeDescription: "gather at 11:45; enter the Park at 12:00"
 EventDate: "2022-06-11T12:00:00+09:00"
