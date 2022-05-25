@@ -14,6 +14,10 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
+<div class="note">写真:
+<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+</div>
+
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
 
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。

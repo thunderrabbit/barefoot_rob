@@ -14,6 +14,10 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
+<div class="note">Image credit:
+<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+</div>
+
 Refresh your spirit. Touch the earth. Touch the sea.
 Connect with yourself and nature.
 
