@@ -14,11 +14,11 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_05_kyoko_rob_quack.jpg" "2022 may 05 kyoko rob quack" %}}
 
-Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
+Refresh your spirit. Step in mud. Connect with nature. Connect with friends.
 
-Barefoot Walking Experience at [Manpukuji Hiyama Park](http://www.airgreen.info/artparks.html)
+Barefoot Walking Experience in [Manpukuji Hiyama Park](https://goo.gl/maps/kTvNmsKf2XGYAbns6)
 
-Barefoot walking, breathing, enjoying fresh air and a lovely park.
+Barefoot walking, breathing, enjoying fresh air and a hilly park.
 
 #### First Meeting Point
 
@@ -28,9 +28,9 @@ Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2
 
 #### Second Meeting Point is Manpukuji Hiyama Park
 
-Thursday 02 June 2022, 11:00
+Thursday 02 June 2022, 11:10
 
-[Manpukuji Hiyama Park](https://goo.gl/maps/sMHEUWwgMj3bcYKq8) https://goo.gl/maps/cDRmrwqTXid1Cfd2A
+[Manpukuji Hiyama Park](https://goo.gl/maps/kTvNmsKf2XGYAbns6) https://goo.gl/maps/cDRmrwqTXid1Cfd2A
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -55,7 +55,7 @@ Find like-minded others who enjoy walking barefoot in mud!
 
 * The event is on, rain or shine.
 * We'll walk from Shin Yurigaoka station starting 11:00
-* Feel free to join at Manpukuji Hiyama Park by 11:00.
+* Feel free to join at Manpukuji Hiyama Park by 11:10.
 * Take off your shoes in the park; connect with mother earth via leafy mud!
 * Meet friends, enjoy chatting, connecting
 
@@ -63,4 +63,4 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **Donation:**
 
-500 yen
+1000 yen
