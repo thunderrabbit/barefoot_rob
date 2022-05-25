@@ -209,6 +209,7 @@ foreach my $extension (keys %event_templates) {
   my $event_minute = $event_date_time->minute;
   my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
+  my $event_time_plus_ten = $event_date_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Manpukuji Hiyama (ten minutes walk from 新百合ヶ丘駅)
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   my $event_location = $rpl::Constants::event_locations{$what_kinda_event};
   $mt3_episode_output =~ s/TOPIC_LINE/$topic/;
@@ -225,6 +226,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;
   $mt3_episode_output =~ s/EVENT_H/$event_h/g;
   $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
+  $mt3_episode_output =~ s/EVENT_TIME_PLUS_10/$event_time_plus_ten/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;

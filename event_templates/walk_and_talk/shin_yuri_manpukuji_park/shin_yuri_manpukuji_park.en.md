@@ -28,7 +28,7 @@ Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2
 
 #### Second Meeting Point is Manpukuji Hiyama Park
 
-HUMANDATE, EVENT_TIME
+HUMANDATE, EVENT_TIME_PLUS_10
 
 [Manpukuji Hiyama Park](https://goo.gl/maps/kTvNmsKf2XGYAbns6) https://goo.gl/maps/cDRmrwqTXid1Cfd2A
 
@@ -55,7 +55,7 @@ Find like-minded others who enjoy walking barefoot in mud!
 
 * The event is on, rain or shine.
 * We'll walk from Shin Yurigaoka station starting FIRST_DEPARTURE_TIME
-* Feel free to join at Manpukuji Hiyama Park by EVENT_TIME.
+* Feel free to join at Manpukuji Hiyama Park by EVENT_TIME_PLUS_10.
 * Take off your shoes in the park; connect with mother earth via leafy mud!
 * Meet friends, enjoy chatting, connecting
 
