@@ -58,18 +58,15 @@ which kind of energy to bring to which situation.
 
 You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
-* ~~¥20,000~~
+* ¥20,000
 
-**Special 2022 Relaunch Rate until April 30!** lock in ¥10,000 per month
+Lock in ¥20,000 per month!
 
-<!--   10,000 yen button  -->
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="T32GVS6KMJFGC">
-<input type="image" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<!--   20,000 yen button  -->
+<a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-43S50560BE9974917L63H7VA">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<!-- /  10,000 yen button  -->
+</a>
+<!-- /  20,000 yen button  -->
 
 Unsubscribe anytime.
 
@@ -77,8 +74,6 @@ Unsubscribe anytime.
 
 We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 
-* April focuses on creating __SYSTEMS__
-* in May move forward with external __ACTION__
 * June focuses on inner and outer __JOY__
 * July is a time to __CONNECT__
 * August we dive deep into __INTIMACY__
@@ -89,6 +84,8 @@ We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
 * in January hear your inner __CALLING__
 * February focuses on __TRUTH__
 * March focuses on honing our __PURPOSE__
+* April focuses on creating __SYSTEMS__
+* May moves us with transcendent __ACTION__
 
 ## Questions ##
 
