@@ -28,7 +28,7 @@ date: 2020-12-11T15:38:44+09:00
 * Be the leader of your loving community.
 * Thursdays, 7pm - 8:30pm JST
 
-[More info here](/en/bold-life-tribe/)
+[Register here for Bold Life Tribe](/en/bold-life-tribe/)
 
 ## 👂 Confidential Listening 👂
 
