@@ -58,13 +58,15 @@ which kind of energy to bring to which situation.
 
 You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
 
-Ready to commit to your success?  Lock in ¥20,000 per month!
+Ready to commit to your success?  Lock in ¥39,000 per month!
 
-<!--   20,000 yen button  -->
+<!--   39,000 yen button  -->
 <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-43S50560BE9974917L63H7VA">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif">
 </a>
-<!-- /  20,000 yen button  -->
+<!-- /  39,000 yen button  -->
+
+¥39,000 per month, plus ¥5,000 setup fee includes initial consultation call.
 
 Unsubscribe anytime.
 
