@@ -42,7 +42,7 @@ Share beautiful experiences with like-minded friends!
 
 #### When
 
-**Wednesday 29 June 2022, gather at 19:45; walk toward Tama River at 20:00**
+**Wednesday 29 June 2022, gather at 19:45; walk toward Tama River at 19:55**
 
 #### Where
 
