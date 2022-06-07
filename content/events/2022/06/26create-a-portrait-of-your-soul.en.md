@@ -1,16 +1,16 @@
 ---
 title: "Create a Portrait of Your Soul"
-tags: [ "2022", "Barefoot Rob", "Emico", "event", "may", "2022" ]
+tags: [ "2022", "Barefoot Rob", "Emico", "event", "June", "2022" ]
 author: Rob Nugen
 date: 2022-04-26T16:18:34+09:00
 EventLocation: "TBD"
 EventTime: "12:00"
-TimeDescription: "gather at 11:30; start at 12:00"
-EventDate: "2022-05-29T12:00:00+09:00"
+TimeDescription: "gather at 15:50; start around 16:00"
+EventDate: "2022-06-26T16:00:00+09:00"
 aliases: [
-    "/en/events/2022/05/29create-a-portrait-of-your-soul",
+    "/en/events/2022/06/26create-a-portrait-of-your-soul",
 ]
-draft: true
+draft: false
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/2022_05_29_portrait_of_your_soul_flyer.jpg" "2022 May 29 Create a Portrait of Your Soul flyer" %}}
@@ -64,14 +64,19 @@ Barefoot Rob walks barefoot everywhere, staying in touch with himself, the earth
 After having started his personal growth journey in 1997, Rob moved to Japan in 2003. Rob has been running a men’s peer counseling group in Tokyo since 2015.
 
 
-#### First Meeting Point
+#### Location
 
+新宿コムロビル ７０４号室
 
-#### Second Meeting Point
+Shinjuku Komuro Building #704
 
+住所: 〒1600022 東京都 新宿区 新宿 4-1-22 新宿コムロビル
+
+Address: 〒160-0022 Shinjuku 4-1-22 新宿コムロビル
+
+https://maps.google.com/maps?q=35.688351316566624,139.70291128265046&zoom=16
 
 #### Details
-
 
 **Cost:**
 
