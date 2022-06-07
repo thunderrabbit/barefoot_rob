@@ -3,14 +3,14 @@ title: "Create a Portrait of Your Soul"
 tags: [ "2022", "Barefoot Rob", "Emico", "event", "June", "2022" ]
 author: Rob Nugen
 date: 2022-04-26T16:18:34+09:00
-EventLocation: "TBD"
-EventTime: "12:00"
+EventLocation: "Shinjuku Komuro Building #704"
+EventTime: "16:00"
 TimeDescription: "gather at 15:50; start around 16:00"
 EventDate: "2022-06-26T16:00:00+09:00"
 aliases: [
     "/en/events/2022/06/26create-a-portrait-of-your-soul",
 ]
-draft: false
+draft: true
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/2022_05_29_portrait_of_your_soul_flyer.jpg" "2022 May 29 Create a Portrait of Your Soul flyer" %}}
@@ -26,19 +26,28 @@ draft: false
 
 Create a powerful collage artwork to make your dreams & wishes come true....
 
-With guidance and the Portrait of the soul art therapy technique you can transform your artwork into a powerful spiritual tool & mirror of your soul...
+With guidance and the Portrait of the soul art therapy technique you can
+transform your artwork into a powerful spiritual tool & mirror of your soul...
 
-Let's have fun being creative... Let's dream BIG and use the full potential of the new era...
+Let's have fun being creative...
+Let's dream BIG and use the full potential of the new era...
 
-It's time to focus on yourself... create & invest energy for your life, your wishes, your future...
+It's time to focus on yourself... create & invest energy for your life,
+your wishes, your future...
 
-If we don't have a clear goal or a wish, living life can be similar to walking in a dark forest without a flashlight... which is the right direction, what is the right step to do?
+If we don't have a clear goal or a wish, living life can be similar
+to walking in a dark forest without a flashlight...
+which is the right direction, what is the right step to do?
 
-Let's turn on the light of the heart and use your artwork as a compass, a magnet for your dreams...
+Let's turn on the light of the heart and use
+your artwork as a compass, a magnet for your dreams...
 
-Let's take steps in 2022 confidently...each step can bring us closer to the meaning of our life...
+Let's take steps in 2022 confidently...each step can bring us
+closer to the meaning of our life...
 
-Experience and learn spiritual techniques how to work with your artwork further...how to make it alive... how to direct energy to make your wish come true...
+Experience and learn spiritual techniques how to work with your artwork
+further...how to make it alive... how to direct energy to make your
+wishes come true...
 
 Have fun with dynamic meditation and enter inside your artwork...
 
