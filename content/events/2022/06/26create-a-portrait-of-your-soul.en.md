@@ -101,6 +101,8 @@ Buy tickets on Peatix (link coming soon!)
 
 Recent happy photo of yourself
 
+Other favorite pictures, if you like
+
 Scissors, favorite pens, pencils, markers
 
 If you have magazines to share, welcome to bring them
