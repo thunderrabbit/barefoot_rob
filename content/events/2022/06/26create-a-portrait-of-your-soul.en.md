@@ -60,11 +60,22 @@ Have fun with dynamic meditation and enter inside your artwork...
 
 ### 🙏 Emico Miscella 🙏
 
-Emico experienced living, studying and teaching for over 9 years in a Love & Nirvana Sanctuary on the ocean shore in palm tree forest in a pure power spot in Siargao Island, Philippines. She is guiding people from around the world in retreats through energy & chakra work, meditation techniques, dynamic movement & dance detox healings, art therapies, astrology & tarot initiations, mystical rituals, fire walking and other adventures...
+Emico experienced living, studying and teaching for over 9 years in a
+Love & Nirvana Sanctuary on the ocean shore in palm tree forest in a
+pure power spot in Siargao Island, Philippines. She is guiding people
+from around the world in retreats through energy & chakra work,
+meditation techniques, dynamic movement & dance detox healings,
+art therapies, astrology & tarot initiations, mystical rituals,
+fire walking and other adventures...
 
-She feels true happiness and fulfillment to empower all kinds of unique personalities to reconnect with oneself, own authentic path and upgrade life to next level...
+She feels true happiness and fulfillment to empower all kinds of unique
+personalities to reconnect with oneself, own authentic path and upgrade life to next level...
 
-Since 2020, she is leading retreats, teacher trainings, courses, workshops and private sessions in different parts of Japan.
+Since 2020, she is leading retreats, teacher trainings, courses, workshops
+and private sessions in different parts of Japan.
+
+Emico has University degrees in History of Art and Comparative Art Studies
+and is teaching Portait of the Soul Art therapy techniques since 2012.
 
 ### 🐾 Barefoot Rob Nugen 🐾
 
