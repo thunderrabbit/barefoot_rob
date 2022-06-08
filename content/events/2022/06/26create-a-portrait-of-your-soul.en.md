@@ -51,7 +51,7 @@ Experience and learn spiritual techniques how to work with your artwork further.
 
 Have fun with dynamic meditation and enter inside your artwork...
 
-*“If you deeply believe your lucky star,*
+*“If you deeply believe in your lucky star,*
 <br>*you will become the master of the universe*
 <br>*with the power to transform material world*
 <br>*as well as your life…”*
