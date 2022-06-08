@@ -97,7 +97,7 @@ After June 21st: 11,000 yen per person or 15,000 yen for two people
 
 Buy tickets on Peatix (link coming soon!)
 
-**What to bring**
+**Optional things to bring:**
 
 Recent happy photo of yourself
 
