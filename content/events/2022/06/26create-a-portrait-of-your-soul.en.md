@@ -93,7 +93,7 @@ Early Bird prices until 21 June
 
 8,800 yen for per person or 13,000 yen for two people
 
-fter June 21st: 11,000 yen per person or 15,000 yen for two people
+After June 21st: 11,000 yen per person or 15,000 yen for two people
 
 Buy tickets on Peatix (link coming soon!)
 
