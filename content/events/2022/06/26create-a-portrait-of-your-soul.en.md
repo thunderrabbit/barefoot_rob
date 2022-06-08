@@ -87,14 +87,20 @@ Between Shinjuku and Shinjuku-san-chome stations
 
 **Energy Exchange:**
 
-~~11,000 yen per person or 15,000 yen for two people~~
+Seats are limited.  Please reserve your place asap!
 
 Early Bird prices until 21 June
 
 8,800 yen for per person or 13,000 yen for two people
 
+fter June 21st: 11,000 yen per person or 15,000 yen for two people
+
 Buy tickets on Peatix (link coming soon!)
 
 **What to bring**
+
+Recent happy photo of yourself
+
+Scissors, favorite pens, pencils, markers
 
 If you have magazines to share, welcome to bring them
