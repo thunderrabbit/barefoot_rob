@@ -106,7 +106,7 @@ Early Bird prices until 21 June
 
 After June 21st: 11,000 yen per person or 15,000 yen for two people
 
-Buy tickets on Peatix (link coming soon!)
+Get tickets via Peatix: https://portrait-of-your-soul.peatix.com/
 
 **Optional things to bring:**
 
