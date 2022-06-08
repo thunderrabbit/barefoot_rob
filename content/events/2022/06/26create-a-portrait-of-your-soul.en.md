@@ -85,7 +85,7 @@ Between Shinjuku and Shinjuku-san-chome stations
 
 #### Details
 
-**Cost:**
+**Energy Exchange:**
 
 ~~11,000 yen per person or 15,000 yen for two people~~
 
