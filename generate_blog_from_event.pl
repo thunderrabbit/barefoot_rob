@@ -25,7 +25,7 @@ my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($event_dir);
 # ask which file to pull data from
 my $event_file_to_blog = rpl::Functions::choose_from_list_of("Events", @event_list_for_month);   # First parameter is for human to know what types of things are in the list
 
-print rpl::Functions::strip_path($event_file_to_blog) . "\n";
+print "You selected " . rpl::Functions::strip_path($event_file_to_blog) . "\n";
 
 #######################################################3#######################################################3
 # BEGIN MAKE BLOG ENTRIES BASED ON EVENTS
@@ -47,7 +47,7 @@ my $blog_template;
   close ETF;
 }
 
-$blog_template =~ /(title: ")([^"]+)(")/;
+$blog_template =~ /(title: ")([^"]+)(")/;   # Grab from in quotes of title: "Fancy Event Title"
 my $blog_title = $2;
 print "TITLE $blog_title\n";
 
