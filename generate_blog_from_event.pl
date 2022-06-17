@@ -52,20 +52,16 @@ my $blog_title = $2;
 print "TITLE $blog_title\n";
 
 # get event date from frontmatter (make blog date the same date as the event was)
-$blog_template =~ /(EventDate: ")([^"]+)(")/;               # get date from frontmatter
-my ($blog_year, $blog_month, $blog_day) = split("-",$2);    # $2 expected format yyyy-mm-dd
-print "DATE $blog_year $blog_month $blog_day\n";
+$blog_template =~ /(EventDate: ")([^"]+)(")/;               # get date from frontmatter, e.g. 2022-06-11T12:00:00+09:00
+print "If this format isn't yyyy-mm-dd, need to fix it: $2\n";
+my ($blog_year, $blog_month, $blog_day) = split("-|T",$2);    # $2 expected format yyyy-mm-ddThh:mm:ss+09:00
+print "DATE $blog_year年$blog_month月$blog_day日\n";
 
 ## Make sure date looks reasonable
 unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/ && $blog_day =~ m/^\d{2}$/) {   #https://stackoverflow.com/a/6697134/194309
     print "Seems like the date we got from the event doesn't look like a date. $blog_year年$blog_month月$blog_day日\n";
-    print "trying again without day, because that helped for some reason I couldn't figure out..\n";
-    unless ($blog_year =~ m/^\d{4}$/ && $blog_month =~ m/^\d{2}$/) {   #https://stackoverflow.com/a/6697134/194309
-      exit(1); ## tells the caller side that there is an error
-    }
-    print "Yep that worked for some reason.\n";
+    exit(1); ## tells the caller side that there is an error
 }
-
 
 my $blog_frontmatter = rpl::Functions::extract_frontmatter($blog_template);
 
