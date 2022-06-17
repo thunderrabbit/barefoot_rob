@@ -1,14 +1,15 @@
 ---
-title: "Full Moon meditation and barefoot walking event."
+title: "Full Moon meditation and barefoot walking event"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "july", "meditation", "moon", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-06-17T22:32:07+09:00
+date: 2022-06-17T22:40:23+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "20:00"
 TimeDescription: "gather at 19:45; walk to Tama River at 19:55"
 EventDate: "2022-07-13T20:00:00+09:00"
 aliases: [
     "/en/events/2022/07/13full-moon-meditation-and-barefoot-walking-event.",
+    "/en/events/2022/07/13full-moon-meditation-and-barefoot-walking-event",
 ]
 ---
 

@@ -2,13 +2,14 @@
 title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "july", "meditation", "moon", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-06-17T22:32:07+09:00
+date: 2022-06-17T22:40:23+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "20:00"
 TimeDescription: "19:45に集合、19:55に多摩川まで歩く"
 EventDate: "2022-07-13T20:00:00+09:00"
 aliases: [
     "/ja/events/2022/07/13full-moon-meditation-and-barefoot-walking-event.",
+    "/ja/events/2022/07/13full-moon-meditation-and-barefoot-walking-event",
 ]
 ---
 
