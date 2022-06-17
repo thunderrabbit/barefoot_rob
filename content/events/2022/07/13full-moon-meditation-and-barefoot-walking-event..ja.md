@@ -1,21 +1,21 @@
 ---
 title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
-tags: [ %s ]
+tags: [ "2022", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "july", "meditation", "moon", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "FIRST_GATHERING_TIMEに集合、IZUMI_DEPARTURE_TIMEに多摩川まで歩く"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-06-17T22:32:07+09:00
+EventLocation: "Izumi Tamagawa for full moon 満月"
+EventTime: "20:00"
+TimeDescription: "19:45に集合、19:55に多摩川まで歩く"
+EventDate: "2022-07-13T20:00:00+09:00"
 aliases: [
-    "/jaalias_path",
+    "/ja/events/2022/07/13full-moon-meditation-and-barefoot-walking-event.",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 
 <div class="note">写真:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href=""></a>
 </div>
 
 夜の空気を感じよう。満月を満喫しよう。
@@ -26,11 +26,11 @@ aliases: [
 
 #### 日程
 
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、IZUMI_DEPARTURE_TIMEに多摩川を目指して歩きます。**
+**2022年7月13日　19:45集合、19:55に多摩川を目指して歩きます。**
 
 #### 第一集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+2022年7月13日　19:45
 
 [集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
 https://goo.gl/maps/4yh8TLgADixQYnzU8
@@ -39,7 +39,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 #### 第二集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
+2022年7月13日　20:00後
 
 [高架下(スポーツクラブ  ブルー多摩川横)の河川敷](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
 https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
@@ -59,9 +59,9 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
 
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+19:45 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-IZUMI_DEPARTURE_TIME 多摩川に向かって歩く
+19:55 多摩川に向かって歩く
 
 芝生は散歩とリラクセーションにもってこいです。
 満月の光を楽しみましょう。
