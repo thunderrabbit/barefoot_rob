@@ -96,7 +96,7 @@ our %walk_location_files = (
     "shin_yuri_manpukuji_park" => [
       "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.en.md",
       # "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.ja.md",
-      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.facebook.txt",
+      # "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.facebook.txt",
       # "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.meetup.txt",
       # "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.twitter.txt",
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
@@ -145,7 +145,7 @@ our %event_day_of_week = (
     "izumi_tamagawa_full_moon" => 1,
     "izumi_tamagawa_new_moon" => 1,
     "shin_yuri_art_park" => 4,
-    "shin_yuri_manpukuji_park" => 4,
+    "shin_yuri_manpukuji_park" => 3,
     "quest_update" => 3,
     "bold_life_tribe" => 1,
 );
@@ -158,7 +158,7 @@ our %event_primary_time = (
     "izumi_tamagawa_full_moon" => "20:00",
     "izumi_tamagawa_new_moon" => "20:00",
     "shin_yuri_art_park" => "14:00",
-    "shin_yuri_manpukuji_park" => "11:00",
+    "shin_yuri_manpukuji_park" => "13:00",
 );
 
 our %gather_minutes_before_event = (
@@ -169,7 +169,7 @@ our %gather_minutes_before_event = (
     "izumi_tamagawa_full_moon" => "15",
     "izumi_tamagawa_new_moon" => "15",
     "shin_yuri_art_park" => "30",
-    "shin_yuri_manpukuji_park" => "15",
+    "shin_yuri_manpukuji_park" => "30",
 );
 
 our %event_locations = (
