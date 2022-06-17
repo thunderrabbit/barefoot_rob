@@ -365,8 +365,8 @@ sub get_tags(%) {
 }# get_tags()
 
 # This was for event types but now can be used for any $type of @things
-sub get_event_type(@) {
-  my ($type_of_thing, @event_types) = @_;
+sub choose_from_list_of(@) {
+  my ($type_of_thing, @event_types) = @_;   # First parameter is for human to know what types of things are in the list
   my $event_type;
   my $selected_type;
 

@@ -26,7 +26,7 @@ my $original_what_kinda_event = "";     ## later restore what_kinda_event after 
 
 do {
 
-  $what_kinda_event = rpl::Functions::get_event_type("Event Types", sort keys %select_from_hash);
+  $what_kinda_event = rpl::Functions::choose_from_list_of("Event Types", sort keys %select_from_hash);  # First parameter is for human to know what types of things are in the list
 
   $original_what_kinda_event = $what_kinda_event unless $original_what_kinda_event;
 

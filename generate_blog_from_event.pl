@@ -23,7 +23,7 @@ print("looking for events in\n$event_dir\n");
 my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($event_dir);
 
 # ask which file to pull data from
-my $event_file_to_blog = rpl::Functions::get_event_type("Events", @event_list_for_month);   # func get_event_type is generic, but misnamed here
+my $event_file_to_blog = rpl::Functions::choose_from_list_of("Events", @event_list_for_month);   # First parameter is for human to know what types of things are in the list
 
 print rpl::Functions::strip_path($event_file_to_blog) . "\n";
 
