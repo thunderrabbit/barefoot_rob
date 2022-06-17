@@ -13,10 +13,11 @@ my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
 my $what_kinda_event = "blog_entry";  # see generate_events.pl for ways to make this different
 
-print "In October - December, remove the 0 in the line below to see events, or figure out how to pad with zero\n\n";
+print "Zero padding month to find events\n";
+my $month_zero_pad = length $rpl::Functions::month == 1 ? "0" : "";
 
 # load latest files from events directory    find content/events/2021/ | sort -r | grep $(date +%Y/%m)
-my $event_dir = $rpl::Constants::content_directory . $rpl::Constants::events_directory . "/" . $rpl::Functions::year . "/0" . $rpl::Functions::month;
+my $event_dir = $rpl::Constants::content_directory . $rpl::Constants::events_directory . "/" . $rpl::Functions::year . "/$month_zero_pad" . $rpl::Functions::month;
 print("looking for events in\n$event_dir\n");
 
 my @event_list_for_month = rpl::Functions::get_list_of_files_in_dir($event_dir);
