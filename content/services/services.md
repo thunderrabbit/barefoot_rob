@@ -20,15 +20,14 @@ date: 2020-12-11T15:38:44+09:00
 
 ## Bold Life Tribe ##
 
-* For men and women ready for more in life
-* Focus on taking bold action in the world.
-* Surround yourself with a supportive community who keep you focused and accountable.
-* Live life at choice.
+* For teams ready to take it to the next level
+* Focus on taking bold action in the world
+* Build community to stay focused and accountable
+* Live life at choice
 * Be the hero of your own life
-* Be the leader of your loving community.
-* Thursdays, 7pm - 8:30pm JST
+* Be the leader of your own community
 
-[Register here for Bold Life Tribe](/en/bold-life-tribe/)
+[Register your team for Bold Life Tribe](/en/bold-life-tribe/)
 
 ## 👂 Confidential Listening 👂
 

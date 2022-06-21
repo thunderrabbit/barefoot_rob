@@ -14,13 +14,12 @@ aliases: [
 
 Bold Life Brotherhood was for men.
 
-Bold Life Tribe is open to all:
+Bold Life Tribe is built for teams:
 
 ## [Bold Life Tribe](/en/bold-life-tribe/) ##
 
-* Thursday nights, 7pm Japan time (UTC+9).
-* For men and women ready for more in life
-* Subscribe below to book your place
+* For teams ready to take it to the next level
+* For communities ready for more in life
 
 ### ⭕ BUILD LEADERSHIP ###
 ### ⭕ SHARPEN YOUR LIFE VISION ###
@@ -37,12 +36,12 @@ Bold Life Tribe is open to all:
 
 ## What is Bold Life Mastery? ##
 
-The Bold Life Tribe year-long course can be repeated
+The Bold Life Tribe twelve session course can be repeated
 indefinitely as we take daily bold action towards improving our lives.
 
 [![bold life tribe wheel](//b.robnugen.com/blog/2020/blb/thumbs/blb_wheel.png)](//b.robnugen.com/blog/2020/blb/blb_wheel.png)
 
-Every month will focus on a different core virtue.  (See Upcoming Schedule below)
+Every meeting will focus on a different core virtue.
 
 ## The Jungian Archetypes ##
 
@@ -54,38 +53,24 @@ protecting your family from harm, your energy would be sharp, focused,
 and fierce (Warrior energy). It’s that simple. The key is knowing
 which kind of energy to bring to which situation.
 
-## Costs (for four meetings each month) ##
+## Costs (for twelve focus meetings) ##
 
-You are welcome to check out your first meeting free.  Simply [register](/bold-life-tribe/registration/) to access the meeting.
+¥100,000 per person, for teams up to 15 people.
 
-Ready to commit to your success?  Lock in ¥39,000 per month!
+## Topics ##
 
-<!--   39,000 yen button  -->
-<a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-43S50560BE9974917L63H7VA">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/JP/i/btn/btn_subscribeCC_LG.gif">
-</a>
-<!-- /  39,000 yen button  -->
-
-¥39,000 per month, plus ¥5,000 setup fee includes initial consultation call.
-
-Unsubscribe anytime.
-
-## Upcoming Schedule ##
-
-We meet 7pm - ~8:30pm JST, every Thursday **except 5th Thursdays of a month.**
-
-* June focuses on inner and outer __JOY__
-* July is a time to __CONNECT__
-* August we dive deep into __INTIMACY__
-* September settle into __SOVEREIGNTY__
-* October is a chance for __OFFERING__
-* November we go within via __RELEASE__
-* December is the month of __FREEDOM__
-* in January hear your inner __CALLING__
-* February focuses on __TRUTH__
-* March focuses on honing our __PURPOSE__
-* April focuses on creating __SYSTEMS__
-* May moves us with transcendent __ACTION__
+* hear your inner __CALLING__
+* share your deepest __TRUTH__
+* hone inner __PURPOSE__
+* build effective __SYSTEMS__
+* discover transcendent __ACTION__
+* inner and outer __JOY__
+* time and ability to __CONNECT__
+* deep dive into __INTIMACY__
+* settle into __SOVEREIGNTY__
+* discover your greatest __OFFERING__
+* learn when to __RELEASE__
+* live prosperous freedom __FREEDOM__
 
 ## Questions ##
 
