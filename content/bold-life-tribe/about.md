@@ -26,13 +26,11 @@ Bold Life Tribe is built for teams:
 ### ⭕ TAKE ACTION ###
 ### ⭕ LIVE YOUR PASSIONS ###
 
-## This support group will help you to: ##
+## This support group will help your team: ##
 
-* Focus on taking bold action in the world.
-* Surround yourself with a supportive community who keep you focused and accountable.
-* Live life at choice.
-* Be the hero of your own life
-* Be the leader of your loving community.
+* Take transcendent action to the next level
+* Focus on taking bold action in the world
+* Build community to stay focused and accountable
 
 ## What is Bold Life Mastery? ##
 
