@@ -61,5 +61,5 @@ This event is on, rain or shine.  Only if the trails are closed or trains stoppe
 
 # About Takao Trail 1:
 
-(1) https://en.mttakaomagazine.com/trails/1st
-(1) https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-mount_takao/article-a0003384/#table_of_contents_anchor2
+* https://en.mttakaomagazine.com/trails/1st
+* https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-mount_takao/article-a0003384/#table_of_contents_anchor2
