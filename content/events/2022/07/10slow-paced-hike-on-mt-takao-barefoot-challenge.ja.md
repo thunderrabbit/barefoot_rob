@@ -58,6 +58,7 @@ You can buy insurance from your own provider at your own discrecion.
 By joining the hike you agree that safety is your own responsibility, not organizers'.
 
 This event is on, rain or shine.  Only if the trails are closed or trains stopped will the event be canceled.   That said, updates will be posted on this URL until the morning of the event:
+https://www.robnugen.com/ja/events/2022/07/10slow-paced-hike-on-mt-takao-barefoot-challenge/
 
 # About Takao Trail 1:
 
