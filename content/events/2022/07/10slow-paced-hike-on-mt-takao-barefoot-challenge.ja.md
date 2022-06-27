@@ -15,9 +15,9 @@ aliases: [
 
 # Summary:
 
-Slow Paced, possibly crowded, Barefoot Hike on Mt Takao
+Slow Paced, crowded, Barefoot Hike on Mt Takao
 
-10am July 10th (Sunday, so it will probably be crowded!)
+10am July 10th (Sunday, so it will be crowded!)
 
 Takaosanguchi Station
 
