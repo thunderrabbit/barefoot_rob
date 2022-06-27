@@ -62,7 +62,7 @@ By joining the hike you agree that safety is your own responsibility, not organi
 This event is on, rain or shine.  Only if the trails are closed or trains stopped will the event be canceled.   That said, updates will be posted on this URL until the morning of the event:
 https://www.robnugen.com/en/events/2022/07/10slow-paced-hike-on-mt-takao-barefoot-challenge/
 
-# RSVP on Line
+# RSVP on LINE
 
 [![2021 apr 03 rob line qr code text walking meditation](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
