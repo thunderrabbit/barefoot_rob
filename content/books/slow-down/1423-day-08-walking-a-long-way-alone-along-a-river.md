@@ -23,7 +23,7 @@ Fuck this.  I'm going to quit, I told Shraddhan on our morning call.
 
 "The train station is *right there*," I said, looking out the window.
 "I recognize those cars.  Those are Tokaido Line cars."
-They go directly to Tokyo Station.  "I can be home in about an hour."
+They go directly to Tokyo Station.  "I can be home in about an hour." (*)
 
 "Well, are you sure that's what you want to do?" Shraddhan asked.
 "How will you feel when we talk tomorrow morning?"
@@ -39,7 +39,7 @@ And that's what I did.
 Once I got walking, the agonizing pain stopped.
 The splinter removal didn't bother me the rest of the trip.
 
-Now that it's 9 months later, I don't recall much about this day.
+Now that it's 9 months later, I don't recall much else about this day.
 Google maps says I walked 23.1km in 6 hours 42 minutes.  Saitama Grand
 Hotel Honjo to Hotel Ruka, which I often read as Hotel Ruruka.
 
@@ -47,6 +47,9 @@ https://photos.app.goo.gl/LMY75HbGsLHrADtt5
 
 Photos show long straight stretches along highways and a river.
 
+(*) It was 本所駅 I could see from Saitama Grand Hotel.  
+Apparently would have taken 2.5 hours to get home via train from otherwise
+but I was otherwise correct about the train line.
 
 #### date: '2021-04-23T10:40:01+09:00'
 
