@@ -17,6 +17,28 @@ src="https://b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-08/2021_apr
 alt=""
 class="title" />
 
+This was the morning after the splinter.  I woke up and my foot was still in agony as soon as I touched it to the carpeted floor below my bed.
+
+Fuck this.  I'm going to quit, I told Shraddhan on our morning call.
+
+"The train station is *right there*," I said, looking out the window.
+"I recognize those cars.  Those are Tokaido Line cars."
+They go directly to Tokyo Station.  "I can be home in about an hour."
+
+"Well, are you sure that's what you want to do?" Shraddhan asked.
+"How will you feel when we talk tomorrow morning?"
+
+Silence.
+
+Silence.
+
+"No, that's not what I want to do.  I want to keep going.  Fuckit.  I'll just wear my sandals and it will be fine."
+
+And that's what I did.
+
+Once I got walking, the agonizing pain stopped.
+The splinter removal didn't bother me the rest of the trip.
+
 Now that it's 9 months later, I don't recall much about this day.
 Google maps says I walked 23.1km in 6 hours 42 minutes.  Saitama Grand
 Hotel Honjo to Hotel Ruka, which I often read as Hotel Ruruka.
