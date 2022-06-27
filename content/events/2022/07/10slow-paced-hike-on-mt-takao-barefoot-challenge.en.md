@@ -66,6 +66,10 @@ https://www.robnugen.com/en/events/2022/07/10slow-paced-hike-on-mt-takao-barefoo
 
 [![2021 apr 03 rob line qr code text walking meditation](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
+Add me (Barefoot Rob) on LINE and lemme know you want info about this hike.
+I will make sure you stay up to date for this hike.
+You have the option to join our LINE group for barefoot walking events.
+
 # About Takao Trail 1:
 
 * https://en.mttakaomagazine.com/trails/1st
