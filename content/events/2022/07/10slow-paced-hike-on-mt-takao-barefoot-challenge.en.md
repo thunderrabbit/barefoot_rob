@@ -19,13 +19,15 @@ Slow Paced, crowded, Barefoot Hike on Mt Takao
 
 10am July 10th (Sunday, so it will be crowded!)
 
-Takaosanguchi Station
+Meet at 10am Takaosanguchi Station
 
 1000 yen
 
-Bring your own lunch and water
+Bring your own lunch and water.  We'll eat lunch on top of Mt Takao.
 
 We will climb the (mostly paved) Trail 1 of Mt Takao.
+
+Onsen at the bottom after hike!
 
 # Details:
 
