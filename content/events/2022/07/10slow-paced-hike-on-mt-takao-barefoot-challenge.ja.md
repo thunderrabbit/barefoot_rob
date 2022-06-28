@@ -21,7 +21,7 @@ Slow Paced, crowded, Barefoot Hike on Mt Takao
 
 10am July 10th (Sunday, so it will be crowded!)
 
-Meet at 10am Takaosanguchi Station
+Meet at 9:45am Takaosanguchi Station
 
 1000 yen
 
