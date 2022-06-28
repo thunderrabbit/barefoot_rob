@@ -13,6 +13,8 @@ aliases: [
 ]
 ---
 
+{{% img-responsive "https://b.robnugen.com/blog/2022/2020_feb_29_francois_with_buddhas.jpg" "2020 feb 29 francois with buddhas" %}}
+
 # Summary:
 
 Slow Paced, crowded, Barefoot Hike on Mt Takao
