@@ -57,7 +57,7 @@ After party:
 
 Insurance:
 
-You can buy insurance from your own provider at your own discrecion.
+You can buy insurance from your own provider at your own discretion.
 
 By joining the hike you agree that safety is your own responsibility, not organizers'.
 
