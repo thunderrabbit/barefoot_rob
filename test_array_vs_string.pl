@@ -34,7 +34,7 @@ do {
 
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
   if($event_templates_selector eq "walk_location_files") {
-    print "\n$event_templates_selector? We must go deeper!\n";
+    print "\n$event_templates_selector? We must document why we must go deeper!\n";
     %select_from_hash = %rpl::Constants::walk_location_files;
   } elsif($event_templates_selector eq "the_good_place") {
     print "\n$event_templates_selector? We must go deeper!\n";
