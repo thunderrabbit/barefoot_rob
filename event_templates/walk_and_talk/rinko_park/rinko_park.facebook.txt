@@ -26,7 +26,7 @@ Barefoot walking, breathing, enjoying fresh sea breeze.
 
 HUMANDATE, EVENT_TIME
 
-Circular space in Rinko Park in Yokohama, next to Rinko Park Arch Bridge.
+Grassy space in Rinko Park in Yokohama, next to Rinko Park Arch Bridge.
 
 https://goo.gl/maps/k5XcA7ueXCCsPErV9
 
@@ -55,7 +55,7 @@ Latest info https://www.robnugen.com/enalias_path
 
 ==== Donation: ====
 
-500 yen
+1000 yen
 
 ==== What to bring ====
 
@@ -76,7 +76,7 @@ Self care is important, so wear shoes whenever you need to!
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
-臨港パークの「臨港パーク アーチ橋」の横の円形スペースに集合。
+臨港パークの「臨港パーク アーチ橋」の芝生に集合。
 
 https://goo.gl/maps/k5XcA7ueXCCsPErV9
 
@@ -105,7 +105,7 @@ https://goo.gl/maps/k5XcA7ueXCCsPErV9
 
 **参加費**
 
-500円 (寄付)
+1000円 (寄付)
 
 **持ち物**
 

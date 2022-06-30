@@ -1,21 +1,21 @@
 ---
 title: "裸足でウォーク＆トーク～海のとなり臨港パーク"
-tags: [ %s ]
+tags: [ "2022", "Barefoot Rob", "Yokohama", "barefoot", "event", "july", "rinko-park", "walk", "はだし", "臨港パーク", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME in 臨港パーク circular space"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-07-01T08:36:39+09:00
+EventLocation: "Rinko Park, Yokohama"
+EventTime: "13:00"
+TimeDescription: "gather at 12:45 in 臨港パーク circular space"
+EventDate: "2022-07-16T13:00:00+09:00"
 aliases: [
-    "/jaalias_path",
+    "/ja/events/2022/07/16barefoot-walk-then-lunch-in-summer-grass-by-the-sea-in-rinko-park-yokohama",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/rinko_park.jpg" "rinko park" %}}
 
 <div class="note">写真:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/">https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/</a>
 </div>
 
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
@@ -24,7 +24,7 @@ aliases: [
 
 #### 集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+2022年7月16日　13:00
 
 臨港パークの「臨港パーク アーチ橋」の芝生(https://goo.gl/maps/k5XcA7ueXCCsPErV9)に集合。
 

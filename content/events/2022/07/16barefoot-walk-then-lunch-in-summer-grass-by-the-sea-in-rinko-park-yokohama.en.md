@@ -1,21 +1,21 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Barefoot walk then lunch in summer grass by the sea in Rinko Park, Yokohama"
+tags: [ "2022", "Barefoot Rob", "Yokohama", "barefoot", "event", "july", "rinko-park", "walk", "はだし", "臨港パーク", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME in Rinko Park circular space"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-07-01T08:36:39+09:00
+EventLocation: "Rinko Park, Yokohama"
+EventTime: "13:00"
+TimeDescription: "gather at 12:45 in Rinko Park circular space"
+EventDate: "2022-07-16T13:00:00+09:00"
 aliases: [
-    "/enalias_path",
+    "/en/events/2022/07/16barefoot-walk-then-lunch-in-summer-grass-by-the-sea-in-rinko-park-yokohama",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/rinko_park.jpg" "rinko park" %}}
 
 <div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/">https://www.dronestagr.am/rinko-park-yokohama-kanagawa-japan/</a>
 </div>
 
 Refresh your spirit. Touch the earth. Touch the sea.
@@ -25,7 +25,7 @@ Barefoot walking, breathing, enjoying fresh sea breeze.
 
 #### Where
 
-HUMANDATE, EVENT_TIME
+Saturday 16 July 2022, 13:00
 
 Grassy space in **[Rinko Park in Yokohama](https://goo.gl/maps/k5XcA7ueXCCsPErV9)**, next to Rinko Park Arch Bridge.
 
