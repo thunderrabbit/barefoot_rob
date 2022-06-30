@@ -58,11 +58,6 @@ my %event_templates;   ## 'bout to get multiple templates (one per language, soc
 foreach(@event_paths_array) {
   my $extension;   ## only needed up here because of the { #debug interface } block
   {
-    # debug interface just to get the bulk of the code working
-
-    local $/;  # makes changes local to this block
-    undef $/;  # file slurp mode (default is "\n")
-
     $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
     $extension = $1;
 
@@ -73,11 +68,8 @@ foreach(@event_paths_array) {
     if ($verbosity > 2) {
       print "loading template:\n" . $_ . "\n";
     }
-    open (ETF, "<", $_) or die "could not find template " . $_;
 
-    $event_templates{$extension} = <ETF>;
-
-    close ETF;
+    $event_templates{$extension} = rpl::Functions::return_contents_of_file($_);
   }
 
   if ($verbosity > 2) {
