@@ -30,6 +30,22 @@ sub return_contents_of_file(@) {
   return $content;
 }
 
+# This is used to get templates of walking events
+sub return_contents_of_array_of_files(@) {
+  my @event_paths_array = @_;
+  my %event_templates;   ## 'bout to get multiple templates (one per language, social network)
+
+  ## Load each template in the selected array
+  foreach(@event_paths_array) {
+    $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
+    my $extension = $1;
+
+    $event_templates{$extension} = rpl::Functions::return_contents_of_file($_);
+  }
+
+  return %event_templates;
+}
+
 sub get_hash_of_recent_generators(@) {
   my ($first_date, $last_date) = @_;
   unless($first_date && $last_date) {

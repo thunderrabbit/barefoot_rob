@@ -47,32 +47,8 @@ do {
   # if we get a hash, use the hash to keep drilling down within this loop.
 } until (rpl::Functions::is_array($event_type_selector)  || rpl::Functions::this_looks_like_a_file_path($event_type_selector));
 
-@event_paths_array = @$event_type_selector;
-
-# Get input data from commands
-# TODO: error handling
-#
-my %event_templates;   ## 'bout to get multiple templates (one per language, social network)
-
-## Load each template in the selected array
-foreach(@event_paths_array) {
-  $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
-  my $extension = $1;
-
-  if ($verbosity > 3) {
-    print "template extension `" . $extension . "` should be used when writing file based on this template\n";
-  }
-
-  if ($verbosity > 2) {
-    print "loading template:\n" . $_ . "\n";
-  }
-
-  $event_templates{$extension} = rpl::Functions::return_contents_of_file($_);
-
-  if ($verbosity > 2) {
-    print "length(ETF) = " . length($event_templates{$extension}) . "\n";
-  }
-}
+my %event_templates;
+  %event_templates = rpl::Functions::return_contents_of_array_of_files(@$event_type_selector);   ## 'bout to get multiple templates (one per language, social network)
 
 my $number_args = $#ARGV + 1;
 my $need_image_url = 0;   # if image URLs were sent on command line, we can just select from them
