@@ -48,7 +48,15 @@ do {
 } until (rpl::Functions::is_array($event_type_selector)  || rpl::Functions::this_looks_like_a_file_path($event_type_selector));
 
 my %event_templates;
+if(rpl::Functions::is_array($event_type_selector)) {
+  # We have a list of templates, so load their contents which will be filled with data we enter next
   %event_templates = rpl::Functions::return_contents_of_array_of_files(@$event_type_selector);   ## 'bout to get multiple templates (one per language, social network)
+}
+if(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
+  # We have a single event generator.  We want to make a new one based on date, title, and optional image
+  print "We need to do the other thing\n\n";
+  exit;
+}
 
 my $number_args = $#ARGV + 1;
 my $need_image_url = 0;   # if image URLs were sent on command line, we can just select from them
