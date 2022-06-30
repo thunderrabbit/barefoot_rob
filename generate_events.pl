@@ -56,21 +56,18 @@ my %event_templates;   ## 'bout to get multiple templates (one per language, soc
 
 ## Load each template in the selected array
 foreach(@event_paths_array) {
-  my $extension;   ## only needed up here because of the { #debug interface } block
-  {
-    $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
-    $extension = $1;
+  $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
+  my $extension = $1;
 
-    if ($verbosity > 3) {
-      print "template extension `" . $extension . "` should be used when writing file based on this template\n";
-    }
-
-    if ($verbosity > 2) {
-      print "loading template:\n" . $_ . "\n";
-    }
-
-    $event_templates{$extension} = rpl::Functions::return_contents_of_file($_);
+  if ($verbosity > 3) {
+    print "template extension `" . $extension . "` should be used when writing file based on this template\n";
   }
+
+  if ($verbosity > 2) {
+    print "loading template:\n" . $_ . "\n";
+  }
+
+  $event_templates{$extension} = rpl::Functions::return_contents_of_file($_);
 
   if ($verbosity > 2) {
     print "length(ETF) = " . length($event_templates{$extension}) . "\n";
