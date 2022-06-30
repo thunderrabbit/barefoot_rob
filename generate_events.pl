@@ -49,8 +49,6 @@ do {
 
 @event_paths_array = @$event_type_selector;
 
-my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
-
 # Get input data from commands
 # TODO: error handling
 #
