@@ -30,6 +30,16 @@ sub return_contents_of_file(@) {
   return $content;
 }
 
+sub get_hash_of_recent_generators(@) {
+  my ($first_date, $last_date) = @_;
+  unless($first_date && $last_date) {
+    print "\n\nNEED TWO DATES: today and a month ago or so\n\n";
+  }
+  print "First date = $first_date\n";
+  print "Last date = $last_date\n";
+}
+
+
 # give me a file path for BLT topic, given a date
 sub __blt_blurb_file_path_for_date($) {
   my ($dt) = @_;   # must be a DateTime or this function will be sad
@@ -294,6 +304,7 @@ sub prepend_book_title_based_on_date($) {
   return $leading_zero + 1000;         # code golf to produce 1419 for April 19th    The 1 prefix is for my book entry title convention
 }
 
+# Convert 1 to 1st, 2 to 2nd, 3 to 3rd, 4 to 4th, etc
 # https://stackoverflow.com/a/11369946/194309
 sub ordinate($) {
   my ($cardinal) = @_;

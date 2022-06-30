@@ -124,6 +124,7 @@ our %event_template_files = (
       "$templates/event_walking_meditation_template.md",
     ],
     "barefoot_walk" => "walk_location_files",
+    "yo_i_wanna_copy" => "previous_generators",
     "quest_update" => [
       "$templates/niigata_2021_walking_update.md",
     ],

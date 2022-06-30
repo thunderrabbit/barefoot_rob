@@ -35,9 +35,10 @@ do {
   if($event_type_selector eq "walk_location_files") {
     print "\n$event_type_selector? We must walk deeper!\n";
     %select_from_hash = %rpl::Constants::walk_location_files;
-  } elsif($event_type_selector eq "the_good_place") {
-    print "\n$event_type_selector? We must get better!\n";
-    %select_from_hash = %rpl::Constants::the_good_place;
+  } elsif($event_type_selector eq "previous_generators") {
+    print "\n$event_type_selector? Which do you wanna copy?\n";
+    %select_from_hash = rpl::Functions::get_hash_of_recent_generators();
+    exit;
   }
 
 } until (rpl::Functions::is_array($event_type_selector));
