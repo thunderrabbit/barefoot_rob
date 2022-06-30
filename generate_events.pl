@@ -37,11 +37,15 @@ do {
     %select_from_hash = %rpl::Constants::walk_location_files;
   } elsif($event_type_selector eq "previous_generators") {
     print "\n$event_type_selector? Which do you wanna copy?\n";
-    %select_from_hash = rpl::Functions::get_hash_of_recent_generators();
-    exit;
+    # Get a hash of keys and file paths of generators created in the past month:
+    %select_from_hash = rpl::Functions::get_hash_of_recent_generators($rpl::Functions::dt->clone->subtract( days => 30 ), $rpl::Functions::dt);
+    %select_from_hash = ("cat" => "/dog", "fish" => "/monkey");
   }
 
-} until (rpl::Functions::is_array($event_type_selector));
+  # if we get an array, assume we have an array of templates
+  # if we get a single file path, assume we are copying a previous generator to a new one
+  # if we get a hash, use the hash to keep drilling down within this loop.
+} until (rpl::Functions::is_array($event_type_selector)  || rpl::Functions::this_looks_like_a_file_path($event_type_selector));
 
 @event_paths_array = @$event_type_selector;
 
