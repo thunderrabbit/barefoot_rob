@@ -54,7 +54,11 @@ if(rpl::Functions::is_array($event_type_selector)) {
 }
 if(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   # We have a single event generator.  We want to make a new one based on date, title, and optional image
-  print "We need to do the other thing\n\n";
+  print "We need to copy the file at path\n$event_type_selector\n";
+  print "to a file that matches the date we get down below, then change the dates in the file.\n";
+  print "However, probably never going to finish this because I might not do that many more new barefoot events\n";
+  print "after Misa helped me recognize that I should focus on fewer, cooler events.\n";
+  print "  - Rob\n  1 July 2022\n\n";
   exit;
 }
 
