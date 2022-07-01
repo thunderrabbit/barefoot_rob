@@ -37,50 +37,29 @@ do {
     %select_from_hash = %rpl::Constants::walk_location_files;
   } elsif($event_type_selector eq "previous_generators") {
     print "\n$event_type_selector? Which do you wanna copy?\n";
-    %select_from_hash = rpl::Functions::get_hash_of_recent_generators();
-    exit;
+    # Get a hash of keys and file paths of generators created in the past month:
+    %select_from_hash = rpl::Functions::get_hash_of_recent_generators($rpl::Functions::dt->clone->subtract( days => 30 ), $rpl::Functions::dt);
+    %select_from_hash = ("cat" => "/dog", "fish" => "/monkey");
   }
 
-} until (rpl::Functions::is_array($event_type_selector));
+  # if we get an array, assume we have an array of templates
+  # if we get a single file path, assume we are copying a previous generator to a new one
+  # if we get a hash, use the hash to keep drilling down within this loop.
+} until (rpl::Functions::is_array($event_type_selector)  || rpl::Functions::this_looks_like_a_file_path($event_type_selector));
 
-@event_paths_array = @$event_type_selector;
-
-my $title_image = "";   ## Getting this via $ARGV[0]..  not sure how else makes sense to get it
-
-# Get input data from commands
-# TODO: error handling
-#
-my %event_templates;   ## 'bout to get multiple templates (one per language, social network)
-
-## Load each template in the selected array
-foreach(@event_paths_array) {
-  my $extension;   ## only needed up here because of the { #debug interface } block
-  {
-    # debug interface just to get the bulk of the code working
-
-    local $/;  # makes changes local to this block
-    undef $/;  # file slurp mode (default is "\n")
-
-    $_ =~ /[^\.]+(.*)/;    ## Grab extension, from first period onward
-    $extension = $1;
-
-    if ($verbosity > 3) {
-      print "template extension `" . $extension . "` should be used when writing file based on this template\n";
-    }
-
-    if ($verbosity > 2) {
-      print "loading template:\n" . $_ . "\n";
-    }
-    open (ETF, "<", $_) or die "could not find template " . $_;
-
-    $event_templates{$extension} = <ETF>;
-
-    close ETF;
-  }
-
-  if ($verbosity > 2) {
-    print "length(ETF) = " . length($event_templates{$extension}) . "\n";
-  }
+my %event_templates;
+if(rpl::Functions::is_array($event_type_selector)) {
+  # We have a list of templates, so load their contents which will be filled with data we enter next
+  %event_templates = rpl::Functions::return_contents_of_array_of_files(@$event_type_selector);   ## 'bout to get multiple templates (one per language, social network)
+}
+if(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
+  # We have a single event generator.  We want to make a new one based on date, title, and optional image
+  print "We need to copy the file at path\n$event_type_selector\n";
+  print "to a file that matches the date we get down below, then change the dates in the file.\n";
+  print "However, probably never going to finish this because I might not do that many more new barefoot events\n";
+  print "after Misa helped me recognize that I should focus on fewer, cooler events.\n";
+  print "  - Rob\n  1 July 2022\n\n";
+  exit;
 }
 
 my $number_args = $#ARGV + 1;

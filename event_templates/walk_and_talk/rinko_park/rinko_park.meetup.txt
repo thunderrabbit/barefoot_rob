@@ -41,7 +41,7 @@ Latest info https://www.robnugen.com/enalias_path
 　
 ==== Donation: ====
 　
-500 yen
+1000 yen
 　
 ==== What to bring ====
 　
@@ -72,7 +72,7 @@ https://goo.gl/maps/k5XcA7ueXCCsPErV9
 　
 *自然に親しむ*
 　
-臨港パークは木々に囲まれた大きな芝生エリア、コンクリートの階段、歩道や橋などがあるため、裸足であらゆる表面を体験できます。
+臨港パークは木々に囲まれた大きな芝生エリア、歩道や橋などがあるため、裸足であらゆる表面を体験できます。
 　
 *Enjoy Connection*（つながりを楽しむ）
 　
@@ -89,7 +89,7 @@ https://goo.gl/maps/k5XcA7ueXCCsPErV9
 　
 **参加費**
 　
-500円 (寄付)
+1000円 (寄付)
 　
 **持ち物**
 　
@@ -139,7 +139,7 @@ Allow guests:    5
 
 Event fee:  ON
 Direct from member
-JPY    500
+JPY    1000
 
 Publish
 
