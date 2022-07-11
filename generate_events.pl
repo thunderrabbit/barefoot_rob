@@ -84,7 +84,7 @@ my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_da
 my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event};
 my $guessed_gathering_time;
 print("if this fails, know the value of what_kinda_event is " . $what_kinda_event . "\n");
-unless($what_kinda_event eq "book_chapter") {
+unless($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
    $guessed_gathering_time = $event_date_time->clone->subtract( minutes => $preferred_gathering_duration );      # clone = don't mess with other date
 }
 my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
@@ -96,7 +96,7 @@ my $first_gathering_time;
 my $walk_trip_started = rpl::Functions::parse_user_date("2021-04-16 12:00");  # Without ->ymd "T11:45:00" appends to the date
 my $ordinal_day_number;   # Used for book_chapter title and tags
 
-if($what_kinda_event eq "book_chapter") {
+if($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   # Don't need gathering_time, but do need a timestamp because of $first_gathering_time code etc
   $first_gathering_time = $event_date_time;   # not used for book_chapter
 } else {
@@ -139,6 +139,8 @@ if($what_kinda_event eq "bold_life_tribe") {
   print("Spelled as $prefix\n");
   $title = rpl::Functions::get_title($prefix);
   $chapter_contents = rpl::Functions::book_content_for_date($event_date_time);
+} elsif(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
+  print("No need to get title because we are copying event\n");
 } else {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
