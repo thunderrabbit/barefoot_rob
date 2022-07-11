@@ -53,6 +53,23 @@ sub get_hash_of_recent_generators(@) {
   }
   print "First date = $first_date\n";
   print "Last date = $last_date\n";
+
+
+  my ($dt) = @_;   # must be a DateTime or this function will be sad
+  my $path_prefix = "/home/thunderrabbit/barefoot_rob_master/event_generators";
+  my $this_year = $dt->year();  # e.g. 2021/05/03
+  print "Returning paths with prefix $path_prefix/$this_year\n\n";
+
+  my ($path_portion,$file_portion) = split_on_final_slash("$path_prefix/$this_year");
+  my @mess_of_files = get_list_of_files_in_dir($path_portion,$file_portion);
+  my %hot_mess_of_files;
+  my $file_count = 0;
+  foreach (sort @mess_of_files) {
+    $file_count ++;
+    $hot_mess_of_files{$_} = $_;
+  }
+  return %hot_mess_of_files;
+
 }
 
 

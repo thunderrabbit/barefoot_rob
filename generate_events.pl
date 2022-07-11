@@ -31,6 +31,7 @@ do {
 
   $event_type_selector = $select_from_hash{$what_kinda_event};
 
+  print("Just now selected $what_kinda_event which is $event_type_selector\n");
   ## so instead I am checking the string and choosing the appropriate hash here.  As of 29 Sep 2021, "walk_location_files" is the only option
   if($event_type_selector eq "walk_location_files") {
     print "\n$event_type_selector? We must walk deeper!\n";
@@ -39,7 +40,6 @@ do {
     print "\n$event_type_selector? Which do you wanna copy?\n";
     # Get a hash of keys and file paths of generators created in the past month:
     %select_from_hash = rpl::Functions::get_hash_of_recent_generators($rpl::Functions::dt->clone->subtract( days => 30 ), $rpl::Functions::dt);
-    %select_from_hash = ("cat" => "/dog", "fish" => "/monkey");
   }
 
   # if we get an array, assume we have an array of templates
