@@ -48,9 +48,11 @@ do {
 } until (rpl::Functions::is_array($event_type_selector)  || rpl::Functions::this_looks_like_a_file_path($event_type_selector));
 
 my %event_templates;
+my $thing_to_do = "unknown";
 if(rpl::Functions::is_array($event_type_selector)) {
   # We have a list of templates, so load their contents which will be filled with data we enter next
   %event_templates = rpl::Functions::return_contents_of_array_of_files(@$event_type_selector);   ## 'bout to get multiple templates (one per language, social network)
+  $thing_to_do = "create event";
 }
 if(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   # We have a single event generator.  We want to make a new one based on date, title, and optional image
@@ -59,7 +61,7 @@ if(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   print "However, probably never going to finish this because I might not do that many more new barefoot events\n";
   print "after Misa helped me recognize that I should focus on fewer, cooler events.\n";
   print "  - Rob\n  1 July 2022\n\n";
-  exit;
+  $thing_to_do = "copy generator";
 }
 
 my $number_args = $#ARGV + 1;
@@ -77,7 +79,8 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 
 my $preferred_day_of_week = $rpl::Constants::event_day_of_week{$what_kinda_event};
 my $preferred_event_time = $rpl::Constants::event_primary_time{$what_kinda_event};
-my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time);   # default is now
+my $get_time = ($thing_to_do ne "copy generator");  # only need time if not creating a generator
+my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time, $get_time);   # default is now
 my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event};
 my $guessed_gathering_time;
 print("if this fails, know the value of what_kinda_event is " . $what_kinda_event . "\n");
