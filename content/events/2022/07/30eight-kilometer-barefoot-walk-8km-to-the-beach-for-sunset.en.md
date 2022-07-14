@@ -2,7 +2,7 @@
 title: "8km barefoot walk from Kamakura to Enoshima beach for sunset"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "july", "walk", "takao", "はだし", "Kamakura", "Enoshima", "beach", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-07-15T07:59:43+09:00
+date: 2022-07-30T07:59:43+09:00
 EventLocation: "Kamakura Station to Enoshima Beach"
 EventTime: "15:00"
 TimeDescription: "gather at 14:45 at Kamakura Station; walk starting at 15:00"
