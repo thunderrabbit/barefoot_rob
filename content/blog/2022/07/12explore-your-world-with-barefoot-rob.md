@@ -17,6 +17,7 @@ https://b.robnugen.com/rob/presentations/2022/KSGG_9_july_2022/2022_07_09_165736
 alt="2022 07 09 1657363889941"
 class="title" />
 
+This was such a fun event!  I spoke for 30 minutes and did Mystery Box game for 20 minutes wow!
 
 {{< youtube wFGp_UY9ksI >}}
 
