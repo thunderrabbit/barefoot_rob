@@ -13,10 +13,8 @@ aliases: [
 ]
 ---
 
-<img
-src="https://b.robnugen.com/blog/2022/kamakura_torii_taro_pixabay.jpg"
-alt="kamakura torii taro pixabay"
-class="title" />
+[![kamakura torii taro pixabay](//b.robnugen.com/blog/2022/thumbs/kamakura_torii_taro_pixabay.jpg)](//b.robnugen.com/blog/2022/kamakura_torii_taro_pixabay.jpg)
+
 
 <p class="note">
    <a href="https://pixabay.com/users/torii_taro-252627/">photo by torii taro</a>
