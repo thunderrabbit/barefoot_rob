@@ -20,8 +20,6 @@ aliases: [
    <a href="https://pixabay.com/users/torii_taro-252627/">photo by torii taro</a>
 </p>
 
-# STATUS: DRAFT (Details might change!)
-
 # Summary:
 
 Barefoot walk in beautiful traditional Kamakura area
