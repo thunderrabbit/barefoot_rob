@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-[![kamakura torii taro pixabay](//b.robnugen.com/blog/2022/thumbs/kamakura_torii_taro_pixabay.jpg)](//b.robnugen.com/blog/2022/kamakura_torii_taro_pixabay.jpg)
+[![kamakura torii taro pixabay](//b.robnugen.com/blog/2022/kamakura_torii_taro_pixabay.jpg)](//b.robnugen.com/blog/2022/kamakura_torii_taro_pixabay.jpg)
 
 
 <p class="note">
