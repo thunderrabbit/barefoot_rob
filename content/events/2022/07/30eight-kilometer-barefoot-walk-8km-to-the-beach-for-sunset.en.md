@@ -30,11 +30,10 @@ Meet at 14:45 at Kamakura Station
 
 1000 yen
 
-Bring your own lunch and optional bathing suit.  We'll eat on the beach in Enoshima.
+Let's enjoy a nice walk together, exploring some of the Kamakura area.  We'll make our way down to Enoshima beach.
+Feel free to bring food to eat while we enjoy the sunset on the beach in Enoshima.
 
 We might have a special guest tour guide from [KSGG](https://volunteerguide-ksgg.jp/)!
-
-We might be able to swim after walking.
 
 # Details:
 
@@ -55,7 +54,7 @@ Beach:
 
 While alcohol and BBQ are not allowed on beach,
 we can chill on the beach as we watch the sun set.
-Feel free to your bring box lunch to eat.
+Feel free to bring food for after our walk.
 
 # Notes:
 
