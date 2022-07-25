@@ -52,9 +52,9 @@ What to bring:
 * Insect spray
 * Picnic sheet, seat pad
 
-After party:
-* Bath towel, food, soft drinks
-* NO alcohol or BBQ allowed on beach!
+Beach:
+
+While alcohol and BBQ are not allowed on beach, we can chill on the beach as we watch the sun set.
 
 # Notes:
 
@@ -62,9 +62,7 @@ It's apparently a 3 hour walk from Kamakura to Enoshima, so I suspect it will ta
 
 By joining the event you agree that safety is your own responsibility, not organizers'.
 
-This event is on, rain or shine.  Bare feet are waterproof!
-
-Only if there's a tsunami or trains stopped will the event be canceled.
+This event is on, rain or shine.  Bare feet are waterproof.  ;-)
 
 That said, updates will be posted on this URL until the morning of the event:
 https://www.robnugen.com/en/events/2022/07/30/en/events/2022/07/30eight-kilometer-barefoot-walk-8km-to-the-beach-for-sunset
