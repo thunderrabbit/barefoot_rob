@@ -62,8 +62,11 @@ Feel free to your bring box lunch to eat.
 It's apparently a 3 hour walk from Kamakura to Enoshima, so I suspect it will take a tad longer if we are barefoot.
 
 By joining the event you agree that safety is your own responsibility, not organizers'.
+You are welcome to wear shoes anytime you need to.
 
-This event is on, rain or shine.  Bare feet are waterproof.  ;-)
+I will be there, rain or shine.  Bare feet are waterproof.  ;-)
+I always recommend self care,
+so if it's too hot or wet for you, no pressure to join. 👼
 
 That said, updates will be posted on this URL until the morning of the event:
 https://www.robnugen.com/en/events/2022/07/30/en/events/2022/07/30eight-kilometer-barefoot-walk-8km-to-the-beach-for-sunset
