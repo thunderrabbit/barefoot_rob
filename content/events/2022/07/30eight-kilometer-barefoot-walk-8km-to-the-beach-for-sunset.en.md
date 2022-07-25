@@ -40,7 +40,6 @@ We might be able to swim after walking.
 
 What to bring:
 * Your water or soft drink
-* Your lunch (we will eat on the beach)
 * Hat in case of sun
 * Rainwear in case of rain
 * 1000 yen
@@ -54,7 +53,9 @@ What to bring:
 
 Beach:
 
-While alcohol and BBQ are not allowed on beach, we can chill on the beach as we watch the sun set.
+While alcohol and BBQ are not allowed on beach,
+we can chill on the beach as we watch the sun set.
+Feel free to your bring box lunch to eat.
 
 # Notes:
 
