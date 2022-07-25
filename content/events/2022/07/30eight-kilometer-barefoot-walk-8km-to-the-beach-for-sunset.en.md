@@ -40,7 +40,7 @@ We might be able to swim after walking.
 
 What to bring:
 * Your water or soft drink
-* Your lunch (we will eat on the beach (if we can find a spot haha))
+* Your lunch (we will eat on the beach)
 * Hat in case of sun
 * Rainwear in case of rain
 * 1000 yen
