@@ -11,6 +11,7 @@ aliases: [
     "/en/events/2022/08/14simple-hot-summer-hike-mt-mitake",
     "/en/events/2022/08/14mt-mitake-barefoot-hike",
 ]
+draft: true
 ---
 
 <img
