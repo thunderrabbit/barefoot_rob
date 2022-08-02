@@ -107,7 +107,7 @@ I always recommend self care, so if it’s too hot or humid for you,
 no pressure to join this time.
 I look forward to seeing you at a future event!
 
-That said, updates will be posted on this URL until the morning of the event:
+That said, updates will be posted on this URL until the morning of the event:  
 https://www.robnugen.com/en/events/2022/08/14mt-mitake-barefoot-hike-and-rengeshoma-flower-viewing/
 
 # RSVP on LINE
