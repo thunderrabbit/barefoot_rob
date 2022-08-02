@@ -77,7 +77,8 @@ Meet at 9:43am at Mitake Station
 # Details:
 
 What to bring:
-* Your water or soft drink
+* Water to drink
+* Lunch for picnic
 * Hat in case of sun
 * Rainwear in case of rain
 * 1000 yen
