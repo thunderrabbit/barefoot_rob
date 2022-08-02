@@ -61,15 +61,17 @@ Optional:
 
 (click links for details)
 
-### Option 1:
+#### Option 1:
 
 (Barefoot Rob plans to be on this train:)
 
-* 8:20am Shinjuku Station Holiday Rapid Okutama (image) (no transfers) 940 yen
+* 8:20am Shinjuku Station
+[Holiday Rapid Okutama](https://goo.gl/maps/DphPjVobGFkFg5FD6) ([image](https://b.robnugen.com/blog/2022/2022_08_14_recommended_train.png)) (no transfers) 940 yen
 
-### Option 2:
+#### Option 2:
 
-* 8:39am Shinjuku Station Chuo Special Rapid (image) (1 transfer) 940 yen
+* 8:39am Shinjuku Station
+[Chuo Special Rapid](https://goo.gl/maps/yJQoxj51Ubx8tocL9) ([image](https://b.robnugen.com/blog/2022/2022_08_14_train_arrives_1003.png)) (1 transfer) 940 yen
 
 ## Meet in Mitake Station:
 
@@ -106,7 +108,7 @@ no pressure to join this time.
 I look forward to seeing you at a future event!
 
 That said, updates will be posted on this URL until the morning of the event:
-https://www.robnugen.com/en/events/2022/08/14simple-hot-summer-hike-mt-mitake
+https://www.robnugen.com/en/events/2022/08/14mt-mitake-barefoot-hike-and-rengeshoma-flower-viewing/
 
 # RSVP on LINE
 
