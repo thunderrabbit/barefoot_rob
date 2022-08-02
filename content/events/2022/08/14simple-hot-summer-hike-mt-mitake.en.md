@@ -67,13 +67,11 @@ https://goo.gl/maps/8NAu2iMWRUaZobSQ8
 
 Hike (optionally barefoot) up and down Mt Mitake (from Mitake Station)
 
-10am Sunday August 14th
+Sunday August 14th
 
-Meet at 9:43 at Mitake Station
+Meet at 9:43am at Mitake Station
 
 1000 yen
-
-
 
 # Details:
 
