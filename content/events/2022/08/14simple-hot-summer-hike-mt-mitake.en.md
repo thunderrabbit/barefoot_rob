@@ -17,10 +17,12 @@ src="https://b.robnugen.com/blog/2022/2021_dec_mitake_shrine_by_pentagonta.png"
 alt="2021 dec mitake shrine by pentagonta"
 class="title" />
 
-<p class="note">image credit: https://goo.gl/maps/uKVYckdwYsySdFxm9</p>
+<p class="note">image credit: <a href="https://goo.gl/maps/uKVYckdwYsySdFxm9">ぺんたごんた</a></p>
 
 Let's enjoy a nice hike together, hiking up and down Mt Mitake.
+
 I'll be barefoot, and you're welcome to try hiking barefoot as well!
+
 Feel free to bring food to eat on top of Mt Mitake.
 
 ## Transit to Mitake:
@@ -29,12 +31,15 @@ Feel free to bring food to eat on top of Mt Mitake.
 
 #### Option 1:
 
-Barefoot Rob plans to be on this train:
-[Shinjuku Station 8:20am Holiday Rapid Okutama](https://goo.gl/maps/DphPjVobGFkFg5FD6) ([image](https://b.robnugen.com/blog/2022/2022_08_14_recommended_train.png)) (no transfers) 940 yen
+(Barefoot Rob plans to be on this train:)
+
+* 8:20am Shinjuku Station
+[Holiday Rapid Okutama](https://goo.gl/maps/DphPjVobGFkFg5FD6) ([image](https://b.robnugen.com/blog/2022/2022_08_14_recommended_train.png)) (no transfers) 940 yen
 
 #### Option 2:
 
-[Shinjuku Station 8:39am Chuo Special Rapid](https://goo.gl/maps/yJQoxj51Ubx8tocL9) ([image](https://b.robnugen.com/blog/2022/2022_08_14_train_arrives_1003.png)) (1 transfer) 940 yen
+* 8:39am Shinjuku Station
+[Chuo Special Rapid](https://goo.gl/maps/yJQoxj51Ubx8tocL9) ([image](https://b.robnugen.com/blog/2022/2022_08_14_train_arrives_1003.png)) (1 transfer) 940 yen
 
 ## Meet in Mitake Station:
 
