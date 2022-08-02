@@ -1,6 +1,6 @@
 ---
-title: "Simple Summer Hike on Mt Mitake"
-tags: [ "2022", "Barefoot Rob", "barefoot", "event", "august", "walk", "mitake", "はだし", "Mitake", "裸足のロブ" ]
+title: "Mt Mitake Barefoot Hike"
+tags: [ "2022", "Barefoot Rob", "barefoot", "event", "august", "hike", "mitake", "はだし", "Mitake", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-08-01T08:59:43+09:00
 EventLocation: "Mitake area, up Mt Mitake (and back)"
@@ -9,7 +9,7 @@ TimeDescription: "gather at 9:43 at Mitake Station; bus starting at 10:14"
 EventDate: "2022-08-14T10:00:00+09:00"
 aliases: [
     "/en/events/2022/08/14simple-hot-summer-hike-mt-mitake",
-    "/en/events/2022/08/14simple-summer-hike-mt-mitake",
+    "/en/events/2022/08/14mt-mitake-barefoot-hike",
 ]
 ---
 
