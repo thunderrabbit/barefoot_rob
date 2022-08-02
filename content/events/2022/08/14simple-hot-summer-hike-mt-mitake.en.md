@@ -4,7 +4,7 @@ tags: [ "2022", "Barefoot Rob", "barefoot", "event", "august", "walk", "mitake",
 author: Rob Nugen
 date: 2022-08-01T08:59:43+09:00
 EventLocation: "Mitake area, up Mt Mitake (and back)"
-EventTime: "10:00"
+EventTime: "9:43"
 TimeDescription: "gather at 9:43 at Mitake Station; bus starting at 10:14"
 EventDate: "2022-08-14T10:00:00+09:00"
 aliases: [
