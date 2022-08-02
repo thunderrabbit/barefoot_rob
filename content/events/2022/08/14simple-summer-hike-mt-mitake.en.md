@@ -1,5 +1,5 @@
 ---
-title: "Simple Hot Summer Hike on Mt Mitake"
+title: "Simple Summer Hike on Mt Mitake"
 tags: [ "2022", "Barefoot Rob", "barefoot", "event", "august", "walk", "mitake", "はだし", "Mitake", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-08-01T08:59:43+09:00
@@ -9,6 +9,7 @@ TimeDescription: "gather at 9:43 at Mitake Station; bus starting at 10:14"
 EventDate: "2022-08-14T10:00:00+09:00"
 aliases: [
     "/en/events/2022/08/14simple-hot-summer-hike-mt-mitake",
+    "/en/events/2022/08/14simple-summer-hike-mt-mitake",
 ]
 ---
 
@@ -98,7 +99,7 @@ You are welcome to wear shoes anytime you need to.
 
 I will be there, rain or shine.  Bare feet are waterproof.  ;-)
 I always recommend self care,
-so if it's too hot or wet for you, no pressure to join this time.
+so if it's too hot or rainy for you, no pressure to join this time.
 I look forward to seeing you at a future event!
 
 That said, updates will be posted on this URL until the morning of the event:
