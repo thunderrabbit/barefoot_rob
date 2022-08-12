@@ -38,6 +38,25 @@ Meet at 9:43am at Mitake Station
 
 1000 yen
 
+## Attendance Update!!
+
+Mt Mitake Update!!
+
+Hello barefoot hiking team!
+
+Just a reminder that the weather is quite hot and is apparently predicted to be 34° and possibly rainy on Sunday for our Mt Mitake hiking event.
+
+Therefore please bring lots of water and maybe a big hat and whatever you need to protect yourself from the sun and rain.
+
+Speaking of high temperatures, I (Barefoot Rob) have had a fever and sore joints for the past 30 hours.  For the safety of the community, I will not attend the hike.  I'm sorry I cannot join you guys!
+
+Elena will be leading the event, and Andy will be collecting money and signing your point cards.
+
+If for any reason you plan not to attend, please update your RSVP on Meetup: https://meetu.ps/e/Lkgw3/TWnP/i
+
+Blessings
+Barefoot Rob
+
 ## Details:
 
 What to bring:
@@ -102,7 +121,6 @@ We’ll go relatively slowly, enjoying nature and conversation.
 
 By joining the event you agree that safety is your own responsibility. You are welcome to wear shoes anytime you need to.
 
-I will be there, rain or shine. Bare feet are waterproof. ;-)
 I always recommend self care, so if it’s too hot or humid for you,
 no pressure to join this time.
 I look forward to seeing you at a future event!
