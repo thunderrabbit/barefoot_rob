@@ -3,7 +3,7 @@ title: "12時:唐木田駅から多摩センター駅スまで裸足でウォー
 tags: [ "2022", "Barefoot Rob", "Karakida", "Tama Center", "barefoot", "event", "september", "walk", "はだし", "唐木田駅", "多摩センター駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-08-28T13:19:54+09:00
-EventLocation: ""
+EventLocation: "between Karakida and Tama Center"
 EventTime: "12:00"
 TimeDescription: "唐木田駅で11:45に集合"
 EventDate: "2022-09-24T12:00:00+09:00"
