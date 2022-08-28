@@ -177,6 +177,7 @@ our %event_locations = (
     "yoyogi_park" => "Yoyogi Park (Harajuku Gate)",
     "rinko_park" => "Rinko Park, Yokohama",
     "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
+    "karakida_tama_center" => "between Karakida and Tama Center",
     "izumi_tamagawa" => "Izumi Tamagawa (Odakyu Line)",
     "izumi_tamagawa_full_moon" => "Izumi Tamagawa for full moon 満月",
     "izumi_tamagawa_new_moon" => "Izumi Tamagawa for new moon 新月",
