@@ -1,18 +1,18 @@
 ---
-title: "EVENT_H時:唐木田駅から多摩センター駅スまで裸足でウォーキング"
-tags: [ %s ]
+title: "12時:唐木田駅から多摩センター駅スまで裸足でウォーキング"
+tags: [ "2022", "Barefoot Rob", "Karakida", "Tama Center", "barefoot", "event", "september", "walk", "はだし", "唐木田駅", "多摩センター駅", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "唐木田駅でFIRST_GATHERING_TIMEに集合"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-08-28T13:19:54+09:00
+EventLocation: ""
+EventTime: "12:00"
+TimeDescription: "唐木田駅で11:45に集合"
+EventDate: "2022-09-24T12:00:00+09:00"
 aliases: [
-    "/jaalias_path",
+    "/ja/events/2022/09/24enjoy-3.7km-barefoot-walk-through-6-parks-near-tama-center",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_dec_04_andy_reflected.jpg" "2021 dec 04 andy reflected" %}}
 
 自然とつながる。友達とつながる。
 実際に歩いてみましょう！ 写真撮影にも最適です。
@@ -28,7 +28,7 @@ aliases: [
 
 #### 唐木田駅にて集合
 
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+2022年9月24日　11:45
 
 
 唐木田駅、[波打つクロムの彫刻の近く](https://goo.gl/maps/DENh4ZpPHre5L8Lc7)
@@ -38,7 +38,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
 #### 先ずは二反田公園へ向かって歩きます
 
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+2022年9月24日　12:00
 
 最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
 
@@ -68,7 +68,7 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 *期待すること*
 
 * イベントは、雨天決行です。
-* FIRST_DEPARTURE_TIMEに唐木田駅を出発します。
+* 12:00に唐木田駅を出発します。
 * 様々な面を歩きます。砂利や草の上、水からアスファルトなど
 * たくさんの自然の中で母なる偉大なマザーネイチャーと繋がりましょう！
 * 素晴らしい撮影スポットもたくさんあります！

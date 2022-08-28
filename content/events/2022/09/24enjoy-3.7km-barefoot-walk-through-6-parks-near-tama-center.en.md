@@ -1,18 +1,18 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Enjoy 3.7km barefoot walk through 6 parks near Tama Center"
+tags: [ "2022", "Barefoot Rob", "Karakida", "Tama Center", "barefoot", "event", "september", "walk", "はだし", "唐木田駅", "多摩センター駅", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; enter Shin Yuri Art Park at EVENT_TIME"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-08-28T13:19:54+09:00
+EventLocation: ""
+EventTime: "12:00"
+TimeDescription: "gather at 11:45; enter Shin Yuri Art Park at 12:00"
+EventDate: "2022-09-24T12:00:00+09:00"
 aliases: [
-    "/enalias_path",
+    "/en/events/2022/09/24enjoy-3.7km-barefoot-walk-through-6-parks-near-tama-center",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/walk_and_talk/2021_dec_04_andy_reflected.jpg" "2021 dec 04 andy reflected" %}}
 
 Connect with nature. Connect with friends.
 Join us for an actual walk!  Great photo points!
@@ -27,7 +27,7 @@ Barefoot walking, great views, beautiful nature, enjoying fresh air and a lovely
 
 #### Meet at Karakida Station
 
-HUMANDATE, FIRST_GATHERING_TIME
+Saturday 24 September 2022, 11:45
 
 Karakida [near the wavy chrome curve](https://goo.gl/maps/DENh4ZpPHre5L8Lc7)
 
@@ -35,7 +35,7 @@ Karakida [near the wavy chrome curve](https://goo.gl/maps/DENh4ZpPHre5L8Lc7)
 
 #### Start walking to Nitanda Park
 
-HUMANDATE, EVENT_TIME
+Saturday 24 September 2022, 12:00
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -64,7 +64,7 @@ Find like-minded others who enjoy walking barefoot!
 *What to Expect*
 
 * The event is on, rain or shine.
-* We'll walk from Karakida Station starting FIRST_DEPARTURE_TIME
+* We'll walk from Karakida Station starting 12:00
 * There are many different surfaces, from gravel to grass, water to asphalt
 * Lots of nature to connect with mother earth!
 * Many great photo spots!

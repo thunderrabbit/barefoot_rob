@@ -81,7 +81,7 @@ my $preferred_day_of_week = $rpl::Constants::event_day_of_week{$what_kinda_event
 my $preferred_event_time = $rpl::Constants::event_primary_time{$what_kinda_event};
 my $get_time = ($thing_to_do ne "copy generator");  # only need time if not creating a generator
 my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time, $get_time);   # default is now
-my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event};
+my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event} || 15;
 my $guessed_gathering_time;
 print("if this fails, know the value of what_kinda_event is " . $what_kinda_event . "\n");
 unless($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {

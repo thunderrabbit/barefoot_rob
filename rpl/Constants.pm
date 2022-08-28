@@ -193,6 +193,7 @@ our %event_tag_hashes = (
     "book_chapter" => {"book" => 1, "walk" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
+    "karakida_tama_center" => {%walk_and_talk_tags, ("Tama Center" => 1, "Karakida" => 1, "多摩センター駅" => 1, "唐木田駅" => 1)},
     "rinshi_no_mori" => {%walk_and_talk_tags, ("meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1)},
     "rinko_park" => {%walk_and_talk_tags, ("Yokohama" => 1, "rinko-park" => 1, "臨港パーク" => 1)},
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
