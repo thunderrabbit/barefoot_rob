@@ -6,15 +6,14 @@ author: Rob Nugen
 draft: false
 date: 2022-07-12T09:52:08+09:00
 aliases: [
-    "alias_path",
+    "/en/blog/2022/07/12/explore-your-world-with-barefoot-rob/",
 ]
 ---
 
 
 <img
-src=
-https://b.robnugen.com/rob/presentations/2022/KSGG_9_july_2022/2022_07_09_1657363889941.jpg"
-alt="2022 07 09 1657363889941"
+src="https://b.robnugen.com/rob/presentations/2022/KSGG_9_july_2022/2022_07_09_1657363889941.jpg"
+alt="2022 07 09 Barefoot Rob presenting at KSGG in Yokohama, Japan"
 class="title" />
 
 This was such a fun event!  I spoke for 30 minutes and did Mystery Box game for 20 minutes wow!
