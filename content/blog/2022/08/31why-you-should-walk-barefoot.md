@@ -16,7 +16,7 @@ src="https://b.robnugen.com/blog/2022/power_of_positivity_Scientists-Explain-Wha
 alt="power of positivity Scientists-Explain-What-Happens-To-Your-Body-When-You-Walk-Barefoot"
 class="title" />
 
-<div class="note">(image credit: https://www.powerofpositivity.com/scientists-explain-what-happens-to-your-body-when-you-walk-barefoot/)</div>
+<div class="note">(image credit: <a href="https://www.powerofpositivity.com/scientists-explain-what-happens-to-your-body-when-you-walk-barefoot/">https://www.powerofpositivity.com/scientists-explain-what-happens-to-your-body-when-you-walk-barefoot/</a>)</div>
 
 Walking barefoot is just a starting point.  It’s one of many starting
 points on the journey to self discovery.  Who are you?  Why are you
