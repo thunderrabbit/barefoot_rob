@@ -1,0 +1,167 @@
+title:       %s
+
+HUMANDATE       FIRST_GATHERING_TIME
+
+Privacy: Public
+
+CLICK Next
+-------------------------------------
+
+Location
+
+唐木田駅
+
+CLICK Next
+-------------------------------------
+
+
+CLICK NEXT
+
+Connect with nature. Connect with friends.
+Join us for an actual walk!  Great photo points!
+
+Barefoot walking for ~3.7km, starting at Karakida Station https://goo.gl/maps/DENh4ZpPHre5L8Lc7
+
+Barefoot walking, great views, beautiful nature, enjoying fresh air and a lovely walk.
+
+==== When ====
+
+**HUMANDATE: gather at FIRST_GATHERING_TIME; enter Yoyogi Park at EVENT_TIME**
+
+Latest info https://www.robnugen.com/enalias_path
+
+==== Meet at Karakida Station ====
+
+HUMANDATE, FIRST_GATHERING_TIME
+
+Karakida near the wavy chrome curve https://goo.gl/maps/DENh4ZpPHre5L8Lc7
+
+==== Start walking to Nitanda Park ====
+
+HUMANDATE, EVENT_TIME
+
+==== Details ====
+
+*Longish walk*
+
+We'll walk ~3.7km from Karakida Station to Tama Center Station
+https://goo.gl/maps/diH14KkkkcAURACV8, likely through the following parks:
+
+* Nitanda Park
+* Tsurumaki Nishi Park
+* Maronie Park
+* Tsurumaki 2nd Park
+* Narahara Park
+* Tama Central Park
+
+*Enjoy Breathing*
+
+Get away from it all by settling into your being and noticing the
+motions of your body, one breath and one step at a time.
+
+*Enjoy Community*
+
+Find like-minded others who enjoy walking barefoot!
+
+*What to Expect*
+
+* The event is on, rain or shine.
+* We'll walk from Karakida Station starting FIRST_DEPARTURE_TIME
+* There are many different surfaces, from gravel to grass, water to asphalt
+* Lots of nature to connect with mother earth!
+* Many great photo spots!
+* Meet friends, enjoy chatting, connecting
+
+Latest info https://www.robnugen.com/enalias_path
+
+==== Donation: ====
+
+1000 yen
+
+==== What to bring ====
+
+Whatever you need to take care of yourself.  Come wearing lightweight
+shoes which you carry and wear if necessary.
+If you like photography, bring a camera!
+
+Self care is important, so wear shoes whenever you need to!
+
+
+
+
+自然とつながる。友達とつながる。
+実際に歩いてみましょう！ 写真撮影にも最適です。
+
+
+裸足で歩いて～3.7km、唐木田駅からスタート https://goo.gl/maps/DENh4ZpPHre5L8Lc7
+
+裸足で歩いて、素晴らしい景色、美しい自然、新鮮な空気を楽しむ、素敵な散歩になります。
+
+==== 唐木田駅にて集合 ====
+
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+
+唐木田駅、波打つクロムの彫刻の近く https://goo.gl/maps/DENh4ZpPHre5L8Lc7
+
+最新情報は、https://www.robnugen.com/jaalias_path
+
+==== 先ずは二反田公園へ向かって歩きます ====
+
+EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
+
+
+==== 詳細 ====
+
+*ちょっと長めの散歩*
+
+唐木田駅から多摩センター駅まで〜3.7km歩き https://goo.gl/maps/diH14KkkkcAURACV8、
+下記の公園の中を通過する予定です：
+
+* 二反田公園
+* 鶴牧西公園
+* まろにえ公園
+* 鶴牧第2公園
+* 奈良原公園
+* 富士見通り 桜並木
+* 多摩中央公園
+
+*呼吸を楽しむ*
+
+一呼吸、一歩一歩、体の動きに気を配りながら、心を落ち着かせて、日常から離れてみましょう。
+
+*コミュニティを楽しむ*
+
+裸足で歩くことを楽しむ仲間を見つけてください。
+
+*期待すること*
+
+* イベントは、雨天決行です。
+* FIRST_DEPARTURE_TIMEに唐木田駅を出発します。
+* 様々な面を歩きます。砂利や草の上、水からアスファルトなど
+* たくさんの自然の中で母なる偉大なマザーネイチャーと繋がりましょう！
+* 素晴らしい撮影スポットもたくさんあります！
+* 友達に会って、おしゃべりを楽しんで、つながる
+
+* 公園では靴を脱いで、母なる大地とつながりましょう。
+
+最新情報は、https://www.robnugen.com/jaalias_path
+
+**参加費**
+
+1000円 (寄付)
+
+**持ち物**
+
+ご自身のケアに必要なもの。 軽装でお越しください。
+軽い靴を履いてきてください。
+
+写真好きの方はカメラもぜひ持参ください！
+
+セルフケアが大切なので、必要に応じて靴を履くようにしましょう。
+
+
+
+-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+CLICK Next
+-------------------------------------
+episode_image

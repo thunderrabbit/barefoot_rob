@@ -48,7 +48,7 @@ our %walk_location_files = (
     "karakida_tama_center" => [
       "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.en.md",
       "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.ja.md",
-      # "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.facebook.txt",
+      "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.facebook.txt",
       "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.meetup.txt",
       # "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.twitter.txt",
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
