@@ -13,9 +13,7 @@ aliases: [
 
 <img
 src="https://b.robnugen.com/blog/2022/power_of_positivity_Scientists-Explain-What-Happens-To-Your-Body-When-You-Walk-Barefoot.jpg"
-alt=
-power of positivity
-Scientists-Explain-What-Happens-To-Your-Body-When-You-Walk-Barefoot"
+alt="power of positivity Scientists-Explain-What-Happens-To-Your-Body-When-You-Walk-Barefoot"
 class="title" />
 
 <div class="note">(image credit: https://www.powerofpositivity.com/scientists-explain-what-happens-to-your-body-when-you-walk-barefoot/)</div>
