@@ -86,8 +86,8 @@ That way they grow strong and keep you living longer.
 
 Seriously.
 
-People who can balance
-on one foot for more than ten seconds LIVE LONGER.
+People who can
+[balance on one foot for more than ten seconds LIVE LONGER](https://bjsm.bmj.com/content/56/17/975).
 
 What?
 
