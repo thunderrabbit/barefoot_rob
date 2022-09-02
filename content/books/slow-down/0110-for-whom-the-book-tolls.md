@@ -81,4 +81,6 @@ of characters making a rolling ball track.
 Just now I glued another piece onto the sample Outer Spiral.  I took a
 picture of it and four months later posted on the page https://www.marbletrack3.com/p/os
 
+[![2022 may 18 glued second support on sample outer spiral inner track](//b.robnugen.com/art/marble_track_3/track/parts/2022/thumbs/2022_may_18_glued_second_support_on_sample_outer_spiral_inner_track.jpg)](//b.robnugen.com/art/marble_track_3/track/parts/2022/2022_may_18_glued_second_support_on_sample_outer_spiral_inner_track.jpg)
+
 Thank you!
