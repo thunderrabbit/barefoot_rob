@@ -48,3 +48,45 @@ I fell into a hole for a while, approximately infinity lifetimes until the dog c
 ---------
 
 Choosing an optimal action in each moment seems like the best way to go and there are multiple optimal options at any given point. The thing is that all options are optimal for the universe and some options give us different experiences and we can choose our experience based on the options that we choose or choose our experience with the options that we choose and they're all equally good in the eyes of the universe because we learn something and any case ignoring karma we don't affect the universe directly. It just adds to our karma and that's fine.
+
+### IMPACT
+
+On 30 August 2022, around 6:51 in the morning, I wrote to my friend, _____.
+
+    Good morning _____!
+    On May 11th of this year I discovered an organization called underearners anonymous
+    It's a 12-step program for people who are addicted to under-earning and under-being
+    When reading through their symptoms I thought "oh wow that's me" for a lot of them.
+    The solution to all of my woes is to put my life into the hands of higher power.
+
+    ((etc etc more normal conversation))
+
+_____ replied a few days later:
+
+    Hey Rob,
+
+    It's good to hear from you.  Your message is just slightly weird,
+    like it's trying to sell me something, but then it really sounds
+    like Rob, so I guess your account has NOT been hacked.
+
+    As you know, I am VERY direct and straight.  I was pissed that I
+    contributed to your walk and you were meant to send me a postcard
+    or something, but you did not keep to your side of the deal.
+
+    Basic ethics, and keeping promises is VERY important.  It's not
+    cool or interesting, but it's the foundation for all (any) of the
+    funky stuff.
+
+    Feel free to call me on Whatsapp or on FB Messenger.  Please call
+    me mornings, as I work hard and I get very tired.
+
+    Love to you and Lin.
+
+Oh shit.  I fucked that up didn't I?
+See, _____ had sent me $100 for my book, so I wrote their name on the list for my book, (not a postcard.)
+The book is still under construction.
+
+I took on a larger project than I knew how to handle.
+It's been over a year.
+
+Thank you higher power for the kick in the ass!
