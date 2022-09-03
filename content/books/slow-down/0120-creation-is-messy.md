@@ -89,4 +89,4 @@ The book is still under construction.
 I took on a larger project than I knew how to handle.
 It's been over a year.
 
-Thank you higher power for the kick in the ass!
+Thank You, higher power, for the kick in the ass!
