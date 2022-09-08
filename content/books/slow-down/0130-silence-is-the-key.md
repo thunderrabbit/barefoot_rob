@@ -39,3 +39,19 @@ That is the quiet inner voice not the loud ruminating voices.
     - Ra
 
 https://www.llresearch.org/channeling/ra-contact/5
+
+
+
+In a recent Vitamin JR meeting, my friend Jeremy Weikel said
+
+    Instead of the rush of "gotta get it done now"
+    Slow down and let it percolate.  
+    "maybe a little of this.    maybe a little of that"
+
+Q. How do you clean water?  
+
+A. Pour it on top of a mountain.
+
+It takes time to process each molecule
+as they filter down through the layers of earth
+and emerge as a spring.
