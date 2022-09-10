@@ -95,3 +95,4 @@ Just quickly to write your innate talents are the most valuable thing
 you undervalue because they are innate.  You overlook them because
 they come so easily to you.  What do people keep coming to you for?
 Continue to do those things more often.
+(see you've got talent)
