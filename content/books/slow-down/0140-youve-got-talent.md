@@ -33,4 +33,7 @@ but you're spending time reading this book, so let's explore the idea.
 This chapter appeared after
 Jeremy Weikel reminded me
 
-    Another take-away from our talk: Keep an eye out for other parts of yourself that you consider ordinary, normal, and unremarkable, but that you see other people take note of. Hidden superpowers revealed = sacred gifts given to us, to use to heal this world.
+    Another take-away from our talk: Keep an eye out for other parts of yourself
+    that you consider ordinary, normal, and unremarkable, but that you see other
+    people take note of. Hidden superpowers revealed = sacred gifts given to us,
+    to use to heal this world.
