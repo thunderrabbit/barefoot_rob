@@ -29,6 +29,13 @@ but you're spending time reading this book, so let's explore the idea.
 * What types of questions do people generally ask you?
 * What problems do people come to you for help?
 
+Exploring these questions for myself, I have learned I'm a good listener.
+I'm also grounded, for lack of a better term.
+
+People have described me as "like a tree."
+
+Missy once had a dream where everything was in chaos,
+while I was standing in the middle, calmly holding space.
 
 This chapter appeared after
 Jeremy Weikel reminded me
