@@ -12,7 +12,7 @@ Barefoot walking, great views, beautiful nature, enjoying fresh air and a lovely
 　
 ==== When ====　
 　
-**HUMANDATE: gather at FIRST_GATHERING_TIME; enter Yoyogi Park at EVENT_TIME**　
+**HUMANDATE: gather at FIRST_GATHERING_TIME; start walking from Karakida Station at EVENT_TIME**　
 　
 Latest info https://www.robnugen.com/enalias_path　
 　
