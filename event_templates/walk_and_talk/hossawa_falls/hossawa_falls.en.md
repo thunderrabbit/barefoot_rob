@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "meet at Musashi-Itsukaichi Station (Itsukaichi Line), South Exit at EVENT_TIME"
+TimeDescription: "Meet at Musashi-Itsukaichi Station (Itsukaichi Line), South Exit at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
