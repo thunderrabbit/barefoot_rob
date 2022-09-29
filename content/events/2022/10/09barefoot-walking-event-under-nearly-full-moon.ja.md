@@ -1,21 +1,21 @@
 ---
 title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
-tags: [ %s ]
+tags: [ "2022", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "october", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "FIRST_GATHERING_TIMEに集合、IZUMI_DEPARTURE_TIMEに多摩川まで歩く"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-09-29T15:32:20+09:00
+EventLocation: "Izumi Tamagawa for full moon 満月"
+EventTime: "19:30"
+TimeDescription: "19:15に集合、19:25に多摩川まで歩く"
+EventDate: "2022-10-09T19:30:00+09:00"
 aliases: [
-    "/jaalias_path",
+    "/ja/events/2022/10/09barefoot-walking-event-under-nearly-full-moon",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 
 <div class="note">写真:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="dddd">dddd</a>
 </div>
 
 夜の空気を感じよう。満月を満喫しよう。
@@ -26,11 +26,11 @@ aliases: [
 
 #### 日程
 
-**EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、IZUMI_DEPARTURE_TIMEに多摩川を目指して歩きます。**
+**2022年10月9日　19:15集合、19:25に多摩川を目指して歩きます。**
 
 #### 集合場所
 
-EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
+2022年10月9日　19:15
 
 [集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
 https://goo.gl/maps/4yh8TLgADixQYnzU8
@@ -50,9 +50,9 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
 
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+19:15 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-IZUMI_DEPARTURE_TIME 多摩川に向かって歩く
+19:25 多摩川に向かって歩く
 
 芝生は散歩とリラクセーションにもってこいです。
 満月の光を楽しみましょう。

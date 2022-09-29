@@ -1,18 +1,18 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Barefoot walking event under nearly full moon"
+tags: [ "2022", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "october", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Tama River at IZUMI_DEPARTURE_TIME"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2022-09-29T15:32:20+09:00
+EventLocation: "Izumi Tamagawa for full moon 満月"
+EventTime: "19:30"
+TimeDescription: "gather at 19:15; walk to Tama River at 19:25"
+EventDate: "2022-10-09T19:30:00+09:00"
 aliases: [
-    "/enalias_path",
+    "/en/events/2022/10/09barefoot-walking-event-under-nearly-full-moon",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
@@ -24,7 +24,7 @@ meditative energetic release under the full moon.
 
 #### When
 
-**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**
+**Sunday 09 October 2022, gather at 19:15; walk toward Tama River at 19:30**
 
 #### Where
 
@@ -51,9 +51,9 @@ We'll relax in a lovely grass baseball field next to Tama River.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+19:15 Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
 
-IZUMI_DEPARTURE_TIME: Walk toward Tama River
+19:25: Walk toward Tama River
 
 The grass is nice for walking and relaxing.  Enjoy the light of the full moon.
 

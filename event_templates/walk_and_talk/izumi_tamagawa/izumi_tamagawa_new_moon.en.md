@@ -38,15 +38,10 @@ Enjoy chatting and barefoot walking on the new moon night.  Share beautiful expe
 
 #### Where
 
-**Meeting Spot #1 by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
+**Meet by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 [![2021 aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
-
-**Meeting Spot #2 around FIRST_DEPARTURE_TIME, outside [Blue Cafe Tamagawa](https://blue-tamagawa.jp/#section2)**
-https://goo.gl/maps/PX2LgNKF9iz4EyXx9
-
-[![blue cafe](//b.robnugen.com/blog/2022/thumbs/blue_cafe.jpg)](//b.robnugen.com/blog/2022/blue_cafe.jpg)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 

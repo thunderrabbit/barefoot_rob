@@ -28,7 +28,7 @@ aliases: [
 
 **EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、IZUMI_DEPARTURE_TIMEに多摩川を目指して歩きます。**
 
-#### 第一集合場所
+#### 集合場所
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
@@ -36,15 +36,6 @@ EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 [![2021 Aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
-
-#### 第二集合場所
-
-EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME後
-
-[高架下(スポーツクラブ  ブルー多摩川横)の河川敷](https://goo.gl/maps/2Ysk1D4EWmc41q3k7)
-https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
-
-[![2021 Aug 16 tama river odakyu line setagaya](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_tama_river_odakyu_line_setagaya.png)](//b.robnugen.com/blog/2021/2021_aug_16_tama_river_odakyu_line_setagaya.png)
 
 最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
 
