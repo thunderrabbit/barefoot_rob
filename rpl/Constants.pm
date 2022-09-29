@@ -7,7 +7,7 @@ our $home = $ENV{HOME};    # https://stackoverflow.com/a/1451420/194309
 
 my $dt = DateTime->now();
 
-my $repo_directory = "$home/barefoot_rob_master";
+my $repo_directory = $ENV{BAREFOOT_ROB_MASTER} || "$home/barefoot_rob_master";
 my $templates = "$repo_directory/event_templates";
 our $blt_blurbs = "$repo_directory/event_generators/blt/blurbs";
 our $event_generator_log = "$repo_directory/event_generators/" . $dt->ymd("_") . "_log.txt";
