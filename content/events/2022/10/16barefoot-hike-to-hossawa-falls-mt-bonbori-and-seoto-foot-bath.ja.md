@@ -2,8 +2,8 @@
 title: "裸足でウォーク＆トーク～払沢の滝と秋川渓谷"
 tags: [ "2022", "Barefoot Rob", "barefoot", "bonbori", "event", "hossawa", "nishitama", "october", "walk", "はだし", "払沢の滝", "盆堀山", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-09-29T20:43:10+09:00
-EventLocation: "Nishitama District: Hossawa Falls, Mt. Bonbori, and Seoto foot bath"
+date: 2022-09-29T20:44:15+09:00
+EventLocation: "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath"
 EventTime: "09:54"
 TimeDescription: "武蔵五日市駅、南口 at 09:54"
 EventDate: "2022-10-16T09:54:00+09:00"
