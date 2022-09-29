@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME; 武蔵五日市駅、南口 at EVENT_TIME"
+TimeDescription: "武蔵五日市駅、南口 at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/jaalias_path",
