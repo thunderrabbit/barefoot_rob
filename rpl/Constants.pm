@@ -102,6 +102,14 @@ our %walk_location_files = (
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
       "$templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "hossawa_falls" => [
+      "$templates/walk_and_talk/hossawa_falls/hossawa_falls.en.md",
+      "$templates/walk_and_talk/hossawa_falls/hossawa_falls.ja.md",
+      # "$templates/walk_and_talk/hossawa_falls/hossawa_falls.facebook.txt",
+      # "$templates/walk_and_talk/hossawa_falls/hossawa_falls.meetup.txt",
+      "$templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
 );
 
 #  ///   MUST ALSO DO %event_output_directories   ///
@@ -147,6 +155,7 @@ our %event_day_of_week = (
     "izumi_tamagawa_new_moon" => 1,
     "shin_yuri_art_park" => 4,
     "shin_yuri_manpukuji_park" => 3,
+    "hossawa_falls" => 7,
     "quest_update" => 3,
     "bold_life_tribe" => 1,
 );
@@ -160,6 +169,7 @@ our %event_primary_time = (
     "izumi_tamagawa_new_moon" => "20:00",
     "shin_yuri_art_park" => "14:00",
     "shin_yuri_manpukuji_park" => "13:00",
+    "hossawa_falls" => "13:00",
 );
 
 our %gather_minutes_before_event = (
@@ -171,6 +181,7 @@ our %gather_minutes_before_event = (
     "izumi_tamagawa_new_moon" => "15",
     "shin_yuri_art_park" => "30",
     "shin_yuri_manpukuji_park" => "30",
+    "hossawa_falls" => "30",
 );
 
 our %event_locations = (
@@ -183,6 +194,7 @@ our %event_locations = (
     "izumi_tamagawa_new_moon" => "Izumi Tamagawa for new moon 新月",
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
+    "hossawa_falls" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -199,6 +211,7 @@ our %event_tag_hashes = (
     "rinko_park" => {%walk_and_talk_tags, ("Yokohama" => 1, "rinko-park" => 1, "臨港パーク" => 1)},
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
+    "hossawa_falls" => {%walk_and_talk_tags, ("hossawa" => 1, "nishitama" => 1, "払沢の滝" => 1, "bonbori" => 1, "盆堀山" => 1)},
     "izumi_tamagawa" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "blue-cafe" => 1, "tamagawa" => 1, "多摩川" => 1)},
     "izumi_tamagawa_full_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "full moon" => 1, "tamagawa" => 1, "多摩川" => 1, "満月" => 1)},
     "izumi_tamagawa_new_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "new moon" => 1, "tamagawa" => 1, "多摩川" => 1, "新月" => 1)},
