@@ -63,7 +63,7 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **Donation:**
 
-500 yen
+2000 yen
 
 **What to bring**
 

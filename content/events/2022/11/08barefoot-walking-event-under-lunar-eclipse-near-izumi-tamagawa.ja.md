@@ -62,7 +62,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 **参加費**
 
-500円 (寄付)
+2000円 (寄付)
 
 **持ち物**
 
