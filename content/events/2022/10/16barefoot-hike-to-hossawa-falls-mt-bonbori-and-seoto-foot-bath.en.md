@@ -2,10 +2,10 @@
 title: "Barefoot hike to Hossawa Falls, Mt Bonbori, and Seoto foot bath"
 tags: [ "2022", "Barefoot Rob", "barefoot", "bonbori", "event", "hossawa", "nishitama", "october", "walk", "はだし", "払沢の滝", "盆堀山", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-09-29T20:44:15+09:00
+date: 2022-09-29T20:46:12+09:00
 EventLocation: "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath"
 EventTime: "09:54"
-TimeDescription: "meet at Musashi-Itsukaichi Station (Itsukaichi Line), South Exit at 09:54"
+TimeDescription: "Meet at Musashi-Itsukaichi Station (Itsukaichi Line), South Exit at 09:54"
 EventDate: "2022-10-16T09:54:00+09:00"
 aliases: [
     "/en/events/2022/10/16barefoot-hike-to-hossawa-falls-mt-bonbori-and-seoto-foot-bath",
