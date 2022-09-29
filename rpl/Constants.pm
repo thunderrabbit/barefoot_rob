@@ -194,7 +194,7 @@ our %event_locations = (
     "izumi_tamagawa_new_moon" => "Izumi Tamagawa for new moon 新月",
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
-    "hossawa_falls" => "Nishitama District, at Musashi-Itsukaichi Station",
+    "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt. Bonbori, and Seoto foot bath",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
