@@ -430,13 +430,40 @@ sub choose_from_list_of(@) {
     }# $ii
 
     $selected_type = "3";    ###  hardcode while testing
-    print "Enter the number of the type you want to select: ($selected_type) ";
+    print "Enter the number of the type you want to select, or its exact name: ($selected_type) ";
     my $raw_input = std_in_logger();
-
-    $raw_input =~ s/\D+//g;     ## TODO: how to specify this ain't raw anymore?
+    
+    # clean up the input a little  
     chomp($raw_input);
-    $selected_type = length($raw_input) ? $raw_input : $selected_type;
-    $event_type = $event_types[$selected_type-1];
+    $raw_input = lc($raw_input);
+    $raw_input =~ s/[^[:alnum:]_]+//g;
+       
+    if ($raw_input =~ /^\d+$/) {
+      # input is all digits.  assume it's an index
+      
+      $raw_input =~ s/\D+//g;     ## TODO: how to specify this ain't raw anymore?
+      $selected_type = length($raw_input) ? $raw_input : $selected_type;
+      $event_type = $event_types[$selected_type-1];
+        
+    } else {
+      # input was an event type string
+       
+      # change this regex to make it match, for example, substrings 
+      my @matches = grep { $_ =~ /^\Q$raw_input\E$/ } @event_types;
+      my $num_matches = scalar(@matches);
+        
+      if (1 == $num_matches) {
+        $event_type = $matches[0];
+      } else {
+
+        # change this to whatever desired behavior you like, eg loop to top and try again.
+        die(
+          "error: matched $num_matches event types: <"
+          . (join ", ", @matches) 
+          . ">"
+        );
+      }
+    }
 
     # confirm selected image
     print "\nCtrl-C if you ain't happy with your choice!\n";
