@@ -48,6 +48,11 @@ In a recent Vitamin JR meeting, my friend Jeremy Weikel said
     Slow down and let it percolate.  
     "maybe a little of this.    maybe a little of that"
 
+A month later, he said,
+
+    Thank you for reminding me of the importance of
+    slowing down and feeling how I'm feeling everything
+
 Q. How do you clean water?  
 
 A. Pour it on top of a mountain.
