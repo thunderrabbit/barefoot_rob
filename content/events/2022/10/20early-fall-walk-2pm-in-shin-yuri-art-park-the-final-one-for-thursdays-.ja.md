@@ -2,12 +2,13 @@
 title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2022", "Barefoot Rob", "art_park", "barefoot", "event", "october", "shinyuri", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-09-24T08:58:39+09:00
+date: 2022-10-16T06:39:56+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
 EventDate: "2022-10-20T14:00:00+09:00"
 aliases: [
+    "/ja/events/2022/10/20early-fall-walk-2pm-in-shin-yuri-art-park-the-final-one-for-thursdays-",
     "/ja/events/2022/10/20early-fall-walk-2pm-in-shin-yuri-art-park",
 ]
 ---

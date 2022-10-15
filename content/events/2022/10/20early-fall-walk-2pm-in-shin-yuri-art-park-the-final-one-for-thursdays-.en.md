@@ -1,13 +1,14 @@
 ---
-title: "Early fall walk 2pm in Shin Yuri Art Park"
+title: "Early fall walk 2pm in Shin Yuri Art Park (The final one for Thursdays!)"
 tags: [ "2022", "Barefoot Rob", "art_park", "barefoot", "event", "october", "shinyuri", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-09-24T08:58:39+09:00
+date: 2022-10-16T06:39:56+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2022-10-20T14:00:00+09:00"
 aliases: [
+    "/en/events/2022/10/20early-fall-walk-2pm-in-shin-yuri-art-park-the-final-one-for-thursdays-",
     "/en/events/2022/10/20early-fall-walk-2pm-in-shin-yuri-art-park",
 ]
 ---
