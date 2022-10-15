@@ -10,6 +10,7 @@ EventDate: "2022-12-15T14:00:00+09:00"
 aliases: [
     "/ja/events/2022/12/15thank-you-2022-shin-yuri-art-park-walk",
 ]
+draft: yes
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_apr_21_shin_yuri_group.jpg" "2022 apr 21 shin yuri group" %}}

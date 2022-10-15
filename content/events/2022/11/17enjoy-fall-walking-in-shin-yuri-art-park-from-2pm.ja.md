@@ -10,6 +10,7 @@ EventDate: "2022-11-17T14:00:00+09:00"
 aliases: [
     "/ja/events/2022/11/17enjoy-fall-walking-in-shin-yuri-art-park-from-2pm",
 ]
+draft: yes
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_apr_21_shin_yuri_group.jpg" "2022 apr 21 shin yuri group" %}}
