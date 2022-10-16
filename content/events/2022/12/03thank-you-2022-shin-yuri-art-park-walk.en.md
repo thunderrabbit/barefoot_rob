@@ -1,16 +1,16 @@
 ---
-title: "Enjoy fall walking in Shin Yuri Art Park from 2pm"
-tags: [ "2022", "Barefoot Rob", "art_park", "barefoot", "event", "november", "shinyuri", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
+title: "Thank You 2022! Shin Yuri Art Park walk"
+tags: [ "2022", "Barefoot Rob", "art_park", "barefoot", "december", "event", "shinyuri", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-09-29T19:14:34+09:00
+date: 2022-10-16T22:58:01+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
-EventDate: "2022-11-17T14:00:00+09:00"
+EventDate: "2022-12-03T14:00:00+09:00"
 aliases: [
-    "/en/events/2022/11/17enjoy-fall-walking-in-shin-yuri-art-park-from-2pm",
+    "/en/events/2022/12/15thank-you-2022-shin-yuri-art-park-walk",
+    "/en/events/2022/12/03thank-you-2022-shin-yuri-art-park-walk",
 ]
-draft: yes
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_apr_21_shin_yuri_group.jpg" "2022 apr 21 shin yuri group" %}}
@@ -27,13 +27,13 @@ Every Third Thursday of the month
 
 #### First Meeting Point
 
-Thursday 17 November 2022, 13:30
+Saturday 03 December 2022, 13:30
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point is Shin Yuri Art Park
 
-Thursday 17 November 2022, 14:00
+Saturday 03 December 2022, 14:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
