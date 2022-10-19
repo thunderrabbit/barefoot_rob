@@ -22,7 +22,7 @@ Barefoot Walking Experience at [Shinyuri Art Parks](http://www.airgreen.info/art
 
 Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
-Every Third Thursday of the month
+Every First Saturday of the month
 
 #### First Meeting Point
 
