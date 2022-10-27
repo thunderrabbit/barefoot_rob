@@ -102,6 +102,15 @@ our %walk_location_files = (
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
       "$templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "todoroki_valley" => [
+      "$templates/walk_and_talk/todoroki_valley/todoroki_valley.en.md",
+      # "$templates/walk_and_talk/todoroki_valley/todoroki_valley.ja.md",
+      # "$templates/walk_and_talk/todoroki_valley/todoroki_valley.facebook.txt",
+      # "$templates/walk_and_talk/todoroki_valley/todoroki_valley.meetup.txt",
+      # "$templates/walk_and_talk/todoroki_valley/todoroki_valley.twitter.txt",
+      "$templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
     "hossawa_falls" => [
       "$templates/walk_and_talk/hossawa_falls/hossawa_falls.en.md",
       "$templates/walk_and_talk/hossawa_falls/hossawa_falls.ja.md",
@@ -211,6 +220,7 @@ our %event_tag_hashes = (
     "rinko_park" => {%walk_and_talk_tags, ("Yokohama" => 1, "rinko-park" => 1, "臨港パーク" => 1)},
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
+    "todoroki_valley" => {%walk_and_talk_tags, ("todoroki" => 1, "等々力渓谷" => 1, "city" => 1)},
     "hossawa_falls" => {%walk_and_talk_tags, ("hossawa" => 1, "nishitama" => 1, "払沢の滝" => 1, "bonbori" => 1, "盆堀山" => 1)},
     "izumi_tamagawa" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "blue-cafe" => 1, "tamagawa" => 1, "多摩川" => 1)},
     "izumi_tamagawa_full_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "full moon" => 1, "tamagawa" => 1, "多摩川" => 1, "満月" => 1)},
