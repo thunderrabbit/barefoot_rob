@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "Meet at Todoroki Station Station (Oimachi Line), South Exit at EVENT_TIME"
+TimeDescription: "Meet at Todoroki Station Station (Oimachi Line), South Exit at GATHERING_TIME"
 EventLocation: "Todoroki Valley and surrounding areas"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
@@ -66,13 +66,12 @@ To receive the latest updates, join our LINE group for this event:
 
 <img
 src="https://b.robnugen.com/blog/2022/2022_nov_todoroki_valley_walk_line_qr.jpg"
-alt="HUMANDATE todoroki valley walk line qr"
-class="title" />
+alt="HUMANDATE todoroki valley walk line qr" />
 
 **What to bring**
 
 - Your water/soft drink (recommend hot drink in a thermos)
-- lunch (there is a convenience store near our meeting point)
+- Lunch (there is a convenience store near our meeting point)
 - Hat in case of sun
 - Rainwear in case of rain
 - Easy-to-wear sandals for hard-to-walk surfaces (if desired)
@@ -90,8 +89,7 @@ RSVP by joining Todoroki Valley hike participants LINE group specifically for th
 
 <img
 src="https://b.robnugen.com/blog/2022/2022_nov_todoroki_valley_walk_line_qr.jpg"
-alt="2022 nov todoroki valley walk line qr"
-class="title" />
+alt="2022 nov todoroki valley walk line qr" />
 
 Share this event with others by sending this link
 https://www.robnugen.com/enalias_path
@@ -99,5 +97,5 @@ https://www.robnugen.com/enalias_path
 While we do check each event location, by joining this event you agree
 that safety is your own responsibility.
 
-**Please NOTE:** as our events improve, suggested donations may be increased.  
+**Please note:** as our events improve, suggested donations may be increased.  
 Donation suggestions will vary depending on the event duration and type of activities.
