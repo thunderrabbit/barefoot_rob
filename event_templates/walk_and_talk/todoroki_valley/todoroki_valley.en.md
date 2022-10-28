@@ -15,10 +15,6 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-<div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
-</div>
-
 *Connect with nature. Connect with friends. Join us for a city walk!*
 
 Slow-paced barefoot city hike to Todoroki Ravine Park, Nogemachi Park,
