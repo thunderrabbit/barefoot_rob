@@ -2,11 +2,12 @@
 title: "Peaceful barefoot walk in Todoroki Valley and surrounding parks"
 tags: [ "2022", "Barefoot Rob", "barefoot", "city", "event", "november", "todoroki", "walk", "はだし", "等々力渓谷", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-10-28T08:45:34+09:00
+date: 2022-10-28T12:48:19+09:00
 EventLocation: ""
-EventTime: "10:30"
-TimeDescription: "Meet at Todoroki Station Station (Oimachi Line), South Exit at 10:30"
-EventDate: "2022-11-19T10:30:00+09:00"
+EventTime: "11:00"
+TimeDescription: "Meet at Todoroki Station Station (Oimachi Line), South Exit at 11:00"
+EventLocation: "Todoroki Valley and surrounding areas"
+EventDate: "2022-11-19T11:00:00+09:00"
 aliases: [
     "/en/events/2022/11/19peaceful-barefoot-walk-in-todoroki-valley-and-surrounding-parks",
 ]
@@ -28,7 +29,7 @@ to try walking barefoot as well!
 
 #### Meeting Point
 
-Saturday 19 November 2022, 10:15
+Saturday 19 November 2022, 10:45
 
 We will meet at Todoroki Station, South Exit
 https://goo.gl/maps/QANo4iJUhNm7Kun49
