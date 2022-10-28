@@ -6,6 +6,7 @@ date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "Meet at Todoroki Station Station (Oimachi Line), South Exit at EVENT_TIME"
+EventLocation: "Todoroki Valley and surrounding areas"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
