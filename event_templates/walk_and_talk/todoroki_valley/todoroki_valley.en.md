@@ -92,6 +92,3 @@ https://www.robnugen.com/enalias_path
 
 While we do check each event location, by joining this event you agree
 that safety is your own responsibility.
-
-**Please note:** as our events improve, suggested donations may be increased.  
-Donation suggestions will vary depending on the event duration and type of activities.
