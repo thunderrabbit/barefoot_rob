@@ -10,6 +10,7 @@ EventDate: "2022-12-08T19:30:00+09:00"
 aliases: [
     "/en/events/2022/12/082022-final-full-moon-barefoot-walking-event",
 ]
+---
 
 I'm sorry I have to cancel this event; I'm sick today.
 
