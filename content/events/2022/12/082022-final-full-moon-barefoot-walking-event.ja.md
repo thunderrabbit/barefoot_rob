@@ -1,5 +1,5 @@
 ---
-title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
+title: "キャンセル：　満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2022", "Barefoot Rob", "barefoot", "december", "event", "full moon", "izumi-tamagawa", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-09-29T18:51:53+09:00
@@ -11,6 +11,8 @@ aliases: [
     "/ja/events/2022/12/082022-final-full-moon-barefoot-walking-event",
 ]
 ---
+
+I am sick today so have to cancel this event.
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 

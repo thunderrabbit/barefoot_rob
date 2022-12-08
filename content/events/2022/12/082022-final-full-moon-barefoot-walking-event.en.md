@@ -1,5 +1,5 @@
 ---
-title: "2022 final full moon barefoot walking event"
+title: "CANCELED: 2022 full moon barefoot walking event (Canceled)"
 tags: [ "2022", "Barefoot Rob", "barefoot", "december", "event", "full moon", "izumi-tamagawa", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
 date: 2022-09-29T18:50:33+09:00
@@ -10,7 +10,8 @@ EventDate: "2022-12-08T19:30:00+09:00"
 aliases: [
     "/en/events/2022/12/082022-final-full-moon-barefoot-walking-event",
 ]
----
+
+I'm sorry I have to cancel this event; I'm sick today.
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 
