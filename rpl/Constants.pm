@@ -119,6 +119,14 @@ our %walk_location_files = (
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
       "$templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "hikarie_to_foot_bath" => [
+      "$templates/walk_and_talk/hikarie_to_foot_bath/hikarie_to_foot_bath.en.md",
+      # "$templates/walk_and_talk/hikarie_to_foot_bath/hikarie_to_foot_bath.ja.md",
+      # "$templates/walk_and_talk/hikarie_to_foot_bath/hikarie_to_foot_bath.facebook.txt",
+      # "$templates/walk_and_talk/hikarie_to_foot_bath/hikarie_to_foot_bath.meetup.txt",
+      # "$templates/walk_and_talk/___.t-07days_reminder.txt",
+      # "$templates/walk_and_talk/___.t-14days_reminder.txt",
+    ],
 );
 
 #  ///   MUST ALSO DO %event_output_directories   ///
@@ -165,6 +173,7 @@ our %event_day_of_week = (
     "shin_yuri_art_park" => 6,
     "shin_yuri_manpukuji_park" => 3,
     "hossawa_falls" => 7,
+    "hikarie_to_foot_bath" => 6,
     "quest_update" => 3,
     "bold_life_tribe" => 1,
 );
@@ -179,6 +188,7 @@ our %event_primary_time = (
     "shin_yuri_art_park" => "14:00",
     "shin_yuri_manpukuji_park" => "13:00",
     "hossawa_falls" => "13:00",
+    "hikarie_to_foot_bath" => "13:00",
 );
 
 our %gather_minutes_before_event = (
@@ -191,6 +201,7 @@ our %gather_minutes_before_event = (
     "shin_yuri_art_park" => "30",
     "shin_yuri_manpukuji_park" => "30",
     "hossawa_falls" => "30",
+    "hikarie_to_foot_bath" => "15",
 );
 
 our %event_locations = (
@@ -204,6 +215,7 @@ our %event_locations = (
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
+    "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping "
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -221,6 +233,7 @@ our %event_tag_hashes = (
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "todoroki_valley" => {%walk_and_talk_tags, ("todoroki" => 1, "等々力渓谷" => 1, "city" => 1)},
+    "hikarie_to_foot_bath" => {%walk_and_talk_tags, ("shibuya" => 1, "hikarie" => 1, "toyoko" => 1)},
     "hossawa_falls" => {%walk_and_talk_tags, ("hossawa" => 1, "nishitama" => 1, "払沢の滝" => 1, "bonbori" => 1, "盆堀山" => 1)},
     "izumi_tamagawa" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "blue-cafe" => 1, "tamagawa" => 1, "多摩川" => 1)},
     "izumi_tamagawa_full_moon" => {%walk_and_talk_tags, ("izumi-tamagawa" => 1, "riverside" => 1, "full moon" => 1, "tamagawa" => 1, "多摩川" => 1, "満月" => 1)},
