@@ -60,3 +60,17 @@ A. Pour it on top of a mountain.
 It takes time to process each molecule
 as they filter down through the layers of earth
 and emerge as a spring.
+
+From UA fellow Jon:
+
+    Paradoxically, slowing down is the fastest way
+    for me to get to my destination.
+
+    When I'm mad at someone, I'm actually mad at myself.
+
+    When I finally listen to myself and allow life to take time,
+    I feel calmer and succeed more easily.
+
+From UA fellow Alin M
+
+    Don't just do something, sit there.
