@@ -215,7 +215,7 @@ our %event_locations = (
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
-    "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping "
+    "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
