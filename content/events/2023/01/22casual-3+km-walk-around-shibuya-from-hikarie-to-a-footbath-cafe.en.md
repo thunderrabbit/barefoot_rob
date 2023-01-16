@@ -2,13 +2,14 @@
 title: "Casual 3+km walk around Shibuya from Hikarie to a footbath cafe"
 tags: [ "2023", "Barefoot Rob", "barefoot", "event", "hikarie", "january", "shibuya", "toyoko", "walk", "はだし", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-01-16T09:19:14+09:00
+date: 2023-01-16T12:54:18+09:00
 EventLocation: "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
 EventTime: "13:00"
 TimeDescription: "Meet at 2F of Hikarie, facing Shibuya Scramble Square."
-EventDate: "2023-01-21T13:00:00+09:00"
+EventDate: "2023-01-22T13:00:00+09:00"
 aliases: [
     "/en/events/2023/01/21casual-3+km-walk-around-shibuya-from-hikarie-to-a-footbath-cafe",
+    "/en/events/2023/01/22casual-3+km-walk-around-shibuya-from-hikarie-to-a-footbath-cafe",
 ]
 ---
 
@@ -27,7 +28,7 @@ https://goo.gl/maps/DSwt4wd3MmTrtfyHA
 
 #### Meeting Point
 
-Saturday 21 January 2023, 12:45
+Sunday 22 January 2023, 12:45
 
 2F of Hikarie, facing Shibuya Scramble Square (https://goo.gl/maps/XNvqTUJuBiV4inhS6)
 
