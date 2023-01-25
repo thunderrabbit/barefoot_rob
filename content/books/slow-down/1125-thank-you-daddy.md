@@ -11,7 +11,6 @@ draft: false
 
 https://otter.ai/u/DvzDo594yDkvNZmMyRzepeXhMT4
 
-
 I'm not sure if I can prove God exists but I have seen many signs that
 allow for me to believe it's useful to believe in God and to be
 grateful to God for literally everything I have. Let me start by
@@ -19,99 +18,106 @@ saying that I don't mean the God who is the grumpy old god and the Old
 Testament. I think that was actually basically extraterrestrials who
 came down and pretend to be gone in order to like get power or
 whatever. But I'm talking about the basically consciousness that
-pervades the universe. And this will completely fly in the face of
-anyone who believes that the brain is producing consciousness. This
-concept starts with the well CONSCIOUSNESS EXISTS first, regardless of
-physicality, and that the brain is basically a receiver of
-consciousness and a processor of sorts. So that's the one of the
-starting points of this little thing. So we've got this concept of the
-universe for example, and consciousness pervading the universe. And
-I've got this concept that about emotions. Let me see if I can put
-these together that
+pervades the universe.
 
-gosh, I can't prove it yet. But emotions seem to be like an interface
-from like, spirit down into physicality, a way to guide us. Now this
-is described as well by Esther Hicks via her entity Abraham and I've
-heard Teal Swan talking about this as well. I'm sure I've already
-written about the time that I determined as a teenager that emotions
-are important and that is the story about my granddad's jacket that he
-had died a couple years previous and my brother and I were all stoic
-and didn't cry. But then the asterisk to that story is that they had
-to bust out amazing grace on the bagpipes. Yep, I was doing fine until
-they busted out Amazing Grace. So both my brother and I both cried at
-the funeral when they played amazing grace but apparently, I didn't
-cry enough, because a couple of years later, I was basically in my
-dad's closet, probably looking for pornography or something. And I
-came across granddad's jacket his old army jacket, and I was like, Oh,
-that's interesting. And for whatever reason, I smelled the jacket or
-maybe I just, I could smell it. And suddenly, the tears were like bow,
-your granddad is gone. He's, he's, he's fucking he's dead. As a
-doornail he's gone. never see him again. And all of that, you know,
-impactful. emotion of sadness just hit me and after I cried and cried
-and got it all out. I was like, Now, where was that sadness for the
-past two years? That I wasn't aware of it. I couldn't feel it. You
-know, not consciously. And I was like, That's so interesting because
-you I could I could meet or talk to the cutest girl in the whole
-world. And two years later, I wouldn't remember nothing about
-that. Interaction. Probably as like, Huh. But the emotion stayed
-somewhere in full Technicolor feeling. perfectly preserved for the two
-some odd years. It's like it's as if the time component this simply
-didn't exist. And the motion we're just here from our my perspective,
-patiently waiting and was simply there when I accessed it. Then when I
-did access it, I cried. It went away. And it's like, Huh, okay, that's
-interesting. And I just like in that moment did determined that
-emotions are important. I didn't know why. But that was proof to
-me. Now, let me describe another story that happened some time
-ago. I've often played with lucid dreaming and as even as I write this
-book, Today is June 25 2023. As I write this book, I'm, I'm playing
-around with the idea of doing astral projection. And that's thanks to
-a book called Beyond dreaming by Jean someone I don't have the book in
-front of me. And more 20 years ago, I had this experience of being in
-a dream doing gymnastics, and in a, like a perfect Pike, you know,
-like my, my legs were straight. My My body was just kind of folded
-over so that my nose was touching my knees and in a dream, you know,
-weird things can be normal. But then I realized I was like, hang
-on. My body doesn't fold this way. I am not this flexible. I must be
-dreaming. And yet, I could feel through the sense called
-proprioception that my nose was touching my knees. And it was like,
-Huh, that's interesting. And I tried to like, guide me to move myself
-out of my body the rest of the way my legs were obviously out. And, or
-my top was, was out and my legs were in. But I was like, Okay, let's
-fly up to the ceiling. And I did like a like a reverse handstand or a
-headstand. And my legs were up in the air. My body was up in the air,
-but my head was still stuck in my head. And I thought, hmm, maybe I'm
-clenching. My teeth. So I slightly like I moved my jaw to unclench my
-teeth, when I don't know if it was actually clenched or not at that
-point, but that motion like ended the the experience of floating in
-the air and like, my, my body slowly, like, came down into my physical
-body. And I could feel the waves of I don't know what the word might
-be, but like pulsation or waves happening that are very commonly
-reported by people who are out of body. You can check on Reddit like
-astral travel, the rational projection, I'll put the subreddit in this
-thing. And yeah, so I had that experience. This is well before Reddit
-existed. And you know, I was like, Whoa, that was weird. You know, I
-was a very smooth transition of, you know, from that. Body, my me
-being my with my legs. pointing up at the ceiling and then transition
-smoothly down to being in my body and feeling those pulsations. And I
-was like, just kept my eyes closed. I memorized I memorized the
-situation in the sensation. And I have a little parenthetical phrase
-here. I'm just realizing that I have remembered this story for many,
-many years. And earlier in this thread, I was just saying, you know,
-how did the motion get memorized for two years? But this was a very
-conscious, intentional memorization. When I my body was out of my body
-whereas the emotional thing was completely automatic. I closed
-parenthesis, so anyway, I lay in bed for a bit and memorize the the
-experience. And it works express gratitude and was like your
-excitement. I'm not sure if I was doing gratitude in those days
-because I was really happy and I maybe wrote it down in my
-journal. And yeah, so it was a really cool little experience. That
-also some from that experience, I recognize that my consciousness is
-not inexorably tied to my physical body. There thereby I can I can
-surmise that they're, they're different. You know, my body isn't
-producing my consciousness my consciousness exists independently of my
-physical body. So, you know, why not extrapolate that, you know
-consciousness exists? And the physical bodies are just like faux SCI
-for consciousness to roam around and hang out in this physical space.
+This will completely fly in the face of anyone who believes that the
+brain is producing consciousness. This concept starts with
+*consciousness exists* first, regardless of physicality, and that the
+brain is basically a receiver of consciousness and a processor of
+sorts. So that's the one of the starting points of this little
+thing. So we've got this concept of the universe for example, and
+consciousness pervading the universe. And I've got this concept that
+about emotions.
+
+Emotions seem to be like an interface from like, spirit down into
+physicality, a way to guide us. Now this is described as well by
+Esther Hicks via her entity Abraham and I've heard Teal Swan talking
+about this as well. I'm sure I've already written about the time that
+I determined as a teenager that emotions are important and that is the
+story about my granddad's jacket that he had died a couple years
+previous and my brother and I were all stoic and didn't cry. (*)
+
+(*) Until they had to bust out amazing grace on the bagpipes. Yep, I
+was doing fine until they busted out Amazing Grace. So both my brother
+and I both cried at the funeral when they played amazing grace but
+apparently, I didn't cry enough, because a couple of years later, I
+was basically in my dad's closet, probably looking for pornography or
+something.
+
+I came across granddad's old army jacket, and I was like, Oh, that's
+interesting. And for whatever reason, I smelled the jacket or maybe I
+just, I could smell it. And suddenly, the tears were like wow, your
+granddad is gone. He's, he's, he's fucking he's dead as a
+doornail. he's gone. never see him again. And all of that, you know,
+impactful.
+
+emotion of sadness just hit me and after I cried and cried and got it
+all out. I was like, Now, where was that sadness for the past two
+years? That I wasn't aware of it. I couldn't feel it. You know, not
+consciously. And I was like, That's so interesting because you I could
+I could meet or talk to the cutest girl in the whole world. And two
+years later, I wouldn't remember nothing about that interaction.
+
+But the emotion stayed somewhere in full Technicolor
+feeling. perfectly preserved for the two some odd years. It's like
+it's as if the time component this simply didn't exist. And the motion
+we're just here from our my perspective, patiently waiting and was
+simply there when I accessed it. Then when I did access it, I
+cried. It went away. And it's like, Huh, okay, that's interesting. And
+I just like in that moment did determined that emotions are
+important. I didn't know why. But that was proof to me. Now, let me
+describe another story that happened some time ago. I've often played
+with lucid dreaming and as even as I write this book,
+
+Today is June 25 2023. As I write this book, I'm, I'm playing around
+with the idea of doing astral projection. And that's thanks to a book
+called Beyond dreaming by Jean someone I don't have the book in front
+of me. And more 20 years ago, I had this experience of being in a
+dream doing gymnastics, and in a, like a perfect Pike, you know, like
+my, my legs were straight. My My body was just kind of folded over so
+that my nose was touching my knees and in a dream, you know, weird
+things can be normal. But then I realized I was like, hang on. My body
+doesn't fold this way. I am not this flexible. I must be dreaming. And
+yet, I could feel through the sense called proprioception that my nose
+was touching my knees. And it was like, Huh, that's interesting. And I
+tried to like, guide me to move myself out of my body the rest of the
+way my legs were obviously out. And, or my top was, was out and my
+legs were in. But I was like, Okay, let's fly up to the ceiling. And I
+did like a like a reverse handstand or a headstand. And my legs were
+up in the air. My body was up in the air, but my head was still stuck
+in my head. And I thought, hmm, maybe I'm clenching. My teeth. So I
+slightly like I moved my jaw to unclench my teeth, when I don't know
+if it was actually clenched or not at that point, but that motion like
+ended the the experience of floating in the air and like, my, my body
+slowly, like, came down into my physical body. And I could feel the
+waves of I don't know what the word might be, but like pulsation or
+waves happening that are very commonly reported by people who are out
+of body. You can check on Reddit like astral travel, the rational
+projection, I'll put the subreddit in this thing. And yeah, so I had
+that experience. This is well before Reddit existed. And you know, I
+was like, Whoa, that was weird. You know, I was a very smooth
+transition of, you know, from that. Body, my me being my with my
+legs. pointing up at the ceiling and then transition smoothly down to
+being in my body and feeling those pulsations. And I was like, just
+kept my eyes closed. I memorized I memorized the situation in the
+sensation. And I have a little parenthetical phrase here. I'm just
+realizing that I have remembered this story for many, many years. And
+earlier in this thread, I was just saying, you know, how did the
+motion get memorized for two years? But this was a very conscious,
+intentional memorization. When I my body was out of my body whereas
+the emotional thing was completely automatic. I closed parenthesis, so
+anyway, I lay in bed for a bit and memorize the the experience. And it
+works express gratitude and was like your excitement. I'm not sure if
+I was doing gratitude in those days because I was really happy and I
+maybe wrote it down in my journal. And yeah, so it was a really cool
+little experience. That also some from that experience, I recognize
+that my consciousness is not inexorably tied to my physical
+body. There thereby I can I can surmise that they're, they're
+different. You know, my body isn't producing my consciousness my
+consciousness exists independently of my physical body. So, you know,
+why not extrapolate that, you know consciousness exists? And the
+physical bodies are just like faux SCI for consciousness to roam
+around and hang out in this physical space.
 
 And so then, I'll just jump over to space time. Not that I can do any
 justice to explain in space time. All the recently I was watching a
@@ -238,36 +244,36 @@ is what I can do. And
 
 I'm just grateful for the daily blessings that I have here. Like being
 able to, you know, have this fresh air being able to have support
-accountability with my with my buddy from the men's group His name is
-spelled l e s ze K. I doubt the same could transcribe it. Let's
-check. Wrote let's check. Anyway, um Yeah, it's just amazing that I
-can say these words and they're being transcribed into into text and
-so just having that gratitude I've heard recently that the this this
-came from who Trevor Noah was talking about the the comedy of, of
-Corona. He's like, talking about the the peoples in Africa are not
-having bad effects from Corona. They're like what that finished ages
-ago. And it's like yeah, because there's so many blessings that are
-available in the natural world. So I can be like, you know, oh, wow,
-this computer is so great. Or I can focus on Oh, well, I have to worry
-about Corona. You know? And so I posit it does not matter where one is
-in the world. There's always blessings to be found. And yeah, just
-have to look and be aware somehow, and the stories of people who who
-survived, you know, all different tragedies and stuff are the ones
-that just kept their mind. Positive somehow. I do think it's a choice
-and I'm probably going to wrap this up because I'm rambling here but
-uh, all of this pointing to gratitude to the creator the you know, you
-can decide that there's no God. And for a while I did when I was in
-new high school or whatever it was, but just not like looking around
-and oh would do the magic of DNA or whatever. You know, because I'm
-not a philosopher, but there's just so many benefits that I've
-experienced by being willing to say thank you to the higher power for
-that which I experience in the world. And it's, it's making my life
-better. I'm really, really enjoying this, like, creating a
-relationship with my higher power. And it doesn't have to be a
-specific brand of Jesus or Mohammed or Buddha or whoever. In my case,
-right now it's Daddy. And I'm just like, Thank you, Daddy. Thank you,
-Daddy. Thank you, Daddy. So much benefit and beauty beauty in the
-world around me. I'm so so grateful for that. So yeah. Let me pause
-this. I'm going to get it over into my actual journal, and then have
-another call with let's check in 10 minutes. Okay, thanks a lot and
-see you well. Oops, see you later. Be well, bye
+accountability with my with my buddy Leszek.
+
+It's just amazing that I can say these words and they're being
+transcribed into into text and so just having that gratitude I've
+heard recently that the this this came from who Trevor Noah was
+talking about the the comedy of, of Corona. He's like, talking about
+the the peoples in Africa are not having bad effects from
+Corona. They're like what that finished ages ago. And it's like yeah,
+because there's so many blessings that are available in the natural
+world. So I can be like, you know, oh, wow, this computer is so
+great. Or I can focus on Oh, well, I have to worry about Corona. You
+know? And so I posit it does not matter where one is in the
+world. There's always blessings to be found. And yeah, just have to
+look and be aware somehow, and the stories of people who who survived,
+you know, all different tragedies and stuff are the ones that just
+kept their mind. Positive somehow. I do think it's a choice and I'm
+probably going to wrap this up because I'm rambling here but uh, all
+of this pointing to gratitude to the creator the you know, you can
+decide that there's no God. And for a while I did when I was in new
+high school or whatever it was, but just not like looking around and
+oh would do the magic of DNA or whatever. You know, because I'm not a
+philosopher, but there's just so many benefits that I've experienced
+by being willing to say thank you to the higher power for that which I
+experience in the world. And it's, it's making my life better. I'm
+really, really enjoying this, like, creating a relationship with my
+higher power. And it doesn't have to be a specific brand of Jesus or
+Mohammed or Buddha or whoever. In my case, right now it's Daddy. And
+I'm just like, Thank you, Daddy. Thank you, Daddy. Thank you,
+Daddy. So much benefit and beauty beauty in the world around me. I'm
+so so grateful for that. So yeah. Let me pause this. I'm going to get
+it over into my actual journal, and then have another call with Leszek
+in 10 minutes. Okay, thanks a lot and see you well. Oops, see you
+later. Be well, bye
