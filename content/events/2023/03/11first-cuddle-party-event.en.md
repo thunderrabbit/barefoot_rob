@@ -14,12 +14,16 @@ aliases: [
 draft: false
 ---
 
+Cuddle parties are opportunities for people to experience consensual and
+non-sexual touch in a supportive and respectful environment.
+
+These events can provide benefits such as reduced stress and anxiety,
+improved mood, deeper connections with others, and a greater sense of
+well-being. They also provide an opportunity to practice communication,
+consent, and boundary setting in a supportive and respectful environment.
+
+As I near completion of my Cuddle Party facilitation training,
 I'm excited to announce my first Cuddle Party event!
-
-I understand that not everyone is familiar with this concept;
-Cuddle Parties are communication workshops with an option to explore physical touch.
-
-We will create a space together to connect through consensual, non-sexual touch.
 
 All attendees must be willing to respect boundaries,
 follow the [Rules of Cuddle Party](https://cuddleparty.com/cuddle-party-rules/),
