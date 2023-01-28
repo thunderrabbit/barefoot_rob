@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2023-01-02T09:20:50+09:00
 EventLocation: "Shibuya, probably"
 EventTime: "TBD"
-TimeDescription: "early afternoon"
+TimeDescription: "early afternoon for 3 hours"
 EventDate: "2023-03-11T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
@@ -58,7 +58,7 @@ any questions, please reach out to me and I'll be happy to help.
 
 #### When
 
-Saturday 11 March 2023, early afternoon
+Saturday 11 March 2023, early afternoon, for 3 hours
 
 #### Where
 
