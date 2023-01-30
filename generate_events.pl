@@ -137,7 +137,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   print("So this entry is for Day $ordinal_day_number\n");
   my $prefix = "Day $ordinal_day_number - "; # "Day 18 - "
   print("Spelled as $prefix\n");
-  $title = rpl::Functions::get_title($prefix);
+  $title = rpl::Functions::get_title("");   # send $prefix if you want "Day nn - " as title prefix
   $chapter_contents = rpl::Functions::book_content_for_date($event_date_time);
 } elsif(rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   print("No need to get title because we are copying event\n");
@@ -148,7 +148,7 @@ if($what_kinda_event eq "bold_life_tribe") {
 print("what_kinda_event: " . $what_kinda_event . "\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
 if($what_kinda_event eq "book_chapter") {
-  $taghash{"day-$ordinal_day_number"} = 1;              # Add Day Number to tags
+  #  $taghash{"day-$ordinal_day_number"} = 1;              # Add Day Number to tags
 }
 $taghash{$event_date_time->year} = 1;              # Add year to tags
 $taghash{lc($event_date_time->month_name)} = 1;    # Add lowercase month to tags

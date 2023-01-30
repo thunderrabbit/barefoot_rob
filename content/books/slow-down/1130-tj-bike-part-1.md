@@ -1,11 +1,11 @@
 ---
-title: "Day 15 - TJ Bike, Part 1"
+title: "TJ Bike, Part 1"
 tags: [ "2023", "book", "day-15", "january", "walk" ]
 author: Rob Nugen
 date: 2023-01-30T19:51:06+09:00
 EventDate: "2023-01-30T12:00:00+09:00"
 aliases: [
-    "/en/books/slow-down/1130-day-15-tj-bike-part-1",
+    "/en/books/slow-down/1130-tj-bike-part-1",
 ]
 draft: false
 ---
