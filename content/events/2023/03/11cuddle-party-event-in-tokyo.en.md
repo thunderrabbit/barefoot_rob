@@ -1,5 +1,5 @@
 ---
-title: "First Cuddle Party event"
+title: "Cuddle Party event in Tokyo"
 tags: [ "2023", "Barefoot Rob", "cuddle-party", "shibuya", "裸足のロブ" ]
 author: Rob Nugen
 date: 2023-01-02T09:20:50+09:00
@@ -10,6 +10,7 @@ EventDate: "2023-03-11T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
     "/en/events/2023/03/11first-cuddle-party-event",
+    "/en/events/2023/03/11cuddle-party-event-in-tokyo",
 ]
 draft: false
 ---
