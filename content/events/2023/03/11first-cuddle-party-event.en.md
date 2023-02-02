@@ -27,7 +27,7 @@ improved mood, deeper connections with others, and a greater sense of
 well-being. They also provide an opportunity to practice communication,
 consent, and boundary setting in a supportive and respectful environment.
 
-The event will begin with a presentation of
+We will begin with a presentation of
 the [Rules of Cuddle Party](https://cuddleparty.com/cuddle-party-rules/),
 including conversation games to foster ease of communication.
 
