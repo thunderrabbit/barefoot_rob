@@ -3,9 +3,9 @@ title: "Cuddle Party event in Tokyo"
 tags: [ "2023", "Barefoot Rob", "cuddle-party", "shibuya", "裸足のロブ" ]
 author: Rob Nugen
 date: 2023-01-02T09:20:50+09:00
-EventLocation: "Shibuya, probably"
-EventTime: "TBD"
-TimeDescription: "early afternoon for 3 hours"
+EventLocation: "Shibuya"
+EventTime: "12:30pm"
+TimeDescription: "gather at 12:30; event starts promptly at 13:00"
 EventDate: "2023-03-11T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
@@ -48,7 +48,7 @@ Saturday 11 March 2023, early afternoon, for 3 hours
 
 #### Where
 
-In Tokyo 23 wards, details upon registration
+Shibuya, details upon registration
 
 #### Donation
 
