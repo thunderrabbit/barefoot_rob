@@ -14,7 +14,7 @@ unsafe= true
   mastadon = "@mograph.social/@robnugen"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
-	description = "World's Greatest Grounding Coach"
+	description = "I walk barefoot"
 	hideShareOptions = true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
@@ -25,10 +25,10 @@ unsafe= true
     title = "Barefoot Rob"
     weight = 1
     LanguageName = "English"
-    description = "World's Greatest Grounding Coach"
+    description = "I walk barefoot"
 
   [languages.ja]
     title = "裸足のロブ"
     weight = 2
     LanguageName = "日本語"
-    description = "World's Greatest Grounding Coach"
+    description = "I walk barefoot"
