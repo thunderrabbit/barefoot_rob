@@ -21,7 +21,7 @@ I'm excited to announce my first Cuddle Party event!
 Cuddle parties are opportunities for people to experience consensual and
 non-sexual touch in a supportive and respectful environment.
 
-![cuddle event](//b.robnugen.com/blog/2023/cuddle_event_1024_527.jpg)
+![cuddle event](//b.robnugen.com/events/2023/cuddling_joy.png)
 
 Benefits include reduced stress and anxiety,
 improved mood, deeper connections with others, and a greater sense of
@@ -35,6 +35,8 @@ including conversation games to foster ease of communication.
 Physical touch plays an important role in self-care.
 Let's create a space to explore
 the benefits of touch in a supportive and respectful environment.
+
+[![cuddling chipmunks](//b.robnugen.com/events/2023/thumbs/cuddling_chipmunks.png)](//b.robnugen.com/events/2023/cuddling_chipmunks.png)
 
 If you're interested in attending, please apply at
 https://forms.gle/5tR3TxTG7U5TiD87A
@@ -57,3 +59,5 @@ Shibuya, details upon registration
 #### Apply to attend:
 
 https://forms.gle/5tR3TxTG7U5TiD87A
+
+![cuddling rawforbeauty.com](//b.robnugen.com/events/2023/cuddling_rawforbeauty.com.png)
