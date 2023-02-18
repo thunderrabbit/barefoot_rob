@@ -21,7 +21,6 @@ I'm excited to announce my first Cuddle Party event!
 Cuddle parties are opportunities for people to experience consensual and
 non-sexual touch in a supportive and respectful environment.
 
-![cuddle event](//b.robnugen.com/blog/2023/cuddle_event_1024_527.jpg)
 
 Benefits include reduced stress and anxiety,
 improved mood, deeper connections with others, and a greater sense of
