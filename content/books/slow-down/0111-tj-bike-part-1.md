@@ -19,12 +19,21 @@ bicycle TJ bike from Tokyo to Kyoto and back to Tokyo.
 When a little something according to my memory went a little something
 like this.
 
-TJ Bike is the bike I like; we don't cause trouble when we hike. TJ
-bike, TJ bike, TJ bike, TJ bike. TJ bike is the bike I like; we don't
-cause trouble when we hike. TJ bike TJ by TJ bike, TJ Bike.  See a
-river. we go through it. We see a mountain go do it, see a highway we
-go to it and just use it. TJ Bike TJ Bike. And so that was basically
-it on repeat in my brain.
+    TJ Bike is the bike I like;
+    we don't cause trouble when we hike.
+    TJ bike, TJ bike, TJ bike, TJ bike.
+
+    TJ bike is the bike I like;
+    we don't cause trouble when we hike.
+    TJ bike TJ by TJ bike, TJ Bike.
+
+    See a river. we go through it.
+    We see a mountain go do it,
+    see a highway we go to it and just use it.
+
+    TJ Bike TJ Bike. etc
+
+And so that was basically it, on repeat in my brain.
 
 For hours and kilometers and miles of this ride. I made up this little
 rap for my bicycle it was like my my version of Dory singing Just keep
@@ -175,9 +184,7 @@ And yeah, here's another one says seven April 2006. So maybe Yeah,
 going the other direction or something. Anyway, it's like little
 Discovery Zone of notes in this map that I've put together.
 
-And
-
-to the point, I was looking for permission.
+And to the point, I was looking for permission.
 
 When I've realized suddenly, I was blocking myself it was up to me to
 give myself permission and just go and just do it. So I jumped on the
