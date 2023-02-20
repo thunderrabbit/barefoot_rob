@@ -54,3 +54,15 @@ reality, then wrote this.
 (*) While dreaming I often "realize" I can fly or do other things that
 would not be possible in physical reality... but don't usually realize
 I'm dreaming.
+
+From Gene's book _Beyond Dreaming_:
+
+    The primary purpose of this book is for others
+    to learn how to awaken consciousness
+
+
+
+From my Book, _SLOW DOWN_
+
+    One of the ways to wake up is to pay attention to little
+    details.
