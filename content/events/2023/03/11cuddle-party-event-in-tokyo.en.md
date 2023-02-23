@@ -45,11 +45,15 @@ communicate their boundaries clearly.
 
 The practice of consensual touch can be beneficial in reducing stress,
 increasing oxytocin levels, and promoting feelings of safety and
-trust. Cuddle Party offers a way to explore intimacy and connection in
-a safe and consensual way. It is also seen as a way to combat
-loneliness and social isolation, and to promote a sense of community
-and belonging. People of all ages and backgrounds are welcome to
-attend Cuddle Party events, and no previous experience is necessary.
+trust.
+
+Cuddle Party offers a way to explore intimacy and connection in a safe
+and consensual way. It is also seen as a way to combat loneliness and
+social isolation, and to promote a sense of community and
+belonging.
+
+Adults of all ages and backgrounds are welcome to attend Cuddle Party
+events, and no previous experience is necessary.
 
 I’m nearly finished with my facilitator certification to lead Cuddle Party events.
 
