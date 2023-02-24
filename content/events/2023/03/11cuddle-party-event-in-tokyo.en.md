@@ -38,10 +38,12 @@ the men’s group moved online.
 Three years later, instead of starting a new men’s group in person,
 I’m starting a new group and new format for men and women.
 
-[Cuddle Party](https://cuddleparty.com) is an event where people come
-together to engage in non-sexual touch and connection. It is a space
-where consent is emphasized and participants are encouraged to
-communicate their boundaries clearly.
+[Cuddle Party](https://cuddleparty.com)
+is an organization in the US, facilitating events where people come
+together to engage in non-sexual touch and connection.
+
+Cuddle Party events emphasize consent and participants are encouraged
+to communicate their boundaries clearly.
 
 The practice of consensual touch can be beneficial in reducing stress,
 increasing oxytocin levels, and promoting feelings of safety and
@@ -49,8 +51,7 @@ trust.
 
 Cuddle Party offers a way to explore intimacy and connection in a safe
 and consensual way. It is also seen as a way to combat loneliness and
-social isolation, and to promote a sense of community and
-belonging.
+social isolation, and to promote a sense of community and belonging.
 
 Adults of all ages and backgrounds are welcome to attend Cuddle Party
 events, and no previous experience is necessary.
