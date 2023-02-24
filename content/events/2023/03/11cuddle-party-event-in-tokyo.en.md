@@ -33,12 +33,13 @@ Fast forward many years: I had married Lin and built up a men’s group
 where I could get weekly hugs; suddenly a pandemic was announced and
 the men’s group moved online.
 
-Three years later, instead of starting a new men’s group in person,
-I’m starting a new group and new format for men and women.
+Three years later, instead of starting a new men’s group in person, I
+decided to focus on a format where I can offer more space for hugs so
+I enrolled in Cuddle Party's training program.
 
 [Cuddle Party](https://cuddleparty.com)
 is an organization in the US, facilitating events where people come
-together to engage in non-sexual touch and connection.
+together to connect in non-sexual touch and connection.
 
 Cuddle Party events emphasize consent and participants are encouraged
 to communicate their boundaries clearly.
@@ -54,7 +55,6 @@ social isolation, and to promote a sense of community and belonging.
 Adults of all ages and backgrounds are welcome to attend Cuddle Party
 events, and no previous experience is necessary.
 
-I’m nearly finished with my facilitator certification to lead Cuddle Party events.
 
 Cuddle Party?  say What???
 
