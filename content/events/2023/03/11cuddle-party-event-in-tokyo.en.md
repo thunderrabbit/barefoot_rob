@@ -18,12 +18,10 @@ draft: false
 In 2003, after being in Japan for 3 months,
 [I was crying for a hug](https://www.robnugen.com/journal/2003/06/20/hugs/).
 I felt incredibly isolated.  As far as I could tell, the only social
-life was drinking. I don’t really drink so drinking didn’t appeal to
-me.  Yet being in a new culture I didn’t (don’t?) understand and still
-want to respect, I didn’t hug anyone.
+life was drinking, which didn’t appeal to me.
 
-I slowly found my way to meet people who I could talk to; got a
-girlfriend and satisfied my need for physical touch through sex.
+Over time, I slowly found my way to meet people who I could talk to;
+got a girlfriend and satisfied my need for physical touch through sex.
 
 Can’t we get physical touch in Japan without sex?
 
