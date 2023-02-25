@@ -6,7 +6,7 @@ author: Rob Nugen
 draft: false
 date: 2023-02-25T11:15:09+09:00
 aliases: [
-    "/en/blog/2023/02/25are-you-getting-your-rda-of-vitamin-t",
+    "/en/blog/2023/02/25/are-you-getting-your-rda-of-vitamin-t/",
 ]
 ---
 
