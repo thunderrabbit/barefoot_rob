@@ -25,11 +25,7 @@ got a girlfriend and satisfied my need for physical touch through sex.
 
 Can’t we get physical touch in Japan without sex?
 
-I once saw a man grab a woman’s butt then try to run away.  I grabbed
-him and dragged him back, but then she jumped on the train, with
-better things to do.
-
-Fast forward many years: I had married Lin and built up a men’s group
+A decade ago, I married Lin and started to build up a men’s group
 where I could get weekly hugs; suddenly a pandemic was announced and
 the men’s group moved online.
 
