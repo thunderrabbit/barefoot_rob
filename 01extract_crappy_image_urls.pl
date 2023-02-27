@@ -89,3 +89,13 @@ foreach my $url (sort keys %urls) {
 }
 print $html "</body></html>\n";
 close($html);
+
+
+my $output_file = 'commands.sh';
+
+open(my $fh, '>', $output_file) or die "Can't open file $output_file: $!";
+print $fh "#!/bin/bash\n";
+foreach my $command (@rename_commands) {
+    print $fh "$command\n";
+}
+close($fh);
