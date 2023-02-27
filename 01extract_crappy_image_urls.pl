@@ -35,14 +35,14 @@ sub process_directory {
                     my $url = $1;
                     unless ($urls{$url}) {
                         $urls{$url} = 1;
-                        my $new_filename = prompt_for_description($url);
-                        $bail = !$new_filename;
-                        last if $bail;
-                        my $new_url = "$url_prefix/$new_filename";
-                        $line =~ s/$url/$new_url/g;
-                        $url =~ s/https:\/\//~\//; # replace "https://" with "~/"
-                        push @rename_commands, "mv \"$url\" \"~/$dest/$new_filename.jpg\"\n";
-                        $modified = 1;
+                        # my $new_filename = prompt_for_description($url);
+                        # $bail = !$new_filename;
+                        # last if $bail;
+                        # my $new_url = "$url_prefix/$new_filename";
+                        # $line =~ s/$url/$new_url/g;
+                        # $url =~ s/https:\/\//~\//; # replace "https://" with "~/"
+                        # push @rename_commands, "mv \"$url\" \"~/$dest/$new_filename.jpg\"\n";
+                        # $modified = 1;
                         push @image_list, $url;
                     }
                     last if $bail;
