@@ -6,6 +6,7 @@ use File::Copy qw(move);
 
 my $dir = '/home/thunderrabbit/barefoot_rob_master/content/books'; # replace with the directory you want to search
 my $url_prefix = 'https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17'; # replace with the URL prefix you want to match
+my $dest = "b.robnugen.com/quests/2021";
 
 my %urls; # create a hash to store unique URLs
 my @rename_commands; # create an array to store rename commands
@@ -15,9 +16,11 @@ process_directory($dir);
 
 sub process_directory {
     my $dir = shift;
+    my $bail = 0;
     opendir(my $dh, $dir) || die "Can't open directory $dir: $!";
     while (my $file = readdir($dh)) {
         next if ($file =~ m/^\./); # skip hidden files and directories
+        last if $bail;
         my $path = "$dir/$file";
         if (-d $path) {
             process_directory($path); # recursively process subdirectories
@@ -27,18 +30,22 @@ sub process_directory {
             my $modified = 0; # flag to indicate whether the file has been modified
             open(my $fh, '<', $path) || die "Can't open file $path: $!";
             while (my $line = <$fh>) {
+                last if $bail;
                 while ($line =~ m/"($url_prefix\S*\.jpg)"/g) {
                     my $url = $1;
                     unless ($urls{$url}) {
                         $urls{$url} = 1;
                         my $new_filename = prompt_for_description($url);
+                        $bail = !$new_filename;
+                        last if $bail;
                         my $new_url = "$url_prefix/$new_filename";
                         $line =~ s/$url/$new_url/g;
-                        push @rename_commands, "mv \"$url\" \"~/$new_filename\"\n";
-                        move_file($url, $new_filename);
+                        $url =~ s/https:\/\//~\//; # replace "https://" with "~/"
+                        push @rename_commands, "mv \"$url\" \"~/$dest/$new_filename.jpg\"\n";
                         $modified = 1;
-                        push @image_list, $new_url;
+                        push @image_list, $url;
                     }
+                    last if $bail;
                 }
                 $content .= $line;
             }
@@ -65,13 +72,6 @@ sub prompt {
     my $input = <STDIN>;
     chomp $input;
     return $input;
-}
-
-sub move_file {
-    my ($old_filename, $new_filename) = @_;
-    $old_filename =~ s/https:\/\//~\//; # replace "https://" with "~/"
-    $new_filename =~ s/https:\/\//~\//; # replace "https://" with "~/"
-    move($old_filename, $new_filename) || die "Can't move file $old_filename to $new_filename: $!";
 }
 
 sub write_file {
