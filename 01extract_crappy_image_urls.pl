@@ -11,12 +11,14 @@ my $dest = "b.robnugen.com/quests/2021";
 my %urls; # create a hash to store unique URLs
 my @rename_commands; # create an array to store rename commands
 my @image_list; # create an array to store unique URLs for HTML output
-
+my $process_images = (-f "image_list.html");   # if we
+my $create_image_list = !$process_images;
 process_directory($dir);
 
 sub process_directory {
     my $dir = shift;
     my $bail = 0;
+    my $sanity = 0;
     opendir(my $dh, $dir) || die "Can't open directory $dir: $!";
     while (my $file = readdir($dh)) {
         next if ($file =~ m/^\./); # skip hidden files and directories
@@ -35,15 +37,22 @@ sub process_directory {
                     my $url = $1;
                     unless ($urls{$url}) {
                         $urls{$url} = 1;
-                        # my $new_filename = prompt_for_description($url);
-                        # $bail = !$new_filename;
-                        # last if $bail;
-                        # my $new_url = "$url_prefix/$new_filename";
-                        # $line =~ s/$url/$new_url/g;
-                        # $url =~ s/https:\/\//~\//; # replace "https://" with "~/"
-                        # push @rename_commands, "mv \"$url\" \"~/$dest/$new_filename.jpg\"\n";
-                        # $modified = 1;
-                        push @image_list, $url;
+                        if($process_images)
+                        {
+                          my $new_filename = prompt_for_description($url);
+                          $bail = !$new_filename;
+                          last if $bail;
+                          my $new_url = "$url_prefix/$new_filename";
+                          $line =~ s/$url/$new_url/g;
+                          $url =~ s/https:\/\//~\//; # replace "https://" with "~/"
+                          push @rename_commands, "mv \"$url\" \"~/$dest/$new_filename.jpg\"\n";
+                          $modified = 1;
+                        } else {
+                          $sanity++;
+                          print $sanity . "\n";
+                          $bail = $sanity >= 10;
+                          push @image_list, $url;
+                        }
                     }
                     last if $bail;
                 }
@@ -81,21 +90,21 @@ sub write_file {
     close($fh);
 }
 
-# output unique URLs as an HTML file
-open(my $html, '>', 'image_list.html') || die "Can't create HTML file: $!";
-print $html "<html><body>\n";
-foreach my $url (sort keys %urls) {
-    print $html "<img src=\"$url\"><br>\n";
+if($create_image_list)
+{
+  # output unique URLs as an HTML file
+  open(my $html, '>', 'image_list.html') || die "Can't create HTML file: $!";
+  print $html "<html><body>\n";
+  foreach my $url (sort keys %urls) {
+      print $html "<img src=\"$url\"><br>\n";
+  }
+  print $html "</body></html>\n";
+  close($html);
+} else {
+  open(my $fh, '>', 'commands.sh') or die "Can't open file 'commands.sh': $!";
+  print $fh "#!/bin/bash\n";
+  foreach my $command (@rename_commands) {
+      print $fh "$command\n";
+  }
+  close($fh);
 }
-print $html "</body></html>\n";
-close($html);
-
-
-my $output_file = 'commands.sh';
-
-open(my $fh, '>', $output_file) or die "Can't open file $output_file: $!";
-print $fh "#!/bin/bash\n";
-foreach my $command (@rename_commands) {
-    print $fh "$command\n";
-}
-close($fh);
