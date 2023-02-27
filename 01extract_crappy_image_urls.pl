@@ -8,6 +8,8 @@ my $dir = '/home/thunderrabbit/barefoot_rob_master/content/books'; # replace wit
 my $url_prefix = 'https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17'; # replace with the URL prefix you want to match
 
 my %urls; # create a hash to store unique URLs
+my @rename_commands; # create an array to store rename commands
+my @image_list; # create an array to store unique URLs for HTML output
 
 process_directory($dir);
 
@@ -32,8 +34,10 @@ sub process_directory {
                         my $new_filename = prompt_for_description($url);
                         my $new_url = "$url_prefix/$new_filename";
                         $line =~ s/$url/$new_url/g;
+                        push @rename_commands, "mv \"$url\" \"~/$new_filename\"\n";
                         move_file($url, $new_filename);
                         $modified = 1;
+                        push @image_list, $new_url;
                     }
                 }
                 $content .= $line;
@@ -65,6 +69,8 @@ sub prompt {
 
 sub move_file {
     my ($old_filename, $new_filename) = @_;
+    $old_filename =~ s/https:\/\//~\//; # replace "https://" with "~/"
+    $new_filename =~ s/https:\/\//~\//; # replace "https://" with "~/"
     move($old_filename, $new_filename) || die "Can't move file $old_filename to $new_filename: $!";
 }
 
