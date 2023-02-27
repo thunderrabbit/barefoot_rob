@@ -19,26 +19,27 @@ Looking at the whole map, I realized it was so close to being a coast
 to coast walk.  Just add a single day of 20km and bingo Coast to
 Coast.
 
-Wow and the park is called Rinko Park
+Wow and there's a park called Rinko Park right where I want to start!
 
-So we spent
-Day number one walking from Yokohama to my house. Our house woke up
+So Lin and I spent
+Day number one walking from Yokohama to our house. I woke up
 early, then took the train to Rinko Park in Yokohama. I left before
-Lin and she drove later.
+Lin and she arrived later.
 
 
 
 I
 left my bicycle at home which meant I needed to roll the bag to the
-train station, so that I would not have to go back by the train
+train station, so that I would not have to go back via the train
 station.
 While rolling the bag, I could hear something gently brushing the
-ground.  By the time I got to the station, concrete had worn a hole in
-my rain cover and waterproof jacket.  Not so waterproof anymore.
+ground.  By the time I got to the station, concrete had worn a hole through
+Lin's rain cover and my waterproof jacket.  Not so waterproof anymore.
 
 Basically the concrete sanded holes into her bag and my raincoat.
 
-The walk from Yokohama to home is 21 kilometers, and would actually be basically 5% of my walk across the island.
+The walk from Yokohama to home is 21 kilometers,
+which makes it basically 5% of my walk across the island.
 
 Lin joined.  She knew the way by heart!!  So grateful
 
@@ -54,12 +55,12 @@ side of things,
 Yuumi gave me gifts: chocolate and crackers. She had also done a
 similarly long hike, and had a guess as to what would support me.
 
-and lots of hugs and then basically started walking. The beautiful
-thing is that my wife had driven the route, many, many times, and knew
+So grateful for lots of hugs and then basically started walking. The beautiful
+thing is that Lin has driven the route, many, many times, and knew
 exactly how to get home from there. On this day, I didn't have to use
-my phone as a map, and could just see if it has a camera, which I did
+my phone as a map, and could just use it as a camera, which I did
 on the way from Yokohama to our house. One of the first pictures, was
-that François sitting next to a cool statue. And my friend. Shraddhan
+that François sitting next to a cool statue. Shraddhan
 helped take some photos there as well. I was glad that Shraddhan and
 Lin got along well,
 and happily surprised Shraddhan joined for quite a bit.  So glad they
