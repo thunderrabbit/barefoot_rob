@@ -22,8 +22,8 @@ sub process_directory {
         elsif (-f $path) {
             open(my $fh, '<', $path) || die "Can't open file $path: $!";
             while (my $line = <$fh>) {
-                while ($line =~ m/"($url_prefix\S*)"/g) {
-                    $urls{$1} = 1; # add unique URLs to the hash
+                while ($line =~ m/"($url_prefix\S*\.jpg)"/g) {
+                    $urls{$1} = 1; # add unique URLs that end with .jpg to the hash
                 }
             }
             close($fh);
@@ -32,6 +32,11 @@ sub process_directory {
     closedir($dh);
 }
 
+# output unique URLs as an HTML file
+open(my $html, '>', 'image_list.html') || die "Can't create HTML file: $!";
+print $html "<html><body>\n";
 foreach my $url (sort keys %urls) {
-    print "$url\n"; # print unique URLs
+    print $html "<img src=\"$url\"><br>\n";
 }
+print $html "</body></html>\n";
+close($html);
