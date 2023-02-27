@@ -4,7 +4,9 @@ use strict;
 use warnings;
 
 my $dir = '/home/thunderrabbit/barefoot_rob_master/content/books'; # replace with the directory you want to search
-my $url_prefix = 'https://b.robnugen.com/adaptive-images'; # replace with the URL prefix you want to match
+my $url_prefix = 'https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17'; # replace with the URL prefix you want to match
+
+my %urls; # create a hash to store unique URLs
 
 process_directory($dir);
 
@@ -21,11 +23,15 @@ sub process_directory {
             open(my $fh, '<', $path) || die "Can't open file $path: $!";
             while (my $line = <$fh>) {
                 while ($line =~ m/"($url_prefix\S*)"/g) {
-                    print "$1\n";
+                    $urls{$1} = 1; # add unique URLs to the hash
                 }
             }
             close($fh);
         }
     }
     closedir($dh);
+}
+
+foreach my $url (sort keys %urls) {
+    print "$url\n"; # print unique URLs
 }
