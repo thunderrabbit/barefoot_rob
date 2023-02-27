@@ -1,11 +1,12 @@
 ---
-title: "0330 Ordered List of Locations"
+title: "1400 Ordered List of Locations"
 tags: [ "niigata", "quest", "plot", "route", "maps", "walking", "barefoot", "plan" ]
 categories: [ "quests" ]
 author: Rob Nugen
 draft: false
 aliases: [
      "/en/books/slow-down/0330-ordered-list-of-locations/",
+     "/en/books/slow-down/1400-ordered-list-of-locations/",
  ]
 date: 2022-01-15T11:05:45+09:00
 ---
