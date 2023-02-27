@@ -2,6 +2,7 @@
 
 use strict;
 use warnings;
+use File::Copy qw(move);
 
 my $dir = '/home/thunderrabbit/barefoot_rob_master/content/books'; # replace with the directory you want to search
 my $url_prefix = 'https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17'; # replace with the URL prefix you want to match
@@ -20,16 +21,58 @@ sub process_directory {
             process_directory($path); # recursively process subdirectories
         }
         elsif (-f $path) {
+            my $content = ''; # store the modified content of the file
+            my $modified = 0; # flag to indicate whether the file has been modified
             open(my $fh, '<', $path) || die "Can't open file $path: $!";
             while (my $line = <$fh>) {
                 while ($line =~ m/"($url_prefix\S*\.jpg)"/g) {
-                    $urls{$1} = 1; # add unique URLs that end with .jpg to the hash
+                    my $url = $1;
+                    unless ($urls{$url}) {
+                        $urls{$url} = 1;
+                        my $new_filename = prompt_for_description($url);
+                        my $new_url = "$url_prefix/$new_filename";
+                        $line =~ s/$url/$new_url/g;
+                        move_file($url, $new_filename);
+                        $modified = 1;
+                    }
                 }
+                $content .= $line;
             }
             close($fh);
+            if ($modified) {
+                write_file($path, $content);
+            }
         }
     }
     closedir($dh);
+}
+
+sub prompt_for_description {
+    my $url = shift;
+    my ($filename) = $url =~ m/\/([^\/]+)$/; # extract the filename from the URL
+    my $new_filename = prompt("Enter description for $filename: ");
+    $new_filename =~ s/[^a-zA-Z0-9_.-]/_/g; # replace invalid characters with underscores
+    return $new_filename;
+}
+
+sub prompt {
+    my $prompt = shift;
+    print $prompt;
+    my $input = <STDIN>;
+    chomp $input;
+    return $input;
+}
+
+sub move_file {
+    my ($old_filename, $new_filename) = @_;
+    move($old_filename, $new_filename) || die "Can't move file $old_filename to $new_filename: $!";
+}
+
+sub write_file {
+    my ($filename, $content) = @_;
+    open(my $fh, '>', $filename) || die "Can't write file $filename: $!";
+    print $fh $content;
+    close($fh);
 }
 
 # output unique URLs as an HTML file
