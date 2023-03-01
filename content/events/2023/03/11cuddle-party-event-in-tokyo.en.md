@@ -37,6 +37,12 @@ I enrolled in Cuddle Party's training program.
 is an organization in the US, facilitating events where people come
 together to connect in non-sexual touch and connection.
 
+![cuddle event](//b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg)
+
+<div class="note">Image credit:
+<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
+</div>
+
 Cuddle Party events emphasize consent and participants are encouraged
 to communicate their boundaries clearly.
 
@@ -44,13 +50,18 @@ The practice of consensual touch can be beneficial in reducing stress,
 increasing oxytocin levels, and promoting feelings of safety and
 trust.
 
+[![cuddle party hands](//b.robnugen.com/blog/2023/thumbs/cuddle_party_hands.jpg)](//b.robnugen.com/blog/2023/cuddle_party_hands.jpg)
+
+<div class="note">Image credit:
+<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
+</div>
+
 Cuddle Party offers a way to explore intimacy and connection in a safe
 and consensual way. It is also seen as a way to combat loneliness and
 social isolation, and to promote a sense of community and belonging.
 
 Adults of all ages and backgrounds are welcome to attend Cuddle Party
 events, and no previous experience is necessary.
-
 
 Cuddle Party?  say What???
 
@@ -74,7 +85,11 @@ From the Cuddle Party website:
     By the end of the Welcome Circle, most participants find
     themselves surprised by how comfortable they feel.
 
-I'm excited to announce my first Cuddle Party event!
+[![cuddle party spooning](//b.robnugen.com/blog/2023/thumbs/cuddle_party_spooning.jpg)](//b.robnugen.com/blog/2023/cuddle_party_spooning.jpg)
+
+<div class="note">Image credit:
+<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
+</div>
 
 #### When
 
@@ -92,5 +107,14 @@ Shibuya-ish area, details upon registration
 
 If you're interested in attending, DM me.
 
-If we've never met, please register at
+If this will be the first time for us to meet, please register at
 https://forms.gle/5tR3TxTG7U5TiD87A
+
+<img
+src="https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg"
+alt="cuddle party circle"
+class="title" />
+
+<div class="note">Image credit:
+<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
+</div>
