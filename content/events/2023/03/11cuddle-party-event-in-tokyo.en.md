@@ -37,7 +37,10 @@ I enrolled in Cuddle Party's training program.
 is an organization in the US, facilitating events where people come
 together to connect in non-sexual touch and connection.
 
-![cuddle event](//b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg)
+<img
+src="https://b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg"
+alt="cuddle party seated circle"
+class="title" />
 
 <div class="note">Image credit:
 <a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
