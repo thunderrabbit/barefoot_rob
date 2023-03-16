@@ -1,49 +1,48 @@
 ---
 title: "Barefoot Walking to welcome Spring in Rinshi-no-Mori Park"
-tags: [ "2022", "Barefoot Rob", "barefoot", "event", "march", "meguro", "rinshi-no-mori", "sakura", "spring", "walk", "はだし", "林試の森公園", "桜", "裸足のロブ" ]
+tags: [ "2023", "Barefoot Rob", "barefoot", "event", "march", "setagaya", "kinuta", "sakura", "spring", "walk", "はだし", "砧公園", "桜", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-02-28T10:07:47+09:00
-EventLocation: "Rinshi-no-Mori Park, Meguro"
-EventTime: "12:00"
-TimeDescription: "gather at 11:30; meet in Rinshi-no-Mori Park at 12:00"
-EventDate: "2022-03-26T12:00:00+09:00"
+date: 2023-03-14T10:07:47+09:00
+EventLocation: "Yōga Station"
+EventTime: "13:00"
+TimeDescription: "gather at 13:00; walk from Yōga Station at 13:15"
+EventDate: "2023-03-25T13:00:00+09:00"
 aliases: [
-    "/en/events/2022/03/26barefoot-walking-to-welcome-spring-in-rinshi-no-mori-park",
+    "/en/events/2023/03/25barefoot-walking-hanami-spring-2023-kinuta-park",
 ]
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins.jpg" "2022 feb 26 rinshi no mori park where the sidewalk begins" %}}
 
+Enjoy hanami in Kinuta Park!
+
 Refresh your spirit. Touch the earth. Connect with nature.
 
 Barefoot Walking Experience:
 
-Barefoot walking, breathing, enjoying fresh air.
+Cherry blossom viewing, barefoot walking, breathing, enjoying fresh air.
 
 #### First Meeting Point
 
-Saturday 26 March 2022, 11:30
+Saturday 25 March 2023, 13:00
 
-Musashi-Koyama Station [next to Family Mart](https://goo.gl/maps/y3UrUcLu5heqNc8VA)
+Circular stairs near Yōga Station (North Exit, B1)
 
-#### Second Meeting Point
+<img
+src="https://b.robnugen.com/blog/2023/walk_and_talk/meet_here_at_yoga_station.jpg"
+alt="meet here at yoga station"
+class="title" />
 
-Saturday 26 March 2022, 12:00
-
-Circular space in [Rinshi-no-Mori Park](https://goo.gl/maps/RT2w4S4BvaHFreHM8)
+Yōga Station(https://goo.gl/maps/9Aispkras314sCAg7) (at bottom of circular stairs)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
 #### Details
 
-{{< youtube 2NantJmW4Ug >}}
-
 *Enjoy Nature*
 
-Rinshi-no-Mori Park features
-forested grounds and open spaces,
-plus a stream and
-playground/picnic areas.
+Kinuta Park features
+...
 
 *Enjoy Connection*
 
@@ -55,12 +54,13 @@ What to Expect:
 * I will talk about how to safely walk barefoot.
 * We will feel asphalt, grass, and myriad other surfaces.
 * Let's enjoy discovering the park together!
+* Hanami!
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
 **Donation:**
 
-500 yen
+2000 yen
 
 **What to bring**
 
@@ -69,9 +69,3 @@ shoes and maybe a bag to carry them just in case you need to put them on
 during the walk!
 
 Self care is important, so wear shoes whenever you need to!
-
-**Covid Considerations**
-
-You know the drill.  I know you have thought about it and I trust you
-to make a good decision for yourself.  If you want a group with masks,
-I recommend https://www.meetup.com/tokyospontaneous
