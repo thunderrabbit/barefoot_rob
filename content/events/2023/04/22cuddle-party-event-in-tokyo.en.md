@@ -10,6 +10,7 @@ EventDate: "2023-04-22T12:30:00+09:00"
 aliases: [
     "/en/events/2023/04/22cuddle-party-event-in-tokyo",
 ]
+draft: true
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg" "cuddle party seated circle" %}}
