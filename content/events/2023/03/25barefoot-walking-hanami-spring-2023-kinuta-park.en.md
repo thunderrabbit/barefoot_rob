@@ -1,5 +1,5 @@
 ---
-title: "Barefoot Walking to welcome Spring in Rinshi-no-Mori Park"
+title: "Barefoot Walking to welcome Spring in Kinuta Park"
 tags: [ "2023", "Barefoot Rob", "barefoot", "event", "march", "setagaya", "kinuta", "sakura", "spring", "walk", "はだし", "砧公園", "桜", "裸足のロブ" ]
 author: Rob Nugen
 date: 2023-03-14T10:07:47+09:00
@@ -8,7 +8,7 @@ EventTime: "13:00"
 TimeDescription: "gather at 13:00; walk from Yōga Station at 13:15"
 EventDate: "2023-03-25T13:00:00+09:00"
 aliases: [
-    "/en/events/2023/03/25barefoot-walking-hanami-spring-2023-kinuta-park",
+    "/en/events/2023/03/25barefoot-walking-hanami-spring-2023-kinuta-park/",
 ]
 ---
 
