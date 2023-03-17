@@ -24,7 +24,7 @@ Barefoot Walking Experience:
 
 Cherry blossom viewing, barefoot walking, breathing, enjoying fresh air.
 
-#### First Meeting Point
+#### Meeting Point
 
 Saturday 25 March 2023, 13:00
 
