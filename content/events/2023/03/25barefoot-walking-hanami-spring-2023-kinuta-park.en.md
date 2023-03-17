@@ -3,7 +3,7 @@ title: "Barefoot Walking to welcome Spring in Rinshi-no-Mori Park"
 tags: [ "2023", "Barefoot Rob", "barefoot", "event", "march", "setagaya", "kinuta", "sakura", "spring", "walk", "はだし", "砧公園", "桜", "裸足のロブ" ]
 author: Rob Nugen
 date: 2023-03-14T10:07:47+09:00
-EventLocation: "Yōga Station"
+EventLocation: "Yōga Station then walk to Kinuta Park"
 EventTime: "13:00"
 TimeDescription: "gather at 13:00; walk from Yōga Station at 13:15"
 EventDate: "2023-03-25T13:00:00+09:00"
@@ -12,7 +12,9 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins.jpg" "2022 feb 26 rinshi no mori park where the sidewalk begins" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2023/hanami_kinuta_ozmall.jpg" "hanami kinuta photo by ozmall" %}}
+
+<div class="note">Photo credit: <a href="https://www.ozmall.co.jp/sakura/data/17510/">https://www.ozmall.co.jp/sakura/data/17510/</a></div>
 
 Enjoy hanami in Kinuta Park!
 
@@ -41,8 +43,10 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 *Enjoy Nature*
 
-Kinuta Park features
-...
+Kinuta Park is famous for its cherry blossom (sakura) viewing.
+It has at least three varieties:
+Someiyoshino, Yamazakura, and Yaezakura.
+This makes for a relatively long hanami viewing season of over two weeks.
 
 *Enjoy Connection*
 
@@ -54,7 +58,7 @@ What to Expect:
 * I will talk about how to safely walk barefoot.
 * We will feel asphalt, grass, and myriad other surfaces.
 * Let's enjoy discovering the park together!
-* Hanami!
+* Time for hanami lunch (bring your lunch; I'll bring tarps)
 
 To receive the latest updates, [join our LINE group](/contact/)!
 
@@ -64,8 +68,6 @@ To receive the latest updates, [join our LINE group](/contact/)!
 
 **What to bring**
 
-Whatever you need to take care of yourself.  Come wearing lightweight
-shoes and maybe a bag to carry them just in case you need to put them on
-during the walk!
+Lunch and drink for yourself
 
-Self care is important, so wear shoes whenever you need to!
+Anything else you need to take care of yourself.
