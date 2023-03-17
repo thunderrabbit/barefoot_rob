@@ -1,5 +1,5 @@
 ---
-title: "Barefoot Walking and Hamami in Kinuta Park"
+title: "Barefoot Walking and Hanami in Kinuta Park"
 tags: [ "2023", "Barefoot Rob", "barefoot", "event", "march", "setagaya", "kinuta", "sakura", "spring", "walk", "はだし", "砧公園", "桜", "裸足のロブ" ]
 author: Rob Nugen
 date: 2023-03-14T10:07:47+09:00
