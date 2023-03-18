@@ -222,7 +222,7 @@ our %event_locations = (
     "izumi_tamagawa_new_moon" => "Izumi Tamagawa for new moon 新月",
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
-    "sun_lily" => "Sun Lily Yoga Studio",
+    "sun_lily" => "SunLily Yoga Studio",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
 );
@@ -230,7 +230,7 @@ our %event_locations = (
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
 # not used because https://github.com/thunderrabbit/barefoot_rob/issues/4
 my %walk_and_talk_tags = ("walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1);
-my %cuddle_party_tags = ("communication" => 1, "cuddle-party" => 1, "workshop" => 1);
+my %cuddle_party_tags = ("communication" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1, "cuddle-party" => 1, "workshop" => 1);
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
