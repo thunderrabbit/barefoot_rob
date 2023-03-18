@@ -17,6 +17,9 @@
                     {{ if ne .Params.EventDate nil }}
                         {{ dateFormat "Jan 02 Mon" .Params.EventDate }}
                     {{ end }}
+                    {{ if ne .Params.EventType nil }}
+                        <b>[{{ .Params.EventType }}]</b>
+                    {{ end }}
                     @
                     {{ if ne .Params.EventTime nil }}
                         {{ .Params.EventTime }}
