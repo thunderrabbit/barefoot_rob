@@ -176,6 +176,13 @@ if($need_image_url) {
   ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
 }
 
+my $suggested_ticket_link;
+if($original_what_kinda_event eq "cuddle_party") {
+  # get ticket link
+  my $template = "https://cuddle-party-tokyo-%s-%d.peatix.com/";
+  $suggested_ticket_link = sprintf($template, lc($event_date_time->month_name), $event_date_time->year);
+}
+
 # Create alt-text for (title) image
 my $episode_image_alt = basename($episode_image);
 $episode_image_alt =~ s/_+/ /g;     ## remove underscores
@@ -236,6 +243,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/episode_image/$episode_image/;
   $mt3_episode_output =~ s/episode_image_alt/$episode_image_alt/;
   $mt3_episode_output =~ s/IMAGE_CREDIT/$image_credit/g;
+  $mt3_episode_output =~ s/TICKET_LINK/$suggested_ticket_link/g;
   # do the rest algorithmically
   foreach my $key (keys %{ $new_entry }) {
     my $value = $new_entry->{$key};
