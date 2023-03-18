@@ -432,26 +432,26 @@ sub choose_from_list_of(@) {
     $selected_type = "3";    ###  hardcode while testing
     print "Enter the number of the type you want to select, or its exact name: ($selected_type) ";
     my $raw_input = std_in_logger();
-    
-    # clean up the input a little  
+
+    # clean up the input a little
     chomp($raw_input);
     $raw_input = lc($raw_input);
     $raw_input =~ s/[^[:alnum:]_]+//g;
-       
+
     if ($raw_input =~ /^\d+$/) {
       # input is all digits.  assume it's an index
-      
+
       $raw_input =~ s/\D+//g;     ## TODO: how to specify this ain't raw anymore?
       $selected_type = length($raw_input) ? $raw_input : $selected_type;
       $event_type = $event_types[$selected_type-1];
-        
+
     } else {
       # input was an event type string
-       
-      # change this regex to make it match, for example, substrings 
+
+      # change this regex to make it match, for example, substrings
       my @matches = grep { $_ =~ /^\Q$raw_input\E$/ } @event_types;
       my $num_matches = scalar(@matches);
-        
+
       if (1 == $num_matches) {
         $event_type = $matches[0];
       } else {
