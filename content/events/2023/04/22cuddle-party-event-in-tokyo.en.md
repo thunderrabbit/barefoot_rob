@@ -1,12 +1,12 @@
 ---
 title: "Cuddle Party event in Tokyo"
-tags: [ "2023", "Barefoot Rob", "april", "communication", "event", "裸足のロブ" ]
+tags: [ "2023", "Barefoot Rob", "april", "communication", "cuddle-party", "ikejiri-ohashi", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
 date: 2023-03-17T08:49:54+09:00
-EventLocation: "SunLily Yoga studio"
-EventTime: "12:30"
-TimeDescription: "gather at 12:30 at SunLily"
-EventDate: "2023-04-22T12:30:00+09:00"
+EventLocation: "SunLily Yoga Studio"
+EventTime: "13:00"
+TimeDescription: "gather at 12:30 at SunLily Yoga Studio"
+EventDate: "2023-04-22T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
     "/en/events/2023/04/22cuddle-party-event-in-tokyo",
@@ -55,10 +55,10 @@ https://cuddle-party-tokyo-april-2023.peatix.com/
 
 We do two main things at Cuddle Parties:
 
-    Practice consent.
-    A key part of Cuddle Parties is learning how to communicate your desires and how to respect others' requests.
-    Consensual platonic touch.
-    Optionally experience and appreciate caring touch from other like-minded people.
+1. Practice consent.<br>
+  A key part of Cuddle Parties is learning how to communicate your desires and how to respect others' requests.
+2. Consensual platonic touch.<br>
+  Optionally experience and appreciate caring touch from other like-minded people.
 
 We’ll start with an opening circle to get us settled.
 We’ll then go through the rules of Cuddle Party
@@ -97,7 +97,7 @@ Please do NOT wear heavy scents or perfumes, as people may be sensitive to them.
 
 Saturday April 22nd, from 12:30pm until as late at 17:45(*).
 
-Please arrive between 12:30 and 12:50pm. If you arrive after 1:00pm, you will not be admitted.
+Please arrive between 12:30 and 12:50pm. If you arrive after 13:00, you will not be admitted.
 
 (*) We will finish by 17:45. You may leave earlier if you like.
 
