@@ -99,7 +99,7 @@ Please do NOT wear heavy scents or perfumes, as people may be sensitive to them.
 
 Saturday 22 April 2023, 12:30 until as late as 17:45(*)
 
-Please arrive between 12:30 and 12:50pm. If you arrive after 13:00, you will not be admitted.
+Please arrive between 12:30 and 12:50. If you arrive after 13:00, you will not be admitted.
 
 (*) We will finish by 17:45. You may leave earlier if you like.
 
