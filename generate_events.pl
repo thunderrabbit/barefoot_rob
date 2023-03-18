@@ -148,7 +148,7 @@ if($what_kinda_event eq "bold_life_tribe") {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
-print("what_kinda_event: " . $what_kinda_event . "\n");
+print("If this fails, add Constants::event_tag_hashes{$what_kinda_event}\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
 if($what_kinda_event eq "book_chapter") {
   #  $taghash{"day-$ordinal_day_number"} = 1;              # Add Day Number to tags

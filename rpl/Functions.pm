@@ -458,8 +458,8 @@ sub choose_from_list_of(@) {
 
         # change this to whatever desired behavior you like, eg loop to top and try again.
         die(
-          "error: matched $num_matches event types: <"
-          . (join ", ", @matches) 
+          "error: Fix event_locations matched $num_matches event types: <"
+          . (join ", ", @matches)
           . ">"
         );
       }
