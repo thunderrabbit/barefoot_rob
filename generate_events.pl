@@ -96,6 +96,7 @@ my $bold_life_tribe_publish_date = $event_date_time->clone->subtract( days => 8 
 my $first_gathering_time;
 
 #  $walk_trip_started only used for book_chapter to help calculate Titles
+print("This date is only related to walks; you can ignore it: 2021-04-16 12:00");
 my $walk_trip_started = rpl::Functions::parse_user_date("2021-04-16 12:00");  # Without ->ymd "T11:45:00" appends to the date
 my $ordinal_day_number;   # Used for book_chapter title and tags
 
