@@ -7,6 +7,7 @@ EventLocation: "SunLily Yoga studio"
 EventTime: "12:30"
 TimeDescription: "gather at 12:30 at SunLily"
 EventDate: "2023-04-22T12:30:00+09:00"
+EventType: "Cuddle Party"
 aliases: [
     "/en/events/2023/04/22cuddle-party-event-in-tokyo",
 ]
