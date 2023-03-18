@@ -226,7 +226,7 @@ sub get_title($)
 }
 
 sub get_date(@) {
-  my ($dt_now, $desired_day_of_week, $desired_event_time, $get_time) = @_;
+  my ($dt_now, $desired_day_of_week, $desired_event_time, $get_time_bool) = @_;
   my $confirmed = 0;
   my $user_dt;   # will be returned once we confirm its value
   while (!$confirmed) {
@@ -234,7 +234,7 @@ sub get_date(@) {
     show_dates($dt_now, $desired_day_of_week);
     my $user_date = input_date($dt_now);
     my $user_time;
-    if($get_time) {
+    if($get_time_bool) {
       $user_time = input_time("primary time of event", 0, $desired_event_time);  ## send 0 instead of timestamp, then string for gathering time eg "13:00"
     } else {
       $user_time = $desired_event_time;
