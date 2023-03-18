@@ -17,6 +17,13 @@ our $events_directory = "/events";    #  appended to $content_directory when wri
 our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
 our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directory when writing actual file.
 
+our %cuddle_party_files = (
+    "SunLily" => [
+      "$templates/cuddle_party/sun_lily/sun_lily.en.md",
+      "$templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
+    ],
+);
+
 our %walk_location_files = (
     "yoyogi_park" => [
       "$templates/walk_and_talk/yoyogi_park/yoyogi_park.en.md",
@@ -149,6 +156,7 @@ our %event_template_files = (
       "$templates/event_walking_meditation_template.md",
     ],
     "barefoot_walk" => "walk_location_files",
+    "cuddle_party" => "cuddle_party_files",
     "yo_i_wanna_copy" => "previous_generators",
     "quest_update" => [
       "$templates/niigata_2021_walking_update.md",

@@ -36,6 +36,9 @@ do {
   if($event_type_selector eq "walk_location_files") {
     print "\n$event_type_selector? We must walk deeper!\n";
     %select_from_hash = %rpl::Constants::walk_location_files;
+  } elsif($event_type_selector eq "cuddle_party_files") {
+    print "\n$event_type_selector? Cuddle where?\n";
+    %select_from_hash = %rpl::Constants::cuddle_party_files;
   } elsif($event_type_selector eq "previous_generators") {
     print "\n$event_type_selector? Which do you wanna copy?\n";
     # Get a hash of keys and file paths of generators created in the past month:
