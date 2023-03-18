@@ -64,9 +64,9 @@ Self care is important, so wear shoes whenever you need to!
 ==== 第一集合場所 ====
 　
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
-
+　
 新百合ヶ丘駅のKFC、MUFG、ディーンアンドデルーカの間
-https://goo.gl/maps/aoY2j7WxkNjSC2u　98
+https://goo.gl/maps/aoY2j7WxkNjSC2u98
 https://w3w.co/locator.juggler.nail
 　
 ==== 第ニ集合場所は新ゆりアートパークスになります ====
