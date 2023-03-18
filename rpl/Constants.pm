@@ -18,7 +18,7 @@ our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_di
 our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directory when writing actual file.
 
 our %cuddle_party_files = (
-    "SunLily" => [
+    "sun_lily" => [
       "$templates/cuddle_party/sun_lily/sun_lily.en.md",
       "$templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
     ],
