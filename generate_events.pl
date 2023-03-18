@@ -119,6 +119,7 @@ if($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file
 }
 my $first_departure_time = $first_gathering_time->clone->add( minutes => 15 )->strftime("%H:%M");      # Only used for Shin Yuri Art Park, with two meeting points
 my $izumi_departure_time = $first_gathering_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Izumi Tamagawa (five minutes walk to BLUE)
+my $arrive_by_time = $event_date_time->clone->subtract( minutes => 10 )->strftime("%H:%M");
 print "event date time: $event_date_time\n";
 print "first gathering time: $first_gathering_time\n";
 print "first departure time: $first_departure_time\n";
@@ -235,6 +236,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_H/$event_h/g;
   $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
   $mt3_episode_output =~ s/EVENT_TIME_PLUS_10/$event_time_plus_ten/g;
+  $mt3_episode_output =~ s/ARRIVE_BY_TIME/$arrive_by_time/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
   $mt3_episode_output =~ s/15_B4_RENTAL_ENDS/$event_finished_by_time/g;
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;

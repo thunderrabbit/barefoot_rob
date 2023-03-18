@@ -99,7 +99,7 @@ Please do NOT wear heavy scents or perfumes, as people may be sensitive to them.
 
 HUMANDATE, FIRST_GATHERING_TIME until as late as 15_B4_RENTAL_ENDS(*)
 
-Please arrive between FIRST_GATHERING_TIME and 12:50pm. If you arrive after EVENT_TIME, you will not be admitted.
+Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME. If you arrive after EVENT_TIME, you will not be admitted.
 
 (*) We will finish by 15_B4_RENTAL_ENDS. You may leave earlier if you like.
 
