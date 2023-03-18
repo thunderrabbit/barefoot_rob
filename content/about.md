@@ -9,31 +9,45 @@ aliases: [
 
 <img
 src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
-alt="Barefoot Rob - World's Greatest Grounding Coach"
+alt="Barefoot Rob Nugen"
 class="half" />
 
 Find Joy in your life by getting out of
 your head and into your body.
 
-Rob conducts workshops and meetings giving people skills to connect with each other and with their personal life mission.
+Rob conducts workshops and meetings giving people
+skills to connect with each other and with their personal life mission.
 
-Rob has been running a men’s peer counseling group in Tokyo since 2015. Rob has been conducting spiritual workshops in both Tokyo and Kanagawa.
+Rob has been running a men’s peer counseling group
+in Tokyo since 2015. Rob has been conducting
+spiritual workshops in both Tokyo and Kanagawa.
 
-As an 18-year resident in Kanagawa, Rob is fully aware of both the joys and pitfalls of life in Japan. In the middle of work, relationships, and other commitments, it is easy to feel cut off, isolated, and eager to find something more meaningful.
+As a long-term resident in Kanagawa, Rob is fully
+aware of both the joys and pitfalls of life in Japan.
+In the middle of work, relationships, and other commitments,
+it is easy to feel cut off, isolated,
+and eager to find something more meaningful.
 
 My experience in counseling and facilitation work includes:
 
-* 10+ years attending and 4+ years leading a weekly peer counseling circle for men
+* Leading Cuddle Party events
+* 12+ years attending and 6+ years leading a weekly peer counseling circle for men
 * 1+ year’s experience suicide hotline volunteer
-* 18+ years barefoot walking in Houston Texas and Tokyo Japan
+* 20+ years barefoot walking in Houston Texas and Tokyo Japan
 * Shamanic healing training
 * ShadowWork basic training
 
 **Your trusted guide**
 
-Doing inner emotional work, you should have a competent and trusted guide. Leading my Peer counseling circles has given me vast experience in navigating this territory.  Do you need someone to hear you?  I can be that person.  Need someone to represent the energy of your father, your mother, your boss, your brother, sister, or your employee?  I can be that person. I can ask you the questions that will help you see the way forward.
+Doing inner emotional work,
+you should have a competent and trusted guide.
+Leading my Peer counseling circles has given me
+vast experience in navigating this territory.
 
-My workshops will let you explore what blocks you from offering the best of yourself to the world. We will work through the emotions and allow your inner guidance to shine through.  
+My workshops let you explore what blocks you
+from offering the best of yourself to the world.
+Work through the emotions and allow your
+inner guidance to shine through.
 
 ## Contact
 
@@ -116,4 +130,4 @@ for you to discover your own wisdom.
 
 [Contact](/contact)
 
-[Sign up for a session](//www.calendly.com/robnugen/30min)
+[Exploratoration session on Zoom](//www.calendly.com/robnugen/30min)

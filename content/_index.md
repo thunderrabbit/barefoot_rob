@@ -1,4 +1,4 @@
-# World's Greatest Grounding Coach
+# Barefoot Rob Nugen
 
 {{< youtube LJzb5n9ldP8 >}}
 
