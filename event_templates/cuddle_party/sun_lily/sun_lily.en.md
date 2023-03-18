@@ -55,9 +55,9 @@ TICKET_LINK
 
 We do two main things at Cuddle Parties:
 
-1. Practice consent.
+1. Practice consent.<br>
   A key part of Cuddle Parties is learning how to communicate your desires and how to respect others' requests.
-2. Consensual platonic touch.
+2. Consensual platonic touch.<br>
   Optionally experience and appreciate caring touch from other like-minded people.
 
 We’ll start with an opening circle to get us settled.
@@ -89,7 +89,9 @@ class="title" />
 
 #### What to bring
 
-Comfortable pajamas, a personal water bottle, blankets, pillows, or other soft items to enhance your experience are optional.
+Comfortable clothes/pajamas (more drawstrings, less lace)
+
+Blankets, pillows, or other soft items to enhance your experience are optional.
 
 Please do NOT wear heavy scents or perfumes, as people may be sensitive to them. Please shower and lightly deodorize if desired, but skip the scented products.
 

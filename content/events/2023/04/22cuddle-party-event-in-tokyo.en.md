@@ -89,7 +89,9 @@ class="title" />
 
 #### What to bring
 
-Comfortable pajamas, a personal water bottle, blankets, pillows, or other soft items to enhance your experience are optional.
+Comfortable clothes/pajamas (more drawstrings, less lace)
+
+Blankets, pillows, or other soft items to enhance your experience are optional.
 
 Please do NOT wear heavy scents or perfumes, as people may be sensitive to them. Please shower and lightly deodorize if desired, but skip the scented products.
 
