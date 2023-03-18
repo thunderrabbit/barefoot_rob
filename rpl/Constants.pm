@@ -20,7 +20,7 @@ our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directo
 our %cuddle_party_files = (
     "sun_lily" => [
       "$templates/cuddle_party/sun_lily/sun_lily.en.md",
-      # "$templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
+      "$templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
     ],
 );
 
