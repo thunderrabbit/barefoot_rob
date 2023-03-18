@@ -23,11 +23,12 @@ rpl::Functions::logthis("STARTING_ANEW\n");
 ##  This do loop allows %event_template_files to contain a reference to another hash so we can get more detailed templates
 ##  At this point we can go down to the location level, and poop out multiple templates per event (e.g. multi-language / different platforms (my site / FB / Meetup / Instagram))
 
-my $original_what_kinda_event = "";     ## later restore what_kinda_event after we go into sub-hashes for walking events so we can get tags and location later down this script
+my $original_what_kinda_event;     ## later restore what_kinda_event after we go into sub-hashes for walking events so we can get tags and location later down this script
 
 do {
 
   $what_kinda_event = rpl::Functions::choose_from_list_of("Event Types", sort keys %select_from_hash);  # First parameter is for human to know what types of things are in the list
+  $original_what_kinda_event //= $what_kinda_event;   # defined-or operator via chatGPT
 
   $event_type_selector = $select_from_hash{$what_kinda_event};
 
@@ -86,9 +87,13 @@ my $get_time_bool = ($thing_to_do ne "copy generator");  # only need time if not
 my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time, $get_time_bool);   # default is now
 my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event} || 15;
 #-- begin figure out cleanup time
-my $room_finished_time = rpl::Functions::get_time("when we must leave room by",$event_date_time->clone->add( hours => 5 ));
-my $preferred_cleanup_duration = 15;
-my $event_will_finish_dt = $room_finished_time->clone->subtract( minutes => $preferred_cleanup_duration );
+print("This is when I fixed the event end time for Cuddle Party events: 2023-03-18 16:22");
+my $event_will_finish_dt = rpl::Functions::parse_user_date("2023-03-18 16:22");  # Without ->ymd "T11:45:00" appends to the date
+if($original_what_kinda_event eq "cuddle_party") {
+  my $room_finished_time = rpl::Functions::get_time("when we must leave room by",$event_date_time->clone->add( hours => 5 ));
+  my $preferred_cleanup_duration = 15;
+  $event_will_finish_dt = $room_finished_time->clone->subtract( minutes => $preferred_cleanup_duration );
+}
 #-- end figure out cleanup time
 
 my $guessed_gathering_time;
