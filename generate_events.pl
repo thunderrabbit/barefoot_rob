@@ -85,8 +85,12 @@ my $preferred_event_time = $rpl::Constants::event_primary_time{$what_kinda_event
 my $get_time_bool = ($thing_to_do ne "copy generator");  # only need time if not creating a generator
 my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time, $get_time_bool);   # default is now
 my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event} || 15;
+#-- begin figure out cleanup time
 my $room_finished_time = rpl::Functions::get_time("when we must leave room by",$event_date_time->clone->add( hours => 5 ));
 my $preferred_cleanup_duration = 15;
+my $event_will_finish_dt = $room_finished_time->clone->subtract( minutes => $preferred_cleanup_duration );
+#-- end figure out cleanup time
+
 my $guessed_gathering_time;
 print("if this fails, know the value of what_kinda_event is " . $what_kinda_event . "\n");
 unless($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
@@ -201,6 +205,7 @@ foreach my $extension (keys %event_templates) {
   my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $event_time_plus_ten = $event_date_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Manpukuji Hiyama (ten minutes walk from 新百合ヶ丘駅)
+  my $event_finished_by_time = $event_will_finish_dt->strftime("%H:%M");
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   my $event_location = $rpl::Constants::event_locations{$what_kinda_event};
   $mt3_episode_output =~ s/TOPIC_LINE/$topic/;
@@ -219,6 +224,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
   $mt3_episode_output =~ s/EVENT_TIME_PLUS_10/$event_time_plus_ten/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
+  $mt3_episode_output =~ s/15_B4_RENTAL_ENDS/$event_finished_by_time/g;
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
   $mt3_episode_output =~ s/IZUMI_DEPARTURE_TIME/$izumi_departure_time/g;
