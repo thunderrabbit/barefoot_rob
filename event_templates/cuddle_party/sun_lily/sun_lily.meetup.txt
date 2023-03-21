@@ -17,10 +17,6 @@ While sensual or sexual activity is prohibited at Cuddle Parties, some light tou
 　
 At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
 　
-=== RSVP on Peatix ===
-　
-TICKET_LINK
-　
 === What do we do at a Cuddle Party? ===
 　
 We do two main things at Cuddle Parties:
@@ -68,9 +64,7 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME. If you arrive aft
 　
 #### Cost
 　
-5000 yen for one person or 7500 for two people.
-　
-[Buy tickets on Peatix](TICKET_LINK)
+5000 yen for one person or 7500 for two people (via Peatix: TICKET_LINK)
 　
 #### Fine print
 　
