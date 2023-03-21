@@ -109,7 +109,8 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME. If you arrive aft
 
 #### Cost
 
-5000 yen for one person or 7500 for two people.
+* 5000 yen for 1 person
+* 7500 yen for 2 people
 
 [Buy tickets on Peatix](TICKET_LINK)
 
