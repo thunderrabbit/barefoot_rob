@@ -2,9 +2,9 @@ title:       %s
 
 Physical event
 
-Starts: HUMANDATE   FIRST_GATHERING_TIME
+Starts: HUMANDATE FIRST_GATHERING_TIME
 
-Ends: HUMANDATE  15_B4_RENTAL_ENDS
+Ends: HUMANDATE 15_B4_RENTAL_ENDS
 
 Venue: Yoga.Sunlily
 
@@ -18,7 +18,7 @@ One attendee    ¥ 5000　　　8
 + Paid Ticket
 
 Ticket Type     Price      Quantity
-Two attendees    ¥ 7500　　 5
+Two attendees   ¥ 7500　　 5
 
 Stop all ticket sales (day before)
 
@@ -27,20 +27,22 @@ Next: Details
 
 episode_image
 
-=== What is a Cuddle Party? ===
+(drag image to place it nicely)
 
-https://b.robnugen.com/blog/2023/cuddle_party_hands.jpg
-https://b.robnugen.com/blog/2023/cuddle_party_spooning.jpg
+# What is a Cuddle Party?
 
 A Cuddle Party is a non-sexual social event where participants practice communication and optionally explore platonic touch. Attendees practice setting clear boundaries, communicating their desires, and respecting each others' limits in a safe space.
 
 Cuddle Parties provide an opportunity for nurturing, platonic touch and intimacy, which supports well-being and balanced emotions.
 
+https://b.robnugen.com/blog/2023/cuddle_party_hands.jpg
+https://b.robnugen.com/blog/2023/cuddle_party_spooning.jpg
+
 While sensual or sexual activity is prohibited at Cuddle Parties, some light touching like hugs, caresses, and snuggling is allowed between consenting attendees.
 
 At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
 
-=== What do we do at a Cuddle Party? ===
+# What do we do at a Cuddle Party?
 
 We do two main things at Cuddle Parties:
 
@@ -57,7 +59,7 @@ We'll finish with a closing circle to reflect on our experience.
 
 More info: https://cuddleparty.com/what-is-a-cuddle-party/
 
-=== Why? ===
+# Why?
 
 Clear communication allows more harmonious relationships, regardless of the context.
 
@@ -65,7 +67,7 @@ Nurturing and consensual touch supports a healthy life, strong nervous system, a
 
 https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg
 
-=== What to bring ===
+# What to bring
 
 Comfortable clothes/pajamas (more drawstrings, less lace)
 
@@ -73,7 +75,7 @@ Blankets, pillows, or other soft items to enhance your experience are optional.
 
 Please do NOT wear heavy scents or perfumes, as people may be sensitive to them. Please shower and lightly deodorize if desired, but skip the scented products.
 
-=== When ===
+# When
 
 HUMANDATE, FIRST_GATHERING_TIME until as late as 15_B4_RENTAL_ENDS(*)
 
@@ -81,16 +83,16 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME. If you arrive aft
 
 (*) We will finish by 15_B4_RENTAL_ENDS. You may leave earlier if you like.
 
-=== Where ===
+# Where
 
 SunLily Yoga Studio https://sunlily.work/, 5 minutes walk from Ikejiri-Ohashi Station (Denentoshi Line)
 
-=== Cost ===
+# Cost
 
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-=== Fine print ===
+# Fine print
 
 Must be 18+ to attend.
 This is a sober event - please do not attend under the influence.
@@ -102,47 +104,32 @@ CANCELLATION: Please let me know if you cannot come. Tickets are nonrefundable, 
 We will not require any special COVID-19 precautions for this event. Vaccines and masks are optional.
 Of course, if you're feeling ill, please stay home. Otherwise, welcome.
 
-=== About me, “Barefoot” Rob Nugen ===
+# About me, “Barefoot” Rob Nugen
 
 I have a passion for connecting with the world around me, especially walking barefoot. This helps me to stay grounded, and appreciate the beauty of the present moment. I’m leading Cuddle Party events to help welcome us back into connection after an isolating pandemic.
 
 I have been running a men’s peer counseling group in Tokyo since 2015, and conducting in-person workshops in both Tokyo and Kanagawa since 2018.
 
+TICKET_LINK
 
+Preview and Save
 
-----------------------------------------
-TOPICS  FEEL FREE TO CHANGE:
-* Wellness
-* Stress Management
-* Relaxation
-* Barefoot
-* Outdoors
+Create Form --> Cuddle Party Connection (ENABLE)
 
+Tag & Publish
 
-UNSELECT Make this an online event
+スキルアップ
 
-CLICK SunLily Yoga Studio
+Choose Topics
 
-CLICK Edit map pin
+スキルアップ
+コミュニケーション
+マインドセット
 
-SLIDE MAP under pin
+Save and Publish
 
+Preview
+Share
+Copy URL
 
-+++++++++++++++++++++++++++++++++++++++++++++++
-How to find us:
-Come to SunLily Yoga Studio (3F) by ARRIVE_BY_TIME
-+++++++++++++++++++++++++++++++++++++++++++++++
-
-
-
-Optional settings
-
-Allow guests:    1
-
-Event fee:  ON
-Direct from member
-JPY    5000
-
-Publish
-
-Notify
+search for it here
