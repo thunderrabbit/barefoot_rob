@@ -58,12 +58,13 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME. If you arrive aft
 　
 === Where ===
 　
-[SunLily Yoga Studio](https://sunlily.work/), 5 minutes walk from Ikejiri-Ohashi Station (Denentoshi Line)
+SunLily Yoga Studio https://sunlily.work/, 5 minutes walk from Ikejiri-Ohashi Station (Denentoshi Line)
 　
 === Cost ===
 　
-5000 yen for one person or 7500 for two people (via Peatix: TICKET_LINK)
-　
+* 5000 yen for 1 person
+* 7500 yen for 2 people (via Peatix: TICKET_LINK)
+ 　
 === Fine print ===
 　
 Must be 18+ to attend.
