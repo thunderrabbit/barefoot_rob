@@ -56,9 +56,12 @@ TICKET_LINK
 We do two main things at Cuddle Parties:
 
 1. Practice consent.<br>
-  A key part of Cuddle Parties is learning how to communicate your desires and how to respect others' requests.
+  A key part of Cuddle Parties is learning
+  how to communicate your desires and
+  how to respect others' requests.
 2. Consensual platonic touch.<br>
-  Optionally experience and appreciate caring touch from other like-minded people.
+  Optionally experience and appreciate
+  caring touch from other like-minded people.
 
 We’ll start with an opening circle to get us settled.
 We’ll then go through the rules of Cuddle Party
@@ -75,9 +78,11 @@ More info: https://cuddleparty.com/what-is-a-cuddle-party/
 
 #### Why?
 
-Clear communication allows more harmonious relationships, regardless of the context.
+Clear communication allows more harmonious relationships,
+regardless of the context.
 
-Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
+Nurturing and consensual touch supports a healthy life,
+strong nervous system, and balanced emotions.
 
 <img
 src="https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg"
@@ -91,15 +96,20 @@ class="title" />
 
 Comfortable clothes/pajamas (more drawstrings, less lace)
 
-Blankets, pillows, or other soft items to enhance your experience are optional.
+Blankets, pillows, or other soft items
+to enhance your experience are optional.
 
-Please do NOT wear heavy scents or perfumes, as people may be sensitive to them. Please shower and lightly deodorize if desired, but skip the scented products.
+Please do NOT wear heavy scents or perfumes,
+as people may be sensitive to them.
+Please shower and lightly deodorize if desired,
+but skip the scented products.
 
 #### When
 
 HUMANDATE, FIRST_GATHERING_TIME until as late as 15_B4_RENTAL_ENDS(*)
 
-Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME. If you arrive after EVENT_TIME, you will not be admitted.
+Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME.
+If you arrive after EVENT_TIME, you will not be admitted.
 
 (*) We will finish by 15_B4_RENTAL_ENDS. You may leave earlier if you like.
 
