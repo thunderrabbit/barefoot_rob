@@ -1,9 +1,29 @@
 title:       %s
-date HUMANDATE   FIRST_GATHERING_TIME
 
-Click duration --> set end time
+Physical event
 
-HUMANDATE  15_B4_RENTAL_ENDS
+Starts: HUMANDATE   FIRST_GATHERING_TIME
+
+Ends: HUMANDATE  15_B4_RENTAL_ENDS
+
+Venue: Yoga.Sunlily
+
+Next: Tickets
+
+Paid Ticket +
+
+Ticket Type     Price      Quantity
+One attendee    ¥ 5000　　　8
+
++ Paid Ticket
+
+Ticket Type     Price      Quantity
+Two attendees    ¥ 7500　　 5
+
+Stop all ticket sales (day before)
+
+
+Next: Details
 
 episode_image
 
