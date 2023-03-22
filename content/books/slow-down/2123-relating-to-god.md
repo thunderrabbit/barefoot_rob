@@ -58,6 +58,11 @@ When thinking of calling her, I looked up
 and saw Bondis Ocean Club cafe. And this cafe is near my
 station. But I had never seen it before.
 
+<img
+src="https://b.robnugen.com/blog/2023/2023_mar_21_bondis_oceanclub.jpg"
+alt="2023 mar 21 bondis oceanclub"
+class="title" />
+
 Now, granted, I didn't walk
 this particular route very often. I went a long way so I could have
 more privacy during another phone call. And yet, it's just an amazing,
