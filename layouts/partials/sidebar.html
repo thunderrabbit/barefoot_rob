@@ -49,9 +49,11 @@
                     </a>
                 </li>
                 {{ end }}
+                {{ if .Site.Params.mastodonName }}
                 <li class="nav-item">
-                  <a class="pure-button" rel="me" href="https://mograph.social/@robnugen">Mastodon</a>
+                  <a class="pure-button" rel="me" href="https://mograph.social/@{{ .Site.Params.mastodonName }}">Mastodon</a>
                 </li>
+                {{ end }}
                 {{ if .Site.Params.githubName }}
                 <li class="nav-item">
                     <a class="pure-button" rel="me" href="https://github.com/{{ .Site.Params.githubName }}">
