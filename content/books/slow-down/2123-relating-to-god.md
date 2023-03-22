@@ -139,12 +139,12 @@ to anthropomorphize God, saying God
 is like a person which I just started this whole chapter by saying
 God's not like a person but
 
-describing that spirit likes to be given gratitude.
-Say, Okay, fair enough. It's a good way
-to, to think about it as a human. How actually correct is that what
-does it mean? Is it like? Having gratitude vibrations around me,
+Imagining that spirit likes to be given gratitude is a good way
+to, to think about spirit as a human. How actually correct is that?
+What
+does it mean? Perhaps it's like, *having gratitude vibrations around me
 attracts people who are also in gratitude and therefore more willing
-to engage with me in a good way. That kind of makes sense, you know,
+to engage with me in a good way.* That kind of makes sense, you know,
 like, law of attraction kind of thing. And yet at the same time, I
 don't need to figure it out. I can simply be grateful that I know the
 secret so to speak.
