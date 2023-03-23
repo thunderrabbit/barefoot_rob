@@ -32,7 +32,7 @@ Cuddle Parties provide an opportunity for nurturing,
 platonic touch and intimacy, which supports well-being
 and balanced emotions.
 
-While sensual or sexual activity is prohibited at Cuddle Parties,
+While sexual activity is prohibited at Cuddle Parties,
 some light touching like hugs, caresses, and
 snuggling is allowed between consenting attendees.
 
