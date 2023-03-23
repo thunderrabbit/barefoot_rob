@@ -63,18 +63,31 @@ We do two main things at Cuddle Parties:
   Optionally experience and appreciate
   caring touch from other like-minded people.
 
-We’ll start with an opening circle to get us settled.
+We’ll start with an Welcome Circle to get us settled.
 We’ll then go through the rules of Cuddle Party
 in a mini communication workshop, allowing participants
 to practice inner awareness and clear expression of boundaries.
 
-After the communication workshop, there will be time to practice
-these new skills and optionally explore physical touch and
-boundaries in a safe, non-sexual way.
+After the communication workshop,
+we'll have 2 or more hours of Self-Directed Connection
+
+    Now it is time for you to ask for what you want, say yes and no to
+    requests and invitations, cuddle according to your desires and comfort
+    (or just talk if you prefer), connect with fascinating people,
+    "cuddle mingle," and, ultimately, relax into the flow of an unusually
+    playful and respectful social environment.
+
+    Some participants cuddle in groups, others one-on-one,
+    while some like to talk and not cuddle for a time, or not at all.
+    Cuddling can mean feet against feet, full-body hugs, head-rubs,
+    spooning — it is, indeed, up to you.
+    And, configurations and positions shift significantly
+    throughout the event, thanks in part to Rule 6 Change your mind &
+    keep yourself happy.
+
+    from: https://cuddleparty.com/what-is-a-cuddle-party/
 
 We'll finish with a closing circle to reflect on our experience.
-
-More info: https://cuddleparty.com/what-is-a-cuddle-party/
 
 #### Why?
 
@@ -99,6 +112,9 @@ Comfortable clothes/pajamas (more drawstrings, less lace)
 Blankets, pillows, or other soft items
 to enhance your experience are optional.
 
+We will have bottled water, tea, and breath-friendly snacks.
+Feel free to bring your own if you prefer.
+
 Please do NOT wear heavy scents or perfumes,
 as people may be sensitive to them.
 Please shower and lightly deodorize if desired,
@@ -106,12 +122,22 @@ but skip the scented products.
 
 #### When
 
-HUMANDATE, FIRST_GATHERING_TIME until as late as 15_B4_RENTAL_ENDS(*)
+HUMANDATE
 
-Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME.
-If you arrive after EVENT_TIME, you will not be admitted.
+Doors will open at FIRST_GATHERING_TIME.
 
-(*) We will finish by 15_B4_RENTAL_ENDS. You may leave earlier if you like.
+Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME
+so we can be settled and start our Welcome Circle at EVENT_TIME.
+
+To maintain the integrity of the container,
+no one will be admitted after we start the Welcome Circle.
+Allowing late arrivals could disrupt the flow of
+introductions and discussions about boundaries and
+consent that help establish the supportive environment of the cuddle party.
+
+The Welcome Circle will last about an hour.
+After that, our Self-Directed Connection will need to finish by 15_B4_RENTAL_ENDS.
+You may leave earlier if you like.
 
 #### Where
 

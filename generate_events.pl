@@ -177,11 +177,13 @@ if($need_image_url) {
   ($episode_image,$episode_thumb) = rpl::Functions::get_episode_image($title, @episode_images, @episode_thumbs);
 }
 
-my $suggested_ticket_link;
+my ($peatix_prefix, $suggested_ticket_link);
 if($original_what_kinda_event eq "cuddle_party") {
   # get ticket link
-  my $template = "https://cuddle-party-tokyo-%s-%d.peatix.com/";
-  $suggested_ticket_link = sprintf($template, lc($event_date_time->month_name), $event_date_time->year);
+  my $template = "cuddle-party-tokyo-%s-%d";
+  $peatix_prefix = sprintf($template, lc($event_date_time->month_name), $event_date_time->year);
+  $suggested_ticket_link = "https://" . $peatix_prefix . ".peatix.com/";
+
 }
 
 # Create alt-text for (title) image
@@ -218,6 +220,7 @@ foreach my $extension (keys %event_templates) {
   my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $event_time_plus_ten = $event_date_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Manpukuji Hiyama (ten minutes walk from 新百合ヶ丘駅)
+  my $event_time_plus_150 = $event_date_time->clone->add( minutes => 150 )->strftime("%H:%M");      # Used for Cuddle Party end time
   my $event_finished_by_time = $event_will_finish_dt->strftime("%H:%M");
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
   my $event_location = $rpl::Constants::event_locations{$what_kinda_event};
@@ -236,6 +239,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_H/$event_h/g;
   $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
   $mt3_episode_output =~ s/EVENT_TIME_PLUS_10/$event_time_plus_ten/g;
+  $mt3_episode_output =~ s/THREE_HOURS_AFTER_DOORS_OPEN/$event_time_plus_150/g;
   $mt3_episode_output =~ s/ARRIVE_BY_TIME/$arrive_by_time/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
   $mt3_episode_output =~ s/15_B4_RENTAL_ENDS/$event_finished_by_time/g;
@@ -245,6 +249,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/episode_image/$episode_image/;
   $mt3_episode_output =~ s/episode_image_alt/$episode_image_alt/;
   $mt3_episode_output =~ s/IMAGE_CREDIT/$image_credit/g;
+  $mt3_episode_output =~ s/TICKET_LINK_PREFIX/$peatix_prefix/g;
   $mt3_episode_output =~ s/TICKET_LINK/$suggested_ticket_link/g;
   # do the rest algorithmically
   foreach my $key (keys %{ $new_entry }) {
