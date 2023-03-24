@@ -2,7 +2,7 @@
 title: "Cuddle Party event in Tokyo"
 tags: [ "2023", "Barefoot Rob", "april", "communication", "cuddle-party", "ikejiri-ohashi", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-03-17T08:49:54+09:00
+date: 2023-03-24T18:57:42+09:00
 EventLocation: "SunLily Yoga Studio"
 EventTime: "13:00"
 TimeDescription: "gather at 12:30 at SunLily Yoga Studio"
@@ -56,28 +56,46 @@ https://cuddle-party-tokyo-april-2023.peatix.com/
 We do two main things at Cuddle Parties:
 
 1. Practice consent.<br>
-  A key part of Cuddle Parties is learning how to communicate your desires and how to respect others' requests.
+  A key part of Cuddle Parties is learning
+  how to communicate your desires and
+  how to respect others' requests.
 2. Consensual platonic touch.<br>
-  Optionally experience and appreciate caring touch from other like-minded people.
+  Optionally experience and appreciate
+  caring touch from other like-minded people.
 
-We’ll start with an opening circle to get us settled.
+We’ll start with an Welcome Circle to get us settled.
 We’ll then go through the rules of Cuddle Party
 in a mini communication workshop, allowing participants
 to practice inner awareness and clear expression of boundaries.
 
-After the communication workshop, there will be time to practice
-these new skills and optionally explore physical touch and
-boundaries in a safe, non-sexual way.
+After the communication workshop,
+we'll have 2 or more hours of Self-Directed Connection
+
+    Now it is time for you to ask for what you want, say yes and no to
+    requests and invitations, cuddle according to your desires and comfort
+    (or just talk if you prefer), connect with fascinating people,
+    "cuddle mingle," and, ultimately, relax into the flow of an unusually
+    playful and respectful social environment.
+
+    Some participants cuddle in groups, others one-on-one,
+    while some like to talk and not cuddle for a time, or not at all.
+    Cuddling can mean feet against feet, full-body hugs, head-rubs,
+    spooning — it is, indeed, up to you.
+    And, configurations and positions shift significantly
+    throughout the event, thanks in part to Rule 6 Change your mind &
+    keep yourself happy.
+
+    from: https://cuddleparty.com/what-is-a-cuddle-party/
 
 We'll finish with a closing circle to reflect on our experience.
 
-More info: https://cuddleparty.com/what-is-a-cuddle-party/
-
 #### Why?
 
-Clear communication allows more harmonious relationships, regardless of the context.
+Clear communication allows more harmonious relationships,
+regardless of the context.
 
-Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
+Nurturing and consensual touch supports a healthy life,
+strong nervous system, and balanced emotions.
 
 <img
 src="https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg"
@@ -91,17 +109,36 @@ class="title" />
 
 Comfortable clothes/pajamas (more drawstrings, less lace)
 
-Blankets, pillows, or other soft items to enhance your experience are optional.
+Blankets, pillows, or other soft items
+to enhance your experience are optional.
 
-Please do NOT wear heavy scents or perfumes, as people may be sensitive to them. Please shower and lightly deodorize if desired, but skip the scented products.
+We will have bottled water, tea, and breath-friendly snacks.
+Feel free to bring your own if you prefer.
+
+Please do NOT wear heavy scents or perfumes,
+as people may be sensitive to them.
+Please shower and lightly deodorize if desired,
+but skip the scented products.
 
 #### When
 
-Saturday 22 April 2023, 12:30 until as late as 17:45(*)
+Saturday 22 April 2023
 
-Please arrive between 12:30 and 12:50. If you arrive after 13:00, you will not be admitted.
+Doors will open at 12:30.
 
-(*) We will finish by 17:45. You may leave earlier if you like.
+Please arrive between 12:30 and 12:50
+so we can be settled and start our Welcome Circle at 13:00.
+
+To maintain the integrity of the container,
+no one will be admitted after we start the Welcome Circle.
+Allowing late arrivals could disrupt the flow of
+introductions and discussions about boundaries and
+consent that help establish the supportive environment of the cuddle party.
+
+The Welcome Circle will last around an hour,
+then you are welcome to stay for
+Self-Directed Connection, socializing, and snacks.
+The space will be available until 17:45.
 
 #### Where
 
@@ -109,7 +146,8 @@ Please arrive between 12:30 and 12:50. If you arrive after 13:00, you will not b
 
 #### Cost
 
-5000 yen for one person or 7500 for two people.
+* 5000 yen for 1 person
+* 7500 yen for 2 people
 
 [Buy tickets on Peatix](https://cuddle-party-tokyo-april-2023.peatix.com/)
 
