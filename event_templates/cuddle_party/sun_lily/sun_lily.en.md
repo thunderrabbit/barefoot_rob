@@ -135,9 +135,10 @@ Allowing late arrivals could disrupt the flow of
 introductions and discussions about boundaries and
 consent that help establish the supportive environment of the cuddle party.
 
-The Welcome Circle will last about an hour.
-After that, our Self-Directed Connection will need to finish by 15_B4_RENTAL_ENDS.
-You may leave earlier if you like.
+The Welcome Circle will last around an hour,
+then you are welcome to stay for
+Self-Directed Connection, socializing, and snacks.
+The space will be available until 15_B4_RENTAL_ENDS.
 
 #### Where
 

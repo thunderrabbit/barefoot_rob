@@ -2,7 +2,7 @@
 title: "Cuddle Party event in Tokyo"
 tags: [ "2023", "Barefoot Rob", "communication", "cuddle-party", "ikejiri-ohashi", "may", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-03-21T18:15:25+09:00
+date: 2023-03-24T18:54:33+09:00
 EventLocation: "SunLily Yoga Studio"
 EventTime: "19:00"
 TimeDescription: "gather at 18:30 at SunLily Yoga Studio"
@@ -135,9 +135,10 @@ Allowing late arrivals could disrupt the flow of
 introductions and discussions about boundaries and
 consent that help establish the supportive environment of the cuddle party.
 
-The Welcome Circle will last about an hour.
-After that, our Self-Directed Connection will need to finish by 22:45.
-You may leave earlier if you like.
+The Welcome Circle will last around an hour,
+then you are welcome to stay for
+Self-Directed Connection, socializing, and snacks.
+The space will be available until 22:45.
 
 #### Where
 
