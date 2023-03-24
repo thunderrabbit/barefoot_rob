@@ -1,22 +1,22 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Cuddle Party event in Tokyo"
+tags: [ "2023", "Barefoot Rob", "communication", "cuddle-party", "ikejiri-ohashi", "june", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2023-03-25T08:35:50+09:00
+EventLocation: "SunLily Yoga Studio"
+EventTime: "19:00"
+TimeDescription: "gather by 18:50 at SunLily Yoga Studio"
+EventDate: "2023-06-23T19:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
-    "/enalias_path",
+    "/en/events/2023/06/23cuddle-party-event-in-tokyo",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg" "cuddle party seated circle" %}}
 
 <div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
 </div>
 
 #### What is a Cuddle Party?
@@ -49,7 +49,7 @@ exploring consent and communication with others.
 
 #### RSVP on Peatix
 
-TICKET_LINK
+https://cuddle-party-tokyo-june-2023.peatix.com/
 
 #### What do we do at a Cuddle Party?
 
@@ -122,12 +122,12 @@ but skip the scented products.
 
 #### When
 
-HUMANDATE
+Friday 23 June 2023
 
-Doors will open at FIRST_GATHERING_TIME.
+Doors will open at 18:30.
 
-Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME
-so we can be settled and start our Welcome Circle at EVENT_TIME.
+Please arrive between 18:30 and 18:50
+so we can be settled and start our Welcome Circle at 19:00.
 
 To maintain the integrity of the container,
 no one will be admitted after we start the Welcome Circle.
@@ -138,7 +138,7 @@ consent that help establish the supportive environment of the cuddle party.
 The Welcome Circle will last around an hour,
 then you are welcome to stay for
 Self-Directed Connection, socializing, and snacks.
-The space will be available until 15_B4_RENTAL_ENDS.
+The space will be available until 22:45.
 
 #### Where
 
@@ -149,7 +149,7 @@ The space will be available until 15_B4_RENTAL_ENDS.
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-[Buy tickets on Peatix](TICKET_LINK)
+[Buy tickets on Peatix](https://cuddle-party-tokyo-june-2023.peatix.com/)
 
 #### Fine print
 
