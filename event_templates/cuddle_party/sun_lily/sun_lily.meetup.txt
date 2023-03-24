@@ -1,9 +1,9 @@
-title:       %s　
+title:       %s
 date HUMANDATE   EVENT_TIME
 
-Click duration --> set end time
+Click duration --> 3 hours
 
-HUMANDATE  THREE_HOURS_AFTER_EVENT_TIME
+(HUMANDATE  THREE_HOURS_AFTER_EVENT_TIME)
 
 episode_image
 
@@ -99,13 +99,12 @@ TOPICS  FEEL FREE TO CHANGE:
 * Wellness
 * Stress Management
 * Relaxation
-* Barefoot　
-* Outdoors
+* Cuddling
 
 　
 UNSELECT Make this an online event
 　
-CLICK SunLily Yoga Studio
+CLICK Yoga.SunLily
 　
 CLICK Edit map pin
 　
@@ -121,10 +120,10 @@ Come to SunLily Yoga Studio (3F) by ARRIVE_BY_TIME
 　
 Optional settings
 　
-Allow guests:    1
+RSVP close time:  1 day before
 
 Event fee:  ON
-Direct from member
+PayPal (credit card or PayPal account)
 JPY    5000
 　
 Publish
