@@ -6,7 +6,7 @@ Starts: HUMANDATE EVENT_TIME
 
 Ends: HUMANDATE THREE_HOURS_AFTER_EVENT_TIME
 
-Venue: Yoga.Sunlily
+Venue: yoga.sunlily
 
 Next: Tickets
 
@@ -22,6 +22,7 @@ Two attendees   ¥ 7500　　 5
 
 Stop all ticket sales (day before)
 
+NOT Allow ticket transfer
 
 Next: Details
 
@@ -35,8 +36,8 @@ A Cuddle Party is a non-sexual social event where participants practice communic
 
 Cuddle Parties provide an opportunity for nurturing, platonic touch and intimacy, which supports well-being and balanced emotions.
 
-https://b.robnugen.com/blog/2023/cuddle_party_hands.jpg
-https://b.robnugen.com/blog/2023/cuddle_party_spooning.jpg
+https://b.robnugen.com/blog/2023/cuddle_party_hands_260.jpg
+https://b.robnugen.com/blog/2023/cuddle_party_spooning_260.jpg
 
 While sexual activity is prohibited at Cuddle Parties, some light touching like hugs, caresses, and snuggling is allowed between consenting attendees.
 
@@ -55,7 +56,7 @@ We’ll start with an Welcome Circle to get us settled. We’ll then go through 
 
 After the communication workshop, we'll have 2 or more hours of Self-Directed Connection
 
-    Now it is time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
+    This is time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
 
     Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6 Change your mind & keep yourself happy.
 
@@ -69,7 +70,7 @@ Clear communication allows more harmonious relationships, regardless of the cont
 
 Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
 
-https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg
+https://b.robnugen.com/blog/2023/cuddle_party_circle_650.jpg
 
 # What to bring
 
@@ -124,6 +125,8 @@ link: TICKET_LINK_PREFIX
 
 Preview and Save
 
+Edit
+
 Create Form --> Cuddle Party Connection (ENABLE)
 
 Tag & Publish
@@ -138,8 +141,9 @@ Choose Topics
 
 Save and Publish
 
-Preview
-Share
+View event
+
+Share   (right of photo bottom)
 Copy URL
 
 search for it here
