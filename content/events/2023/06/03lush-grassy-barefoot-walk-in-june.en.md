@@ -2,7 +2,7 @@
 title: "Lush grassy barefoot walk in June"
 tags: [ "2023", "Barefoot Rob", "art_park", "barefoot", "event", "june", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-03-24T21:35:04+09:00
+date: 2023-03-24T21:40:43+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_mar_17_art_park_grassy_experience.jpg" "2022 mar 17 art park grassy experience" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_apr_21_shin_yuri_group.jpg" "2022 apr 21 shin yuri group" %}}
 
 Walk barefoot on Japan's Number 1 Grassy Field!
 
