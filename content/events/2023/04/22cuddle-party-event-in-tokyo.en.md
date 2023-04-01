@@ -2,10 +2,10 @@
 title: "Cuddle Party event in Tokyo"
 tags: [ "2023", "Barefoot Rob", "april", "communication", "cuddle-party", "ikejiri-ohashi", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-03-24T18:57:42+09:00
+date: 2023-03-27T18:47:54+09:00
 EventLocation: "SunLily Yoga Studio"
 EventTime: "13:00"
-TimeDescription: "gather at 12:30 at SunLily Yoga Studio"
+TimeDescription: "gather by 12:50 at SunLily Yoga Studio"
 EventDate: "2023-04-22T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
