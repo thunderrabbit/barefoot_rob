@@ -33,7 +33,7 @@ class="title" />
 
 We will walk up the (mostly paved) Trail 1 of Mt Takao.
 
-Let's enjoy [Gokurakuyu Onsen](https://www.takaosan-onsen.jp/) (included in price) after we hike back down!
+After we hike back down, let's enjoy [Gokurakuyu Onsen](https://www.takaosan-onsen.jp/)! (included in price)
 
 <img
 src="https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_mt_takao.jpg"
@@ -48,7 +48,6 @@ What to bring:
 * Hat in case of sun
 * Rainwear in case of rain
 * Shoes if you think you might need them
-* 2000 yen (includes onsen ticket)
 
  Optional:
 * Wet tissues for your feet
@@ -57,7 +56,7 @@ What to bring:
 * Insect spray
 
 For Onsen:
-* spare clothes for Gokurakuyu Onsen after our hike.
+* spare clothes for Gokurakuyu Onsen
 
 By joining the hike you agree that safety is your own responsibility, not organizers'.
 
