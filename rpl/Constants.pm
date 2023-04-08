@@ -21,6 +21,7 @@ our %cuddle_party_files = (
     "sun_lily" => [
       "$templates/cuddle_party/sun_lily/sun_lily.en.md",
       "$templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
+      "$templates/cuddle_party/sun_lily/sun_lily.eventbrite.txt",
       "$templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
       "$templates/cuddle_party/sun_lily/sun_lily.peatix.txt",
     ],
