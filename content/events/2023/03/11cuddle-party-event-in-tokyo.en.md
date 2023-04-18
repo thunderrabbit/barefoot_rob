@@ -18,7 +18,7 @@ draft: false
 In 2003, after being in Japan for 3 months,
 [I was crying for a hug](https://www.robnugen.com/journal/2003/06/20/hugs/).
 I felt incredibly isolated.  As far as I could tell, the only social
-life was drinking, which didn’t appeal to me.
+life was drinking, which doesn’t appeal to me.
 
 Over time, I slowly found my way to meet people who I could talk to;
 got a girlfriend and satisfied my need for physical touch through sex.
