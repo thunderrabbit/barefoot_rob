@@ -109,11 +109,11 @@ class="title" />
 
 <div>
 
-    "It was a great event. Thank you so much.
+    It a great event. Thank you so much.
     Hope more and more people will join the event.
     For us Japanese, we don't communicate that much by hugging,
     but I think people need it. Hugging helps people a lot to be feeling safe.
-    It was a great workshop."
+    It was a great workshop.
 
     ー Lily
 
