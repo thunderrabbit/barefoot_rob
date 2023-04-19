@@ -105,20 +105,42 @@ class="title" />
 <a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
 </div>
 
-#### What to bring
+#### Testimonials
 
-Comfortable clothes/pajamas (more drawstrings, less lace)
+<div>
 
-Blankets, pillows, or other soft items
-to enhance your experience are optional.
+    "It was a great event. Thank you so much.
+    Hope more and more people will join the event.
+    For us Japanese, we don't communicate that much by hugging,
+    but I think people need it. Hugging helps people a lot to be feeling safe.
+    It was a great workshop."
 
-We will have bottled water, tea, and breath-friendly snacks.
-Feel free to bring your own if you prefer.
+    ー Lily
 
-Please do NOT wear heavy scents or perfumes,
-as people may be sensitive to them.
-Please shower and lightly deodorize if desired,
-but skip the scented products.
+</div>
+<div>
+
+    Rob, you are fantastic.
+    There really should be more events like this,
+    which have great potential to heal this broken world.
+    Our society would be so much better if we learned
+    this type of communication at school instead of things
+    like algebra and geometry that most of us never use and
+    forget as soon as the course is over.
+
+    ー Andy Boerger
+
+</div>
+<div>
+
+    So happy that you are offering these events.
+    I think it's super valuable for the society at large,
+    especially as more people become aware of them
+    and start participating. Thank you!
+
+    ー MC
+
+</div>
 
 #### When
 
@@ -128,17 +150,6 @@ Doors will open at 18:30.
 
 Please arrive between 18:30 and 18:50
 so we can be settled and start our Welcome Circle at 19:00.
-
-To maintain the integrity of the container,
-no one will be admitted after we start the Welcome Circle.
-Allowing late arrivals could disrupt the flow of
-introductions and discussions about boundaries and
-consent that help establish the supportive environment of the cuddle party.
-
-The Welcome Circle will last around an hour,
-then you are welcome to stay for
-Self-Directed Connection, socializing, and snacks.
-The space will be available until 22:45.
 
 #### Where
 
@@ -179,3 +190,8 @@ back into connection after an isolating pandemic.
 I have been running a men’s peer counseling group
 in Tokyo since 2015, and conducting in-person
 workshops in both Tokyo and Kanagawa since 2018.
+
+    Rob is amazing. He is a perfect facilitator in every way.
+    He is caring, kind, self-effacing, honest. Ten out of ten.
+
+    ー Andy Boerger
