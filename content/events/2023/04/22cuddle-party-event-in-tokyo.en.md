@@ -105,21 +105,6 @@ class="title" />
 <a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
 </div>
 
-#### What to bring
-
-Comfortable clothes/pajamas (more drawstrings, less lace)
-
-Blankets, pillows, or other soft items
-to enhance your experience are optional.
-
-We will have bottled water, tea, and breath-friendly snacks.
-Feel free to bring your own if you prefer.
-
-Please do NOT wear heavy scents or perfumes,
-as people may be sensitive to them.
-Please shower and lightly deodorize if desired,
-but skip the scented products.
-
 #### When
 
 Saturday 22 April 2023
@@ -128,17 +113,6 @@ Doors will open at 12:30.
 
 Please arrive between 12:30 and 12:50
 so we can be settled and start our Welcome Circle at 13:00.
-
-To maintain the integrity of the container,
-no one will be admitted after we start the Welcome Circle.
-Allowing late arrivals could disrupt the flow of
-introductions and discussions about boundaries and
-consent that help establish the supportive environment of the cuddle party.
-
-The Welcome Circle will last around an hour,
-then you are welcome to stay for
-Self-Directed Connection, socializing, and snacks.
-The space will be available until 17:45.
 
 #### Where
 
