@@ -81,7 +81,14 @@ QPR is an emergency mental health intervention for suicidal persons.
 
 ## Testimonials
 
+<div class="walk-segment">
 
+Rob is amazing. He is a perfect facilitator in every way.
+He is caring, kind, self-effacing, honest. Ten out of ten.
+
+-- Andy Boerger
+
+</div>
 <div class="walk-segment">
 
 [![2021 apr 06 Anna Preuss testimonial](//b.robnugen.com/blog/2021/2021_apr_06_anna_testimonial.png)](https://www.facebook.com/anna.preuss21/posts/10158946010922655)

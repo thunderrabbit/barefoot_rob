@@ -105,6 +105,43 @@ class="title" />
 <a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
 </div>
 
+#### Testimonials
+
+<div class="walk-segment">
+
+    "It was a great event. Thank you so much.
+    Hope more and more people will join the event.
+    For us Japanese, we don't communicate that much by hugging,
+    but I think people need it. Hugging helps people a lot to be feeling safe.
+    It was a great workshop."
+
+    ー Lily
+
+</div>
+<div class="walk-segment">
+
+    Rob, you are fantastic.
+    There really should be more events like this,
+    which have great potential to heal this broken world.
+    Our society would be so much better if we learned
+    this type of communication at school instead of things
+    like algebra and geometry that most of us never use and
+    forget as soon as the course is over.
+
+    ー Andy Boerger
+
+</div>
+<div class="walk-segment">
+
+    So happy that you are offering these events.
+    I think it's super valuable for the society at large,
+    especially as more people become aware of them
+    and start participating. Thank you!
+
+    ー MC
+
+</div>
+
 #### When
 
 Saturday 22 April 2023
@@ -153,3 +190,8 @@ back into connection after an isolating pandemic.
 I have been running a men’s peer counseling group
 in Tokyo since 2015, and conducting in-person
 workshops in both Tokyo and Kanagawa since 2018.
+
+    Rob is amazing. He is a perfect facilitator in every way.
+    He is caring, kind, self-effacing, honest. Ten out of ten.
+
+    ー Andy Boerger
