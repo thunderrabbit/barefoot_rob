@@ -107,6 +107,8 @@ class="title" />
 
 #### Testimonials
 
+<div>
+
     "It was a great event. Thank you so much.
     Hope more and more people will join the event.
     For us Japanese, we don't communicate that much by hugging,
@@ -115,6 +117,8 @@ class="title" />
 
     ー Lily
 
+</div>
+<div>
 
     Rob, you are fantastic.
     There really should be more events like this,
@@ -126,6 +130,8 @@ class="title" />
 
     ー Andy Boerger
 
+</div>
+<div>
 
     So happy that you are offering these events.
     I think it's super valuable for the society at large,
@@ -134,6 +140,7 @@ class="title" />
 
     ー MC
 
+</div>
 
 #### When
 
