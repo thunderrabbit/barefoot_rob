@@ -138,7 +138,7 @@ class="title" />
     especially as more people become aware of them
     and start participating. Thank you!
 
-    ー MC
+    ー Misa Christina
 
 </div>
 
