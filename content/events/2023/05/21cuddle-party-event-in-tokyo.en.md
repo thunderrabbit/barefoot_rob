@@ -2,10 +2,10 @@
 title: "Cuddle Party event in Tokyo"
 tags: [ "2023", "Barefoot Rob", "communication", "cuddle-party", "ikejiri-ohashi", "may", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-03-24T18:54:33+09:00
+date: 2023-04-20T19:52:07+09:00
 EventLocation: "SunLily Yoga Studio"
 EventTime: "19:00"
-TimeDescription: "gather at 18:30 at SunLily Yoga Studio"
+TimeDescription: "gather by 18:50 at SunLily Yoga Studio"
 EventDate: "2023-05-21T19:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
@@ -153,7 +153,7 @@ so we can be settled and start our Welcome Circle at 19:00.
 
 #### Where
 
-[SunLily Yoga Studio](https://sunlily.work/), 5 minutes walk from Ikejiri-Ohashi Station (Denentoshi Line)
+5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
 
 #### Cost
 
