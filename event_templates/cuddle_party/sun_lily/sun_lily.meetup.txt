@@ -110,7 +110,7 @@ TOPICS  FEEL FREE TO CHANGE:
 　
 UNSELECT Make this an online event
 　
-CLICK Yoga.SunLily
+CLICK Ikejiri-Ohashi Station
 　
 CLICK Edit map pin
 　
@@ -119,7 +119,7 @@ SLIDE MAP under pin
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Come to SunLily Yoga Studio (3F) by ARRIVE_BY_TIME
+First time attendees, DM Rob Nugen to arrange a call.
 +++++++++++++++++++++++++++++++++++++++++++++++
 　
 
