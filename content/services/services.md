@@ -37,10 +37,9 @@ Learn how to communicate even while experiencing emotional energy.  This allows 
 
 Let go of past problems to give yourself the freedom to recreate yourself each day.
 
-USD $200 / hour
-<br>JPY 20,000 / hour
-
-Existing client? [Reserve a session here](https://calendly.com/robnugen/60min)
+For ten sessions over a 3 month journey:
+<br>USD $2500
+<br>JPY 300,000
 
 [Reserve a free trial session](https://calendly.com/robnugen/nice-to-meet-you)
 
