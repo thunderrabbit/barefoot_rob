@@ -4,8 +4,8 @@ tags: [ "2023", "Barefoot Rob", "Yokohama", "aiko", "barefoot", "event", "may", 
 author: Rob Nugen
 date: 2023-05-03T09:40:56+09:00
 EventLocation: "Rinko Park, Yokohama"
-EventTime: "13:30"
-TimeDescription: "gather at 13:15 in Rinko Park circular space"
+EventTime: "14:00"
+TimeDescription: "gather at 13:15 in Porta near Pronto Cafe"
 EventDate: "2023-05-20T13:30:00+09:00"
 aliases: [
     "/en/events/2023/05/20barefoot-walk-and-chillax-in-rinko-park",
@@ -14,18 +14,25 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2023/walk_and_talk/2023_apr_26_rinko_park_bridge.jpg" "2023 apr 26 rinko park bridge" %}}
 
-<div class="note">Image credit:
-<a href=""></a>
-</div>
-
 Refresh your spirit. Touch the earth. Touch the sea.
 Connect with yourself and nature.
 
 Barefoot walking, breathing, enjoying fresh sea breeze.
 
-#### Where
+#### First Meeting Point
 
-Saturday 20 May 2023, 13:30
+Saturday 20 May 2023, 13:15 ~ 13:30
+
+In front of Cafe “Pronto” in Porta Yokohama
+↓↓↓↓↓↓↓
+※1 min from JR Yokohama Station /
+Go down the escalator at the entrance of Porta.
+You will see Pronto on the right side.
+https://www.yokohamaporta.jp/language/english.html
+
+#### Second Meeting Point is Rinko Park
+
+Saturday 20 May 2023, 14:00
 
 Grassy space in **[Rinko Park in Yokohama](https://goo.gl/maps/k5XcA7ueXCCsPErV9)**, next to Rinko Park Arch Bridge.
 

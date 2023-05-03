@@ -4,8 +4,8 @@ tags: [ "2023", "Barefoot Rob", "Yokohama", "aiko", "barefoot", "event", "may", 
 author: Rob Nugen
 date: 2023-05-03T09:40:56+09:00
 EventLocation: "Rinko Park, Yokohama"
-EventTime: "13:30"
-TimeDescription: "gather at 13:15 in 臨港パーク circular space"
+EventTime: "14:00"
+TimeDescription: "横浜駅：Portaの「Pronto」の前で13:15に集合、13:30出発で臨港パークに向かいます"
 EventDate: "2023-05-20T13:30:00+09:00"
 aliases: [
     "/ja/events/2023/05/20barefoot-walk-and-chillax-in-rinko-park",
@@ -14,17 +14,21 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2023/walk_and_talk/2023_apr_26_rinko_park_bridge.jpg" "2023 apr 26 rinko park bridge" %}}
 
-<div class="note">写真:
-<a href=""></a>
-</div>
 
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
 
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。
 
-#### 集合場所
+#### 第一集待ち合わせ場所
 
-2023年5月20日　13:30
+2023年5月20日　13:15 ~ 13:30
+
+横浜駅：Portaの「Pronto」の前
+※横浜JR改札から徒歩1分程、Portaの入口のエスカレーターを降りて右手
+
+#### 第ニ集合場所は臨港パーク アーチ橋
+
+2023年5月20日　14:00
 
 臨港パークの「臨港パーク アーチ橋」の芝生(https://goo.gl/maps/k5XcA7ueXCCsPErV9)に集合。
 
