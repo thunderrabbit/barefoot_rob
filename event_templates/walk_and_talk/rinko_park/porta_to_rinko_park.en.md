@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME in Rinko Park circular space"
+TimeDescription: "gather at FIRST_GATHERING_TIME in Porta near Pronto Cafe"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/enalias_path",
@@ -14,16 +14,23 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-<div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
-</div>
-
 Refresh your spirit. Touch the earth. Touch the sea.
 Connect with yourself and nature.
 
 Barefoot walking, breathing, enjoying fresh sea breeze.
 
-#### Where
+#### First Meeting Point
+
+HUMANDATE, FIRST_GATHERING_TIME ~ FIRST_DEPARTURE_TIME
+
+In front of Cafe “Pronto” in Porta Yokohama
+↓↓↓↓↓↓↓
+※1 min from JR Yokohama Station /
+Go down the escalator at the entrance of Porta.
+You will see Pronto on the right side.
+https://www.yokohamaporta.jp/language/english.html
+
+#### Second Meeting Point is Rinko Park
 
 HUMANDATE, EVENT_TIME
 

@@ -202,6 +202,7 @@ our %gather_minutes_before_event = (
 
 our %event_locations = (
     "yoyogi_park" => "Yoyogi Park (Harajuku Gate)",
+    "porta_to_rinko_park" => "Rinko Park, Yokohama",
     "rinko_park" => "Rinko Park, Yokohama",
     "rinshi_no_mori" => "Rinshi-no-Mori Park, Meguro",
     "karakida_tama_center" => "between Karakida and Tama Center",

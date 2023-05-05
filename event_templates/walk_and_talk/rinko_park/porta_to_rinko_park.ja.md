@@ -5,7 +5,7 @@ author: Rob Nugen
 date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
-TimeDescription: "gather at FIRST_GATHERING_TIME in 臨港パーク circular space"
+TimeDescription: "横浜駅：Portaの「Pronto」の前でFIRST_GATHERING_TIMEに集合、FIRST_DEPARTURE_TIME出発で臨港パークに向かいます"
 EventDate: "%sTEVENT_TIME:00+09:00"
 aliases: [
     "/jaalias_path",
@@ -14,15 +14,18 @@ aliases: [
 
 {{% img-responsive "episode_image" "episode_image_alt" %}}
 
-<div class="note">写真:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
-</div>
-
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
 
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。
 
-#### 集合場所
+#### 第一集待ち合わせ場所
+
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME ~ FIRST_DEPARTURE_TIME
+
+横浜駅：Portaの「Pronto」の前
+※横浜JR改札から徒歩1分程、Portaの入口のエスカレーターを降りて右手
+
+#### 第ニ集合場所は臨港パーク アーチ橋
 
 EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
