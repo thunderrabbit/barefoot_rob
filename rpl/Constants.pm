@@ -228,6 +228,7 @@ our %event_tag_hashes = (
     "karakida_tama_center" => {%walk_and_talk_tags, ("Tama Center" => 1, "Karakida" => 1, "多摩センター駅" => 1, "唐木田駅" => 1)},
     "rinshi_no_mori" => {%walk_and_talk_tags, ("meguro" => 1, "rinshi-no-mori" => 1, "林試の森公園" => 1)},
     "rinko_park" => {%walk_and_talk_tags, ("Yokohama" => 1, "rinko-park" => 1, "臨港パーク" => 1)},
+    "porta_to_rinko_park" => {%walk_and_talk_tags, ("Yokohama" => 1, "Porta" => 1, "rinko-park" => 1, "臨港パーク" => 1)},
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "sun_lily" => {%cuddle_party_tags, ("sunlily" => 1, "ikejiri-ohashi" => 1)},
