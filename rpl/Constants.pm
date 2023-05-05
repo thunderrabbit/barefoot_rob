@@ -44,6 +44,12 @@ our %walk_location_files = (
       "$templates/walk_and_talk/___.t-07days_reminder.txt",
       "$templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
+    "porta_to_rinko_park" => [
+      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.en.md",
+      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.ja.md",
+      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.facebook.txt",
+      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.meetup.txt",
+    ],
     "rinshi_no_mori" => [
       "$templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.en.md",
       "$templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.ja.md",
