@@ -28,6 +28,15 @@ our %cuddle_party_files = (
     ],
 );
 
+our %book_chapter_files = (
+    "realtime_book_chapter" => [
+      "$writing_templates/realtime_book_chapter_template.md",
+    ],
+    "otter_book_chapter" => [
+      "$writing_templates/otter_book_chapter_template.md",
+    ],
+);
+
 our %walk_location_files = (
     "yoyogi_park" => [
       "$event_templates/walk_and_talk/yoyogi_park/yoyogi_park.en.md",
@@ -130,9 +139,6 @@ our %event_template_files = (
     "blog_entry" => [
       "$writing_templates/blog_template.md",
     ],
-    "realtime_book_chapter" => [
-      "$writing_templates/realtime_book_chapter_template.md",
-    ],
     "weekly_alignment" => [
       "$event_templates/event_weekly-alignment_template.md",
     ],
@@ -145,6 +151,7 @@ our %event_template_files = (
       "$event_templates/event_walking_meditation_template.md",
     ],
     "barefoot_walk" => "walk_location_files",
+    "book_chapter" => "book_chapter_files",
     "cuddle_party" => "cuddle_party_files",
     "yo_i_wanna_copy" => "previous_generators",
     "quest_update" => [
@@ -225,6 +232,7 @@ my %cuddle_party_tags = ("communication" => 1, "Barefoot Rob" => 1, "裸足の�
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
     "realtime_book_chapter" => {"book" => 1, "walk" => 1},
+    "otter_book_chapter" => {"book" => 1, "otter" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "karakida_tama_center" => {%walk_and_talk_tags, ("Tama Center" => 1, "Karakida" => 1, "多摩センター駅" => 1, "唐木田駅" => 1)},
