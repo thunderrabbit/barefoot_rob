@@ -10,11 +10,14 @@ Barefoot walking, breathing, enjoying fresh sea breeze.
 　
 ==== Join us! ====
 　
-HUMANDATE, EVENT_TIME
+HUMANDATE, FIRST_GATHERING_TIME ~ FIRST_DEPARTURE_TIME
 　
-Circular space in Rinko Park in Yokohama, next to Rinko Park Arch Bridge.
-　
-https://goo.gl/maps/k5XcA7ueXCCsPErV9)
+In front of Cafe “Pronto” in Porta Yokohama
+↓↓↓↓↓↓↓
+※1 min from JR Yokohama Station /
+Go down the escalator at the entrance of Porta.
+You will see Pronto on the right side.
+https://www.yokohamaporta.jp/language/english.html
 　
 Latest info https://www.robnugen.com/enalias_path
 　
@@ -53,18 +56,16 @@ No need for a shoe bag; we'll be walking in sight of our belongings.
 　
 Self care is important, so wear shoes whenever you need to!
 　
-
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
 　
 裸足で歩き、呼吸し、新鮮な空気を楽しむ。
 　
 ==== 集合場所 ====
 　
-EVENT_YYYY年EVENT_M月EVENT_D日EVENT_TIME
+EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME ~ FIRST_DEPARTURE_TIME
 　
-臨港パークの「臨港パーク アーチ橋」の横の円形スペースに集合。
-　
-https://goo.gl/maps/k5XcA7ueXCCsPErV9
+横浜駅：Portaの「Pronto」の前
+※横浜JR改札から徒歩1分程、Portaの入口のエスカレーターを降りて右手
 　
 最新情報は、https://www.robnugen.com/jaalias_path
 　
