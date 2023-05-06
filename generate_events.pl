@@ -274,6 +274,7 @@ foreach my $extension (keys %event_templates) {
   my %event_output_directories = (
       "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
       "realtime_book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . rpl::Functions::prepend_book_title_based_on_date($event_date_time) . "-",   # don't end with slash because book directories have no dates
+      "otter_book_chapter" => $rpl::Constants::slow_down_book_dir . "/",
       "mkp_family" =>  "/",     # eventually create in MKP Japan web directory?
       "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
   );
