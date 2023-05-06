@@ -120,7 +120,7 @@ sub split_on_final_slash($) {
   return ($1, $2)
 }
 
-sub return_book_chapter_for_files(@) {
+sub return_realtime_book_chapter_for_files(@) {
   my %date_keyed_content_hash;
   # should open a list(?) of file paths and return their concatenated content
   # STEPS(?)
@@ -179,20 +179,20 @@ sub return_book_chapter_for_files(@) {
     print("$dated_output_thing");
     $date_keyed_content_hash{$file_date} = $dated_output_thing;
   }
-  my $book_chapter_output;
+  my $realtime_book_chapter_output;
   #   Sort according to date
   foreach my $file_date_key (sort keys %date_keyed_content_hash) {
     #   append to output (in date order)
-    $book_chapter_output .= $date_keyed_content_hash{$file_date_key} . "\n";
+    $realtime_book_chapter_output .= $date_keyed_content_hash{$file_date_key} . "\n";
   }
   # Return contents, sorted by date
-  return $book_chapter_output;
+  return $realtime_book_chapter_output;
 }
 
 sub book_content_for_date($) {
   my ($dt) = @_;   # must be a DateTime or next function will be sad
   my @content_files_regex = __book_content_file_paths_for_date($dt);   # must return an ARRAY of file paths (I think (22 Apr 2022))
-  return return_book_chapter_for_files(@content_files_regex);   # takes an ARRAY of file paths (I think (22 Apr 2022))
+  return return_realtime_book_chapter_for_files(@content_files_regex);   # takes an ARRAY of file paths (I think (22 Apr 2022))
 }
 
 sub std_in_logger() {

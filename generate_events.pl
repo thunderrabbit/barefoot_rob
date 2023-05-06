@@ -10,7 +10,7 @@ use lib dirname(abs_path(__FILE__));
 use rpl::Constants;
 use rpl::BLTConstants;    # for Bold Life Tribe automated titles and content
 use rpl::Functions;
-use Number::Spell;    # to help create titles for book_chapter
+use Number::Spell;    # to help create titles for realtime_book_chapter
 
 my $verbosity = 10; # integer from 0 (silent) to 5 (all the debugging info).
 
@@ -98,7 +98,7 @@ if($original_what_kinda_event eq "cuddle_party") {
 
 my $guessed_gathering_time;
 print("if this fails, know the value of what_kinda_event is " . $what_kinda_event . "\n");
-unless($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
+unless($what_kinda_event eq "realtime_book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
    $guessed_gathering_time = $event_date_time->clone->subtract( minutes => $preferred_gathering_duration );      # clone = don't mess with other date
 }
 my $t_minus_14_days_date = $event_date_time->clone->subtract( days => 14 );      # clone = don't mess with other date
@@ -106,14 +106,14 @@ my $t_minus_07_days_date = $event_date_time->clone->subtract( days => 7 );      
 my $bold_life_tribe_publish_date = $event_date_time->clone->subtract( days => 8 );  # 6 if we can get Hugo to stop lagging by being on DH server in California time zone     # Publish Bold Life Tribe just N days ahead so they don't swamp future even though I can bang them out
 my $first_gathering_time;
 
-#  $walk_trip_started only used for book_chapter to help calculate Titles
+#  $walk_trip_started only used for realtime_book_chapter to help calculate Titles
 print("This date is only related to walks; you can ignore it: 2021-04-16 12:00");
 my $walk_trip_started = rpl::Functions::parse_user_date("2021-04-16 12:00");  # Without ->ymd "T11:45:00" appends to the date
-my $ordinal_day_number;   # Used for book_chapter title and tags
+my $ordinal_day_number;   # Used for realtime_book_chapter title and tags
 
-if($what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
+if($what_kinda_event eq "realtime_book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   # Don't need gathering_time, but do need a timestamp because of $first_gathering_time code etc
-  $first_gathering_time = $event_date_time;   # not used for book_chapter
+  $first_gathering_time = $event_date_time;   # not used for realtime_book_chapter
 } else {
   $first_gathering_time = rpl::Functions::get_time("gathering time of event",$guessed_gathering_time);
 }
@@ -127,7 +127,7 @@ print "first departure time: $first_departure_time\n";
 my $title;
 my $topic;   # e.g. February is the month of __TRUTH__
 my $blurb;   # paragraph to fill in BLURB_BLOCK
-my $chapter_contents;   # for creating book_chapters
+my $chapter_contents;   # for creating realtime_book_chapters
 
 ### will need to get a title for each language, but not for each social network.. hmmm
 ### Also, I want to use the same filename (in English) even for the Japanese output
@@ -146,7 +146,7 @@ if($what_kinda_event eq "bold_life_tribe") {
     print "Need to create blurb file\n";
     rpl::Functions::blt_create_empty_blurb_file_for_date($event_date_time);
   }
-} elsif($what_kinda_event eq "book_chapter") {
+} elsif($what_kinda_event eq "realtime_book_chapter") {
   print("walk trip started on $walk_trip_started\n");
   print("event date time on $event_date_time\n");
   $ordinal_day_number = $event_date_time->subtract_datetime($walk_trip_started)->in_units('days')+1;
@@ -163,7 +163,7 @@ if($what_kinda_event eq "bold_life_tribe") {
 
 print("If this fails, add Constants::event_tag_hashes{$what_kinda_event}\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
-if($what_kinda_event eq "book_chapter") {
+if($what_kinda_event eq "realtime_book_chapter") {
   #  $taghash{"day-$ordinal_day_number"} = 1;              # Add Day Number to tags
 }
 $taghash{$event_date_time->year} = 1;              # Add year to tags
@@ -266,7 +266,7 @@ foreach my $extension (keys %event_templates) {
   #  Will default to events.
   my %event_output_directories = (
       "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
-      "book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . rpl::Functions::prepend_book_title_based_on_date($event_date_time) . "-",   # don't end with slash because book directories have no dates
+      "realtime_book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . rpl::Functions::prepend_book_title_based_on_date($event_date_time) . "-",   # don't end with slash because book directories have no dates
       "mkp_family" =>  "/",     # eventually create in MKP Japan web directory?
       "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
   );

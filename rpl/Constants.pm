@@ -129,8 +129,8 @@ our %event_template_files = (
     "blog_entry" => [
       "$templates/blog_template.md",
     ],
-    "book_chapter" => [
-      "$templates/book_chapter_template.md",
+    "realtime_book_chapter" => [
+      "$templates/realtime_book_chapter_template.md",
     ],
     "weekly_alignment" => [
       "$templates/event_weekly-alignment_template.md",
@@ -157,7 +157,7 @@ our %event_template_files = (
 
 our %event_day_of_week = (
     "blog_entry" => 3,
-    "book_chapter" => 3,
+    "realtime_book_chapter" => 3,
     "weekly_alignment" => 3,
     "walking_meditation" => 3,
     "yoyogi_park" => 6,
@@ -223,7 +223,7 @@ my %cuddle_party_tags = ("communication" => 1, "Barefoot Rob" => 1, "裸足の�
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
-    "book_chapter" => {"book" => 1, "walk" => 1},
+    "realtime_book_chapter" => {"book" => 1, "walk" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "karakida_tama_center" => {%walk_and_talk_tags, ("Tama Center" => 1, "Karakida" => 1, "多摩センター駅" => 1, "唐木田駅" => 1)},
