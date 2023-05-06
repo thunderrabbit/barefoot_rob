@@ -52,8 +52,6 @@ Lunch if you'd like to join us for lunch!
 　
 Anything else you need to take care of yourself.
 　
-No need for a shoe bag; we'll be walking in sight of our belongings.
-　
 Self care is important, so wear shoes whenever you need to!
 　
 精神をリフレッシュする。地球や海に触れる。自然とつながる。
@@ -97,8 +95,6 @@ EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME ~ FIRST_DEPARTURE_TIME
 お昼を食べたい方はランチを持参ください！
 　
 ご自身のケアに必要なもの。
-　
-持ち物が見える範囲内の距離を歩くので、靴袋をお持ちいただく必要はございません。
 　
 セルフケアは重要ですので、必要に応じて靴を履きましょう。
 　
