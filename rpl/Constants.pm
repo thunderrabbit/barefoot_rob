@@ -26,6 +26,13 @@ our %cuddle_party_files = (
       "$event_templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.peatix.txt",
     ],
+    "yoga_study_center" => [
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.en.md",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.meetup.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.eventbrite.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.facebook.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.peatix.txt",
+    ],
 );
 
 our %book_chapter_files = (
@@ -220,6 +227,7 @@ our %event_locations = (
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
     "sun_lily" => "SunLily Yoga Studio",
+    "yoga_study_center" => "Yoga Study Center (Yokohama)",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
 );
@@ -227,7 +235,7 @@ our %event_locations = (
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
 # not used because https://github.com/thunderrabbit/barefoot_rob/issues/4
 my %walk_and_talk_tags = ("walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1);
-my %cuddle_party_tags = ("communication" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1, "cuddle-party" => 1, "workshop" => 1);
+my %cuddle_party_tags = ("communication" => 1, "consent" => 1, "platonic touch" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1, "cuddle-party" => 1, "workshop" => 1);
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
@@ -242,6 +250,7 @@ our %event_tag_hashes = (
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "sun_lily" => {%cuddle_party_tags, ("sunlily" => 1, "ikejiri-ohashi" => 1)},
+    "yoga_study_center" => {%cuddle_party_tags, ("yogastudycenter" => 1, "yokohama" => 1, "kannai" => 1, "nihon-odori" => 1)},
     "todoroki_valley" => {%walk_and_talk_tags, ("todoroki" => 1, "等々力渓谷" => 1, "city" => 1)},
     "hikarie_to_foot_bath" => {%walk_and_talk_tags, ("shibuya" => 1, "hikarie" => 1, "toyoko" => 1)},
     "hossawa_falls" => {%walk_and_talk_tags, ("hossawa" => 1, "nishitama" => 1, "払沢の滝" => 1, "bonbori" => 1, "盆堀山" => 1)},
