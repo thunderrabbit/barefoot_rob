@@ -1,3 +1,6 @@
+https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
+https://www.meetup.com/all-things-emotion/schedule/
+
 title:       %s
 date HUMANDATE   EVENT_TIME
 

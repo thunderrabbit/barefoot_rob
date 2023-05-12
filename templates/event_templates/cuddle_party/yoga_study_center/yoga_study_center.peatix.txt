@@ -1,3 +1,5 @@
+https://peatix.com/event/create2
+
 title:       %s
 
 Physical event
@@ -6,7 +8,10 @@ Starts: HUMANDATE EVENT_TIME
 
 Ends: HUMANDATE THREE_HOURS_AFTER_EVENT_TIME
 
-Venue: yoga.sunlily
+Venue: ヨガ スタディ センター
+
+(address 〒231-0012
+神奈川県横浜市中区相生町２丁目34-1 石井ビル
 
 Next: Tickets
 
@@ -15,10 +20,14 @@ Paid Ticket +
 Ticket Type     Price      Quantity
 One attendee    ¥ 5000　　　8
 
+settings:  Discount Code    new price 0
+
 + Paid Ticket
 
 Ticket Type     Price      Quantity
 Two attendees   ¥ 7500　　 5
+
+settings:  Discount Code    new price 0
 
 Stop all ticket sales (day before)
 
@@ -97,6 +106,8 @@ The Welcome Circle will last around an hour, then you are welcome to stay for Se
 
 # Where
 
+Yoga Study Center
+
 * 4 minutes walk from Kannai Station　
 * 6 minutes walk from Nihon-Odori Station　
 
@@ -127,6 +138,10 @@ I have been running a men’s peer counseling group in Tokyo since 2015, and con
     He is caring, kind, self-effacing, honest. Ten out of ten.
 
     ー Andy Boerger
+
+--------
+
+Look for # marks above, remove them and embolden those lines.
 
 link: TICKET_LINK_PREFIX
 

@@ -1,3 +1,5 @@
+https://peatix.com/event/create2
+
 title:       %s
 
 Physical event
@@ -15,10 +17,14 @@ Paid Ticket +
 Ticket Type     Price      Quantity
 One attendee    ¥ 5000　　　8
 
+settings:  Discount Code    new price 0
+
 + Paid Ticket
 
 Ticket Type     Price      Quantity
 Two attendees   ¥ 7500　　 5
+
+settings:  Discount Code    new price 0
 
 Stop all ticket sales (day before)
 

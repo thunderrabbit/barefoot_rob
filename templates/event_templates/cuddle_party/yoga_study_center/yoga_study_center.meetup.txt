@@ -1,3 +1,6 @@
+https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
+https://www.meetup.com/all-things-emotion/schedule/
+
 title:       %s
 date HUMANDATE   EVENT_TIME
 
@@ -112,6 +115,11 @@ TOPICS  FEEL FREE TO CHANGE:
 UNSELECT Make this an online event
 　
 CLICK Yoga Study Center
+
+Venue: ヨガ スタディ センター
+
+(address 〒231-0012
+神奈川県横浜市中区相生町２丁目34-1 石井ビル
 　
 CLICK Edit map pin
 　

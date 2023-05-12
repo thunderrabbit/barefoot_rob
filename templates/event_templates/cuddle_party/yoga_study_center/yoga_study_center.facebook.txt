@@ -130,7 +130,10 @@ TOPICS  FEEL FREE TO CHANGE:
 
 UNSELECT Make this an online event
 
-CLICK SunLily Yoga Studio
+CLICK ヨガ スタディ センター
+
+(address 〒231-0012
+神奈川県横浜市中区相生町２丁目34-1 石井ビル
 
 CLICK Edit map pin
 
