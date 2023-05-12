@@ -141,4 +141,4 @@ JPY    5000
 　
 Publish
 
-Notify
+Announce it now
