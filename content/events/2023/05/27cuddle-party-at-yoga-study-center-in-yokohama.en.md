@@ -2,7 +2,7 @@
 title: "Cuddle Party at Yoga Study Center in Yokohama"
 tags: [ "2023", "Barefoot Rob", "communication", "consent", "cuddle-party", "kannai", "may", "nihon-odori", "platonic touch", "workshop", "yogastudycenter", "yokohama", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-05-12T20:44:43+09:00
+date: 2023-05-13T07:20:07+09:00
 EventLocation: "Yoga Study Center (Yokohama)"
 EventTime: "13:00"
 TimeDescription: "gather by 12:50 at Yoga Study Center (Yokohama)"
@@ -49,7 +49,7 @@ exploring consent and communication with others.
 
 #### RSVP on Peatix
 
-https://cuddle-party-tokyo-may-2023.peatix.com/
+https://cuddle-party-tokyo-27-may-2023.peatix.com/
 
 #### What do we do at a Cuddle Party?
 
@@ -160,8 +160,6 @@ so we can be settled and start our Welcome Circle at 13:00.
 
 * 5000 yen for 1 person
 * 7500 yen for 2 people
-
-ticket link coming soon! brb
 
 [Buy tickets on Peatix](https://cuddle-party-tokyo-27-may-2023.peatix.com/)
 

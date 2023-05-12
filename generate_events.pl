@@ -187,8 +187,8 @@ if($need_image_url) {
 my ($peatix_prefix, $suggested_ticket_link);
 if($original_what_kinda_event eq "cuddle_party") {
   # get ticket link
-  my $template = "cuddle-party-tokyo-%s-%d";
-  $peatix_prefix = sprintf($template, lc($event_date_time->month_name), $event_date_time->year);
+  my $template = "cuddle-party-tokyo-%d-%s-%d";
+  $peatix_prefix = sprintf($template, $event_date_time->day, lc($event_date_time->month_name), $event_date_time->year);
   $suggested_ticket_link = "https://" . $peatix_prefix . ".peatix.com/";
 
 }
