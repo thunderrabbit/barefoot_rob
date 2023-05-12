@@ -10,7 +10,7 @@ Click duration --> 3 hours
 
 episode_image
 
-=== What is a Cuddle Party? ===
+# What is a Cuddle Party?
 　
 A Cuddle Party is a non-sexual social event where participants practice communication and optionally explore platonic touch. Attendees practice setting clear boundaries, communicating their desires, and respecting each others' limits in a safe space.
 　
@@ -20,7 +20,7 @@ While sexual activity is prohibited at Cuddle Parties, some light touching like 
 　
 At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
 　
-=== What do we do at a Cuddle Party? ===
+# What do we do at a Cuddle Party?
 　
 We do two main things at Cuddle Parties:
 　
@@ -41,25 +41,25 @@ After the communication workshop, we'll have 2 or more hours of Self-Directed Co
 　
 We'll finish with a closing circle to reflect on our experience.
 　
-=== Why? ===
+# Why?
 　
 Clear communication allows more harmonious relationships, regardless of the context.
 　
 Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
 　
-=== Testimonials ===
+# Testimonials
 　
 It was a great event. Thank you so much.    Hope more and more people will join the event.   For us Japanese, we don't communicate that much by hugging, but I think people need it. Hugging helps people a lot to be feeling safe.   It was a great workshop.
-    ー Lily
-
+ー Lily　
+　
 Rob, you are fantastic.  There really should be more events like this, which have great potential to heal this broken world.   Our society would be so much better if we learned this type of communication at school instead of things like algebra and geometry that most of us never use and forget as soon as the course is over.
-    ー Andy Boerger
-
+ー Andy Boerger　
+　
 So happy that you are offering these events.   I think it's super valuable for the society at large,   especially as more people become aware of them  and start participating. Thank you!
-    ー Misa Christina
+ー Misa Christina　
 
 　
-=== When ===
+# When
 　
 HUMANDATE
 　
@@ -71,17 +71,17 @@ To maintain the integrity of the container, no one will be admitted after we sta
 　
 The Welcome Circle will last around an hour, then you are welcome to stay for Self-Directed Connection, socializing, and snacks. The space will be available until 15_B4_RENTAL_ENDS.
 　
-=== Where ===
+# Where
 　
 * 4 minutes walk from Kannai Station　
 * 6 minutes walk from Nihon-Odori Station　
 　
-=== Cost ===
+# Cost
 　
 * 5000 yen for 1 person
 * 7500 yen for 2 people (via Peatix TICKET_LINK)
 　
-=== Fine print ===
+# Fine print
 　
 Must be 18+ to attend.
 This is a sober event - please do not attend under the influence.
@@ -93,16 +93,14 @@ CANCELLATION: Please let me know if you cannot come. Tickets are nonrefundable, 
 We will not require any special COVID-19 precautions for this event. Vaccines and masks are optional.
 Of course, if you're feeling ill, please stay home. Otherwise, welcome.
 　
-=== About me, “Barefoot” Rob Nugen ===
+# About me, “Barefoot” Rob Nugen
 　
-I have a passion for connecting with the world around me, especially walking barefoot. This helps me to stay grounded, and appreciate the beauty of the present moment. I’m leading Cuddle Party events to help welcome us back into connection after an isolating pandemic.
+I have been running a men’s peer counseling group in Tokyo since 2015, and conducting in-person workshops in both Tokyo and Kanagawa since 2018. I’m leading Cuddle Party events to help welcome us back into connection after an isolating pandemic.　
 　
-I have been running a men’s peer counseling group in Tokyo since 2015, and conducting in-person workshops in both Tokyo and Kanagawa since 2018.
+Rob is amazing. He is a perfect facilitator in every way.
+He is caring, kind, self-effacing, honest. Ten out of ten.
 
-    Rob is amazing. He is a perfect facilitator in every way.
-    He is caring, kind, self-effacing, honest. Ten out of ten.
-
-    ー Andy Boerger
+ー Andy Boerger
 
 ----------------------------------------
 TOPICS  FEEL FREE TO CHANGE:
