@@ -1,22 +1,22 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Cuddle Party at Yoga Study Center in Yokohama"
+tags: [ "2023", "Barefoot Rob", "communication", "consent", "cuddle-party", "kannai", "may", "nihon-odori", "platonic touch", "workshop", "yogastudycenter", "yokohama", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2023-05-13T07:20:07+09:00
+EventLocation: "Yoga Study Center (Yokohama)"
+EventTime: "13:00"
+TimeDescription: "gather by 12:50 at Yoga Study Center (Yokohama)"
+EventDate: "2023-05-27T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
-    "/enalias_path",
+    "/en/events/2023/05/27cuddle-party-at-yoga-study-center-in-yokohama",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg" "cuddle party seated circle" %}}
 
 <div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
 </div>
 
 #### What is a Cuddle Party?
@@ -49,7 +49,7 @@ exploring consent and communication with others.
 
 #### RSVP on Peatix
 
-TICKET_LINK
+https://cuddle-party-tokyo-27-may-2023.peatix.com/
 
 #### What do we do at a Cuddle Party?
 
@@ -71,7 +71,7 @@ to practice inner awareness and clear expression of boundaries.
 After the communication workshop,
 we'll have 2 or more hours of Self-Directed Connection
 
-    Now it is time for you to ask for what you want, say yes and no to
+    This is a time for you to ask for what you want, say yes and no to
     requests and invitations, cuddle according to your desires and comfort
     (or just talk if you prefer), connect with fascinating people,
     "cuddle mingle," and, ultimately, relax into the flow of an unusually
@@ -82,8 +82,8 @@ we'll have 2 or more hours of Self-Directed Connection
     Cuddling can mean feet against feet, full-body hugs, head-rubs,
     spooning — it is, indeed, up to you.
     And, configurations and positions shift significantly
-    throughout the event, thanks in part to Rule 6 Change your mind &
-    keep yourself happy.
+    throughout the event, thanks in part to Rule 6:
+    You are encouraged to change your mind.
 
     from: https://cuddleparty.com/what-is-a-cuddle-party/
 
@@ -144,23 +144,24 @@ class="title" />
 
 #### When
 
-HUMANDATE
+Saturday 27 May 2023
 
-Doors will open at FIRST_GATHERING_TIME.
+Doors will open at 12:30.
 
-Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME
-so we can be settled and start our Welcome Circle at EVENT_TIME.
+Please arrive between 12:30 and 12:50
+so we can be settled and start our Welcome Circle at 13:00.
 
 #### Where
 
-5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
+* 4 minutes walk from Kannai Station
+* 6 minutes walk from Nihon-Odori Station
 
 #### Cost
 
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-[Buy tickets on Peatix](TICKET_LINK)
+[Buy tickets on Peatix](https://cuddle-party-tokyo-27-may-2023.peatix.com/)
 
 #### Fine print
 

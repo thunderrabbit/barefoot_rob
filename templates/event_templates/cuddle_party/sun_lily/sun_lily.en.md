@@ -1,22 +1,22 @@
 ---
-title: "Cuddle Party event in Tokyo"
-tags: [ "2023", "Barefoot Rob", "communication", "cuddle-party", "ikejiri-ohashi", "june", "sunlily", "workshop", "裸足のロブ" ]
+title: "%s"
+tags: [ %s ]
 author: Rob Nugen
-date: 2023-04-20T19:52:14+09:00
-EventLocation: "SunLily Yoga Studio"
-EventTime: "19:00"
-TimeDescription: "gather by 18:50 at SunLily Yoga Studio"
-EventDate: "2023-06-23T19:00:00+09:00"
+date: %s
+EventLocation: "EVENT_LOCATION"
+EventTime: "EVENT_TIME"
+TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION"
+EventDate: "%sTEVENT_TIME:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
-    "/en/events/2023/06/23cuddle-party-event-in-tokyo",
+    "/enalias_path",
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg" "cuddle party seated circle" %}}
+{{% img-responsive "episode_image" "episode_image_alt" %}}
 
 <div class="note">Image credit:
-<a href="https://cuddleparty.com/">https://cuddleparty.com/</a>
+<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
 </div>
 
 #### What is a Cuddle Party?
@@ -49,7 +49,7 @@ exploring consent and communication with others.
 
 #### RSVP on Peatix
 
-https://cuddle-party-tokyo-june-2023.peatix.com/
+TICKET_LINK
 
 #### What do we do at a Cuddle Party?
 
@@ -144,12 +144,12 @@ class="title" />
 
 #### When
 
-Friday 23 June 2023
+HUMANDATE
 
-Doors will open at 18:30.
+Doors will open at FIRST_GATHERING_TIME.
 
-Please arrive between 18:30 and 18:50
-so we can be settled and start our Welcome Circle at 19:00.
+Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME
+so we can be settled and start our Welcome Circle at EVENT_TIME.
 
 #### Where
 
@@ -160,7 +160,7 @@ so we can be settled and start our Welcome Circle at 19:00.
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-[Buy tickets on Peatix](https://cuddle-party-tokyo-june-2023.peatix.com/)
+[Buy tickets on Peatix](TICKET_LINK)
 
 #### Fine print
 

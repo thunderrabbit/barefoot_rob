@@ -82,8 +82,8 @@ we'll have 2 or more hours of Self-Directed Connection
     Cuddling can mean feet against feet, full-body hugs, head-rubs,
     spooning — it is, indeed, up to you.
     And, configurations and positions shift significantly
-    throughout the event, thanks in part to Rule 6 Change your mind &
-    keep yourself happy.
+    throughout the event, thanks in part to Rule 6:
+    You are encouraged to change your mind.
 
     from: https://cuddleparty.com/what-is-a-cuddle-party/
 

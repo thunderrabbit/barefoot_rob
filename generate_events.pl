@@ -40,6 +40,9 @@ do {
   } elsif($event_type_selector eq "cuddle_party_files") {
     print "\n$event_type_selector? Cuddle where?\n";
     %select_from_hash = %rpl::Constants::cuddle_party_files;
+  } elsif($event_type_selector eq "book_chapter_files") {
+    print "\n$event_type_selector? Write what?\n";
+    %select_from_hash = %rpl::Constants::book_chapter_files;
   } elsif($event_type_selector eq "previous_generators") {
     print "\n$event_type_selector? Which do you wanna copy?\n";
     # Get a hash of keys and file paths of generators created in the past month:
@@ -84,7 +87,11 @@ my @episode_thumbs = map { m{(.*)/([^/]+)}; "$1/thumbs/$2" } @episode_images;
 my $preferred_day_of_week = $rpl::Constants::event_day_of_week{$what_kinda_event};
 my $preferred_event_time = $rpl::Constants::event_primary_time{$what_kinda_event};
 my $get_time_bool = ($thing_to_do ne "copy generator");  # only need time if not creating a generator
-my $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time, $get_time_bool);   # default is now
+my $event_date_time = rpl::Functions::parse_user_date("2023-05-06 10:48:53");  # Without ->ymd "T11:45:00" appends to the date
+print("This is when I skipped event time for Book chapters ".$event_date_time->strftime("%A %d %B %Y %H:%M:%S"));
+if($what_kinda_event ne "otter_book_chapter") {
+  $event_date_time = rpl::Functions::get_date($rpl::Functions::dt,$preferred_day_of_week,$preferred_event_time, $get_time_bool);   # default is now
+}
 my $preferred_gathering_duration = $rpl::Constants::gather_minutes_before_event{$what_kinda_event} || 15;
 #-- begin figure out cleanup time
 print("This is when I fixed the event end time for Cuddle Party events: 2023-03-18 16:22");
@@ -111,7 +118,7 @@ print("This date is only related to walks; you can ignore it: 2021-04-16 12:00")
 my $walk_trip_started = rpl::Functions::parse_user_date("2021-04-16 12:00");  # Without ->ymd "T11:45:00" appends to the date
 my $ordinal_day_number;   # Used for realtime_book_chapter title and tags
 
-if($what_kinda_event eq "realtime_book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
+if($original_what_kinda_event eq "book_chapter" || rpl::Functions::this_looks_like_a_file_path($event_type_selector)) {
   # Don't need gathering_time, but do need a timestamp because of $first_gathering_time code etc
   $first_gathering_time = $event_date_time;   # not used for realtime_book_chapter
 } else {
@@ -180,8 +187,8 @@ if($need_image_url) {
 my ($peatix_prefix, $suggested_ticket_link);
 if($original_what_kinda_event eq "cuddle_party") {
   # get ticket link
-  my $template = "cuddle-party-tokyo-%s-%d";
-  $peatix_prefix = sprintf($template, lc($event_date_time->month_name), $event_date_time->year);
+  my $template = "cuddle-party-tokyo-%d-%s-%d";
+  $peatix_prefix = sprintf($template, $event_date_time->day, lc($event_date_time->month_name), $event_date_time->year);
   $suggested_ticket_link = "https://" . $peatix_prefix . ".peatix.com/";
 
 }
@@ -267,6 +274,7 @@ foreach my $extension (keys %event_templates) {
   my %event_output_directories = (
       "blog_entry" => $rpl::Constants::blog_directory . "/" . $rpl::Functions::dt->ymd("/"),             # don't end with slash, by `convention` above
       "realtime_book_chapter" => $rpl::Constants::slow_down_book_dir . "/" . rpl::Functions::prepend_book_title_based_on_date($event_date_time) . "-",   # don't end with slash because book directories have no dates
+      "otter_book_chapter" => $rpl::Constants::slow_down_book_dir . "/",
       "mkp_family" =>  "/",     # eventually create in MKP Japan web directory?
       "quest_update" => $rpl::Constants::niigata_walk_dir . "/" . $rpl::Functions::dt->ymd("/"),         # don't end with slash, by `convention` above
   );

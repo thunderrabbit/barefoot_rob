@@ -1,21 +1,50 @@
-Add Cover Photo
+title:       %s
+
+Organizer Barefoot Rob Nugen
+
+Type: Class, Training, or Workshop
+Category: Health and Wellness
+Subcategory: Personal Health
+
+Tags: boundaries, communication, consent, cuddleparty, mindfulness, platonic_touch, wellness, workshop
+
+Venue
+
+Venue: ヨガ スタディ センター
+
+(address 〒231-0012
+神奈川県横浜市中区相生町２丁目34-1 石井ビル
+
+Japan
+
+DATE AND TIME
+
+Single Event
+
+Starts: HUMANDATE EVENT_TIME
+
+Ends: HUMANDATE THREE_HOURS_AFTER_EVENT_TIME
+
+Display Start Time
+Display End Time
+
+Time Zone GMT+0900 Japan Time
+
+Language English
+
+Save とか
 
 episode_image
 
-title:       %s
-date HUMANDATE   EVENT_TIME
+(drag image to place it nicely)
 
-+ End Date and Time
+Summary:
 
-HUMANDATE  THREE_HOURS_AFTER_EVENT_TIME
+Join the Cuddle Party revolution! A communication workshop promoting consent, boundaries, & the health of platonic touch. #CuddleParty
 
-In person
+Description
 
-Add Location   SunLily Yoga Studio
-
-Public
-
-=== What is a Cuddle Party? ===
+# What is a Cuddle Party?
 
 A Cuddle Party is a non-sexual social event where participants practice communication and optionally explore platonic touch. Attendees practice setting clear boundaries, communicating their desires, and respecting each others' limits in a safe space.
 
@@ -23,9 +52,13 @@ Cuddle Parties provide an opportunity for nurturing, platonic touch and intimacy
 
 While sexual activity is prohibited at Cuddle Parties, some light touching like hugs, caresses, and snuggling is allowed between consenting attendees.
 
+https://b.robnugen.com/blog/2023/cuddle_party_spooning_260.jpg
+
 At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
 
-=== What do we do at a Cuddle Party? ===
+https://b.robnugen.com/blog/2023/cuddle_party_hands_260.jpg
+
+# What do we do at a Cuddle Party?
 
 We do two main things at Cuddle Parties:
 
@@ -38,21 +71,23 @@ We’ll start with an Welcome Circle to get us settled. We’ll then go through 
 
 After the communication workshop, we'll have 2 or more hours of Self-Directed Connection
 
-    This is a time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
+    This is time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
 
-    Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6 Change your mind & keep yourself happy.
+    Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6 You are encouraged to change your mind.
 
-    from: https://cuddleparty.com/what-is-a-cuddle-party/
+(from: https://cuddleparty.com/what-is-a-cuddle-party/)
 
 We'll finish with a closing circle to reflect on our experience.
 
-=== Why? ===
+# Why?
 
 Clear communication allows more harmonious relationships, regardless of the context.
 
 Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
 
-=== Testimonials ===
+https://b.robnugen.com/blog/2023/cuddle_party_circle_650.jpg
+
+# Testimonials
 
 It was a great event. Thank you so much.    Hope more and more people will join the event.   For us Japanese, we don't communicate that much by hugging, but I think people need it. Hugging helps people a lot to be feeling safe.   It was a great workshop.
     ー Lily
@@ -64,7 +99,7 @@ Rob, you are fantastic.  There really should be more events like this, which hav
     ー Misa Christina
 
 
-=== When ===
+# When
 
 HUMANDATE
 
@@ -76,18 +111,17 @@ To maintain the integrity of the container, no one will be admitted after we sta
 
 The Welcome Circle will last around an hour, then you are welcome to stay for Self-Directed Connection, socializing, and snacks. The space will be available until 15_B4_RENTAL_ENDS.
 
-=== Where ===
+# Where
 
-5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
+* 4 minutes walk from Kannai Station
+* 6 minutes walk from Nihon-Odori Station
 
-=== Cost ===
+# Cost
 
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-RSVP on Peatix TICKET_LINK
-
-=== Fine print ===
+# Fine print
 
 Must be 18+ to attend.
 This is a sober event - please do not attend under the influence.
@@ -99,7 +133,7 @@ CANCELLATION: Please let me know if you cannot come. Tickets are nonrefundable, 
 We will not require any special COVID-19 precautions for this event. Vaccines and masks are optional.
 Of course, if you're feeling ill, please stay home. Otherwise, welcome.
 
-=== About me, “Barefoot” Rob Nugen ===
+# About me, “Barefoot” Rob Nugen
 
 I have a passion for connecting with the world around me, especially walking barefoot. This helps me to stay grounded, and appreciate the beauty of the present moment. I’m leading Cuddle Party events to help welcome us back into connection after an isolating pandemic.
 
@@ -110,47 +144,54 @@ I have been running a men’s peer counseling group in Tokyo since 2015, and con
 
     ー Andy Boerger
 
--------------------------------------------
 
-Show Guest List   OFF
+Agenda:
+Welcome Circle
 
-Posts must be approved by a host
+EVENT_TIME   EVENT_TIME +1 hour
+The Welcome Circle sets the stage for a nurturing and connected Cuddle Party experience. During this one-hour communication workshop, we get to know each other by introducing ourselves and acquainting you with the fundamental Cuddle Party rules.
+Additionally, we provide helpful communication techniques and participate in engaging icebreaker activities to ensure everyone feels at ease. This warm and inviting environment is perfect for newcomers to forge lasting connections.
 
++ Add Agenda Item
 
+Self-Directed Connection
 
-----------------------------------------
-TOPICS  FEEL FREE TO CHANGE:
-* Wellness
-* Stress Management
-* Relaxation
-* Barefoot
-* Outdoors
+EVENT_TIME +1 hour  -  15_B4_RENTAL_ENDS
 
+If you choose to stay after the communication workshop, we'll have 2 or more hours of Self-Directed Connection
 
-UNSELECT Make this an online event
+This is time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
 
-CLICK SunLily Yoga Studio
+Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6: You are encouraged to change your mind.
 
-CLICK Edit map pin
-
-SLIDE MAP under pin
+SAVE AND CONTINUE
 
 
-+++++++++++++++++++++++++++++++++++++++++++++++
-How to find us:
-Come to SunLily Yoga Studio (3F) by ARRIVE_BY_TIME
-+++++++++++++++++++++++++++++++++++++++++++++++
+Next: Tickets
 
+Paid Ticket +
 
+Ticket Type     Price      Quantity
+One attendee    ¥ 5000　　　8
 
-Optional settings
++ Paid Ticket
 
-Allow guests:    1
+Ticket Type     Price      Quantity
+Two attendees   ¥ 7500　　 5
 
-Event fee:  ON
-Direct from member
-JPY    5000
+Stop all ticket sales (day before)
 
-Publish
+NOT Allow ticket transfer
 
-Notify
+Next: Details
+
+link: TICKET_LINK_PREFIX
+
+Save and Publish
+
+View event
+
+Share   (right of photo bottom)
+Copy URL
+
+search for it here

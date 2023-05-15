@@ -1,49 +1,31 @@
-title:       %s
-
-Physical event
-
-Starts: HUMANDATE EVENT_TIME
-
-Ends: HUMANDATE THREE_HOURS_AFTER_EVENT_TIME
-
-Venue: yoga.sunlily
-
-Next: Tickets
-
-Paid Ticket +
-
-Ticket Type     Price      Quantity
-One attendee    ¥ 5000　　　8
-
-+ Paid Ticket
-
-Ticket Type     Price      Quantity
-Two attendees   ¥ 7500　　 5
-
-Stop all ticket sales (day before)
-
-NOT Allow ticket transfer
-
-Next: Details
+Add Cover Photo
 
 episode_image
 
-(drag image to place it nicely)
+title:       %s
+date HUMANDATE   EVENT_TIME
 
-# What is a Cuddle Party?
++ End Date and Time
+
+HUMANDATE  THREE_HOURS_AFTER_EVENT_TIME
+
+In person
+
+Add Location   SunLily Yoga Studio
+
+Public
+
+=== What is a Cuddle Party? ===
 
 A Cuddle Party is a non-sexual social event where participants practice communication and optionally explore platonic touch. Attendees practice setting clear boundaries, communicating their desires, and respecting each others' limits in a safe space.
 
 Cuddle Parties provide an opportunity for nurturing, platonic touch and intimacy, which supports well-being and balanced emotions.
 
-https://b.robnugen.com/blog/2023/cuddle_party_hands_260.jpg
-https://b.robnugen.com/blog/2023/cuddle_party_spooning_260.jpg
-
 While sexual activity is prohibited at Cuddle Parties, some light touching like hugs, caresses, and snuggling is allowed between consenting attendees.
 
 At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
 
-# What do we do at a Cuddle Party?
+=== What do we do at a Cuddle Party? ===
 
 We do two main things at Cuddle Parties:
 
@@ -56,23 +38,21 @@ We’ll start with an Welcome Circle to get us settled. We’ll then go through 
 
 After the communication workshop, we'll have 2 or more hours of Self-Directed Connection
 
-    This is time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
+    This is a time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
 
-    Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6 Change your mind & keep yourself happy.
+    Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6: You are encouraged to change your mind.
 
-    (from: https://cuddleparty.com/what-is-a-cuddle-party/)
+    from: https://cuddleparty.com/what-is-a-cuddle-party/
 
 We'll finish with a closing circle to reflect on our experience.
 
-# Why?
+=== Why? ===
 
 Clear communication allows more harmonious relationships, regardless of the context.
 
 Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
 
-https://b.robnugen.com/blog/2023/cuddle_party_circle_650.jpg
-
-# Testimonials
+=== Testimonials ===
 
 It was a great event. Thank you so much.    Hope more and more people will join the event.   For us Japanese, we don't communicate that much by hugging, but I think people need it. Hugging helps people a lot to be feeling safe.   It was a great workshop.
     ー Lily
@@ -83,7 +63,8 @@ Rob, you are fantastic.  There really should be more events like this, which hav
  So happy that you are offering these events.   I think it's super valuable for the society at large,   especially as more people become aware of them  and start participating. Thank you!
     ー Misa Christina
 
-# When
+
+=== When ===
 
 HUMANDATE
 
@@ -95,16 +76,18 @@ To maintain the integrity of the container, no one will be admitted after we sta
 
 The Welcome Circle will last around an hour, then you are welcome to stay for Self-Directed Connection, socializing, and snacks. The space will be available until 15_B4_RENTAL_ENDS.
 
-# Where
+=== Where ===
 
 5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
 
-# Cost
+=== Cost ===
 
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-# Fine print
+RSVP on Peatix TICKET_LINK
+
+=== Fine print ===
 
 Must be 18+ to attend.
 This is a sober event - please do not attend under the influence.
@@ -116,7 +99,7 @@ CANCELLATION: Please let me know if you cannot come. Tickets are nonrefundable, 
 We will not require any special COVID-19 precautions for this event. Vaccines and masks are optional.
 Of course, if you're feeling ill, please stay home. Otherwise, welcome.
 
-# About me, “Barefoot” Rob Nugen
+=== About me, “Barefoot” Rob Nugen ===
 
 I have a passion for connecting with the world around me, especially walking barefoot. This helps me to stay grounded, and appreciate the beauty of the present moment. I’m leading Cuddle Party events to help welcome us back into connection after an isolating pandemic.
 
@@ -127,29 +110,47 @@ I have been running a men’s peer counseling group in Tokyo since 2015, and con
 
     ー Andy Boerger
 
-link: TICKET_LINK_PREFIX
+-------------------------------------------
 
-Preview and Save
+Show Guest List   OFF
 
-Edit
+Posts must be approved by a host
 
-Create Form --> Cuddle Party Connection (ENABLE)
 
-Tag & Publish
 
-スキルアップ
+----------------------------------------
+TOPICS  FEEL FREE TO CHANGE:
+* Wellness
+* Stress Management
+* Relaxation
+* Barefoot
+* Outdoors
 
-Choose Topics
 
-スキルアップ
-コミュニケーション
-マインドセット
+UNSELECT Make this an online event
 
-Save and Publish
+CLICK SunLily Yoga Studio
 
-View event
+CLICK Edit map pin
 
-Share   (right of photo bottom)
-Copy URL
+SLIDE MAP under pin
 
-search for it here
+
++++++++++++++++++++++++++++++++++++++++++++++++
+How to find us:
+Come to SunLily Yoga Studio (3F) by ARRIVE_BY_TIME
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Optional settings
+
+Allow guests:    1
+
+Event fee:  ON
+Direct from member
+JPY    5000
+
+Publish
+
+Notify

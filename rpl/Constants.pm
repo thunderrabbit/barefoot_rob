@@ -8,7 +8,8 @@ our $home = $ENV{HOME};    # https://stackoverflow.com/a/1451420/194309
 my $dt = DateTime->now();
 
 my $repo_directory = $ENV{BAREFOOT_ROB_MASTER} || "$home/barefoot_rob_master";
-my $templates = "$repo_directory/event_templates";
+my $event_templates = "$repo_directory/templates/event_templates";
+my $writing_templates = "$repo_directory/templates/writing_templates";
 our $blt_blurbs = "$repo_directory/event_generators/blt/blurbs";
 our $event_generator_log = "$repo_directory/event_generators/" . $dt->ymd("_") . "_log.txt";
 our $content_directory = "$repo_directory/content";
@@ -19,138 +20,152 @@ our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directo
 
 our %cuddle_party_files = (
     "sun_lily" => [
-      "$templates/cuddle_party/sun_lily/sun_lily.en.md",
-      "$templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
-      "$templates/cuddle_party/sun_lily/sun_lily.eventbrite.txt",
-      "$templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
-      "$templates/cuddle_party/sun_lily/sun_lily.peatix.txt",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.en.md",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.eventbrite.txt",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.peatix.txt",
+    ],
+    "yoga_study_center" => [
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.en.md",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.meetup.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.eventbrite.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.facebook.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.peatix.txt",
+    ],
+);
+
+our %book_chapter_files = (
+    "realtime_book_chapter" => [
+      "$writing_templates/realtime_book_chapter_template.md",
+    ],
+    "otter_book_chapter" => [
+      "$writing_templates/otter_book_chapter_template.md",
     ],
 );
 
 our %walk_location_files = (
     "yoyogi_park" => [
-      "$templates/walk_and_talk/yoyogi_park/yoyogi_park.en.md",
-      "$templates/walk_and_talk/yoyogi_park/yoyogi_park.ja.md",
-      "$templates/walk_and_talk/yoyogi_park/yoyogi_park.facebook.txt",
-      "$templates/walk_and_talk/yoyogi_park/yoyogi_park.meetup.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/yoyogi_park/yoyogi_park.en.md",
+      "$event_templates/walk_and_talk/yoyogi_park/yoyogi_park.ja.md",
+      "$event_templates/walk_and_talk/yoyogi_park/yoyogi_park.facebook.txt",
+      "$event_templates/walk_and_talk/yoyogi_park/yoyogi_park.meetup.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "rinko_park" => [
-      "$templates/walk_and_talk/rinko_park/rinko_park.en.md",
-      "$templates/walk_and_talk/rinko_park/rinko_park.ja.md",
-      "$templates/walk_and_talk/rinko_park/rinko_park.facebook.txt",
-      "$templates/walk_and_talk/rinko_park/rinko_park.meetup.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/rinko_park/rinko_park.en.md",
+      "$event_templates/walk_and_talk/rinko_park/rinko_park.ja.md",
+      "$event_templates/walk_and_talk/rinko_park/rinko_park.facebook.txt",
+      "$event_templates/walk_and_talk/rinko_park/rinko_park.meetup.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "porta_to_rinko_park" => [
-      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.en.md",
-      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.ja.md",
-      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.facebook.txt",
-      "$templates/walk_and_talk/rinko_park/porta_to_rinko_park.meetup.txt",
+      "$event_templates/walk_and_talk/rinko_park/porta_to_rinko_park.en.md",
+      "$event_templates/walk_and_talk/rinko_park/porta_to_rinko_park.ja.md",
+      "$event_templates/walk_and_talk/rinko_park/porta_to_rinko_park.facebook.txt",
+      "$event_templates/walk_and_talk/rinko_park/porta_to_rinko_park.meetup.txt",
     ],
     "rinshi_no_mori" => [
-      "$templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.en.md",
-      "$templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.ja.md",
-      "$templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.facebook.txt",
-      "$templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.meetup.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.en.md",
+      "$event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.ja.md",
+      "$event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.facebook.txt",
+      "$event_templates/walk_and_talk/rinshi_no_mori/rinshi_no_mori.meetup.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "karakida_tama_center" => [
-      "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.en.md",
-      "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.ja.md",
-      "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.facebook.txt",
-      "$templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.meetup.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.en.md",
+      "$event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.ja.md",
+      "$event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.facebook.txt",
+      "$event_templates/walk_and_talk/karakida_to_tama_center/karakida_tama_center.meetup.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "izumi_tamagawa" => [
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.en.md",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.ja.md",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.facebook.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.meetup.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.message.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.twitter.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.en.md",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.ja.md",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.facebook.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.meetup.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.message.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa.twitter.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "izumi_tamagawa_full_moon" => [
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.en.md",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.ja.md",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.facebook.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.meetup.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.message.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.twitter.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.en.md",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.ja.md",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.facebook.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.meetup.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.message.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.twitter.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "izumi_tamagawa_new_moon" => [
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.en.md",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.facebook.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.meetup.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.message.txt",
-      "$templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.twitter.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.en.md",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.facebook.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.meetup.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.message.txt",
+      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.twitter.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "shin_yuri_art_park" => [
-      "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.en.md",
-      "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.ja.md",
-      "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.facebook.txt",
-      "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.meetup.txt",
-      "$templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.twitter.txt",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.en.md",
+      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.ja.md",
+      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.facebook.txt",
+      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.meetup.txt",
+      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.twitter.txt",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "shin_yuri_manpukuji_park" => [
-      "$templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.en.md",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.en.md",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "todoroki_valley" => [
-      "$templates/walk_and_talk/todoroki_valley/todoroki_valley.en.md",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/todoroki_valley/todoroki_valley.en.md",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "hossawa_falls" => [
-      "$templates/walk_and_talk/hossawa_falls/hossawa_falls.en.md",
-      "$templates/walk_and_talk/hossawa_falls/hossawa_falls.ja.md",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/walk_and_talk/hossawa_falls/hossawa_falls.en.md",
+      "$event_templates/walk_and_talk/hossawa_falls/hossawa_falls.ja.md",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "hikarie_to_foot_bath" => [
-      "$templates/walk_and_talk/hikarie_to_foot_bath/hikarie_to_foot_bath.en.md",
+      "$event_templates/walk_and_talk/hikarie_to_foot_bath/hikarie_to_foot_bath.en.md",
     ],
 );
 
 #  ///   MUST ALSO DO %event_output_directories   ///
 our %event_template_files = (
     "blog_entry" => [
-      "$templates/blog_template.md",
-    ],
-    "realtime_book_chapter" => [
-      "$templates/realtime_book_chapter_template.md",
+      "$writing_templates/blog_template.md",
     ],
     "weekly_alignment" => [
-      "$templates/event_weekly-alignment_template.md",
+      "$event_templates/event_weekly-alignment_template.md",
     ],
     "mkp_family" => [
-      "$templates/mkp/mkp_yoyogi_family_hangout_slack.md",
-      "$templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$templates/walk_and_talk/___.t-14days_reminder.txt",
+      "$event_templates/mkp/mkp_yoyogi_family_hangout_slack.md",
+      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "walking_meditation" => [
-      "$templates/event_walking_meditation_template.md",
+      "$event_templates/event_walking_meditation_template.md",
     ],
     "barefoot_walk" => "walk_location_files",
+    "book_chapter" => "book_chapter_files",
     "cuddle_party" => "cuddle_party_files",
     "yo_i_wanna_copy" => "previous_generators",
     "quest_update" => [
-      "$templates/niigata_2021_walking_update.md",
+      "$writing_templates/niigata_2021_walking_update.md",
     ],
     "bold_life_tribe" => [
-      "$templates/bold-life-tribe/weekly-online-events.en.md",
+      "$event_templates/bold-life-tribe/weekly-online-events.en.md",
     ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
@@ -212,6 +227,7 @@ our %event_locations = (
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
     "sun_lily" => "SunLily Yoga Studio",
+    "yoga_study_center" => "Yoga Study Center (Yokohama)",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
 );
@@ -219,11 +235,12 @@ our %event_locations = (
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
 # not used because https://github.com/thunderrabbit/barefoot_rob/issues/4
 my %walk_and_talk_tags = ("walk" => 1, "裸足のロブ" => 1, "はだし" => 1, "barefoot" => 1, "event" => 1, "Barefoot Rob" => 1);
-my %cuddle_party_tags = ("communication" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1, "cuddle-party" => 1, "workshop" => 1);
+my %cuddle_party_tags = ("communication" => 1, "consent" => 1, "platonic touch" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1, "cuddle-party" => 1, "workshop" => 1);
 
 our %event_tag_hashes = (
     "blog_entry" => {"blog" => 1},
     "realtime_book_chapter" => {"book" => 1, "walk" => 1},
+    "otter_book_chapter" => {"book" => 1, "otter" => 1},
     "weekly_alignment" => {"weekly" => 1, "alignment" => 1, "event" => 1},
     "walking_meditation" => {"walk" => 1, "meditation" => 1, "event" => 1},
     "karakida_tama_center" => {%walk_and_talk_tags, ("Tama Center" => 1, "Karakida" => 1, "多摩センター駅" => 1, "唐木田駅" => 1)},
@@ -233,6 +250,7 @@ our %event_tag_hashes = (
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "sun_lily" => {%cuddle_party_tags, ("sunlily" => 1, "ikejiri-ohashi" => 1)},
+    "yoga_study_center" => {%cuddle_party_tags, ("yogastudycenter" => 1, "yokohama" => 1, "kannai" => 1, "nihon-odori" => 1)},
     "todoroki_valley" => {%walk_and_talk_tags, ("todoroki" => 1, "等々力渓谷" => 1, "city" => 1)},
     "hikarie_to_foot_bath" => {%walk_and_talk_tags, ("shibuya" => 1, "hikarie" => 1, "toyoko" => 1)},
     "hossawa_falls" => {%walk_and_talk_tags, ("hossawa" => 1, "nishitama" => 1, "払沢の滝" => 1, "bonbori" => 1, "盆堀山" => 1)},

@@ -197,7 +197,7 @@ out of plants.  Basically out of wheat or straw or something.
 
 *Making a rope!*
 
-Now rope just magically squirts out of a rope machine,
+Now, rope just magically squirts out of a rope machine,
 apparently at a Factory on the other end of my mailman's route.
 
 Now we've got not just rope, but cars, airplanes, ball point pens, and all kinds of stuff.
