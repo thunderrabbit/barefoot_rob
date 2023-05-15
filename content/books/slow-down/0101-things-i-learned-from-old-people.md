@@ -47,3 +47,6 @@ I must do it.  Aaaggggghhh  and that was.... (checks email) 8 months ago.
 
 Robert Golden: "What do you really want to do?"
 <br>well, I want to walk across Japan..
+
+Vince: "Use whisper.ai"
+<br>https://www.youtube.com/watch?v=8SQV-B83tPU
