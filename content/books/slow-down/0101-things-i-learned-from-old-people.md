@@ -35,11 +35,15 @@ Jon: "That Guy in Austin"
 Rob: "It takes longer to live a life than read a biography"
 <br>change takes time in 3D.
 
+Anikiko: "Follow The Whispers"
+<br>How many different ways can I say the same thing?
+
 John: "Tell them I'm the expensive one"
 <br>You create your own life
 
 Paola: "If you've found a program that works, grab on."
 <br>No need to compare spiritual paths
+<br>Prodigal son story
 
 Frederick Marx: "it falls to each generation to teach the new generation"
 <br>I burst into tears when I read that.  Oh fuck.  I can't do it.  
@@ -48,5 +52,27 @@ I must do it.  Aaaggggghhh  and that was.... (checks email) 8 months ago.
 Robert Golden: "What do you really want to do?"
 <br>well, I want to walk across Japan..
 
-Vince: "Use whisper.ai"
-<br>https://www.youtube.com/watch?v=8SQV-B83tPU
+All you -> me:
+
+<br>This is like a spiritual life biography for you.
+
+And a key story you want to bring up across the course is not crying at his funeral.
+<br>emotions are important
+
+The way that you express yourself as the way that the world responds to you.
+
+Now the lesson in here is learning to tie it another
+one is learning about gratitude.
+
+That your grandma doesn't care what you call her
+<br>using that as an allegory for understanding that
+God doesn't care what you call him or her
+
+allowing people to recognize that they are here for a reason
+
+That there must be a reason for life,
+
+Tuning into the will of God as another one.
+
+God dwells in you as you
+<br>which is a core part of what you want to get across in that.
