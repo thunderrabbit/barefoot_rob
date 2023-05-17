@@ -25,6 +25,7 @@ our %cuddle_party_files = (
       "$event_templates/cuddle_party/sun_lily/sun_lily.eventbrite.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.peatix.txt",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.welcome_email.txt",
     ],
     "yoga_study_center" => [
       "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.en.md",

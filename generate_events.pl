@@ -216,6 +216,7 @@ foreach my $extension (keys %event_templates) {
     $mt3_episode_output =~ s/^(date: .*)/date: $rpl::Functions::tz_date/im;  ## timestamp of when ./generate_events.pl was called
   }
   my $human_date = $event_date_time->strftime("%A %d %B %Y");  # https://metacpan.org/pod/DateTime#strftime-Patterns
+  my $short_date = rpl::Functions::ordinate($event_date_time->strftime("%B %d"));  # https://metacpan.org/pod/DateTime#strftime-Patterns
   my $date_14_days_before = $t_minus_14_days_date->strftime("%A %d %B %Y");
   my $date_07_days_before = $t_minus_07_days_date->strftime("%A %d %B %Y");
   my $event_yyyy = $event_date_time->year;   # https://metacpan.org/pod/DateTime
@@ -236,6 +237,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/CHAPTER_BLOCK/$chapter_contents/;
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/EVENT_LOCATION/$event_location/g;
+  $mt3_episode_output =~ s/SHORTDATE/$short_date/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
   $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;   # for reminders
   $mt3_episode_output =~ s/T_MINUS_14_DAYS_DATE/$date_14_days_before/g;    # for reminders
