@@ -15,7 +15,7 @@ Granddad: "I'm just damn fine."
 <br>Emotions are important
 
 Monner: "Stop sending me these checks."
-<br>God loves me no matter what
+<br>Grandmother and God loves me no matter what
 
 Ricky: "Now it's time to build the magnificent structure on the foundation you've created."
 <br>My life has purpose
@@ -51,6 +51,27 @@ I must do it.  Aaaggggghhh  and that was.... (checks email) 8 months ago.
 
 Robert Golden: "What do you really want to do?"
 <br>well, I want to walk across Japan..
+
+---
+
+Story of my walk across honshu
+
+---
+
+Things I learned from young people:
+
+Robert Golden: "Have you read _Whatever Arises, Love That_"
+
+Robert M: "Welcome to speak at TEDxOgikubo"
+
+Soness Stevens: "Step on the red dot"
+
+Pavel: "we met at HackerX"
+<br>Shine uniquely
+
+
+
+
 
 All you -> me:
 
