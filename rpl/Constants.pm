@@ -33,6 +33,7 @@ our %cuddle_party_files = (
       "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.eventbrite.txt",
       "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.facebook.txt",
       "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.peatix.txt",
+      "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.welcome_email.txt",
     ],
 );
 
