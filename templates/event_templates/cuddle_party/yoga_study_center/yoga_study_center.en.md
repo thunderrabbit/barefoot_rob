@@ -153,8 +153,8 @@ so we can be settled and start our Welcome Circle at EVENT_TIME.
 
 #### Where
 
-* 4 minutes walk from Kannai Station
-* 6 minutes walk from Nihon-Odori Station
+* 5 minutes walk from Minatomirai Line Nihon-Odori Station
+* 6 minutes walk from JR Kannai Station
 
 #### Cost
 
