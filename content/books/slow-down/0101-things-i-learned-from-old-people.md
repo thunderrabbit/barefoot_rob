@@ -69,9 +69,18 @@ Soness Stevens: "Step on the red dot"
 Pavel: "we met at HackerX"
 <br>Shine uniquely
 
+UA: "Be all you can be isn't necessarily what God wants you to be."
 
+UA: "God as you understand God"
 
+podcast: "Tithing tells God what you think is important in the world."
 
+podcast / Rob "Tithing tells God you have enough money to tithe."
+
+Emma Wild: "It may take time.  It will grow if you keep at it and continue long term."
+
+Dai: "There is no time for any of that."
+<br>addictions, distrust, hatred, fear,
 
 All you -> me:
 
