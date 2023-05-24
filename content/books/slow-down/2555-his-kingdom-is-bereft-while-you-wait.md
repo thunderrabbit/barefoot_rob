@@ -216,10 +216,8 @@ in this morning. And yeah, really feeling the gratitude and
 blessing. And this is the the type of thing that I'm finding is normal
 as I'm continuing to shine gratitude out into the world.
 
-Oh, and I, I talked to Eli this morning. No, no, no, sorry. That's
-interesting. I talked to Eli yesterday at the picnic, and I was like,
-What did I say? Because at that point, I didn't know about the 555
-that was coming up. I said, Oh, I said, How does gratitude work? And
+Oh, and I, I talked to Eli yesterday at the picnic, and I asked,
+How does gratitude work? And
 he basically said, that this is a theory and he heard and he doesn't
 know but that the, the formlessnesss, out of which the form arises, is
 most effectively directed with our vision, and our gratitude. And
@@ -289,3 +287,17 @@ importance. And thank you for sharing them with us.
 Sending you all the love in the world. Nice little chime in the
 recording here sending you all the love in the world. Bless you, and I
 love you. Looking forward to see you soon
+
+----------
+
+25 May 2023
+
+This morning Lin suggested we swap rooms in our house.  
+Her room is nicer for me and mine better for her.  
+We have considered the change a few times over the years that we have been here.
+
+On May 10th 2023, I put the final lock on my shelves to
+bolt them to the wall so they won't fall in an earthquake.
+
+How interesting that just 15 days later Lin comes up with the idea
+to change rooms, just after I finalized my last shelf to the wall...
