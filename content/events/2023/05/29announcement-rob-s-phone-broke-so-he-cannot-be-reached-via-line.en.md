@@ -5,7 +5,7 @@ author: Rob Nugen
 date: 2023-05-29T05:19:06+09:00
 EventLocation: "phone shop"
 EventTime: "soon:"
-TimeDescription: "presumably this week"
+TimeDescription: "presumably the week of"
 EventDate: "2023-05-29T23:00:00+09:00"
 aliases: [
     "/en/events/2023/05/29announcement-rob-s-phone-broke-so-he-cannot-be-reached-via-line",
@@ -22,7 +22,7 @@ So I cannot be reached via LINE until I replace my phone, hopefully this week.
 
 I've emailed peeps for whom I might expect a message within the week.
 
-Walking events this weekend are ON in case of rain.
+Walking events this weekend are ON even if it rains.
 
 blessings
 <br>Rob
