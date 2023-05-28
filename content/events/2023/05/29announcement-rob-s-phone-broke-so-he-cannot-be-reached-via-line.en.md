@@ -18,11 +18,11 @@ Box of books representing out with the old (and in with the new)!
 
 This is a non-event announcement that confirms my phone broke last night.
 
-So I cannot be reached via LINE until I replace my phone, hopefully this week.
+I cannot be reached via LINE until I replace my phone, hopefully this week.
 
 I've emailed peeps for whom I might expect a message within the week.
 
-Walking events this weekend are ON even if it rains.
+Walking events this weekend will still happen regardless of rain.
 
 blessings
 <br>Rob
