@@ -49,6 +49,15 @@ Frederick Marx: "it falls to each generation to teach the new generation"
 <br>I burst into tears when I read that.  Oh fuck.  I can't do it.  
 I must do it.  Aaaggggghhh  and that was.... (checks email) 8 months ago.
 
+Joe McMoneagle: "Just start planning"
+<br>Whatever you wanna do starts with an idea.
+
+Robert Monroe: "Life on earth is addictive"
+<br>We want to come back again and again (to resolve our karma = mismatch from living according to Love --> Law of One)
+
+______: "God dwells in you as you"
+
+
 Robert Golden: "What do you really want to do?"
 <br>well, I want to walk across Japan..
 
