@@ -7,6 +7,7 @@ EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "20:00"
 TimeDescription: "19:45に集合、19:55に多摩川まで歩く"
 EventDate: "2023-06-04T20:00:00+09:00"
+EventType: "Barefoot meditation"
 aliases: [
     "/ja/events/2023/06/04barefoot-walk-and-full-moon-meditation",
 ]

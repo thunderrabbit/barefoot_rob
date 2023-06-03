@@ -7,6 +7,7 @@ EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2023-06-03T14:00:00+09:00"
+EventType: "Barefoot grounding"
 aliases: [
     "/en/events/2023/06/03lush-grassy-barefoot-walk-in-june",
 ]
