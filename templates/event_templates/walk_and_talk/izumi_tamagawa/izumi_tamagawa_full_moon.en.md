@@ -7,6 +7,7 @@ EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Tama River at IZUMI_DEPARTURE_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
+EventType: "Barefoot meditation"
 aliases: [
     "/enalias_path",
 ]

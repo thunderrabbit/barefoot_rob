@@ -7,6 +7,7 @@ EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "FIRST_GATHERING_TIMEに集合、IZUMI_DEPARTURE_TIMEに多摩川まで歩く"
 EventDate: "%sTEVENT_TIME:00+09:00"
+EventType: "Barefoot meditation"
 aliases: [
     "/jaalias_path",
 ]
