@@ -7,6 +7,7 @@ EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "16:00"
 TimeDescription: "新百合ヶ丘駅で15:30に集合、16:00に新ゆりアートパークス"
 EventDate: "2023-08-05T16:00:00+09:00"
+EventType: "裸足のアーシング"
 aliases: [
     "/ja/events/2023/08/05sunny-barefoot-walk-in-soft-cool-grass",
 ]

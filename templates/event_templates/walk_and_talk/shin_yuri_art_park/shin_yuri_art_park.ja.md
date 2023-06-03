@@ -7,6 +7,7 @@ EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "新百合ヶ丘駅でFIRST_GATHERING_TIMEに集合、EVENT_TIMEに新ゆりアートパークス"
 EventDate: "%sTEVENT_TIME:00+09:00"
+EventType: "裸足のアーシング"
 aliases: [
     "/jaalias_path",
 ]

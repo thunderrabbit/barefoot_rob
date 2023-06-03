@@ -7,6 +7,7 @@ EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "Meet at 2F of Hikarie, facing Shibuya Scramble Square."
 EventDate: "%sTEVENT_TIME:00+09:00"
+EventType: "Barefoot city walk"
 aliases: [
     "/enalias_path",
 ]

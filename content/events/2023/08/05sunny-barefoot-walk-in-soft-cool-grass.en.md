@@ -7,6 +7,7 @@ EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "16:00"
 TimeDescription: "gather at 15:30; enter Shin Yuri Art Park at 16:00"
 EventDate: "2023-08-05T16:00:00+09:00"
+EventType: "Barefoot grounding"
 aliases: [
     "/en/events/2023/08/05sunny-barefoot-walk-in-soft-cool-grass",
 ]

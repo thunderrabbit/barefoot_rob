@@ -7,6 +7,7 @@ EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME in Porta near Pronto Cafe"
 EventDate: "%sTEVENT_TIME:00+09:00"
+EventType: "Barefoot by the sea"
 aliases: [
     "/enalias_path",
 ]

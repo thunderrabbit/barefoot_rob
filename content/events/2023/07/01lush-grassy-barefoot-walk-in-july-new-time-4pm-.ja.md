@@ -7,6 +7,7 @@ EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "16:00"
 TimeDescription: "新百合ヶ丘駅で15:30に集合、16:00に新ゆりアートパークス"
 EventDate: "2023-07-01T16:00:00+09:00"
+EventType: "裸足のアーシング"
 aliases: [
     "/ja/events/2023/07/01lush-grassy-barefoot-walk-in-july",
     "/ja/events/2023/07/01lush-grassy-barefoot-walk-in-july-new-time-4pm-",
