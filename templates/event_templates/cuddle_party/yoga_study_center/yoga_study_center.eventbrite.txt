@@ -97,7 +97,7 @@ It was a great event. Thank you so much.    Hope more and more people will join 
 Rob, you are fantastic.  There really should be more events like this, which have great potential to heal this broken world.   Our society would be so much better if we learned this type of communication at school instead of things like algebra and geometry that most of us never use and forget as soon as the course is over.
     ー Andy Boerger
 
- So happy that you are offering these events.   I think it's super valuable for the society at large,   especially as more people become aware of them  and start participating. Thank you!
+So happy that you are offering these events.   I think it's super valuable for the society at large,   especially as more people become aware of them  and start participating. Thank you!
     ー Misa Christina
 
 
@@ -105,13 +105,7 @@ Rob, you are fantastic.  There really should be more events like this, which hav
 
 HUMANDATE
 
-Doors will open at FIRST_GATHERING_TIME.
-
 Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settled and start our Welcome Circle at EVENT_TIME.
-
-To maintain the integrity of the container, no one will be admitted after we start the Welcome Circle. Allowing late arrivals could disrupt the flow of introductions and discussions about boundaries and consent that help establish the supportive environment of the cuddle party.
-
-The Welcome Circle will last around an hour, then you are welcome to stay for Self-Directed Connection, socializing, and snacks. The space will be available until 15_B4_RENTAL_ENDS.
 
 # Where
 

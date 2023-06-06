@@ -146,8 +146,6 @@ class="title" />
 
 HUMANDATE
 
-Doors will open at FIRST_GATHERING_TIME.
-
 Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME
 so we can be settled and start our Welcome Circle at EVENT_TIME.
 

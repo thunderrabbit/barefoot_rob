@@ -1,22 +1,22 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Cuddle Party communication workshop in Tokyo"
+tags: [ "2023", "Barefoot Rob", "communication", "consent", "cuddle-party", "ikejiri-ohashi", "july", "platonic touch", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2023-06-06T19:12:12+09:00
+EventLocation: "SunLily Yoga Studio"
+EventTime: "13:00"
+TimeDescription: "gather by 12:50 at SunLily Yoga Studio"
+EventDate: "2023-07-29T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
-    "/enalias_path",
+    "/en/events/2023/07/29cuddle-party-communication-workshop-in-tokyo",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2023/cuddle_party_seated_circle.jpg" "cuddle party seated circle" %}}
 
 <div class="note">Image credit:
-<a href="IMAGE_CREDIT">IMAGE_CREDIT</a>
+<a href="https://cuddleparty.com">https://cuddleparty.com</a>
 </div>
 
 #### What is a Cuddle Party?
@@ -49,7 +49,7 @@ exploring consent and communication with others.
 
 #### RSVP on Peatix
 
-TICKET_LINK
+https://cuddle-party-tokyo-29-july-2023.peatix.com/
 
 #### What do we do at a Cuddle Party?
 
@@ -71,7 +71,7 @@ to practice inner awareness and clear expression of boundaries.
 After the communication workshop,
 we'll have 2 or more hours of Self-Directed Connection
 
-    This is a time for you to ask for what you want, say yes and no to
+    Now it is time for you to ask for what you want, say yes and no to
     requests and invitations, cuddle according to your desires and comfort
     (or just talk if you prefer), connect with fascinating people,
     "cuddle mingle," and, ultimately, relax into the flow of an unusually
@@ -144,22 +144,23 @@ class="title" />
 
 #### When
 
-HUMANDATE
+Saturday 29 July 2023
 
-Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME
-so we can be settled and start our Welcome Circle at EVENT_TIME.
+Doors will open at 12:30.
+
+Please arrive between 12:30 and 12:50
+so we can be settled and start our Welcome Circle at 13:00.
 
 #### Where
 
-* 5 minutes walk from Minatomirai Line Nihon-Odori Station
-* 6 minutes walk from JR Kannai Station
+5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
 
 #### Cost
 
 * 5000 yen for 1 person
 * 7500 yen for 2 people
 
-[Buy tickets on Peatix](TICKET_LINK)
+[Buy tickets on Peatix](https://cuddle-party-tokyo-29-july-2023.peatix.com/)
 
 #### Fine print
 
