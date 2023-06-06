@@ -1,3 +1,5 @@
+https://www.eventbrite.com/manage/events/create
+
 title:       %s
 
 Organizer Barefoot Rob Nugen
