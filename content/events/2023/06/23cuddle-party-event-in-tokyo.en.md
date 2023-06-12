@@ -1,11 +1,11 @@
 ---
 title: "Cuddle Party event in Tokyo"
-tags: [ "2023", "Barefoot Rob", "communication", "cuddle-party", "ikejiri-ohashi", "june", "sunlily", "workshop", "裸足のロブ" ]
+tags: [ "2023", "Barefoot Rob", "communication", "consent", "cuddle-party", "ikejiri-ohashi", "june", "platonic touch", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-04-20T19:52:14+09:00
-EventLocation: "SunLily Yoga Studio"
+date: 2023-06-13T05:47:24+09:00
+EventLocation: "SunLily Yoga Studio (Setagaya)"
 EventTime: "19:00"
-TimeDescription: "gather by 18:50 at SunLily Yoga Studio"
+TimeDescription: "gather by 18:50 at SunLily Yoga Studio (Setagaya)"
 EventDate: "2023-06-23T19:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
@@ -145,8 +145,6 @@ class="title" />
 #### When
 
 Friday 23 June 2023
-
-Doors will open at 18:30.
 
 Please arrive between 18:30 and 18:50
 so we can be settled and start our Welcome Circle at 19:00.
