@@ -155,7 +155,7 @@ so we can be settled and start our Welcome Circle at EVENT_TIME.
 
 #### Cost
 
-* 5000 yen for 1 person
+* TICKET_PRICE yen for 1 person
 * 7500 yen for 2 people
 
 [Buy tickets on Peatix](TICKET_LINK)

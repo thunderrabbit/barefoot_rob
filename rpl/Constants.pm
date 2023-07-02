@@ -18,6 +18,10 @@ our $events_directory = "/events";    #  appended to $content_directory when wri
 our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
 our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directory when writing actual file.
 
+our $pricing_table = (
+    "cuddle_party" => 5500,
+);
+
 our %cuddle_party_files = (
     "sun_lily" => [
       "$event_templates/cuddle_party/sun_lily/sun_lily.en.md",

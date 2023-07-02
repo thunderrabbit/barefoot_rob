@@ -114,7 +114,7 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 
 # Cost
 
-* 5000 yen for 1 person
+* TICKET_PRICE yen for 1 person
 * 7500 yen for 2 people
 
 # Fine print

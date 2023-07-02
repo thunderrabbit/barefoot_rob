@@ -106,7 +106,7 @@ Street View: https://goo.gl/maps/r6QN7vAM1WE8f6ky6
 
 DONATION
 
-5000 yen suggested donation via
+TICKET_PRICE yen suggested donation via
 
 1. TICKET_LINK ,
 2. cash, or

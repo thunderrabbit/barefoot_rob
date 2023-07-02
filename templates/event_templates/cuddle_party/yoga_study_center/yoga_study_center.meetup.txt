@@ -72,7 +72,7 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 　
 # Cost
 　
-* 5000 yen for 1 person
+* TICKET_PRICE yen for 1 person
 * 7500 yen for 2 people (via Peatix TICKET_LINK)
 　
 # Fine print
@@ -131,7 +131,7 @@ RSVP close time:  1 day before
 
 Event fee:  ON
 PayPal (credit card or PayPal account)
-JPY    5000
+JPY    TICKET_PRICE
 　
 Publish
 

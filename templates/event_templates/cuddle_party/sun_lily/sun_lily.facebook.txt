@@ -76,7 +76,7 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 
 === Cost ===
 
-* 5000 yen for 1 person
+* TICKET_PRICE yen for 1 person
 * 7500 yen for 2 people
 
 RSVP on Peatix TICKET_LINK
@@ -143,7 +143,7 @@ Allow guests:    1
 
 Event fee:  ON
 Direct from member
-JPY    5000
+JPY    TICKET_PRICE
 
 Publish
 
