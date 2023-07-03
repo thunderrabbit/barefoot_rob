@@ -73,7 +73,6 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 # Cost
 　
 * TICKET_PRICE yen for 1 person
-* 7500 yen for 2 people (via Peatix TICKET_LINK)
 　
 # Fine print
 　

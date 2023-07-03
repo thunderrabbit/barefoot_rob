@@ -112,7 +112,6 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 # Cost
 
 * TICKET_PRICE yen for 1 person
-* 7500 yen for 2 people
 
 # Fine print
 
@@ -170,7 +169,7 @@ One attendee    ¥ TICKET_PRICE　　　8
 + Paid Ticket
 
 Ticket Type     Price      Quantity
-Two attendees   ¥ 7500　　 5
+Bundle price 5 Cuddle Party events   ¥ BUNDLE_PRICE 5
 
 Stop all ticket sales (day before)
 

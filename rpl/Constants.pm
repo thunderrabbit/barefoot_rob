@@ -18,7 +18,7 @@ our $events_directory = "/events";    #  appended to $content_directory when wri
 our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_directory when writing actual file.
 our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directory when writing actual file.
 
-our $pricing_table = (
+our %pricing_table = (
     "cuddle_party" => 5500,
 );
 
