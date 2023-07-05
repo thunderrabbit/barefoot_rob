@@ -168,8 +168,8 @@ if($what_kinda_event eq "bold_life_tribe") {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
-my $price = $rpl::Constants::pricing_table{$original_what_kinda_event} || 99999;
-my $bundle_price = 4 * $price;
+my $single_price = $rpl::Constants::pricing_table{$original_what_kinda_event}{"single"} || 9999;
+my $bundle_price = $rpl::Constants::pricing_table{$original_what_kinda_event}{"bundle"} || 99999;
 
 print("If this fails, add Constants::event_tag_hashes{$what_kinda_event}\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
@@ -263,7 +263,7 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/IMAGE_CREDIT/$image_credit/g;
   $mt3_episode_output =~ s/TICKET_LINK_PREFIX/$peatix_prefix/g;
   $mt3_episode_output =~ s/TICKET_LINK/$suggested_ticket_link/g;
-  $mt3_episode_output =~ s/TICKET_PRICE/$price/g;
+  $mt3_episode_output =~ s/TICKET_PRICE/$single_price/g;
   $mt3_episode_output =~ s/BUNDLE_PRICE/$bundle_price/g;
 
   # do the rest algorithmically

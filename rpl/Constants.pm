@@ -19,7 +19,10 @@ our $niigata_walk_dir = "/quests/walk-to-niigata";    #  appended to $content_di
 our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directory when writing actual file.
 
 our %pricing_table = (
-    "cuddle_party" => 5500,
+  "cuddle_party" => {
+      "single" => 5555,
+      "bundle" => 22000,
+  },
 );
 
 our %cuddle_party_files = (
