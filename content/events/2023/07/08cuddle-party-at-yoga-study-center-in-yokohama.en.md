@@ -156,8 +156,7 @@ so we can be settled and start our Welcome Circle at 13:00.
 
 #### Cost
 
-* 5000 yen for 1 person
-* 7500 yen for 2 people
+* 5555 yen for 1 person
 
 [Buy tickets on Peatix](https://cuddle-party-tokyo-8-july-2023.peatix.com/)
 
