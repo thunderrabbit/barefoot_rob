@@ -1,8 +1,8 @@
 ---
-title: "Cuddle Party communication workshop in Tokyo"
+title: "Cuddle Party connection workshop in Tokyo"
 tags: [ "2023", "Barefoot Rob", "communication", "consent", "cuddle-party", "ikejiri-ohashi", "july", "platonic touch", "sunlily", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-06-13T05:49:00+09:00
+date: 2023-07-12T09:01:41+09:00
 EventLocation: "SunLily Yoga Studio (Setagaya)"
 EventTime: "13:00"
 TimeDescription: "gather by 12:50 at SunLily Yoga Studio (Setagaya)"
@@ -10,6 +10,7 @@ EventDate: "2023-07-29T13:00:00+09:00"
 EventType: "Cuddle Party"
 aliases: [
     "/en/events/2023/07/29cuddle-party-communication-workshop-in-tokyo",
+    "/en/events/2023/07/29cuddle-party-connection-workshop-in-tokyo",
 ]
 ---
 
