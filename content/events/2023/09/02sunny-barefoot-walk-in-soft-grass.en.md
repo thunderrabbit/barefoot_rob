@@ -2,11 +2,11 @@
 title: "Sunny barefoot walk in soft grass"
 tags: [ "2023", "Barefoot Rob", "art_park", "barefoot", "event", "september", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-07-14T22:56:30+09:00
+date: 2023-07-14T23:00:51+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
-EventTime: "12:00"
-TimeDescription: "gather at 11:30; enter Shin Yuri Art Park at 12:00"
-EventDate: "2023-09-02T12:00:00+09:00"
+EventTime: "14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+EventDate: "2023-09-02T14:00:00+09:00"
 EventType: "Barefoot grounding"
 aliases: [
     "/en/events/2023/09/02sunny-barefoot-walk-in-soft-grass",
@@ -27,13 +27,13 @@ Every First Saturday of the month
 
 #### First Meeting Point
 
-Saturday 02 September 2023, 11:30
+Saturday 02 September 2023, 13:30
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point is Shin Yuri Art Park
 
-Saturday 02 September 2023, 12:00
+Saturday 02 September 2023, 14:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
@@ -57,8 +57,8 @@ Find like-minded others who enjoy walking barefoot!
 *What to Expect*
 
 * The event is on, rain or shine.
-* We'll walk from Shin Yurigaoka station starting 11:45
-* Feel free to join at Shinyuri Art Parks by 12:00.
+* We'll walk from Shin Yurigaoka station starting 13:45
+* Feel free to join at Shinyuri Art Parks by 14:00.
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
 
