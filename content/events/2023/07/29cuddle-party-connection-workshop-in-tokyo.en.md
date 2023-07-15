@@ -134,12 +134,24 @@ class="title" />
 </div>
 <div>
 
-    So happy that you are offering these events.
-    I think it's super valuable for the society at large,
-    especially as more people become aware of them
-    and start participating. Thank you!
+    Rob definitely created a safe space for strangers
+    coming together at a Cuddle Party to connect with
+    one another in a warm, confident, fun, playful and
+    loving way. He was able to demonstrate very quickly
+    how to use curiousity to explore play and touch in
+    an intimate yet platonic setting.
+    I had such a fun time, it was beyond my expectation
+    of what a Cuddle Party is in my mind. I felt I received
+    a lot of healing from receiving and giving affection
+    and touch. It was fun to connect with the other
+    participants as well.
+    I highly recommend this experience to anyone
+    who is looking for connection, willing to allow
+    their inner child to play and express and receive
+    love through the power of touch.
+    I definitely will be coming back again!
 
-    ー Misa Christina
+    ー Jess X Goh
 
 </div>
 
