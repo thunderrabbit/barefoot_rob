@@ -28,6 +28,7 @@ our %pricing_table = (
 our %cuddle_party_files = (
     "sun_lily" => [
       "$event_templates/cuddle_party/sun_lily/sun_lily.en.md",
+      "$event_templates/cuddle_party/sun_lily/sun_lily.ja.md",
       "$event_templates/cuddle_party/sun_lily/sun_lily.meetup.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.eventbrite.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
