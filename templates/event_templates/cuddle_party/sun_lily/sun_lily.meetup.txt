@@ -10,7 +10,7 @@ Click duration --> 3 hours
 
 episode_image
 
-=== What is a Cuddle Party? ===
+# What is a Cuddle Party?
 　
 A Cuddle Party is a non-sexual social event where participants practice communication and optionally explore platonic touch. Attendees practice setting clear boundaries, communicating their desires, and respecting each others' limits in a safe space.
 　
@@ -20,7 +20,7 @@ While sexual activity is prohibited at Cuddle Parties, some light touching like 
 　
 At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
 　
-=== What do we do at a Cuddle Party? ===
+# What do we do at a Cuddle Party?
 　
 We do two main things at Cuddle Parties:
 　
@@ -41,13 +41,13 @@ After the communication workshop, we'll have 2 or more hours of Self-Directed Co
 　
 We'll finish with a closing circle to reflect on our experience.
 　
-=== Why? ===
+# Why?
 　
 Clear communication allows more harmonious relationships, regardless of the context.
 　
 Nurturing and consensual touch supports a healthy life, strong nervous system, and balanced emotions.
 　
-=== Testimonials ===
+# Testimonials
 　
 It was a great event. Thank you so much.    Hope more and more people will join the event.   For us Japanese, we don't communicate that much by hugging, but I think people need it. Hugging helps people a lot to be feeling safe.   It was a great workshop.　
     ー Lily　
@@ -63,33 +63,31 @@ I highly recommend this experience to anyone who is looking for connection, will
     ー Jess X Goh　
 　
 　
-=== When ===
+# When
 　
 HUMANDATE
 　
 Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settled and start our Welcome Circle at EVENT_TIME.
 　
-=== Where ===
+# Where
 　
 5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
 　
-=== Cost ===
+# Cost
 　
 * TICKET_PRICE yen for 1 person
 　
-=== Fine print ===
+# Fine print
 　
 Must be 18+ to attend.
 This is a sober event - please do not attend under the influence.
 　
-CANCELLATION: Please let me know if you cannot come. Tickets are nonrefundable, but credit for future events will be provided for cancellations up until the day of the event.
-　
 * COVID considerations
 　
-We will not require any special COVID-19 precautions for this event. Vaccines and masks are optional.
-Of course, if you're feeling ill, please stay home. Otherwise, welcome.
+We do not require any special COVID-19 precautions for this event.
+If you're feeling ill, please stay home. Otherwise, welcome.
 　
-=== About me, “Barefoot” Rob Nugen ===
+# About me, “Barefoot” Rob Nugen
 　
 I have a passion for connecting with the world around me, especially walking barefoot. This helps me to stay grounded, and appreciate the beauty of the present moment. I’m leading Cuddle Party events to help welcome us back into connection after an isolating pandemic.
 　
@@ -110,16 +108,14 @@ TOPICS  FEEL FREE TO CHANGE:
 　
 UNSELECT Make this an online event
 　
-CLICK Ikejiri-Ohashi Station
+CLICK Yoga.SunLily
 　
-CLICK Edit map pin
-　
-SLIDE MAP under pin
+
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-First time attendees, DM Rob Nugen to arrange a call.
+Welcome Pack will be sent after RSVP
 +++++++++++++++++++++++++++++++++++++++++++++++
 　
 
@@ -134,4 +130,4 @@ JPY    TICKET_PRICE
 　
 Publish
 
-Notify
+Announce it now
