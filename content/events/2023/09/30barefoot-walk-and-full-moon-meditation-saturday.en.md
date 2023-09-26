@@ -1,15 +1,16 @@
 ---
-title: "Barefoot walk and full moon meditation"
+title: "Barefoot walk and full moon meditation (Saturday)"
 tags: [ "2023", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "riverside", "september", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-07-14T21:34:54+09:00
+date: 2023-09-26T08:59:16+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "20:00"
 TimeDescription: "gather at 19:45; walk to Tama River at 19:55"
-EventDate: "2023-09-29T20:00:00+09:00"
+EventDate: "2023-09-30T20:00:00+09:00"
 EventType: "Barefoot meditation"
 aliases: [
     "/en/events/2023/09/29barefoot-walk-and-full-moon-meditation",
+    "/en/events/2023/09/30barefoot-walk-and-full-moon-meditation-saturday",
 ]
 ---
 
@@ -25,7 +26,7 @@ meditative energetic release under the full moon.
 
 #### When
 
-**Friday 29 September 2023, gather at 19:45; walk toward Tama River at 20:00**
+**Saturday 30 September 2023, gather at 19:45; walk toward Tama River at 20:00**
 
 #### Where
 

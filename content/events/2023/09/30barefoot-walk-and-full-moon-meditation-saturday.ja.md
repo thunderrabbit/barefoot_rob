@@ -2,14 +2,15 @@
 title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2023", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "riverside", "september", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-07-14T21:34:54+09:00
+date: 2023-09-26T08:59:16+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "20:00"
 TimeDescription: "19:45に集合、19:55に多摩川まで歩く"
-EventDate: "2023-09-29T20:00:00+09:00"
+EventDate: "2023-09-30T20:00:00+09:00"
 EventType: "Barefoot meditation"
 aliases: [
     "/ja/events/2023/09/29barefoot-walk-and-full-moon-meditation",
+    "/ja/events/2023/09/30barefoot-walk-and-full-moon-meditation-saturday",
 ]
 ---
 
@@ -27,11 +28,11 @@ aliases: [
 
 #### 日程
 
-**2023年9月29日　19:45集合、19:55に多摩川を目指して歩きます。**
+**2023年9月30日　19:45集合、19:55に多摩川を目指して歩きます。**
 
 #### 集合場所
 
-2023年9月29日　19:45
+2023年9月30日　19:45
 
 [集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
 https://goo.gl/maps/4yh8TLgADixQYnzU8
