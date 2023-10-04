@@ -105,12 +105,12 @@ our %walk_location_files = (
     "izumi_tamagawa_full_moon" => [
       "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.en.md",
       "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.ja.md",
-      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.facebook.txt",
-      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.meetup.txt",
-      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.message.txt",
-      "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.twitter.txt",
-      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
+      # "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.facebook.txt",
+      # "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.meetup.txt",
+      # "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.message.txt",
+      # "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_full_moon.twitter.txt",
+      # "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      # "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "izumi_tamagawa_new_moon" => [
       "$event_templates/walk_and_talk/izumi_tamagawa/izumi_tamagawa_new_moon.en.md",
