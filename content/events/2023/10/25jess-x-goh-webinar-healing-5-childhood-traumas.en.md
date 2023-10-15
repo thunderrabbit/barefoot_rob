@@ -5,7 +5,7 @@ author: Jess X Goh
 date: 2023-10-15T18:22:59+09:00
 EventLocation: "Zoom"
 EventTime: "19:00"
-TimeDescription: "register at link below"
+TimeDescription: "online"
 EventDate: "2023-10-25T19:00:00+09:00"
 EventType: "Online webinar"
 url: "/en/events/2023/10/25how-to-overcome-the-5-types-of-childhood-trauma"
