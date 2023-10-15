@@ -2,7 +2,7 @@
 title: "💙 Last Free Live Webinar: How To Overcome The 5 Types Of Childhood Trauma 💙"
 tags: [ "2023", "Jess X Goh", "online", "october", "healing", "childhood", "traumas" ]
 author: Jess X Goh
-date: 2023-10-15T21:22:59+09:00
+date: 2023-10-15T18:22:59+09:00
 EventLocation: "Zoom"
 EventTime: "19:00"
 TimeDescription: "register at link below"
