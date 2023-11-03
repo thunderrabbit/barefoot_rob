@@ -124,16 +124,16 @@ our %walk_location_files = (
     "shin_yuri_art_park" => [
       "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.en.md",
       "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.ja.md",
-      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.facebook.txt",
-      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.meetup.txt",
-      "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.twitter.txt",
-      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
+      # "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.facebook.txt",
+      # "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.meetup.txt",
+      # "$event_templates/walk_and_talk/shin_yuri_art_park/shin_yuri_art_park.twitter.txt",
+      # "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      # "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "shin_yuri_manpukuji_park" => [
       "$event_templates/walk_and_talk/shin_yuri_manpukuji_park/shin_yuri_manpukuji_park.en.md",
-      "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
-      "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
+      # "$event_templates/walk_and_talk/___.t-07days_reminder.txt",
+      # "$event_templates/walk_and_talk/___.t-14days_reminder.txt",
     ],
     "todoroki_valley" => [
       "$event_templates/walk_and_talk/todoroki_valley/todoroki_valley.en.md",
