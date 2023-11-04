@@ -2,7 +2,7 @@
 title: "Welcome 2024 chilly walk in Shin Yuri Art Park"
 tags: [ "2024", "Barefoot Rob", "art_park", "barefoot", "event", "january", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2023-11-03T17:41:31+09:00
+date: 2023-11-04T12:32:36+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_grassy_foot.jpg" "2022 feb 17 grassy foot" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2023/walk_and_talk/barefoot_walking_jan_2022.jpeg" "barefoot walking jan 2022" %}}
 
 Walk barefoot on Japan's Number 1 Grassy Field!
 
