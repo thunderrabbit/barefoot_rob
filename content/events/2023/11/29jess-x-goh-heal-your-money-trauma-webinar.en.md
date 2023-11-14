@@ -5,7 +5,7 @@ author: Jess X Goh
 date: 2023-11-14T18:22:59+09:00
 EventLocation: "Zoom"
 EventTime: "18:00"
-TimeDescription: "register on Zoom"
+TimeDescription: "6pm"
 EventDate: "2023-11-29T18:00:00+09:00"
 EventType: "Healing Money Webinar"
 url: "/en/events/2023/11/29heal-your-money-trauma-webinar"
