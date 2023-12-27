@@ -30,7 +30,7 @@ By Jess X Goh:
 
 * When: Wednesday 27th December 2023
 * Time: 17:00 - 19:00
-* Where: Zoom [register here]()
+* Where: Zoom [register here](https://us06web.zoom.us/meeting/register/tZ0rfuusrj8uGNeArJmDAs1X8rdAOGiV2igm?lid=1#/registration)
 
 I personally know what it's like to be brought up by a hoarding and overspending mother
 with a gambling father labourously slaving away selling hardware tools in the markets
@@ -78,7 +78,7 @@ Access to the replay for the next 48 hours after the webinar is over (and yes, y
 share it with your loved ones who are in need of this or share this email for them to
 register to attend live or access the replay)
 
-**[REGISTER NOW]()**
+**[REGISTER NOW](https://us06web.zoom.us/meeting/register/tZ0rfuusrj8uGNeArJmDAs1X8rdAOGiV2igm?lid=1#/registration)**
 
 ## About Your Host
 <br>[Jess X Goh](https://www.lifeinconfidence.com) helps highly driven, burnt out
