@@ -10,6 +10,16 @@ aliases: [
 draft: false
 ---
 
+I have not achieved enlightenment.  I haven't experienced Samadi (sp)
+
+This book cannot get you *there*, but it can get you started.  And you can use your mind along the way.
+
+"A change on one level simultaneously affects all levels."
+
+    Samadhi Movie, 2018 - Part 2 (It's Not What You Think)
+
+
+
 1. Allow easy sorting of files (by title, not date) (finished 26 April 2022)
 2. Write about perfectionism and procrastination
 
