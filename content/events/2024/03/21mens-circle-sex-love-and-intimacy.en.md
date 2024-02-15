@@ -7,7 +7,7 @@ EventLocation: "23 Blair St, Bondi, Sydney, NSW, Australia"
 EventTime: "7:00pm - 9:00pm"
 TimeDescription: "gathering time 6:45pm"
 EventDate: "2024-03-21T19:00:00+11:00"
-EventType: "Rob Nugen"
+EventType: "Men's Circle"
 aliases: [
     "/en/events/2024/03/21mens-circle-sex-love-and-intimacy",
 ]
