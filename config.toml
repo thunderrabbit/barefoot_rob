@@ -14,7 +14,7 @@ unsafe= true
   mastadonName_removed_2023_mar_23 = "robnugen"
 	facebook = "barefootrob"
 	linkedin = "robnugen"
-	description = "I walk barefoot"
+	description = "Connection Coach for men"
 	hideShareOptions = true
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
@@ -22,10 +22,10 @@ unsafe= true
 
 [languages]
   [languages.en]
-    title = "Barefoot Rob"
+    title = "Rob Nugen"
     weight = 1
     LanguageName = "English"
-    description = "I walk barefoot"
+    description = "Connection Coach for men"
 
   [languages.ja]
     title = "裸足のロブ"
