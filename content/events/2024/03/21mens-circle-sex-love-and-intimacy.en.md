@@ -19,8 +19,6 @@ aliases: [
 
 **Details**
 
-ticket: $49 [Reserve your spot now](https://buy.stripe.com/8wMcPZ6nm0pi02AbII)
-
 Do you struggle to be seen and heard by the opposite sex?
 
 Are you desiring more sex and intimacy in your relationship?
@@ -68,7 +66,7 @@ Feel free to share this event with other men who would appreciate this support.
 
 This sacred space is for 8 men only.
 
-[Reserve your spot now](https://buy.stripe.com/8wMcPZ6nm0pi02AbII)
+[Reserve your spot now for $49](https://buy.stripe.com/8wMcPZ6nm0pi02AbII)
 
 With brotherly love and a bear hug,
 

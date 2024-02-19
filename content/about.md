@@ -9,8 +9,10 @@ aliases: [
 
 <img
 src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
-alt="Barefoot Rob Nugen"
+alt="Rob Nugen"
 class="half" />
+
+{{< youtube LJzb5n9ldP8 >}}
 
 Find Joy in your life by getting out of
 your head and into your body.
@@ -96,7 +98,7 @@ He is caring, kind, self-effacing, honest. Ten out of ten.
 I met Rob within a business setting and we set a little group up to be
 accountability buddies. During our group meetings I have gotten to know
 Rob well and have been continuously impressed by his clear presence,
-skills and generosity.  
+skills and generosity.
 
 Recently, I was struggling with a mental blockage and Rob offered to guide me
 through a process to explore and resolve the blockage. Rob's thoughtful and

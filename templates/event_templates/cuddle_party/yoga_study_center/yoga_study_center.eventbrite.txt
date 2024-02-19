@@ -2,7 +2,7 @@ https://www.eventbrite.com/manage/events/create
 
 title:       %s
 
-Organizer Barefoot Rob Nugen
+Organizer Rob Nugen
 
 Type: Class, Training, or Workshop
 Category: Health and Wellness

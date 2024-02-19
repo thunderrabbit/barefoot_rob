@@ -1,6 +1,4 @@
-# Barefoot Rob Nugen
-
-{{< youtube LJzb5n9ldP8 >}}
+# Rob Nugen
 
 Feeling anxious?  Angry?  Lost?
 
@@ -10,7 +8,7 @@ Whether it's via barefooting, confidential listening,
 meditation, or a few deep breaths, connect deeply to
 your Joy in this moment.
 
-For 21 years, I've been walking barefoot whenever possible.  
+For 21 years, I've been walking barefoot whenever possible.
 
 There are many
 [health benefits of walking barefoot](https://duckduckgo.com/?q=health+benefits+of+walking+barefoot).
