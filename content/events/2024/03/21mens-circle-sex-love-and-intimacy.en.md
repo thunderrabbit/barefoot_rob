@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2024/2024_21_march_mens_circle.png" "Rob Nugen in plaid red" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2024/2024_21_march_mens_circle_link_stripe.png" "Rob Nugen in plaid red" %}}
 
 <div class="note">Image credit: Mark Wild</div>
 
