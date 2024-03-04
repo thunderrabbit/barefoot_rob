@@ -31,13 +31,6 @@
                         {{ i18n "contact" }}
                     </a>
                 </li>
-<!--
-                <li class="nav-item">
-                    <a class="pure-button" href='{{ "faq" | absURL }}'>
-                        <i class="fa"></i>{{ if not .Site.Params.hideSidebarLinkText }} faq{{ end }}
-                    </a>
-                </li>
--->
                 {{ if .Site.Params.twitterName }}
                 <li class="nav-item">
                     <a class="pure-button" rel="me" href="https://twitter.com/{{ .Site.Params.twitterName }}">
@@ -69,20 +62,6 @@
                     <a class="pure-button" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
                         <i class="fa fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
                     </a>
-                </li>
-                {{ end }}
-                <!-- li class="nav-item">
-                    <a class="pure-button" href='{{ "index.xml" | absURL }}'>
-                        <i class="fa fa-rss"></i>{{ if not .Site.Params.hideSidebarIconText }} rss{{ end }}
-                    </a>
-                </li -->
-
-                {{/* https://gohugo.io/content-management/multilingual/#list-all-available-languages */}}
-                {{ range $.Site.Home.AllTranslations }}
-                <li class="nav-item">
-                  <a class="pure-button" href="{{ .Permalink | absLangURL }}">
-                    <i class="fa">{{ .Language.LanguageName }}</i>
-                  </a>
                 </li>
                 {{ end }}
 
