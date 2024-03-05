@@ -20,11 +20,9 @@ If you'd like to hear more about our events, enter your email below.
     <input type="hidden" name="meta_split_id" value="" />
     <input type="hidden" name="listname" value="awlist6124041" />
     <input type="hidden" name="redirect" value="https://www.aweber.com/thankyou-coi.htm?m=text" id="redirect_ac41e43ea127ad6d5a9659c5ce678e1e" />
-
     <input type="hidden" name="meta_adtracking" value="Barefoot_info_and_events" />
     <input type="hidden" name="meta_message" value="1" />
     <input type="hidden" name="meta_required" value="name,email" />
-
     <input type="hidden" name="meta_tooltip" value="" />
   </div>
   <div id="af-form-1884698591" class="af-form">
@@ -64,28 +62,7 @@ If you'd like to hear more about our events, enter your email below.
   </div>
   <div style="display: none;"><img src="https://forms.aweber.com/form/displays.htm?id=jBwcLGycHKycjA==" alt="" /></div>
 </form>
-<script type="text/javascript">
-    <!--
-    (function() {
-        var IE = /*@cc_on!@*/false;
-        if (!IE) { return; }
-        if (document.compatMode && document.compatMode == 'BackCompat') {
-            if (document.getElementById("af-form-1884698591")) {
-                document.getElementById("af-form-1884698591").className = 'af-form af-quirksMode';
-            }
-            if (document.getElementById("af-body-1884698591")) {
-                document.getElementById("af-body-1884698591").className = "af-body inline af-quirksMode";
-            }
-            if (document.getElementById("af-header-1884698591")) {
-                document.getElementById("af-header-1884698591").className = "af-header af-quirksMode";
-            }
-            if (document.getElementById("af-footer-1884698591")) {
-                document.getElementById("af-footer-1884698591").className = "af-footer af-quirksMode";
-            }
-        }
-    })();
-    -->
-</script>
+<link rel="script" href="/js/aweber_ie.js">
 
 <!-- /AWeber Web Form Generator 3.0.1 -->
 
