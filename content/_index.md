@@ -2,13 +2,13 @@
 
 ## Connection Coach For Men
 
-I help men discover their gold on a journey into the divine masculine.
+<img src="https://b.robnugen.com/blog/2019/2019_aug_04_mkp_yoyogi_park_men.jpeg">
 
-Break free from self-defeat and shame by reconnecting to your heart through transformative shadow work and integration.
+### I help men discover their gold on a journey into the divine masculine.
 
-Stand strong in your personal power and be a leader in your family and community.
+### Break free from self-defeat and shame by reconnecting to your heart through transformative shadow work and integration.
 
-
+### Stand strong in your personal power and be a leader in your family and community.
 
 If you'd like to hear more about our events, enter your email below.
 
@@ -30,7 +30,7 @@ If you'd like to hear more about our events, enter your email below.
   <div id="af-form-1884698591" class="af-form">
     <div id="af-header-1884698591" class="af-header">
       <div class="bodyText">
-        <p><span style="font-size: 12px;">Barefoot Rob info and events</span></p>
+        <p><span style="font-size: 12px;">Rob Nugen info and events</span></p>
       </div>
     </div>
     <div id="af-body-1884698591" class="af-body af-standards">
