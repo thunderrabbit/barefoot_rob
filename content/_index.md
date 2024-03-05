@@ -1,33 +1,13 @@
 # Rob Nugen
 
-Feeling anxious?  Angry?  Lost?
+## Connection Coach For Men
 
-Join me in the Ever Present Present.
+I help men discover their gold on a journey into the divine masculine.
 
-Whether it's via barefooting, confidential listening,
-meditation, or a few deep breaths, connect deeply to
-your Joy in this moment.
+Break free from self-defeat and shame by reconnecting to your heart through transformative shadow work and integration.
 
-For 21 years, I've been walking barefoot whenever possible.
+Stand strong in your personal power and be a leader in your family and community.
 
-There are many
-[health benefits of walking barefoot](https://duckduckgo.com/?q=health+benefits+of+walking+barefoot).
-
-Culturally, we have been encouraged to enclose our feet in too small shoes.
-Though they may be fashionable,
-this causes all variety of problems,
-from
-[exacerbating bunions](https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799) <!-- https://web.archive.org/web/20210817235047/https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799 -->
-to
-[lower back pain](https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/). <!-- https://web.archive.org/web/20210301133842/https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/ -->
-
-Walking barefoot helps us balance more naturally,
-and brings awareness to our physical body in this moment.
-
-<img
-src="//b.robnugen.com/blog/2021/2021_jun_05_max_yuma_hiro_rob_yuna.jpg"
-alt="five adults standing happily barefoot in grass"
-class="title" />
 
 
 If you'd like to hear more about our events, enter your email below.
