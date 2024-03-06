@@ -10,7 +10,7 @@
 
 ### Stand strong in your personal power and be a leader in your family and community.
 
-If you'd like to hear more about our events, enter your email below.
+If you'd like to hear more about our workshops, enter your email below.
 
 
 <link rel="stylesheet" href="/css/aweber.css">
