@@ -4,11 +4,17 @@
 
 <img src="https://b.robnugen.com/blog/2019/2019_aug_04_mkp_yoyogi_park_men.jpeg">
 
-### I help men discover their gold on a journey into the divine masculine.
+Welcome!  I help ambitious men to discover their gold on a journey into the divine masculine.
+I guide men who feel overwhelmed by their past and "traditional" masculinity
+to break away from their inner demons of self-defeat and shame through transformative shadow work,
+space holding and circle work.
+I am a TedX speaker, barefoot walker for over 20 years,
+trained and run men circles with ManKind Project since 2015
+and made the most powerful decision to release myself from
+a dysfunctional 12 year marriage to be with my dream woman
+who matches my values and offers the love I desire.
 
-### Break free from self-defeat and shame by reconnecting to your heart through transformative shadow work and integration.
-
-### Stand strong in your personal power and be a leader in your family and community.
+[Work with me](/en/services)
 
 If you'd like to hear more about my workshops, enter your email below.
 
