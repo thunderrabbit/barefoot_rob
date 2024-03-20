@@ -1,72 +1,71 @@
 ---
-title: "Men's Circle: Sex, Love, and Intimacy"
-tags: [ "2024", "rob nugen", "men", "sex", "love", "intimacy", "workshop" ]
+title: "Connection Circle: For Conscious Men & Women"
+tags: [ "2024", "rob nugen", "jess x goh", "men", "women", "connection", "circle" ]
 author: Rob Nugen
-date: 2024-02-15T11:10:54+09:00
+date: 2024-03-20T09:10:54+09:00
 EventLocation: "23 Blair St, Bondi, Sydney, NSW, Australia"
-EventTime: "7:00pm - 9:00pm"
-TimeDescription: "gathering time 6:45pm"
-EventDate: "2024-03-21T19:00:00+11:00"
-EventType: "Men's Circle"
+EventTime: "6:30pm - 9:30pm"
+TimeDescription: "gathering time 6:30pm"
+EventDate: "2024-03-29T18:30:00+11:00"
+EventType: "Connection Circle"
 aliases: [
-    "/en/events/2024/03/21mens-circle-sex-love-and-intimacy",
+    "/en/events/2024/03/29connection-circle-for-conscious-men-and-women",
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2024/2024_21_march_mens_circle_link_stripe.png" "Rob Nugen in plaid red" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2024/2024_mar_29_meetup_connection_circle_for_men_and_women.png" "Rob and Jess in Balinese ceremony outfits" %}}
 
-<div class="note">Image credit: Mark Wild</div>
+Join us for a special evening as we flow with the divine feminine and masculine in a
+ceremonial circle for men and women.
+Enjoy coming together into unity, peace, love, conscious communication,
+creative expression and connection.
 
-**Details**
+*What's Involved?*
 
-Do you struggle to be seen and heard by the opposite sex?
+**Communal Vegan GF Dinner 6:30pm-7pm:**
 
-Are you desiring more sex and intimacy in your relationship?
+Be welcomed in an intimate space as you cleanse away from your day.
+Receive energetic cleansing with sage and angelic auric spray.
+Enjoy a nourishing gluten-free vegan dinner:
+organic herbal tea and sensual treats infused with high frequencies
+to nourish your temple and tantalise your senses with like-minded souls.
 
-What would happen if you could overcome these challenges in your life?
+**Heart-Opening Sacred Shares 7pm-7:30pm:**
 
-What would happen if you could discuss sensitive issues that no one talks about?
+Be led and guided by [Jess X Goh](https://www.lifeinconfidence.com/),
+trauma coach in childhood abuse,
+and Rob Nugen, connection coach for men.
+Share your truth and be witnessed in a welcoming space where healthy boundaries and
+connection exercises are consciously communicated.
+Enjoy the elements of the earth, fire, water and air.
 
-Brother, I hear you.  I’ve struggled with these questions;
-I’ve been there and done it too.
+**Conscious Connection 7:30pm-8:15pm:**
 
-Anything is possible with the right support and pathway.
-You can turn it around like I have.
+Be illuminated with insights via journaling around the topic to bring yourself clarity
+how to navigate this topic moving forward.
+Connect in pairs then group sharing with fluid and fun activities
+to move out of the mind and into the present moment, back into the heart and body.
 
-I’m Rob Nugen, a connection coach for men. I help you discover your
-gold in your unique journey of divine masculinity.
 
-I started my inner work journey with the ManKind Project in 1997.
-I founded [ManKind Project Japan](https://www.mkpjapan.org) in 2015
-and have grown in my leadership and
-facilitation skills, with over 25 years of experience and training
-to support men in working through the issues they face in life.
-I’ve been trained in ShadowWork, Cuddle Party, as well as a crisis hotline volunteer.
+**​​​​​​​🤝 Connection Circle: For Conscious Men & Women 🤝**
 
-Now I'm bringing this experience to you in Sydney.
+<br>Date: Friday 29th March 2024
+<br>Time: 6:30pm-9:30pm
+<br>Where: 23 Blair St, Bondi Beach
 
-For 12 years I was locked in an unsatisfying marriage where
-I sought other relationships.  Now I’m in a devoted passionate
-heart-centered relationship, aligned with my needs and values as a man.
+This ceremonial gathering is capped at 6 conscious souls
+who are up for an intimate evening of loving connection and divine union.
 
-Now it’s your turn to discover what’s possible for you in sex, love, and intimacy.
+**What To Bring?**
 
-Here’s what you’ll experience in this circle:
+* Pen and journal
+* Cushion and blanket
+* A sacred item that represents the masculine and feminine
+* Your lovely self!
 
-* Confidential space for you to settle in, so you can be fully present, authentic and vulnerable
-* Grounding meditation to drop into your healthy masculine
-* Open discussions around sex, love and intimacy
-* Learn why you are triggered by your romantic partners (and why this is a gift for you)
-* Raising awareness around our stories and projections in personal relationships
-
-If you feel called to dive deeper in a private container,
-there’s an opportunity for further work with me man to man.
-
-Feel free to share this event with other men who would appreciate this support.
-
-This sacred space is for 8 men only.
-
-[Reserve your spot now for $49](https://buy.stripe.com/8wMcPZ6nm0pi02AbII)
+Please be mindful to arrive on time as doors will close at 7pm.
+Tickets are non-refundable but can be transferred to another
+who would greatly appreciate this experience.
 
 With brotherly love and a bear hug,
 
