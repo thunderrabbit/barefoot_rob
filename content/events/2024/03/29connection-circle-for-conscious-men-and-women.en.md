@@ -71,7 +71,7 @@ in the space with light refreshments provided.
 <br>Time: 6:30pm-9:30pm
 <br>Where: 23 Blair St, Bondi Beach
 
-This ceremonial gathering is capped at 6 conscious souls
+This ceremonial gathering is capped at 6 conscious souls  (Just 4 spots remain!)
 who are up for an intimate evening of loving connection and divine union.
 
 **What To Bring?**
@@ -85,12 +85,7 @@ Please be mindful to arrive on time as doors will close at 7pm.
 Tickets are non-refundable but can be transferred to another
 who would greatly appreciate this experience.
 
-Please be mindful to arrive on time, doors will close at 7pm.
-Tickets are non-refundable but can be transferred to another
-who would greatly appreciate this experience.
-
 ----------------------------------
-
 
 About Your Facilitators
 
