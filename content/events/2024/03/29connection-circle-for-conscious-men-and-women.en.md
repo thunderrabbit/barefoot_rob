@@ -70,6 +70,7 @@ in the space with light refreshments provided.
 <br>Date: Friday 29th March 2024
 <br>Time: 6:30pm-9:30pm
 <br>Where: 23 Blair St, Bondi Beach
+<br>Ticket: AUD $111 Book your spot at https://buy.stripe.com/00g5lGb6Z47o7NC4gt
 
 This ceremonial gathering is capped at 6 conscious souls  (Just 4 spots remain!)
 who are up for an intimate evening of loving connection and divine union.
