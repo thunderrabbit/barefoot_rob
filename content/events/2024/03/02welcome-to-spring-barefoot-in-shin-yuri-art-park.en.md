@@ -9,7 +9,7 @@ TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
 EventDate: "2024-03-02T14:00:00+09:00"
 EventType: "Barefoot grounding"
 aliases: [
-    "/en/events/2024/03/02welcome-to-spring-barefoot-in-shin-yuri-art-park",
+    "/en/events/2024/03/02welcome-to-spring-barefoot-in-shin-yuri-art-park/",
 ]
 ---
 

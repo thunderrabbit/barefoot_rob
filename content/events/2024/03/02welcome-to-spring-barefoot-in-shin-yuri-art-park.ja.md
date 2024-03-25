@@ -9,7 +9,7 @@ TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアー�
 EventDate: "2024-03-02T14:00:00+09:00"
 EventType: "裸足のアーシング"
 aliases: [
-    "/ja/events/2024/03/02welcome-to-spring-barefoot-in-shin-yuri-art-park",
+    "/ja/events/2024/03/02welcome-to-spring-barefoot-in-shin-yuri-art-park/",
 ]
 ---
 
