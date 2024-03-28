@@ -8,9 +8,9 @@
 それはファッショナブルではありますが
 様々な問題を引き起こしています。
 例えば
-[exacerbating bunions](https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799) <!-- https://web.archive.org/web/20210817235047/https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799 -->
+[exacerbating bunions](https://www.mayoclinic.org/diseases-conditions/bunions/symptoms-causes/syc-20354799)
 から
-[腰痛](https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/)になってしまいます。<!-- https://web.archive.org/web/20210301133842/https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/ -->
+[腰痛](https://gloverhealth.com/are-your-shoes-causing-your-low-back-pain/)になってしまいます。
 
 
 <img

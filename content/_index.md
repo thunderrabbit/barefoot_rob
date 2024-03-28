@@ -14,7 +14,9 @@ and made the most powerful decision to release myself from
 a dysfunctional 12 year marriage to be with my dream woman
 who matches my values and offers the love I desire.
 
-[Work with me](/en/services)
+{{<youtube G4ZiO1kSIRk>}}
+
+[Book a Discovery Call](https://www.calendly.com/robnugen/discovery)
 
 If you'd like to hear more about my workshops, enter your email below.
 
