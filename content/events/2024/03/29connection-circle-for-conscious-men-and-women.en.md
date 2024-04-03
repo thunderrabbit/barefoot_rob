@@ -9,6 +9,7 @@ TimeDescription: "gathering time 6:30pm"
 EventDate: "2024-03-29T18:30:00+11:00"
 EventType: "Connection Circle"
 aliases: [
+    "/en/events/2024/03/29connection-circle-for-conscious-men-and-women/",
 ]
 ---
 
