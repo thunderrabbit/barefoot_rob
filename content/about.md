@@ -55,7 +55,7 @@ inner guidance to shine through.
 
 [Contact](/contact)
 
-[Sign up for a session](//www.calendly.com/robnugen/30min)
+[Sign up for a Discovery Call](//www.calendly.com/robnugen/discovery)
 
 ## Trainings and Certifications
 
@@ -139,4 +139,4 @@ for you to discover your own wisdom.
 
 [Contact](/contact)
 
-[Exploratoration session on Zoom](//www.calendly.com/robnugen/30min)
+[Discovery Call on Zoom](//www.calendly.com/robnugen/discovery)

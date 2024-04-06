@@ -33,4 +33,4 @@ date: 2020-04-25T20:55:31+09:00
     struggles, and who is open to receive gentle support to untangle
     emotional messes that are caused by living this thing called LIFE.
 
-[Create your own safe space to grow](https://calendly.com/robnugen).
+Sound interesting?  [Book a Discovery Call](https://calendly.com/robnugen/discovery).

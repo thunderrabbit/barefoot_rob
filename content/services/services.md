@@ -19,4 +19,4 @@ For twelve sessions over a 3 month journey:
 <br>USD $3000
 <br>JPY 300,000
 
-[Book a clarity call](https://calendly.com/robnugen/clarity) to see if we'd be a good fit for each other.
+[Book a Discovery Call](https://calendly.com/robnugen/discovery) to see if we'd be a good fit for each other.

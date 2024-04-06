@@ -25,7 +25,7 @@ years and I use that memory to tell you all Yes. I care for you.  I
 care.  I love.  And I feel helpless to do anything so I breathe and
 create space for people to be honest and open and vulnerable.
 
-https://calendly.com/robnugen/ for a free 30 emotional breakthrough session
+https://calendly.com/robnugen/discovery for a free Discovery Call
 
 Last night I heard a lecture about bonobo apes, a society of near
 humans that spend 3 to 4 hours per day working and the rest of the
