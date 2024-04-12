@@ -31,7 +31,7 @@ revealing the core of your being and how you can live a life aligned
 with your deepest values and aspirations. Ready to embark on this
 journey?  Dive into your life.
 
-### Month 1: Discovering Your Authentic Self
+## Month 1: Discovering Your Authentic Self
 
 **Week 1: Introduction to Your Inner Landscape**
   - Initial assessment and goal setting
@@ -49,7 +49,7 @@ journey?  Dive into your life.
   - Understanding vulnerability as a strength
   - Safe practices for opening up and being authentic
 
-### Month 2: Building Deep Connections
+## Month 2: Building Deep Connections
 
 **Week 5: Listening and Communication Skills**
   - Active listening techniques
@@ -67,7 +67,7 @@ journey?  Dive into your life.
   - Enhancing intimacy in relationships
   - Strategies for maintaining connection and addressing conflict
 
-### Month 3: Living Your Purpose
+## Month 3: Living Your Purpose
 
 **Week 9: Aligning with Your Core Values**
   - Discovering and defining personal values
