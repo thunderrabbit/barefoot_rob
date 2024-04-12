@@ -2,6 +2,9 @@
 title: "Services"
 tags: [ "barefoot rob", "services" ]
 date: 2024-03-19T15:38:44+09:00
+aliases: [
+  "services/"
+]
 ---
 
 ## 🚹 Connection Coaching for Men
