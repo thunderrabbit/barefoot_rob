@@ -26,7 +26,7 @@ creative expression and connection.
 
 Be welcomed in an intimate space as you cleanse away from your day.
 Receive energetic cleansing with sage and angelic auric spray.
-Enjoy a nourishing gluten-free vegan dinner:
+Enjoy delicious vegan snacks including
 organic herbal tea and sensual treats infused with high frequencies
 to nourish your temple and tantalise your senses with like-minded souls.
 
