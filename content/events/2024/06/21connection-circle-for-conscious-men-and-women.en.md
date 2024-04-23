@@ -22,7 +22,7 @@ creative expression and connection.
 
 *What's Involved?*
 
-**Communal Vegan GF Dinner 6:30pm-7pm:**
+**Communal Vegan Snacks 6:30pm-7pm:**
 
 Be welcomed in an intimate space as you cleanse away from your day.
 Receive energetic cleansing with sage and angelic auric spray.
