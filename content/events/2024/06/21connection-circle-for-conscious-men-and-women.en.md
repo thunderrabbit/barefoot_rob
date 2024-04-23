@@ -2,18 +2,18 @@
 title: "Connection Circle: For Conscious Men & Women"
 tags: [ "2024", "rob nugen", "jess x goh", "men", "women", "connection", "circle" ]
 author: Rob Nugen
-date: 2024-03-20T09:10:54+09:00
-EventLocation: "23 Blair St, Bondi, Sydney, NSW, Australia"
+date: 2024-04-20T09:10:54+09:00
+EventLocation: "Setagaya-ku"
 EventTime: "6:30pm - 9:30pm"
 TimeDescription: "gathering time 6:30pm"
-EventDate: "2024-03-29T18:30:00+11:00"
+EventDate: "2024-06-21T18:30:00+09:00"
 EventType: "Connection Circle"
 aliases: [
     "/en/events/2024/03/29connection-circle-for-conscious-men-and-women/",
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2024/2024_mar_29_meetup_connection_circle_for_men_and_women.png" "Rob and Jess in Balinese ceremony outfits" %}}
+{{% img-responsive "https://b.robnugen.com/events/2024/20240621_connection_circle_for_men_and_women_1000.png" "Rob and Jess in Balinese ceremony outfits" %}}
 
 Join us for a special evening as we flow with the divine feminine and masculine in a
 ceremonial circle for men and women.
@@ -55,8 +55,8 @@ helping you to move past traumatic patterns.
 
     * Meditation: Rob will guide you through a meditation with his loving heart and hands-on Reiki touch.
     * Light Language Transmission: Jess will share her light language transmission to help you start moving through traumatic blockages.
-    * Energetic Clearing: Receive pressure point touch, hear and feel vibrations including tuning fork, Tibetan chimes, and singing bowls
-      to shift and clear energetic interferences.
+    * Energetic Clearing: Receive pressure point touch, hear and feel vibrations including tuning fork, Tibetan chimes,
+    and singing bowls to shift and clear energetic interferences.
 
 **Closing Circle 9pm-9:30pm:**
 
@@ -67,12 +67,13 @@ in the space with light refreshments provided.
 
 **​​​​​​​🤝 Connection Circle: For Conscious Men & Women 🤝**
 
-<br>Date: Friday 29th March 2024
+<br>Date: Friday June 21st, 2024
 <br>Time: 6:30pm-9:30pm
-<br>Where: 23 Blair St, Bondi Beach
-<br>Ticket: AUD $111 Book your spot at https://buy.stripe.com/00g5lGb6Z47o7NC4gt
+<br>Where: Setagaya-ku, Tokyo
+<br>Ticket: 11,111 JPY
+<br>Book your spot at https://book.stripe.com/bIY9DN6nmb3W9DaaEG
 
-This ceremonial gathering is capped at 6 conscious souls  (Just 4 spots remain!)
+This ceremonial gathering is capped at 6 conscious souls
 who are up for an intimate evening of loving connection and divine union.
 
 **What To Bring?**
