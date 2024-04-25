@@ -34,7 +34,7 @@ to nourish your temple and tantalise your senses with like-minded souls.
 
 Be led and guided by [Jess X Goh](https://www.lifeinconfidence.com/),
 trauma coach in childhood abuse,
-and Rob Nugen, connection coach for men.
+and [Rob Nugen](https://www.robnugen.com/en/), connection coach for men.
 Share your truth and be witnessed in a welcoming space where healthy boundaries and
 connection exercises are consciously communicated.
 Enjoy the elements of the earth, fire, water and air.
@@ -53,10 +53,10 @@ through traumatic blockages and patterns of the wounded feminine and masculine.
 The session aims to bring you back into energetic alignment,
 helping you to move past traumatic patterns.
 
-    * Meditation: Rob will guide you through a meditation with his loving heart and hands-on Reiki touch.
-    * Light Language Transmission: Jess will share her light language transmission to help you start moving through traumatic blockages.
-    * Energetic Clearing: Receive pressure point touch, hear and feel vibrations including tuning fork, Tibetan chimes,
-    and singing bowls to shift and clear energetic interferences.
+* Meditation: Rob will guide you through a meditation with his loving heart and hands-on Reiki touch.
+* Light Language Transmission: Jess will share her light language transmission to help you start moving through traumatic blockages.
+* Energetic Clearing: Receive pressure point touch, hear and feel vibrations including tuning fork, Tibetan chimes,
+and singing bowls to shift and clear energetic interferences.
 
 **Closing Circle 9pm-9:30pm:**
 
