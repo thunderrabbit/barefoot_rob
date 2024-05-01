@@ -131,7 +131,7 @@ I recommend to anybody who want to connect and really explore their emotion and 
 
 Rob has experience in giving space like this so I felt secure and safe to be guided. I like how he also let other people who are experienced to guide as well. He creates a space where every one is involved and feel safe to connect with their own selves!
 
-- Jiaii Rin
+-- Jiaii Rin
 </div>
 <br>
 <div class="walk-segment">
