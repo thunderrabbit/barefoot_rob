@@ -1,8 +1,10 @@
-# Rob Nugen
+#
 
-<div class="title.header" style="color: red; font-size: 24px;">DISCOVER YOUR GOLD</div>
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
 
-<img src="https://b.robnugen.com/blog/2019/2019_aug_04_mkp_yoyogi_park_men.jpeg">
+<div class="title.header" style="text-align: center; color: darkred; font-size: 64px; font-family: 'Permanent Marker', cursive;">DISCOVER YOUR GOLD</div>
+
+<!-- img src="https://b.robnugen.com/blog/2019/2019_aug_04_mkp_yoyogi_park_men.jpeg" -->
 
 Welcome!  I help ambitious men to discover their gold on a journey into the divine masculine.
 I guide men who feel overwhelmed by their past and "traditional" masculinity
