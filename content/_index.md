@@ -1,6 +1,6 @@
 #
 
-<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rock+Salt&display=swap" rel="stylesheet">
 
 <div class="title.header" style="text-align: center; color: darkred; font-size: 64px; font-family: 'Permanent Marker', cursive;">DISCOVER YOUR GOLD</div>
 
