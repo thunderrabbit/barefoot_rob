@@ -25,14 +25,18 @@ Meditation, walking, breathing, enjoying fresh air.
 
 **gather at 2pm at [Inariyama-Koen Station Popura](https://goo.gl/maps/aHkjr59UwQpWm6rZA)** (convenience store) 19 April 2021
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Where
 
 Meet at the North Exit of [Inariyamakoen Station](https://goo.gl/maps/4ymu2KpquokpdPvF7) (on Ikebukuro Line)
 by [Popura Inariyamaten](https://goo.gl/maps/aHkjr59UwQpWm6rZA)  https://goo.gl/maps/aHkjr59UwQpWm6rZA
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -42,7 +46,9 @@ fourth
 
 [狭山稲荷山公園](https://goo.gl/maps/9nzuPE2mMHwJStxa7) ([Sayama Inariyama Prefectural Park](https://goo.gl/maps/9nzuPE2mMHwJStxa7)) seems like a nice park for walking, so let's enjoy a walking meditation.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 *Enjoy Nature*
 
@@ -64,7 +70,9 @@ What to Expect (April 19th, 2021):
 Walking meditation for 45 minutes in
 [狭山稲荷山公園](https://goo.gl/maps/9nzuPE2mMHwJStxa7) ([Sayama Inariyama Prefectural Park](https://goo.gl/maps/9nzuPE2mMHwJStxa7))
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 Afterward, you are welcome to join me [walking 4.5km](https://goo.gl/maps/B26MzPgV4DwgjFbB7) to [Sayama City Chikozan Park Children’s Zoo](https://goo.gl/maps/xZoNBYWNHmd2gqfBA)
 

@@ -31,7 +31,9 @@ Meet by the mailboxes:
 
 [![July 16th meeting point](//b.robnugen.com/journal/2021/manpukuji_hayama_park/thumbs/2021_jun_24_pre_manpukuji_hayama_meeting_point.jpg)](//b.robnugen.com/journal/2021/manpukuji_hayama_park/2021_jun_24_pre_manpukuji_hayama_meeting_point.jpg)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -54,7 +56,9 @@ What to Expect:
 * If it's raining, we will just walk around a park.
 * If it's dry; we can find a place to sit.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Donation:**
 

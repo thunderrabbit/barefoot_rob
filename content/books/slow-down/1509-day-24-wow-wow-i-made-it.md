@@ -26,7 +26,7 @@ class="title" />
 
 [![2021 may 08 François with ice cream](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_francois_with_ice_cream.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_francois_with_ice_cream.jpeg)
 [![2021 may 08 François too much to drink](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_francois_too_much_to_drink.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_francois_too_much_to_drink.jpeg)
-[![2021 may 08 daisuke hiroe rob](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_daisuke_hiroe_rob.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_daisuke_hiroe_rob.jpeg)          
+[![2021 may 08 daisuke hiroe rob](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/thumbs/2021_may_08_daisuke_hiroe_rob.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-23/2021_may_08_daisuke_hiroe_rob.jpeg)
 
 #### '2021-05-09T06:01:16+09:00'
 
@@ -53,7 +53,7 @@ a 2% hope that she did anyway without me asking.
 In any case here's the picture I was able to take and upload with my
 phone.
 
-[![2021 may 08 made lens cap for camera](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_made_lens_cap_for_camera.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_made_lens_cap_for_camera.jpeg)          
+[![2021 may 08 made lens cap for camera](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_made_lens_cap_for_camera.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_made_lens_cap_for_camera.jpeg)
 
 #### '2021-05-09T12:35:17+09:00'
 
@@ -69,7 +69,7 @@ point that I planned to visit before embarking on this quest.
 [![2021 may 08 approaching the bridge](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_approaching_the_bridge.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_approaching_the_bridge.jpeg)
 [![2021 may 08 bottom of the steps](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_bottom_of_the_steps.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_bottom_of_the_steps.jpeg)
 [![2021 may 08 looking up the steps](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_looking_up_the_steps.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_looking_up_the_steps.jpeg)
-[![2021 may 08 rob and flower collector](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_rob_and_flower_collector.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_rob_and_flower_collector.jpeg)          
+[![2021 may 08 rob and flower collector](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_rob_and_flower_collector.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_rob_and_flower_collector.jpeg)
 
 #### '2021-05-09T12:38:54+09:00'
 
@@ -78,7 +78,7 @@ point that I planned to visit before embarking on this quest.
 
 
 [![2021 may 08 François on stairs with bridge visible](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_francois_on_stairs_with_bridge_visible.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_francois_on_stairs_with_bridge_visible.jpeg)
-[![2021 may 08 François on stairs with bag visible](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_francois_on_stairs_with_bag_visible.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_francois_on_stairs_with_bag_visible.jpeg)          
+[![2021 may 08 François on stairs with bag visible](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_08_francois_on_stairs_with_bag_visible.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_08_francois_on_stairs_with_bag_visible.jpeg)
 
 PS the coordinates listed are kind of off.
 
@@ -95,7 +95,7 @@ PS the coordinates listed are kind of off.
 [![2021 may 09 selfie at final barrier](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_selfie_at_final_barrier.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_selfie_at_final_barrier.jpeg)
 [![2021 may 09 barrier waves](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_barrier_waves.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_barrier_waves.jpeg)
 [![2021 may 09 barriers](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_barriers.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_barriers.jpeg)
-[![2021 may 09 goal hiro mika lin](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_goal_hiro_mika_lin.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_goal_hiro_mika_lin.jpeg)          
+[![2021 may 09 goal hiro mika lin](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_goal_hiro_mika_lin.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_goal_hiro_mika_lin.jpeg)
 
 [![2021 may 09 lin francois rob](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_lin_francois_rob.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_lin_francois_rob.jpg)
 [![2021 may 09 lin hugs rob](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/thumbs/2021_may_09_lin_hugs_rob.jpg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-24/2021_may_09_lin_hugs_rob.jpg)
@@ -175,7 +175,7 @@ To [Chuokan hotel in Fuchu](https://goo.gl/maps/KqnXrR9J7C6HPKe9A)
 (<span class="km_total">33</span>km walked so far)
 
 It will probably be dark by the time we leave Yomiuriland,
-so I doubt we will be able to see much near Tama River.  
+so I doubt we will be able to see much near Tama River.
 But we'll cross Tama River and then walk a bit to Chuokan Hotel.
 
 [![03 walk 08km to Chuokan hotel in Fuchu](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_mar_07_yomiuriland_to_chuokan_hotel.png)](https://goo.gl/maps/bWkSxvfpEYupLuzX6)
@@ -254,7 +254,9 @@ To [Hotel Restay](https://goo.gl/maps/KF4gk5RRhMyWgX7F9)
 5. go play at [Seibuen Amusement Park](https://goo.gl/maps/WdsKGX6CaQkSZkaQA) (if it is open!)
 6. 5:30pm - 6:30pm [Walking Meditation Event](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/) for [3.8km along Lake Tama](https://goo.gl/maps/AJaZhTWt2uXBGEwj8) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6))
 
-For latest updates, [join our LINE group](/contact/)!
+For latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 [![Walk 9km Higashimurayama Shiritsu Fujimi Community Center to Hotel Restay](//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/thumbs/2021_apr_03_higashimurayama_center_to_hotel_restay.png)](https://goo.gl/maps/BRDVpH1BscbrAbfk6)
 
@@ -867,7 +869,7 @@ To [Kagura White Horse Inn](https://goo.gl/maps/jxFH8Yjw76n3e4dh8)
 There is a tunnel on Highway 17
 just north of Lodge Montoze,
 through which I cannot safely walk
-because there are no sidewalks.  
+because there are no sidewalks.
 One of my skiing friends said
 there will likely be very few skiers
 by this date, so I can likely

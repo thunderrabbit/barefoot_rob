@@ -31,7 +31,9 @@ Meditation, walking, breathing, enjoying morning summer air.
 
 **Mukogaoka-Yuen Station (向ヶ丘遊園駅) outside [Odakyu Store near South entrance](https://goo.gl/maps/YHYb5Nd2CeZA4hQCA)**  https://goo.gl/maps/YHYb5Nd2CeZA4hQCA https://www.openstreetmap.org/node/6018973434  [///welcome.contain.overnight](https://what3words.com/welcome.contain.overnight)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -58,7 +60,9 @@ What to Expect:
 * I will guide us in meditation, including walking meditation.
 * Feel free to take off your shoes; whatever makes you comfortable.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Costs:**
 

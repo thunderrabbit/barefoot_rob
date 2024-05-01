@@ -31,7 +31,9 @@ Let's enjoy cooler weather!
 
 **Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -51,7 +53,9 @@ What to Expect:
 * If it's raining, we will just walk around the loop.
 * If it's hot; we will explore the shaded areas with trees.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Costs:**
 

@@ -37,7 +37,9 @@ class="title" />
 
 Yōga Station(https://goo.gl/maps/9Aispkras314sCAg7) (at bottom of circular stairs)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -60,7 +62,9 @@ What to Expect:
 * Let's enjoy discovering the park together!
 * Time for hanami lunch (bring your lunch; I'll bring tarps)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Donation:**
 

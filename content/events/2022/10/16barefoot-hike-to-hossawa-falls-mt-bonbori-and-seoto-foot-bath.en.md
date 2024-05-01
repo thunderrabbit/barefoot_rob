@@ -38,7 +38,9 @@ Sunday 16 October 2022, 10:03
 
 Musashi-Itsukaichi Station (Itsukaichi Line), South Exit (https://goo.gl/maps/KMN7J5aQdKrwVLhK8)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -71,7 +73,9 @@ motions of your body, one breath and one step at a time.
 * I will talk about how to safely walk barefoot.
 * We will feel asphalt, grass, and myriad other surfaces.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Donation:**
 

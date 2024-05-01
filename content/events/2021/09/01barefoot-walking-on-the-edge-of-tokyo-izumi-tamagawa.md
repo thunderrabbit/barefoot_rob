@@ -34,7 +34,9 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (on the Tokyo side of the river)
 
 [![2021 aug 16 tama river odakyu line setagaya](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_tama_river_odakyu_line_setagaya.png)](//b.robnugen.com/blog/2021/2021_aug_16_tama_river_odakyu_line_setagaya.png)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -53,7 +55,9 @@ motions of your body, one breath and one step at a time.
 
 Walk around the grass for a bit, then possibly walk along the river.  Watch for little rocks!
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Costs:**
 

@@ -32,7 +32,9 @@ HUMANDATE, FIRST_GATHERING_TIME
 
 2F of Hikarie, facing Shibuya Scramble Square (https://goo.gl/maps/XNvqTUJuBiV4inhS6)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -63,7 +65,9 @@ where you’re walking to avoid injury.
 [![2023 01 14 along shibuya stream](//b.robnugen.com/journal/2023/walk/thumbs/2023_01_14_along_shibuya_stream.jpg)](//b.robnugen.com/journal/2023/walk/2023_01_14_along_shibuya_stream.jpg)
 [![2023 01 14 cute hanging lights](//b.robnugen.com/journal/2023/walk/thumbs/2023_01_14_cute_hanging_lights.jpg)](//b.robnugen.com/journal/2023/walk/2023_01_14_cute_hanging_lights.jpg)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Costs:**
 
