@@ -64,10 +64,6 @@ Find like-minded others who enjoy walking barefoot!
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
 
-To receive the latest updates, join our LINE group!
-
-[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
-
 **Donation:**
 
 500 yen
