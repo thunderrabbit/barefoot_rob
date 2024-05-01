@@ -40,18 +40,17 @@
                     </a>
                 </li>
                 {{ end }}
-<!--
                 <li class="nav-item">
-                    <a class="pure-button" rel="me" href="https://github.com/{{ .Site.Params.githubName }}">
-                        <i class="fa fa-facebook-alt"></i>
+                    <a class="pure-button" rel="me" href="https://www.facebook.com/{{ .Site.Params.facebook }}">
+                        <i class="fa fa-facebook"></i>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" rel="me" href="https://www.youtube.com/thunderrabbit">
-                        <i class="fa fa-youtube-alt"></i>
+                    <a class="pure-button" rel="me" href="https://www.youtube.com/{{ .Site.Params.youtube }}">
+                        <i class="fa fa-youtube"></i>
                     </a>
                 </li>
--->
+
                 {{ if .Site.Params.mastodonName }}
                 <li class="nav-item">
                   <a class="pure-button" rel="me" href="https://mograph.social/@{{ .Site.Params.mastodonName }}">Mastodon</a>
