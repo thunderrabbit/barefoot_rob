@@ -100,3 +100,46 @@ you’ll have on the world.
     BOOK A FREE DISCOVERY CALL
 </a>
 </div>
+
+## HERE’S WHAT OTHER MEN HAVE TO SAY ABOUT MY WORK
+
+<div class="walk-segment">
+
+Rob is amazing. He is a perfect facilitator in every way.
+He is caring, kind, self-effacing, honest. Ten out of ten.
+
+-- Andy Boerger
+
+</div>
+<br>
+<div class="walk-segment">
+
+Rob has been an enormous blessing in my life. His facilitation work, guidance,
+and leadership have helped me to sense, understand, express and process my own
+emotions. He treats each person as a true individual and listens with openness,
+care, and compassion. In my personal experience Rob is excellent at both
+counseling and facilitation. He can serve a wide range of clients because he
+doesn’t have his own agenda, and pays close attention to the subjective and
+personal aspects of one’s emotions, life circumstances, and individual values,
+goals, or priorities. Whether you are struggling with overwhelming emotions,
+seeking greater self understanding, or simply desire more clarity about the
+direction you want to go in life, Rob can provide the space, tools, and support
+for you to discover your own wisdom.
+
+-- Nathan Brandli
+
+</div>
+<br>
+<div class="walk-segment">
+Rob,
+
+Last week in our breakout room with the Inspiration Process, you worked with me where I was the participant.  I have now been facilitated by Dmitri, you and Anne.  I know that you did not following the script (Ann does this down to the last comma) but, whatever you did, it has given me a lasting vision of where I need to be in terms of getting closer to being in the lover quadrant.  I can’t tell you what you did, it is simply that I now have a much more relaxed view of how a lover looks at the world and how I would like to see it, more than just occasionally.  Time was the enemy with the other two so we will never know the outcome.
+
+I’m not a strong script follower but I also realize that the script works and can be relied upon to get somewhere.  However, I am also a strong proponent of following wherever the participant wants to take me provided we all have the time.  I felt that you were by my side asking me questions that I understood and, therefore, you were indirectly forming the vision that I still see today.  It is all very positive for me and you should know that. That night you had a touch of magic.
+
+I go back to my NWTA weekend and my on-the-carpet experience.  A friend in my group chose me to be a father figure instead of one of the staff members which put me in a unique position and on the wrong end of the carpet.  However, what he did for me was totally unscripted, unplanned and out of the ordinary and of more benefit to me than to him.  It was like a divine moment that opened a whole field of love unobserved by me for decades.  I can remember that experience vividly but can’t remember what I am going to the store for unless I write it down.  This is my life!!
+
+I strongly urge you to stick with your counseling vision.  It works……
+
+Bob Mayhew
+</div>
