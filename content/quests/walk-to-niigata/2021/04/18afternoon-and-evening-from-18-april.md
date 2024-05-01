@@ -92,7 +92,7 @@ To [Hotel Restay](https://goo.gl/maps/KF4gk5RRhMyWgX7F9)
 5. go play at [Seibuen Amusement Park](https://goo.gl/maps/WdsKGX6CaQkSZkaQA) (if it is open!)
 6. 5:30pm - 6:30pm [Walking Meditation Event](/events/2021/04/18walking-meditation-along-lake-near-seibuen-amusement-park/) for [3.8km along Lake Tama](https://goo.gl/maps/AJaZhTWt2uXBGEwj8) to [西武球場前駅](https://goo.gl/maps/XfnuDS8i2bDs4khu6) ([Seibukyujo-mae Station](https://goo.gl/maps/XfnuDS8i2bDs4khu6))
 
-For latest updates, join our LINE group!
+For the latest updates, join our LINE group!
 
 [![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
