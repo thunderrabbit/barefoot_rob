@@ -42,7 +42,9 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 
 [![2021 Aug 16 tama river odakyu line setagaya](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_tama_river_odakyu_line_setagaya.png)](//b.robnugen.com/blog/2021/2021_aug_16_tama_river_odakyu_line_setagaya.png)
 
-最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+最新情報を受け取るには、LINEグループに参加してください!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### 詳細
 
@@ -63,7 +65,9 @@ https://goo.gl/maps/2Ysk1D4EWmc41q3k7 (東京側)
 満月の光を楽しみましょう。
 
 
-最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+最新情報を受け取るには、LINEグループに参加してください!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **参加費**
 

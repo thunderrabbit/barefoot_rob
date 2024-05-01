@@ -41,7 +41,9 @@ aliases: [
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### 詳細
 
@@ -65,7 +67,9 @@ aliases: [
 * 公園では靴を脱いで、母なる大地とつながりましょう。
 * 友達に会って、おしゃべりを楽しんで、つながる
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **参加費**
 
