@@ -21,6 +21,8 @@ every aspect of your life.
 
 ## 🚹 Embark on a Journey of Self-Discovery and Connection
 
+<!--  add testimonials here (3 written or 1 video) -->
+
 Experience a transformative adventure that unfolds over the course of
 twelve weeks. Dive deep into the essence of who you are and how you
 connect with the world around you. Imagine this as your personal

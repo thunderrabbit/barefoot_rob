@@ -7,19 +7,21 @@ aliases: [
 ]
 ---
 
-To join our Walk and Talk LINE group, PM me:
-
-[![2021 apr 03 rob line qr code text walking meditation](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
+{{% img-responsive "https://b.robnugen.com/blog/2024/2024_jan_jacket_hmm_1000.jpg" "Got questions?" %}}
 
 
-<div class="note">(click image to enlarge)</div>
+## Want to stay in touch?
 
+<p style="font-size:1.2em">
+You can connect with me on
+</p>
 
-Events are always on my [Events page](/en/events/) first!  (No tracking, no cookies!)
-I sometimes post events on [meetup.com Tokyo Sol](https://www.meetup.com/Tokyo-Sol-barefoot-more/) or
-
-[Rob Nugen on Facebook](https://www.facebook.com/thunderrabbit)
-
+<ul>
+<li style="font-size:1.2em"><a href="https://www.meetup.com/tokyo-conscious-connections">Meetup: Tokyo Conscious Connections</a></li>
+<li style="font-size:1.2em"><a href="https://www.facebook.com/thunderrabbit">Facebook</a></li>
+<li style="font-size:1.2em"><a href="https://www.youtube.com/thunderrabbit">Youtube</a></li>
+<li style="font-size:1.2em"><a href="mailto:rob@robnugen.com">Email rob@robnugen.com</a></li>
+</ul>
 
 <li class="nav-item">
 <a class="pure-button" style="background-color: darkgoldenrod;" href="https://www.calendly.com/robnugen/discovery">
