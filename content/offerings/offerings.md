@@ -1,8 +1,9 @@
 ---
-title: "Services"
-tags: [ "barefoot rob", "services" ]
+title: "Offerings"
+tags: [ "barefoot rob", "services", "offerings" ]
 date: 2024-03-19T15:38:44+09:00
 aliases: [
+  "offerings/",
   "services/"
 ]
 ---
