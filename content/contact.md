@@ -16,42 +16,13 @@ To join our Walk and Talk LINE group, PM me:
 
 
 Events are always on my [Events page](/en/events/) first!  (No tracking, no cookies!)
-I sometimes post events on [meetup.com Tokyo Sol](https://www.meetup.com/Tokyo-Sol-barefoot-more/) or [Barefoot Rob on Facebook](https://www.facebook.com/barefootrob/events)
+I sometimes post events on [meetup.com Tokyo Sol](https://www.meetup.com/Tokyo-Sol-barefoot-more/) or
 
-Interested in 1-on-1 sessions or attending other events?  Feel free to get in touch below:
+[Rob Nugen on Facebook](https://www.facebook.com/thunderrabbit)
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mzboaopl"
-  method="POST">
-  <!-- your other form fields go here -->
 
-<div>
-    <label class="pure-form" for="name">
-        Name:
-        <input class="pure-form" id="name" size="50" name="name" type="text" maxlength="255" value="" />
-    </label>
-</div>
-
-<p class="hidden">
-    <label>Don’t fill this out if you're human:<input class="pure-form" name="page" />
-    </label>
-</p>
-
-<div>
-    <label class="pure-form" for="email">
-        Email or other contact info:
-        <input class="pure-form" id="email" size="50" name="email" type="text" maxlength="255" value="" />
-    </label>
-</div>
-
-<div>
-    <label class="pure-form" for="inquiry">
-        Inquiry:
-        <textarea id="inquiry" rows="10" cols="120" name="inquiry"></textarea>
-    </label>
-</div>
-
-<button class="pure-form button_text" type="submit">Send</button>
-
-</form>
+<li class="nav-item">
+<a class="pure-button" style="background-color: darkgoldenrod;" href="https://www.calendly.com/robnugen/discovery">
+    BOOK A DISCOVERY CALL
+</a>
+</li>

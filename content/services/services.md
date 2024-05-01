@@ -92,5 +92,8 @@ authenticity. Let’s make these twelve weeks transformative, not just
 for you, but for the relationships you’ll nurture and the impact
 you’ll have on the world.
 
-[Book a Discovery Call](https://calendly.com/robnugen/discovery) to
-start your journey towards deeper connection and fulfillment.
+<div class="nav-item" style="text-align:center">
+<a class="pure-button" style="background-color: darkgoldenrod; font-size:2em" href="https://www.calendly.com/robnugen/discovery">
+    BOOK A FREE DISCOVERY CALL
+</a>
+</div>

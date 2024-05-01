@@ -6,19 +6,31 @@
 
 <!-- img src="https://b.robnugen.com/blog/2019/2019_aug_04_mkp_yoyogi_park_men.jpeg" -->
 
-Welcome!  I help ambitious men to discover their gold on a journey into the divine masculine.
+<div style="font-size: 2em">
+Welcome, brother!
+<p>I help ambitious men to discover their gold on a journey into the divine masculine.
 I guide men who feel overwhelmed by their past and "traditional" masculinity
 to break away from their inner demons of self-defeat and shame through transformative shadow work,
 space holding and circle work.
+</p>
+
+<p>
 I am a TedX speaker, barefoot walker for over 20 years,
-trained and run men circles with ManKind Project since 2015
+trained and run men circles with ManKind Project since 2015,
 and made the most powerful decision to release myself from
 a dysfunctional 12 year marriage to be with my dream woman
-who matches my values and offers the love I desire.
+who matches my values and offers the love I desire.</p>
+</div>
+<br>
+
 
 {{<youtube G4ZiO1kSIRk>}}
 
-[Book a Discovery Call](https://www.calendly.com/robnugen/discovery)
+<div class="nav-item" style="text-align:center">
+<a class="pure-button" style="background-color: darkgoldenrod; font-size:2em" href="https://www.calendly.com/robnugen/discovery">
+    BOOK A FREE DISCOVERY CALL
+</a>
+</div>
 
 <link rel="stylesheet" href="/css/aweber.css">
 <form method="post" class="af-form-wrapper" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl">
@@ -35,7 +47,7 @@ who matches my values and offers the love I desire.
   <div id="af-form-1884698591" class="af-form">
     <div id="af-header-1884698591" class="af-header">
       <div class="bodyText">
-        <p><span style="font-size: 12px;">Be the first to know of my upcoming events</span></p>
+        <p><span style="font-size: 1.2em;">Receive My Free Grounding Meditation</span></p>
       </div>
     </div>
     <div id="af-body-1884698591" class="af-body af-standards">
