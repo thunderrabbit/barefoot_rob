@@ -1,6 +1,6 @@
 # Rob Nugen
 
-## Connection Coach For Men
+<div class="title.header" style="color: red; font-size: 24px;">DISCOVER YOUR GOLD</div>
 
 <img src="https://b.robnugen.com/blog/2019/2019_aug_04_mkp_yoyogi_park_men.jpeg">
 
@@ -18,9 +18,6 @@ who matches my values and offers the love I desire.
 
 [Book a Discovery Call](https://www.calendly.com/robnugen/discovery)
 
-If you'd like to hear more about my workshops, enter your email below.
-
-
 <link rel="stylesheet" href="/css/aweber.css">
 <form method="post" class="af-form-wrapper" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl">
   <div style="display: none;">
@@ -36,7 +33,7 @@ If you'd like to hear more about my workshops, enter your email below.
   <div id="af-form-1884698591" class="af-form">
     <div id="af-header-1884698591" class="af-header">
       <div class="bodyText">
-        <p><span style="font-size: 12px;">Rob Nugen info and events</span></p>
+        <p><span style="font-size: 12px;">Be the first to know of my upcoming events</span></p>
       </div>
     </div>
     <div id="af-body-1884698591" class="af-body af-standards">
