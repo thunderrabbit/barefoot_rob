@@ -115,7 +115,7 @@ to helping others to heal was super helpful in releasing the old pattern.
 Anyone, who feels stuck and wants a helping hand or maybe just needs to be
 listened, would find a session with Rob beneficial. I highly recommend Rob!
 
--- Anna Preuss
+-- Anna Preuss, Dressage Rider & EA Coach
 </div>
 <br>
 <div class="walk-segment">
@@ -158,4 +158,6 @@ think about, in a daily life.
 I would recommend Rob to anyone who is willing to open up about their
 struggles, and who is open to receive gentle support to untangle
 emotional messes that are caused by living this thing called LIFE.
+
+-- Joanna Black
 </div>
