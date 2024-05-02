@@ -121,7 +121,8 @@ listened, would find a session with Rob beneficial. I highly recommend Rob!
 <div class="walk-segment">
 This circle is for anybody who want to share deep emotional things with like-minded people.
 
-Sometimes in the city life, we feel shame in sharing our truest emotion. However, I love how in this space, rob creates safe space for people to explore their genuine emotion.
+Sometimes in the city life, we feel shame in sharing our truest emotion. However,
+I love how in this space, Rob creates safe space for people to explore their genuine emotion.
 
 In this space, we also listen to other people’s emotion and what they are going through.
 
