@@ -40,7 +40,9 @@ https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
 [![blue cafe](//b.robnugen.com/blog/2022/thumbs/blue_cafe.jpg)](//b.robnugen.com/blog/2022/blue_cafe.jpg)
 
-最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+最新情報を受け取るには、LINEグループに参加してください!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### 詳細
 

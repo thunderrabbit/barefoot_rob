@@ -28,7 +28,9 @@ aliases: [
 
 臨港パークの「臨港パーク アーチ橋」の[横の円形スペース](https://goo.gl/maps/k5XcA7ueXCCsPErV9)に集合。
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### 詳細
 
@@ -57,7 +59,9 @@ aliases: [
 * 公園での新たな発見を、皆で楽しみましょう！
 * お天気が良い場合はランチを持参してください。公園でお昼を一緒に食べましょう！
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **参加費**
 

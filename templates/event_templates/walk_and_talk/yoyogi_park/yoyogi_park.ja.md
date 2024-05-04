@@ -24,7 +24,9 @@ aliases: [
 
 **EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME集合、EVENT_TIME代々木公園入場**
 
-最新情報を受け取るには、[LINEグループに参加](/contact/)してください!
+最新情報を受け取るには、LINEグループに参加してください!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### 場所
 

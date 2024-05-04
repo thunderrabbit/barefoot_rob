@@ -26,4 +26,6 @@ I look forward to seeing everyone in 2022!
 ~~2021年12月30日　12:00~~
 
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)

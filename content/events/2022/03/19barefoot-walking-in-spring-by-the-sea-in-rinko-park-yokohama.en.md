@@ -25,7 +25,9 @@ Saturday 19 March 2022, 13:00
 
 Circular space in **[Rinko Park in Yokohama](https://goo.gl/maps/k5XcA7ueXCCsPErV9)**, next to Rinko Park Arch Bridge.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -51,7 +53,9 @@ What to Expect:
 * Let's enjoy discovering the park together!
 * If the weather is nice, bring lunch to enjoy in the park!
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Donation:**
 

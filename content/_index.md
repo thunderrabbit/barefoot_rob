@@ -16,9 +16,9 @@ space holding and circle work.
 
 <p>
 I am a TedX speaker, barefoot walker for over 20 years,
-trained and run men circles with ManKind Project since 2015,
-and made the most powerful decision to release myself from
-a dysfunctional 12 year marriage to be with my dream woman
+trained and run men circles with ManKind Project since 2015.
+I made a powerful decision to release myself from a 12 year
+marriage that had become untenable.  Now I'm with my dream woman
 who matches my values and offers the love I desire.</p>
 </div>
 <br>
@@ -31,6 +31,10 @@ who matches my values and offers the love I desire.</p>
     BOOK A FREE DISCOVERY CALL
 </a>
 </div>
+<br>
+<br>
+<br>
+<br>
 
 <link rel="stylesheet" href="/css/aweber.css">
 <form method="post" class="af-form-wrapper" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl">

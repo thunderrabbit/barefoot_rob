@@ -4,6 +4,8 @@ events:
   other: イベント
 services:
   other: Services
+offerings:
+  other: Offerings
 about:
   other: About
 contact:

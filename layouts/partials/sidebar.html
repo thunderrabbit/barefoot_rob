@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rock+Salt&display=swap" rel="stylesheet">
+
 <div class="sidebar pure-u-1 pure-u-md-1-4">
     <div class="header">
         <hgroup>
@@ -17,8 +19,8 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" href='{{ "en/services" | relURL }}'>
-                        {{ i18n "services" }}
+                    <a class="pure-button" href='{{ "en/offerings" | relURL }}'>
+                        {{ i18n "offerings" }}
                     </a>
                 </li>
                 <li class="nav-item">
@@ -33,45 +35,44 @@
                 </li>
                 {{ if .Site.Params.twitterName }}
                 <li class="nav-item">
-                    <a class="pure-button" rel="me" href="https://twitter.com/{{ .Site.Params.twitterName }}">
+                    <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://twitter.com/{{ .Site.Params.twitterName }}">
                         <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
                     </a>
                 </li>
                 {{ end }}
-<!--
                 <li class="nav-item">
-                    <a class="pure-button" rel="me" href="https://github.com/{{ .Site.Params.githubName }}">
-                        <i class="fa fa-facebook-alt"></i>
+                    <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/{{ .Site.Params.facebook }}">
+                        <i class="fa fa-facebook"></i>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="pure-button" rel="me" href="https://www.youtube.com/thunderrabbit">
-                        <i class="fa fa-youtube-alt"></i>
+                    <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/{{ .Site.Params.youtube }}">
+                        <i class="fa fa-youtube"></i>
                     </a>
                 </li>
--->
+
                 {{ if .Site.Params.mastodonName }}
                 <li class="nav-item">
-                  <a class="pure-button" rel="me" href="https://mograph.social/@{{ .Site.Params.mastodonName }}">Mastodon</a>
+                  <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://mograph.social/@{{ .Site.Params.mastodonName }}">Mastodon</a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.githubName }}
                 <li class="nav-item">
-                    <a class="pure-button" rel="me" href="https://github.com/{{ .Site.Params.githubName }}">
+                    <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://github.com/{{ .Site.Params.githubName }}">
                         <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.stackOverflowId }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://stackoverflow.com/u/{{ .Site.Params.stackOverflowId }}">
+                    <a class="pure-button" target="_blank" href="https://stackoverflow.com/u/{{ .Site.Params.stackOverflowId }}">
                         <i class="fa fa-stack-overflow"></i>{{ if not .Site.Params.hideSidebarIconText }}Stack Overflow{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.linkedinName }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
+                    <a class="pure-button" target="_blank" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
                         <i class="fa fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
                     </a>
                 </li>

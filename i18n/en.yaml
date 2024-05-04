@@ -4,6 +4,8 @@ events:
   other: Events
 services:
   other: Services
+offerings:
+  other: Offerings
 about:
   other: About
 contact:

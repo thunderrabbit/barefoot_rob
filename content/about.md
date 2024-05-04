@@ -9,29 +9,37 @@ aliases: [
 ---
 
 <img
-src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
+src="//b.robnugen.com/blog/2024/2024_jan_About_Me_1000.jpg"
 alt="Rob Nugen"
 class="half" />
 
-{{< youtube LJzb5n9ldP8 >}}
-
-Find Joy in your life by getting out of
+<p style="font-size:1.2em">
+Find joy in your life by getting out of
 your head and into your body.
+</p>
 
+<p style="font-size:1.2em">
 Rob conducts workshops and meetings giving people
 skills to connect with each other and with their personal life mission.
+</p>
 
+<p style="font-size:1.2em">
 Rob has been running a men’s peer counseling group
 in Tokyo since 2015. Rob has been conducting
 spiritual workshops in both Tokyo and Kanagawa.
+</p>
 
+<p style="font-size:1.2em">
 As a long-term resident in Kanagawa, Rob is fully
 aware of both the joys and pitfalls of life in Japan.
 In the middle of work, relationships, and other commitments,
 it is easy to feel cut off, isolated,
 and eager to find something more meaningful.
+</p>
 
+<p style="font-size:1.2em">
 My experience in counseling and facilitation work includes:
+</p>
 
 * Leading Cuddle Party events
 * 12+ years attending and 6+ years leading a weekly peer counseling circle for men
@@ -40,23 +48,30 @@ My experience in counseling and facilitation work includes:
 * Shamanic healing training
 * ShadowWork basic training
 
-**Your trusted guide**
 
+## Your trusted guide
+
+<p style="font-size:1.2em">
 Doing inner emotional work,
 you should have a competent and trusted guide.
 Leading my Peer counseling circles has given me
 vast experience in navigating this territory.
+</p>
 
+<p style="font-size:1.2em">
 My workshops let you explore what blocks you
 from offering the best of yourself to the world.
 Work through the emotions and allow your
 inner guidance to shine through.
+</p>
 
-## Contact
-
-[Contact](/contact)
-
-[Sign up for a Discovery Call](//www.calendly.com/robnugen/discovery)
+<div class="nav-item" style="text-align:center">
+<a class="pure-button" style="background-color: darkgoldenrod; font-size:2em" href="https://www.calendly.com/robnugen/discovery">
+    BOOK A FREE DISCOVERY CALL
+</a>
+</div>
+<br>
+<br>
 
 ## Trainings and Certifications
 
@@ -84,17 +99,8 @@ QPR is an emergency mental health intervention for suicidal persons.
 
 ## Testimonials
 
+
 <div class="walk-segment">
-
-Rob is amazing. He is a perfect facilitator in every way.
-He is caring, kind, self-effacing, honest. Ten out of ten.
-
--- Andy Boerger
-
-</div>
-<div class="walk-segment">
-
-[![2021 apr 06 Anna Preuss testimonial](//b.robnugen.com/blog/2021/2021_apr_06_anna_testimonial.png)](https://www.facebook.com/anna.preuss21/posts/10158946010922655)
 
 I met Rob within a business setting and we set a little group up to be
 accountability buddies. During our group meetings I have gotten to know
@@ -109,35 +115,50 @@ to helping others to heal was super helpful in releasing the old pattern.
 Anyone, who feels stuck and wants a helping hand or maybe just needs to be
 listened, would find a session with Rob beneficial. I highly recommend Rob!
 
--- Anna Preuss
-
+-- Anna Preuss, Dressage Rider & EA Coach
 </div>
+<br>
 <div class="walk-segment">
+This circle is for anybody who want to share deep emotional things with like-minded people.
 
-Rob has been an enormous blessing in my life. His facilitation work, guidance,
-and leadership have helped me to sense, understand, express and process my own
-emotions. He treats each person as a true individual and listens with openness,
-care, and compassion. In my personal experience Rob is excellent at both
-counseling and facilitation. He can serve a wide range of clients because he
-doesn’t have his own agenda, and pays close attention to the subjective and
-personal aspects of one’s emotions, life circumstances, and individual values,
-goals, or priorities. Whether you are struggling with overwhelming emotions,
-seeking greater self understanding, or simply desire more clarity about the
-direction you want to go in life, Rob can provide the space, tools, and support
-for you to discover your own wisdom.
+Sometimes in the city life, we feel shame in sharing our truest emotion. However,
+I love how in this space, Rob creates safe space for people to explore their genuine emotion.
 
--- Nathan Brandli
+In this space, we also listen to other people’s emotion and what they are going through.
 
+Through this, I felt I am not alone and I liked how everyone was confronting themselves even if the topic can be challenging!
+
+I recommend to anybody who want to connect and really explore their emotion and what they are going through with people!
+
+Rob has experience in giving space like this so I felt secure and safe to be guided. I like how he also let other people who are experienced to guide as well. He creates a space where every one is involved and feel safe to connect with their own selves!
+
+-- Jiaii Rin, Self-Love Coach
 </div>
+<br>
 <div class="walk-segment">
+There are some moments in life that are so hard to (live in) and
+navigate. Recently I have been through a fair share of those moments.
 
-![2020 dec 30 bob mayhew testimonial](//b.robnugen.com/blog/2021/2020_dec_30_bob_mayhew_testimonial.png)
+The stress and confusion that those moments cause me stops / has been
+stopping me from taking action and from any attempts of problem
+solving. It may sound like a cliche, but the reality is that it makes
+me stuck.
 
+Rob's patience and attentive listening creates a safe space for me
+to open up and helped me to gain insight into the "tangled mess"
+of my feelings.
+
+Patiently guiding me through, peeling layer by layer, Rob helped me to
+focus on myself and my feelings, and to create more clarity about how
+the life stresses had affected me.
+
+Rob created a safe and open space where I could talk through some
+overwhelming feelings, which are difficult to talk about, or even to
+think about, in a daily life.
+
+I would recommend Rob to anyone who is willing to open up about their
+struggles, and who is open to receive gentle support to untangle
+emotional messes that are caused by living this thing called LIFE.
+
+-- Joanna Black
 </div>
-
-
-## Contact
-
-[Contact](/contact)
-
-[Discovery Call on Zoom](//www.calendly.com/robnugen/discovery)

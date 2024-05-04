@@ -25,7 +25,9 @@ Meditation, walking, breathing, enjoying fresh air.
 
 **gather at 6pm, 23 April 2021** at South Exit of [Maebashioshima Station](https://goo.gl/maps/Ao6AmDpgJNyf7pRE6)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Where
 
@@ -33,7 +35,9 @@ Quite close to a station for easy access!
 
 Meet at [South exit of Maebashioshima Station](https://goo.gl/maps/3qitssmRQeW1t9Cy9) (on Ryomo Line)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -44,7 +48,9 @@ fifth
 
 [大島公園](https://goo.gl/maps/8D5s8hk5GGi6XGCq9) ([Maebashishioshima Park](https://goo.gl/maps/8D5s8hk5GGi6XGCq9)) seems like a nice park for walking, so let's enjoy a walking meditation.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 *Enjoy Nature*
 
@@ -66,7 +72,9 @@ What to Expect (April 23rd, 2021):
 Walking meditation for 45 minutes in
 [大島公園](https://goo.gl/maps/8D5s8hk5GGi6XGCq9) ([Maebashishioshima Park](https://goo.gl/maps/8D5s8hk5GGi6XGCq9))
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Costs:**
 

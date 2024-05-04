@@ -32,7 +32,9 @@ HUMANDATE, EVENT_TIME
 
 [Manpukuji Hiyama Park](https://goo.gl/maps/kTvNmsKf2XGYAbns6) https://goo.gl/maps/cDRmrwqTXid1Cfd2A
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -60,7 +62,9 @@ Find like-minded others who enjoy walking barefoot in mud!
 * Meet friends, enjoy chatting, connecting
 * Wash feet at an outdoor faucet in the park.
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Donation:**
 

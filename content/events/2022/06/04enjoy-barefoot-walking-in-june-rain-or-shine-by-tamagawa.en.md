@@ -34,7 +34,9 @@ https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
 [![blue cafe](//b.robnugen.com/blog/2022/thumbs/blue_cafe.jpg)](//b.robnugen.com/blog/2022/blue_cafe.jpg)
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### Details
 
@@ -57,7 +59,9 @@ motions of your body, one breath and one step at a time.
 
 *Stay Updated*
 
-To receive the latest updates, [join our LINE group](/contact/)!
+To receive the latest updates, join our LINE group!
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **Donation:**
 

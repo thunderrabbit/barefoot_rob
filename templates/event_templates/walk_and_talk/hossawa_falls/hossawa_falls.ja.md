@@ -32,7 +32,9 @@ EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 https://goo.gl/maps/KMN7J5aQdKrwVLhK8
 
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 #### 詳細
 
@@ -59,7 +61,9 @@ What to Expect:
 * 裸足で安全に歩く方法についてお話します。
 * アスファルト、芝生、その他無数の表面を感じます。
 
-最新情報を受け取るには、[LINEグループにご参加](/contact/)ください。
+最新情報を受け取るには、LINEグループに参加してください。
+
+[![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
 **参加費**
 
