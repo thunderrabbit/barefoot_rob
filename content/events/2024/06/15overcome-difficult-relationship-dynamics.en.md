@@ -13,7 +13,9 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/journal/2024/2024_may_03_overcoming_difficult_relationship_dynamics_1st_draft_1000.png" "Rob, Jess, and The Pink Cow banner" %}}
+
+{{% img-responsive "2024_may_03_overcoming_difficult_relationship_dynamics_fb_event_cover_2nd_draft_white_1000.png" "Rob, Jess, and The Pink Cow banner" %}}
+
 
 Join Jess X Goh and Rob Nugen for a special evening to navigate through
 the challenges of relationships (of any kind) through a series of engaging
