@@ -19,7 +19,9 @@ aliases: [
 
 Fun, casual, barefoot hike up beautiful Mt Takao with meditation on top!
 
-Time: 10am July 13th, 2024（土）
+Time: 10am - 16:30pm (approx)
+
+Date: Saturday 13 July 2024
 
 Location: Meet at 9:45am Takaosanguchi Station
 
