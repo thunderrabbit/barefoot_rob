@@ -1,15 +1,14 @@
 ---
-title: "Slow Paced Hike on Mt Takao: Barefoot Challenge!"
-tags: [ "2022", "Barefoot Rob", "barefoot", "event", "july", "walk", "takao", "はだし", "代々木公園", "裸足のロブ" ]
+title: "Barefoot Hike and Meditation on Mt Takao"
+tags: [ "2024", "Barefoot Rob", "barefoot", "event", "july", "walk", "takao", "はだし", "高尾山", "裸足のロブ" ]
 author: Rob Nugen
-date: 2022-06-06T07:59:43+09:00
+date: 2024-05-06T07:59:43+09:00
 EventLocation: "Mt Takao: Barefoot Hike Challenge"
 EventTime: "10:00"
 TimeDescription: "gather at 9:45 at Takaosanguchi Station; walk starting at 10:00"
-EventDate: "2022-07-10T10:00:00+09:00"
+EventDate: "2024-07-13T10:00:00+09:00"
 aliases: [
-    "/en/events/2022/07/10barefoot-walking-in-yoyogi-park-on-a-sunday",
-    "/en/events/2022/07/10slow-paced-hike-on-mt-takao-barefoot-challenge",
+    "/en/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao",
 ]
 ---
 
@@ -19,7 +18,7 @@ aliases: [
 
 Slow Paced, crowded, Barefoot Hike on Mt Takao
 
-10am July 10th (Sunday, so it will be crowded!)
+10am July 13th
 
 Meet at 9:45am Takaosanguchi Station
 
@@ -62,7 +61,7 @@ You can buy insurance from your own provider at your own discretion.
 By joining the hike you agree that safety is your own responsibility, not organizers'.
 
 This event is on, rain or shine.  Only if the trails are closed or trains stopped will the event be canceled.   That said, updates will be posted on this URL until the morning of the event:
-https://www.robnugen.com/en/events/2022/07/10slow-paced-hike-on-mt-takao-barefoot-challenge/
+https://www.robnugen.com/en/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao
 
 # RSVP on LINE
 
