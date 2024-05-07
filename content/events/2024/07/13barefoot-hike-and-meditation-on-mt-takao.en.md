@@ -13,24 +13,26 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/2020_feb_29_francois_with_buddhas.jpg" "2020 feb 29 François with Buddha statues" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_mt_takao.jpg" "2022 July 10 on top of Mt Takao" %}}
 
 # Summary:
 
 Fun, casual, barefoot hike up beautiful Mt Takao with meditation on top!
 
-Time: 10am July 13th
+Time: 10am July 13th, 2024（土）
 
 Location: Meet at 9:45am Takaosanguchi Station
 
-Investment: 4500 yen
-
-Includes: Vegan snacks, meditation, and onsen ticket included.
-If you want more than snacks, welcome to bring your own lunch.
-
 We will climb the (mostly paved) Trail 1 of Mt Takao.
 
-Onsen at the bottom after hike
+Investment: [3500 yen](https://book.stripe.com/cN2aHR276gogeXuaEH) https://book.stripe.com/cN2aHR276gogeXuaEH
+
+Includes: Vegan snacks, meditation.
+If you want more than snacks, welcome to bring your own lunch.
+
+VIP Ticket: [4500 yen](https://buy.stripe.com/3cs4jtfXW8VOaHe6os) https://buy.stripe.com/3cs4jtfXW8VOaHe6os
+
+Includes: Regular ticket and entry into Takaosanguchi Onsen after the hike
 
 # Details:
 
@@ -71,10 +73,12 @@ Optional:
 * Insect spray
 * Picnic sheet, seat pad
 
-(*) I will bring vegan snacks, and there is food available along the way,
+(*) I will bring vegan snacks for everyone.
+There is food available along the way,
 including ramen on the top of Mt Takao.
 
-After our hike, I'll buy tickets for everyone to visit the onsen near
+After our hike, I'll buy tickets for VIP ticket holders
+to visit the onsen near
 Takaosanguchi Station.  Relax after a great hike up the mountain!
 
 By joining the hike you agree that safety is your own responsibility.
@@ -82,7 +86,13 @@ By joining the hike you agree that safety is your own responsibility.
 # Reserve your space
 
 This hike and meditation event is limited to ten attendees.
+
 Reserve your spot via Stripe!
+
+Regular ticket [3500 yen](https://book.stripe.com/cN2aHR276gogeXuaEH) https://book.stripe.com/cN2aHR276gogeXuaEH
+
+VIP ticket [4500 yen](https://buy.stripe.com/3cs4jtfXW8VOaHe6os) includes onsen https://buy.stripe.com/3cs4jtfXW8VOaHe6os
+
 
 # About Takao Trail 1:
 
