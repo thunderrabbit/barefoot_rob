@@ -3,73 +3,86 @@ title: "Barefoot Hike and Meditation on Mt Takao"
 tags: [ "2024", "Barefoot Rob", "barefoot", "event", "july", "walk", "takao", "はだし", "高尾山", "裸足のロブ" ]
 author: Rob Nugen
 date: 2024-05-06T07:59:43+09:00
-EventLocation: "Mt Takao: Barefoot Hike Challenge"
+EventLocation: "Mt Takao"
+EventType: "Hike and Meditation"
 EventTime: "10:00"
-TimeDescription: "gather at 9:45 at Takaosanguchi Station; walk starting at 10:00"
+TimeDescription: "gather at 9:45 at Takaosanguchi Station; event starting at 10:00"
 EventDate: "2024-07-13T10:00:00+09:00"
 aliases: [
     "/en/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao",
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/2020_feb_29_francois_with_buddhas.jpg" "2020 feb 29 francois with buddhas" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/2020_feb_29_francois_with_buddhas.jpg" "2020 feb 29 François with Buddha statues" %}}
 
 # Summary:
 
-Slow Paced, crowded, Barefoot Hike on Mt Takao
+Fun, casual, barefoot hike up beautiful Mt Takao with meditation on top!
 
-10am July 13th
+Time: 10am July 13th
 
-Meet at 9:45am Takaosanguchi Station
+Location: Meet at 9:45am Takaosanguchi Station
 
-1000 yen
+Investment: 4500 yen
 
-Bring your own lunch and water.  We'll eat lunch on top of Mt Takao.
+Includes: Vegan snacks, meditation, and onsen ticket included.
+If you want more than snacks, welcome to bring your own lunch.
 
 We will climb the (mostly paved) Trail 1 of Mt Takao.
 
-Onsen at the bottom after hike!
+Onsen at the bottom after hike
 
 # Details:
 
-What to bring:
-* Water: enough for yourself (*)
-* Your lunch (we will have lunch on the top of the mountain)
+9:45am Gather in front of Takaosanguchi Station
+
+10:00am Connection Circle to check in and introduce the hike
+
+10:15am begin walking up Route 1 of Mt Takao
+
+11 am (estimate) rest and check in how everyone is doing
+
+12 pm (estimate) rest and check in how everyone is doing
+
+12:30 pm (estimate) meditation and rest on top of Mt Takao
+
+14 pm (estimate) begin heading down Mt Takao
+
+15 pm (estimate) rest and check in how everyone is doing
+
+15:30 pm (estimate) onsen near Takaosanguchi Station
+
+16:30 pm (estimate) Closing Circle
+
+# What to bring:
+
+* Water bottle (*)
+
+(*) There are vending machines and water refill places along the way
+
+Optional:
+
+* Lunch (*)
 * Hat in case of sun
 * Rainwear in case of rain
-* (Hiking) shoes (please wear shoes whenever you need to!)
-* 1000 yen
-
- Optional:
 * Towel, wet tissues for your feet
 * First aid supplies
 * Sunscreen
 * Insect spray
 * Picnic sheet, seat pad
 
-After party:
-* Bath towel, spare clothes (there is an onsen near Takaosanguchi Station,
-  if you want to relax in onsen after the hike).
+(*) I will bring vegan snacks, and there is food available along the way,
+including ramen on the top of Mt Takao.
 
+After our hike, I'll buy tickets for everyone to visit the onsen near
+Takaosanguchi Station.  Relax after a great hike up the mountain!
 
-(*) It takes 100+ minutes to go up Mt Takao (in shoes), so I suspect at least 2-3 hours for us to hike/walk barefoot.  This site says bring 1 liter of water for every 2 hours: https://www.advnture.com/features/water-for-hiking
+By joining the hike you agree that safety is your own responsibility.
 
-Insurance:
+# Reserve your space
 
-You can buy insurance from your own provider at your own discretion.
-
-By joining the hike you agree that safety is your own responsibility, not organizers'.
-
-This event is on, rain or shine.  Only if the trails are closed or trains stopped will the event be canceled.   That said, updates will be posted on this URL until the morning of the event:
-https://www.robnugen.com/en/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao
-
-# RSVP on LINE
-
-[![2021 apr 03 rob line qr code text walking meditation](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
-
-Add me (Barefoot Rob) on LINE and lemme know you want info about this hike.
-I will make sure you stay up to date for this hike.
-You have the option to join our LINE group for barefoot walking events.
+This hike and meditation event is limited to ten attendees.
+Reserve your spot via Stripe!
 
 # About Takao Trail 1:
 
