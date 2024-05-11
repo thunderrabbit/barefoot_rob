@@ -134,7 +134,7 @@ for you to discover your own wisdom.
 Rob,
 
 Last week in our breakout room with the Inspiration Process, you worked with me where I was the participant.
-I know that you did not following the script but, whatever you did, it has given me a lasting vision of where
+I know that you did not follow the script but, whatever you did, it has given me a lasting vision of where
 I need to be in terms of getting closer to being in the lover quadrant.  I can’t tell you what you did,
 it is simply that I now have a much more relaxed view of how a lover looks at the world and how
 I would like to see it, more than just occasionally.
