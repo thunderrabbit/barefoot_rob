@@ -73,7 +73,7 @@ in the space with light refreshments provided.
 <br>Ticket: 11,111 JPY
 <br>Book your spot at https://book.stripe.com/bIY9DN6nmb3W9DaaEG
 
-This ceremonial gathering is capped at 6 conscious souls
+This ceremonial gathering is capped at 11 conscious souls
 who are up for an intimate evening of loving connection and divine union.
 
 **What To Bring?**
