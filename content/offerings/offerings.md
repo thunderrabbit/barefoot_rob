@@ -137,8 +137,6 @@ Last week in our breakout room with the Inspiration Process, you worked with me 
 
 I’m not a strong script follower but I also realize that the script works and can be relied upon to get somewhere.  However, I am also a strong proponent of following wherever the participant wants to take me provided we all have the time.  I felt that you were by my side asking me questions that I understood and, therefore, you were indirectly forming the vision that I still see today.  It is all very positive for me and you should know that. That night you had a touch of magic.
 
-I go back to my NWTA weekend and my on-the-carpet experience.  A friend in my group chose me to be a father figure instead of one of the staff members which put me in a unique position and on the wrong end of the carpet.  However, what he did for me was totally unscripted, unplanned and out of the ordinary and of more benefit to me than to him.  It was like a divine moment that opened a whole field of love unobserved by me for decades.  I can remember that experience vividly but can’t remember what I am going to the store for unless I write it down.  This is my life!!
-
 I strongly urge you to stick with your counseling vision.  It works……
 
 Bob Mayhew
