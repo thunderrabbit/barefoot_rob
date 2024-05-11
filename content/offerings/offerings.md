@@ -133,9 +133,17 @@ for you to discover your own wisdom.
 <div class="walk-segment">
 Rob,
 
-Last week in our breakout room with the Inspiration Process, you worked with me where I was the participant.  I have now been facilitated by Dmitri, you and Anne.  I know that you did not following the script (Ann does this down to the last comma) but, whatever you did, it has given me a lasting vision of where I need to be in terms of getting closer to being in the lover quadrant.  I can’t tell you what you did, it is simply that I now have a much more relaxed view of how a lover looks at the world and how I would like to see it, more than just occasionally.  Time was the enemy with the other two so we will never know the outcome.
+Last week in our breakout room with the Inspiration Process, you worked with me where I was the participant.
+I know that you did not following the script but, whatever you did, it has given me a lasting vision of where
+I need to be in terms of getting closer to being in the lover quadrant.  I can’t tell you what you did,
+it is simply that I now have a much more relaxed view of how a lover looks at the world and how
+I would like to see it, more than just occasionally.
 
-I’m not a strong script follower but I also realize that the script works and can be relied upon to get somewhere.  However, I am also a strong proponent of following wherever the participant wants to take me provided we all have the time.  I felt that you were by my side asking me questions that I understood and, therefore, you were indirectly forming the vision that I still see today.  It is all very positive for me and you should know that. That night you had a touch of magic.
+I’m not a strong script follower but I also realize that the script works and can be relied upon to get somewhere.
+However, I am also a strong proponent of following wherever the participant wants to take me provided we all have the time.
+I felt that you were by my side asking me questions that I understood and, therefore, you were indirectly
+forming the vision that I still see today.  It is all very positive for me and you should know that.
+That night you had a touch of magic.
 
 I strongly urge you to stick with your counseling vision.  It works……
 
