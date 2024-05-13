@@ -22,8 +22,6 @@ every aspect of your life.
 
 ## 🚹 Embark on a Journey of Self-Discovery and Connection
 
-<!--  add testimonials here (3 written or 1 video) -->
-
 Experience a transformative adventure that unfolds over the course of
 twelve weeks. Dive deep into the essence of who you are and how you
 connect with the world around you. Imagine this as your personal
@@ -104,17 +102,20 @@ you’ll have on the world.
 ## HERE’S WHAT OTHER MEN HAVE TO SAY ABOUT MY WORK
 
 <div class="walk-segment">
-
+<div style="display: flex; align-items: center;">
+<img src="https://b.robnugen.com/sites/rnc/2024/andy_testimonial.jpeg" alt="Andy photo" style="margin-right: 20px;">
+<div>
 Rob is amazing. He is a perfect facilitator in every way.
 He is caring, kind, self-effacing, honest. Ten out of ten.
 
 -- Andy Boerger
-
+</div>
+</div>
 </div>
 <br>
 <div class="walk-segment">
 <div style="display: flex; align-items: center;">
-<img src="https://b.robnugen.com/sites/rnc/2024/nathan_testimonial.jpg" alt="Nathan Testimonial" style="margin-right: 20px;">
+<img src="https://b.robnugen.com/sites/rnc/2024/nathan_testimonial.jpg" alt="Nathan photo" style="margin-right: 20px;">
 <div>
 Rob has been an enormous blessing in my life. His facilitation work, guidance,
 and leadership have helped me to sense, understand, express and process my own
