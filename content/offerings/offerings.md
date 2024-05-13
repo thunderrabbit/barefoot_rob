@@ -113,7 +113,9 @@ He is caring, kind, self-effacing, honest. Ten out of ten.
 </div>
 <br>
 <div class="walk-segment">
-
+<div style="display: flex; align-items: center;">
+<img src="https://b.robnugen.com/sites/rnc/2024/nathan_testimonial.jpg" alt="Nathan Testimonial" style="margin-right: 20px;">
+<div>
 Rob has been an enormous blessing in my life. His facilitation work, guidance,
 and leadership have helped me to sense, understand, express and process my own
 emotions. He treats each person as a true individual and listens with openness,
@@ -127,7 +129,8 @@ direction you want to go in life, Rob can provide the space, tools, and support
 for you to discover your own wisdom.
 
 -- Nathan Brandli
-
+</div>
+</div>
 </div>
 <br>
 <div class="walk-segment">
