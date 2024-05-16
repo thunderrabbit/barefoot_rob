@@ -23,7 +23,7 @@ Time: 10am - 16:30pm (approx)
 
 Date: Saturday 13 July 2024
 
-Location: Meet at 9:45am Takaosanguchi Station
+Location: Meet at 9:45am by [Takaosanguchi Station](https://goo.gl/maps/Cj5ghHwr6PyE5LxF8)
 
 We will climb the (mostly paved) Trail 1 of Mt Takao.
 
@@ -38,7 +38,7 @@ Includes: Regular ticket and entry into Takaosanguchi Onsen after the hike
 
 # Details:
 
-9:45am Gather in front of Takaosanguchi Station
+9:45am Gather [in front of Takaosanguchi Station](https://w3w.co/tallest.pictured.cove)
 
 10:00am Connection Circle to check in and introduce the hike
 
