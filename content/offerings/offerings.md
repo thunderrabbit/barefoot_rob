@@ -135,6 +135,17 @@ for you to discover your own wisdom.
 </div>
 <br>
 <div class="walk-segment">
+<div style="display: flex; align-items: center;">
+<img src="https://b.robnugen.com/sites/rnc/2024/shraddhan_testimonial.jpg" alt="Shraddhan photo" style="margin-right: 20px;">
+<div>
+Rob you have helped me immensely for a long period of time. And I know that you have a talent for facilitation. In fact everybody in this whole group knows what great facilitation you do and how you are able to tune into people and help them to get through and go on to find the deeper level of their beings.
+
+-- Will Ewing
+</div>
+</div>
+</div>
+<br>
+<div class="walk-segment">
 Rob,
 
 Last week in our breakout room with the Inspiration Process, you worked with me where I was the participant.
