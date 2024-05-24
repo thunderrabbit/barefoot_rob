@@ -184,6 +184,9 @@ Now what do you do?
 
 My friend Klaus mentioned that the completion of the project necessitates the death of an identity.  There's a grieving process required because there was so much energy put into this project that is now completed so now there's no role for that identity anymore.
 
-Take your time to grieve. It took me fully 10 days before I could figure out how to even really get out of bed.  I mean I went to work and stuff but I was a proverbial Michelle of my former self unless I was specifically talking about the walk.
+Take your time to grieve. After my walk across Japan, it took me fully 10 days
+before I could figure out how to even really get out of bed.
+I mean I went to work and stuff but I was a proverbial
+shell of my former self unless I was specifically talking about the walk.
 
 I was shocked at how difficult it was to come back.
