@@ -95,6 +95,6 @@ VIPチケット[4500円](https://buy.stripe.com/3cs4jtfXW8VOaHe6os)温泉付き 
 
 # 高尾登山道1について：
 
-* https://ja.mttakaomagazine.com/trails/1st
+* https://mttakaomagazine.com/trails/1st
 * https://livejapan.com/ja/in-tokyo/in-pref-tokyo/in-mount_takao/article-a0003384/#table_of_contents_anchor2
 
