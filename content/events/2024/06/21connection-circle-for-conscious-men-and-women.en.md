@@ -6,10 +6,11 @@ date: 2024-04-20T09:10:54+09:00
 EventLocation: "Setagaya-ku"
 EventTime: "6:30pm - 9:30pm"
 TimeDescription: "gathering time 6:30pm"
-EventDate: "2024-06-21T18:30:00+09:00"
+EventDate: "2024-07-05T18:30:00+09:00"
 EventType: "Connection Circle"
 aliases: [
     "/en/events/2024/06/21connection-circle-for-conscious-men-and-women/",
+    "/en/events/2024/07/05connection-circle-for-conscious-men-and-women/",
 ]
 ---
 
@@ -67,7 +68,7 @@ in the space with light refreshments provided.
 
 **​​​​​​​🤝 Connection Circle: For Conscious Men & Women 🤝**
 
-<br>Date: Friday June 21st, 2024
+<br>Date: Friday July 5th, 2024
 <br>Time: 6:30pm-9:30pm
 <br>Where: Setagaya-ku, Tokyo
 <br>Ticket: 11,111 JPY
