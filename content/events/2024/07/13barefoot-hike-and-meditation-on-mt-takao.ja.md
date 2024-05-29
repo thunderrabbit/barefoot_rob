@@ -9,7 +9,7 @@ EventTime: "10:00"
 TimeDescription: "高尾山口駅9時45分集合。 2024年7月13日土曜日10:00開始イベント"
 EventDate: "2024-07-13T10:00:00+09:00"
 aliases: [
-    "/en/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao",
+    "/ja/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao",
 ]
 ---
 
