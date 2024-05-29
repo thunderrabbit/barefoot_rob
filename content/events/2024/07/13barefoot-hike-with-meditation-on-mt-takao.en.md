@@ -18,7 +18,9 @@ aliases: [
 
 # Summary:
 
-Fun, casual, barefoot hike up beautiful Mt Takao including community building circles,
+Fun, casual, barefoot hike up beautiful Mt Takao including
+vegan snacks,
+community building circles,
 and a meditation on top.
 
 Time: 10am - 16:30pm (approx)
