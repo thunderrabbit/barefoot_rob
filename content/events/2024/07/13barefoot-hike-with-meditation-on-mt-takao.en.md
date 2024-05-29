@@ -18,7 +18,8 @@ aliases: [
 
 # Summary:
 
-Fun, casual, barefoot hike up beautiful Mt Takao with meditation on top!
+Fun, casual, barefoot hike up beautiful Mt Takao including community building circles,
+and a meditation on top.
 
 Time: 10am - 16:30pm (approx)
 
@@ -31,7 +32,8 @@ We will climb the (mostly paved) Trail 1 of Mt Takao.
 Investment: [3500 yen](https://book.stripe.com/cN2aHR276gogeXuaEH) https://book.stripe.com/cN2aHR276gogeXuaEH
 
 Includes: Vegan snacks, meditation.
-If you want more than snacks, welcome to bring your own lunch.
+If you want more than snacks, welcome to bring your own lunch
+or buy from shops along the route.
 
 VIP Ticket: [4500 yen](https://buy.stripe.com/3cs4jtfXW8VOaHe6os) https://buy.stripe.com/3cs4jtfXW8VOaHe6os
 
