@@ -77,6 +77,22 @@ in the space with light refreshments provided.
 This ceremonial gathering is capped at 11 conscious souls
 who are up for an intimate evening of loving connection and divine union.
 
+**Here's what previous participants have to say...**
+
+*"Thank you so much to Jess and Rob for this enlightening and transformative Connection Circle:*
+*For Conscious Men & Women. After integrating the healing I was led to empowering insights and*
+*clarity which enabled me to release limiting beliefs in relation to self worth and guilt;*
+*release connections unaligned with my authentic self; and take inspired action aligned with my soul."*
+
+-- Josephine
+
+
+*"Thank you for a wonderful evening. I felt really good and the next day I had a beautiful day with*
+*friends and loved ones. And even though I've had a lot of dreams they are not distressing like*
+*they've been in the past. I feel in a good place."*
+
+-- April Fischer
+
 **What To Bring?**
 
 * Pen and journal
