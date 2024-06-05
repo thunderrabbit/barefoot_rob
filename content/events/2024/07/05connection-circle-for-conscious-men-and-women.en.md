@@ -11,6 +11,7 @@ EventType: "Connection Circle"
 aliases: [
     "/en/events/2024/06/21connection-circle-for-conscious-men-and-women/",
     "/en/events/2024/07/05connection-circle-for-conscious-men-and-women/",
+    "/connection-circle",
 ]
 ---
 
