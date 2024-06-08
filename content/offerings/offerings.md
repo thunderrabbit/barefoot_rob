@@ -136,7 +136,7 @@ for you to discover your own wisdom.
 <br>
 <div class="walk-segment">
 <div style="display: flex; align-items: center;">
-<img src="https://b.robnugen.com/sites/rnc/2024/shraddhan_testimonial.jpg" alt="Shraddhan photo" style="margin-right: 20px;">
+<img src="https://b.robnugen.com/sites/rnc/2024/will_testimonial.jpg" alt="Portrait of Will Ewing smiling in nature" style="margin-right: 20px;">
 <div>
 Rob you have helped me immensely for a long period of time. And I know that you have a talent for facilitation. In fact everybody in this whole group knows what great facilitation you do and how you are able to tune into people and help them to get through and go on to find the deeper level of their beings.
 
