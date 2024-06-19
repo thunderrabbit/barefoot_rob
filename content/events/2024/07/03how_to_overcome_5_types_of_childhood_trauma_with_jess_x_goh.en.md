@@ -35,10 +35,10 @@ In case you're interested, here's what you'll learn...
   blockages held in your energy field, body and consciousness
 * Q&A, sacred shares and learn more about Transforming Trauma Workshops
   and Conscious Relationship Workshops in
-  [Sydney](https://www.lifeinconfidence.com/ttwsyd),
-  [Adelaide](https://www.lifeinconfidence.com/ttw),
-  [Tokyo](https://www.lifeinconfidence.com/ttwtokyo) and
-  [London](http://www.lifeinconfidence.com/ttwlondon)
+  [London](http://www.lifeinconfidence.com/ttwlondon),
+  [Tokyo](https://www.lifeinconfidence.com/ttwtokyo),
+  [Adelaide](https://www.lifeinconfidence.com/ttw), and
+  [Sydney](https://www.lifeinconfidence.com/ttwsyd)
 
 ## How To Overcome 5 Types Of Childhood Trauma
 
