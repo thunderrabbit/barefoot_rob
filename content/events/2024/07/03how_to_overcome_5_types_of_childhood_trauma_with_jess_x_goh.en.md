@@ -2,14 +2,14 @@
 title: "Free Webinar: How To Overcome the 5 Types Of Childhood Trauma with Jess X Goh"
 tags: [ "2024", "jess x goh", "childhood", "trauma", "healing" ]
 author: Jess X Goh
-date: 2024-04-22T11:10:54+09:00
+date: 2024-06-18T11:10:54+09:00
 EventLocation: "Zoom"
 EventTime: "18:00"
 TimeDescription: "Webinar starts at 18:00 JST"
-EventDate: "2024-05-08T18:00:00+09:00"
+EventDate: "2024-07-03T18:00:00+09:00"
 EventType: "Jess X Goh"
 aliases: [
-    "/en/events/2024/05/08how_to_overcome_5_types_of_childhood_trauma_with_jess_x_goh",
+    "/en/events/2024/07/03how_to_overcome_5_types_of_childhood_trauma_with_jess_x_goh",
 ]
 ---
 
@@ -42,11 +42,11 @@ In case you're interested, here's what you'll learn...
 
 ## How To Overcome 5 Types Of Childhood Trauma
 
-### When: Wednesday 8th May 2024
+### When: Wednesday 3rd July 2024
 ### Time: 10am-12pm BST | 6pm-8pm JST | 7pm-9pm AEST
 ### Where: Zoom
 
-[**Register here**](https://us06web.zoom.us/meeting/register/tZMpcuCgpj8jG91-4DXWQkZcAJ0lgogBQ_di): https://us06web.zoom.us/meeting/register/tZMpcuCgpj8jG91-4DXWQkZcAJ0lgogBQ_di
+[**Register here**](https://us06web.zoom.us/meeting/register/tZwkc--hrDkuE9bqagbv3CC0OS5yVkCxm8E4): https://us06web.zoom.us/meeting/register/tZwkc--hrDkuE9bqagbv3CC0OS5yVkCxm8E4
 
 If you can't attend live, register anyway so you get access to the replay
 for 48 hours when the webinar is over.
