@@ -132,7 +132,7 @@ of self-defeat and shame through transformative shadow work, space
 holding and circle work. Rob is a TedX speaker, barefoot walker for
 over 20 years, trained and run men circles by ManKind Project since
 2015 and made the most powerful decision to release himself from a
-dysfunctional 12 year marriage to be with his dream woman who matches
+12 year marriage that had become untenable. Now he's with his dream woman who matches
 his values and offers the love he deserves.
 
 

@@ -20,7 +20,6 @@ trained and run men circles with ManKind Project since 2015.
 I made a powerful decision to release myself from a 12 year
 marriage that had become untenable.  Now I'm with my dream woman
 who matches my values and offers the love I desire.</p>
-</div>
 <br>
 
 
