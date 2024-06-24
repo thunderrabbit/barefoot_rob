@@ -1,7 +1,7 @@
 ---
-title: "Connection Circle: For Conscious Men & Women"
+title: "コネクションサークル: 意識の高い男性と女性向け"
 tags: [ "2024", "rob nugen", "jess x goh", "men", "women", "connection", "circle" ]
-author: Rob Nugen
+author: ロブ・ヌジン
 date: 2024-04-20T09:10:54+09:00
 EventLocation: "Setagaya-ku"
 EventTime: "6:30pm - 9:30pm"
@@ -9,139 +9,91 @@ TimeDescription: "gathering time 6:30pm"
 EventDate: "2024-07-05T18:30:00+09:00"
 EventType: "Connection Circle"
 aliases: [
-    "/en/events/2024/06/21connection-circle-for-conscious-men-and-women/",
-    "/en/events/2024/07/05connection-circle-for-conscious-men-and-women/",
-    "/connection-circle",
+    "/ja/events/2024/07/05connection-circle-for-conscious-men-and-women/",
 ]
 ---
 
 {{% img-responsive "https://b.robnugen.com/events/2024/20240705_connection_circle_for_men_and_women_1000.png" "Rob and Jess in Balinese ceremony outfits" %}}
 
-Join us for a special evening as we flow with the divine feminine and masculine in a
-ceremonial circle for men and women.
-Enjoy coming together into unity, peace, love, conscious communication,
-creative expression and connection.
+男性と女性の儀式の輪の中で神聖な女性性と男性性と共に流れる特別な夜に参加してください。一体感、平和、愛、意識的なコミュニケーション、創造的な表現、つながりを楽しんでください。
 
-*What's Involved?*
+*何が含まれていますか?*
 
-**Communal Vegan Snacks 6:30pm-7pm:**
+**共同ビーガンスナック 午後6時30分～午後7時:**
 
-Be welcomed in an intimate space as you cleanse away from your day.
-Receive energetic cleansing with sage and angelic auric spray.
-Enjoy delicious vegan snacks including
-organic herbal tea and sensual treats infused with high frequencies
-to nourish your temple and tantalise your senses with like-minded souls.
+一日の疲れを癒しながら、親密な空間でリラックスしてください。セージと天使のオーラスプレーでエネルギーに満ちた浄化を受けてください。オーガニックハーブティーや高周波を注入した官能的なお菓子など、おいしいビーガンスナックを楽しみながら、あなたのこめかみを養い、同じ考えを持つ魂とともに感覚を刺激してください。
 
-**Heart-Opening Sacred Shares 7pm-7:30pm:**
+**心を開く神聖なシェア 午後7時～午後7時30分:**
 
-Be led and guided by [Jess X Goh](https://www.lifeinconfidence.com/),
-trauma coach in childhood abuse,
-and [Rob Nugen](https://www.robnugen.com/en/), connection coach for men.
-Share your truth and be witnessed in a welcoming space where healthy boundaries and
-connection exercises are consciously communicated.
-Enjoy the elements of the earth, fire, water and air.
+幼少期の虐待に関するトラウマ コーチの[ジェス・X・ゴー](https://www.lifeinconfidence.com/)と、男性向けのコネクション コーチの[ロブ・ヌジン](https://www.robnugen.com/ja/)が指導します。健全な境界線とコネクション エクササイズが意識的に伝えられる心地よい空間で、自分の真実を分かち合い、目撃者になってください。土、火、水、空気の要素をお楽しみください。
 
-**Conscious Connection 7:30pm-8:15pm:**
+**意識的なつながり 午後7時30分～午後8時15分:**
 
-Be illuminated with insights via journaling around the topic to bring yourself clarity
-how to navigate this topic moving forward.
-Connect in pairs then group sharing with fluid and fun activities
-to move out of the mind and into the present moment, back into the heart and body.
+このトピックに関する日記をつけることで洞察力に目覚め、このトピックを今後どのように進めていくかを明確にします。ペアになってつながり、流動的で楽しいアクティビティでグループ共有を行い、心から抜け出して現在の瞬間、心と体に戻ります。
 
-**Emotional & Energetic Release 8:15pm-9pm:**
+**感情とエネルギーの解放 午後8時15分～午後9時:**
 
-Join Rob and Jess in a group healing session designed to help you navigate
-through traumatic blockages and patterns of the wounded feminine and masculine.
-The session aims to bring you back into energetic alignment,
-helping you to move past traumatic patterns.
+ロブとジェスが主催するグループ ヒーリング セッションに参加して、トラウマ的な障害や傷ついた女性性と男性性のパターンを乗り越えるお手伝いをします。このセッションの目的は、エネルギーの調和を取り戻し、トラウマ的なパターンを乗り越えられるようにすることです。
 
-* Meditation: Rob will guide you through a meditation with his loving heart and hands-on Reiki touch.
-* Light Language Transmission: Jess will share her light language transmission to help you start moving through traumatic blockages.
-* Energetic Clearing: Receive pressure point touch, hear and feel vibrations including tuning fork, Tibetan chimes,
-and singing bowls to shift and clear energetic interferences.
+* 瞑想: ロブが愛情あふれる心とレイキの実践的なタッチで瞑想をガイドします。
+* ライト ランゲージ トランスミッション: ジェスは、トラウマによる障害を乗り越える手助けとなるライト ランゲージ トランスミッションを共有します。
+* エネルギーの浄化: 圧力ポイントに触れ、音叉、チベットチャイム、シンギングボウルなどの振動を聞いて感じることで、エネルギーの干渉を変えて浄化します。
 
-**Closing Circle 9pm-9:30pm:**
+**クロージングサークル 午後9時～午後9時30分:**
 
-Integrate your experience with sacred shares and Q&A,
-personalised card reading to move forward with the divine feminine and masculine
-and connect with yourself by journaling or socialize with others
-in the space with light refreshments provided.
+神聖なシェアや質疑応答、パーソナライズされたカードリーディングを体験に取り入れて、神聖な女性性と男性性とともに前進し、日記をつけることで自分自身とつながったり、軽食を用意してスペース内で他の人と交流したりしましょう。
 
-**​​​​​​​🤝 Connection Circle: For Conscious Men & Women 🤝**
+**​​​​​​​🤝  コネクションサークル: 意識の高い男性と女性向け 🤝**
 
-<br>Date: Friday July 5th, 2024
-<br>Time: 6:30pm-9:30pm
-<br>Where: Setagaya-ku, Tokyo
-<br>Ticket: 11,111 JPY
-<br>Book your spot at https://book.stripe.com/bIY9DN6nmb3W9DaaEG
+<br>日時: 2024年7月5日(金)
+<br>時間: 午後6時30分～午後9時30分
+<br>場所: 東京都世田谷区
+<br>チケット: 11,111円
+<br>ご予約は[https://book.stripe.com/bIY9DN6nmb3W9DaaEG](https://book.stripe.com/bIY9DN6nmb3W9DaaEG)まで
 
-This ceremonial gathering is capped at 11 conscious souls
-who are up for an intimate evening of loving connection and divine union.
+この儀式的な集まりには、愛情深いつながりと神聖な一体感に満ちた親密な夜を過ごす意欲のある 11 人の意識ある魂が集まります。
 
-**Here's what previous participants have to say...**
+**これまでの参加者の声をご紹介します…**
 
-*"Thank you so much to Jess and Rob for this enlightening and transformative Connection Circle:*
-*For Conscious Men & Women. After integrating the healing I was led to empowering insights and*
-*clarity which enabled me to release limiting beliefs in relation to self worth and guilt;*
-*release connections unaligned with my authentic self; and take inspired action aligned with my soul."*
+*「啓発的で変革的なコネクション サークル: 意識の高い男性と女性のためのイベントを開催してくれたジェスとロブに心から感謝します。ヒーリングを統合した後、私は力強い洞察力と明晰さに導かれ、 自尊心と罪悪感に関する制限的な信念を解放し、 自分の本来の自分と合わないつながりを解放し、自分の魂と一致する刺激的な行動をとることができました。」*
 
--- Josephine
+-- ジョセフィン
 
 
-*"Thank you for a wonderful evening. I felt really good and the next day I had a beautiful day with*
-*friends and loved ones. And even though I've had a lot of dreams they are not distressing like*
-*they've been in the past. I feel in a good place."*
+*「素晴らしい夜をありがとう。本当に気分が良くて、翌日は 友人や愛する人たちと素敵な一日を過ごしました。夢をたくさん見ましたが、 以前のように不安にはなりません。気分は良いです。」*
 
--- April Fischer
+-- エイプリル・フィッシャー
 
-**What To Bring?**
+**何を持っていけばいいですか?**
 
-* Pen and journal
-* Cushion and blanket
-* A sacred item that represents the masculine and feminine
-* Your lovely self!
+* ペンと日記
+* クッションとブランケット
+* 男性性と女性性を表す神聖なアイテム
+* 素敵なあなた！
 
-Please be mindful to arrive on time as doors will close at 7pm.
-Tickets are non-refundable but can be transferred to another
-who would greatly appreciate this experience.
+午後 7 時にドアが閉まりますので、時間どおりに到着するようご注意ください。チケットは払い戻しできませんが、この体験を喜んでいただける別の方に譲渡することは可能です。
 
 ----------------------------------
 
-About Your Facilitators
+ファシリテーターについて
 
-**Jess X Goh** helps burnt out, heart-centered professionals to overcome
-the impacts of childhood abuse.  She facilitates this by releasing
-anger and grief to reduce their anxiety (drug-free).  What has led
-Jess to her spiritual path is to make peace with her traumatic past of
-domestic violence, sexual abuse and toxic family dynamics.  She has
-manifested her soulmate and business partner and successfully rebuilt
-her relationship with her dysfunctional mother and estranged
-brother. Jess runs Life In Confidence, an international trauma
-recovery practice for over 8 years serving 1000+ high achievers in her
-workshops and private programs.
+**ジェス・X・ゴー** は、疲れ果てた心の優しい専門家が、幼少期の虐待の影響を克服できるよう支援しています。
+彼女は、怒りと悲しみを解放して不安を軽減することで、この支援を促しています (薬物は使用しません)。
+ジェスがスピリチュアルな道に進んだのは、家庭内暴力、性的虐待、有害な家族関係といったトラウマ的な過去と和解するためでした。彼女はソウルメイトでありビジネスパートナーと出会い、機能不全の母親や疎遠になっていた兄弟との関係を再構築することに成功しました。ジェスは、8 年以上にわたり、国際的なトラウマ回復プラクティスである Life In Confidence を運営し、ワークショップやプライベート プログラムで 1,000 人以上の優秀な人材を支援しています。
 
 
-Website: [www.lifeinconfidence.com](https://www.lifeinconfidence.com)
+ウェブサイト: [www.lifeinconfidence.com](https://www.lifeinconfidence.com)
 <br>YouTube: [www.youtube.com/@Life-In-Confidence](https://www.youtube.com/@Life-In-Confidence)
 
 
-**Rob Nugen** helps ambitious men to discover their gold on a journey into
-the divine masculine. He guides men who feel overwhelmed by their past
-and the patriarchal way of being to break away from their inner demons
-of self-defeat and shame through transformative shadow work, space
-holding and circle work. Rob is a TedX speaker, barefoot walker for
-over 20 years, trained and run men circles by ManKind Project since
-2015 and made the most powerful decision to release himself from a
-dysfunctional 12 year marriage to be with his dream woman who matches
-his values and offers the love he deserves.
+**ロブ・ヌジン** は、野心的な男性が神聖な男性性への旅で自分の黄金を発見するのを手助けしています。彼は、過去や家父長的な生き方に圧倒されていると感じている男性を、変容的なシャドウワーク、スペースホールディング、サークルワークを通じて、自己敗北と恥の内なる悪魔から抜け出すよう導きます。ロブは、TedX の講演者であり、20 年以上裸足でウォーキングをしており、2015 年から ManKind Project で男性サークルのトレーニングと運営を行っており、自分の価値観に合致し、自分にふさわしい愛を与えてくれる夢の女性と一緒にいるために、機能不全の 12 年間の結婚生活から抜け出すという最も力強い決断を下しました。
 
-
-Website: [www.robnugen.com](https://www.robnugen.com/)
+ウェブサイト: [www.robnugen.com](https://www.robnugen.com/)
 <br>Facebook: [www.facebook.com/thunderrabbit](https://www.facebook.com/thunderrabbit)
 
 
-Blessings,
-<br>Rob Nugen
-<br>Connection Coach For Men
-<br>Website: [www.robnugen.com](https://www.robnugen.com/)
-<br>Email: rob@robnugen.com
+祝福を、
+<br>ロブ・ヌジン
+<br>コネクション 男性コーチ
+<br>ウェブサイト: [www.robnugen.com](https://www.robnugen.com/)
+<br>メール: rob@robnugen.com
