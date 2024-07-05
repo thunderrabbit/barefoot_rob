@@ -2,15 +2,14 @@
 title: "Connection Circle: For Conscious Men & Women"
 tags: [ "2024", "rob nugen", "jess x goh", "men", "women", "connection", "circle" ]
 author: Rob Nugen
-date: 2024-04-20T09:10:54+09:00
+date: 2024-07-05T07:10:54+09:00
 EventLocation: "Setagaya-ku"
-EventTime: "6:30pm - 9:30pm"
-TimeDescription: "gathering time 6:30pm"
-EventDate: "2024-07-05T18:30:00+09:00"
+EventTime: "6:00pm - 9:00pm"
+TimeDescription: "gathering time 6:00pm"
+EventDate: "2024-07-05T18:00:00+09:00"
 EventType: "Connection Circle"
 aliases: [
-    "/en/events/2024/06/21connection-circle-for-conscious-men-and-women/",
-    "/en/events/2024/07/05connection-circle-for-conscious-men-and-women/",
+    "/en/events/2024/10/26connection-circle-for-conscious-men-and-women/",
     "/connection-circle",
 ]
 ---
@@ -24,7 +23,7 @@ creative expression and connection.
 
 *What's Involved?*
 
-**Communal Vegan Snacks 6:30pm-7pm:**
+**Communal Vegan Snacks 6:00pm-6:30pm:**
 
 Be welcomed in an intimate space as you cleanse away from your day.
 Receive energetic cleansing with sage and angelic auric spray.
@@ -32,7 +31,7 @@ Enjoy delicious vegan snacks including
 organic herbal tea and sensual treats infused with high frequencies
 to nourish your temple and tantalise your senses with like-minded souls.
 
-**Heart-Opening Sacred Shares 7pm-7:30pm:**
+**Heart-Opening Sacred Shares 6:30pm-7:00pm:**
 
 Be led and guided by [Jess X Goh](https://www.lifeinconfidence.com/),
 trauma coach in childhood abuse,
@@ -41,14 +40,14 @@ Share your truth and be witnessed in a welcoming space where healthy boundaries 
 connection exercises are consciously communicated.
 Enjoy the elements of the earth, fire, water and air.
 
-**Conscious Connection 7:30pm-8:15pm:**
+**Conscious Connection 7:00pm-7:45pm:**
 
 Be illuminated with insights via journaling around the topic to bring yourself clarity
 how to navigate this topic moving forward.
 Connect in pairs then group sharing with fluid and fun activities
 to move out of the mind and into the present moment, back into the heart and body.
 
-**Emotional & Energetic Release 8:15pm-9pm:**
+**Emotional & Energetic Release 7:45pm-8:30pm:**
 
 Join Rob and Jess in a group healing session designed to help you navigate
 through traumatic blockages and patterns of the wounded feminine and masculine.
@@ -60,7 +59,7 @@ helping you to move past traumatic patterns.
 * Energetic Clearing: Receive pressure point touch, hear and feel vibrations including tuning fork, Tibetan chimes,
 and singing bowls to shift and clear energetic interferences.
 
-**Closing Circle 9pm-9:30pm:**
+**Closing Circle 8:30pm-9:00pm:**
 
 Integrate your experience with sacred shares and Q&A,
 personalised card reading to move forward with the divine feminine and masculine
@@ -70,7 +69,7 @@ in the space with light refreshments provided.
 **​​​​​​​🤝 Connection Circle: For Conscious Men & Women 🤝**
 
 <br>Date: Friday July 5th, 2024
-<br>Time: 6:30pm-9:30pm
+<br>Time: 6:00pm-9:00pm
 <br>Where: Setagaya-ku, Tokyo
 <br>Ticket: 11,111 JPY
 <br>Book your spot at https://book.stripe.com/bIY9DN6nmb3W9DaaEG
@@ -101,7 +100,7 @@ who are up for an intimate evening of loving connection and divine union.
 * A sacred item that represents the masculine and feminine
 * Your lovely self!
 
-Please be mindful to arrive on time as doors will close at 7pm.
+Please be mindful to arrive on time as doors will close at 6:30pm.
 Tickets are non-refundable but can be transferred to another
 who would greatly appreciate this experience.
 
