@@ -6,7 +6,7 @@ date: 2024-07-05T07:10:54+09:00
 EventLocation: "Setagaya-ku"
 EventTime: "6:00pm - 9:00pm"
 TimeDescription: "gathering time 6:00pm"
-EventDate: "2024-07-05T18:00:00+09:00"
+EventDate: "2024-10-26T18:00:00+09:00"
 EventType: "Connection Circle"
 aliases: [
     "/ja/events/2024/10/26connection-circle-for-conscious-men-and-women/",
