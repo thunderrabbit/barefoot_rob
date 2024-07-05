@@ -14,7 +14,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/events/2024/20240705_connection_circle_for_men_and_women_1000.png" "Rob and Jess in Balinese ceremony outfits" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2024/2024_oct_26_meetup_connection_circle_for_men_and_women_1000.png" "Rob and Jess in Balinese ceremony outfits" %}}
 
 Join us for a special evening as we flow with the divine feminine and masculine in a
 ceremonial circle for men and women.

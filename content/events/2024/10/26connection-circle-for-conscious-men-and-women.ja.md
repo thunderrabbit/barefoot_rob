@@ -13,7 +13,8 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2024/connection_circle_ja.png" "Rob and Jess in Balinese ceremony outfits" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2024/2024_oct_26_japanese_connection_circle_for_men_and_\
+women_1000.png" "Rob and Jess in Balinese ceremony outfits" %}}
 
 男性と女性の儀式の輪の中で神聖な女性性と男性性と共に流れる特別な夜に参加してください。
 一体感、平和、愛、意識的なコミュニケーション、創造的な表現、つながりを楽しんでください。
