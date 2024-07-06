@@ -28,7 +28,7 @@ creative expression and connection.
 Be welcomed in an intimate space as you cleanse away from your day.
 Receive energetic cleansing with sage and angelic auric spray.
 Enjoy delicious vegan snacks including
-Herbal tea and sensual treats infused with high frequencies
+herbal tea and sensual treats
 to nourish your temple and tantalise your senses with like-minded souls.
 
 **Heart-Opening Sacred Shares 6:30pm-7:00pm:**
@@ -79,9 +79,9 @@ who are up for an intimate evening of loving connection and divine union.
 
 **Here's what previous participants have to say...**
 
-*Thank you both for all your cares, magical, nurturing and insightful shared time ✨*
+*"Thank you both for all your cares, magical, nurturing and insightful shared time ✨*
 *I feel now centered, soft and strong at the same time. ☯️*
-*You made a beautiful alchemy together that heals and touches people 😌*
+*You made a beautiful alchemy together that heals and touches people 😌"*
 
 -- Horus
 
