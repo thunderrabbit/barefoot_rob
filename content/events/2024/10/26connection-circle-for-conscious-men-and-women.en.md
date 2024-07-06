@@ -68,7 +68,7 @@ in the space with light refreshments provided.
 
 **​​​​​​​🤝 Connection Circle: For Conscious Men & Women 🤝**
 
-<br>Date: Friday July 5th, 2024
+<br>Date: Saturday October 26th, 2024
 <br>Time: 6:00pm-9:00pm
 <br>Where: Setagaya-ku, Tokyo
 <br>Ticket: Earlybird price 11,111 JPY until July 31st 2024, then 15,555 JPY from August 1st 2024
