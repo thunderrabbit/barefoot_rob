@@ -71,13 +71,20 @@ in the space with light refreshments provided.
 <br>Date: Friday July 5th, 2024
 <br>Time: 6:00pm-9:00pm
 <br>Where: Setagaya-ku, Tokyo
-<br>Ticket: 11,111 JPY
+<br>Ticket: Earlybird price 11,111 JPY until July 31st 2024, then 15,555 JPY from August 1st 2024
 <br>Book your spot at https://book.stripe.com/bIY9DN6nmb3W9DaaEG
 
-This ceremonial gathering is capped at 11 conscious souls
+This ceremonial gathering is capped at 7 conscious souls
 who are up for an intimate evening of loving connection and divine union.
 
 **Here's what previous participants have to say...**
+
+*Thank you both for all your cares, magical, nurturing and insightful shared time ✨*
+*I feel now centered, soft and strong at the same time. ☯️*
+*You made a beautiful alchemy together that heals and touches people 😌*
+
+-- Horus
+
 
 *"Thank you so much to Jess and Rob for this enlightening and transformative Connection Circle:*
 *For Conscious Men & Women. After integrating the healing I was led to empowering insights and*
@@ -96,7 +103,6 @@ who are up for an intimate evening of loving connection and divine union.
 **What To Bring?**
 
 * Pen and journal
-* Cushion and blanket
 * A sacred item that represents the masculine and feminine
 * Your lovely self!
 
