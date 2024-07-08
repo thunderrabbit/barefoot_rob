@@ -79,6 +79,12 @@ who are up for an intimate evening of loving connection and divine union.
 
 **Here's what previous participants have to say...**
 
+*"I could feel that there was an inner change in me.*
+*Thank you for this valuable opportunity💖"*
+
+-- Ayako Suzuki
+
+
 *"Thank you both for all your cares, magical, nurturing and insightful shared time ✨*
 *I feel now centered, soft and strong at the same time. ☯️*
 *You made a beautiful alchemy together that heals and touches people 😌"*
