@@ -41,10 +41,10 @@ and eager to find something more meaningful.
 My experience in counseling and facilitation work includes:
 </p>
 
-* Leading Cuddle Party events
 * 12+ years attending and 6+ years leading a weekly peer counseling circle for men
 * 1+ year’s experience suicide hotline volunteer
 * 20+ years barefoot walking in Houston Texas and Tokyo Japan
+* Cuddle Party facilitation training
 * Shamanic healing training
 * ShadowWork basic training
 
