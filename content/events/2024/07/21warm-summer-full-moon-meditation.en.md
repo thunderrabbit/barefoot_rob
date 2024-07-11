@@ -64,9 +64,9 @@ To receive the latest updates, join our LINE group!
 
 [![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
-**Donation:**
+**RSVP:**
 
-2000 yen
+2000 yen  https://buy.stripe.com/00g17heTS3BubLi9AJ
 
 **What to bring**
 

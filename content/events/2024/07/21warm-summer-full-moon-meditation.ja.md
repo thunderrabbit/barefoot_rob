@@ -65,9 +65,9 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 [![line qr code](//b.robnugen.com/blog/2021/thumbs/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)](//b.robnugen.com/blog/2021/2021_sep_25_rob_line_qr_code_text_walk_and_talk.jpg)
 
-**参加費**
+**RSVP:**
 
-2000円 (寄付)
+2000円 https://buy.stripe.com/00g17heTS3BubLi9AJ
 
 **持ち物**
 
