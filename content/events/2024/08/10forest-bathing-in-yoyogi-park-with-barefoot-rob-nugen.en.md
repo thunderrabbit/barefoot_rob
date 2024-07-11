@@ -1,10 +1,10 @@
 ---
-title: "Barefoot Hike and Meditation on Mt Takao"
-tags: [ "2024", "Barefoot Rob", "barefoot", "event", "july", "walk", "takao", "はだし", "高尾山", "裸足のロブ" ]
+title: "Barefoot Walking and Forest Bathing Event in Yoyogi Park"
+tags: [ "2024", "Barefoot Rob", "barefoot", "event", "august", "walk", "yoyogi", "はだし", "forest", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-05-06T07:59:43+09:00
-EventLocation: "Mt Takao"
-EventType: "Hike and Meditation"
+date: 2024-07-11T07:59:43+09:00
+EventLocation: "Yoyogi Park"
+EventType: "Forest Bathing and Meditation"
 EventTime: "10:00"
 TimeDescription: "gather at 9:45 at Takaosanguchi Station; event starting at 10:00"
 EventDate: "2024-07-13T10:00:00+09:00"
@@ -16,92 +16,75 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_mt_takao.jpg" "2022 July 10 on top of Mt Takao" %}}
 
-# Summary:
 
-Fun, casual, barefoot hike up beautiful Mt Takao including
-vegan snacks,
-community building circles,
-and a meditation on top.
+### Barefoot Walking and Forest Bathing in Yoyogi Park
 
-Time: 10am - 16:30pm (approx)
+* Refresh your spirit.
+* Touch the earth.
+* Experience the forest.
+* Connect with friends.
 
-Date: Saturday 13 July 2024
+Join us for a morning of barefoot walking and forest bathing in Yoyogi Park.
 
-Location: Meet at 9:45am by [Takaosanguchi Station](https://goo.gl/maps/Cj5ghHwr6PyE5LxF8)
+**Date and Time:**
+Saturday, August 10th, 2024
+09:00 AM - 11:00 AM
 
-We will climb the (mostly paved) Trail 1 of Mt Takao.
+**Location:**
 
-Investment: [3500 yen](https://book.stripe.com/cN2aHR276gogeXuaEH) https://book.stripe.com/cN2aHR276gogeXuaEH
+**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
 
-Includes: Vegan snacks, meditation.
-If you want more than snacks, welcome to bring your own lunch
-or buy from shops along the route.
+**Event Description:**
 
-VIP Ticket: [4500 yen](https://buy.stripe.com/3cs4jtfXW8VOaHe6os) https://buy.stripe.com/3cs4jtfXW8VOaHe6os
+Join us for a rejuvenating barefoot walking and forest bathing experience in the heart of Tokyo at Yoyogi Park! This event is designed to help you reconnect with nature, ground yourself, and refresh your spirit through the simple yet powerful act of walking barefoot and engaging in mindful forest bathing.
 
-Includes: Regular ticket and entry into Takaosanguchi Onsen after the hike
+**What to Expect:**
 
-# Details:
+- **Barefoot Walking:** Feel the earth beneath your feet as we walk through the lush greenery of Yoyogi Park. Walking barefoot helps you connect with the natural world, bringing a sense of calm and grounding. It’s also a great way to improve your balance and strengthen your feet.
 
-9:45am Gather [in front of Takaosanguchi Station](https://w3w.co/tallest.pictured.cove)
+- **森林浴　Forest Bathing (Shinrin-yoku):** Immerse yourself in the sights, sounds, and smells of the forest. We'll pause at various spots to take in the beauty around us, practice deep breathing, and engage in mindfulness exercises to fully appreciate the healing power of nature.
 
-10:00am Connection Circle to check in and introduce the hike
+- **Meditation:** During our time together, we will enjoy a guided meditation session. This will be a time to relax, center yourself, and soak in the peaceful environment of the park.
 
-10:15am begin walking up Route 1 of Mt Takao
+- **Community Connection:** Meet like-minded individuals who share a passion for nature and well-being. This event is a great opportunity to connect, share experiences, and enjoy the company of kindred spirits.
 
-11 am (estimate) rest and check in how everyone is doing
+**What to Bring:**
 
-12 pm (estimate) rest and check in how everyone is doing
+- Comfortable clothing suitable for walking and sitting on the ground
+- A small towel or mat for sitting during meditation
+- Water bottle to stay hydrated
 
-12:30 pm (estimate) meditation and rest on top of Mt Takao
+**Included:**
 
-14 pm (estimate) begin heading down Mt Takao
+- Healthy vegan snacks
+- natural insect repellent
 
-15 pm (estimate) rest and check in how everyone is doing
+**Cost:**
 
-15:30 pm (estimate) onsen near Takaosanguchi Station
+[3500 yen per person](https://buy.stripe.com/14k03d7rq7RK7v28wE) https://buy.stripe.com/14k03d7rq7RK7v28wE
 
-16:30 pm (estimate) Closing Circle
+**How to Join:**
+Secure your spot by paying in advance through the link provided above. On the day of the event, simply show up at the meeting point by 08:45 AM.
 
-# What to bring:
+**Contact:**
+Rob Nugen
+Email: rob@robnugen.com
 
-* Water bottle (*)
+**Additional Notes:**
+- By joining the event you agree that safety is your own responsibility.
+- This event is suitable if you're a seasoned barefoot walker or trying it for the first time.
+- Children are welcome if they can meditate or mind themselves for minimum 15 minutes.
+- The walk will be gentle and suitable for all fitness levels.
+- In case of rain, the event will still proceed, so bring an umbrella or rain jacket if needed.
 
-(*) There are vending machines and water refill places along the way
+We look forward to seeing you there!
 
-Optional:
 
-* Lunch (*)
-* Hat in case of sun
-* Rainwear in case of rain
-* Towel, wet tissues for your feet
-* First aid supplies
-* Sunscreen
-* Insect spray
-* Picnic sheet, seat pad
-
-(*) I will bring vegan snacks for everyone.
-There is food available along the way,
-including ramen on the top of Mt Takao.
-
-After our hike, I'll buy tickets for VIP ticket holders
-to visit the onsen near
-Takaosanguchi Station.  Relax after a great hike up the mountain!
-
-By joining the hike you agree that safety is your own responsibility.
 
 # Reserve your space
 
-This hike and meditation event is limited to ten attendees.
+This forest bathing and meditation event is limited to ten attendees.
 
 Reserve your spot via Stripe!
 
-Regular ticket [3500 yen](https://book.stripe.com/cN2aHR276gogeXuaEH) https://book.stripe.com/cN2aHR276gogeXuaEH
-
-VIP ticket [4500 yen](https://buy.stripe.com/3cs4jtfXW8VOaHe6os) includes onsen https://buy.stripe.com/3cs4jtfXW8VOaHe6os
-
-
-# About Takao Trail 1:
-
-* https://en.mttakaomagazine.com/trails/1st
-* https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-mount_takao/article-a0003384/#table_of_contents_anchor2
+Ticket [3500 yen](https://buy.stripe.com/14k03d7rq7RK7v28wE) https://buy.stripe.com/14k03d7rq7RK7v28wE
