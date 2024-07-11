@@ -6,7 +6,7 @@ date: 2024-07-11T07:59:43+09:00
 EventLocation: "Yoyogi Park"
 EventType: "Forest Bathing and Meditation"
 EventTime: "09:00"
-TimeDescription: "(3500 yen) gather at 8:45 at Yoyogi Park (Harajuku entrance); event starting at 09:00"
+TimeDescription: "(3500 yen) Gather at 8:45 at Yoyogi Park (Harajuku entrance); event starts at 09:00"
 EventDate: "2024-08-10T09:00:00+09:00"
 aliases: [
     "/en//events/2024/08/10forest-bathing-in-yoyogi-park-with-barefoot-rob-nugen",
