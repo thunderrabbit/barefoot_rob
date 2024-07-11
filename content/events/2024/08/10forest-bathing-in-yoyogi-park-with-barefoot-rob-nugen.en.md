@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_mt_takao.jpg" "2022 July 10 on top of Mt Takao" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2021/2021_july_23_barefoot_rob_point_card_front.jpg" "2021 July 23 barefoot in Yoyogi Park" %}}
 
 
 ### Barefoot Walking and Forest Bathing in Yoyogi Park
