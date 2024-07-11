@@ -5,9 +5,9 @@ author: Rob Nugen
 date: 2024-07-11T07:59:43+09:00
 EventLocation: "Yoyogi Park"
 EventType: "Forest Bathing and Meditation"
-EventTime: "10:00"
-TimeDescription: "gather at 9:45 at Takaosanguchi Station; event starting at 10:00"
-EventDate: "2024-08-10T10:00:00+09:00"
+EventTime: "09:00"
+TimeDescription: "gather at 8:45 at Yoyogi Park (Harajuku entrance); event starting at 09:00"
+EventDate: "2024-08-10T09:00:00+09:00"
 aliases: [
     "/en//events/2024/08/10forest-bathing-in-yoyogi-park-with-barefoot-rob-nugen",
 ]
