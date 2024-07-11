@@ -7,10 +7,9 @@ EventLocation: "Yoyogi Park"
 EventType: "Forest Bathing and Meditation"
 EventTime: "10:00"
 TimeDescription: "gather at 9:45 at Takaosanguchi Station; event starting at 10:00"
-EventDate: "2024-07-13T10:00:00+09:00"
+EventDate: "2024-08-10T10:00:00+09:00"
 aliases: [
-    "/en/events/2024/07/13barefoot-hike-and-meditation-on-mt-takao",
-    "/en/events/2024/07/13barefoot-hike-with-meditation-on-mt-takao",
+    "/en//events/2024/08/10forest-bathing-in-yoyogi-park-with-barefoot-rob-nugen",
 ]
 ---
 
