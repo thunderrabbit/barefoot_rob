@@ -14,8 +14,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2024/2024_july_13_mt_takao_top_1000.jpg
-" "2024 July 13 on top of Mt Takao" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2024/2024_july_13_mt_takao_top_1000.jpg" "2024 July 13 on top of Mt Takao" %}}
 
 # Summary:
 
