@@ -17,7 +17,7 @@ aliases: [
 
 Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
 
-Enjoy chatting and barefoot walking on the full moon night.  Share beautiful experiences with like-minded friends!
+Enjoy meditation and barefoot walking on the full moon night.  Share beautiful experiences with like-minded friends!
 
 The energy of the full moon supports us in releasing unwanted energies,
 so we'll also share some time in
