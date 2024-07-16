@@ -91,6 +91,10 @@ who are up for an intimate evening of loving connection and divine union.
 
 -- Horus
 
+*"The healing and connection circle was incredible! I immensely enjoyed all of the facilitated activities, shares, and experiences. There was indeed a great deal of both healing and connection that I experienced that evening. I actually came to the workshop feeling immensely exhausted and stressed that day due to other circumstances. Rob and Jess were excellent at guiding the participants to be present and set aside mental distractions. I experienced a great deal of calmness, and release of physical and emotional pain. There were many activities that provided me with rich personal insight into aspects of my energy and how to communicate and express both masculinity and femininity. The guided sound meditation, light language, and Reiki healing were all extremely relaxing and helped me to release a lot of tangible physical and emotional pain in the moment, as well as to more easily rest and get a good night’s sleep. I was dealing with a lot of exhaustion, ruminations, discomfort in my head space, and other areas such as my knees which hold chronic pain & trauma from injuries. All of these parts of my body felt much better after the healing. Furthermore, I have been able to use the insights and experiences from the other parts of the workshop to improve my communication, establish needed boundaries, and recognize what I can physically do to embody the right kind of energy or attitude that brings further healing and growth in my life!"*
+
+-- Nathan Brandli
+
 
 *"Thank you so much to Jess and Rob for this enlightening and transformative Connection Circle:*
 *For Conscious Men & Women. After integrating the healing I was led to empowering insights and*
