@@ -2,7 +2,7 @@
 title: "Warm summer full moon meditation"
 tags: [ "2024", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "july", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-07-12T00:42:01+09:00
+date: 2024-07-15T11:41:50+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "19:00"
 TimeDescription: "gather at 18:45; walk to Tama River at 18:55"
@@ -67,12 +67,3 @@ To receive the latest updates, join our LINE group!
 **RSVP:**
 
 2000 yen  https://buy.stripe.com/00g17heTS3BubLi9AJ
-
-**What to bring**
-
-Whatever you need to take care of yourself.
-Probably should bring a jacket because the weather is getting cooler.
-Bring lightweight shoes for the short (~5 minute) walk to the river.
-Watch for little rocks!
-
-Self care is important, so wear shoes whenever you need to!

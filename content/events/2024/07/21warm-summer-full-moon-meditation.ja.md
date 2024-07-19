@@ -2,7 +2,7 @@
 title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2024", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "july", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-07-12T00:42:01+09:00
+date: 2024-07-15T11:41:50+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "19:00"
 TimeDescription: "18:45に集合、18:55に多摩川まで歩く"
@@ -67,14 +67,5 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 **RSVP:**
 
-2000円 https://buy.stripe.com/00g17heTS3BubLi9AJ
+2000円  https://buy.stripe.com/00g17heTS3BubLi9AJ
 
-**持ち物**
-
-自分の体調管理に必要なもの。
-少し肌寒くなってきたので、上着を持参するといいかもしれません。
-軽い靴をお持ちください。
-軽い靴を持ってきてください。
-また、歩くときに靴を持ち運びたい場合は、靴を入れる袋も必要です。
-
-セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。
