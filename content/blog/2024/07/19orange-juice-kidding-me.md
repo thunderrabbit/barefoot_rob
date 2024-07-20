@@ -20,7 +20,7 @@ switch from "fffuccckkk shit shit shit shit" to a nice deep breath and
 "Thank you Spirit for helping me find the value in this moment."
 
 Though I was quite tired, I knew I'd be better off cleaning it up
-in liquid form instead of sticky-sugar-glue form, so I got to work.
+in liquid form instead of sticky-sugar-glue form, so I started cleaning.
 Fortunately, my electronics remained undrenched; I was grateful
 I therefore would just need to toss or dry out some papers,
 then wipe up the spill.
@@ -29,9 +29,10 @@ During the cleanup, I suddenly heard more dripping as mikan juice
 reached the back edge of the desk and cascaded to the floor.
 I've got a layer of interlocking rubber tiles to protect the floor
 from bumps and dents, but they certainly didn't stop mikan juice
-from reaching the actually flooring below them.
+from reaching the actual flooring below them.
 
-Fortunately, the tiles which are literally pinned down by my desk didn't get
+Fortunately, the rubber floor tiles which are literally pinned down
+by my desk didn't get
 flooded, so it was pretty easy to clean all the ones with mikan juice below them.
 
 In the cleanup process, I moved my personal computer to the right hand side
