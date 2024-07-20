@@ -8,6 +8,8 @@ aliases: [
 ]
 ---
 
+<div class="note">(Thanks to https://akoskm.gumroad.com/l/blb for inspiration to post!)</div>
+
 Last night, trying to pour a full carton of mikan juice into my thermos,
 I tipped it over onto my desk.  I quickly picked it up before it *all*
 gushed out, but it was still quite a mess.
