@@ -42,4 +42,4 @@ by the end of July, when I'll no longer be using my soon-to-be-ex company laptop
 All said, this was a great chance to toss some old papers, downsize my desk
 space, and prepare to have more floor space in my room.  yayyy!
 
-Questions or comments?  Email hello at this domain name, robnugen.com.
+Questions or comments?  Email mikan at this domain name, robnugen.com.
