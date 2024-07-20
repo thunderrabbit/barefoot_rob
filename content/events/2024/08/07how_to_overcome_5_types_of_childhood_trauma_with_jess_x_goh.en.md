@@ -34,8 +34,9 @@ How To Overcome 5 Types Of Childhood Trauma
 
 If you can't attend live, register anyway so you get access to the replay for 48 hours when the webinar is over. Feel free to share with anyone you know who would truly benefit from this.
 
-About The Facilitator
-<br>Jess X Goh helps burnt out, heart-centered professionals to overcome the impacts of childhood abuse. She facilitates this by releasing anger and grief to reduce their anxiety (drug-free). What has led Jess to her spiritual path is to make peace with her traumatic past of domestic violence, sexual abuse and toxic family dynamics. She has successfully rebuilt her relationship with her dysfunctional mother and estranged brother. Jess runs Life In Confidence, an international trauma recovery practice for over 8 years serving 1000+ high achievers.
+**About The Facilitator**
+
+Jess X Goh helps burnt out, heart-centered professionals to overcome the impacts of childhood abuse. She facilitates this by releasing anger and grief to reduce their anxiety (drug-free). What has led Jess to her spiritual path is to make peace with her traumatic past of domestic violence, sexual abuse and toxic family dynamics. She has successfully rebuilt her relationship with her dysfunctional mother and estranged brother. Jess runs Life In Confidence, an international trauma recovery practice for over 8 years serving 1000+ high achievers.
 
 💜Website: https://www.lifeinconfidence.com
 🌻YouTube: https://www.youtube.com/@Life-In-Confidence
