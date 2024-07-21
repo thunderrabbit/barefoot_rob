@@ -9,7 +9,7 @@ EventTime: "09:00"
 TimeDescription: "(3500 yen) Gather at 8:45 at Yoyogi Park (Harajuku entrance); event starts at 09:00"
 EventDate: "2024-08-10T09:00:00+09:00"
 aliases: [
-    "/en//events/2024/08/10forest-bathing-in-yoyogi-park-with-barefoot-rob-nugen",
+    "/en/events/2024/08/10forest-bathing-in-yoyogi-park-with-barefoot-rob-nugen",
 ]
 ---
 
@@ -60,10 +60,15 @@ Join us for a rejuvenating barefoot walking and forest bathing experience in the
 
 **Cost:**
 
-[3500 yen per person](https://buy.stripe.com/14k03d7rq7RK7v28wE) https://buy.stripe.com/14k03d7rq7RK7v28wE
+3500 yen per person
+
+* (Stripe)[https://buy.stripe.com/14k03d7rq7RK7v28wE]
+* (PayPay)[https://qr.paypay.ne.jp/p2p01_yr2PP0vF9l9t9pnH] (valid until 5 August 7:00am)
 
 **How to Join:**
-Secure your spot by paying in advance through the link provided above. On the day of the event, simply show up at the meeting point by 08:45 AM.
+
+Secure your spot by paying through a link provided above.
+On August 10th, join us at the meeting point at 08:45 AM.
 
 **Contact:**
 Rob Nugen
@@ -78,12 +83,11 @@ Email: rob@robnugen.com
 
 We look forward to seeing you there!
 
-
-
 # Reserve your space
 
 This forest bathing and meditation event is limited to ten attendees.
 
-Reserve your spot via Stripe!
+Reserve your spot for 3500 yen by August 5th 7:00am
 
-Ticket [3500 yen](https://buy.stripe.com/14k03d7rq7RK7v28wE) https://buy.stripe.com/14k03d7rq7RK7v28wE
+* (Stripe)[https://buy.stripe.com/14k03d7rq7RK7v28wE]
+* (PayPay)[https://qr.paypay.ne.jp/p2p01_yr2PP0vF9l9t9pnH]
