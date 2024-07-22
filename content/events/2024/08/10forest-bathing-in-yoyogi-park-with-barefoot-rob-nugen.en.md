@@ -27,7 +27,7 @@ Join us for a morning of barefoot walking and forest bathing in Yoyogi Park.
 
 **Date and Time:**
 Saturday, August 10th, 2024
-09:00 AM - 11:00 AM
+09:00 AM - 11:00 PM
 
 **Location:**
 
@@ -47,6 +47,9 @@ Join us for a rejuvenating barefoot walking and forest bathing experience in the
 
 - **Community Connection:** Meet like-minded individuals who share a passion for nature and well-being. This event is a great opportunity to connect, share experiences, and enjoy the company of kindred spirits.
 
+- **Vegan Lunch:** Enjoy healthy lunch including fruits, nuts, vegan toast and spread, plus delicious non-caffeine tea!
+
+
 **What to Bring:**
 
 - Comfortable clothing suitable for walking and sitting on the ground
@@ -55,7 +58,7 @@ Join us for a rejuvenating barefoot walking and forest bathing experience in the
 
 **Included:**
 
-- Healthy vegan snacks
+- Healthy vegan lunch
 - natural insect repellent
 
 **Cost:**
