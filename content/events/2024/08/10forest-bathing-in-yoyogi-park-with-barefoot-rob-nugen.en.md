@@ -22,6 +22,7 @@ aliases: [
 * Touch the earth.
 * Experience the forest.
 * Connect with friends.
+* Enjoy vegan lunch.
 
 Join us for a morning of barefoot walking and forest bathing in Yoyogi Park.
 
@@ -75,7 +76,7 @@ On August 10th, join us at the meeting point at 08:45 AM.
 
 **Contact:**
 Rob Nugen
-Email: rob@robnugen.com
+Email: forest@robnugen.com
 
 **Additional Notes:**
 - By joining the event you agree that safety is your own responsibility.
