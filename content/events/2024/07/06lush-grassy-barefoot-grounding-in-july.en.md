@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_21_shin_yuri_art_park.jpg" "2022 07 21 shin yuri art park" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_21_shin_yuri_art_park_1000.jpg" "2022 07 21 shin yuri art park" %}}
 
 Walk barefoot on Japan's Number 1 Grassy Field!
 
