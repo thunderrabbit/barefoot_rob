@@ -11,15 +11,15 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group.jpg" "2022 jan 20 art park barefoot group" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group_1000.jpg" "2022 jan 20 art park barefoot group" %}}
 
-[![2022 feb 17 andy](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_andy.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_andy.jpg)
-[![2022 feb 17 andy arisa hiro feet](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_andy_arisa_hiro_feet.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_andy_arisa_hiro_feet.jpg)
-[![2022 feb 17 forming circle](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_forming_circle.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_forming_circle.jpg)
-[![2022 feb 17 grassy foot](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_grassy_foot.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_grassy_foot.jpg)
-[![2022 feb 17 group photo by arisa](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_group_photo_by_arisa.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa.jpg)
-[![2022 feb 17 shinagawa oshita](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_shinagawa_oshita.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_shinagawa_oshita.jpg)
-[![2022 feb 17 yoko oshita asagawa hiro](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_yoko_oshita_asagawa_hiro.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_yoko_oshita_asagawa_hiro.jpg)
+[![2022 feb 17 andy](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_andy.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_andy_1000.jpg)
+[![2022 feb 17 andy arisa hiro feet](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_andy_arisa_hiro_feet.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_andy_arisa_hiro_feet_1000.jpg)
+[![2022 feb 17 forming circle](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_forming_circle.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_forming_circle_1000.jpg)
+[![2022 feb 17 grassy foot](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_grassy_foot.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_grassy_foot_1000.jpg)
+[![2022 feb 17 group photo by arisa](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_group_photo_by_arisa.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa_1000.jpg)
+[![2022 feb 17 shinagawa oshita](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_shinagawa_oshita.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_shinagawa_oshita_1000.jpg)
+[![2022 feb 17 yoko oshita asagawa hiro](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_17_yoko_oshita_asagawa_hiro.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_yoko_oshita_asagawa_hiro_1000.jpg)
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 

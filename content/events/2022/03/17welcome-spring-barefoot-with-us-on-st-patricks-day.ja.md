@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa.jpg" "2022 feb 17 group photo by arisa" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa_1000.jpg" "2022 feb 17 group photo by arisa" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 

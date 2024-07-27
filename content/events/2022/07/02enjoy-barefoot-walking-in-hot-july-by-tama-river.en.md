@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_07_blue_tamagawa_keisuke_alicia_danny_andy_mari_rob.jpg" "2022 may 07 blue tamagawa keisuke alicia danny andy mari rob" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_07_blue_tamagawa_keisuke_alicia_danny_andy_mari_rob_1000.jpg" "2022 may 07 blue tamagawa keisuke alicia danny andy mari rob" %}}
 
 <div class="note">Image credit:
 <a href=""></a>

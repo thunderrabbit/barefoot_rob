@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_apr_21_shin_yuri_group.jpg" "2022 apr 21 shin yuri group" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_apr_21_shin_yuri_group_1000.jpg" "2022 apr 21 shin yuri group" %}}
 
 Walk barefoot on Japan's Number 1 Grassy Field!
 

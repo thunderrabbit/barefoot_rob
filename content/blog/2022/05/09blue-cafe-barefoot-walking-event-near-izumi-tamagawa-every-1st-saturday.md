@@ -11,8 +11,8 @@ aliases: [
 ---
 
 
-[![2022 may 07 blue tamagawa keisuke alicia danny andy mari rob](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_may_07_blue_tamagawa_keisuke_alicia_danny_andy_mari_rob.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_may_07_blue_tamagawa_keisuke_alicia_danny_andy_mari_rob.jpg)
+[![2022 may 07 blue tamagawa keisuke alicia danny andy mari rob](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_may_07_blue_tamagawa_keisuke_alicia_danny_andy_mari_rob.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_may_07_blue_tamagawa_keisuke_alicia_danny_andy_mari_rob_1000.jpg)
 
-[![2022 may 07 blue tamagawa long grassy field](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_may_07_blue_tamagawa_long_grassy_field.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_may_07_blue_tamagawa_long_grassy_field.jpg)
+[![2022 may 07 blue tamagawa long grassy field](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_may_07_blue_tamagawa_long_grassy_field.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_may_07_blue_tamagawa_long_grassy_field_1000.jpg)
 
 See more at https://www.robnugen.com/en/events/

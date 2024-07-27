@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_oct_todoroki_valley_bridge.jpg" "2022 oct todoroki valley bridge" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_oct_todoroki_valley_bridge_1000.jpg" "2022 oct todoroki valley bridge" %}}
 
 *Connect with nature. Connect with friends. Join us for a city walk!*
 

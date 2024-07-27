@@ -27,7 +27,7 @@ Meet at 9:45am [Takaosanguchi Station](https://goo.gl/maps/Cj5ghHwr6PyE5LxF8)
 Bring your own lunch and water.  We'll eat lunch on top of Mt Takao.
 
 <img
-src="https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_takaosanguchi.jpg"
+src="https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_takaosanguchi_1000.jpg"
 alt="2022 07 10 barefoot takaosanguchi"
 class="title" />
 
@@ -36,7 +36,7 @@ We will walk up the (mostly paved) Trail 1 of Mt Takao.
 After we hike back down, let's enjoy [Gokurakuyu Onsen](https://www.takaosan-onsen.jp/)! (included in price)
 
 <img
-src="https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_mt_takao.jpg"
+src="https://b.robnugen.com/blog/2022/walk_and_talk/2022_07_10_barefoot_mt_takao_1000.jpg"
 alt="2022 07 10 barefoot mt takao"
 class="title" />
 

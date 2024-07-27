@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_mar_17_art_park_shinagawa_hiro_hiro_yoko_yumehito_arisa_mari_oshita_oshita_yosei_rob_asagawa.jpg" "2022 mar 17 art park shinagawa hiro hiro yoko yumehito arisa mari oshita oshita yosei rob asagawa" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_mar_17_art_park_shinagawa_hiro_hiro_yoko_yumehito_arisa_mari_oshita_oshita_yosei_rob_asagawa_1000.jpg" "2022 mar 17 art park shinagawa hiro hiro yoko yumehito arisa mari oshita oshita yosei rob asagawa" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 

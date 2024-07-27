@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko.jpg" "barefoot walking under full moon promo me and mamiko" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/barefoot_walking_under_full_moon_promo_me_and_mamiko_1000.jpg" "barefoot walking under full moon promo me and mamiko" %}}
 
 夜の空気を感じよう。満月を満喫しよう。
 自然とつながる。友達とつながる。

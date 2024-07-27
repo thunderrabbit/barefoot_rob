@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_05_kyoko_rob_quack.jpg" "2022 may 05 kyoko rob quack" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_05_kyoko_rob_quack_1000.jpg" "2022 may 05 kyoko rob quack" %}}
 
 Refresh your spirit. Step in mud. Connect with nature. Connect with friends.
 

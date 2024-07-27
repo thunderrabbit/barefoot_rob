@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/hossawa_falls.jpg" "hossawa falls" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/hossawa_falls_1000.jpg" "hossawa falls" %}}
 
 <div class="note">Image credit:
 <a href="https://www.at-roadside.com/drive/metropolitan/hossawanotaki.html">https://www.at-roadside.com/drive/metropolitan/hossawanotaki.html</a>

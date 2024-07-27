@@ -14,9 +14,9 @@ aliases: [
 
 We had a great time!
 
-[![2022 jan 20 art park barefoot group](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_art_park_barefoot_group.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group.jpg)
-[![2022 jan 20 leaf pass 1](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_1.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_1.jpg)
-[![2022 jan 20 leaf pass 2](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_2.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_2.jpg)
+[![2022 jan 20 art park barefoot group](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_art_park_barefoot_group.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_art_park_barefoot_group_1000.jpg)
+[![2022 jan 20 leaf pass 1](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_1.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_1_1000.jpg)
+[![2022 jan 20 leaf pass 2](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_jan_20_leaf_pass_2.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_jan_20_leaf_pass_2_1000.jpg)
 
 Refresh your spirit. Touch the earth. Connect with nature. Connect with friends.
 

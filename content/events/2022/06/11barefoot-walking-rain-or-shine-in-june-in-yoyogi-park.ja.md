@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_14_demi_bare_feet_reflection.jpg" "2022 may 14 demi bare feet reflection" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_may_14_demi_bare_feet_reflection_1000.jpg" "2022 may 14 demi bare feet reflection" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 

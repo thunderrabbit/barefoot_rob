@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_sho.jpg" "2022 feb 26 rinshi no mori park hide rob teru sho" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_sho_1000.jpg" "2022 feb 26 rinshi no mori park hide rob teru sho" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature.
 

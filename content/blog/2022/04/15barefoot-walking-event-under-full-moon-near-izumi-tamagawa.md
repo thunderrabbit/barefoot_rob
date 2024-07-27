@@ -14,12 +14,12 @@ Shinjiro and I had a great time!  We walked past the fish stairs and then all th
 
 Looking across Tama river
 
-[![2022 apr 15 looking across tama river](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_apr_15_looking_across_tama_river.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_apr_15_looking_across_tama_river.jpeg)
+[![2022 apr 15 looking across tama river](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_apr_15_looking_across_tama_river.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_apr_15_looking_across_tama_river_1000.jpeg)
 
 bare feet at night
 
-[![2022 apr 15 bare feet at night](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_apr_15_bare_feet_at_night.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_apr_15_bare_feet_at_night.jpeg)
+[![2022 apr 15 bare feet at night](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_apr_15_bare_feet_at_night.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_apr_15_bare_feet_at_night_1000.jpeg)
 
 Happy foot (at home afterwards)
 
-[![2022 apr 15 left sole](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_apr_15_left_sole.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_apr_15_left_sole.jpeg)          
+[![2022 apr 15 left sole](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_apr_15_left_sole.jpeg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_apr_15_left_sole_1000.jpeg)

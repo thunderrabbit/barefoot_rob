@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_old_grass_and_new_grass.jpeg" "2022 feb 12 old grass and new grass" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_12_old_grass_and_new_grass_1000.jpeg" "2022 feb 12 old grass and new grass" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature.
 

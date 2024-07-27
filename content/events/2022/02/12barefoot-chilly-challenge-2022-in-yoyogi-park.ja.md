@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_jan_08_bare_feet_snow.jpg" "2022 jan 08 bare feet snow" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_jan_08_bare_feet_snow_1000.jpg" "2022 jan 08 bare feet snow" %}}
 
 精神をリフレッシュする。地球に触れる。自然とつながる。
 

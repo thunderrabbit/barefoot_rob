@@ -8,7 +8,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_clare.jpg"
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_clare_1000.jpg"
 "rinshi no mori park hide rob teru clare 17 feb 2022" %}}
 
 I was so happy to see Teru so happy for a chance to go barefoot!
@@ -27,11 +27,11 @@ His genki exploratory nature reminds me of myself. (^_^)
 
 The park was full of visitors enjoying the weather, which wasn't chilly at all!
 
-[![2022 feb 26 rinshi no mori park exit main path](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_exit_main_path.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_exit_main_path.jpg)
-[![2022 feb 26 rinshi no mori park teru gives a rock](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_teru_gives_a_rock.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_teru_gives_a_rock.jpg)
-[![2022 feb 26 rinshi no mori park where the sidewalk begins](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins.jpg)
-[![2022 feb 26 rinshi no mori park sunlight in winter trees](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_sunlight_in_winter_trees.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_sunlight_in_winter_trees.jpg)
-[![2022 feb 26 rinshi no mori park welcome buds](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_welcome_buds.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_welcome_buds.jpg)
-[![2022 feb 26 rinshi no mori park hide rob teru sho](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_sho.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_sho.jpg)
+[![2022 feb 26 rinshi no mori park exit main path](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_exit_main_path.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_exit_main_path_1000.jpg)
+[![2022 feb 26 rinshi no mori park teru gives a rock](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_teru_gives_a_rock.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_teru_gives_a_rock_1000.jpg)
+[![2022 feb 26 rinshi no mori park where the sidewalk begins](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins_1000.jpg)
+[![2022 feb 26 rinshi no mori park sunlight in winter trees](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_sunlight_in_winter_trees.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_sunlight_in_winter_trees_1000.jpg)
+[![2022 feb 26 rinshi no mori park welcome buds](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_welcome_buds.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_welcome_buds_1000.jpg)
+[![2022 feb 26 rinshi no mori park hide rob teru sho](//b.robnugen.com/blog/2022/walk_and_talk/thumbs/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_sho.jpg)](//b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_hide_rob_teru_sho_1000.jpg)
 
 Thank you Clare for the photos!

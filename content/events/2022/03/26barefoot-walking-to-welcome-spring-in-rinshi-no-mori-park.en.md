@@ -12,7 +12,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins.jpg" "2022 feb 26 rinshi no mori park where the sidewalk begins" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_26_rinshi_no_mori_park_where_the_sidewalk_begins_1000.jpg" "2022 feb 26 rinshi no mori park where the sidewalk begins" %}}
 
 Refresh your spirit. Touch the earth. Connect with nature.
 

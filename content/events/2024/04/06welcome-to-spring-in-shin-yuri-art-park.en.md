@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_mar_17_art_park_grassy_experience.jpg" "2022 mar 17 art park grassy experience" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_mar_17_art_park_grassy_experience_1000.jpg" "2022 mar 17 art park grassy experience" %}}
 
 Walk barefoot on Japan's Number 1 Grassy Field!
 
