@@ -18,7 +18,7 @@ aliases: [
 
 ### Barefoot Walking and Forest Bathing in Yoyogi Park
 
-* Refresh your spirit.
+* Energize your spirit.
 * Touch the earth.
 * Experience the forest.
 * Connect with friends.
@@ -59,15 +59,19 @@ Join us for a rejuvenating barefoot walking and forest bathing experience in the
 
 **Included:**
 
+- Community building
+- Meditative space
+- Forest bathing
+- Barefoot walking
 - Healthy vegan lunch
-- natural insect repellent
+- Natural insect repellent
 
 **Cost:**
 
 3500 yen per person
 
 * [Stripe](https://buy.stripe.com/14k03d7rq7RK7v28wE)
-* [PayPay](https://qr.paypay.ne.jp/p2p01_yr2PP0vF9l9t9pnH) (valid until 5 August 7:00am)
+* [PayPay](https://qr.paypay.ne.jp/p2p01_yr2PP0vF9l9t9pnH)
 
 **How to Join:**
 
@@ -91,7 +95,7 @@ We look forward to seeing you there!
 
 This forest bathing and meditation event is limited to ten attendees.
 
-Reserve your spot for 3500 yen by August 5th 7:00am
+Reserve your spot for 3500 yen:
 
 * [Stripe](https://buy.stripe.com/14k03d7rq7RK7v28wE)
 * [PayPay](https://qr.paypay.ne.jp/p2p01_yr2PP0vF9l9t9pnH)
