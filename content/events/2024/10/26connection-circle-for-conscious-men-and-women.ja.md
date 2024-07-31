@@ -65,8 +65,8 @@ aliases: [
 <br>日時: 2024年7月5日(金)
 <br>時間: 午後6時～午後9時
 <br>場所: 東京都世田谷区
-<br>チケット: 11,111円
-<br>ご予約は[https://book.stripe.com/bIY9DN6nmb3W9DaaEG](https://book.stripe.com/bIY9DN6nmb3W9DaaEG)まで
+<br>チケット: 15,555円
+<br>ご予約は[https://buy.stripe.com/8wM4jtbHGb3W02A5ku](https://buy.stripe.com/8wM4jtbHGb3W02A5ku)まで
 
 この儀式的な集まりには、愛情深いつながりと神聖な一体感に満ちた親密な夜を過ごす意欲のある 11 人の意識ある魂が集まります。
 

@@ -71,8 +71,8 @@ in the space with light refreshments provided.
 <br>Date: Saturday October 26th, 2024
 <br>Time: 6:00pm-9:00pm
 <br>Where: Setagaya-ku, Tokyo
-<br>Ticket: Earlybird price 11,111 JPY until July 31st 2024, then 15,555 JPY from August 1st 2024
-<br>Book your spot at https://book.stripe.com/bIY9DN6nmb3W9DaaEG
+<br>Ticket: 15,555 JPY
+<br>Book your spot at https://buy.stripe.com/8wM4jtbHGb3W02A5ku
 
 This ceremonial gathering is capped at 7 conscious souls
 who are up for an intimate evening of loving connection and divine union.
