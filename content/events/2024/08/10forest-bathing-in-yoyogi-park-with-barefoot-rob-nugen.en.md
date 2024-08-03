@@ -29,7 +29,7 @@ Join us for a morning of barefoot walking and forest bathing in Yoyogi Park.
 
 **Date and Time:**
 Saturday, August 10th, 2024
-09:00 AM - 11:00 PM
+09:00 AM - 12:00 PM
 
 **Location:  Yoyogi Park**
 
