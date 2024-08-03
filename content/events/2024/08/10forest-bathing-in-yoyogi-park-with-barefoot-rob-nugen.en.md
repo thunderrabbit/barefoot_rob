@@ -32,7 +32,7 @@ Saturday, August 10th, 2024
 
 **Location:  Yoyogi Park**
 
-Details to be given to those book their spot
+Details will be sent after payment
 
 **Event Description:**
 
