@@ -30,9 +30,9 @@ Join us for a morning of barefoot walking and forest bathing in Yoyogi Park.
 Saturday, August 10th, 2024
 09:00 AM - 11:00 PM
 
-**Location:**
+**Location:  Yoyogi Park**
 
-**Yoyogi Park by the [clock near Harajuku entrance](https://goo.gl/maps/xabS6Nw7TgNScqeCA)**  https://goo.gl/maps/xabS6Nw7TgNScqeCA
+Details to be given to those book their spot
 
 **Event Description:**
 
@@ -66,7 +66,7 @@ Join us for a rejuvenating barefoot walking and forest bathing experience in the
 - Healthy vegan lunch
 - Natural insect repellent
 
-**Cost:**
+**RSVP:**
 
 3500 yen per person
 
