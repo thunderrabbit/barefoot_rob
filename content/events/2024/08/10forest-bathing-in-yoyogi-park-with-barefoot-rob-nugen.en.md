@@ -10,6 +10,7 @@ TimeDescription: "(3500 yen) Gather at 8:45 at Yoyogi Park (Harajuku entrance); 
 EventDate: "2024-08-10T09:00:00+09:00"
 aliases: [
     "/en/events/2024/08/10forest-bathing-in-yoyogi-park-with-barefoot-rob-nugen",
+    "/forest-bathing",
 ]
 ---
 
