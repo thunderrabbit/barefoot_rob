@@ -72,12 +72,3 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 * Stripe https://buy.stripe.com/00g17heTS3BubLi9AJ
 * PayPay https://qr.paypay.ne.jp/p2p01_M6xPPmD3DnYlrYaW
 
-**持ち物**
-
-自分の体調管理に必要なもの。
-少し肌寒くなってきたので、上着を持参するといいかもしれません。
-軽い靴をお持ちください。
-軽い靴を持ってきてください。
-また、歩くときに靴を持ち運びたい場合は、靴を入れる袋も必要です。
-
-セルフケアが大切なので、必要な時にはいつでも靴を履いてくださいね。

@@ -71,11 +71,3 @@ To receive the latest updates, join our LINE group!
 * Stripe https://buy.stripe.com/00g17heTS3BubLi9AJ
 * PayPay https://qr.paypay.ne.jp/p2p01_M6xPPmD3DnYlrYaW
 
-**What to bring**
-
-Whatever you need to take care of yourself.
-Probably should bring a jacket because the weather is getting cooler.
-Bring lightweight shoes for the short (~5 minute) walk to the river.
-Watch for little rocks!
-
-Self care is important, so wear shoes whenever you need to!
