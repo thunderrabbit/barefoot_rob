@@ -67,7 +67,10 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 
 **RSVP:**
 
-2000円  https://buy.stripe.com/00g17heTS3BubLi9AJ
+2000円
+
+* Stripe https://buy.stripe.com/00g17heTS3BubLi9AJ
+* PayPay https://qr.paypay.ne.jp/p2p01_M6xPPmD3DnYlrYaW
 
 **持ち物**
 

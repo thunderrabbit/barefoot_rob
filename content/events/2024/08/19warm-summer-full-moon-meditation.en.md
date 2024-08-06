@@ -66,7 +66,10 @@ To receive the latest updates, join our LINE group!
 
 **RSVP:**
 
-2000 yen  https://buy.stripe.com/00g17heTS3BubLi9AJ
+2000 yen
+
+* Stripe https://buy.stripe.com/00g17heTS3BubLi9AJ
+* PayPay https://qr.paypay.ne.jp/p2p01_M6xPPmD3DnYlrYaW
 
 **What to bring**
 
