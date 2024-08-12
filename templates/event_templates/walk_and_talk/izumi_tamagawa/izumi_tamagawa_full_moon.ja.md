@@ -67,7 +67,7 @@ IZUMI_DEPARTURE_TIME 多摩川に向かって歩く
 
 **RSVP:**
 
-2000円  https://buy.stripe.com/00g17heTS3BubLi9AJ
+2000円  PayPay @ thunderrabbit
 
 **持ち物**
 

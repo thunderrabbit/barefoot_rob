@@ -66,7 +66,7 @@ To receive the latest updates, join our LINE group!
 
 **RSVP:**
 
-2000 yen  https://buy.stripe.com/00g17heTS3BubLi9AJ
+2000 yen  PayPay @ thunderrabbit
 
 **What to bring**
 
