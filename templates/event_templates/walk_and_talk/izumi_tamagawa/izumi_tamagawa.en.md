@@ -66,10 +66,3 @@ To receive the latest updates, join our LINE group!
 **Donation:**
 
 500 yen
-
-**What to bring**
-
-Whatever you need to take care of yourself.  Bring lightweight
-shoes for the short (~5 minute) walk to the river.  Watch for little rocks!
-
-Self care is important, so wear shoes whenever you need to!

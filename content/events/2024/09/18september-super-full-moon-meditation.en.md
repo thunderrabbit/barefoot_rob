@@ -2,7 +2,7 @@
 title: "September Super Full Moon Meditation"
 tags: [ "2024", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "riverside", "september", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-08-12T13:30:49+09:00
+date: 2024-08-12T13:53:13+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "19:00"
 TimeDescription: "gather at 18:45; walk to Tama River at 18:55"
@@ -68,11 +68,3 @@ To receive the latest updates, join our LINE group!
 
 2000 yen  PayPay @ thunderrabbit
 
-**What to bring**
-
-Whatever you need to take care of yourself.
-Probably should bring a jacket because the weather is getting cooler.
-Bring lightweight shoes for the short (~5 minute) walk to the river.
-Watch for little rocks!
-
-Self care is important, so wear shoes whenever you need to!

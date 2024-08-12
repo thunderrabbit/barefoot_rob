@@ -67,12 +67,3 @@ To receive the latest updates, join our LINE group!
 **RSVP:**
 
 2000 yen  PayPay @ thunderrabbit
-
-**What to bring**
-
-Whatever you need to take care of yourself.
-Probably should bring a jacket because the weather is getting cooler.
-Bring lightweight shoes for the short (~5 minute) walk to the river.
-Watch for little rocks!
-
-Self care is important, so wear shoes whenever you need to!
