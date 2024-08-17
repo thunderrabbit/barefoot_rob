@@ -7,7 +7,7 @@ EventLocation: "Zoom"
 EventTime: "18:00"
 TimeDescription: "Webinar starts at 18:00 JST"
 EventDate: "2024-08-28T18:00:00+09:00"
-EventType: "Jess X Goh"
+EventType: "Jess X Goh: Purpose into Prosperity"
 aliases: [
     "/en/events/2024/08/28turn_your_purpose_into_prosperity_with_jess_x_goh",
 ]
