@@ -8,7 +8,7 @@ aliases: [
 ]
 ---
 
-## 🚹 Connection Coaching for Men
+## 🚹 Discover Your Gold
 
 {{% img-responsive "https://b.robnugen.com/rob/portraits/2024_jan_book_a_free_discovery_call_1000.jpg" "Book a Discovery Call" %}}
 
