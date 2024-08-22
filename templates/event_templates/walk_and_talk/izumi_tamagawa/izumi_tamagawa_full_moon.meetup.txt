@@ -1,0 +1,132 @@
+title:       %s
+HUMANDATE       FIRST_GATHERING_TIME
+
+episode_image
+
+
+Enjoy the night air.  Enjoy moonlight.  Touch the earth. Connect with nature. Connect with friends.
+　
+Enjoy meditation and barefoot walking on the full moon night.
+Share beautiful experiences with like-minded friends!
+　
+The energy of the full moon supports us in releasing unwanted energies,
+so we'll also share some time in
+meditative energetic release under the full moon.
+　
+==== When ====
+　
+**HUMANDATE, gather at FIRST_GATHERING_TIME; walk toward Tama River at EVENT_TIME**
+　
+==== Where ====
+　
+**Meet by the benches near Izumi-Tamagawa station** https://goo.gl/maps/4yh8TLgADixQYnzU8
+　
+==== Details ====
+　
+*Enjoy moonlight*
+　
+Weather permitting, we'll be bathed in moonlight while
+enjoying the grassy field with bare feet!
+　
+*Enjoy Grass*
+　
+We'll relax in a lovely grass baseball field next to Tama River.
+　
+*Enjoy Breathing*
+　
+Get away from it all by settling into your being and noticing the
+motions of your body, one breath and one step at a time.
+　
+FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+　
+EVENT_TIME: Walk toward Tama River
+　
+The grass is nice for walking and relaxing.  Enjoy the light of the full moon.
+　
+**RSVP:**
+　
+2000 yen  PayPay @ thunderrabbit
+　
+
+　
+夜の空気を感じよう。満月を満喫しよう。
+自然とつながる。友達とつながる。
+　
+満月の夜に裸足で歩きながらおしゃべりを楽しむ。気の合う仲間と新しい体験を共有する
+ついでに、満月の下で静かに祈る時間も共有しましょう。
+　
+==== 日程 ====
+　
+**EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME集合、正午に多摩川を目指して歩きます。**
+　
+==== 第一集合場所 ====
+　
+EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME
+　
+集合場所：和泉多摩川駅前ベンチ
+https://goo.gl/maps/4yh8TLgADixQYnzU8
+　
+==== 詳細 ====
+　
+*Enjoy moonlight*（満月を満喫しよう）
+　
+天候が良ければ、裸足で芝生を楽しみながら月の光を浴びられます！
+　
+*Enjoy Breathing*（呼吸を楽しむ）
+　
+自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
+呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
+　
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+　
+EVENT_TIME 多摩川に向かって歩く
+　
+芝生は散歩とリラクセーションにもってこいです。
+満月の光を楽しみましょう。
+　
+**RSVP:**
+　
+2000円  PayPay @ thunderrabbit
+　
+
+
+=========================================
+============== T  A  G  S ===============
+=========================================
+
+* Full Moon Meditation
+* Barefoot
+* Relaxation
+* Consciousness
+* Outdoors
+
+
+UNSELECT Make this an online event
+
+CLICK Izumi-Tamagawa Station
+
+CLICK Edit map pin
+
+SLIDE MAP under pin to trees next to station
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+How to find us:
+
+Look for Barefoot Rob, barefoot by benches outside Izumi Tamagawa Station
+https://goo.gl/maps/4yh8TLgADixQYnzU8
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Optional settings
+
+Allow guests:    5
+
+Event fee:  ON
+Direct from member
+JPY    2000
+
+Publish
+
+Notify
