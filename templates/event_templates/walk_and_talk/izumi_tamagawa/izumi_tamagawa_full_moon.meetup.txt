@@ -65,7 +65,6 @@ EVENT_YYYY年EVENT_M月EVENT_D日FIRST_GATHERING_TIME
 　
 集合場所：和泉多摩川駅前ベンチ
 https://goo.gl/maps/4yh8TLgADixQYnzU8
-
 　
 ==== 詳細 ====
 　
