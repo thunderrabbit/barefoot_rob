@@ -7,7 +7,7 @@ EventLocation: "Zoom"
 EventTime: "18:00"
 TimeDescription: "Webinar starts at 18:00 JST"
 EventDate: "2024-09-04T18:00:00+09:00"
-EventType: "Jess X Goh: overcome childhood trauma"
+EventType: "Jess X Goh: Overcome Childhood Trauma"
 aliases: [
     "/en/events/2024/09/04how_to_overcome_5_types_of_childhood_trauma_with_jess_x_goh",
 ]
