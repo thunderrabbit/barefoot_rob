@@ -19,14 +19,15 @@ your head and into your body.
 </p>
 
 <p style="font-size:1.2em">
-Rob conducts workshops and meetings giving people
-skills to connect with each other and with their personal life mission.
+Rob conducts workshops, meetings, and one-to-one sessions, giving people
+skills to connect with each other and themselves more joyfully.
 </p>
 
 <p style="font-size:1.2em">
-Rob has been running a men’s peer counseling group
+Rob is a Connection Coach for Men.
+He has been running a men’s peer counseling group
 in Tokyo since 2015. Rob has been conducting
-spiritual workshops in both Tokyo and Kanagawa.
+spiritual workshops and events in both Tokyo and Kanagawa.
 </p>
 
 <p style="font-size:1.2em">
@@ -101,7 +102,6 @@ QPR is an emergency mental health intervention for suicidal persons.
 
 
 <div class="walk-segment">
-
 I met Rob within a business setting and we set a little group up to be
 accountability buddies. During our group meetings I have gotten to know
 Rob well and have been continuously impressed by his clear presence,
