@@ -70,8 +70,7 @@ in the space with light refreshments provided.
 
 <br>Date: Saturday October 26th, 2024
 <br>Time: 6:00pm-9:00pm
-<br>Where: Setagaya-ku, Tokyo
-<br>Venue: SunLily Yoga https://sunlily.work/
+<br>Venue: SunLily Yoga, Setagaya-ku Ikejiri 3-21-25
 <br>Ticket: 15,555 JPY
 <br>Book your spot at https://buy.stripe.com/8wM4jtbHGb3W02A5ku
 
