@@ -2,13 +2,14 @@
 title: "Cooler fall full moon meditation"
 tags: [ "2024", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "october", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-08-22T22:53:28+09:00
+date: 2024-09-17T08:46:23+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "19:00"
 TimeDescription: "gather at 18:45; walk to Tama River at 18:55"
-EventDate: "2024-10-18T19:00:00+09:00"
+EventDate: "2024-10-17T19:00:00+09:00"
 EventType: "Barefoot meditation"
 aliases: [
+    "/en/events/2024/10/17cooler-fall-full-moon-meditation",
     "/en/events/2024/10/18cooler-fall-full-moon-meditation",
 ]
 ---
@@ -25,7 +26,7 @@ meditative energetic release under the full moon.
 
 #### When
 
-**Friday 18 October 2024, gather at 18:45; walk toward Tama River at 19:00**
+**Thursday 17 October 2024, gather at 18:45; walk toward Tama River at 19:00**
 
 #### Where
 

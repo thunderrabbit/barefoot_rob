@@ -2,13 +2,14 @@
 title: "満月の夜、裸足で歩く、東京の端っこ。和泉多摩川"
 tags: [ "2024", "Barefoot Rob", "barefoot", "event", "full moon", "izumi-tamagawa", "october", "riverside", "tamagawa", "walk", "はだし", "多摩川", "満月", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-08-22T22:53:28+09:00
+date: 2024-09-17T08:46:23+09:00
 EventLocation: "Izumi Tamagawa for full moon 満月"
 EventTime: "19:00"
 TimeDescription: "18:45に集合、18:55に多摩川まで歩く"
-EventDate: "2024-10-18T19:00:00+09:00"
+EventDate: "2024-10-17T19:00:00+09:00"
 EventType: "Barefoot meditation"
 aliases: [
+    "/ja/events/2024/10/17cooler-fall-full-moon-meditation",
     "/ja/events/2024/10/18cooler-fall-full-moon-meditation",
 ]
 ---
@@ -27,11 +28,11 @@ aliases: [
 
 #### 日程
 
-**2024年10月18日　18:45集合、18:55に多摩川を目指して歩きます。**
+**2024年10月17日　18:45集合、18:55に多摩川を目指して歩きます。**
 
 #### 集合場所
 
-2024年10月18日　18:45
+2024年10月17日　18:45
 
 [集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
 https://goo.gl/maps/4yh8TLgADixQYnzU8
