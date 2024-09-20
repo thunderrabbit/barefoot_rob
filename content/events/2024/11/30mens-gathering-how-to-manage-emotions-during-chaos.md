@@ -99,6 +99,26 @@ Embody your inner king with confidence and comfort.  Begin to lead
 your life with purpose and direction.  Deepen your connection to
 yourself and others.
 
+### Date
+
+Saturday 30th November 2024
+
+### Time
+
+1:30pm doors open
+
+2:00pm - 6pm men's gathering
+
+### Venue
+
+Sun Lily Yoga Studio (Setagaya)
+
+**RSVP:**
+
+Early Bird until September 30th: 19,999 yen via PayPay @ thunderrabbit
+
+General Admission: 25,000 yen
+
 # Questions and Answers
 
 ### **Why is this different from other men’s circles?**
@@ -193,11 +213,4 @@ I strongly urge you to stick with your counseling vision.  It works……
 
 Bob Mayhew
 </div>
-
-**RSVP:**
-
-Early Bird until September 30th: 19,999 yen via PayPay @ thunderrabbit
-
-
-
 
