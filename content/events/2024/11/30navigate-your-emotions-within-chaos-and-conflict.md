@@ -106,7 +106,11 @@ yourself and others.
 
 ### **Venue: Sun Lily Yoga Studio, Setagaya-ku, Ikejiri 3-21-25**
 
-Early Bird Ticket: 19,999 yen until September 30th
+### **This workshop is limited to 8 Men Only**
+
+[Early Bird Ticket: 19,999 yen](#) until September 30th
+
+[Book Early Bird Now](#)
 
 General Admission: 25,000 yen from October 1st
 
