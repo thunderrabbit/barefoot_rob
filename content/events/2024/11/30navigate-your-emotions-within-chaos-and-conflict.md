@@ -108,9 +108,9 @@ yourself and others.
 
 ### **This workshop is limited to 8 Men Only**
 
-[Early Bird Ticket: 19,999 yen](#) until September 30th
+[Early Bird Ticket: 19,999 yen](https://book.stripe.com/aEU9DN6nm1tmg1y5kv) until September 30th
 
-[Book Early Bird Now](#):  https://stripe.com/samplelink
+[Book Early Bird Now](https://book.stripe.com/aEU9DN6nm1tmg1y5kv):  https://book.stripe.com/aEU9DN6nm1tmg1y5kv
 
 General Admission: 25,000 yen from October 1st
 
