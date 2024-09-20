@@ -28,7 +28,7 @@ Are you feeling overwhelmed?
 
 **What would life look like if you were able to stand in your power?**
 
-# Experience:
+# Your Path to Your Inner Kingdom:
 
 As you enter the kingdom of you, uncover your blocks that are
 preventing you from putting your needs first without guilt and break
