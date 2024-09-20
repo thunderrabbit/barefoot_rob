@@ -11,7 +11,7 @@ EventType: "Men's Event"
 aliases: [
     "/en/events/2024/11/30mens-gathering-how-to-manage-emotions-during-chaos",
     "/en/events/2024/11/30mens-half-day-event-how-to-manage-emotions-during-chaos",
-    "/en/events/2024/22/30navigate-your-emotions-within-chaos-and-conflict",
+    "/en/events/2024/22/30mens-gathering-navigate-your-emotions-within-chaos-and-conflict",
 ]
 ---
 
