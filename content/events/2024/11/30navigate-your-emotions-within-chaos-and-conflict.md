@@ -1,5 +1,5 @@
 ---
-title: "Men's Gathering: Navigate Your Emotions Within Chaos and Conflict"
+title: "Men's Gathering: Navigate Your Emotions Within Chaos And Conflict"
 tags: [ "2024", "Barefoot Rob", "mens", "event", "november", "emotions", "men" ]
 author: Rob Nugen
 date: 2024-09-20T08:46:23+09:00
@@ -17,7 +17,7 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/rob/portraits/2024_jan_rarr_1000.jpg" "Use your anger to create something great." %}}
 
-# Men's Gathering: Navigate Your Emotions Within Chaos and Conflict
+# Men's Gathering: Navigate Your Emotions Within Chaos And Conflict
 
 Hey brother,
 
@@ -47,7 +47,7 @@ Experience a sense of safety as the external world fades away,
 allowing you to drop into deeper self-awareness. Let go of the day’s
 noise and tension, making space for true inner work.
 
-## Navigating Chaos and Conflict
+## Navigating Chaos And Conflict
 
 ### Feel the power of your voice
 
