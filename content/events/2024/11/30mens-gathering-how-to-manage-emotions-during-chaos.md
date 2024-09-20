@@ -1,5 +1,5 @@
 ---
-title: "Men's 1/2 Day Event: How to Manage Emotions During Chaos"
+title: "Men's Gathering: How to Manage Emotions During Chaos"
 tags: [ "2024", "Barefoot Rob", "mens", "event", "november", "emotions", "men" ]
 author: Rob Nugen
 date: 2024-09-20T08:46:23+09:00
@@ -9,19 +9,22 @@ TimeDescription: "gather at 13:30; event from 14:00 - 18:00"
 EventDate: "2024-11-30T14:00:00+09:00"
 EventType: "Men's Event"
 aliases: [
+    "/en/events/2024/11/30mens-gathering-how-to-manage-emotions-during-chaos",
     "/en/events/2024/11/30mens-half-day-event-how-to-manage-emotions-during-chaos",
 ]
 ---
 
 {{% img-responsive "https://b.robnugen.com/rob/portraits/2024_jan_rarr_1000.jpg" "Use your anger to create something great." %}}
 
-# Men's 1/2 day event: How to Manage Emotions During Chaos
+# Men's Gathering: How to Manage Emotions During Chaos
 
-* Are you feeling overwhelmed?
-* Can't find balance in your career and personal life?
-* Do you struggle to make your partner happy without sacrificing your needs?
-* Do you constantly face internal chaos, self doubt, and low self worth?
-* Is it difficult to say no to people, leaving you burned out and distressed?
+Hey brother,
+
+Are you feeling overwhelmed?
+<br>Can't find balance in your career and personal life?
+<br>Do you struggle to make your partner happy without sacrificing your needs?
+<br>Do you constantly face internal chaos, self doubt, and low self worth?
+<br>Is it difficult to say no to people, leaving you burned out and distressed?
 
 **What would life look like if you were able to stand in your power?**
 
