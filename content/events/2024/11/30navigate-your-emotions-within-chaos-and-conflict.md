@@ -104,15 +104,11 @@ yourself and others.
 
 ### Time: 1:30pm - 6pm men's gathering
 
-### Venue
+### Venue: Sun Lily Yoga Studio (Setagaya)
 
-Sun Lily Yoga Studio (Setagaya)
+Early Bird until September 30th: 19,999 yen
 
-**RSVP:**
-
-Early Bird until September 30th: 19,999 yen via PayPay @ thunderrabbit
-
-General Admission: 25,000 yen
+General Admission: 25,000 yen from October 1st
 
 # Questions and Answers
 
