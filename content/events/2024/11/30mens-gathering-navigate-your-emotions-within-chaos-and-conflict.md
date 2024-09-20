@@ -9,9 +9,9 @@ TimeDescription: "gather at 13:30; event from 14:00 - 18:00"
 EventDate: "2024-11-30T14:00:00+09:00"
 EventType: "Men's Event"
 aliases: [
+    "/en/events/2024/22/30mens-gathering-navigate-your-emotions-within-chaos-and-conflict",
     "/en/events/2024/11/30mens-gathering-how-to-manage-emotions-during-chaos",
     "/en/events/2024/11/30mens-half-day-event-how-to-manage-emotions-during-chaos",
-    "/en/events/2024/22/30mens-gathering-navigate-your-emotions-within-chaos-and-conflict",
 ]
 ---
 
