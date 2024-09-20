@@ -100,11 +100,11 @@ Embody your inner king with confidence and comfort.  Begin to lead
 your life with purpose and direction.  Deepen your connection to
 yourself and others.
 
-### Date: Saturday 30th November 2024
+### **Date: Saturday 30th November 2024**
 
-### Time: 1:30pm - 6pm men's gathering
+### **Time: 1:30pm - 6pm**
 
-### Venue: Sun Lily Yoga Studio (Setagaya)
+### **Venue: Sun Lily Yoga Studio, Setagaya-ku Ikejiri 3-21-25**
 
 Early Bird until September 30th: 19,999 yen
 
