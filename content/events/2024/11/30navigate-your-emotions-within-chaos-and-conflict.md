@@ -1,5 +1,5 @@
 ---
-title: "Men's Gathering: How to Manage Emotions During Chaos"
+title: "Men's Gathering: Navigate Your Emotions Within Chaos and Conflict"
 tags: [ "2024", "Barefoot Rob", "mens", "event", "november", "emotions", "men" ]
 author: Rob Nugen
 date: 2024-09-20T08:46:23+09:00
@@ -11,12 +11,13 @@ EventType: "Men's Event"
 aliases: [
     "/en/events/2024/11/30mens-gathering-how-to-manage-emotions-during-chaos",
     "/en/events/2024/11/30mens-half-day-event-how-to-manage-emotions-during-chaos",
+    "/en/events/2024/22/30navigate-your-emotions-within-chaos-and-conflict",
 ]
 ---
 
 {{% img-responsive "https://b.robnugen.com/rob/portraits/2024_jan_rarr_1000.jpg" "Use your anger to create something great." %}}
 
-# Men's Gathering: How to Manage Emotions During Chaos
+# Men's Gathering: Navigate Your Emotions Within Chaos and Conflict
 
 Hey brother,
 
@@ -99,15 +100,9 @@ Embody your inner king with confidence and comfort.  Begin to lead
 your life with purpose and direction.  Deepen your connection to
 yourself and others.
 
-### Date
+### Date: Saturday 30th November 2024
 
-Saturday 30th November 2024
-
-### Time
-
-1:30pm doors open
-
-2:00pm - 6pm men's gathering
+### Time: 1:30pm - 6pm men's gathering
 
 ### Venue
 
