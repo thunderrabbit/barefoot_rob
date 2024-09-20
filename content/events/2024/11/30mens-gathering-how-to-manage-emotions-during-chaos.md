@@ -42,7 +42,6 @@ relationships, and yourself.
 
 ## Grounding Ceremony
 
-Feel blessed as settle into your heart, grounding into your own body.
 Experience a sense of safety as the external world fades away,
 allowing you to drop into deeper self-awareness. Let go of the day’s
 noise and tension, making space for true inner work.
