@@ -106,15 +106,13 @@ yourself and others.
 
 ### Venue: Sun Lily Yoga Studio (Setagaya)
 
-**RSVP:**
-
 Early Bird until September 30th: 19,999 yen via PayPay @ thunderrabbit
 
-General Admission: 25,000 yen
+General Admission: 25,000 yen: from October 1st
 
 # Questions and Answers
 
-### **Why is this different from other men’s circles?**
+### **How is this different from other men’s circles?**
 
 I offer a unique approach to emotional connection by creating a safe space for men to fully express themselves. It’s about getting back to basics—fostering real connection and community, where men feel truly heard, seen, and accepted. These events focus on shared experiences, allowing men to explore emotions, boundaries, and connection in real-time, with an emphasis on communication, consent, and physical touch as forms of nurturing rather than therapy. Here, vulnerability feels natural, even in ways that might be uncomfortable in formal settings. The process encourages men to get to know themselves deeply through body awareness, emotional expression, and physical activities. This creates an atmosphere of trust, support, and growth rooted in personal and communal connection, rather than chasing specific therapeutic outcomes.
 
