@@ -110,7 +110,7 @@ yourself and others.
 
 [Early Bird Ticket: 19,999 yen](#) until September 30th
 
-[Book Early Bird Now](#)
+[Book Early Bird Now](#):  https://stripe.com/samplelink
 
 General Admission: 25,000 yen from October 1st
 
