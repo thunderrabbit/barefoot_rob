@@ -104,9 +104,9 @@ yourself and others.
 
 ### **Time: 1:30pm - 6pm**
 
-### **Venue: Sun Lily Yoga Studio, Setagaya-ku Ikejiri 3-21-25**
+### **Venue: Sun Lily Yoga Studio, Setagaya-ku, Ikejiri 3-21-25**
 
-Early Bird until September 30th: 19,999 yen
+Early Bird Ticket: 19,999 yen until September 30th
 
 General Admission: 25,000 yen from October 1st
 
