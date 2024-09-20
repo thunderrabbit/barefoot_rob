@@ -102,11 +102,9 @@ yourself and others.
 
 ### Date: Saturday 30th November 2024
 
-### Time: 1:30pm - 6pm men's gathering
+### Time: 1:30pm - 6pm
 
-### Venue
-
-Sun Lily Yoga Studio (Setagaya)
+### Venue: Sun Lily Yoga Studio (Setagaya)
 
 **RSVP:**
 
