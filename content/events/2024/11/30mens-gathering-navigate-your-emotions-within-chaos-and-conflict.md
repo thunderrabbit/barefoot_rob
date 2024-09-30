@@ -209,4 +209,3 @@ I strongly urge you to stick with your counseling vision.  It works……
 
 Bob Mayhew
 </div>
-
