@@ -4,9 +4,9 @@ tags: [ "2024", "Barefoot Rob", "mens", "event", "november", "emotions", "men" ]
 author: Rob Nugen
 date: 2024-09-20T08:46:23+09:00
 EventLocation: "Sun Lily Yoga Studio (Setagaya)"
-EventTime: "14:00"
-TimeDescription: "gather at 13:30; event from 14:00 - 18:00"
-EventDate: "2024-11-30T14:00:00+09:00"
+EventTime: "13:30"
+TimeDescription: "doors open at 13:30; men's gathering 14:00 - 18:00"
+EventDate: "2024-11-30T13:30:00+09:00"
 EventType: "Men's Event"
 aliases: [
     "/en/events/2024/22/30mens-gathering-navigate-your-emotions-within-chaos-and-conflict",
