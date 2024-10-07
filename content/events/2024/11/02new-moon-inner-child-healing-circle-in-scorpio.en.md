@@ -18,7 +18,7 @@ aliases: [
 Do you find yourself feeling insecure, ashamed and unsafe from the impacts of emotional neglect and upbringing as a child?
 <br>Is it a struggle to be seen, felt and witnessed in your vulnerability?
 <br>What if you could start healing these fragments of your inner child and start to align yourself to unconditional love?
-<br>>Be guided on a cosmic journey to elevate your healing capacity as you start to let go of past timelines that are holding you back from fully living your life.
+<br>Be guided on a cosmic journey to elevate your healing capacity as you start to let go of past timelines that are holding you back from fully living your life.
 <br>Drop into this sacred space, as you bring up suppressed emotions and energetic blockages that need to be brought up for clearing with our spirit guides in a powerful light language transmission, auric cleansing, quantum healing, sound and art therapy to integrate, bringing yourself home to the truth of who you are, the light that's in your heart.
 
 This is limited to 8 conscious people only!
