@@ -18,7 +18,8 @@ aliases: [
 
 {{% img-responsive "https://b.robnugen.com/rob/portraits/2024_jan_rarr_1000.jpg" "Use your anger to create something great." %}}
 
-# Men's Gathering: Navigate Your Emotions Within Chaos And Conflict
+## Men's Gathering:
+# Navigate Your Emotions Within Chaos And Conflict
 
 Hey brother,
 
