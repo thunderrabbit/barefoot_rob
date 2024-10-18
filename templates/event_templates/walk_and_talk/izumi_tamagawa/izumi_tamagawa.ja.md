@@ -26,8 +26,8 @@ aliases: [
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
-[集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
-https://goo.gl/maps/4yh8TLgADixQYnzU8
+[集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/6NqAoBLF4v2YeN9h6)
+https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 [![2021 Aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
 
@@ -46,7 +46,7 @@ https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
 #### 詳細
 
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 IZUMI_DEPARTURE_TIME: Blue Cafeに集合
 

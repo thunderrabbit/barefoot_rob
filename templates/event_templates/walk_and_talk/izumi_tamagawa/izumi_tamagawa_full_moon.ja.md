@@ -33,8 +33,8 @@ aliases: [
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
-[集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/4yh8TLgADixQYnzU8)
-https://goo.gl/maps/4yh8TLgADixQYnzU8
+[集合場所：和泉多摩川駅前ベンチ](https://goo.gl/maps/6NqAoBLF4v2YeN9h6)
+https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 [![2021 Aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
 
@@ -49,7 +49,7 @@ https://goo.gl/maps/4yh8TLgADixQYnzU8
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
 
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 IZUMI_DEPARTURE_TIME 多摩川に向かって歩く
 

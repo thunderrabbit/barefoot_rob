@@ -30,7 +30,7 @@ Enjoy chatting and barefoot walking: share new experiences with like-minded frie
 #### Where
 
 ** Meeting Spot #1 by the benches near Izumi-Tamagawa station **
-https://goo.gl/maps/4yh8TLgADixQYnzU8
+https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 ** Meeting Spot #2 BLUE Cafe Tamagawa https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 
@@ -47,7 +47,7 @@ We'll walk to a lovely grass baseball field next to Tama River.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 EVENT_TIME: Walk toward Tama River
 
@@ -74,7 +74,7 @@ Latest info https://www.robnugen.com/enalias_path
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
 集合場所：和泉多摩川駅前ベンチ
-https://goo.gl/maps/4yh8TLgADixQYnzU8
+https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 #### 第二集合場所
 
@@ -96,7 +96,7 @@ BLUE Cafe 多摩川 https://goo.gl/maps/PX2LgNKF9iz4EyXx9
 自分の存在を意識し、体の動きに気づくことで、すべてから逃れましょう。
 呼吸を楽しむ*自分の存在を意識し、一度に一呼吸、一歩ずつ体の動きに気づくことで、すべてから解放されます。
 
-FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME 和泉多摩川駅 ベンチ付近に集合 https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 正午12時00分 多摩川に向かって歩く
 

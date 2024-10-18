@@ -29,8 +29,8 @@ meditative energetic release under the full moon.
 
 #### Where
 
-**Meet by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
-https://goo.gl/maps/4yh8TLgADixQYnzU8
+**Meet by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/6NqAoBLF4v2YeN9h6)**
+https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 [![2021 aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
 
@@ -50,7 +50,7 @@ We'll relax in a lovely grass baseball field next to Tama River.
 Get away from it all by settling into your being and noticing the
 motions of your body, one breath and one step at a time.
 
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 IZUMI_DEPARTURE_TIME: Walk toward Tama River
 

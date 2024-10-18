@@ -24,8 +24,8 @@ Enjoy chatting and barefoot walking: share new experiences with like-minded frie
 
 #### Join Us
 
-**Meeting Spot #1 FIRST_GATHERING_TIME by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/4yh8TLgADixQYnzU8)**
-https://goo.gl/maps/4yh8TLgADixQYnzU8
+**Meeting Spot #1 FIRST_GATHERING_TIME by the [benches near Izumi-Tamagawa station](https://goo.gl/maps/6NqAoBLF4v2YeN9h6)**
+https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 [![2021 aug 16 izumi tamagawa meeting spot](//b.robnugen.com/blog/2021/thumbs/2021_aug_16_izumi_tamagawa_meeting_spot.png)](//b.robnugen.com/blog/2021/2021_aug_16_izumi_tamagawa_meeting_spot.png)
 
@@ -40,7 +40,7 @@ To receive the latest updates, join our LINE group!
 
 #### Details
 
-FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/4yh8TLgADixQYnzU8
+FIRST_GATHERING_TIME Meet at Izumi-Tamagawa Station near benches https://goo.gl/maps/6NqAoBLF4v2YeN9h6
 
 IZUMI_DEPARTURE_TIME: Walk toward Blue Cafe
 
