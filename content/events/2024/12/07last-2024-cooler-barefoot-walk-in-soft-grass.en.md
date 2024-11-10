@@ -2,11 +2,11 @@
 title: "Last 2024 cooler barefoot walk in soft grass"
 tags: [ "2024", "Barefoot Rob", "art_park", "barefoot", "december", "event", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-10-08T12:27:03+09:00
+date: 2024-11-10T18:27:44+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
-EventTime: "15:00"
-TimeDescription: "gather at 14:30; enter Shin Yuri Art Park at 15:00"
-EventDate: "2024-12-07T15:00:00+09:00"
+EventTime: "14:00"
+TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+EventDate: "2024-12-07T14:00:00+09:00"
 EventType: "Barefoot grounding"
 aliases: [
     "/en/events/2024/12/07last-2024-cooler-barefoot-walk-in-soft-grass",
@@ -27,13 +27,13 @@ Every First Saturday of the month
 
 #### First Meeting Point
 
-Saturday 07 December 2024, 14:30
+Saturday 07 December 2024, 13:30
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point is Shin Yuri Art Park
 
-Saturday 07 December 2024, 15:00
+Saturday 07 December 2024, 14:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
@@ -59,8 +59,8 @@ Find like-minded others who enjoy walking barefoot!
 *What to Expect*
 
 * The event is on, rain or shine.
-* We'll walk from Shin Yurigaoka station starting 14:45
-* Feel free to join at Shinyuri Art Parks by 15:00.
+* We'll walk from Shin Yurigaoka station starting 13:45
+* Feel free to join at Shinyuri Art Parks by 14:00.
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
 

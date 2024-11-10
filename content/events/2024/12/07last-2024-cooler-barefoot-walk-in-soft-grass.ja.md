@@ -1,12 +1,12 @@
 ---
-title: "15時から新ゆりアートパークスで裸足でウォーキング"
+title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2024", "Barefoot Rob", "art_park", "barefoot", "december", "event", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2024-10-08T12:27:03+09:00
+date: 2024-11-10T18:27:44+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
-EventTime: "15:00"
-TimeDescription: "新百合ヶ丘駅で14:30に集合、15:00に新ゆりアートパークス"
-EventDate: "2024-12-07T15:00:00+09:00"
+EventTime: "14:00"
+TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
+EventDate: "2024-12-07T14:00:00+09:00"
 EventType: "裸足のアーシング"
 aliases: [
     "/ja/events/2024/12/07last-2024-cooler-barefoot-walk-in-soft-grass",
@@ -25,13 +25,13 @@ aliases: [
 
 #### 第一集合場所
 
-2024年12月7日　14:30
+2024年12月7日　13:30
 
 新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第ニ集合場所は新ゆりアートパークスになります
 
-2024年12月7日　15:00
+2024年12月7日　14:00
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
@@ -56,8 +56,8 @@ aliases: [
 *期待すること*
 
 * イベントは、雨天決行です。
-* 14:45に新百合ヶ丘駅を出発します。
-* 15:00までに新ゆりアートパークスに集合してください。
+* 13:45に新百合ヶ丘駅を出発します。
+* 14:00までに新ゆりアートパークスに集合してください。
 * 公園では靴を脱いで、母なる大地とつながりましょう。
 * 友達に会って、おしゃべりを楽しんで、つながる
 
