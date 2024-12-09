@@ -1,5 +1,5 @@
 ---
-title: "14時から新ゆりアートパークスで裸足でウォーキング"
+title: "14時から新ゆりアートパークスで裸足でウォーキング、あけまして２０２５"
 tags: [ "2025", "Barefoot Rob", "art_park", "barefoot", "event", "january", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2024-12-09T10:10:17+09:00
@@ -10,6 +10,7 @@ EventDate: "2025-01-04T14:00:00+09:00"
 EventType: "裸足のアーシング"
 aliases: [
     "/ja/events/2025/01/04happy-2025-chilly-barefoot-walk-before-break-for-winter",
+    "/ja/events/2025/01/04brisk-barefoot-grounding-happy-2025",
 ]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Happy 2025 chilly barefoot walk before break for winter"
+title: "Brisk barefoot grounding: Happy 2025!"
 tags: [ "2025", "Barefoot Rob", "art_park", "barefoot", "event", "january", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2024-12-09T10:10:17+09:00
@@ -10,6 +10,7 @@ EventDate: "2025-01-04T14:00:00+09:00"
 EventType: "Barefoot grounding"
 aliases: [
     "/en/events/2025/01/04happy-2025-chilly-barefoot-walk-before-break-for-winter",
+    "/en/events/2025/01/04brisk-barefoot-grounding-happy-2025",
 ]
 ---
 
