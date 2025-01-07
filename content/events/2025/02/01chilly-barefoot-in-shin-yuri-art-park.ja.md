@@ -1,11 +1,11 @@
 ---
 title: "14時から新ゆりアートパークスで裸足でウォーキング"
-tags: [ "2025", "Yoko", "art_park", "barefoot", "event", "february", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
-author: Rob Nugen
+tags: [ "2025", "Yoko", "art_park", "barefoot", "event", "february", "walk", "はだし", "新百合ヶ丘駅" ]
+author: Yoko
 date: 2025-01-07T17:18:10+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
-TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
+TimeDescription: "14:00に新ゆりアートパークス"
 EventDate: "2025-02-01T14:00:00+09:00"
 EventType: "裸足のアーシング"
 aliases: [
@@ -21,15 +21,9 @@ aliases: [
 
 裸足で歩き、呼吸を整え、新鮮な空気と美しい草原を楽しみます。
 
-毎月第一土曜日
+第一土曜日
 
-#### 第一集合場所
-
-2025年2月1日　13:30
-
-新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
-
-#### 第ニ集合場所は新ゆりアートパークスになります
+#### 集合場所は新ゆりアートパークスになります
 
 2025年2月1日　14:00
 
@@ -55,8 +49,6 @@ aliases: [
 
 *期待すること*
 
-* イベントは、雨天決行です。
-* 13:45に新百合ヶ丘駅を出発します。
 * 14:00までに新ゆりアートパークスに集合してください。
 * 公園では靴を脱いで、母なる大地とつながりましょう。
 * 友達に会って、おしゃべりを楽しんで、つながる
