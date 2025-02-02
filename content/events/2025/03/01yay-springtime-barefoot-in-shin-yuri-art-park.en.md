@@ -1,12 +1,12 @@
 ---
 title: "Yay Springtime barefoot in Shin Yuri Art Park"
-tags: [ "2025", "Yoko", "art_park", "barefoot", "event", "march", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
+tags: [ "2025", "Yoko", "art_park", "barefoot", "event", "march", "walk", "はだし" ]
 author: Rob Nugen
 date: 2025-02-02T21:47:27+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
-EventTime: "12:30"
-TimeDescription: "gather at 12:00; enter Shin Yuri Art Park at 12:30"
-EventDate: "2025-03-01T12:30:00+09:00"
+EventTime: "14:00"
+TimeDescription: "gather at Shin Yuri Art Park at 12:30"
+EventDate: "2025-03-01T14:00:00+09:00"
 EventType: "Barefoot grounding"
 aliases: [
     "/en/events/2025/03/01yay-springtime-barefoot-in-shin-yuri-art-park",
@@ -25,15 +25,9 @@ Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
 Every First Saturday of the month
 
-#### First Meeting Point
+#### Meeting Point
 
-Saturday 01 March 2025, 12:00
-
-Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
-
-#### Second Meeting Point is Shin Yuri Art Park
-
-Saturday 01 March 2025, 12:30
+Saturday 01 March 2025, 14:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
@@ -58,9 +52,7 @@ Find like-minded others who enjoy walking barefoot!
 
 *What to Expect*
 
-* The event is on, rain or shine.
-* We'll walk from Shin Yurigaoka station starting 12:15
-* Feel free to join at Shinyuri Art Parks by 12:30.
+* Join at Shinyuri Art Parks by 14:00.
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
 
