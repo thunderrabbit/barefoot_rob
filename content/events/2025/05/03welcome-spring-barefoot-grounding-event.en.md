@@ -1,11 +1,11 @@
 ---
 title: "Welcome Spring barefoot grounding event"
-tags: [ "2025", "Barefoot Rob", "art_park", "barefoot", "event", "may", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
-author: Rob Nugen
+tags: [ "2025", "yoko", "art_park", "barefoot", "event", "may", "walk", "はだし" ]
+author: Yoko
 date: 2025-01-07T17:10:18+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
-TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
+TimeDescription: "gather at Shin Yuri Art Park at 14:00"
 EventDate: "2025-05-03T14:00:00+09:00"
 EventType: "Barefoot grounding"
 aliases: [
@@ -25,13 +25,7 @@ Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
 Every First Saturday of the month
 
-#### First Meeting Point
-
-Saturday 03 May 2025, 13:30
-
-Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
-
-#### Second Meeting Point is Shin Yuri Art Park
+#### Meeting Point
 
 Saturday 03 May 2025, 14:00
 
@@ -58,9 +52,7 @@ Find like-minded others who enjoy walking barefoot!
 
 *What to Expect*
 
-* The event is on, rain or shine.
-* We'll walk from Shin Yurigaoka station starting 13:45
-* Feel free to join at Shinyuri Art Parks by 14:00.
+* Join at Shinyuri Art Parks by 14:00.
 * Take off your shoes in the park; connect with mother earth!
 * Meet friends, enjoy chatting, connecting
 
