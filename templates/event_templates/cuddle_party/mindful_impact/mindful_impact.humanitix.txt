@@ -24,7 +24,7 @@ settings:  Discount Code    new price 0
 + Paid Ticket
 
 Ticket Type     Price      Quantity
-Bundle of 5 Cuddle Party events   ¥ BUNDLE_PRICE 5
+Bundle of 5 Cuddle Party events   AUD BUNDLE_PRICE 5
 
 settings:  Discount Code    new price 0
 

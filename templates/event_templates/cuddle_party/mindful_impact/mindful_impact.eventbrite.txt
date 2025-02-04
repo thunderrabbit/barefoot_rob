@@ -174,12 +174,12 @@ Next: Tickets
 Paid Ticket +
 
 Ticket Type     Price      Quantity
-One attendee    ¥ TICKET_PRICE　　　8
+One attendee    AUD TICKET_PRICE　　　8
 
 + Paid Ticket
 
 Ticket Type     Price      Quantity
-Bundle of 5 Cuddle Party events   ¥ BUNDLE_PRICE 5
+Bundle of 5 Cuddle Party events   AUD BUNDLE_PRICE 5
 
 Stop all ticket sales (day before)
 
