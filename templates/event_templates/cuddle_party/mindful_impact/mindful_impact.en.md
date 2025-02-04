@@ -6,7 +6,7 @@ date: %s
 EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION"
-EventDate: "%sTEVENT_TIME:00+09:00"
+EventDate: "%sTEVENT_TIME:00+10:30"
 EventType: "Cuddle Party"
 aliases: [
     "/enalias_path",
@@ -47,7 +47,7 @@ At a Cuddle Party, physical contact is optional.
 The primary goals of a Cuddle Party are to practice
 exploring consent and communication with others.
 
-#### RSVP on Peatix
+#### RSVP on Humanitix
 
 TICKET_LINK
 
@@ -89,7 +89,7 @@ we'll have 2 or more hours of Self-Directed Connection
 
 We'll finish with a closing circle to reflect on our experience.
 
-#### Why?
+#### Benefits
 
 Clear communication allows more harmonious relationships,
 regardless of the context.
@@ -163,42 +163,46 @@ so we can be settled and start our Welcome Circle at EVENT_TIME.
 
 #### Where
 
-5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
+[Mindful Impact](https://mindfulimpact.com.au/studio) in Crafers
 
 #### Cost
 
-* TICKET_PRICE yen for 1 person
+* $TICKET_PRICE for 1 person
 
-[Buy tickets on Peatix](TICKET_LINK)
+RSVP on Humanitix TICKET_LINK
+
+#### Includes
+
+Vegan pizza from Crafers Pizza Bar
+
+#### Please Bring
+
+* a pillow or two
+* comfortable clothes (modest pyjamas)
+
+#### Arrive On Time
+
+Once we begin the Welcome Circle and orientation, sorry, we can let no one enter late. This creates comfort and safety by knowing that everyone is on the same page about rules and expectations.
 
 #### Fine print
 
 Must be 18+ to attend.
-This is a sober event - please do not attend under the influence.
+<br>This is a sober event - please do not attend under the influence.
 
 CANCELLATION: Please let me know if you cannot come.
-Tickets are nonrefundable, but credit for future events
+<br>Tickets are nonrefundable, but credit for future events
 will be provided for cancellations up until the day of the event.
 
-##### COVID considerations
-
-We will not require any special
-COVID-19 precautions for this event.
-Vaccines and masks are optional.
-Of course, if you're feeling ill,
-please stay home. Otherwise, welcome.
-
-#### About me, “Barefoot” Rob Nugen
+#### Your Facilitator, Rob Nugen
 
 I have a passion for connecting with the world around me,
 especially walking barefoot. This helps me to stay grounded,
 and appreciate the beauty of the present moment.
-I’m leading Cuddle Party events to help welcome us
-back into connection after an isolating pandemic.
 
-I have been running a men’s peer counseling group
-in Tokyo since 2015, and conducting in-person
-workshops in both Tokyo and Kanagawa since 2018.
+I established a men’s peer counseling group
+in Tokyo in 2015, and have been conducting in-person
+workshops in both Japan and Australia since 2018.
+
 
     Rob is amazing. He is a perfect facilitator in every way.
     He is caring, kind, self-effacing, honest. Ten out of ten.
