@@ -69,7 +69,7 @@ in a mini communication workshop, allowing participants
 to practice inner awareness and clear expression of boundaries.
 
 After the communication workshop,
-we'll have 2 or more hours of Self-Directed Connection
+we'll have 2 hours of Self-Directed Connection
 
     Now it is time for you to ask for what you want, say yes and no to
     requests and invitations, cuddle according to your desires and comfort
@@ -91,11 +91,30 @@ We'll finish with a closing circle to reflect on our experience.
 
 #### Benefits
 
-Clear communication allows more harmonious relationships,
-regardless of the context.
+* "allow your inner child to play and express and receive love through the power of touch."
+* "I felt I received a lot of healing from receiving and giving affection and touch."
+* Reduce Stress and Anxiety
+* Boost Mood and Emotional Resilience
+* Support Healing from Touch Deprivation
+* Enhance Emotional Awareness and Self-Expression
+* Practice Clear and Respectful Boundaries
+* Increase Comfort with Asking and Declining
+* Promote Non-Verbal Communication Awareness
+* Build a Sense of Community
+* Encourage Authenticity and Vulnerability
+* Provide a Safe Space for Intimacy (without Sex)
+* Develop Confidence in Setting Boundaries
+* Increase Comfort with Physical Affection in Friendships
+* Encourage a Lighthearted, Playful Atmosphere
+* Unplug from Screens and Social Media
 
-Nurturing and consensual touch supports a healthy life,
-strong nervous system, and balanced emotions.
+#### Who Might Benefit the Most?
+
+* People who feel touch-deprived or lonely.
+* Those looking to practice setting and respecting boundaries.
+* Individuals recovering from past relationship challenges.
+* Anyone wanting to increase their emotional intelligence and communication skills.
+* People seeking a supportive, community-oriented space.
 
 <img
 src="https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg"
