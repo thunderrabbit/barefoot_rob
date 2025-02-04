@@ -4,8 +4,20 @@ use strict;
 use DateTime;
 use Date::Parse;
 
-my $zone = "Asia/Tokyo";
-our $zoffset = "+09:00";
+# Thank you ChatGPT
+
+# Determine local timezone dynamically
+my $zone = DateTime::TimeZone->new(name => 'local')->name;
+
+# Get the current date-time object with the detected local timezone
+my $dt = DateTime->now(time_zone => 'local');
+
+# Get the timezone offset in "+hh:mm" format
+my $zoffset = $dt->strftime('%z');
+$zoffset =~ s/(\d{2})(\d{2})$/$1:$2/;  # Convert "+hhmm" to "+hh:mm"
+
+print "Detected Time Zone: $zone\n";   # Works in Adelaide
+print "Detected Offset: $zoffset\n";   # Works in Adelaide
 
 our $dt = DateTime->now(
     time_zone  => $zone,
