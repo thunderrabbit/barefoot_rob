@@ -1,5 +1,5 @@
 ---
-title: "Cuddle Party communication workshop in Adelaid Hills"
+title: "Cuddle Party communication workshop in Adelaide Hills"
 tags: [ "2025", "Barefoot Rob", "communication", "consent", "cuddle-party", "february", "platonic touch", "workshop", "裸足のロブ" ]
 author: Rob Nugen
 date: 2025-02-04T07:12:01+10:30
