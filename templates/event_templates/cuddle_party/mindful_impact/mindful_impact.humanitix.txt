@@ -1,16 +1,42 @@
-https://peatix.com/event/create2
+https://console.humanitix.com/console/dashboard
 
+[Create event] in top right corner
+
+Name
 title:       %s
 
-Physical event
+Start Date: HUMANDATE
+Start Time: EVENT_TIME
+End Date: HUMANDATE
+End Time: THREE_HOURS_AFTER_EVENT_TIME
 
-Starts: HUMANDATE EVENT_TIME
+Location (click Address)
 
-Ends: HUMANDATE THREE_HOURS_AFTER_EVENT_TIME
+Address: Shops 5-7, 5 Main Street CRAFERS SA 5152
 
-Venue:
+Venue Name:
 Mindful Impact
-Shops 5-7, 5 Main Street CRAFERS SA 5152
+
+Privacy: Public
+
+Discoverability:
+Type:  Class, Training or Workshop
+
+Category:  Health & Wellness
+
+Sub-category: Other
+
+Keywords:
+
+communication
+workshop
+platonic
+cuddle
+cuddle-party
+
+Currency AUD
+
+Save & Continue
 
 Next: Tickets
 
