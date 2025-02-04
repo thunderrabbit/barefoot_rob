@@ -20,8 +20,14 @@ our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directo
 
 our %pricing_table = (
   "cuddle_party" => {
-      "single" => 5555,
-      "bundle" => 22000,
+      "sun_lily" => {
+          "single" => 5555,
+          "bundle" => 22000,
+      },
+      "mindful_impact" => {
+          "single" => 55,
+          "bundle" => 200,
+      },
   },
 );
 

@@ -168,8 +168,8 @@ if($what_kinda_event eq "bold_life_tribe") {
   $title = rpl::Functions::get_title($rpl::Constants::event_title_prefixes{$what_kinda_event});
 }
 
-my $single_price = $rpl::Constants::pricing_table{$original_what_kinda_event}{"single"} || 9999;
-my $bundle_price = $rpl::Constants::pricing_table{$original_what_kinda_event}{"bundle"} || 99999;
+my $single_price = $rpl::Constants::pricing_table{$original_what_kinda_event}{$what_kinda_event}{"single"} || 9999;
+my $bundle_price = $rpl::Constants::pricing_table{$original_what_kinda_event}{$what_kinda_event}{"bundle"} || 99999;
 
 print("If this fails, add Constants::event_tag_hashes{$what_kinda_event}\n");
 my %taghash = %{$rpl::Constants::event_tag_hashes{$what_kinda_event}};
