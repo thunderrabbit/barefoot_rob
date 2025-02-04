@@ -187,9 +187,9 @@ Once we begin the Welcome Circle and orientation, sorry, we can let no one enter
 #### Fine print
 
 Must be 18+ to attend.
-<br>This is a sober event - please do not attend under the influence.
+<br>This is a sober event - do not attend under the influence.
 
-CANCELLATION: Please let me know if you cannot come.
+CANCELLATION:
 <br>Tickets are nonrefundable, but credit for future events
 will be provided for cancellations up until the day of the event.
 
