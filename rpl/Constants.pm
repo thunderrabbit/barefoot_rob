@@ -37,11 +37,10 @@ our %cuddle_party_files = (
     ],
     "mindful_impact" => [
       "$event_templates/cuddle_party/mindful_impact/mindful_impact.en.md",
-      "$event_templates/cuddle_party/mindful_impact/mindful_impact.ja.md",
       "$event_templates/cuddle_party/mindful_impact/mindful_impact.meetup.txt",
       "$event_templates/cuddle_party/mindful_impact/mindful_impact.eventbrite.txt",
       "$event_templates/cuddle_party/mindful_impact/mindful_impact.facebook.txt",
-      "$event_templates/cuddle_party/mindful_impact/mindful_impact.peatix.txt",
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.humanitix.txt",
       "$event_templates/cuddle_party/mindful_impact/mindful_impact.welcome_email.txt",
     ],
     "yoga_study_center" => [
