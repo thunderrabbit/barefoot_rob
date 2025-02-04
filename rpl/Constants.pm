@@ -20,8 +20,14 @@ our $slow_down_book_dir = "/books/slow-down";    #  appended to $content_directo
 
 our %pricing_table = (
   "cuddle_party" => {
-      "single" => 5555,
-      "bundle" => 22000,
+      "sun_lily" => {
+          "single" => 5555,
+          "bundle" => 22000,
+      },
+      "mindful_impact" => {
+          "single" => 55,
+          "bundle" => 100,
+      },
   },
 );
 
@@ -34,6 +40,14 @@ our %cuddle_party_files = (
       "$event_templates/cuddle_party/sun_lily/sun_lily.facebook.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.peatix.txt",
       "$event_templates/cuddle_party/sun_lily/sun_lily.welcome_email.txt",
+    ],
+    "mindful_impact" => [
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.en.md",
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.meetup.txt",
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.eventbrite.txt",
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.facebook.txt",
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.humanitix.txt",
+      "$event_templates/cuddle_party/mindful_impact/mindful_impact.welcome_email.txt",
     ],
     "yoga_study_center" => [
       "$event_templates/cuddle_party/yoga_study_center/yoga_study_center.en.md",
@@ -223,6 +237,7 @@ our %gather_minutes_before_event = (
     "shin_yuri_manpukuji_park" => "30",
     "hossawa_falls" => "30",
     "hikarie_to_foot_bath" => "15",
+    "mindful_impact" => "5",
 );
 
 our %event_locations = (
@@ -237,6 +252,7 @@ our %event_locations = (
     "shin_yuri_art_park" => "Shin Yuri Art Park (near Shinyurigaoka)",
     "shin_yuri_manpukuji_park" => "Manpukuji Hiyama Park (near Shinyurigaoka)",
     "sun_lily" => "SunLily Yoga Studio (Setagaya)",
+    "mindful_impact" => "Mindful Impact (Crafers)",
     "yoga_study_center" => "Yoga Study Center (Yokohama)",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
@@ -260,6 +276,7 @@ our %event_tag_hashes = (
     "shin_yuri_art_park" => {%walk_and_talk_tags, ("art_park" => 1, "新百合ヶ丘駅" => 1)},
     "shin_yuri_manpukuji_park" => {%walk_and_talk_tags, ("manpukuji" => 1, "hiyama" => 1, "万福寺檜山公園" => 1, "新百合ヶ丘駅" => 1)},
     "sun_lily" => {%cuddle_party_tags, ("sunlily" => 1, "ikejiri-ohashi" => 1)},
+    "mindful_impact" => {%cuddle_party_tags, ("adelaide" => 1, "mindful-impact" => 1, "crafers" => 1, "pizza" => 1)},
     "yoga_study_center" => {%cuddle_party_tags, ("yogastudycenter" => 1, "yokohama" => 1, "kannai" => 1, "nihon-odori" => 1)},
     "todoroki_valley" => {%walk_and_talk_tags, ("todoroki" => 1, "等々力渓谷" => 1, "city" => 1)},
     "hikarie_to_foot_bath" => {%walk_and_talk_tags, ("shibuya" => 1, "hikarie" => 1, "toyoko" => 1)},

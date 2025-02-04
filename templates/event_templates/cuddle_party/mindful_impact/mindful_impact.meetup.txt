@@ -1,0 +1,168 @@
+https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
+https://www.meetup.com/all-things-emotion/schedule/
+
+title:       %s
+date HUMANDATE   EVENT_TIME
+
+Click duration --> 3 hours
+
+(HUMANDATE  THREE_HOURS_AFTER_EVENT_TIME)
+
+episode_image
+
+# What is a Cuddle Party?
+　
+A Cuddle Party is a non-sexual social event where participants practice communication and optionally explore platonic touch. Attendees practice setting clear boundaries, communicating their desires, and respecting each others' limits in a safe space.
+　
+Cuddle Parties provide an opportunity for nurturing, platonic touch and intimacy, which supports well-being and balanced emotions.
+　
+While sexual activity is prohibited at Cuddle Parties, some light touching like hugs, caresses, and snuggling is allowed between consenting attendees.
+　
+At a Cuddle Party, physical contact is optional. The primary goals of a Cuddle Party are to practice exploring consent and communication with others.
+　
+# What do we do at a Cuddle Party?
+　
+We do two main things at Cuddle Parties:
+　
+1. Practice consent.
+  A key part of Cuddle Parties is learning how to communicate your desires and how to respect others' requests.
+2. Consensual platonic touch.
+  Optionally experience and appreciate caring touch from other like-minded people.
+　
+We’ll start with an Welcome Circle to get us settled. We’ll then go through the rules of Cuddle Party in a mini communication workshop, allowing participants to practice inner awareness and clear expression of boundaries.
+　
+After the communication workshop, we'll have 2 hours of Self-Directed Connection
+　
+    This is a time for you to ask for what you want, say yes and no to requests and invitations, cuddle according to your desires and comfort (or just talk if you prefer), connect with fascinating people, "cuddle mingle," and, ultimately, relax into the flow of an unusually playful and respectful social environment.
+　
+    Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6: You are encouraged to change your mind.
+　
+    from: https://cuddleparty.com/what-is-a-cuddle-party/
+　
+We'll finish with a closing circle to reflect on our experience.
+　
+# Benefits
+　
+* "allow your inner child to play and express and receive love through the power of touch."
+* "I felt I received a lot of healing from receiving and giving affection and touch."
+* Reduce Stress and Anxiety
+* Boost Mood and Emotional Resilience
+* Support Healing from Touch Deprivation
+* Enhance Emotional Awareness and Self-Expression
+* Practice Clear and Respectful Boundaries
+* Increase Comfort with Asking and Declining
+* Promote Non-Verbal Communication Awareness
+* Build a Sense of Community
+* Encourage Authenticity and Vulnerability
+* Provide a Safe Space for Intimacy (without Sex)
+* Develop Confidence in Setting Boundaries
+* Increase Comfort with Physical Affection in Friendships
+* Encourage a Lighthearted, Playful Atmosphere
+* Unplug from Screens and Social Media
+　
+# Who Might Benefit the Most?
+　
+* People who feel touch-deprived or lonely.
+* Those looking to practice setting and respecting boundaries.
+* Individuals recovering from past relationship challenges.
+* Anyone wanting to increase their emotional intelligence and communication skills.
+* People seeking a supportive, community-oriented space.
+　
+# Testimonials
+　
+It was a great event. Thank you so much.    Hope more and more people will join the event.   For us Japanese, we don't communicate that much by hugging, but I think people need it. Hugging helps people a lot to be feeling safe.   It was a great workshop.　
+    ー Lily　
+　
+Rob, you are fantastic.  There really should be more events like this, which have great potential to heal this broken world.   Our society would be so much better if we learned this type of communication at school instead of things like algebra and geometry that most of us never use and forget as soon as the course is over.　
+    ー Andy Boerger　
+　
+Rob definitely created a safe space for strangers coming together at a Cuddle Party to connect with one another in a warm, confident, fun, playful and loving way. He was able to demonstrate very quickly how to use curiousity to explore play and touch in an intimate yet platonic setting.　
+　
+I had such a fun time, it was beyond my expectation of what a Cuddle Party is in my mind. I felt I received a lot of healing from receiving and giving affection and touch. It was fun to connect with the other participants as well.　
+　
+I highly recommend this experience to anyone who is looking for connection, willing to allow their inner child to play and express and receive love through the power of touch. I definitely will be coming back again!　
+    ー Jess X Goh　
+　
+　
+# When
+　
+HUMANDATE
+　
+Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settled and start our Welcome Circle at EVENT_TIME.
+　
+# Where
+　
+[Mindful Impact](https://mindfulimpact.com.au/studio) in Crafers
+　
+# Cost
+　
+* $TICKET_PRICE for 1 person
+
+RSVP on Humanitix TICKET_LINK
+
+# Includes
+
+Vegan pizza from Crafers Pizza Bar
+
+# Please Bring
+
+* a pillow or two
+* comfortable clothes (modest pyjamas)
+
+# Arrive On Time
+
+Once we begin the Welcome Circle and orientation, sorry, we can let no one enter late. This creates comfort and safety by knowing that everyone is on the same page about rules and expectations.
+
+# Fine print
+　
+Must be 18+ to attend.
+This is a sober event - do not attend under the influence.
+　
+CANCELLATION: Tickets are nonrefundable if you cancel, but credit for future events will be provided for cancellations up until the day of the event.  You will receive a refund if you attend the Welcome Circle and decide not to stay for the cuddle portion of the event.
+　
+# Your Facilitator, Rob Nugen
+　
+I have a passion for connecting with the world around me, especially walking barefoot. This helps me to stay grounded, and appreciate the beauty of the present moment.
+
+I established a men’s peer counseling group in Tokyo in 2015, and have been conducting in-person workshops in both Japan and Australia since 2018.
+
+    Rob is amazing. He is a perfect facilitator in every way.
+    He is caring, kind, self-effacing, honest. Ten out of ten.
+
+    ー Andy Boerger
+
+----------------------------------------
+TOPICS  FEEL FREE TO CHANGE:
+* Wellness
+* Stress Management
+* Relaxation
+* Cuddling
+
+　
+UNSELECT Make this an online event
+　
+CLICK
+
+Mindful Impact
+Shops 5-7, 5 Main Street CRAFERS SA 5152
+
+　
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+How to find us:
+Welcome Pack will be sent after RSVP
++++++++++++++++++++++++++++++++++++++++++++++++
+　
+
+　
+Optional settings
+　
+RSVP close time:  1 day before
+
+Event fee:  ON
+　
+Publish
+
+Announce it now
