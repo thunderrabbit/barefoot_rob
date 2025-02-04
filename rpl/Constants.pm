@@ -26,7 +26,7 @@ our %pricing_table = (
       },
       "mindful_impact" => {
           "single" => 55,
-          "bundle" => 200,
+          "bundle" => 100,
       },
   },
 );

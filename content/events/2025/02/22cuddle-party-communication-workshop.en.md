@@ -1,15 +1,15 @@
 ---
-title: "Cuddle Party communication workshop in Adelaide Hills"
-tags: [ "2025", "Barefoot Rob", "communication", "consent", "cuddle-party", "february", "platonic touch", "workshop", "裸足のロブ" ]
+title: "Cuddle Party Communication Workshop"
+tags: [ "2025", "Barefoot Rob", "adelaide", "communication", "consent", "crafers", "cuddle-party", "february", "mindful-impact", "pizza", "platonic touch", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2025-02-04T07:12:01+10:30
+date: 2025-02-04T19:22:55+10:30
 EventLocation: "Mindful Impact (Crafers)"
 EventTime: "18:00"
 TimeDescription: "gather by 17:50 at Mindful Impact (Crafers)"
-EventDate: "2025-02-21T18:00:00+10:30"
+EventDate: "2025-02-22T18:00:00+10:30"
 EventType: "Cuddle Party"
 aliases: [
-    "/en/events/2025/02/21cuddle-party-communication-workshop-in-adelaid-hills",
+    "/en/events/2025/02/22cuddle-party-communication-workshop",
 ]
 ---
 
@@ -49,7 +49,7 @@ exploring consent and communication with others.
 
 #### RSVP on Humanitix
 
-TICKETLINK
+https://events.humanitix.com/cuddle-party-communication-workshop
 
 #### What do we do at a Cuddle Party?
 
@@ -69,7 +69,7 @@ in a mini communication workshop, allowing participants
 to practice inner awareness and clear expression of boundaries.
 
 After the communication workshop,
-we'll have 2 or more hours of Self-Directed Connection
+we'll have 2 hours of Self-Directed Connection
 
     Now it is time for you to ask for what you want, say yes and no to
     requests and invitations, cuddle according to your desires and comfort
@@ -91,11 +91,30 @@ We'll finish with a closing circle to reflect on our experience.
 
 #### Benefits
 
-Clear communication allows more harmonious relationships,
-regardless of the context.
+* "allow your inner child to play and express and receive love through the power of touch."
+* "I felt I received a lot of healing from receiving and giving affection and touch."
+* Reduce Stress and Anxiety
+* Boost Mood and Emotional Resilience
+* Support Healing from Touch Deprivation
+* Enhance Emotional Awareness and Self-Expression
+* Practice Clear and Respectful Boundaries
+* Increase Comfort with Asking and Declining
+* Promote Non-Verbal Communication Awareness
+* Build a Sense of Community
+* Encourage Authenticity and Vulnerability
+* Provide a Safe Space for Intimacy (without Sex)
+* Develop Confidence in Setting Boundaries
+* Increase Comfort with Physical Affection in Friendships
+* Encourage a Lighthearted, Playful Atmosphere
+* Unplug from Screens and Social Media
 
-Nurturing and consensual touch supports a healthy life,
-strong nervous system, and balanced emotions.
+#### Who Might Benefit the Most?
+
+* People who feel touch-deprived or lonely.
+* Those looking to practice setting and respecting boundaries.
+* Individuals recovering from past relationship challenges.
+* Anyone wanting to increase their emotional intelligence and communication skills.
+* People seeking a supportive, community-oriented space.
 
 <img
 src="https://b.robnugen.com/blog/2023/cuddle_party_circle.jpg"
@@ -156,7 +175,7 @@ class="title" />
 
 #### When
 
-Friday 21 February 2025
+Saturday 22 February 2025
 
 Please arrive between 17:45 and 17:50
 so we can be settled and start our Welcome Circle at 18:00.
@@ -165,11 +184,12 @@ so we can be settled and start our Welcome Circle at 18:00.
 
 [Mindful Impact](https://mindfulimpact.com.au/studio) in Crafers
 
-#### Cost
+#### Tickets
 
 * $55 for 1 person
+* $100 for 2 people
 
-[Buy tickets on Humanitix](TICKETLINK)
+RSVP on Humanitix https://events.humanitix.com/cuddle-party-communication-workshop
 
 #### Includes
 
@@ -190,20 +210,13 @@ Must be 18+ to attend.
 <br>This is a sober event - do not attend under the influence.
 
 CANCELLATION:
-<br>Tickets are nonrefundable, but credit for future events
+<br>Tickets are nonrefundable if you cancel, but credit for future events
 will be provided for cancellations up until the day of the event.
+You will receive a refund if you attend the Welcome Circle
+and decide not to stay for the cuddle portion of the event.
 
-#### About me, Rob Nugen
+#### Your Facilitator, Rob Nugen
 
-I have a passion for connecting with the world around me,
-especially walking barefoot. This helps me to stay grounded,
-and appreciate the beauty of the present moment.
+I help ambitious men to discover their gold on a journey into the divine masculine. I guide men who feel overwhelmed by their past and "traditional" masculinity to break away from their inner demons of self-defeat and shame through transformative shadow work, space holding and circle work.
 
-I established a men’s peer counseling group
-in Tokyo in 2015, and conducting in-person
-workshops in both Japan and Australia since 2018.
-
-    Rob is amazing. He is a perfect facilitator in every way.
-    He is caring, kind, self-effacing, honest. Ten out of ten.
-
-    ー Andy Boerger
+I am a TedX speaker, barefoot walker for over 20 years, trained and run men circles with ManKind Project since 2015. I made a powerful decision to release myself from a 12 year marriage that had become untenable. Now I'm with my dream woman who matches my values and offers the love I desire.

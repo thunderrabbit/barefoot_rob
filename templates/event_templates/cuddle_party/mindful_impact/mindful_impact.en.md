@@ -184,9 +184,10 @@ so we can be settled and start our Welcome Circle at EVENT_TIME.
 
 [Mindful Impact](https://mindfulimpact.com.au/studio) in Crafers
 
-#### Cost
+#### Tickets
 
 * $TICKET_PRICE for 1 person
+* $BUNDLE_PRICE for 2 people
 
 RSVP on Humanitix TICKET_LINK
 
@@ -216,16 +217,6 @@ and decide not to stay for the cuddle portion of the event.
 
 #### Your Facilitator, Rob Nugen
 
-I have a passion for connecting with the world around me,
-especially walking barefoot. This helps me to stay grounded,
-and appreciate the beauty of the present moment.
+I help ambitious men to discover their gold on a journey into the divine masculine. I guide men who feel overwhelmed by their past and "traditional" masculinity to break away from their inner demons of self-defeat and shame through transformative shadow work, space holding and circle work.
 
-I established a men’s peer counseling group
-in Tokyo in 2015, and have been conducting in-person
-workshops in both Japan and Australia since 2018.
-
-
-    Rob is amazing. He is a perfect facilitator in every way.
-    He is caring, kind, self-effacing, honest. Ten out of ten.
-
-    ー Andy Boerger
+I am a TedX speaker, barefoot walker for over 20 years, trained and run men circles with ManKind Project since 2015. I made a powerful decision to release myself from a 12 year marriage that had become untenable. Now I'm with my dream woman who matches my values and offers the love I desire.
