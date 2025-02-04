@@ -17,7 +17,7 @@ Next: Tickets
 Paid Ticket +
 
 Ticket Type     Price      Quantity
-One attendee    ¥ TICKET_PRICE　　　8
+One attendee    AUD TICKET_PRICE　　　8
 
 settings:  Discount Code    new price 0
 
