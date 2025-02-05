@@ -194,6 +194,9 @@ if($original_what_kinda_event eq "cuddle_party") {
   $peatix_prefix = sprintf($template, $event_date_time->day, lc($event_date_time->month_name), $event_date_time->year);
   $suggested_ticket_link = "https://" . $peatix_prefix . ".peatix.com/";
 
+  if($what_kinda_event eq "mindful_impact") {
+    $suggested_ticket_link = "https://events.humanitix.com/cuddle-party-communication-workshop"
+  }
 }
 
 # Create alt-text for (title) image
