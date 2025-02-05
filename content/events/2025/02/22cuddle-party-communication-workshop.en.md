@@ -2,7 +2,7 @@
 title: "Cuddle Party Communication Workshop"
 tags: [ "2025", "Barefoot Rob", "adelaide", "communication", "consent", "crafers", "cuddle-party", "february", "mindful-impact", "pizza", "platonic touch", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2025-02-04T19:22:55+10:30
+date: 2025-02-05T22:57:50+10:30
 EventLocation: "Mindful Impact (Crafers)"
 EventTime: "18:00"
 TimeDescription: "gather by 17:50 at Mindful Impact (Crafers)"
@@ -182,7 +182,9 @@ so we can be settled and start our Welcome Circle at 18:00.
 
 #### Where
 
-[Mindful Impact](https://mindfulimpact.com.au/studio) in Crafers
+Mindful Impact Wellness Hub in Crafers
+
+https://mindfulimpact.com.au/studio
 
 #### Tickets
 
