@@ -4,43 +4,38 @@ title:       %s
 
 Organizer Rob Nugen
 
-Type: Class, Training, or Workshop
-Category: Health and Wellness
-Subcategory: Personal Health
+When does your event start and end?
 
-Tags: boundaries, communication, consent, cuddleparty, mindfulness, platonic_touch, wellness, workshop
+Date: HUMANDATE
+Start time: EVENT_TIME
+Ends time: THREE_HOURS_AFTER_EVENT_TIME
 
 Venue
 
-Mindful Impact
+Mindful Impact Wellness Hub
+
 Shops 5-7, 5 Main Street CRAFERS SA 5152
 
-DATE AND TIME
+# How much do you charge for tickets?
 
-Single Event
+* $TICKET_PRICE for 1 person
 
-Starts: HUMANDATE EVENT_TIME
+# What's the capacity of your event?    15  <-- hardcoded15
 
-Ends: HUMANDATE THREE_HOURS_AFTER_EVENT_TIME
+[Create event]
 
-Display Start Time
-Display End Time
-
-Time Zone GMT+1030 Adelaide Time
-
-Language English
-
-Save とか
+[Click edit]
 
 episode_image
 
-(drag image to place it nicely)
+(drag focus to align it nicely)
 
 Summary:
 
 Join the Cuddle Party revolution! A communication workshop promoting consent, boundaries, & the health of platonic touch. #CuddleParty
 
-Description
+
+Description (copy one section of text then insert image, repeat)
 
 # What is a Cuddle Party?
 
@@ -79,30 +74,30 @@ We'll finish with a closing circle to reflect on our experience.
 
 # Benefits
 
-* "allow your inner child to play and express and receive love through the power of touch."
-* "I felt I received a lot of healing from receiving and giving affection and touch."
-* Reduce Stress and Anxiety
-* Boost Mood and Emotional Resilience
-* Support Healing from Touch Deprivation
-* Enhance Emotional Awareness and Self-Expression
-* Practice Clear and Respectful Boundaries
-* Increase Comfort with Asking and Declining
-* Promote Non-Verbal Communication Awareness
-* Build a Sense of Community
-* Encourage Authenticity and Vulnerability
-* Provide a Safe Space for Intimacy (without Sex)
-* Develop Confidence in Setting Boundaries
-* Increase Comfort with Physical Affection in Friendships
-* Encourage a Lighthearted, Playful Atmosphere
-* Unplug from Screens and Social Media
+Allow your inner child to play and express and receive love through the power of touch.
+Receive healing from receiving and giving affection and touch.
+Reduce Stress and Anxiety
+Boost Mood and Emotional Resilience
+Support Healing from Touch Deprivation
+Enhance Emotional Awareness and Self-Expression
+Practice Clear and Respectful Boundaries
+Increase Comfort with Asking and Declining
+Promote Non-Verbal Communication Awareness
+Build a Sense of Community
+Encourage Authenticity and Vulnerability
+Provide a Safe Space for Intimacy (without Sex)
+Develop Confidence in Setting Boundaries
+Increase Comfort with Physical Affection in Friendships
+Encourage a Lighthearted, Playful Atmosphere
+Unplug from Screens and Social Media
 
 # Who Might Benefit the Most?
 
-* People who feel touch-deprived or lonely.
-* Those looking to practice setting and respecting boundaries.
-* Individuals recovering from past relationship challenges.
-* Anyone wanting to increase their emotional intelligence and communication skills.
-* People seeking a supportive, community-oriented space.
+People who feel touch-deprived or lonely.
+Those looking to practice setting and respecting boundaries.
+Individuals recovering from past relationship challenges.
+Anyone wanting to increase their emotional intelligence and communication skills.
+People seeking a supportive, community-oriented space.
 
 https://b.robnugen.com/blog/2023/cuddle_party_circle_650.jpg
 
@@ -129,7 +124,8 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 
 # Where
 
-5 minutes walk from Ikejiri-Ohashi Station (Details upon RSVP)
+Mindful Impact Wellness Hub in Crafers
+https://mindfulimpact.com.au/studio
 
 # Tickets
 
@@ -154,7 +150,7 @@ Once we begin the Welcome Circle and orientation, sorry, we can let no one enter
 Must be 18+ to attend.
 This is a sober event - do not attend under the influence.
 
-CANCELLATION: Tickets are nonrefundable if you cancel, but credit for future events will be provided for cancellations up until the day of the event.  You will receive a refund if you attend the Welcome Circle and decide not to stay for the cuddle portion of the event.
+CANCELLATION: Tickets are nonrefundable if you cancel, but you will receive a refund if you attend the Welcome Circle and decide not to stay for the cuddle portion of the event.
 
 # Your Facilitator, Rob Nugen
 
@@ -167,14 +163,16 @@ Agenda:
 Welcome Circle
 
 EVENT_TIME   EVENT_TIME +1 hour
+
 The Welcome Circle sets the stage for a nurturing and connected Cuddle Party experience. During this one-hour communication workshop, we get to know each other by introducing ourselves and acquainting you with the fundamental Cuddle Party rules.
+
 Additionally, we provide helpful communication techniques and participate in engaging icebreaker activities to ensure everyone feels at ease. This warm and inviting environment is perfect for newcomers to forge lasting connections.
 
-+ Add Agenda Item
++ Add slot
 
 Self-Directed Connection
 
-EVENT_TIME +1 hour  -  15_B4_RENTAL_ENDS
+EVENT_TIME +1 hour  -  THREE_HOURS_AFTER_EVENT_TIME
 
 If you choose to stay after the communication workshop, we'll have 2 or more hours of Self-Directed Connection
 
@@ -183,6 +181,15 @@ This is time for you to ask for what you want, say yes and no to requests and in
 Some participants cuddle in groups, others one-on-one, while some like to talk and not cuddle for a time, or not at all. Cuddling can mean feet against feet, full-body hugs, head-rubs, spooning — it is, indeed, up to you. And, configurations and positions shift significantly throughout the event, thanks in part to Rule 6 You are encouraged to change your mind.
 
 SAVE AND CONTINUE
+
+
+Type: Class, Training, or Workshop
+Category: Health and Wellness
+Subcategory: Personal Health
+
+Tags: boundaries, communication, consent, cuddleparty, mindfulness, platonic_touch, wellness, workshop
+
+
 
 
 Next: Tickets

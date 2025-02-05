@@ -182,7 +182,9 @@ so we can be settled and start our Welcome Circle at EVENT_TIME.
 
 #### Where
 
-[Mindful Impact](https://mindfulimpact.com.au/studio) in Crafers
+Mindful Impact Wellness Hub in Crafers
+
+https://mindfulimpact.com.au/studio
 
 #### Tickets
 
