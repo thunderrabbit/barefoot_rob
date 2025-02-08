@@ -2,7 +2,7 @@
 title: "Cuddle Party Communication Workshop"
 tags: [ "2025", "Barefoot Rob", "adelaide", "communication", "consent", "crafers", "cuddle-party", "february", "mindful-impact", "pizza", "platonic touch", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2025-02-05T22:57:50+10:30
+date: 2025-02-08T16:39:28+10:30
 EventLocation: "Mindful Impact (Crafers)"
 EventTime: "18:00"
 TimeDescription: "gather by 17:50 at Mindful Impact (Crafers)"
@@ -34,7 +34,7 @@ and balanced emotions.
 
 While sexual activity is prohibited at Cuddle Parties,
 some light touching like hugs, caresses, and
-snuggling is allowed between consenting attendees.
+snuggling is allowed between consenting attendees of all genders.  LGBTQ+ friendly!
 
 [![cuddle party hands](//b.robnugen.com/blog/2023/thumbs/cuddle_party_hands.jpg)](//b.robnugen.com/blog/2023/cuddle_party_hands.jpg)
 [![cuddle party spooning](//b.robnugen.com/blog/2023/thumbs/cuddle_party_spooning.jpg)](//b.robnugen.com/blog/2023/cuddle_party_spooning.jpg)
