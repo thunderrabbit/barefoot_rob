@@ -223,6 +223,7 @@ foreach my $extension (keys %event_templates) {
   }
   my $human_date = $event_date_time->strftime("%A %d %B %Y");  # https://metacpan.org/pod/DateTime#strftime-Patterns
   my $short_date = rpl::Functions::ordinate($event_date_time->strftime("%B %d"));  # https://metacpan.org/pod/DateTime#strftime-Patterns
+  my $date_month = rpl::Functions::ordinate($event_date_time->strftime("%d")) . $event_date_time->strftime(" %B");
   my $date_14_days_before = $t_minus_14_days_date->strftime("%A %d %B %Y");
   my $date_07_days_before = $t_minus_07_days_date->strftime("%A %d %B %Y");
   my $event_yyyy = $event_date_time->year;   # https://metacpan.org/pod/DateTime
@@ -231,12 +232,14 @@ foreach my $extension (keys %event_templates) {
   my $event_h = $event_date_time->hour;      # e.g. 15
   my $event_h12ap = $event_date_time->hour_12 . $event_date_time->am_or_pm;    # e.g. 3pm
   my $event_minute = $event_date_time->minute;
-  my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # 24 hour format
+  my $event_day_month_date = rpl::Functions::ordinate($event_date_time->strftime("%A, %B %d"));  # Saturday, February 22nd
+  my $event_day_date_month = rpl::Functions::ordinate($event_date_time->strftime("%A %d")) . $event_date_time->strftime(" %B");  # Saturday 22nd February
   my $event_time = $event_date_time->strftime("%H:%M");  # 24 hour format
   my $event_time_plus_ten = $event_date_time->clone->add( minutes => 10 )->strftime("%H:%M");      # Only used for Manpukuji Hiyama (ten minutes walk from 新百合ヶ丘駅)
   my $event_time_plus_180 = $event_date_time->clone->add( minutes => 180 )->strftime("%H:%M");      # Used for Cuddle Party end time
   my $event_finished_by_time = $event_will_finish_dt->strftime("%H:%M");
   my $first_gathering_TIME = $first_gathering_time->strftime("%H:%M");
+  my $first_gathering_h12ap = $first_gathering_time->hour_12 . $first_gathering_time->strftime(":%M") . $first_gathering_time->am_or_pm;    # e.g. 3pm
   my $event_location = $rpl::Constants::event_locations{$what_kinda_event};
   $mt3_episode_output =~ s/TOPIC_LINE/$topic/;
   $mt3_episode_output =~ s/BLURB_BLOCK/$blurb/;
@@ -244,20 +247,23 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   $mt3_episode_output =~ s/EVENT_LOCATION/$event_location/g;
   $mt3_episode_output =~ s/SHORTDATE/$short_date/g;
+  $mt3_episode_output =~ s/DATEMONTH/$date_month/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
+  $mt3_episode_output =~ s/EVENT_DAY_DATE_MONTH/$event_day_date_month/g;   # for reminders
   $mt3_episode_output =~ s/EVENT_DAY_MONTH_DATE/$event_day_month_date/g;   # for reminders
   $mt3_episode_output =~ s/T_MINUS_14_DAYS_DATE/$date_14_days_before/g;    # for reminders
   $mt3_episode_output =~ s/T_MINUS_07_DAYS_DATE/$date_07_days_before/g;    # for reminders
   $mt3_episode_output =~ s/EVENT_YYYY/$event_yyyy/g;
+  $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
   $mt3_episode_output =~ s/EVENT_M/$event_m/g;
   $mt3_episode_output =~ s/EVENT_D/$event_d/g;
   $mt3_episode_output =~ s/EVENT_H/$event_h/g;
-  $mt3_episode_output =~ s/EVENT_H12ap/$event_h12ap/g;
   $mt3_episode_output =~ s/EVENT_TIME_PLUS_10/$event_time_plus_ten/g;
   $mt3_episode_output =~ s/THREE_HOURS_AFTER_EVENT_TIME/$event_time_plus_180/g;
   $mt3_episode_output =~ s/ARRIVE_BY_TIME/$arrive_by_time/g;
   $mt3_episode_output =~ s/EVENT_TIME/$event_time/g;
   $mt3_episode_output =~ s/15_B4_RENTAL_ENDS/$event_finished_by_time/g;
+  $mt3_episode_output =~ s/FIRST_GATHERING_TIME_12h/$first_gathering_h12ap/g;
   $mt3_episode_output =~ s/FIRST_GATHERING_TIME/$first_gathering_TIME/g;
   $mt3_episode_output =~ s/FIRST_DEPARTURE_TIME/$first_departure_time/g;
   $mt3_episode_output =~ s/IZUMI_DEPARTURE_TIME/$izumi_departure_time/g;

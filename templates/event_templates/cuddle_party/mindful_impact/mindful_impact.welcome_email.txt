@@ -1,4 +1,4 @@
-title:      Welcome Pack for DATEMONTH Cuddle Party!
+title:      Welcome Guide for DATEMONTH Cuddle Party!
 
 WELCOME!
 
@@ -22,7 +22,7 @@ EXPECTATIONS
 
 PUNCTUALITY
 
-You must arrive by the start of the Welcome Circle, which will begin at EVENT_TIME_12h.
+You must arrive by the start of the Welcome Circle, which will begin at EVENT_H12ap.
 
 Feel free to arrive early: doors open at FIRST_GATHERING_TIME_12h for the event on EVENT_DAY_DATE_MONTH.
 
