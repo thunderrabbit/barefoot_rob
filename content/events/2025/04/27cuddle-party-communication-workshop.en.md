@@ -2,7 +2,7 @@
 title: "Cuddle Party Communication Workshop"
 tags: [ "2025", "Barefoot Rob", "adelaide", "april", "communication", "consent", "crafers", "cuddle-party", "mindful-impact", "pizza", "platonic touch", "workshop", "裸足のロブ" ]
 author: Rob Nugen
-date: 2025-02-18T18:49:02+10:30
+date: 2025-02-23T11:43:26+10:30
 EventLocation: "Mindful Impact (Crafers)"
 EventTime: "13:00"
 TimeDescription: "gather by 12:50 at Mindful Impact (Crafers)"
@@ -212,10 +212,10 @@ Must be 18+ to attend.
 <br>This is a sober event - do not attend under the influence.
 
 CANCELLATION:
-<br>Tickets are nonrefundable if you cancel, but credit for future events
+<br>Tickets are nonrefundable if you cancel or no-show, but credit for future events
 will be provided for cancellations up until the day of the event.
 You will receive a refund if you attend the Welcome Circle
-and decide not to stay for the cuddle portion of the event.
+and decide to leave before the cuddle portion of the event.
 
 #### Your Facilitator, Rob Nugen
 
