@@ -212,10 +212,10 @@ Must be 18+ to attend.
 <br>This is a sober event - do not attend under the influence.
 
 CANCELLATION:
-<br>Tickets are nonrefundable if you cancel, but credit for future events
+<br>Tickets are nonrefundable if you cancel or no-show, but credit for future events
 will be provided for cancellations up until the day of the event.
 You will receive a refund if you attend the Welcome Circle
-and decide not to stay for the cuddle portion of the event.
+and decide to leave before the cuddle portion of the event.
 
 #### Your Facilitator, Rob Nugen
 
