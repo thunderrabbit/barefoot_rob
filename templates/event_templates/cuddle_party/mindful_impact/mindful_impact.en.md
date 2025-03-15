@@ -139,15 +139,17 @@ class="title" />
 </div>
 <div>
 
-    Rob, you are fantastic.
-    There really should be more events like this,
-    which have great potential to heal this broken world.
-    Our society would be so much better if we learned
-    this type of communication at school instead of things
-    like algebra and geometry that most of us never use and
-    forget as soon as the course is over.
+    I attended the cuddle party in February.
+    It had a profound impact on my nervous system.
+    The exercises we did while learning were heaps of fun.
+    I felt like I was a kid again.
+    It was a real joy to be learning through play,
+    about communication with myself and others about touch.
+    I would highly recommend it to all people.
+    I hope one day to live in a society where non sexual
+    touch is a welcomed, consensual form of communication.
 
-    ー Andy Boerger
+    ー Brett Waller
 
 </div>
 <div>
