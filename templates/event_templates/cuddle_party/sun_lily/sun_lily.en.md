@@ -199,8 +199,3 @@ back into connection after an isolating pandemic.
 I have been running a men’s peer counseling group
 in Tokyo since 2015, and conducting in-person
 workshops in both Tokyo and Kanagawa since 2018.
-
-    Rob is amazing. He is a perfect facilitator in every way.
-    He is caring, kind, self-effacing, honest. Ten out of ten.
-
-    ー Andy Boerger
