@@ -2,13 +2,14 @@
 title: "14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2025", "Clare", "april", "art_park", "barefoot", "event", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2025-03-24T23:14:03+10:30
+date: 2025-03-26T04:33:04+10:30
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
-EventDate: "2025-04-03T14:00:00+09:00"
+EventDate: "2025-04-05T14:00:00+09:00"
 EventType: "裸足のアーシング"
 aliases: [
+    "/ja/events/2025/04/05yay-springtime-barefoot-in-shin-yuri-art-park",
     "/ja/events/2025/04/03yay-springtime-barefoot-in-shin-yuri-art-park",
 ]
 ---
@@ -25,13 +26,13 @@ aliases: [
 
 #### 第一集合場所
 
-2025年4月3日　13:30
+2025年4月5日　13:30
 
 新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第ニ集合場所は新ゆりアートパークスになります
 
-2025年4月3日　14:00
+2025年4月5日　14:00
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
