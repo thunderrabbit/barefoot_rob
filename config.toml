@@ -3,8 +3,14 @@ languageCode = "en-us"
 theme = [ "purehugo" ]
 rssLimit = 50
 defaultContentLanguageInSubdir = true
+
 [markup.goldmark.renderer]
 unsafe= true
+
+[markup.highlight]
+  noClasses = false
+  style = "github"
+
 [params]
     mainSections = ["events"]
   	author = "Rob Nugen"
