@@ -1,11 +1,11 @@
 ---
 title: "Cuddle Party Communication Workshop"
-tags: [ "2025", "Barefoot Rob", "adelaide", "april", "communication", "consent", "crafers", "cuddle-party", "mindful-impact", "pizza", "platonic touch", "workshop", "裸足のロブ" ]
+tags: [ "2025", "Barefoot Rob", "adelaide", "april", "communication", "consent", "crafers", "cuddle-party", "crafers", "pizza", "platonic touch", "workshop", "裸足のロブ" ]
 author: Rob Nugen
 date: 2025-02-23T11:43:26+10:30
-EventLocation: "Mindful Impact (Crafers)"
+EventLocation: "Crafers"
 EventTime: "13:00"
-TimeDescription: "gather by 12:50 at Mindful Impact (Crafers)"
+TimeDescription: "gather by 12:50 at a private venue in Crafers"
 EventDate: "2025-04-27T13:00:00+10:30"
 EventType: "Cuddle Party"
 aliases: [
