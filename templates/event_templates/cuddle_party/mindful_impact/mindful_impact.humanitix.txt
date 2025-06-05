@@ -12,10 +12,10 @@ End Time: THREE_HOURS_AFTER_EVENT_TIME
 
 Location (click Address)
 
-Address: Shops 5-7, 5 Main Street CRAFERS SA 5152
+Address: Crafers (don't allow walk-ins)
 
 Venue Name:
-Mindful Impact
+private venue in (Crafers)
 
 Privacy: Public
 
@@ -132,8 +132,9 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 
 # Where
 
-Mindful Impact Wellness Hub in Crafers
-https://mindfulimpact.com.au/studio
+Private venue in Crafers
+
+📍 **Note:** Exact address shared after a short phone chat once you're registered
 
 # Tickets
 

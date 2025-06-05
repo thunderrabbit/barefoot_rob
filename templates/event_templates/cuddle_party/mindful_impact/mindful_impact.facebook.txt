@@ -12,8 +12,7 @@ HUMANDATE  THREE_HOURS_AFTER_EVENT_TIME
 In person
 
 Add Location
-Mindful Impact
-Shops 5-7, 5 Main Street CRAFERS SA 5152
+Crafers (don't allow walk-ins)
 
 
 Public
@@ -101,8 +100,7 @@ Please arrive between FIRST_GATHERING_TIME and ARRIVE_BY_TIME so we can be settl
 
 === Where ===
 
-Mindful Impact Wellness Hub in Crafers
-https://mindfulimpact.com.au/studio
+Crafers ()
 
 === Tickets ===
 
@@ -156,7 +154,7 @@ TOPICS  FEEL FREE TO CHANGE:
 
 UNSELECT Make this an online event
 
-CLICK Mindful Impact
+CLICK Crafers
 
 CLICK Edit map pin
 
@@ -165,7 +163,7 @@ SLIDE MAP under pin
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 How to find us:
-Come to Mindful Impact by ARRIVE_BY_TIME
+Exact address shared after a short phone chat once you're registered
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 
