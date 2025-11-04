@@ -6,7 +6,7 @@
   <a href="/en/books/im-fine/" style="text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://b.robnugen.com/blog/2024/thumbs/im_fine_red_lower_1000.jpeg" alt="I'M FINE! book cover" style="max-height: 80px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
     <div style="color: white; text-align: left;">
-      <div style="font-size: 1.3em; font-weight: bold; margin-bottom: 5px;">📘 NEW BOOK: I'M FINE!</div>
+      <div style="font-size: 1.3em; font-weight: bold; margin-bottom: 5px;">📘 My new book: I'M FINE!</div>
       <div style="font-size: 0.9em; opacity: 0.95;">A Practical Guide to Managing Your Emotions → Click to Learn More</div>
     </div>
   </a>
