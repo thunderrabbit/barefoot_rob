@@ -55,7 +55,6 @@ EVENT_YYYY年EVENT_M月EVENT_D日　EVENT_TIME
 
 *期待すること*
 
-* イベントは、雨天決行です。
 * FIRST_DEPARTURE_TIMEに新百合ヶ丘駅を出発します。
 * EVENT_TIMEまでに新ゆりアートパークスに集合してください。
 * 公園では靴を脱いで、母なる大地とつながりましょう。
