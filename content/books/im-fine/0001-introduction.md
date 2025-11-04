@@ -28,6 +28,7 @@ so you can lead your outer world with confidence, purpose, and heart.
 📘 **Available on Kindle and paperback**
 
 * [USA](https://www.amazon.com/dp/B0FYQ3RHCV/)
+* [Canada](https://www.amazon.ca/dp/B0FYQ3RHCV/)
 * [Australia](https://www.amazon.com.au/dp/B0FYQ3RHCV/)
 * [Japan](https://www.amazon.co.jp/dp/B0FYQ3RHCV/)
 * [UK](https://www.amazon.co.uk/dp/B0FYQ3RHCV/)
