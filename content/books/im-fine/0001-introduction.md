@@ -8,7 +8,7 @@ draft: false
 
 # **I'M FINE!**
 
-<a href="https://www.amazon.com/dp/B0FYQ3RHCV/"><img src="https://b.robnugen.com/blog/2024/thumbs/im_fine_red_lower_1000.jpeg" alt="I'M FINE! book cover" style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 300px;"></a>
+<a href="https://booklink.shop/B0FYQ3RHCV"><img src="https://b.robnugen.com/blog/2024/thumbs/im_fine_red_lower_1000.jpeg" alt="I'M FINE! book cover" style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 300px;"></a>
 
 ## A Practical Guide to Managing Your Emotions
 

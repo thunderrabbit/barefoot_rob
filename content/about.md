@@ -8,6 +8,14 @@ aliases: [
 ]
 ---
 
+Author of <a href="https://booklink.shop/B0FYQ3RHCV">I'M FINE!: A Practical Guide To Managing Your Emotions To Strengthen Relationships With Loved Ones And Yourself</a>
+
+<a href="https://booklink.shop/B0FYQ3RHCV"><img src="https://b.robnugen.com/blog/2024/thumbs/im_fine_red_lower_1000.jpeg" alt="I'M FINE! book cover" style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 300px;"></a>
+
+This book is for ambitious men who know they can handle the pressure, but are starting to realize that keeping it all together takes more than just grinding harder.
+
+This book is for men like me, who’ve always wanted to do the right thing, but haven’t had the support, space, or language to actually deal with it. You don’t have to do it alone. Let’s walk this path together.
+
 <img
 src="//b.robnugen.com/blog/2024/2024_jan_About_Me_1000.jpg"
 alt="Rob Nugen"
