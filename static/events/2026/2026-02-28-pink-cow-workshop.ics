@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RobNugen.com//Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-02-28-pink-cow-workshop@robnugen.com
+DTSTAMP:20260117T032050Z
+DTSTART;TZID=Asia/Tokyo:20260228T170000
+DTEND;TZID=Asia/Tokyo:20260228T180000
+SUMMARY:Emotional Awareness Workshop at The Pink Cow
+DESCRIPTION:Join us for yummy food and deep connection at The Pink Cow! I'll be leading a one-hour workshop inspired by my book *I'M FINE*.\n\nWe'll begin with placing our orders from their delicious California-Mexican menu\, before connecting with a simple check-in circle\, and enjoy a few gentle\, engaging activities focused on emotional awareness.\n\nI'll also read a short section from my book… featuring my rarely-heard Texan accent 🤠\n\nThis is an easy\, welcoming introduction to the kind of work I do with men and mixed groups: noticing what's happening behind "I'm fine"\n\nThere's no workshop fee. Please just buy food and/or drinks at The Pink Cow to thank Traci and Naoya for their venue.\n\nAll are welcome. Come as you are.
+LOCATION:The Pink Cow\, Akasaka
+URL:https://www.thepinkcow.com/
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Emotional Awareness Workshop at The Pink Cow in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR
