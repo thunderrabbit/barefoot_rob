@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://www.thepinkcow.com/" "The Pink Cow" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2026/TPC_28_feb_2026_book_lunch_party_1000.png" "Join us for yummy food and deep connection at The Pink Cow!" %}}
 
 **Date:** Saturday, February 28, 2026
 **Time:** 5:00 PM – 6:00 PM
