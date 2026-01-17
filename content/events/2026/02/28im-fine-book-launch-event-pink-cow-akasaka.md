@@ -1,6 +1,21 @@
-# Emotional Awareness Workshop at The Pink Cow
+---
+title: "I'M FINE! book launch and Emotional Awareness Workshop at The Pink Cow"
+tags: [ "2026", "workshop", "emotional awareness", "I'M FINE", "book", "Pink Cow", "Akasaka", "event", "february" ]
+author: Rob Nugen
+date: 2026-01-17T12:35:00+09:00
+EventLocation: "The Pink Cow, Akasaka"
+EventTime: "17:00"
+TimeDescription: "5:00 PM – 6:00 PM"
+EventDate: "2026-02-28T17:00:00+09:00"
+EventType: "Workshop"
+aliases: [
+    "/events/2026/02/28im-fine-book-launch-event-pink-cow-akasaka",
+]
+---
 
-**Date:** Saturday, February 28
+{{% img-responsive "https://www.thepinkcow.com/" "The Pink Cow" %}}
+
+**Date:** Saturday, February 28, 2026
 **Time:** 5:00 PM – 6:00 PM
 **Location:** The Pink Cow, Akasaka
 **Venue:** [https://www.thepinkcow.com/](https://www.thepinkcow.com/)
