@@ -57,3 +57,6 @@ Add this event to your calendar!
 ### RSVP for the workshop on LINE
 
 {{% img-responsive "https://b.robnugen.com/blog/2026/my_qrcode_1768631456052.png" "RSVP on LINE" %}}
+
+
+Thank you https://www.instagram.com/narrwen_38 for the banner image!
