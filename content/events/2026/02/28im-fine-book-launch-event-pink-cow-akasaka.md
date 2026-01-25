@@ -13,7 +13,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2026/TPC_28_feb_2026_book_lunch_party_1000.png" "Join us for yummy food and deep connection at The Pink Cow!" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2026/jinu_flyer_for_im_fine_pink_cow_28_feb_2026_1000.png" "Join us for yummy food and deep connection at The Pink Cow!" %}}
 
 **Date:** Saturday, February 28, 2026
 **Time:** 5:00 PM – 6:00 PM
@@ -54,4 +54,6 @@ Add this event to your calendar!
 - [Add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&text=Rob%20Nugen%20Emotional%20Awareness%20Workshop%20at%20The%20Pink%20Cow&dates=20260228T170000%2F20260228T180000&ctz=Asia%2FTokyo&details=Join%20us%20for%20yummy%20food%20and%20deep%20connection%20at%20The%20Pink%20Cow!&location=The%20Pink%20Cow%2C%20Akasaka)
 - [Add to Fastmail Calendar](https://www.fastmail.com/calendar/event/new?summary=Rob%20Nugen%20Emotional%20Awareness%20Workshop%20at%20The%20Pink%20Cow&start=2026-02-28T17:00:00&end=2026-02-28T18:00:00&location=The%20Pink%20Cow%2C%20Akasaka&description=Join%20us%20for%20yummy%20food%20and%20deep%20connection%20at%20The%20Pink%20Cow!)
 
-All are welcome.
+### RSVP for the workshop on LINE
+
+{{% img-responsive "https://b.robnugen.com/blog/2026/my_qrcode_1768631456052.png" "RSVP on LINE" %}}
