@@ -16,9 +16,9 @@ aliases: [
 {{% img-responsive "https://b.robnugen.com/blog/2026/jinu_flyer_for_im_fine_pink_cow_28_feb_2026_1000.png" "Join us for yummy food and deep connection at The Pink Cow!" %}}
 
 **Date:** Saturday, February 28, 2026
-**Time:** 5:00 PM – 6:00 PM
-**Location:** The Pink Cow, Akasaka
-**Venue:** [https://www.thepinkcow.com/](https://www.thepinkcow.com/)
+<br>**Time:** 5:00 PM – 6:00 PM
+<br>**Location:** The Pink Cow, Akasaka
+<br>**Venue:** [https://www.thepinkcow.com/](https://www.thepinkcow.com/)
 
 ---
 
@@ -35,14 +35,14 @@ We’ll begin with
 I’ll also read a short section from my book… featuring my **rarely‑heard Texan accent** 🤠
 
 This is an **easy, welcoming introduction** to the kind of work
-I do with men and mixed groups:
+I do with men and women:
 noticing what’s happening behind "I’m fine"
 
 ---
 
 ### Cost
 
-There’s no workshop fee. Please just **buy food and/or drinks at The Pink Cow** to thank Traci and Naoya for their venue.
+There’s no workshop fee. Please just **buy food and/or drinks at The Pink Cow** to support Traci and Naoya for their venue.
 
 ---
 
