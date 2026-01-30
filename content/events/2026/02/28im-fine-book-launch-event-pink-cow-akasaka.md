@@ -22,27 +22,44 @@ aliases: [
 
 ---
 
-Join us for yummy food and deep connection at [The Pink Cow](https://www.thepinkcow.com/)
-on Saturday, February 28th!
-I’ll be leading a **one‑hour workshop inspired by my book *I’M FINE***
-at [The Pink Cow](https://www.thepinkcow.com/) in Akasaka.
+𝗜’𝗠 𝗙𝗜𝗡𝗘! Book Launch & Signing Party & Workshop @ [The Pink Cow](https://www.thepinkcow.com/)
 
-We’ll begin with
-- placing our orders from their delicious California-Mexican menu,
-- before connecting with a **simple check‑in circle**,
-- enjoy a few **gentle, engaging activities focused on emotional awareness**
 
-I’ll also read a short section from my book… featuring my **rarely‑heard Texan accent** 🤠
+Come join me at The Pink Cow - Restaurant, Art Bar & Funky Space on Saturday February 28th!
 
-This is an **easy, welcoming introduction** to the kind of work
-I do with men and women:
-noticing what’s happening behind "I’m fine"
 
----
+𝐏𝐀𝐑𝐓 𝐎𝐍𝐄: 𝐖𝐎𝐑𝐊𝐒𝐇𝐎𝐏
 
-### Cost
+Do you enjoy deeper connection?   Join at 5pm for a one‑hour workshop inspired by my book 𝗜’𝗠 𝗙𝗜𝗡𝗘!
 
-There’s no workshop fee. Please just **buy food and/or drinks at The Pink Cow** to support Traci and Naoya for their venue.
+Please RSVP here or on the LINE QR Code above to help us know how many to expect!
+
+Outline:
+- placing our orders from their delicious California-Mexican menu
+- connecting with a simple check‑in circle,
+- enjoy a few engaging activities focused on emotional awareness
+- enjoy our yummy food orders from The Pink Cow!
+
+I’ll also read a short section from my book 𝗜’𝗠 𝗙𝗜𝗡𝗘!… featuring my rarely‑heard Texan accent 🤠
+
+No fixed price: donations welcome
+
+Seats are limited for the workshop, so RSVP and See you there!
+
+
+𝐏𝐀𝐑𝐓 𝐓𝐖𝐎: 𝐌𝐄𝐄𝐓 𝐚𝐧𝐝 𝐄𝐀𝐓
+
+No RSVP needed!   If can't join this time for the workshop, or you'd prefer to just say hello, come between 6pm and 7pm for a casual meet and eat!
+
+Celebrate the launch with a signed copy of 𝗜’𝗠 𝗙𝗜𝗡𝗘! (¥2000)
+
+Come as you are and see you there!
+
+
+## The Pink Cow is located at:
+
+1-3-18 Akasaka, Minato-ku, Tokyo 107-0052
+<br>DG22 building 3rd floor
 
 ---
 
