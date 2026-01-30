@@ -19,7 +19,8 @@ aliases: [
 <br>**Time:** 5:00 PM – 6:00 PM
 <br>**Location:** The Pink Cow, Akasaka
 <br>**Venue:** [https://www.thepinkcow.com/](https://www.thepinkcow.com/)
-
+<br>**Address:** 1-3-18 Akasaka, Minato-ku, Tokyo 107-0052
+<br>DG22 building 3rd floor
 ---
 
 𝗜’𝗠 𝗙𝗜𝗡𝗘! Book Launch & Signing Party & Workshop @ [The Pink Cow](https://www.thepinkcow.com/)
