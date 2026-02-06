@@ -8,9 +8,7 @@ EventTime: "14:00"
 TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
 EventDate: "2026-02-07T14:00:00+09:00"
 EventType: "裸足のアーシング"
-aliases: [
-    "/ja/events/2026/02/07enjoy-chilly-barefoot-grounding-in-shin-yuri-art-park",
-]
+
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa_1000.jpg" "2022 feb 17 group photo by arisa 1000" %}}
