@@ -1,14 +1,16 @@
 ---
-title: "Enjoy chilly barefoot grounding in Shin Yuri Art Park!"
+title: "Postponed: Enjoy chilly barefoot grounding in Shin Yuri Art Park!"
 tags: [ "2026", "Barefoot Rob", "art_park", "barefoot", "event", "february", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2026-01-15T16:19:06+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "gather at 13:30; enter Shin Yuri Art Park at 14:00"
-EventDate: "2026-02-07T14:00:00+09:00"
+EventDate: "2026-02-14T14:00:00+09:00"
 EventType: "Barefoot grounding"
-
+aliases: [
+    "/en/events/2026/02/07enjoy-chilly-barefoot-grounding-in-shin-yuri-art-park",
+]
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa_1000.jpg" "2022 feb 17 group photo by arisa 1000" %}}
@@ -25,13 +27,13 @@ Every First Saturday of the month
 
 #### First Meeting Point
 
-Saturday 07 February 2026, 13:30
+Saturday 14 February 2026, 13:30
 
 Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point is Shin Yuri Art Park
 
-Saturday 07 February 2026, 14:00
+Saturday 14 February 2026, 14:00
 
 [Shinyuri Art Parks](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 

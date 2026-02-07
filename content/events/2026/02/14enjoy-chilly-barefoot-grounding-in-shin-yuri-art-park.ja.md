@@ -1,14 +1,16 @@
 ---
-title: "14時から新ゆりアートパークスで裸足でウォーキング"
+title: "【延期】14時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2026", "Barefoot Rob", "art_park", "barefoot", "event", "february", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
 date: 2026-01-15T16:19:06+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "14:00"
 TimeDescription: "新百合ヶ丘駅で13:30に集合、14:00に新ゆりアートパークス"
-EventDate: "2026-02-07T14:00:00+09:00"
+EventDate: "2026-02-14T14:00:00+09:00"
 EventType: "裸足のアーシング"
-
+aliases: [
+    "/ja/events/2026/02/07enjoy-chilly-barefoot-grounding-in-shin-yuri-art-park",
+]
 ---
 
 {{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa_1000.jpg" "2022 feb 17 group photo by arisa 1000" %}}
@@ -23,13 +25,13 @@ EventType: "裸足のアーシング"
 
 #### 第一集合場所
 
-2026年2月7日　13:30
+2026年2月14日　13:30
 
 新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第ニ集合場所は新ゆりアートパークスになります
 
-2026年2月7日　14:00
+2026年2月14日　14:00
 
 [新ゆりアートパークス](http://www.airgreen.info/artparks.html) https://goo.gl/maps/QAhUddBiieDAZsQm6
 
