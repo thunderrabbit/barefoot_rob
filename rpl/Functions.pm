@@ -377,6 +377,7 @@ sub kebab_case($) {
       $title =~ s/[,\/\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
       $title =~ s/-+/-/g;     # replace multiple hyphens with one (to match Hugo URLs)
+      $title =~ s/-+$//;      # remove trailing hyphens (e.g. from trailing punctuation like !)
   return $title;
 }
 
