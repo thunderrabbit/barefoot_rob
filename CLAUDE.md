@@ -46,6 +46,7 @@ Events are created using Perl scripts, not written by hand.
 ```
 
 Generator data files live in `event_generators/YYYY/` (named `YYYY_MM_DD_descriptive_name.txt`). The log for each run is `event_generators/YYYY_MM_DD_log.txt`.
+To turn a log into a reusable generator: the log may contain multiple `STARTING_ANEW` … `FINISHED_ADIEU` blocks if the run was repeated to correct mistakes — use the **last** block. Strip its `STARTING_ANEW` and `FINISHED_ADIEU` lines, then save as `event_generators/YYYY/YYYY_MM_DD_name.txt`.
 
 ## Architecture
 
