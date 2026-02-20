@@ -1,10 +1,10 @@
 ---
-title: "Debugging My Deploy with AI Help"
+title: "Debugging site deploy with AI help"
 tags: [ "2026", "AI", "claude", "server", "hugo", "deploy", "symlinks" ]
 author: Rob Nugen
 date: 2026-02-20T20:00:00+09:00
 aliases: [
-    "/blog/2026/02/20debugging-my-deploy-with-ai-help",
+    "/blog/2026/02/20debugging-site-deploy-with-ai-help",
 ]
 ---
 
