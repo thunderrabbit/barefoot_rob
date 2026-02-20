@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^journal\.pl$ /journal/journal.pl [L,QSA]
