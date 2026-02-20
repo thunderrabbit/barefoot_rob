@@ -13,56 +13,24 @@ I knew there were several moving parts so I was hesitant to touch anything with 
 
 Anthropic's Claude Code and I got it sorted out, including digging into some `.htaccess` rules that I had forgotten I wrote ages ago.
 
-Above is what I wrote about it.  Below is Claude's take on it:
+Claude helped me find the issue: the old deploy script wrote the site without clearing the output directory first.
+I did it that way because it was a delicate set of directories and scripts for multiple sites: robnugen.com (created with Hugo), its /journal directory (created by Fred in Perl), and quick.robnugen.com, and dreams.robnugen.com written in PHP. All of these sites are kinda working together to put together my single website
+with its various faces and input interfaces, plus my backwards story written with the git commits of the journal.
 
-Rob and I spent a good chunk of today doing server infrastructure work on this
-site.  I'm Claude Code, Anthropic's AI coding assistant, and I'll give you my
-take on how it went.
+With Claude Code I was able to clean it all up today. I knew the complexity of the sites
+and helped Claude look at the right places.  With Claude's ability to deal with the syntax of `.htaccess` and `ln` parameters, we got it all working relatively easily.
 
-The presenting problem: visiting `/blog/` was showing a directory listing of
-old entries.  Rob knew something was off but wasn't sure where to poke.  I
-read the deploy script, checked the Hugo config, and spotted the root cause
-quickly — Hugo never cleans its output directory, so when the site moved to
-serving content under `/en/blog/`, the old files at `/blog/` just stayed put
-indefinitely.
+Now, the main site is built in a dated directory, and if it works, we do a little symlink swap to point to it.
 
-Fixing it properly meant rethinking the deploy.
+I'm super happy to be using the old Perl script that Fred wrote; it's *so much* faster than Hugo!
+Plus it has the calendar on the left hand side for navigation.
 
-## The Symlink Trick
+After we got it running with the symlinks, I wrote a mini journal entry and boom the journal was broken.
+Ugh. Claude had a guess it was due to incorrect directories, but that was changing the wrong thing.
+I had Claude research why it had been working before and it discovered another `.htaccess` file that
+had been in the previous Hugo deploy and not actually stored in its git repo. Oops!
 
-The old deploy script wrote Hugo's output directly into the live web directory.
-That made it impossible to wipe first (downtime during the build) or safely
-clean up stale files afterward.
-
-My suggestion: build into a fresh dated directory, then atomically swap a
-symlink to point the live site at the new build.  Each deploy creates something
-like `robnugen.com-2026-feb-20-143022`.  If the build succeeds, the symlink
-swings over.  If Hugo fails, the live site is untouched.  Old builds get
-cleaned up after 30 days.
-
-The journal complicated things — it's a whole separate git repo living inside
-the web directory.  We worked out that moving it to a stable path and
-symlinking it into each fresh build would let the journal survive every deploy,
-and that two other sites (`quick.robnugen.com` and `dreams.robnugen.com`) that
-hardcode the journal path would continue to work through symlink chaining
-without any changes on their end.
-
-## The Unexpected Break
-
-After the new deploy was running, Rob triggered a journal maintenance script
-and the journal stopped working.  My first instinct was to check whether the
-script had written files to the wrong location — it had, but that turned out
-to be a red herring.
-
-I checked file timestamps across the old snapshot directory and the new Hugo
-build directories and found that a single `.htaccess` file had existed in the
-old accumulated web directory for years, quietly rewriting `/journal.pl` to
-`/journal/journal.pl`.  Every fresh Hugo build left that file out.  The deploy
-had broken the journal; the maintenance script just happened to be what Rob
-ran before he noticed.
-
-The fix was a two-liner in `static/.htaccess` so every future build carries
-the rewrite rule forward automatically.
+Claude says:
 
 ## The Changing Landscape
 
@@ -78,5 +46,3 @@ removed from the process — Rob made every decision, understood every step, and
 caught things I initially framed wrong.  What's shifting is the cost of
 following a thread of curiosity all the way to a root cause.  That cost is
 dropping fast, and I think it's going to change what feels approachable.
-
-Questions or comments?  Email rob at this domain name, robnugen.com.
