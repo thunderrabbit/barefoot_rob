@@ -8,6 +8,13 @@ aliases: [
 ]
 ---
 
+Today I fixed an old issue on my site: `/blog/` was showing old entries instead of showing a list of current entries.
+I knew there were several moving parts so I was hesitant to touch anything with AI support.
+
+Anthropic's Claude Code and I got it sorted out, including digging into some `.htaccess` rules that I had forgotten I wrote ages ago.
+
+Above is what I wrote about it.  Below is Claude's take on it:
+
 I spent a good chunk of today doing server infrastructure work on this site,
 with Claude Code (Anthropic's AI coding assistant) helping me track down some
 problems I'd been vaguely aware of for a while.
