@@ -12,5 +12,3 @@ date: 2021-11-10T15:38:44+09:00
 <div class="note">(画像をクリックしてご覧ください。)</div>
 
 [イベントページ](/ja/events/)は、イベント情報の主要な場所です。
-
-I sometimes post events on [meetup.com Tokyo Sol](https://www.meetup.com/Tokyo-Sol-barefoot-more/) or [Barefoot Rob on Facebook](https://www.facebook.com/barefootrob/events)
