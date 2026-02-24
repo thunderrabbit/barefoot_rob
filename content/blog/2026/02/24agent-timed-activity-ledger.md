@@ -1,7 +1,8 @@
-# I Built a Persistent Memory Layer for AI Agents — And Used It to Time My Lunch
-
-*Cross-posted to [robnugen.com](https://robnugen.com)*
-
+---
+title: "I Built a Persistent Memory Layer for AI Agents — And Used It to Time My Lunch"
+date: 2026-02-24T15:23:00+09:00
+draft: false
+tags: [ai, agents, timing, productivity, building, claude]
 ---
 
 AI agents have a time problem.
