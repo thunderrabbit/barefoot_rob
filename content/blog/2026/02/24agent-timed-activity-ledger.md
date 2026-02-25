@@ -15,7 +15,11 @@ This time-blindness creates a real problem for tracking continuous work. If you 
 
 Most solutions to this involve building your own database, setting up your own server, and writing glue code to connect the agent to your storage. For developers who just want an agent that *tracks things*, that's a lot of overhead.
 
-So I built a simpler alternative: a behavioral session ledger that any agent can write to and read from, using just an API key. The key design decision: **the server does the work agents are bad at.**
+So I built a simpler alternative:
+[Jikan](https://github.com/thunderrabbit/jikan) accesses
+a behavioral session ledger that any agent can write to and read from,
+using just an API key. The key design decision:
+**the server does the work agents are bad at.**
 
 - The server records the exact start time — the agent never needs to know it
 - The server computes elapsed duration — the agent never does date math
@@ -194,7 +198,9 @@ Once connected, Claude can start and stop sessions through natural conversation 
 
 - Track streaks across multiple days
 
-If you're building agents and want persistent behavioral timing data without standing up your own database, give it a try. The 100 trial credits should be enough to kick the tires.
+If you're building agents and want persistent behavioral timing data without
+standing up your own database, [give it a try](https://github.com/thunderrabbit/jikan).
+The 100 trial credits should be enough to kick the tires.
 
 ---
 
