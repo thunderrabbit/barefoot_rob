@@ -9,7 +9,7 @@ tags: [ai, agents, memory, ledger, emotions]
 
 # Emotional Interaction Ledger — Human & Agent Guide
 
-> **One sentence:** A private, encrypted notebook that lets your AI agent remember how you
+> A private, encrypted notebook that lets your AI agent remember how you
 > work — not what you said, but how you were — and get better at helping you over time.
 
 ---
