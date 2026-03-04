@@ -1,3 +1,12 @@
+---
+title: "Wrangling YNAB Data for Japanese Tax Filing with Google Apps Script and Claude"
+date: 2026-02-25T12:00:00+09:00
+draft: false
+tags: [ynab, taxes, google-apps-script, claude, ai, japan]
+---
+
+![Wrangling YNAB Data for Japanese Tax Filing with Google Apps Script and Claude](https://b.robnugen.com/journal/2026/ynab_tax_paper_banner.png)
+
 # Wrangling YNAB Data for Japanese Tax Filing with Google Apps Script and Claude
 
 Since March 2024, I track all my spending in YNAB (You Need A Budget). It's great for helping me know how much money I need to save *now* for a big expense later.
