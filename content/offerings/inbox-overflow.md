@@ -6,7 +6,10 @@ date: 2026-03-07T21:00:00+09:00
 aliases: [
   "/offers/inbox-overflow",
   "/inbox-overflow",
+  "/en/inbox-overflow",
 ]
+_build:
+  list: never
 ---
 
 ## You know something's off. You just can't name it.
@@ -63,9 +66,9 @@ No one sees your answers. Nothing is stored. This is just for you.
 
 ## What Happens Next Is Up to You
 
-After you see your results, you'll have options:
+Your results are yours — no email required, no gate, no tricks.
 
-**Want to keep it?** Enter your email and we'll send your results — no spam, no funnel, just your assessment to revisit later.
+**Want to stay connected?** Join the [newsletter on Substack](https://robnugen.substack.com/) for tools, stories, and exercises on emotional awareness for men.
 
 **Want to go deeper?** Book a free discovery call. We'll talk about what came up and whether working together makes sense.
 

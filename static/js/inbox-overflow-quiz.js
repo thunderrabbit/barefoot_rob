@@ -320,18 +320,9 @@
 
     // === OPTIONAL next steps — visually quieter ===
     html += '<div style="background:white; padding:25px 30px; border-radius:8px; margin:15px 0; text-align:center; border:1px solid #e0e0e0;">';
-    html += '<p style="font-weight:bold; margin:0 0 8px 0; color:#555;">Want a copy emailed to you?</p>';
-    html += '<p style="color:#999; font-size:0.9em; margin:0 0 15px 0;">No spam. No funnel. Just your assessment.</p>';
-    html += '<div style="display:flex; gap:10px; max-width:400px; margin:0 auto;">';
-    html += '<input type="email" id="results-email" placeholder="your@email.com" style="'
-      + 'flex:1; padding:12px 15px; border:2px solid #ddd; border-radius:6px; font-size:1em; font-family:inherit;'
-      + '">';
-    html += '<button id="send-results" style="'
-      + 'padding:12px 20px; background:darkgoldenrod; color:white; border:none; border-radius:6px;'
-      + 'font-size:1em; cursor:pointer; font-weight:bold;'
-      + '">Send</button>';
-    html += '</div>';
-    html += '<p id="email-status" style="margin-top:10px; font-size:0.9em;"></p>';
+    html += '<p style="font-weight:bold; margin:0 0 8px 0; color:#555;">Want to keep exploring?</p>';
+    html += '<p style="color:#999; font-size:0.9em; margin:0 0 15px 0;">Join the newsletter for tools, stories, and exercises on emotional awareness for men.</p>';
+    html += '<a class="pure-button" style="background-color:#555; font-size:1.05em; color:white; text-decoration:none;" href="https://robnugen.substack.com/">Subscribe on Substack</a>';
     html += '</div>';
 
     html += '<div style="text-align:center; margin:20px 0;">';
