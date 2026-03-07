@@ -3,9 +3,10 @@
     {
       q: "When someone asks how you're doing, what's your gut reaction?",
       opts: [
-        { text: "I say what I actually feel", score: 0 },
-        { text: "I say 'good' or 'fine' without thinking", score: 1 },
-        { text: "I know I'm not fine but say it anyway", score: 2 },
+        { text: "I answer truthfully if I trust the person", score: 0 },
+        { text: "I know I'm not fine but say it anyway", score: 1 },
+        { text: "I say what I actually feel", score: 1 },
+        { text: "I say 'good' or 'fine' without thinking", score: 2 },
         { text: "I genuinely don't know how I feel", score: 3 }
       ]
     },
@@ -30,10 +31,12 @@
     {
       q: "When was the last time you cried?",
       opts: [
+        { text: "I cried this week", score: 0 },
         { text: "Within the past month", score: 0 },
         { text: "Within the past year", score: 1 },
         { text: "I honestly can't remember", score: 2 },
-        { text: "I physically can't — even when I want to", score: 3 }
+        { text: "I physically can't — even when I want to", score: 3 },
+        { text: "I can't stop crying", score: 2 }
       ]
     },
     {
@@ -57,6 +60,7 @@
     {
       q: "When something painful happens, what do you do with it?",
       opts: [
+        { text: "Breathe and sit through it", score: 0 },
         { text: "Talk about it or journal through it", score: 0 },
         { text: "Distract myself until it fades", score: 1 },
         { text: "Tell myself it's not a big deal", score: 2 },
@@ -145,14 +149,31 @@
         + '">' + q.opts[i].text + '</button>';
     }
 
-    // Progress bar
+    // Back button and progress bar
+    html += '<div style="margin-top:20px; display:flex; align-items:center; gap:15px;">';
+    if (currentQ > 0) {
+      html += '<button id="quiz-back" style="'
+        + 'background:none; border:1px solid #ccc; border-radius:4px; padding:6px 16px;'
+        + 'color:#888; cursor:pointer; font-size:0.9em; font-family:inherit; white-space:nowrap;'
+        + '">← Back</button>';
+    }
     var pct = Math.round((currentQ / questions.length) * 100);
-    html += '<div style="margin-top:20px; background:#e0e0e0; border-radius:4px; height:6px;">';
+    html += '<div style="flex:1; background:#e0e0e0; border-radius:4px; height:6px;">';
     html += '<div style="background:darkgoldenrod; width:' + pct + '%; height:6px; border-radius:4px; transition:width 0.3s ease;"></div>';
+    html += '</div>';
     html += '</div>';
 
     html += '</div>';
     container.innerHTML = html;
+
+    // Back button handler
+    if (currentQ > 0) {
+      document.getElementById('quiz-back').addEventListener('click', function() {
+        currentQ--;
+        answers.pop();
+        render();
+      });
+    }
 
     var buttons = container.querySelectorAll('.quiz-option');
     for (var j = 0; j < buttons.length; j++) {
