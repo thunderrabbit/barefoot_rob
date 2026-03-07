@@ -14,7 +14,7 @@ EventType: "Barefoot grounding"
 
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2022/walk_and_talk/2022_feb_17_group_photo_by_arisa_1000.jpg" "2022 feb 17 group photo by arisa 1000" %}}
+{{% img-responsive "https://b.robnugen.com/journal/2026/walk/2026_mar_07_barefoot_team_1000.jpg" "2026 mar 07 barefoot team" %}}
 
 Walk barefoot on Japan's Number 1 Grassy Field!
 
