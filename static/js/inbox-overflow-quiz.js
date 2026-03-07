@@ -128,28 +128,35 @@
   if (!container) return;
 
   var currentQ = 0;
-  var answers = [];
+  // answers[i] = { score: N, index: M } for question i
+  var answers = {};
+  var furthestQ = 0;
 
   function render() {
     if (currentQ >= questions.length) {
-      showResults();
+      showReview();
       return;
     }
 
     var q = questions[currentQ];
+    var selected = answers[currentQ];
+
     var html = '<div style="background:#FFF8EE; padding:30px; border-radius:8px; margin:20px 0;">';
     html += '<p style="font-size:0.9em; color:#888; margin:0 0 8px 0;">Question ' + (currentQ + 1) + ' of ' + questions.length + '</p>';
     html += '<h3 style="margin:0 0 20px 0; font-size:1.3em;">' + q.q + '</h3>';
 
     for (var i = 0; i < q.opts.length; i++) {
+      var isSelected = selected && selected.index === i;
       html += '<button class="quiz-option" data-score="' + q.opts[i].score + '" data-index="' + i + '" style="'
         + 'display:block; width:100%; text-align:left; padding:15px 20px; margin:8px 0;'
-        + 'background:white; border:2px solid #ddd; border-radius:6px; cursor:pointer;'
+        + 'background:' + (isSelected ? '#FFFCF5' : 'white') + ';'
+        + 'border:2px solid ' + (isSelected ? 'darkgoldenrod' : '#ddd') + ';'
+        + 'border-radius:6px; cursor:pointer;'
         + 'font-size:1.05em; font-family:inherit; transition: all 0.15s ease;'
-        + '">' + q.opts[i].text + '</button>';
+        + '">' + (isSelected ? '● ' : '') + q.opts[i].text + '</button>';
     }
 
-    // Back button and progress bar
+    // Navigation and progress bar
     html += '<div style="margin-top:20px; display:flex; align-items:center; gap:15px;">';
     if (currentQ > 0) {
       html += '<button id="quiz-back" style="'
@@ -161,6 +168,13 @@
     html += '<div style="flex:1; background:#e0e0e0; border-radius:4px; height:6px;">';
     html += '<div style="background:darkgoldenrod; width:' + pct + '%; height:6px; border-radius:4px; transition:width 0.3s ease;"></div>';
     html += '</div>';
+    // Show Next button if this question already has an answer (reviewing)
+    if (selected && currentQ < furthestQ) {
+      html += '<button id="quiz-next" style="'
+        + 'background:none; border:1px solid #ccc; border-radius:4px; padding:6px 16px;'
+        + 'color:#888; cursor:pointer; font-size:0.9em; font-family:inherit; white-space:nowrap;'
+        + '">Next →</button>';
+    }
     html += '</div>';
 
     html += '</div>';
@@ -170,7 +184,15 @@
     if (currentQ > 0) {
       document.getElementById('quiz-back').addEventListener('click', function() {
         currentQ--;
-        answers.pop();
+        render();
+      });
+    }
+
+    // Next button handler
+    var nextBtn = document.getElementById('quiz-next');
+    if (nextBtn) {
+      nextBtn.addEventListener('click', function() {
+        currentQ++;
         render();
       });
     }
@@ -182,21 +204,99 @@
         this.style.background = '#FFFCF5';
       });
       buttons[j].addEventListener('mouseleave', function() {
-        this.style.borderColor = '#ddd';
-        this.style.background = 'white';
+        var idx = parseInt(this.getAttribute('data-index'));
+        var isSel = selected && selected.index === idx;
+        this.style.borderColor = isSel ? 'darkgoldenrod' : '#ddd';
+        this.style.background = isSel ? '#FFFCF5' : 'white';
       });
       buttons[j].addEventListener('click', function() {
         var score = parseInt(this.getAttribute('data-score'));
-        answers.push(score);
+        var index = parseInt(this.getAttribute('data-index'));
+        answers[currentQ] = { score: score, index: index };
         currentQ++;
+        if (currentQ > furthestQ) furthestQ = currentQ;
         render();
       });
     }
   }
 
-  function showResults() {
+  function allAnswered() {
+    for (var i = 0; i < questions.length; i++) {
+      if (!answers[i]) return false;
+    }
+    return true;
+  }
+
+  function getTotal() {
     var total = 0;
-    for (var i = 0; i < answers.length; i++) total += answers[i];
+    for (var i = 0; i < questions.length; i++) {
+      if (answers[i]) total += answers[i].score;
+    }
+    return total;
+  }
+
+  function showReview() {
+    var html = '<div style="background:#FFF8EE; padding:30px; border-radius:8px; margin:20px 0;">';
+    html += '<h3 style="margin:0 0 20px 0;">Review Your Answers</h3>';
+
+    for (var i = 0; i < questions.length; i++) {
+      var a = answers[i];
+      html += '<div style="padding:10px 0; border-bottom:1px solid #e0e0e0; display:flex; justify-content:space-between; align-items:baseline; gap:15px;">';
+      html += '<div>';
+      html += '<span style="color:#888; font-size:0.9em;">' + (i + 1) + '. </span>';
+      html += '<span style="font-size:0.95em;">' + questions[i].q + '</span>';
+      html += '<br><span style="color:darkgoldenrod; font-size:0.95em; font-weight:bold;">' + questions[i].opts[a.index].text + '</span>';
+      html += '</div>';
+      html += '<button class="review-edit" data-q="' + i + '" style="'
+        + 'background:none; border:1px solid #ccc; border-radius:4px; padding:4px 12px;'
+        + 'color:#888; cursor:pointer; font-size:0.85em; font-family:inherit; white-space:nowrap;'
+        + '">edit</button>';
+      html += '</div>';
+    }
+
+    html += '<div style="margin-top:25px; text-align:center;">';
+    html += '<button id="quiz-submit" class="pure-button" style="'
+      + 'background-color:darkgoldenrod; font-size:1.2em; color:white; padding:12px 40px;'
+      + '">See My Results</button>';
+    html += '</div>';
+
+    html += '<div style="margin-top:15px; display:flex; align-items:center; gap:15px;">';
+    html += '<button id="quiz-back-review" style="'
+      + 'background:none; border:1px solid #ccc; border-radius:4px; padding:6px 16px;'
+      + 'color:#888; cursor:pointer; font-size:0.9em; font-family:inherit; white-space:nowrap;'
+      + '">← Back</button>';
+    var pct = 100;
+    html += '<div style="flex:1; background:#e0e0e0; border-radius:4px; height:6px;">';
+    html += '<div style="background:darkgoldenrod; width:' + pct + '%; height:6px; border-radius:4px;"></div>';
+    html += '</div>';
+    html += '</div>';
+
+    html += '</div>';
+    container.innerHTML = html;
+
+    // Edit buttons
+    var editBtns = container.querySelectorAll('.review-edit');
+    for (var j = 0; j < editBtns.length; j++) {
+      editBtns[j].addEventListener('click', function() {
+        currentQ = parseInt(this.getAttribute('data-q'));
+        render();
+      });
+    }
+
+    // Back button
+    document.getElementById('quiz-back-review').addEventListener('click', function() {
+      currentQ = questions.length - 1;
+      render();
+    });
+
+    // Submit
+    document.getElementById('quiz-submit').addEventListener('click', function() {
+      showResults();
+    });
+  }
+
+  function showResults() {
+    var total = getTotal();
 
     var result = results[results.length - 1];
     for (var r = 0; r < results.length; r++) {
@@ -209,16 +309,20 @@
     container.innerHTML = '';
     resultsDiv.style.display = 'block';
 
-    var html = '<div style="background:#FFF8EE; padding:40px 30px; border-radius:8px; margin:20px 0; text-align:center;">';
-    html += '<p style="font-size:3em; margin:0;">' + result.emoji + '</p>';
-    html += '<h2 style="margin:10px 0 5px 0;">' + result.title + '</h2>';
-    html += '<p style="color:#888; margin:0 0 25px 0;">Score: ' + total + ' / ' + (questions.length * 3) + '</p>';
-    html += '<p style="text-align:left; font-size:1.1em; line-height:1.6;">' + result.body + '</p>';
+    // === PRIMARY RESULT — big, bold, unmissable ===
+    var html = '<div style="background:#FFF8EE; padding:50px 30px 40px; border-radius:8px; margin:20px 0; text-align:center; border:3px solid darkgoldenrod;">';
+    html += '<p style="font-size:4em; margin:0;">' + result.emoji + '</p>';
+    html += '<h2 style="margin:15px 0 5px 0; font-size:2em;">' + result.title + '</h2>';
+    html += '<p style="color:#888; margin:0 0 30px 0; font-size:1.1em;">Score: ' + total + ' / ' + (questions.length * 3) + '</p>';
+    html += '<p style="text-align:left; font-size:1.15em; line-height:1.7; max-width:600px; margin:0 auto;">' + result.body + '</p>';
+    html += '<p style="margin-top:25px; color:darkgoldenrod; font-weight:bold; font-size:1.05em;">These are your results. No email required. They\'re yours.</p>';
+    html += '</div>';
 
-    html += '<div style="margin-top:30px; padding-top:20px; border-top:1px solid #ddd;">';
-    html += '<p style="font-weight:bold; margin-bottom:15px;">Want to keep your results?</p>';
-    html += '<p style="color:#666; font-size:0.95em;">No spam. No funnel. Just your assessment, in your inbox.</p>';
-    html += '<div style="display:flex; gap:10px; max-width:400px; margin:15px auto;">';
+    // === OPTIONAL next steps — visually quieter ===
+    html += '<div style="background:white; padding:25px 30px; border-radius:8px; margin:15px 0; text-align:center; border:1px solid #e0e0e0;">';
+    html += '<p style="font-weight:bold; margin:0 0 8px 0; color:#555;">Want a copy emailed to you?</p>';
+    html += '<p style="color:#999; font-size:0.9em; margin:0 0 15px 0;">No spam. No funnel. Just your assessment.</p>';
+    html += '<div style="display:flex; gap:10px; max-width:400px; margin:0 auto;">';
     html += '<input type="email" id="results-email" placeholder="your@email.com" style="'
       + 'flex:1; padding:12px 15px; border:2px solid #ddd; border-radius:6px; font-size:1em; font-family:inherit;'
       + '">';
@@ -230,23 +334,22 @@
     html += '<p id="email-status" style="margin-top:10px; font-size:0.9em;"></p>';
     html += '</div>';
 
-    html += '<div style="margin-top:25px;">';
+    html += '<div style="text-align:center; margin:20px 0;">';
     html += '<a class="pure-button" style="background-color:darkgoldenrod; font-size:1.2em; color:white; text-decoration:none;" href="https://www.calendly.com/robnugen/discovery">';
     html += 'BOOK A FREE DISCOVERY CALL</a>';
     html += '</div>';
 
-    html += '<div style="margin-top:20px;">';
+    html += '<div style="text-align:center; margin:15px 0;">';
     html += '<button id="retake-quiz" style="'
       + 'background:none; border:none; color:#888; cursor:pointer; font-size:0.95em; text-decoration:underline;'
       + '">Retake the quiz</button>';
-    html += '</div>';
-
     html += '</div>';
     resultsDiv.innerHTML = html;
 
     document.getElementById('retake-quiz').addEventListener('click', function() {
       currentQ = 0;
-      answers = [];
+      answers = {};
+      furthestQ = 0;
       resultsDiv.style.display = 'none';
       resultsDiv.innerHTML = '';
       render();
