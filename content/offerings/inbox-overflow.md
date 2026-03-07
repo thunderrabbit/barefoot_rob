@@ -57,6 +57,8 @@ No one sees your answers. Nothing is stored. This is just for you.
 
 </div>
 
+<script src="/js/inbox-overflow-quiz.js"></script>
+
 ---
 
 ## What Happens Next Is Up to You
