@@ -14,11 +14,13 @@ _build:
 
 ## You know something's off. You just can't name it.
 
-You're not falling apart. You're showing up, handling your responsibilities, keeping it together.
+You're showing up. Handling your responsibilities. Keeping it together.
 
-But there's this weight you can't explain. A numbness that wasn't always there. A distance between you and the people you care about most.
+But there's this weight you can't quite explain. A numbness that wasn't always there. A distance between you and the people you care about most.
 
 When someone asks how you're doing, you say **"I'm fine"** — not because you are, but because you don't have better words.
+
+I know. I said it for thirty years.
 
 **You're not broken. Your emotional inbox is just full.**
 
@@ -36,7 +38,7 @@ That background tension you feel? That's your inbox at capacity.
 
 ## Take the Self-Assessment
 
-**10 quick questions. No sign-up required. Instant results.**
+**10 quick questions. No sign-up. Instant results.**
 
 This isn't a diagnosis. It's a mirror — a way to see what's been piling up so you can decide what to do about it.
 
@@ -82,14 +84,14 @@ Your results are yours — no email required, no gate, no tricks.
 
 ## Why This Exists
 
-I wrote a book called *I'M FINE!* because I spent decades saying exactly that — while my emotional inbox crashed my system.
+Years ago I established a men's group in Tokyo just so I could *talk* about stuff. I'd been saying "I'm fine" for decades while my emotional inbox quietly crashed my system.
 
-I'm Rob Nugen. I'm not a therapist. I'm a men's circle facilitator, a ManKind Project leader, and a guy who learned the hard way that emotions don't go away just because you ignore them.
+I'm Rob Nugen. I'm not a therapist. I founded ManKind Project Japan and have been facilitating men's circles for over a decade — in Tokyo, in Australia, and online. I wrote a book called [*I'M FINE!*](/en/books/) because I learned the hard way that emotions don't go away just because you ignore them.
 
-The research backs this up: suppressing emotions is linked to cardiovascular disease, weakened immunity, and relationship breakdown. And 95% of men say they prioritize mental health — but only 17% actually do something about it.
+Here's what I've seen and heard hundreds of times: one honest conversation can help settle a nervous system. Men walk into a circle carrying years of unprocessed stuff, and after an hour of being witnessed, they say the same thing: *"I feel so much better just talking about it."*
 
-This quiz is one small something. It takes two minutes. And it might change how you see the rest of your day.
+This quiz is one small version of that. Two minutes. A mirror instead of a mask.
 
 ---
 
-*"I'M FINE!" is available as a [book](/en/books/) for men ready to go deeper.*
+*[I'M FINE!](/en/books/) is available as a book for men ready to go deeper.*
