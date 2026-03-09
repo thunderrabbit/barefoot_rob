@@ -12,35 +12,40 @@ _build:
   list: never
 ---
 
-## You know something's off. You just can't name it.
+## Someone asks how you're doing.
 
-You're showing up. Handling your responsibilities. Keeping it together.
+You say **"I'm fine."**
 
-But there's this weight you can't quite explain. A numbness that wasn't always there. A distance between you and the people you care about most.
+Not because you are.
+Because you don't have better words.
 
-When someone asks how you're doing, you say **"I'm fine"** — not because you are, but because you don't have better words.
-
-I know. I said it for thirty years.
-
-**You're not broken. Your emotional inbox is just full.**
+I said it for thirty years.
 
 ---
 
-## What's an Emotional Inbox?
+## Here's what I figured out.
 
-Think of your emotions like unread emails. Every experience that didn't get fully processed — the argument you swallowed, the grief you postponed, the anger you stuffed down because it wasn't the right time — those all sit in your inbox.
+I like to think of emotions as little stories that want to be acknowledged.
 
-They don't delete themselves. They keep hitting **resend**.
+Every experience you didn't fully deal with —
+the argument you swallowed,
+the grief you postponed,
+the anger you stuffed down because it wasn't the right time —
+those don't go away.
 
-That background tension you feel? That's your inbox at capacity.
+They're patient. They can wait.
+But they ought not be left waiting too long.
+
+That background tension? That thing you can't quite name?
+That's your inbox at capacity.
 
 ---
 
-## Take the Self-Assessment
+## 10 questions. Nothing stored. Just for you.
 
-**10 quick questions. No sign-up. Instant results.**
-
-This isn't a diagnosis. It's a mirror — a way to see what's been piling up so you can decide what to do about it.
+This isn't a diagnosis.
+It's a way to see what's been piling up
+so you can decide what to do about it.
 
 <div id="inbox-overflow-quiz">
 
@@ -66,13 +71,16 @@ No one sees your answers. Nothing is stored. This is just for you.
 
 ---
 
-## What Happens Next Is Up to You
+## Your results are yours.
 
-Your results are yours — no email required, no gate, no tricks.
+No email required. No tricks.
 
-**Want to stay connected?** Join the [newsletter on Substack](https://robnugen.substack.com/) for tools, stories, and exercises on emotional awareness.
+If something came up and you want to sit with it,
+the [newsletter on Substack](https://robnugen.substack.com/) has
+stories and exercises on emotional awareness.
 
-**Want to go deeper?** Book a free discovery call. We'll talk about what came up and whether working together makes sense.
+If you want to talk about what came up,
+I do free discovery calls.
 
 <div class="nav-item" style="text-align:center; margin: 30px 0;">
 <a class="pure-button" style="background-color: darkgoldenrod; font-size:1.5em" href="https://www.calendly.com/robnugen/discovery">
@@ -82,20 +90,31 @@ Your results are yours — no email required, no gate, no tricks.
 
 ---
 
-## Why This Exists
+## Why I made this.
 
-Years ago I established a men's group in Tokyo just so I could *talk* about stuff. I'd been saying "I'm fine" for decades while my emotional inbox quietly crashed my system.
+Years ago I established a men's group in Tokyo
+just so I could *talk* about stuff.
 
-I'm Rob Nugen. I'm not a therapist. I established ManKind Project Japan and have been
+I'd been saying "I'm fine" for decades.
+Meanwhile my actual emotional state was a mess I couldn't even describe.
+
+Somewhere, somehow, I got the idea that I shouldn't express anger.
+I'm not sure where I learned it, but I know I picked it up along the way.
+And it wasn't just anger — it was sadness, fear, grief, all of it.
+I kept it all locked down because that felt safer.
+
+I established ManKind Project Japan and have been
 facilitating men's circles for over a decade in Tokyo and online.
 
+Here's what I've seen hundreds of times:
+one honest conversation can settle a nervous system.
+Men walk into a circle carrying years of unprocessed stuff,
+and after an hour of being witnessed, they say the same thing:
+*"I feel so much better just talking about it."*
+
 I wrote a book called [*I'M FINE!*](/en/books/) because
-I learned the hard way that emotions don't go away just because you ignore them.
+I learned the hard way that emotions don't go away
+just because you ignore them.
 
-Here's what I've seen and heard hundreds of times: one honest conversation can help settle a nervous system. Men walk into a circle carrying years of unprocessed stuff, and after an hour of being witnessed, they say the same thing: *"I feel so much better just talking about it."*
-
-This quiz is one small version of that. Two minutes. A mirror instead of a mask.
-
----
-
-*[I'M FINE!](/en/books/) is available as a book for men ready to go deeper.*
+This quiz is a small version of that.
+Two minutes and a mirror.
