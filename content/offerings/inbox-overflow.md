@@ -75,10 +75,6 @@ No one sees your answers. Nothing is stored. This is just for you.
 
 No email required. No tricks.
 
-If something came up and you want to sit with it,
-the [newsletter on Substack](https://robnugen.substack.com/) has
-stories and exercises on emotional awareness.
-
 If you want to talk about what came up,
 I do free discovery calls.
 
