@@ -70,7 +70,7 @@ No one sees your answers. Nothing is stored. This is just for you.
 
 Your results are yours — no email required, no gate, no tricks.
 
-**Want to stay connected?** Join the [newsletter on Substack](https://robnugen.substack.com/) for tools, stories, and exercises on emotional awareness for men.
+**Want to stay connected?** Join the [newsletter on Substack](https://robnugen.substack.com/) for tools, stories, and exercises on emotional awareness.
 
 **Want to go deeper?** Book a free discovery call. We'll talk about what came up and whether working together makes sense.
 
@@ -86,7 +86,11 @@ Your results are yours — no email required, no gate, no tricks.
 
 Years ago I established a men's group in Tokyo just so I could *talk* about stuff. I'd been saying "I'm fine" for decades while my emotional inbox quietly crashed my system.
 
-I'm Rob Nugen. I'm not a therapist. I founded ManKind Project Japan and have been facilitating men's circles for over a decade — in Tokyo, in Australia, and online. I wrote a book called [*I'M FINE!*](/en/books/) because I learned the hard way that emotions don't go away just because you ignore them.
+I'm Rob Nugen. I'm not a therapist. I established ManKind Project Japan and have been
+facilitating men's circles for over a decade in Tokyo and online.
+
+I wrote a book called [*I'M FINE!*](/en/books/) because
+I learned the hard way that emotions don't go away just because you ignore them.
 
 Here's what I've seen and heard hundreds of times: one honest conversation can help settle a nervous system. Men walk into a circle carrying years of unprocessed stuff, and after an hour of being witnessed, they say the same thing: *"I feel so much better just talking about it."*
 
