@@ -14,20 +14,17 @@ _build:
 
 ## Someone asks how you're doing.
 
-You say **"I'm fine."**
+It's easy to say **"I'm fine."** In fact, it's often *required*.
 
-Not because you are.
-Because you don't have better words.
+It doesn't mean you're "fine;" it probably just means, "now isn't the right time to go into how I'm really feeling."
 
-I said it for thirty years.
-
----
+But when is the right time? Who is the right person to talk to?
 
 ## Here's what I figured out.
 
-I like to think of emotions as little stories that want to be acknowledged.
+I like to think of emotions as messages that want to be acknowledged.
 
-Every experience you didn't fully deal with —
+Every experience that you didn't fully deal with —
 the argument you swallowed,
 the grief you postponed,
 the anger you stuffed down because it wasn't the right time —
