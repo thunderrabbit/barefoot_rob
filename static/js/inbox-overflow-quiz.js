@@ -107,19 +107,19 @@
       max: 14,
       title: "Inbox: Getting Full",
       emoji: "📬",
-      body: "You're functional — maybe even high-performing — but there's a growing pile of unprocessed stuff underneath. You know how to get through the day, but some emotions are getting deferred, not dealt with. The tension is building quietly. This could accumulate quickly if not processed. This is the stage where small changes make the biggest difference — before the inbox starts sending error messages."
+      body: "You're functional, maybe even high-performing.. but there's a growing pile of unprocessed stuff underneath. You know how to get through the day, but some emotions are getting deferred, not dealt with. The tension is building quietly. They could accumulate quickly if not processed. This is the stage where small changes make the biggest difference, before your inbox inbox starts sending error messages."
     },
     {
       max: 21,
       title: "Inbox: Overflowing",
       emoji: "📫",
-      body: "Your system is working overtime to keep everything contained. The suppression strategies that used to work — staying busy, pushing through, handling it alone — are starting to crack. You might notice it in your body (tight jaw, chest pressure), in your relationships (distance, irritability), or in a numbness that wasn't always there. Use the skills you have to reduce the pressure. Your inbox isn't just full — it's been sending you notifications you've been ignoring. The good news: you're here, which means part of you already knows."
+      body: "Your system is working overtime to keep everything contained. The suppression strategies that used to work (e.g. staying busy, pushing through, handling it alone) are starting to crack. You might notice it in your body (tight jaw, chest pressure), in your relationships (distance, irritability), or in a numbness that wasn't always there. Use the skills you have to reduce the pressure. Your inbox isn't just full — it's been sending you notifications you've been ignoring. The good news: you're here, which means part of you already knows."
     },
     {
       max: 30,
       title: "Inbox: System Crash Imminent",
       emoji: "🔴",
-      body: "You're carrying a lot. The weight you feel has accumulated over time and could blow at the slightest provocation. You've been strong for a long time, and that strength got you here. But the same strategy that protected you is now isolating you. This isn't something you need to fix alone. One conversation, one step, one moment of honesty can start clearing the backlog. You don't have to empty the whole inbox today. You just have to open it."
+      body: "You're carrying a lot. The weight you feel has accumulated over time and could blow at the slightest provocation. You've been strong for a long time, and that strength got you here. But the same strategy that protected you is now isolating you. This isn't something you need to fix alone. One conversation, one step, one moment of honesty can start clearing the backlog. You don't have to empty the whole inbox today, but I encourage you to open it."
     }
   ];
 
