@@ -306,9 +306,6 @@
       }
     }
 
-    container.innerHTML = '';
-    resultsDiv.style.display = 'block';
-
     // === PRIMARY RESULT — big, bold, unmissable ===
     var html = '<div style="background:#FFF8EE; padding:50px 30px 40px; border-radius:8px; margin:20px 0; text-align:center; border:3px solid darkgoldenrod;">';
     html += '<p style="font-size:4em; margin:0;">' + result.emoji + '</p>';
@@ -335,41 +332,17 @@
       + 'background:none; border:none; color:#888; cursor:pointer; font-size:0.95em; text-decoration:underline;'
       + '">Retake the quiz</button>';
     html += '</div>';
-    resultsDiv.innerHTML = html;
+    container.innerHTML = html;
 
     document.getElementById('retake-quiz').addEventListener('click', function() {
       currentQ = 0;
       answers = {};
       furthestQ = 0;
-      resultsDiv.style.display = 'none';
-      resultsDiv.innerHTML = '';
       render();
     });
 
-    document.getElementById('send-results').addEventListener('click', function() {
-      var email = document.getElementById('results-email').value;
-      var status = document.getElementById('email-status');
-      if (!email || email.indexOf('@') === -1) {
-        status.textContent = 'Please enter a valid email address.';
-        status.style.color = '#c00';
-        return;
-      }
-      // For now, store in localStorage and show confirmation
-      // TODO: connect to email service (e.g. ConvertKit, Buttondown, or custom endpoint)
-      try {
-        localStorage.setItem('inbox_overflow_result', JSON.stringify({
-          score: total,
-          title: result.title,
-          email: email,
-          date: new Date().toISOString()
-        }));
-      } catch(e) {}
-      status.textContent = "Thanks! (Email delivery coming soon — we've saved your result locally for now.)";
-      status.style.color = 'darkgoldenrod';
-    });
-
     // Scroll results into view
-    resultsDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    container.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   render();
