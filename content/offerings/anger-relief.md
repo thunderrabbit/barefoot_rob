@@ -14,16 +14,15 @@ _build:
 
 ## You're not broken. You're blocked.
 
-Anger is protective energy. That's it. That's its job.
+Anger is protective energy. It protects you and your loved ones.
 
-Something crossed a line — a boundary got stepped on,
-someone disrespected you, or life just kept pushing
-and you had nowhere to push back.
+When someone crosses a boundary, or disrespects you
+anger shows up to protect you.
 
-Anger showed up to protect you.
+But sometimes you can't be angry, and you have to stuff it. This probably happened a lot when you were young.
 
-The problem isn't that you're angry.
-The problem is what happens when you stuff it down.
+Anger is a natural response to a threat, but a bigger threat might require us to prevent any anger from surfacing.
+We stuff it down, and .. then what?
 
 ## What happens when you stuff it down
 
