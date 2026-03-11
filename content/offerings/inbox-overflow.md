@@ -149,10 +149,10 @@ No one sees your answers. Nothing is stored.
 
 <h3>Scoring</h3>
 <ul>
-<li><strong>0–7: Inbox Under Control 📭</strong> — Your emotional inbox is mostly clear. You've got healthy processing habits.</li>
-<li><strong>8–14: Inbox Getting Full 📬</strong> — You're functional, but there's a growing pile of unprocessed stuff underneath.</li>
-<li><strong>15–21: Inbox Overflowing 📫</strong> — Your system is working overtime to keep everything contained.</li>
-<li><strong>22–30: System Crash Imminent 🔴</strong> — You're carrying a lot. The weight you feel isn't weakness — it's accumulated cost.</li>
+<li><strong>0–7: Inbox Under Control 📭</strong> — Your emotional inbox is mostly clear. You've got healthy processing habits. Keep it up!</li>
+<li><strong>8–14: Inbox Getting Full 📬</strong> — You're functional, but there's a growing pile of unprocessed stuff underneath. This could accumulate quickly if not processed.</li>
+<li><strong>15–21: Inbox Overflowing 📫</strong> — Your system is working overtime to keep everything contained. Use the skills you have to reduce the pressure.</li>
+<li><strong>22–30: System Crash Imminent 🔴</strong> — You're carrying a lot. The weight you feel has accumulated over time and could blow at the slightest provocation.</li>
 </ul>
 </noscript>
 
