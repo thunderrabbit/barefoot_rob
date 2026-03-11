@@ -14,25 +14,28 @@ _build:
 
 ## Someone asks how you're doing.
 
-It's easy to say **"I'm fine."** In fact, it's often *required*.
+It's easy to say **"I'm fine."** In fact, in many social situations it's practically *required*.
 
-It doesn't mean you're "fine;" it probably just means, "now isn't the right time to go into how I'm really feeling."
+"I'm fine" doesn't mean you're "fine;"
+it probably just means,
+"now isn't the right time to go into how I'm really feeling."
 
 But when is the right time? Who is the right person to talk to?
 
 ## Here's what I figured out.
 
-I like to think of emotions as messages that want to be acknowledged.
+Emotions are like messages that want to be acknowledged.
 
 Every experience that you didn't or couldn't fully deal with at the time
 produces some emotional ju-ju that is waiting to be processed.
 
-It could be the anger you swallowed for fear of retribution,
-the grief you postponed because you're too busy with work,
-the argumentative asshole that had a really good point but is such an ass, so ughhh!
+It could be anger you swallowed for fear of retribution,
+grief you postponed because you're too busy with work,
+or feelings that come up when
+an argumentative asshole had a really good point but is such an ass, so ughhh!
 
-This emotions which arise at these times don't go away.
-So, they stack up while you put them off.
+The emotions which arise at these times don't go away.
+Instead, they stack up while you ignore them.
 And they ought not be left waiting too long.
 
 If you're feeling a low-key background tension that's always present,
@@ -40,7 +43,7 @@ it may just be your emotional inbox overflowing.
 
 ---
 
-## 10 questions. Nothing stored. Just for you.
+## 10 questions. No email required. Just for you.
 
 This isn't a diagnosis.
 It's a way to see how much crap has been piling up
@@ -52,10 +55,10 @@ so you can decide when enough is enough.
 
 **For each statement, choose the answer that fits you best right now.**
 
-No one sees your answers. Nothing is stored. This is just for you.
+No one sees your answers. Nothing is stored.
 
 <noscript>
-<p style="font-weight: bold;">Here are the questions. For each one, give yourself 0–3 points based on which answer fits you best, then add up your total at the end.</p>
+<p style="font-weight: bold;">Give yourself 0–3 points based on which answer fits you best, then add up your total at the end.</p>
 
 <ol>
   <li><strong>When someone asks how you're doing, what's your gut reaction?</strong>
@@ -167,10 +170,8 @@ No one sees your answers. Nothing is stored. This is just for you.
 
 ## Your results are yours.
 
-No email required. No tricks.
-
 If you want to talk about what came up,
-I do free discovery calls.
+Book a free 30-minute call. No commitment, just an honest conversation.
 
 <div class="nav-item" style="text-align:center; margin: 30px 0;">
 <a class="pure-button" style="background-color: darkgoldenrod; font-size:1.5em" href="https://www.calendly.com/robnugen/discovery">
@@ -185,12 +186,13 @@ I do free discovery calls.
 Years ago I established a men's group in Tokyo
 just so I could *talk* about stuff.
 
-I'd been saying "I'm fine" for decades.
-Meanwhile my actual emotional state was a mess I couldn't even describe.
+I'd been playing "nice guy" for decades.
+Meanwhile my actual emotional state was a mess I couldn't share with anyone.
 
-Somewhere, somehow, I got the idea that I shouldn't express anger.
+Growing up, I got the idea that I shouldn't express anger.
 I'm not sure where I learned it, but I know I picked it up along the way.
-And it wasn't just anger — it was sadness, fear, grief, all of it.
+And it wasn't just anger. It was sadness, fear, grief, shame all in a messy
+soup in my heart.
 I kept it all locked down because that felt safer.
 
 I established ManKind Project Japan and have been
@@ -199,7 +201,8 @@ facilitating men's circles for over a decade in Tokyo and online.
 Here's what I've seen hundreds of times:
 one honest conversation can settle a nervous system.
 Men walk into a circle carrying years of unprocessed stuff,
-and after an hour of being witnessed, they say the same thing:
+and after a single conversation where they can be witnessed,
+we often say the same thing:
 *"I feel so much better just talking about it."*
 
 I wrote a book called [*I'M FINE!*](/en/books/) because
@@ -207,4 +210,6 @@ I learned the hard way that emotions don't go away
 just because you ignore them.
 
 This quiz is a small version of that.
-Two minutes and a mirror.
+Share your answers with a trusted friend or someone you can trust.
+I don't even care if you talk to me;
+I just want you to stop lying to yourself that you can handle it all alone.
