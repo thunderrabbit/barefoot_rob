@@ -210,6 +210,6 @@ I learned the hard way that emotions don't go away
 just because you ignore them.
 
 This quiz is a small version of that.
-Share your answers with a trusted friend or someone you can trust.
-I don't even care if you talk to me;
+Share your answers with a trusted friend or someone else you can trust.
+<br>I don't even care if you talk to me;
 I just want you to stop lying to yourself that you can handle it all alone.
