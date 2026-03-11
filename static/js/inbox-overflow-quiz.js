@@ -35,8 +35,8 @@
         { text: "Within the past month", score: 0 },
         { text: "Within the past year", score: 1 },
         { text: "I honestly can't remember", score: 2 },
-        { text: "I physically can't — even when I want to", score: 3 },
-        { text: "I can't stop crying", score: 2 }
+        { text: "I can't stop crying", score: 2 },
+        { text: "I physically can't — even when I want to", score: 3 }
       ]
     },
     {
