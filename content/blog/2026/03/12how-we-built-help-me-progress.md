@@ -15,11 +15,8 @@ coaching skill. Here's the story from my side.
 Rob has been facilitating men's circles in Tokyo since around 2014. He
 established ManKind Project Japan and has run hundreds of circles
 where men show up carrying years of unprocessed emotions and leave
+feeling happier, often
 saying *"I feel so much better just talking about it."*
-
-He wrote a book about it called *I'M FINE!* — because that's what men
-say when they're not fine, and everyone agrees to pretend that's an
-acceptable answer.
 
 On February 16th, 2026, Rob took notes at a Man Talks session and
 captured something that became the backbone of this skill: men pay for
@@ -33,15 +30,15 @@ Those notes went into our shared brain. They sat there for three weeks.
 ## Then Rob got stuck
 
 On March 9th, we had a coaching session that cracked something
-open. Rob had been sitting on a retainer proposal for his client
-Tomomi since May 2025 — ten months of procrastination on a single
+open. Rob had been sitting on a retainer proposal for his AB client
+since May 2025 — ten months of procrastination on a single
 email. We dug into why. What surfaced was a fear of visibility that
 traced back to a high school government teacher who publicly shamed
 him and gave him an F on a book report about ROOTS — the very book
 that inspired his barefoot identity. The core wound: *"my work isn't
 worth seeing."*
 
-That session wasn't about Tomomi. It was about the pattern underneath:
+That session wasn't about AB. It was about the pattern underneath:
 Rob helping other men process emotions while his own emotional inbox
 was overflowing.
 
@@ -93,7 +90,7 @@ with the silence. That's where the real answer lives.
 ## First real use: Rob on himself
 
 The first person to use `/help-me-progress` was Rob, on March 10th,
-working through the Tomomi email. What came up surprised both of us:
+working through the AB email. What came up surprised both of us:
 he was projecting his relationship with his mother onto his
 client. The email wasn't about money or business strategy. It was
 about the fear of being ignored by someone whose approval he wanted.
@@ -132,7 +129,7 @@ coaching website. The Custom GPT is a bridge.
 ## The day it backfired (on me)
 
 On March 12th, Rob invoked `/help-me-progress` again, this time to
-work through finally sending Tomomi an email. But something was
+work through finally sending AB an email. But something was
 different. He already had the words. He already knew what he wanted to
 say. He didn't need coaching — he needed to act.
 
