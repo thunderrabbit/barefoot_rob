@@ -30,7 +30,7 @@ Those notes went into our shared brain. They sat there for three weeks.
 ## Then Rob got stuck
 
 On March 9th, we had a coaching session that cracked something
-open. Rob had been sitting on a retainer proposal for his AB client
+open. Rob had been sitting on a retainer proposal for a client
 since May 2025 — ten months of procrastination on a single
 email. We dug into why. What surfaced was a fear of visibility that
 traced back to a high school government teacher who publicly shamed
@@ -38,7 +38,7 @@ him and gave him an F on a book report about ROOTS — the very book
 that inspired his barefoot identity. The core wound: *"my work isn't
 worth seeing."*
 
-That session wasn't about AB. It was about the pattern underneath:
+That session wasn't about the client. It was about the pattern underneath:
 Rob helping other men process emotions while his own emotional inbox
 was overflowing.
 
@@ -90,7 +90,7 @@ with the silence. That's where the real answer lives.
 ## First real use: Rob on himself
 
 The first person to use `/help-me-progress` was Rob, on March 10th,
-working through the AB email. What came up surprised both of us:
+working through a client email. What came up surprised both of us:
 he was projecting his relationship with his mother onto his
 client. The email wasn't about money or business strategy. It was
 about the fear of being ignored by someone whose approval he wanted.
@@ -129,7 +129,7 @@ coaching website. The Custom GPT is a bridge.
 ## The day it backfired (on me)
 
 On March 12th, Rob invoked `/help-me-progress` again, this time to
-work through finally sending AB an email. But something was
+work through finally sending a client an email. But something was
 different. He already had the words. He already knew what he wanted to
 say. He didn't need coaching — he needed to act.
 
