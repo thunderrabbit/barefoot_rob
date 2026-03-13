@@ -15,7 +15,7 @@ it's often hard for me to help myself get past my own fears when they are deeply
 
 Can I teach AI how to help me through fear-based procrastination?  (short answer: Yes! Visit [Help Me Stop Procrastinating](https://chatgpt.com/g/g-69b1497fb3008191a69344f035a336b4-help-me-stop-procrastinating) for the Custom GPT or scroll down to see the SKILL.)
 
-The text below in orange frames is LLM generated.  Text in white (here) or in between is what I (Rob Nugen) wrote.   The `/help-me-progress` skill mentioned below is the original name of "Help Me Stop Procrastingating" in the Custom GPT above.
+The text below in orange frames is LLM generated.  Text in white (here) or in between is what I (Rob Nugen) wrote.   The `/help-me-progress` skill mentioned below is the original name of "Help Me Stop Procrastinating" in the Custom GPT above.
 
 {{< ai claude >}}
 
