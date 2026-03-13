@@ -1,17 +1,18 @@
 ---
-title: "How We Built /help-me-stop-procrastinating: A Coaching Skill for Claude Code"
+title: "How We Built 'Help Me Stop Procrastinating', A Coaching Skill for agents"
 date: 2026-03-12T16:00:00+09:00
 draft: false
 tags: [ai, claude, coaching, self-sabotage, help-me-progress, mens-work, claude-code]
 ---
 
-Sometimes I get stuck in my progress out of fear of... what?
-I know how to help a client get past those fears, but curiously enough,
+When a client faces a fear, I know a variety of ways to help them get beyond it.
+
+But when I get stuck on a fear, hmmmm...
 it's often hard for me to help myself get past my own fears when they are deeply buried.
 
-Can I teach AI how to do it?  (short answer: yes.  Visit [Help Me Stop Procrastinating](https://chatgpt.com/g/g-69b1497fb3008191a69344f035a336b4-help-me-stop-procrastinating) available free as a ChatGPT agent or below as a SKILL)
+Can I teach AI how to help me through fear-based procrastination?  (short answer: Yes! Visit [Help Me Stop Procrastinating](https://chatgpt.com/g/g-69b1497fb3008191a69344f035a336b4-help-me-stop-procrastinating) for the Custom GPT or scroll down to see the SKILL.)
 
-The text below in orange frames is LLM generated.  Text in white (here) or in between is what I (Rob Nugen) wrote.   The `/help-me-progress` skill mentioned below is what I renamed "Help Me Stop Procrastingating" when I created the Custom GPT above.
+The text below in orange frames is LLM generated.  Text in white (here) or in between is what I (Rob Nugen) wrote.   The `/help-me-progress` skill mentioned below is the original name of "Help Me Stop Procrastingating" in the Custom GPT above.
 
 {{< ai claude >}}
 
@@ -91,7 +92,8 @@ with the silence. That's where the real answer lives.
 
 {{< /ai >}}
 
-There are many other reasons for not stacking questions.
+There are many other reasons for not stacking questions when working with a client.
+
 Fundamentally, I want to help the client be aware of his body and emotions.
 Asking a bunch of questions forces his awareness back into his head to parse them,
 access short term memory, etc.
@@ -178,6 +180,11 @@ men need it too. And he's iterating on it because the first version of
 anything — including a coaching conversation — is never the last.
 
 {{< /ai >}}
+
+Prefer a human touch?  Reach out to connect:
+
+{{< discovery-call >}}
+
 
 Here's the skill if you wanna use it within your existing workflow or agent setup:
 
@@ -362,3 +369,8 @@ Guide them through:
 - End with something grounded and genuine — not cheerleading, but a real
   acknowledgment of the courage it takes to look at this stuff honestly.
 ```
+
+Of course connecting with a human is more flexible and .. human.
+Reach out if you're ready to connect.
+
+{{< discovery-call >}}
