@@ -9,7 +9,8 @@ tags: [ai, claude, coaching, self-sabotage, help-me-progress, mens-work, claude-
 
 When a client faces a fear, I know a variety of ways to help them get beyond it.
 
-But when I get stuck on a fear, hmmmm...
+But when I get stuck on a fear, hmmmm...  If [my own coach Endre](https://doctorofselfworth.com/)
+isn't available
 it's often hard for me to help myself get past my own fears when they are deeply buried.
 
 Can I teach AI how to help me through fear-based procrastination?  (short answer: Yes! Visit [Help Me Stop Procrastinating](https://chatgpt.com/g/g-69b1497fb3008191a69344f035a336b4-help-me-stop-procrastinating) for the Custom GPT or scroll down to see the SKILL.)
