@@ -5,6 +5,8 @@ draft: false
 tags: [ai, claude, coaching, self-sabotage, help-me-progress, mens-work, claude-code]
 ---
 
+![What do you want to have happen? — Claude Code terminal on a warm wooden desk](https://b.robnugen.com/blog/2026/2026_mar_13_what_do_you_want_to_have_happen_1000.png)
+
 When a client faces a fear, I know a variety of ways to help them get beyond it.
 
 But when I get stuck on a fear, hmmmm...
