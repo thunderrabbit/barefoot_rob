@@ -15,7 +15,7 @@ class="title" />
 <div class="note">(image credit: https://hipwallpaper.com/view/Gtg24n)</div>
 
 Last week, looking from a spiritual perspective, we saw [our enough-ness is a
-given](/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/).
+given](/en/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/).
 
     "Of course you are enough.  I made you."
     - God

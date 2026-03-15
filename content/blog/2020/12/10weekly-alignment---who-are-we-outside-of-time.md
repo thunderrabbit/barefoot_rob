@@ -99,7 +99,7 @@ Sit back, relax, and discover your truth for yourself.  :-)
     physical body. Recognizing the IS-ness remains unchanging, even as
     the body changes and moves.
 
-(Recall your [super power](/blog/2020/12/03/weekly-alignments-discover-your-super-power/) from last time.)
+(Recall your [super power](/en/blog/2020/12/03/weekly-alignments-discover-your-super-power/) from last time.)
 
     Recognizing the part of you that remains, even after we release
     the physical body [and] release the identity.
