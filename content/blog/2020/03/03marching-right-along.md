@@ -4,6 +4,9 @@ tags: [ "newsletter" ]
 categories: [ "blog" ]
 author: Rob Nugen
 date: 2020-03-03T22:49:00+09:00
+aliases: [
+    "/blog/2020/03/03/marching-right-along/"
+]
 ---
 
     "... The credit belongs to the man who is actually in the arena,

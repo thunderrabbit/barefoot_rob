@@ -3,7 +3,8 @@ title: "Weekly Alignments - Discover Your Super Power"
 tags: [ "weekly", "align" ]
 categories: [ "align" ]
 aliases: [
-    "/blog/2020/12/03/weekly-alignment-find-your-deepest-self"
+    "/blog/2020/12/03/weekly-alignment-find-your-deepest-self",
+    "/blog/2020/12/03/weekly-alignments-discover-your-super-power/"
 ]
 author: Rob Nugen
 draft: false

@@ -5,6 +5,9 @@ categories: [ "blog" ]
 author: Rob Nugen
 draft: false
 date: 2021-01-21T23:49:53+09:00
+aliases: [
+    "/blog/2021/01/21/weekly-alignment-recognize-your-magnificence/"
+]
 ---
 
 Last week, using questions like "what parts of me are enough?" we

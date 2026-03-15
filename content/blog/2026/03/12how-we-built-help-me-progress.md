@@ -3,6 +3,9 @@ title: "How We Built 'Help Me Stop Procrastinating', A Coaching Skill for agents
 date: 2026-03-12T16:00:00+09:00
 draft: false
 tags: [ai, claude, coaching, self-sabotage, help-me-progress, mens-work, claude-code]
+aliases: [
+    "/blog/2026/03/12how-we-built-help-me-progress/"
+]
 ---
 
 ![What do you want to have happen? — Claude Code terminal on a warm wooden desk](https://b.robnugen.com/blog/2026/2026_mar_13_what_do_you_want_to_have_happen_1000.png)

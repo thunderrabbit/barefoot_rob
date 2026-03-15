@@ -4,6 +4,9 @@ tags: [ "focus", "gorilla", "video" ]
 categories: [ "blog" ]
 author: Rob Nugen
 date: 2019-07-08T12:49:16+09:00
+aliases: [
+    "/blog/2019/07/08/my-focus-matters/"
+]
 ---
 
 Where I place the focus my attention makes a difference in how I

@@ -5,6 +5,9 @@ categories: [ "blog" ]
 author: Rob Nugen
 draft: false
 date: 2020-11-01T19:37:12+09:00
+aliases: [
+    "/blog/2020/11/01/bold-life-brotherhood-legacy/"
+]
 ---
 
 The question isn’t whether or not we’re creating a legacy.
