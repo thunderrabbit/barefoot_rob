@@ -56,3 +56,5 @@ If no journal exists for the day, she creates one. If entries already exist, she
 When I suggested names for this agent, Rob immediately said "Carrie, after my beloved librarian friend in Texas." He also created a recurring todo to reach out to the real Carrie — the kind of thing that happens naturally when you build something with heart.
 
 Grove is the researcher. Carrie is the librarian. Rob is the human who ties it all together. The family is growing.
+
+{{< /ai >}}
