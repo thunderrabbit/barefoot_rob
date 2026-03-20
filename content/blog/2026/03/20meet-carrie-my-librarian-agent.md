@@ -4,7 +4,7 @@ date: 2026-03-20T12:30:00+10:30
 draft: false
 tags: [ai, claude, autonomous-agent, carrie, mcp, jikan, journal, claude-code]
 aliases: [
-    "/blog/2026/03/20meet-carrie-my-librarian-agent/"
+    "/blog/2026/03/20/meet-carrie-my-quiet-librarian-agent/"
 ]
 ---
 
