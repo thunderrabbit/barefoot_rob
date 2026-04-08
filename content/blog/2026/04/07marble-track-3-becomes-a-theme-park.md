@@ -77,7 +77,7 @@ It was accurate, but not exactly enticing for a kid-marble visiting the park.
 I asked Claude for ten kid-friendly names. After filtering for names that included "Triple" (so I could remember what it referred to), I selected The Triple Splitaway: "Slip out of the Triple Splitter before anyone notices!"
 
 Claude had suggested "The Small Thrill" for the ride that includes it,
-but that name grammaticallly implies there is only one thrilling ride
+but that name grammatically implies there is only one thrilling ride
 for small marbles.  Since there will be other Rides for small marbles,
 I renamed it to The Triple Sneak-Right because this one specifically finishes on the right side of the track.
 
