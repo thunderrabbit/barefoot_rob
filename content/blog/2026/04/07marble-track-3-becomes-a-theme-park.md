@@ -26,7 +26,7 @@ This past past weekend, while at dinner in Perth with 5 other guys,
 my friend Frase said, "wait until you guys see Rob's art project."
 
 His comment opened the door to two hours of amazing conversation starting with me showing my
-[Marble Track 2](https://mt2.robnugen.com/) video of Young Rob (haha) introducing the track. Fast forward two hours and
+[Marble Track 2](http://mt2.robnugen.com/) video of Young Rob (haha) introducing the track. Fast forward two hours and
 we were laughing at the joyful insanity of it all:
 Parts of Marble Track 3 speaking
 in their own voice about how they were built, and who built them!
