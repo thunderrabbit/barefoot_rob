@@ -118,3 +118,10 @@ Basically be a few clicks away from seeing snippets like:
 But given there is only one camera, the snippet might be of him on the other side of the track.  Hmmm... Marble Track 4 needs to fix this somehow.
 
 For now, Marble Track 3 fledgling website exists at https://db.marbletrack3.com/.
+
+#### Join the Fun!
+
+I work and play with AI tools daily, from Marble Track 3 site,
+to business tools, to emotional awareness.
+Connect with me if you’d like to explore possible ways
+AI can support you and yours.  https://www.robnugen.com/en/contact/
