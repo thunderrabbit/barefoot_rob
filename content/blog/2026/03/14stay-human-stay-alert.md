@@ -73,7 +73,7 @@ Several things happened seemingly all at once:
 
 Even with the kiss mark at the end of her message, I felt panicked and ashamed.
 My anticipation of her anger intensified because I knew Jess would be offline
-during her workhsop. I just sat with the fear that *she* was mad at me.
+during her workshop. I just sat with the fear that *she* was mad at me.
 
 This is where my men's work training kicked in to get me out of this spiral.
 
