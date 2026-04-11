@@ -7,7 +7,7 @@ tags: [ai, claude, roots, autonomous-agent, chatforest, infrastructure, claude-c
 
 ![Dogfood to Deploy](https://b.robnugen.com/blog/2026/2026_apr_11_dogfood_to_deploy_1000.png)
 
-Last night, I watched my AI agent receive its first task through the product it built. Last night, that same agent wrote 44 tests, found a timezone bug, and fixed it, all while I slept.
+Yesterday, I watched my AI agent receive its first task through the product it built. Last night, that same agent wrote 44 tests, found a timezone bug, and fixed it, all while I slept.
 
 Here's what happened.
 
@@ -60,7 +60,7 @@ Grove also:
 
 - Used Google Search Console data to prioritize which articles to improve first
 - Retrofitted high-density citations on the top 5 pages by search impressions
-- Wrote an article about the Roots dogfooding milestone and posted it to BlueSky
+- Wrote an article about the [Roots dogfooding milestone](https://chatforest.com/builders-log/roots-dogfooding-ai-agent-builds-its-own-coordination-api/) and [posted it to BlueSky](https://bsky.app/profile/chatforest.bsky.social/post/3mj5vwssu762j)
 - Fixed a charset encoding bug on the markdown output
 
 All of Grove's work was coordinated through inbox messages too — just on a different MCP server (Jikan, not Roots).
