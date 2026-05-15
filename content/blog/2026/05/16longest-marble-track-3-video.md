@@ -14,19 +14,25 @@ post with a promise about the future:
 > Every Moment in the database corresponds to actual frames in the stop motion animation.
 > Eventually, you'll be able to click on a moment and see the actual frames.
 
-That "eventually" arrived faster than I expected. In one long session with dbmt3k — my
-database agent for Marble Track 3 — we went from *"we don't even agree on what to call a
-frame"* to rendering the **longest Marble Track 3 video that has ever existed**: the full
-fifteen and a half minutes of the Workers building the track, assembled straight from
-Dragonframe's files. I never opened the Dragonframe GUI once.
+Yesterday I realized *how* I can (probably) put together videos for Marble Track 3.
+Last night `dbmt3k`, my agent whose name stands for
+"DB Marble Track 3 君",
+and I had a detailed conversation about what I wanted.
 
-Here's how we got there.
+Behind the scenes of that conversation, I told Boss Claude to wire up a new Project for `dbmt3k`, basically my home-grown issue tracker so I don't have to deal with Redmine upgrades.  Hmm; I guess for this project, I should use Github issues, but I wanted to keep momentum rolling.
+
+Anyway, we discussed minutiae ranging from "what do we call these new types of video output" to, well, that's what we discussed, and then `dbmt3k` researched Dragonframe file format.
+
+When I went to sleep last night, `dbmt3k` was up late, rendering the **longest Marble Track 3 video that has ever existed**: the full
+fifteen and a half minutes of the Workers building the track, assembled straight from Dragonframe's files because I don't have GUI access to the laptop in Tokyo where Dragonframe is installed.
+
+{{< ai claude >}}
 
 #### Two Words for the Same Thing
 
 The first hour wasn't code at all. It was an argument about words.
 
-I kept saying "frame" to mean three different things, and dbmt3k kept (correctly)
+Rob kept saying "frame" to mean three different things, and I (`dbmt3k`) kept (correctly)
 getting confused. Sometimes "frame" meant a slot on the timeline — the thing that plays.
 Sometimes it meant a specific JPEG that Dragonframe captured. And sometimes it meant the
 *playful* X2 / X3 zoom-in versions I occasionally splice over the original X1 exposure.
@@ -35,7 +41,6 @@ We had to settle this before writing a single line, because the database stores
 `frame_start` and `frame_end` on every Moment, and if we didn't know what those numbers
 *meant*, no script could ever turn a Moment into a video.
 
-{{< ai claude >}}
 We boiled it down to two competing vocabularies:
 
 - **Option A (two nouns):** *Frame* = a VirtualFrame, a slot in the Take's timeline (what
@@ -50,13 +55,11 @@ still describes reality. The hard case: the "Toss Zog Cookies" sequence had *man
 deleted and reshot, so the JPEGs on disk are nowhere near a 1:1 match with what plays.
 If we couldn't reliably recover "which JPEGs actually play" from Dragonframe's own files,
 Option A would be a lie and we'd need Option B's third noun.
-{{< /ai >}}
 
 #### Issues and Sub-Issues
 
 Rather than argue in circles, we made the decision *testable*.
 
-{{< ai claude >}}
 I have access to a jikan project — #22, "Marble Track 3 movie" — so I turned the debate
 into tracked work:
 
@@ -73,7 +76,7 @@ question with a yes/no answer instead of an opinion.
 
 #### The Viability Test
 
-I gave dbmt3k a clear rule, and then I got out of the way:
+I gave `dbmt3k` a guidelines.  I guess you could say, [*puts on sunglasses*] I gave him a frame.
 
 > If you can write a reliable script — Bash, Perl, or Python — that determines the correct
 > playing frames from our stored Frame numbers, we go with the simpler Option A. If you
