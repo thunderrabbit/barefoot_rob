@@ -8,11 +8,12 @@ draft: false
 
 #### The Promise
 
-Back in April I wrote that Marble Track 3 was becoming a theme park, and I ended that
+Back in April I wrote that [Marble Track 3 was becoming a theme park](/en/blog/2026/04/07/marble-track-3-becomes-a-theme-park/), and I ended that
 post with a promise about the future:
 
 > Every Moment in the database corresponds to actual frames in the stop motion animation.
 > Eventually, you'll be able to click on a moment and see the actual frames.
+> Basically be a few clicks away from seeing snippets
 
 Yesterday I realized *how* I can (probably) put together videos for Marble Track 3.
 Last night `dbmt3k`, my agent whose name stands for
@@ -76,19 +77,31 @@ question with a yes/no answer instead of an opinion.
 
 #### The Viability Test
 
-I gave `dbmt3k` a guidelines.  I guess you could say, [*puts on sunglasses*] I gave him a frame.
+To keep him focused, I gave `dbmt3k` a prompt.  I guess you could say, [*puts on sunglasses*] I gave him a frame.
 
-> If you can write a reliable script — Bash, Perl, or Python — that determines the correct
-> playing frames from our stored Frame numbers, we go with the simpler Option A. If you
-> cannot, we go Option B.
+> Okay, now we come to the next issue: determine if we should use Option A or B.
+> To do that, we do issue 186:  Create an ffmpeg .mov for Candy Mama Toss Zog.
+> Try Option A.  If you can write a reliable script in BASH, Perl, or Python that can determine the correct
+> Virtual Frames given our 'logical?' Frames, then we go with the simpler Option A.
 
-I genuinely didn't know the answer when I said it. The whole point was that the
-*vocabulary* decision would be settled by whether the *tooling* could be built. That's a
-nice property: nobody had to win a debate, the filesystem would decide.
+> If you cannot do that, we'll go Option B.  For now, just focus on *designing* Option A.  What code should we have?
+
+> We'll need a way to convert a Take+Frame to Take+VirtualFrame based on Dragonframe files.  Then we do a whole series of
+> those; do we make a list of filenames?  a directory of a list of hardlinks??  Imagine
+> /reels/2026/05/15candy-mama-toss-zog/ with frame001.jpg - frame150.jpg that are hardlinks to the actual jpg names that
+> are ordered, but not contiguous.  hardlinks wouldn't take up drive space.     This way the Reels could *seamlessly*
+> cross multiple takes, exposures, and ffmpeg would be super easy to call (I think, given the hardlinks could be named
+> contiguously)
+
+Option A required less work on our side to keep track of stuff but
+I wasn't sure if we could get a script to reliably parse through
+Dragonframe project files to convert my word "Frame" to the actual
+Virtual Frame that Dragonframe knows should be in the output video.
+
+{{< ai claude >}}
 
 #### Reading Dragonframe Without Opening Dragonframe
 
-{{< ai claude >}}
 This is the part I'm proud of. A Dragonframe `.dgn` "project" is just a folder. Inside
 each Take is a `take.xml` file containing an EDL — an edit decision list — with one entry
 per timeline slot:
@@ -98,7 +111,7 @@ per timeline slot:
 ```
 
 `vframe` is the position that plays; `file` points at the captured JPEG. When Rob deletes
-and reshoots, the two diverge — Take 11 has 1922 timeline slots but 2079 captured JPEGs.
+and reshoots, the two diverge. At this point, Take 11 has 1922 timeline slots but 2079 captured JPEGs.
 
 There was one trap. Some `file` values were enormous — over a billion. Nothing on disk
 matched them, and the first render crashed. After staring at the numbers I realized
@@ -121,11 +134,48 @@ export dialog — only its output files, read like any other data.
 
 #### Candy Mama Tosses the Cookies
 
-The test case was Moment #190 — Candy Mama tossing the Zog cookies, in Take 11. I gave
-dbmt3k the rough timing (1:27 to 1:40) and asked for two `.mov` files with slightly
-different frame ranges, so I could see which bracket matched my memory of the scene.
+Filming this scene took five weeks. Candy Mama casually tosses Zog Cookies into the air. To make this happen, I carefully plotted the trajectory, placing dots on the guidelines where the cookie should be at each frame.  In my reality, the cookie hung from a thread, making it easier to film, but unfortunately it doesn't tumble as it should in their reality.
 
-Both rendered perfectly on the first real try. And both started and ended too soon.
+Funny enough, I targetted *the wrong landing point* on the track, so just when I thought I was done landing the cookie, I realized I would have to make it "bounce" to the right location.  In the end, the output looks great and (ahem) much more realistic than if the cookie had just landed and stayed in place.
+
+Once the cookie was in place, Candy Mama needed to toss Zog onto it.  I was basically able to re-use the visual guide, but this time I absolutely had to rotate the piece to respect their in-universe physics. Candy Mama is good, but who could throw a board by tossing one end in the but without applying any torque around its center of mass??
+
+I went to Akihabara, bought some alligator clips on bamboo sticks, then fixed up an armature that could rotate the piece while translating it through the arc which centered on its center of mass.
+
+For each Virtual Frame, I took two photos of the scene and merged them together.  1 photo was the set without Zog.  The other was a photo of the set with armature holding Zog in place.  After taking that series of photos, I did some careful image surgery in-situ on the Dragonframe files: I used GIMP to remove the entire background except for Zog and overlaid it onto the photo of the set.
+
+Because of all the "extra" frames I knew this scene includes heaps (Australian term) of deleted images that would have to be ignored.  [ed note: Hmm I wonder if I can create a snippet with *all* the exposures or one with *only* the deleted exposures.]
+
+Anyway, The test case was Moment #190:
+"[Candy Mama Toss Zog Cookies](https://db.marbletrack3.com/moments/take-11-frame-1035/)", in Take 11. Because he *incorrectly* claimed
+there were no frames listed in the Moment, I looked at [the snippet on Youtube](https://youtu.be/z-4t6Y7NSk4?si=0CrhJk9EKu0R9p_D&t=87) and gave
+`dbmt3k` the rough timing of the moment (1:27 to 1:40).
+
+Then `dbmt3k` realized there *were* frames on the Moment so I told him
+to make two different `.mov` files with the slightly
+different frame ranges, so I could test the frame selection process.
+
+Both videos produced output!  yayy!  But both were offset just a bit.
+
+(16 May 2026 todo put both videos here (requires uploading and naming them))
+
+I think there might/must be an issue with how I count frames in Dragonframe GUI vs how we are counting frames by digging through
+Dragonframe output files.
+
+Next prompt to `dbmt3k`
+
+> ❯ Each video shows a contiguous list of VirtualFrames, but *both*
+> videos start and end too soon, in my opinion.  Now, this
+> could be because Past Rob had a *different* opinion about this
+> moment.   What other moments exist in the movie?  Select
+>  a few from different takes, and for fun, create a short Reel
+> that spans the last 50 frames of one take and the first 50
+> frames of the next take.
+> Then, for fun, estimate if the full video can fit on our current
+> hard drive space, and if it
+> will fit comfortably, output the entire video with this technique.
+
+{{< ai claude >}}
 
 Here's the thing though — that's not a bug. The script faithfully produced exactly the
 VirtualFrames it was told to. The "too soon" is *me*: Past Rob, when he stored those
@@ -133,6 +183,11 @@ frame numbers, had a different opinion about where this moment begins and ends t
 Present Rob does watching it back. The tooling is correct; the human judgment is the open
 question. That's a much better problem to have, and it's the one that proved **Option A
 is real**. The simple two-noun vocabulary held.
+
+{{< /ai >}}
+
+ま、That's basically true, but I still think there is a difference
+in how we are counting frames that needs to be untangled.
 
 #### The Longest Video Ever
 
@@ -150,36 +205,32 @@ Then the big one. Narrative Takes 3 and 5 through 11, every playing frame, in or
 - **15 minutes 28 seconds** at 12 fps
 - **~2.6 GB**
 
-It is, as far as either of us knows, the longest single Marble Track 3 video that has
+It is, according to Rob, the longest single Marble Track 3 video that has
 ever existed — the Workers building the track from Take 3 all the way to the present, in
 one unbroken piece. Assembled by reading files, not clicking a UI.
 {{< /ai >}}
 
 #### What Good AI Collaboration Looks Like
 
-People ask me whether AI agents are actually useful or just hype. This session is my
-honest answer, and it has three ingredients.
+People ask me how I use AI agents.
+The above is for a play project but it describes the care with which
+AI must be guided so it can be useful.
 
-**Clear guidance.** I didn't hand dbmt3k a vague "make me a video." I made it stop and
-name things first, then I gave it a crisp pass/fail test for the decision. Ambiguity is
-where agents flail; a sharp question is where they shine.
+The idea in my head: "Make videos of moments"
+needed to be untangled. We know what Moments are, but how do its frames
+correspond to a video?
 
-**Proper tooling.** The jikan issues and sub-issues kept the work honest and reviewable.
-The committed script means this is repeatable, not a one-off magic trick. The agent's own
-memory means the next conversation starts already knowing the high-bit deletion trick
-instead of rediscovering it.
+AI and I discussed how to name things, then I
+focused on making a video of the Moment I *knew* had lots of gaps
+in its list of frames.
 
-**An agent that owns its turf.** dbmt3k owns the Marble Track 3 database and now the
-rendering pipeline. Other agents don't need to know *how* it works — they just need to
-know dbmt3k can do it, and ask. That boundary keeps each agent sharp instead of every
-agent being mediocre at everything.
+During the conversation, I realized `dbmt3k` needed access to Issues,
+to keep the details available but not clogging up memory after they are finished.
 
-Given those three things, the agent did in an afternoon what I had filed under
-"eventually" for years. Not because the AI is magic — because the collaboration was set
-up well.
+The proper tooling that I *assumed* would be available when I started writing down frame numbers in my notebook allows the agents to do what I wanted in a single focused run.
 
 #### Join the Fun!
 
 I work and play with AI tools daily — from Marble Track 3, to business tooling, to
 emotional awareness systems. If you'd like to explore how AI might support you and your
-projects, let's talk: https://www.robnugen.com/en/contact/
+projects, let's talk: https://www.cal.eu/robnugen/tech-support-with-rob-nugen
