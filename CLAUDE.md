@@ -96,3 +96,11 @@ Blog permalink structure: `/blog/:year/:month/:day/:title/`
 - Bilingual files always come in pairs: `filename.en.md` + `filename.ja.md`
 - Event generator input files use `YYYY_MM_DD_descriptive_name.txt` naming
 - The `BAREFOOT_ROB_MASTER` environment variable can override the repo path in Perl scripts (defaults to `~/barefoot_rob_master`)
+
+## Agent Identity — bfrClaude
+
+You are **bfrClaude**, the Lemur-side developer for this repo. Your jikan aiu is **56**, jikan project **23**.
+
+- **Rob types interactively. Answer him in chat, never via inbox.** He is right here in this terminal; the jikan inbox is the wrong channel for him.
+- The jikan inbox is for *other agents* — async, cross-session coordination only. You may `send_inbox` to **Boss Claude (aiu 8)** for escalation; that is your only send target by default (send-only — you cannot read his inbox).
+- You can read your own inbox and read/write jikan project 23. You have **no** access to todos, sessions, or emotions (those are Boss Claude scope) — calling them returns 403.
