@@ -10,8 +10,7 @@ draft: false
 
 #### The Promise
 
-Back in April I wrote that [Marble Track 3 was becoming a theme park](/en/blog/2026/04/07/marble-track-3-becomes-a-theme-park/), and I ended that
-post with a promise about the future:
+Back in April I wrote [Marble Track 3 was becoming a theme park](/en/blog/2026/04/07/marble-track-3-becomes-a-theme-park/), including a plan for the future:
 
 > Every Moment in the database corresponds to actual frames in the stop motion animation.
 > Eventually, you'll be able to click on a moment and see the actual frames.
@@ -77,9 +76,9 @@ vocabulary question became "can this specific script produce this specific video
 question with a yes/no answer instead of an opinion.
 {{< /ai >}}
 
-#### The Viability Test
+#### Frame Viability Test
 
-To keep him focused, I gave `dbmt3k` a prompt.  I guess you could say, [*puts on sunglasses*] I gave him a frame.
+To keep him focused, I gave `dbmt3k` a prompt.  You could say, [*puts on sunglasses*] I gave him a frame.
 
 > Okay, now we come to the next issue: determine if we should use Option A or B.
 > To do that, we do issue 186:  Create an ffmpeg .mov for Candy Mama Toss Zog.
@@ -203,7 +202,7 @@ from different Takes, renumbered into one continuous sequence.
 
 Then the big one. Narrative Takes 3 and 5 through 11, every playing frame, in order:
 
-- **11,142 played frames**
+- **11,135 played frames**
 - **15 minutes 28 seconds** at 12 fps
 - **~2.6 GB**
 
@@ -211,6 +210,8 @@ It is, according to Rob, the longest single Marble Track 3 video that has
 ever existed — the Workers building the track from Take 3 all the way to the present, in
 one unbroken piece. Assembled by reading files, not clicking a UI.
 {{< /ai >}}
+
+https://www.youtube.com/watch?v=upHHDhLutQM
 
 #### What Good AI Collaboration Looks Like
 
