@@ -1,62 +1,143 @@
 ---
 title: "git close-bubble: Closing Merge Bubbles Without Thinking"
 date: 2026-05-18T09:00:00+09:00
-draft: true
+draft: false
 tags: ["2026", "git", "workflow", "tools", "ai"]
 ---
 
+[![git close-bubble demo](https://asciinema.org/a/WJnSLElsrfpaFgKm.svg)](https://asciinema.org/a/WJnSLElsrfpaFgKm)
+
 #### The Merge Bubble Pattern
 
-My git workflow is built around merge bubbles.  The idea is simple: every set of related commits lives inside a bubble — branch off, do the work, merge back with `--no-ff`.  The merge commit is the lid on the bubble.  The graph stays readable, and any set of changes has a clear start and end.
+I like `git`.  I use it for all my programming projects of course, and everything
+from `~/.ssh/`
+to `~/.claude/`
+to my Godot game (coming soon, I promise)
+to my book formatted in LaTeX,
+and nearly any directory that's got custom-edited text files in it.
 
-The opening commit of every bubble is a tiny BEGIN commit — literally just a version bump, nothing else.  Not empty, but deliberately minimal.  The real work starts in the second commit.  This way, the BEGIN commit is unambiguous: it marks where the bubble started, and nothing else happened there.
+I generally work alone on my projects,
+so I don't need PRs like
+`[github-flow](https://docs.github.com/en/get-started/using-github/github-flow)`
+and especially don't need the original
+`[git-flow](https://nvie.com/posts/a-successful-git-branching-model/)`.
+But I do like to keep groups of commits together.  For that, I like merge bubbles.
 
-This is all fine in theory.  In practice, closing a bubble used to mean remembering exactly where I branched from, checking out that parent, running the merge, then getting back to my working branch.  Enough friction that I sometimes skipped the `--no-ff` and just let commits land flat.
+For example:
+
+```
+*   e3f9cca DONE admin set existing user password
+|\
+| * 0a6dd90 Admin user_edit: hide set-password panel on self + server-side guard
+| * d5dc655 AdminSetPasswordCest: end-to-end round trip on abc
+| * ba74df9 placeholder for AdminSetPasswordCest
+| * bbb4013 Admin user_edit: set-password form + handler
+| * 384f4ba locale: admin user_edit set-password strings (EN + JA)
+|/
+* 7cd2527 BEGIN admin set existing user password
+*   658cc93  DONE admin-driven brand manager registration
+|\
+| * 6e1f640 register.php: admin-driven success message names the new manager + login URL
+| * bcda5fd register.php: gate to admin only post-bootstrap
+| * 94b8c63 Admin users list: '+ Add brand manager' link to /login/register.php
+|/
+* 8eb82ba BEGIN brand manager registration UX
+```
+
+Every set of related commits lives inside a bubble.  I start with a `BEGIN` commit, which generally has either nothing (via `--allow-empty`) or a minimum change, like updoot the the version of the code.
+
+From there, I stack up a bunch of related commits. When it's time to close the commit, I just:
+
+1. Look up the hash of the BEGIN commit
+2. Copy the hash to my paste buffer
+3. `git checkout [paste]`
+4. `git merge --no-ff active-branch -m "DONE with my awesome change"`
+5. `gitl`, which for me means `git log --oneline --graph --decorate --all`
+6. Look up the newly created hash for the DONE commit
+7. Copy the hash to my paste buffer
+8. `git branch -f active-branch [paste]`
+9. `git checkout active-branch`
+
+It's a lot!  It's a mess; it's annoying; it's fragile, but it's repeatable and I love it.
+
+I asked my AI about it and it was like "yeah no worries mate" (or something like that), and presented me with this script which I have saved in `~/.local/bin/git-close-bubble`:
 
 #### git close-bubble
 
-`git close-bubble` is a small script I wrote to handle the close-out mechanics automatically.
-
 ```bash
-git close-bubble "DONE My feature description"
+#!/usr/bin/env bash
+# Close a merge bubble started with a "BEGIN ..." commit.
+# Usage: git close-bubble <message> [BEGIN-commit]
+#        git close-bubble --dry-run [BEGIN-commit]
+
+set -euo pipefail
+
+DRY_RUN=0
+if [ "${1:-}" = "--dry-run" ]; then
+    DRY_RUN=1
+    shift
+fi
+
+if [ "$DRY_RUN" -eq 0 ] && [ $# -lt 1 ]; then
+    echo "usage: git close-bubble <message> [BEGIN-commit]" >&2
+    echo "       git close-bubble --dry-run [BEGIN-commit]" >&2
+    exit 1
+fi
+
+if [ "$DRY_RUN" -eq 1 ]; then
+    MSG=""
+    BEGIN_ARG="${1:-}"
+else
+    MSG="$1"
+    BEGIN_ARG="${2:-}"
+fi
+
+B=$(git branch --show-current)
+
+if [ -n "$BEGIN_ARG" ]; then
+    S=$(git rev-parse --verify "$BEGIN_ARG")
+else
+    CLOSED=$(git log --merges --format='%P' | awk '{print $1}' | sort -u)
+    S=""
+    while IFS= read -r c; do
+        if ! printf '%s\n' "$CLOSED" | grep -qx "$c"; then
+            S="$c"; break
+        fi
+    done < <(git log --grep='^BEGIN ' --format='%H')
+    if [ -z "$S" ]; then
+        echo "error: no unclosed BEGIN commit found" >&2
+        exit 1
+    fi
+fi
+
+echo "Would close bubble starting at: $(git log -1 --format='%h %s' "$S")"
+
+if [ "$DRY_RUN" -eq 1 ]; then
+    echo "(dry-run; no changes made)"
+    exit 0
+fi
+
+git checkout "$S"
+git merge --no-ff "$B" -m "$MSG"
+M=$(git rev-parse HEAD)
+git checkout "$B"
+git merge "$M"
+
+echo "Done. Branch '$B' now points at $M. Inspect, then 'git push' when satisfied."
 ```
 
-That's all.  It finds the most recent unclosed BEGIN commit in the log, checks out that commit, merges the current branch into it with `--no-ff`, then fast-forwards the topic branch to the new merge commit.
+It near-magically handles the fragile command line stuff with a single line:
 
-{{< ai claude >}}
-Here's what the script does under the hood:
+```bash
+git close-bubble "DONE my cool code"
+```
 
-1. **Find the BEGIN commit.** It searches `git log` for commits whose message starts with `BEGIN `. Then it checks each candidate against the list of first-parents of all existing merge commits. The first BEGIN commit that hasn't already been closed is the target.
+It does all the 9 steps above without me having to copy hashes and remembering all the incantations.
 
-2. **Perform the merge.** `git checkout <begin-commit>`, then `git merge --no-ff <current-branch> -m "<your message>"`. This creates the merge commit with the bubble-close message *as a child of the BEGIN commit*, not as a child of the latest work — which is exactly the shape you want.
+#### Dry Run
 
-3. **Fast-forward back.** `git checkout <branch>`, then `git merge <merge-commit>`. The branch pointer now sits at the merge commit, and the graph shows a clean bubble.
-
-The `--dry-run` flag skips all of that and just prints which BEGIN commit it would target — useful when you can't remember if you have an open bubble or not.
-
-One deliberate omission: the script never pushes. The comment in the source says "sometimes bots pick the wrong branch and make mini-moon-sized bubbles." Inspect the graph before you push.
-{{< /ai >}}
-
-#### Dry Run First
-
-When I'm not sure whether I have an open bubble, I run:
+There is a dry-run option you can use to see what hash it would target as the BEGIN commit.
 
 ```bash
 git close-bubble --dry-run
 ```
-
-It prints the BEGIN commit it would close and exits.  No changes, no risk.  Then I can look at `git log --oneline` and confirm it found the right one before committing to the close.
-
-#### The No-Push Is Intentional
-
-The script ends with:
-
-> *Done. Branch 'X' now points at Y. Inspect, then 'git push' when satisfied.*
-
-That pause is load-bearing.  Automated agents (including my own) have occasionally run this on the wrong branch.  The visual inspection before push is the last sanity check.  I've caught mistakes there that would have been annoying to unwind from the remote.
-
-#### Why Bother?
-
-Flat commit history is fine until you want to understand what a set of changes was *for*.  A merge bubble gives every change a subject — the DONE message — and a clear boundary.  `git log --merges --oneline` becomes a summary of the project, not just a list of micro-edits.
-
-The BEGIN/DONE pair is cheap to write.  `git close-bubble` makes the close-out cheap too.  Now I actually do it.
