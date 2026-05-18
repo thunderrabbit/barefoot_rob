@@ -1,5 +1,5 @@
 ---
-title: "git close-bubble: Closing Merge Bubbles Without Thinking"
+title: "git close-bubble: Reliably Close Merge Bubbles"
 date: 2026-05-18T09:00:00+09:00
 draft: false
 tags: ["2026", "git", "workflow", "tools", "ai"]
@@ -7,7 +7,7 @@ tags: ["2026", "git", "workflow", "tools", "ai"]
 
 [![git close-bubble demo](https://asciinema.org/a/WJnSLElsrfpaFgKm.svg)](https://asciinema.org/a/WJnSLElsrfpaFgKm)
 
-#### The Merge Bubble Pattern
+#### I like Merge Bubbles
 
 I like `git`.  I use it for all my programming projects of course, and everything
 from `~/.ssh/`
