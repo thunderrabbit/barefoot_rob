@@ -156,9 +156,9 @@ Then `dbmt3k` realized there *were* frames on the Moment so I told him
 to make two different `.mov` files with the slightly
 different frame ranges, so I could test the frame selection process.
 
-Both videos produced output!  yayy!  But both were offset just a bit.
+Both videos produced output!  yayy!  But both were offset just a bit.  I've renamed the videos to more accurately explain what they show.
 
-(16 May 2026 todo put both videos here (requires uploading and naming them))
+{{< youtube ZlwLcawEyYQ >}}  {{< youtube _6OqtS2vlng >}}
 
 I think there might/must be an issue with how I count frames in Dragonframe GUI vs how we are counting frames by digging through
 Dragonframe output files.
@@ -211,7 +211,7 @@ ever existed — the Workers building the track from Take 3 all the way to the p
 one unbroken piece. Assembled by reading files, not clicking a UI.
 {{< /ai >}}
 
-https://www.youtube.com/watch?v=upHHDhLutQM
+{{< youtube upHHDhLutQM >}}
 
 #### What Good AI Collaboration Looks Like
 
