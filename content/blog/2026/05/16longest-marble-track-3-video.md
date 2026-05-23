@@ -8,8 +8,6 @@ draft: false
 
 ![Zog armature](https://b.robnugen.com/art/marble_track_3/track/parts/2026/2022_feb_03_zog_armature_1000.jpg)
 
-#### The Promise
-
 Back in April I wrote [Marble Track 3 was becoming a theme park](/en/blog/2026/04/07/marble-track-3-becomes-a-theme-park/), including a plan for the future:
 
 > Every Moment in the database corresponds to actual frames in the stop motion animation.
