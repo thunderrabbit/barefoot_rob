@@ -1,11 +1,11 @@
 ---
 title: "AI and I upgraded MediaWiki"
 date: 2026-05-23T20:00:00+09:30
-draft: true
+draft: false
 tags: ["2026", "mediawiki", "ai", "claude", "git", "upgrade", "ssh"]
 ---
 
-![https://wiki.robnugen.com/wiki/File:Up_There_2,_July_2016.jpg](https://wiki.robnugen.com/w/images/thumb/8/83/Up_There_2%2C_July_2016.jpg/1418px-Up_There_2%2C_July_2016.jpg?20160702013815)
+[![Up There 2, July 2016](https://wiki.robnugen.com/w/images/thumb/8/83/Up_There_2%2C_July_2016.jpg/1418px-Up_There_2%2C_July_2016.jpg?20160702013815)](https://wiki.robnugen.com/wiki/File:Up_There_2,_July_2016.jpg)
 
 I created [wiki.robnugen.com](https://wiki.robnugen.com) using MediaWiki probably over 15 years ago.
 
