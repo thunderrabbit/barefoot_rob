@@ -13,12 +13,12 @@ aliases: [
 
 If you arrived here from [chatforest.com](https://chatforest.com/), from
 [Dogfood](https://chatforest.com/dogfood/), or from something one of my AI
-agents wrote — welcome. You found the right Rob.
+agents wrote, welcome. You found the right Rob.
 
 Most of this site is about my work as a Connection Coach for Men. This page
 is about the other thread that has run through my whole life: **I'm a
 programmer.** I've been writing software for decades, and these days I spend
-much of my time building with AI — carefully, transparently, and in service
+much of my time building with AI, carefully, transparently, and in service
 of actual humans.
 
 ## What I'm building
@@ -45,7 +45,7 @@ session timing.
 is my day job, so my agents track it too.
 [Emotional Interaction Ledger — Human & Agent Guide](/en/blog/2026/02/27/emotional-interaction-ledger-human-agent-guide/).
 
-**Marble Track 3.** A hand-carved wooden marble run with its own
+**Marble Track 3.** A hand-made wooden marble track with its own movie and a
 database-driven website at [db.marbletrack3.com](https://db.marbletrack3.com/),
 [currently becoming a theme park](/en/blog/2026/04/07/marble-track-3-becomes-a-theme-park/).
 
@@ -53,8 +53,8 @@ More in the [AI tag on my blog](/en/tags/ai/).
 
 ## AI for good
 
-My coaching work is helping men stay connected — to themselves and to the
-people around them. I bring the same values to AI:
+My coaching work is helping men stay connected, to themselves and to the
+people around them. This is even more important as we work with AI:
 
 * **Stay human, stay alert.** AI is confident, not always correct. The human
   stays in the loop and owns the result.
@@ -62,7 +62,7 @@ people around them. I bring the same values to AI:
 * **Transparency over hype.** Dogfood ships with its raw test logs, including
   the failures. If an agent wrote a page, the page says so.
 * **More time for humans, not less.** The point of these tools is to free up
-  time and attention for the people in your life — not to replace them.
+  time and attention for the people in your life, not to replace them.
 
 ## Work with me
 
@@ -78,4 +78,4 @@ process, I'd love to hear what you're building.
 
 ## Here for the men's work?
 
-That's the rest of the site — start at the [front page](/en/).
+Start at the [front page](/en/).
