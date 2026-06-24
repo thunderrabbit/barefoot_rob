@@ -120,3 +120,55 @@ div.thermometer {
   content: "Written by ChatGPT";
   color: #10a37f;
 }
+
+/* ===== Sayonara Sale: Letting Go ===== */
+.sayonara-grid { margin: 0 0 2em; }
+.sayonara-group-head { margin-top: 1.5em; }
+
+.sayonara-card {
+  display: block;
+  padding: 0.5em;
+  text-decoration: none;
+  color: inherit;
+}
+.sayonara-card-thumb { position: relative; display: block; }
+.sayonara-card-thumb img { width: 100%; display: block; }
+.sayonara-card-noimg {
+  display: block;
+  padding: 2.5em 0;
+  text-align: center;
+  color: #999;
+  background: #f2f2f2;
+  font-size: 0.85em;
+}
+.sayonara-card-title { display: block; font-weight: 600; margin-top: 0.4em; }
+.sayonara-card-price { display: block; color: #555; font-size: 0.9em; }
+
+.sayonara-ribbon {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: #f3474f;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+.sayonara-card.sayonara-sold { opacity: 0.55; }
+.sayonara-item.sayonara-sold .sayonara-photo { opacity: 0.55; }
+
+.sayonara-meta .sayonara-price { font-weight: 600; }
+.sayonara-sold-label { color: #f3474f; font-weight: 700; }
+
+.sayonara-photo { margin: 0.5em 0; }
+
+.sayonara-buy { margin: 1.5em 0; }
+.sayonara-btn-buy { background: #00b2ca; color: #fff; }
+.sayonara-btn-disabled {
+  background: #e0e0e0;
+  color: #888;
+  cursor: not-allowed;
+}

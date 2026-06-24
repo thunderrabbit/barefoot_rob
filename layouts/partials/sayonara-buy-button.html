@@ -1,0 +1,8 @@
+{{/* Renders the buy button for a sayonara item page. Pass the item page as context. */}}
+{{- if .Params.sold -}}
+<p class="sayonara-buy"><span class="pure-button sayonara-btn-disabled">SOLD</span></p>
+{{- else if .Params.stripe_buy_url -}}
+<p class="sayonara-buy"><a class="pure-button pure-button-primary sayonara-btn-buy" href="{{ .Params.stripe_buy_url }}">Buy{{ with .Params.price_jpy }} ¥{{ lang.FormatNumber 0 . }}{{ end }}</a></p>
+{{- else -}}
+<p class="sayonara-buy"><span class="pure-button sayonara-btn-disabled">Buy — coming soon</span></p>
+{{- end -}}
