@@ -5,7 +5,7 @@
     <div class="pure-u-1-2 pure-u-md-1-3">
         <a class="sayonara-card{{ if .Params.sold }} sayonara-sold{{ end }}" href="{{ .Permalink }}">
             <span class="sayonara-card-thumb">
-                {{ with .Params.thumb }}<img src="{{ . }}" alt="{{ $title }}" class="pure-img">{{ else }}<span class="sayonara-card-noimg">no photo yet</span>{{ end }}
+                {{ $imgs := .Params.images }}{{ if $imgs }}<img src="{{ replace (index $imgs 0) "_1000." "_500." }}" alt="{{ $title }}" class="pure-img" loading="lazy">{{ else }}<span class="sayonara-card-noimg">no photo yet</span>{{ end }}
                 {{ if .Params.sold }}<span class="sayonara-ribbon">SOLD</span>{{ end }}
             </span>
             <span class="sayonara-card-title">{{ .Title }}</span>
