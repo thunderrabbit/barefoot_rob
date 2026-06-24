@@ -1,0 +1,112 @@
+[
+   {
+      "category" : "dvd",
+      "name" : "8 Mile",
+      "slug" : "8-mile"
+   },
+   {
+      "category" : "dvd",
+      "name" : "High Fidelity",
+      "slug" : "high-fidelity"
+   },
+   {
+      "category" : "book",
+      "name" : "I'M FINE!",
+      "slug" : "im-fine"
+   },
+   {
+      "category" : "book",
+      "name" : "Karma for Today's Traveler",
+      "slug" : "karma-for-todays-traveler"
+   },
+   {
+      "category" : "cd",
+      "name" : "Keguribap — Philip Gayle",
+      "slug" : "keguribap-philip-gayle"
+   },
+   {
+      "category" : "cd",
+      "name" : "Melinda Ortner (signed)",
+      "slug" : "melinda-ortner"
+   },
+   {
+      "category" : "cd",
+      "name" : "No Exhaust — Johnsons Motorcar",
+      "slug" : "no-exhaust-johnsons-motorcar"
+   },
+   {
+      "category" : "book",
+      "name" : "Poor Yorick",
+      "slug" : "poor-yorick"
+   },
+   {
+      "category" : "kitchen",
+      "name" : "Round Wooden Cutting Board",
+      "slug" : "round-wooden-cutting-board"
+   },
+   {
+      "category" : "book",
+      "name" : "The Art of Traditional Thai Massage",
+      "slug" : "the-art-of-traditional-thai-massage"
+   },
+   {
+      "category" : "book",
+      "name" : "The Cosmic War",
+      "slug" : "the-cosmic-war"
+   },
+   {
+      "category" : "cd",
+      "name" : "The Eminem Show",
+      "slug" : "the-eminem-show"
+   },
+   {
+      "category" : "book",
+      "name" : "The Human Male",
+      "slug" : "the-human-male"
+   },
+   {
+      "category" : "book",
+      "name" : "The Life You Were Born to Live",
+      "slug" : "the-life-you-were-born-to-live"
+   },
+   {
+      "category" : "book",
+      "name" : "The Little #MeToo Book for Men",
+      "slug" : "the-little-metoo-book-for-men"
+   },
+   {
+      "category" : "book",
+      "name" : "The Sculptor in the Sky",
+      "slug" : "the-sculptor-in-the-sky"
+   },
+   {
+      "category" : "titanium",
+      "name" : "Titanium Shoulder Fixation Plate",
+      "slug" : "shoulder-fixation-plate"
+   },
+   {
+      "category" : "book",
+      "name" : "To Be or Not To Be: A Chooseable-Path Adventure",
+      "slug" : "to-be-or-not-to-be"
+   },
+   {
+      "category" : "book",
+      "name" : "Touring Mapple 3 Kanto-Koshinetsu",
+      "slug" : "touring-mapple-3-kanto-koshinetsu"
+   },
+   {
+      "category" : "cd",
+      "name" : "TOWN — Johnsons Motorcar",
+      "slug" : "town-johnsons-motorcar"
+   },
+   {
+      "category" : "book",
+      "name" : "Universal Vision",
+      "slug" : "universal-vision"
+   },
+   {
+      "category" : "book",
+      "name" : "Worldwide Prayer Circle",
+      "slug" : "worldwide-prayer-circle"
+   }
+]
