@@ -63,45 +63,59 @@ sub urls_for {
     return { full => $full, image => $img1k, thumb => $thumb };
 }
 
-# --- read the manifest: slug -> ordered, de-duped list of photos --------------
-my %photos;        # slug => [ {file, image, thumb}, ... ]
-my %seen_file;     # slug => { rel => 1 }
+# --- catalog slugs (from sidecar filenames), longest first for prefix matching
+opendir(my $dh, $catalog_dir) or die "cannot open catalog dir $catalog_dir: $!";
+my @catalog = sort { length($b) <=> length($a) }
+              map { (my $s = $_) =~ s/\.json$//; $s }
+              grep { /\.json$/ } readdir $dh;
+closedir $dh;
+my %is_catalog = map { $_ => 1 } @catalog;
+
+# Resolve an uploaded (manifest) slug to a catalog slug: exact match, else the
+# LONGEST catalog slug that is a hyphen-prefix of it. The /ai/ uploader appends
+# descriptors (the-cosmic-war-paperback-book -> the-cosmic-war); the #4 uploader
+# uses the catalog slug exactly, so it matches outright.
+sub resolve_slug {
+    my $m = shift;
+    return $m if $is_catalog{$m};
+    for my $c (@catalog) {                 # longest-first
+        return $c if $m =~ /^\Q$c\E-/;
+    }
+    return undef;
+}
+
+# --- read the manifest: catalog slug -> ordered, de-duped list of photos -------
+my %photos;        # catalog slug => [ {full, image, thumb}, ... ]
+my %seen_file;     # catalog slug => { rel => 1 }
+my %unresolved;    # manifest slug => 1 (no catalog item)
 open my $mh, '<:raw', $manifest or die "open $manifest: $!";
 while (my $line = <$mh>) {
     $line =~ s/^\x{EF}\x{BB}\x{BF}//;   # tolerate a BOM
     next unless $line =~ /\S/;
     my $row = eval { decode_json($line) };
     next unless ref $row eq 'HASH';
-    my $slug = $row->{slug} or next;
-    my $rel  = $row->{file} or next;
+    my $mslug = $row->{slug} or next;
+    my $rel   = $row->{file} or next;
+    my $slug  = resolve_slug($mslug);
+    unless (defined $slug) { $unresolved{$mslug}++; next; }
     next if $seen_file{$slug}{$rel}++;
-    my $u = urls_for($rel);
-    push @{ $photos{$slug} }, $u;
+    push @{ $photos{$slug} }, urls_for($rel);
 }
 close $mh;
 
-# --- write image URLs into the matching catalog sidecars ----------------------
-opendir(my $dh, $catalog_dir) or die "cannot open catalog dir $catalog_dir: $!";
-my %has_sidecar = map { $_ => 1 } grep { /\.json$/ } readdir $dh;
-closedir $dh;
+for my $m (sort keys %unresolved) { print "skip (no catalog item): $m\n"; }
 
-my ($linked, $photo_total, %catalog_slugs) = (0, 0);
+# --- write image URLs into the matching catalog sidecars ----------------------
+my ($linked, $photo_total) = (0, 0);
 my $json = JSON::PP->new->utf8->canonical->pretty;
 
 for my $slug (sort keys %photos) {
-    my $file = "$slug.json";
-    unless ($has_sidecar{$file}) {
-        print "skip (no catalog item): $slug\n";
-        next;
-    }
-    my $path = "$catalog_dir/$file";
+    my $path = "$catalog_dir/$slug.json";
     my $item = decode_json(slurp_raw($path));
 
-    my @imgs  = map { $_->{image} } @{ $photos{$slug} };
-    my $thumb = $photos{$slug}[0]{thumb};
-
+    my @imgs = map { $_->{image} } @{ $photos{$slug} };
     $item->{images} = \@imgs;
-    $item->{thumb}  = $thumb;
+    $item->{thumb}  = $photos{$slug}[0]{thumb};
 
     open my $ofh, '>:raw', $path or die "cannot write $path: $!";
     print $ofh $json->encode($item);

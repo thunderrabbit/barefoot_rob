@@ -6,8 +6,9 @@ category: "book"
 tier: "B"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/2026-jun-17-the-cosmic-war-paperback-book_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/books/thumbs/2026-jun-17-the-cosmic-war-paperback-book.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
