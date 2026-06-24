@@ -22,8 +22,8 @@ use File::Path qw(make_path);
 binmode STDOUT, ':encoding(UTF-8)';
 
 my $home        = $ENV{HOME};
-my $catalog_dir = $ENV{SAYONARA_CATALOG} // "$home/work/rob/sayonara_catalog/items";
-my $stripe_file = $ENV{SAYONARA_STRIPE}  // "$home/work/rob/sayonara_catalog/stripe_links.json";
+my $catalog_dir = $ENV{SAYONARA_CATALOG} // "$home/barefoot_rob_master/data/sayonara/items";
+my $stripe_file = $ENV{SAYONARA_STRIPE}  // "$home/barefoot_rob_master/data/sayonara/stripe_links.json";
 my $out_dir     = $ENV{SAYONARA_OUT}     // "$home/barefoot_rob_master/content/sayonara/items";
 
 make_path($out_dir) unless -d $out_dir;
