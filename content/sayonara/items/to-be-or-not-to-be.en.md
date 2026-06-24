@@ -5,18 +5,17 @@ mg_issue_id: 282
 category: "book"
 tier: "A"
 mechanism: "auction"
-event: "barefoot-rob-mindful-sayonara-sale-series-1"
-images:
-  - "https://b.robnugen.com/sayonara/01/to-be-or-not-to-be_1000.jpg"
-thumb: "https://b.robnugen.com/sayonara/01/thumbs/to-be-or-not-to-be_1000.jpg"
+event: ""
+images: []
+thumb: ""
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy: 1500
+price_jpy:
 quantity: 1
 sold: false
 draft: false
-date: 2026-06-24
+date: 2026-06-23
 ---
 
 A choose-your-own-path retelling of Hamlet by Ryan North (with William Shakespeare, and YOU). Play as Hamlet, Ophelia, or Hamlet's father, and steer the story down hundreds of branching paths — most of them gleefully off-script. Heavily illustrated (each ending drawn by a different guest artist) and very funny.
