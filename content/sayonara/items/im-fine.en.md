@@ -6,8 +6,9 @@ category: "book"
 tier: "anchor"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-im-fine_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-im-fine.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

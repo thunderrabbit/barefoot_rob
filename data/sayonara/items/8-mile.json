@@ -1,16 +1,18 @@
 {
-  "slug": "8-mile",
-  "mg_issue_id": 298,
-  "name": "8 Mile",
-  "category": "dvd",
-  "tier": "C",
-  "mechanism": "",
-  "event": "",
-  "images": [],
-  "thumb": "",
-  "price_jpy": null,
-  "quantity": 1,
-  "sold": false,
-  "captured": "2026-06-23",
-  "description": "8 Mile — DVD (Universal, 2003). The Eminem film, with uncensored bonus materials. NTSC, Region 1, anamorphic widescreen 2.35:1, Rated R.\n\n**Why a new owner would be happy**\n\n- The companion film to the Eminem music — semi-autobiographical and well-loved.\n- A natural bundle with The Eminem Show CD.\n\n**Condition — important:** disc only, stored in a binder sleeve — no original case or cover art. Region 1 NTSC (won't play on region-locked Region 2 players without a multi-region setup)."
+   "captured" : "2026-06-23",
+   "category" : "dvd",
+   "description" : "8 Mile — DVD (Universal, 2003). The Eminem film, with uncensored bonus materials. NTSC, Region 1, anamorphic widescreen 2.35:1, Rated R.\n\n**Why a new owner would be happy**\n\n- The companion film to the Eminem music — semi-autobiographical and well-loved.\n- A natural bundle with The Eminem Show CD.\n\n**Condition — important:** disc only, stored in a binder sleeve — no original case or cover art. Region 1 NTSC (won't play on region-locked Region 2 players without a multi-region setup).",
+   "event" : "",
+   "images" : [
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/2026-jun-24-8-mile_1000.jpg"
+   ],
+   "mechanism" : "",
+   "mg_issue_id" : 298,
+   "name" : "8 Mile",
+   "price_jpy" : null,
+   "quantity" : 1,
+   "slug" : "8-mile",
+   "sold" : false,
+   "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/thumbs/2026-jun-24-8-mile.jpg",
+   "tier" : "C"
 }

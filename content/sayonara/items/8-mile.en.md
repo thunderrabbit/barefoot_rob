@@ -6,8 +6,9 @@ category: "dvd"
 tier: "C"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/2026-jun-24-8-mile_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/thumbs/2026-jun-24-8-mile.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

@@ -6,8 +6,11 @@ category: "titanium"
 tier: "finale"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/2026-jun-24-shoulder-fixation-plate-1_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/2026-jun-24-shoulder-fixation-plate-2_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/2026-jun-24-shoulder-fixation-plate-3_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/thumbs/2026-jun-24-shoulder-fixation-plate-1.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

@@ -1,16 +1,19 @@
 {
-  "slug": "karma-for-todays-traveler",
-  "mg_issue_id": 289,
-  "name": "Karma for Today's Traveler",
-  "category": "book",
-  "tier": "B",
-  "mechanism": "",
-  "event": "",
-  "images": [],
-  "thumb": "",
-  "price_jpy": null,
-  "quantity": 1,
-  "sold": false,
-  "captured": "2026-06-23",
-  "description": "Karma for Today's Traveler — Phra Bhasakorn Bhavilai, with David Freyer. Phra Borommathat Doi Suthep Foundation, Chiang Mai. ISBN 974-656-846-9.\n\nAn accessible look at the Buddhist concept of cause and effect — mind, intention, and the creative power of human action — written for a modern, traveling audience. The author studied physics and was a successful photographer before becoming a Theravada monk. A lovely cover painting of a lantern-lit temple procession (Doi Suthep).\n\n**Why a new owner would be happy**\n\n- A gentle, readable entry into karma and Buddhist thought — no background needed.\n- Strong Thailand / Chiang Mai provenance; a nice traveler's keepsake.\n- Good condition (still carries a ฿100 shop sticker — part of its travel story)."
+   "captured" : "2026-06-23",
+   "category" : "book",
+   "description" : "Karma for Today's Traveler — Phra Bhasakorn Bhavilai, with David Freyer. Phra Borommathat Doi Suthep Foundation, Chiang Mai. ISBN 974-656-846-9.\n\nAn accessible look at the Buddhist concept of cause and effect — mind, intention, and the creative power of human action — written for a modern, traveling audience. The author studied physics and was a successful photographer before becoming a Theravada monk. A lovely cover painting of a lantern-lit temple procession (Doi Suthep).\n\n**Why a new owner would be happy**\n\n- A gentle, readable entry into karma and Buddhist thought — no background needed.\n- Strong Thailand / Chiang Mai provenance; a nice traveler's keepsake.\n- Good condition (still carries a ฿100 shop sticker — part of its travel story).",
+   "event" : "",
+   "images" : [
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/2026-jun-24-karma-for-todays-traveler-1_1000.jpg",
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/2026-jun-24-karma-for-todays-traveler-2_1000.jpg"
+   ],
+   "mechanism" : "",
+   "mg_issue_id" : 289,
+   "name" : "Karma for Today's Traveler",
+   "price_jpy" : null,
+   "quantity" : 1,
+   "slug" : "karma-for-todays-traveler",
+   "sold" : false,
+   "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/thumbs/2026-jun-24-karma-for-todays-traveler-1.jpg",
+   "tier" : "B"
 }

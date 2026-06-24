@@ -6,8 +6,10 @@ category: "book"
 tier: "B"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/2026-jun-24-karma-for-todays-traveler-1_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/2026-jun-24-karma-for-todays-traveler-2_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/thumbs/2026-jun-24-karma-for-todays-traveler-1.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

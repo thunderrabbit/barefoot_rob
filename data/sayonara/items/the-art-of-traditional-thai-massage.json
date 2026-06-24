@@ -1,16 +1,19 @@
 {
-  "slug": "the-art-of-traditional-thai-massage",
-  "mg_issue_id": 284,
-  "name": "The Art of Traditional Thai Massage",
-  "category": "book",
-  "tier": "B+",
-  "mechanism": "",
-  "event": "",
-  "images": [],
-  "thumb": "",
-  "price_jpy": null,
-  "quantity": 1,
-  "sold": false,
-  "captured": "2026-06-23",
-  "description": "The Art of Traditional Thai Massage — Asokananda (Harald Brust). Editions Duang Kamol. ISBN 974-243-108-6.\n\nA practical, well-regarded manual of traditional Thai massage (nuad boran). The cover features the classic sen-line / energy-point body diagram.\n\n**Why a new owner would be happy**\n\n- A hands-on instructional manual — usable by a practitioner or curious beginner.\n- A staple reference in the Thai-massage world; the Asokananda name carries weight.\n- A strong fit for anyone into bodywork, yoga, or contemplative practice.\n- Paperback; some shelf wear to cover corners/edges, interior sound."
+   "captured" : "2026-06-23",
+   "category" : "book",
+   "description" : "The Art of Traditional Thai Massage — Asokananda (Harald Brust). Editions Duang Kamol. ISBN 974-243-108-6.\n\nA practical, well-regarded manual of traditional Thai massage (nuad boran). The cover features the classic sen-line / energy-point body diagram.\n\n**Why a new owner would be happy**\n\n- A hands-on instructional manual — usable by a practitioner or curious beginner.\n- A staple reference in the Thai-massage world; the Asokananda name carries weight.\n- A strong fit for anyone into bodywork, yoga, or contemplative practice.\n- Paperback; some shelf wear to cover corners/edges, interior sound.",
+   "event" : "",
+   "images" : [
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/2026-jun-24-the-art-of-traditional-thai-massage-1_1000.jpg",
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/2026-jun-24-the-art-of-traditional-thai-massage-2_1000.jpg"
+   ],
+   "mechanism" : "",
+   "mg_issue_id" : 284,
+   "name" : "The Art of Traditional Thai Massage",
+   "price_jpy" : null,
+   "quantity" : 1,
+   "slug" : "the-art-of-traditional-thai-massage",
+   "sold" : false,
+   "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/thumbs/2026-jun-24-the-art-of-traditional-thai-massage-1.jpg",
+   "tier" : "B+"
 }

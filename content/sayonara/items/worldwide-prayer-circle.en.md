@@ -6,8 +6,10 @@ category: "book"
 tier: "C"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/2026-jun-24-worldwide-prayer-circle-1_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/2026-jun-24-worldwide-prayer-circle-2_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/thumbs/2026-jun-24-worldwide-prayer-circle-1.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

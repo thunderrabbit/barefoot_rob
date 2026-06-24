@@ -1,16 +1,18 @@
 {
-  "slug": "the-sculptor-in-the-sky",
-  "mg_issue_id": 285,
-  "name": "The Sculptor in the Sky",
-  "category": "book",
-  "tier": "B",
-  "mechanism": "",
-  "event": "",
-  "images": [],
-  "thumb": "",
-  "price_jpy": null,
-  "quantity": 1,
-  "sold": false,
-  "captured": "2026-06-23",
-  "description": "The Sculptor in the Sky — Teal Scott. Paperback.\n\nA spirituality / self-development book on consciousness, creating one's reality, and finding meaning. Cosmic cover art: cupped hands cradling a glowing Earth against a starfield.\n\n**Why a new owner would be happy**\n\n- A good story to tell: “Teal Scott” is the earlier name of Teal Swan, the well-known (and polarizing) spiritual teacher — an early book under the former name carries collector/curiosity interest.\n- An approachable entry into her work for anyone drawn to consciousness / manifestation themes.\n- Paperback; light shelf wear (a corner crease), interior sound."
+   "captured" : "2026-06-23",
+   "category" : "book",
+   "description" : "The Sculptor in the Sky — Teal Scott. Paperback.\n\nA spirituality / self-development book on consciousness, creating one's reality, and finding meaning. Cosmic cover art: cupped hands cradling a glowing Earth against a starfield.\n\n**Why a new owner would be happy**\n\n- A good story to tell: “Teal Scott” is the earlier name of Teal Swan, the well-known (and polarizing) spiritual teacher — an early book under the former name carries collector/curiosity interest.\n- An approachable entry into her work for anyone drawn to consciousness / manifestation themes.\n- Paperback; light shelf wear (a corner crease), interior sound.",
+   "event" : "",
+   "images" : [
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-the-sculptor-in-the-sky_1000.jpg"
+   ],
+   "mechanism" : "",
+   "mg_issue_id" : 285,
+   "name" : "The Sculptor in the Sky",
+   "price_jpy" : null,
+   "quantity" : 1,
+   "slug" : "the-sculptor-in-the-sky",
+   "sold" : false,
+   "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-the-sculptor-in-the-sky.jpg",
+   "tier" : "B"
 }

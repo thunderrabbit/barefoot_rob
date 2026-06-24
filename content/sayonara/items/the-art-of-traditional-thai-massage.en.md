@@ -6,8 +6,10 @@ category: "book"
 tier: "B+"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/2026-jun-24-the-art-of-traditional-thai-massage-1_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/2026-jun-24-the-art-of-traditional-thai-massage-2_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/thumbs/2026-jun-24-the-art-of-traditional-thai-massage-1.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

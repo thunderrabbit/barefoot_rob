@@ -6,8 +6,10 @@ category: "book"
 tier: "B"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_human_male/2026-jun-24-the-human-male-1_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_human_male/2026-jun-24-the-human-male-2_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_human_male/thumbs/2026-jun-24-the-human-male-1.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

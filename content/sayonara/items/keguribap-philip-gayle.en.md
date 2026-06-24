@@ -6,8 +6,9 @@ category: "cd"
 tier: "B"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/2026-jun-24-keguribap-philip-gayle_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/thumbs/2026-jun-24-keguribap-philip-gayle.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

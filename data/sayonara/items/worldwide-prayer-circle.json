@@ -1,16 +1,19 @@
 {
-  "slug": "worldwide-prayer-circle",
-  "mg_issue_id": 292,
-  "name": "Worldwide Prayer Circle",
-  "category": "book",
-  "tier": "C",
-  "mechanism": "",
-  "event": "",
-  "images": [],
-  "thumb": "",
-  "price_jpy": null,
-  "quantity": 1,
-  "sold": false,
-  "captured": "2026-06-23",
-  "description": "Worldwide Prayer Circle — Self-Realization Fellowship (founded 1920 by Paramahansa Yogananda). SRF, Los Angeles. A slim devotional booklet, “dedicated to the upliftment of humanity through prayer.” Cover: Earth from space.\n\nA short booklet on the practice of the Worldwide Prayer Circle — healing prayer and group intention within the Yogananda lineage.\n\n**Why a new owner would be happy**\n\n- Of interest to anyone in the SRF / Yogananda / Autobiography of a Yogi lineage.\n- Slim, light, and gentle — an easy add to a contemplative reader's shelf.\n\n**Condition:** booklet; some surface scuffing and creasing to the dark cover."
+   "captured" : "2026-06-23",
+   "category" : "book",
+   "description" : "Worldwide Prayer Circle — Self-Realization Fellowship (founded 1920 by Paramahansa Yogananda). SRF, Los Angeles. A slim devotional booklet, “dedicated to the upliftment of humanity through prayer.” Cover: Earth from space.\n\nA short booklet on the practice of the Worldwide Prayer Circle — healing prayer and group intention within the Yogananda lineage.\n\n**Why a new owner would be happy**\n\n- Of interest to anyone in the SRF / Yogananda / Autobiography of a Yogi lineage.\n- Slim, light, and gentle — an easy add to a contemplative reader's shelf.\n\n**Condition:** booklet; some surface scuffing and creasing to the dark cover.",
+   "event" : "",
+   "images" : [
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/2026-jun-24-worldwide-prayer-circle-1_1000.jpg",
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/2026-jun-24-worldwide-prayer-circle-2_1000.jpg"
+   ],
+   "mechanism" : "",
+   "mg_issue_id" : 292,
+   "name" : "Worldwide Prayer Circle",
+   "price_jpy" : null,
+   "quantity" : 1,
+   "slug" : "worldwide-prayer-circle",
+   "sold" : false,
+   "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/thumbs/2026-jun-24-worldwide-prayer-circle-1.jpg",
+   "tier" : "C"
 }

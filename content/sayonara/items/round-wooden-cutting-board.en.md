@@ -6,8 +6,11 @@ category: "kitchen"
 tier: "B/C"
 mechanism: ""
 event: ""
-images: []
-thumb: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/kitchen/round_wooden_cutting_board/2026-jun-24-round-wooden-cutting-board-1_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/kitchen/round_wooden_cutting_board/2026-jun-24-round-wooden-cutting-board-2_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/kitchen/round_wooden_cutting_board/2026-jun-24-round-wooden-cutting-board-3_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/kitchen/round_wooden_cutting_board/thumbs/2026-jun-24-round-wooden-cutting-board-1.jpg"
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""

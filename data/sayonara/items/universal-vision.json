@@ -1,16 +1,19 @@
 {
-  "slug": "universal-vision",
-  "mg_issue_id": 290,
-  "name": "Universal Vision",
-  "category": "book",
-  "tier": "B-",
-  "mechanism": "",
-  "event": "",
-  "images": [],
-  "thumb": "",
-  "price_jpy": null,
-  "quantity": 1,
-  "sold": false,
-  "captured": "2026-06-23",
-  "description": "Universal Vision: Soul Evolution and the Cosmic Plan — Scott Mandelker, Ph.D. UV Way (San Francisco). ISBN 0-9701985-0-7.\n\nSpirituality / UFO-ET metaphysics. Mandelker (MA in Counseling, Ph.D. in East-West Psychology) integrates UFO/ET themes with self-healing and spiritual growth — “Schoolhouse Earth,” soul evolution, service to others. A follow-up to From Elsewhere: Being ET in America; blurbed by Brad Steiger, Kenneth Ring, and Dolores Cannon.\n\n**Why a new owner would be happy**\n\n- Catnip for the conscious / ET / metaphysics crowd; a cult niche with devoted readers.\n- A local hook: Mandelker has given seminars in Japan.\n- Good condition."
+   "captured" : "2026-06-23",
+   "category" : "book",
+   "description" : "Universal Vision: Soul Evolution and the Cosmic Plan — Scott Mandelker, Ph.D. UV Way (San Francisco). ISBN 0-9701985-0-7.\n\nSpirituality / UFO-ET metaphysics. Mandelker (MA in Counseling, Ph.D. in East-West Psychology) integrates UFO/ET themes with self-healing and spiritual growth — “Schoolhouse Earth,” soul evolution, service to others. A follow-up to From Elsewhere: Being ET in America; blurbed by Brad Steiger, Kenneth Ring, and Dolores Cannon.\n\n**Why a new owner would be happy**\n\n- Catnip for the conscious / ET / metaphysics crowd; a cult niche with devoted readers.\n- A local hook: Mandelker has given seminars in Japan.\n- Good condition.",
+   "event" : "",
+   "images" : [
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/2026-jun-24-universal-vision-1_1000.jpg",
+      "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/2026-jun-24-universal-vision-2_1000.jpg"
+   ],
+   "mechanism" : "",
+   "mg_issue_id" : 290,
+   "name" : "Universal Vision",
+   "price_jpy" : null,
+   "quantity" : 1,
+   "slug" : "universal-vision",
+   "sold" : false,
+   "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/thumbs/2026-jun-24-universal-vision-1.jpg",
+   "tier" : "B-"
 }
