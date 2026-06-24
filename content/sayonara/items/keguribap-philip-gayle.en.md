@@ -23,7 +23,8 @@ Keguribap — Philip Gayle. CD, experimental / avant-garde, with a distinctive c
 
 **Why a new owner would be happy**
 
-- Niche but real collector interest in the experimental / improv world.
+- **Brand new — still factory-sealed (unopened).**
+- Genuinely scarce: new copies have listed around US$129; a sealed copy is a collector's piece.
 - Striking, unusual cover art.
 
-**Condition:** in jewel case; appears used.
+**Condition:** new, sealed / shrink-wrapped — never opened.
