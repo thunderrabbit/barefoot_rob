@@ -9,8 +9,9 @@
 # Pure-local: no mg / network / secrets. English-only (v1).
 #
 # Env overrides:
-#   SAYONARA_CATALOG  dir of *.json sidecars   (default ~/work/rob/sayonara_catalog/items)
-#   SAYONARA_STRIPE   stripe_links.json path   (default ~/work/rob/sayonara_catalog/stripe_links.json)
+#   SAYONARA_CATALOG  dir of *.json sidecars   (default ~/barefoot_rob_master/data/sayonara/items)
+#   SAYONARA_STRIPE   stripe_links.json path   (default ~/barefoot_rob_master/data/sayonara/stripe_links.json)
+#   SAYONARA_SALE     sale.json overlay path   (default ~/barefoot_rob_master/data/sayonara/sale.json)
 #   SAYONARA_OUT      Hugo items dir           (default ~/barefoot_rob_master/content/sayonara/items)
 
 use strict;
@@ -24,6 +25,7 @@ binmode STDOUT, ':encoding(UTF-8)';
 my $home        = $ENV{HOME};
 my $catalog_dir = $ENV{SAYONARA_CATALOG} // "$home/barefoot_rob_master/data/sayonara/items";
 my $stripe_file = $ENV{SAYONARA_STRIPE}  // "$home/barefoot_rob_master/data/sayonara/stripe_links.json";
+my $sale_file   = $ENV{SAYONARA_SALE}    // "$home/barefoot_rob_master/data/sayonara/sale.json";
 my $out_dir     = $ENV{SAYONARA_OUT}     // "$home/barefoot_rob_master/content/sayonara/items";
 
 make_path($out_dir) unless -d $out_dir;
@@ -33,6 +35,14 @@ my %stripe;
 if (-f $stripe_file) {
     my $j = decode_json(slurp($stripe_file));
     %stripe = %$j if ref $j eq 'HASH';
+}
+
+# --- load Boss-set sale fields overlay (price/event/sold/…) -------------------
+# Kept separate from the sidecars so re-scooping badmin sidecars never clobbers prices.
+my %sale;
+if (-f $sale_file) {
+    my $j = decode_json(slurp($sale_file));
+    %sale = %$j if ref $j eq 'HASH';
 }
 
 # --- YAML double-quote a scalar ---------------------------------------------
@@ -62,6 +72,13 @@ for my $f (@files) {
     my $item = decode_json(slurp("$catalog_dir/$f"));
     my $slug = $item->{slug};
     unless ($slug) { warn "skip $f: no slug\n"; next; }
+
+    # Boss-set sale fields override the sidecar (price/event/sold/tier/mechanism/quantity)
+    if (my $ov = $sale{$slug}) {
+        for my $k (qw(price_jpy event sold tier mechanism quantity)) {
+            $item->{$k} = $ov->{$k} if exists $ov->{$k};
+        }
+    }
 
     my $sl = $stripe{$slug} // {};
 
