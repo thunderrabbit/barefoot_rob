@@ -1,0 +1,21 @@
+{{/* Receives a Pages collection; renders a thumbnail grid of sayonara items. */}}
+<div class="pure-g sayonara-grid">
+    {{ range .ByTitle }}
+    {{ $title := .Title }}
+    <div class="pure-u-1-2 pure-u-md-1-3">
+        <a class="sayonara-card{{ if .Params.sold }} sayonara-sold{{ end }}" href="{{ .Permalink }}">
+            <span class="sayonara-card-thumb">
+                {{ with .Params.thumb }}<img src="{{ . }}" alt="{{ $title }}" class="pure-img">{{ else }}<span class="sayonara-card-noimg">no photo yet</span>{{ end }}
+                {{ if .Params.sold }}<span class="sayonara-ribbon">SOLD</span>{{ end }}
+            </span>
+            <span class="sayonara-card-title">{{ .Title }}</span>
+            <span class="sayonara-card-price">
+                {{- if .Params.sold -}}SOLD
+                {{- else if .Params.stripe_buy_url -}}{{ with .Params.price_jpy }}¥{{ lang.FormatNumber 0 . }}{{ end }}
+                {{- else -}}{{ with .Params.price_jpy }}¥{{ lang.FormatNumber 0 . }} · {{ end }}coming soon
+                {{- end -}}
+            </span>
+        </a>
+    </div>
+    {{ end }}
+</div>
