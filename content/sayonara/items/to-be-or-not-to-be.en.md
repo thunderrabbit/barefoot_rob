@@ -4,7 +4,7 @@ slug: "to-be-or-not-to-be"
 mg_issue_id: 282
 category: "book"
 tier: "A"
-mechanism: "auction"
+mechanism: ""
 event: ""
 images: []
 thumb: ""
