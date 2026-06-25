@@ -25,4 +25,4 @@ date: 2026-06-25
 
 Luke new 29-piece drill bit set with twist drill bits and screwdriver bits organized in a red and black plastic storage case with clear cover.
 
-**See also:** [BLACK+DECKER corded drill driver KR112](/en/sayonara/items/black-decker-corded-drill-driver-kr112/)
+**Works well with** [BLACK+DECKER corded drill driver KR112](/en/sayonara/items/black-decker-corded-drill-driver-kr112/)

@@ -24,4 +24,4 @@ date: 2026-06-25
 
 A BLACK+DECKER KR112 corded compact drill driver with orange and black housing, variable speed control, and integrated bit storage.
 
-**See also:** [Drill bit and driver set with case](/en/sayonara/items/drill-bit-and-driver-set-with-case/)
+**Works well with** [Drill bit and driver set with case](/en/sayonara/items/drill-bit-and-driver-set-with-case/)
