@@ -110,6 +110,19 @@ for my $path (@sidecars) {
         next;
     }
 
+    # sold (e.g. paid in person, not via Stripe): retire any live payment link so the
+    # lingering buy URL can't sell it again. Marked in stripe_links.json so we do it once.
+    my $sold = (exists $sale->{$slug} && defined $sale->{$slug}{sold}) ? $sale->{$slug}{sold} : $item->{sold};
+    if ($sold) {
+        if ($GO && $links->{$slug} && $links->{$slug}{payment_link} && !$links->{$slug}{sold}) {
+            stripe_api("https://api.stripe.com/v1/payment_links/$links->{$slug}{payment_link}", "active=false");
+            $links->{$slug}{sold} = JSON::PP::true;
+            open my $w, '>:raw', $LINKS or die "write $LINKS: $!"; print $w $J->encode($links); close $w;
+            print "x $slug  sold — deactivated Stripe link\n"; $made++;
+        }
+        next;
+    }
+
     my $price = (exists $sale->{$slug} && defined $sale->{$slug}{price_jpy})
               ? $sale->{$slug}{price_jpy}
               : $item->{price_jpy};
