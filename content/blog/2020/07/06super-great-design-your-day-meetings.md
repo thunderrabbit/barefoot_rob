@@ -3,7 +3,6 @@ date: '2020-07-06T08:19:28+09:00'
 entry_title: 'super great Design Your Day meetings'
 journal: journal
 posttype: journal
-published: true
 slug: super-great-design-your-day-meetings
 title: 'super great Design Your Day meetings'
 ---
