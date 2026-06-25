@@ -1,5 +1,4 @@
 baseURL = "https://www.robnugen.com/"
-languageCode = "en-us"
 theme = [ "purehugo" ]
 rssLimit = 50
 defaultContentLanguageInSubdir = true
@@ -39,11 +38,13 @@ unsafe= true
   [languages.en]
     title = "Rob Nugen"
     weight = 1
-    LanguageName = "English"
+    label = "English"
+    locale = "en-US"
     description = "Connection Coach For Men"
 
   [languages.ja]
     title = "裸足のロブ"
     weight = 2
-    LanguageName = "日本語"
+    label = "日本語"
+    locale = "ja-JP"
     description = "I walk barefoot"
