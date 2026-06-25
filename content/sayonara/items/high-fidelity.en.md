@@ -10,9 +10,9 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/2026-jun-24-high-fidelity_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/thumbs/2026-jun-24-high-fidelity.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UlhwB5tiRW7UiG"
+stripe_price_id: "price_0TmAWA2pYT1oPdidxrgiitL6"
+stripe_buy_url: "https://buy.stripe.com/fZu6ooccJel15cAc3v2sM0m"
 price_jpy: 500
 quantity: 1
 sold: false

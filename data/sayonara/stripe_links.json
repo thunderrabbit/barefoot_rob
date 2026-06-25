@@ -1,4 +1,12 @@
 {
+   "8-mile" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/fZufYY6Sp3Gn5cAd7z2sM0k",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAW62pYT1oPdidVjWkBweM",
+      "price_id" : "price_0TmAW62pYT1oPdidIAwEHMLv",
+      "product_id" : "prod_UlhvU5QzvfK0zx"
+   },
    "air-j-foldable-solar-panel-charger" : {
       "amount_jpy" : 2500,
       "buy_url" : "https://buy.stripe.com/8x25kk6SpccTawU9Vn2sM0i",
@@ -6,6 +14,14 @@
       "payment_link" : "plink_0TmA462pYT1oPdid39n8EgMz",
       "price_id" : "price_0TmA452pYT1oPdidfQQ89tlT",
       "product_id" : "prod_UlhTnorXLb9qVH"
+   },
+   "biolite-weatherproof-camp-light-and-charger" : {
+      "amount_jpy" : 4000,
+      "buy_url" : "https://buy.stripe.com/8x2144a4Ba4LdJ6c3v2sM0l",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAW82pYT1oPdidLRaiMhkV",
+      "price_id" : "price_0TmAW82pYT1oPdidtdfShxbK",
+      "product_id" : "prod_UlhvOMBkImpnes"
    },
    "casio-iq-1070j-7jf-radio-clock-with-original-sticker" : {
       "amount_jpy" : 1000,
@@ -22,6 +38,22 @@
       "payment_link" : "plink_0TmA482pYT1oPdid28ATrSMw",
       "price_id" : "price_0TmA482pYT1oPdidp548mnR5",
       "product_id" : "prod_UlhTBd33v0XINh"
+   },
+   "high-fidelity" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/fZu6ooccJel15cAc3v2sM0m",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAWB2pYT1oPdidd1UXO5Gs",
+      "price_id" : "price_0TmAWA2pYT1oPdidxrgiitL6",
+      "product_id" : "prod_UlhwB5tiRW7UiG"
+   },
+   "im-fine" : {
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/28EaEE0u15OvdJ66Jb2sM0n",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAWC2pYT1oPdidWokkVBZ5",
+      "price_id" : "price_0TmAWC2pYT1oPdid44h8e0FD",
+      "product_id" : "prod_Ulhw1ObuiCJsQr"
    },
    "ono-signets-silicone-magnets-blue-sealed-box" : {
       "amount_jpy" : 1500,
@@ -46,5 +78,29 @@
       "payment_link" : "plink_0Tm8H12pYT1oPdidc8V24tVY",
       "price_id" : "price_0Tm8H12pYT1oPdidOYOs4GJu",
       "product_id" : "prod_Ulfchnx84VBLo9"
+   },
+   "shoulder-fixation-plate" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/7sYcMM4Kh0ubdJ6d7z2sM0o",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAWE2pYT1oPdidcl3K6jFs",
+      "price_id" : "price_0TmAWE2pYT1oPdidVT5SAAsa",
+      "product_id" : "prod_UlhwjH2IdV24Jf"
+   },
+   "to-be-or-not-to-be" : {
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/00w3ccdgNb8PdJ63wZ2sM0p",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAWG2pYT1oPdidiNVK02z2",
+      "price_id" : "price_0TmAWG2pYT1oPdidFfbtY0wA",
+      "product_id" : "prod_UlhwozBO7DYFLy"
+   },
+   "touring-mapple-3-kanto-koshinetsu" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/aFa5kkccJa4LfReffH2sM0q",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAWI2pYT1oPdid1gySCf8n",
+      "price_id" : "price_0TmAWH2pYT1oPdidQDqEQ1ge",
+      "product_id" : "prod_UlhwIkpePX8mQq"
    }
 }

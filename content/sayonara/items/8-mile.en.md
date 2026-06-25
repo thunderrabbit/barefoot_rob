@@ -10,9 +10,9 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/2026-jun-24-8-mile_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/thumbs/2026-jun-24-8-mile.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UlhvU5QzvfK0zx"
+stripe_price_id: "price_0TmAW62pYT1oPdidIAwEHMLv"
+stripe_buy_url: "https://buy.stripe.com/fZufYY6Sp3Gn5cAd7z2sM0k"
 price_jpy: 500
 quantity: 1
 sold: false

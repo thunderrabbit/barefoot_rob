@@ -13,9 +13,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/to_be_or_not_to_be_chooseable_path_adventure_book/2026-jun-23-to-be-or-not-to-be-chooseable-path-adventure-book-top_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/to_be_or_not_to_be_chooseable_path_adventure_book/2026-jun-23-to-be-or-not-to-be-chooseable-path-adventure-book-back_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/books/to_be_or_not_to_be_chooseable_path_adventure_book/thumbs/2026-jun-23-to-be-or-not-to-be-chooseable-path-adventure-book-front.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UlhwozBO7DYFLy"
+stripe_price_id: "price_0TmAWG2pYT1oPdidFfbtY0wA"
+stripe_buy_url: "https://buy.stripe.com/00w3ccdgNb8PdJ63wZ2sM0p"
 price_jpy: 2000
 quantity: 1
 sold: false

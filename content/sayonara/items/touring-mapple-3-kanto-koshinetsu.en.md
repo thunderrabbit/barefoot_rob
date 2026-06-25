@@ -10,9 +10,9 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-touring-mapple-3-kanto-koshinetsu_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-touring-mapple-3-kanto-koshinetsu.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UlhwIkpePX8mQq"
+stripe_price_id: "price_0TmAWH2pYT1oPdidQDqEQ1ge"
+stripe_buy_url: "https://buy.stripe.com/aFa5kkccJa4LfReffH2sM0q"
 price_jpy: 500
 quantity: 1
 sold: false

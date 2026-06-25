@@ -17,9 +17,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/camping/biolite_weatherproof_camp_light_and_charger/2026-jun-25-biolite-weatherproof-camp-light-and-charger-side_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/camping/biolite_weatherproof_camp_light_and_charger/2026-jun-25-biolite-weatherproof-camp-light-and-charger-side-2_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/camping/biolite_weatherproof_camp_light_and_charger/thumbs/2026-jun-25-biolite-weatherproof-camp-light-and-charger-front.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UlhvOMBkImpnes"
+stripe_price_id: "price_0TmAW82pYT1oPdidtdfShxbK"
+stripe_buy_url: "https://buy.stripe.com/8x2144a4Ba4LdJ6c3v2sM0l"
 price_jpy: 4000
 quantity: 1
 sold: false

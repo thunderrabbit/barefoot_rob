@@ -10,9 +10,9 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-im-fine_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-im-fine.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_Ulhw1ObuiCJsQr"
+stripe_price_id: "price_0TmAWC2pYT1oPdid44h8e0FD"
+stripe_buy_url: "https://buy.stripe.com/28EaEE0u15OvdJ66Jb2sM0n"
 price_jpy: 2000
 quantity: 20
 sold: false
