@@ -31,6 +31,15 @@
       "price_id" : "price_0Tm8Gu2pYT1oPdidex6jqd3r",
       "product_id" : "prod_UlfcY3AMyrstJS"
    },
+   "drill-bit-and-driver-set-with-case" : {
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/9B66ooekR3GngVigjL2sM0v",
+      "mode" : "live",
+      "payment_link" : "plink_0TmDwB2pYT1oPdid8ustz9P1",
+      "price_id" : "price_0TmDwB2pYT1oPdidEXKJSSJ2",
+      "product_id" : "prod_UllTcDXQSXMZNf",
+      "quantity" : 1
+   },
    "hanayama-cast-hourglass-puzzle" : {
       "amount_jpy" : 500,
       "buy_url" : "https://buy.stripe.com/14A5kkekR6SzfRed7z2sM0j",
