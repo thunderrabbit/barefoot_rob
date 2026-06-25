@@ -51,8 +51,8 @@ INDEX
                 </section>
             </div>
             <div class="pager">
-                 {{with .NextPage}} <a href="{{.Permalink}}" rel="prev" style="float: left!important">❮ {{.Title}}</a>{{end}}
-                 {{with .PrevPage}} <a href="{{.Permalink}}" rel="next" style="float: right!important"> {{.Title}} ❯</a>{{end}}
+                 {{with .Next}} <a href="{{.Permalink}}" rel="prev" style="float: left!important">❮ {{.Title}}</a>{{end}}
+                 {{with .Prev}} <a href="{{.Permalink}}" rel="next" style="float: right!important"> {{.Title}} ❯</a>{{end}}
             </div>
             {{ partial "footer.html" . }}
         </div>
