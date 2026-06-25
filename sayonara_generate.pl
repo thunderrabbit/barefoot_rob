@@ -75,12 +75,16 @@ for my $f (@files) {
 
     # Boss-set sale fields override the sidecar (price/event/sold/tier/mechanism/quantity)
     if (my $ov = $sale{$slug}) {
-        for my $k (qw(price_jpy event sold tier mechanism quantity)) {
+        for my $k (qw(price_jpy event sold tier mechanism quantity pickup)) {
             $item->{$k} = $ov->{$k} if exists $ov->{$k};
         }
     }
 
-    my $sl = $stripe{$slug} // {};
+    # off-market items (sale.json for_sale:false) keep their record but show no buy button
+    my $off_market = (exists $sale{$slug} && defined $sale{$slug}{for_sale} && !$sale{$slug}{for_sale});
+
+    my $sl = $off_market ? {} : ($stripe{$slug} // {});
+    if ($off_market) { $item->{price_jpy} = undef; }
 
     my @fm = ("---");
     push @fm, "title: " . yq($item->{name} // $slug);
@@ -90,6 +94,7 @@ for my $f (@files) {
     push @fm, "tier: " . yq($item->{tier} // "");
     push @fm, "mechanism: " . yq($item->{mechanism} // "");
     push @fm, "event: " . yq($item->{event} // "");
+    push @fm, "pickup: " . yq($item->{pickup} // "");
 
     my @imgs = @{ $item->{images} // [] };
     if (@imgs) {

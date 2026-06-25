@@ -6,6 +6,7 @@ category: "book"
 tier: "story-B"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-touring-mapple-3-kanto-koshinetsu_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-touring-mapple-3-kanto-koshinetsu.jpg"

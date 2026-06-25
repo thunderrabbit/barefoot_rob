@@ -6,6 +6,7 @@ category: "book"
 tier: "A-/B+"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_life_you_were_born_to_live/2026-jun-24-the-life-you-were-born-to-live-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_life_you_were_born_to_live/2026-jun-24-the-life-you-were-born-to-live-2_1000.jpg"

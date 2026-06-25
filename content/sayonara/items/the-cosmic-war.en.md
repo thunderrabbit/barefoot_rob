@@ -6,6 +6,7 @@ category: "book"
 tier: "B"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/2026-jun-17-the-cosmic-war-paperback-book_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_cosmic_war/2026-jun-24-the-cosmic-war-1_1000.jpg"

@@ -6,6 +6,7 @@ category: "book"
 tier: "B-"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/2026-jun-24-universal-vision-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/2026-jun-24-universal-vision-2_1000.jpg"

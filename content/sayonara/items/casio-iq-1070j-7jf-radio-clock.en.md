@@ -6,15 +6,16 @@ category: "office"
 tier: ""
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/office/casio_iq_1070j_7jf_radio_clock/2026-jun-25-casio-iq-1070j-7jf-radio-clock-front_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/office/casio_iq_1070j_7jf_radio_clock/2026-jun-25-casio-iq-1070j-7jf-radio-clock-back_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/office/casio_iq_1070j_7jf_radio_clock/2026-jun-25-casio-iq-1070j-7jf-radio-clock-comparison_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/office/casio_iq_1070j_7jf_radio_clock/thumbs/2026-jun-25-casio-iq-1070j-7jf-radio-clock-front.jpg"
-stripe_product_id: "prod_UlfczgMMunMXOQ"
-stripe_price_id: "price_0Tm8Gw2pYT1oPdidQDcYjhfm"
-stripe_buy_url: "https://buy.stripe.com/9B67ssekRb8P8oMffH2sM0e"
-price_jpy: 1000
+stripe_product_id: ""
+stripe_price_id: ""
+stripe_buy_url: ""
+price_jpy:
 quantity: 1
 sold: false
 draft: false

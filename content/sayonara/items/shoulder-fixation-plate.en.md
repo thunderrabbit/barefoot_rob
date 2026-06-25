@@ -6,6 +6,7 @@ category: "titanium"
 tier: "finale"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/2026-jun-24-shoulder-fixation-plate-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/2026-jun-24-shoulder-fixation-plate-2_1000.jpg"

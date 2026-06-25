@@ -6,6 +6,7 @@ category: "kitchen"
 tier: "B/C"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/kitchen/round_wooden_cutting_board/2026-jun-24-round-wooden-cutting-board-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/kitchen/round_wooden_cutting_board/2026-jun-24-round-wooden-cutting-board-2_1000.jpg"

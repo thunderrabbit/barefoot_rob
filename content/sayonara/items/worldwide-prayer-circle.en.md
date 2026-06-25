@@ -6,6 +6,7 @@ category: "book"
 tier: "C"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/2026-jun-24-worldwide-prayer-circle-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/worldwide_prayer_circle/2026-jun-24-worldwide-prayer-circle-2_1000.jpg"

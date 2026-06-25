@@ -6,6 +6,7 @@ category: "camping"
 tier: ""
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/camping/biolite_weatherproof_camp_light_and_charger/2026-jun-25-biolite-weatherproof-camp-light-and-charger-front_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/camping/biolite_weatherproof_camp_light_and_charger/2026-jun-25-biolite-weatherproof-camp-light-and-charger-back_1000.jpg"

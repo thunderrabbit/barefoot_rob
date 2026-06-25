@@ -1,7 +1,11 @@
 {
-  "sentrysafe-digital-lock-safe": { "price_jpy": 20000 },
+  "sentrysafe-digital-lock-safe": { "price_jpy": 20000, "pickup": "yurigaoka" },
   "ono-signets-silicone-magnets-blue-sealed-box": { "price_jpy": 1500 },
   "ono-signets-silicone-magnets-mint-green-sealed-box": { "price_jpy": 1500 },
-  "casio-iq-1070j-7jf-radio-clock": { "price_jpy": 1000 },
-  "casio-iq-1070j-7jf-radio-clock-with-original-sticker": { "price_jpy": 1000 }
+  "casio-iq-1070j-7jf-radio-clock-with-original-sticker": { "price_jpy": 1000 },
+  "casio-iq-1070j-7jf-radio-clock": {
+    "price_jpy": 1000,
+    "for_sale": false,
+    "note": "Off-market 25 Jun 2026 — Rob keeps this (no-sticker) clock for his own use while the with-sticker one sells. Stripe payment link was deactivated. To re-list: set for_sale true, then run `perl stripe_sayonara.pl --go --yes-live` (mints a fresh link) and `perl sayonara_generate.pl`."
+  }
 }

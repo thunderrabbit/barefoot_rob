@@ -6,6 +6,7 @@ category: "heavy"
 tier: ""
 mechanism: ""
 event: ""
+pickup: "yurigaoka"
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/heavy/2026-jun-24-sentrysafe-digital-lock-safe_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/heavy/thumbs/2026-jun-24-sentrysafe-digital-lock-safe.jpg"

@@ -6,6 +6,7 @@ category: "magnets"
 tier: ""
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/magnets/ono_signets_silicone_magnets_mint_green_sealed_box/2026-jun-25-ono-signets-silicone-magnets-mint-green-sealed-box-front_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/magnets/ono_signets_silicone_magnets_mint_green_sealed_box/2026-jun-25-ono-signets-silicone-magnets-mint-green-sealed-box-back_1000.jpg"

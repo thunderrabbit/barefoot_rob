@@ -6,6 +6,7 @@ category: "book"
 tier: "A"
 mechanism: ""
 event: ""
+pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/to_be_or_not_to_be_chooseable_path_adventure_book/2026-jun-23-to-be-or-not-to-be-chooseable-path-adventure-book-front_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/to_be_or_not_to_be_chooseable_path_adventure_book/2026-jun-23-to-be-or-not-to-be-chooseable-path-adventure-book-spine_1000.jpg"
