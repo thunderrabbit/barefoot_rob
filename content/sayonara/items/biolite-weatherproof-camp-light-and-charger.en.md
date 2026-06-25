@@ -27,4 +27,10 @@ draft: false
 date: 2026-06-25
 ---
 
-A portable weatherproof camp light with two RGB LED panels, 7800mAh battery, and mesh grille design, capable of displaying various color modes.
+A BioLite SiteLight Micro camp light with two RGB LED panels and a 7800mAh built-in battery — it's both a lamp and a USB power bank. Weatherproof, with a mesh grille and a full spectrum of color modes from warm white to vivid RGB. Battery still holds a good charge. Comes with Micro-USB charging cable.
+
+**Why a new owner would be happy**
+
+- Lights up a tent, a porch, or a picnic without needing a power outlet.
+- 7800mAh doubles as an emergency phone charger.
+- RGB color modes make it fun for parties or kids.

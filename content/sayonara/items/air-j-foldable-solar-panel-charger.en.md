@@ -22,7 +22,7 @@ draft: false
 date: 2026-06-25
 ---
 
-A four-panel foldable solar charger with built-in voltage controller and dual USB outputs, in an orange fabric case. Like new — purchased before Rob's [243 km barefoot walk from Yokohama to Niigata in 2021](/en/quests/walk-to-niigata/), with the plan to stay off-grid, but booking hotels every evening meant it never left the bag. Comes with the original Micro-USB cable; no box.
+A four-panel foldable solar charger with built-in voltage controller and dual USB outputs, in an orange fabric case. Like new — purchased before Rob's [243 km barefoot walk from Yokohama to Niigata in 2021](/en/quests/walk-to-niigata/), with the plan to stay off-grid, but booking hotels every evening meant it never left the bag. No box, no cable.
 
 **Why a new owner would be happy**
 
