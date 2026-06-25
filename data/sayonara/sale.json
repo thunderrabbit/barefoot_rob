@@ -8,5 +8,12 @@
     "price_jpy": 1000,
     "for_sale": false,
     "note": "Off-market 25 Jun 2026 — Rob keeps this (no-sticker) clock to use for now; it WILL sell before he leaves Japan (by June 2027), so the page's 'coming soon' state is intentional, not a bug. Stripe payment link was deactivated. To re-list: set for_sale true, then run `perl stripe_sayonara.pl --go --yes-live` (mints a fresh link) and `perl sayonara_generate.pl`."
-  }
+  },
+  "8-mile": { "price_jpy": 500 },
+  "high-fidelity": { "price_jpy": 500 },
+  "im-fine": { "price_jpy": 2000, "quantity": 20 },
+  "biolite-weatherproof-camp-light-and-charger": { "price_jpy": 4000 },
+  "to-be-or-not-to-be": { "price_jpy": 2000 },
+  "shoulder-fixation-plate": { "price_jpy": 500, "description_append": "**See also:** [Touring Mapple 3 Kanto-Koshinetsu](/en/sayonara/items/touring-mapple-3-kanto-koshinetsu/)" },
+  "touring-mapple-3-kanto-koshinetsu": { "price_jpy": 500, "description_append": "**See also:** [Titanium Shoulder Fixation Plate](/en/sayonara/items/shoulder-fixation-plate/)" }
 }

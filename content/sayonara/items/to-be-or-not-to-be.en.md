@@ -16,7 +16,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/books/to_be_or_not_to_be
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy:
+price_jpy: 2000
 quantity: 1
 sold: false
 draft: false

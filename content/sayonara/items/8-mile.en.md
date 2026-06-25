@@ -13,7 +13,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/dvd/thumbs/2026-jun-24-8
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy:
+price_jpy: 500
 quantity: 1
 sold: false
 draft: false

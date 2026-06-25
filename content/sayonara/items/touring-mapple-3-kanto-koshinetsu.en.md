@@ -13,7 +13,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy:
+price_jpy: 500
 quantity: 1
 sold: false
 draft: false
@@ -30,3 +30,5 @@ Touring Mapple 3 — 関東甲信越 (Kantō-Kōshinetsu) — Shōbunsha. A moto
 - The handwritten annotations make it one-of-a-kind.
 
 **Condition:** well-worn from the trip — cover edge wear, annotated, used. The wear is the value here.
+
+**See also:** [Titanium Shoulder Fixation Plate](/en/sayonara/items/shoulder-fixation-plate/)
