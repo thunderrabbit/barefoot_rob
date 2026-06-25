@@ -4,6 +4,14 @@ theme = [ "purehugo" ]
 rssLimit = 50
 defaultContentLanguageInSubdir = true
 
+# Hugo 0.162.0 (CVE-2026-50133) denies raw text/html content files by default.
+# Rob hand-authors all content (no untrusted import). Setting allowContent
+# REPLACES the default, so least-privilege = allow ONLY the page formats we use:
+# markdown (785 files) + html (the two legacy pages under content/yruu/sf/).
+# This is stricter than Hugo's default, which allowed every format except html.
+[security]
+  allowContent = ['^text/markdown$', '^text/html$']
+
 [markup.goldmark.renderer]
 unsafe= true
 
