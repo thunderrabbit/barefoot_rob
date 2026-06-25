@@ -89,6 +89,15 @@
       "product_id" : "prod_UlhwjH2IdV24Jf",
       "quantity" : 1
    },
+   "the-secret-fire-of-alchemy-by-kevin-b-turner" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/cNi3cc4Kh3GnawUaZr2sM0u",
+      "mode" : "live",
+      "payment_link" : "plink_0TmAnO2pYT1oPdidGf6ya9sk",
+      "price_id" : "price_0TmAnO2pYT1oPdidH5k5iOnz",
+      "product_id" : "prod_UliDMayeIhgatu",
+      "quantity" : 1
+   },
    "to-be-or-not-to-be" : {
       "amount_jpy" : 2000,
       "buy_url" : "https://buy.stripe.com/00w3ccdgNb8PdJ63wZ2sM0p",
