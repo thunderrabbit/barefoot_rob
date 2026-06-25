@@ -1,6 +1,5 @@
 ---
 date: '2020-12-01T07:04:13+09:00'
-published: true
 title: 'Dec 03 Weekly Alignments'
 ---
 

@@ -3,7 +3,6 @@ date: '2020-11-09T17:18:48+09:00'
 entry_title: 'thoughts about walk five months out'
 journal: 'https://robnugen.com'
 posttype: journal
-published: true
 slug: thoughts-about-walk-five-months-out
 title: 'thoughts about walk five months out'
 ---
