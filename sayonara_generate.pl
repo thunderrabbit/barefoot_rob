@@ -119,6 +119,14 @@ for my $f (@files) {
     push @fm, "---";
 
     my $body = $item->{description} // "";
+    # sale.json may durably append to the body (e.g. cross-links between items),
+    # without overwriting the badmin-authored description that the scoop refreshes.
+    if (my $ov = $sale{$slug}) {
+        if (defined $ov->{description_append} && $ov->{description_append} ne '') {
+            $body =~ s/\s+$//;
+            $body .= "\n\n" . $ov->{description_append};
+        }
+    }
     $body =~ s/\s+$//;
 
     my $md = join("\n", @fm) . "\n\n" . $body . "\n";
