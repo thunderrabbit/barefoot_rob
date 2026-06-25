@@ -15,9 +15,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/hanayama/hanayama_cast_hourglass_puzzle/2026-jun-25-hanayama-cast-hourglass-puzzle-side_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/hanayama/hanayama_cast_hourglass_puzzle/2026-jun-25-hanayama-cast-hourglass-puzzle-stacked_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/hanayama/hanayama_cast_hourglass_puzzle/thumbs/2026-jun-25-hanayama-cast-hourglass-puzzle-boxed.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UlhTBd33v0XINh"
+stripe_price_id: "price_0TmA482pYT1oPdidp548mnR5"
+stripe_buy_url: "https://buy.stripe.com/14A5kkekR6SzfRed7z2sM0j"
 price_jpy: 500
 quantity: 1
 sold: false
