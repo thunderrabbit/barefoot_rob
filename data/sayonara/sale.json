@@ -14,6 +14,6 @@
   "im-fine": { "price_jpy": 2000, "quantity": 20 },
   "biolite-weatherproof-camp-light-and-charger": { "price_jpy": 4000 },
   "to-be-or-not-to-be": { "price_jpy": 2000 },
-  "shoulder-fixation-plate": { "price_jpy": 500, "description_append": "**See also:** [Touring Mapple 3 Kanto-Koshinetsu](/en/sayonara/items/touring-mapple-3-kanto-koshinetsu/)" },
-  "touring-mapple-3-kanto-koshinetsu": { "price_jpy": 500, "description_append": "**See also:** [Titanium Shoulder Fixation Plate](/en/sayonara/items/shoulder-fixation-plate/)" }
+  "shoulder-fixation-plate": { "price_jpy": 2000, "description_append": "**See also:** [Touring Mapple 3 Kanto-Koshinetsu](/en/sayonara/items/touring-mapple-3-kanto-koshinetsu/)" },
+  "touring-mapple-3-kanto-koshinetsu": { "price_jpy": 2000, "description_append": "**See also:** [Titanium Shoulder Fixation Plate](/en/sayonara/items/shoulder-fixation-plate/)" }
 }
