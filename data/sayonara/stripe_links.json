@@ -1,34 +1,50 @@
 {
-   "casio-iq-1070j-7jf-radio-clock-with-original-sticker": {
-      "amount_jpy": 1000,
-      "buy_url": "https://buy.stripe.com/28E9AA0u11yf6gE8Rj2sM0d",
-      "mode": "live",
-      "payment_link": "plink_0Tm8Gu2pYT1oPdidHHSY2XjF",
-      "price_id": "price_0Tm8Gu2pYT1oPdidex6jqd3r",
-      "product_id": "prod_UlfcY3AMyrstJS"
+   "air-j-foldable-solar-panel-charger" : {
+      "amount_jpy" : 2500,
+      "buy_url" : "https://buy.stripe.com/8x25kk6SpccTawU9Vn2sM0i",
+      "mode" : "live",
+      "payment_link" : "plink_0TmA462pYT1oPdid39n8EgMz",
+      "price_id" : "price_0TmA452pYT1oPdidfQQ89tlT",
+      "product_id" : "prod_UlhTnorXLb9qVH"
    },
-   "ono-signets-silicone-magnets-blue-sealed-box": {
-      "amount_jpy": 1500,
-      "buy_url": "https://buy.stripe.com/00w3cc5Olgt97kI9Vn2sM0f",
-      "mode": "live",
-      "payment_link": "plink_0Tm8Gy2pYT1oPdidD8wO1sG9",
-      "price_id": "price_0Tm8Gx2pYT1oPdidTSCGWfLq",
-      "product_id": "prod_UlfctF8ZGewsvt"
+   "casio-iq-1070j-7jf-radio-clock-with-original-sticker" : {
+      "amount_jpy" : 1000,
+      "buy_url" : "https://buy.stripe.com/28E9AA0u11yf6gE8Rj2sM0d",
+      "mode" : "live",
+      "payment_link" : "plink_0Tm8Gu2pYT1oPdidHHSY2XjF",
+      "price_id" : "price_0Tm8Gu2pYT1oPdidex6jqd3r",
+      "product_id" : "prod_UlfcY3AMyrstJS"
    },
-   "ono-signets-silicone-magnets-mint-green-sealed-box": {
-      "amount_jpy": 1500,
-      "buy_url": "https://buy.stripe.com/fZucMM0u10ubgVi4B32sM0g",
-      "mode": "live",
-      "payment_link": "plink_0Tm8Gz2pYT1oPdidk3AwTLco",
-      "price_id": "price_0Tm8Gz2pYT1oPdidyF1E8Jig",
-      "product_id": "prod_UlfcTBuMPVC0hi"
+   "hanayama-cast-hourglass-puzzle" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/14A5kkekR6SzfRed7z2sM0j",
+      "mode" : "live",
+      "payment_link" : "plink_0TmA482pYT1oPdid28ATrSMw",
+      "price_id" : "price_0TmA482pYT1oPdidp548mnR5",
+      "product_id" : "prod_UlhTBd33v0XINh"
    },
-   "sentrysafe-digital-lock-safe": {
-      "amount_jpy": 20000,
-      "buy_url": "https://buy.stripe.com/dRm6oo90x0ub8oMgjL2sM0h",
-      "mode": "live",
-      "payment_link": "plink_0Tm8H12pYT1oPdidc8V24tVY",
-      "price_id": "price_0Tm8H12pYT1oPdidOYOs4GJu",
-      "product_id": "prod_Ulfchnx84VBLo9"
+   "ono-signets-silicone-magnets-blue-sealed-box" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/00w3cc5Olgt97kI9Vn2sM0f",
+      "mode" : "live",
+      "payment_link" : "plink_0Tm8Gy2pYT1oPdidD8wO1sG9",
+      "price_id" : "price_0Tm8Gx2pYT1oPdidTSCGWfLq",
+      "product_id" : "prod_UlfctF8ZGewsvt"
+   },
+   "ono-signets-silicone-magnets-mint-green-sealed-box" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/fZucMM0u10ubgVi4B32sM0g",
+      "mode" : "live",
+      "payment_link" : "plink_0Tm8Gz2pYT1oPdidk3AwTLco",
+      "price_id" : "price_0Tm8Gz2pYT1oPdidyF1E8Jig",
+      "product_id" : "prod_UlfcTBuMPVC0hi"
+   },
+   "sentrysafe-digital-lock-safe" : {
+      "amount_jpy" : 20000,
+      "buy_url" : "https://buy.stripe.com/dRm6oo90x0ub8oMgjL2sM0h",
+      "mode" : "live",
+      "payment_link" : "plink_0Tm8H12pYT1oPdidc8V24tVY",
+      "price_id" : "price_0Tm8H12pYT1oPdidOYOs4GJu",
+      "product_id" : "prod_Ulfchnx84VBLo9"
    }
 }
