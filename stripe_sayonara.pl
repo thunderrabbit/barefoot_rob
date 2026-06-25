@@ -25,8 +25,9 @@ use JSON::PP;
 use IPC::Open2;
 use FindBin qw($RealBin);
 
-my $GO       = grep { $_ eq '--go' }       @ARGV;
-my $YES_LIVE = grep { $_ eq '--yes-live' } @ARGV;
+my $GO        = grep { $_ eq '--go' }        @ARGV;
+my $YES_LIVE  = grep { $_ eq '--yes-live' }  @ARGV;
+my $SYNC_DESC = grep { $_ eq '--sync-desc' } @ARGV;   # update descriptions on already-linked products
 
 my $DATA  = "$RealBin/data/sayonara";
 my $ITEMS = "$DATA/items";
@@ -73,6 +74,29 @@ sub head_ok {
     return $code =~ /^(2|3)\d\d$/;
 }
 
+# Pickup line for the Stripe checkout (plain text; mirrors the website note).
+sub pickup_line {
+    my ($p) = @_;
+    return ($p // '') eq 'yurigaoka'
+        ? "Pickup at Yurigaoka (Kawasaki) during the week."
+        : "Pickup at Yurigaoka (Kawasaki) during the week, or Yoyogi Park on Sundays.";
+}
+
+# Build a plain-text Stripe product description from the sidecar markdown + terms.
+sub build_desc {
+    my ($item, $pickup) = @_;
+    my $d = $item->{description} // '';
+    $d =~ s/\*\*//g;                 # drop bold markers
+    $d =~ s/^#+\s*//mg;              # drop markdown headers
+    $d =~ s/^\s*[-*]\s+/\x{2022} /mg;# bullets -> •
+    $d =~ s/\n{3,}/\n\n/g;           # collapse blank runs
+    $d =~ s/^\s+|\s+$//g;
+    my $note = "Price does not include shipping. " . pickup_line($pickup);
+    $d = $d ne '' ? "$d\n\n$note" : $note;
+    $d = substr($d, 0, 900) . "\x{2026}" if length($d) > 900;
+    return $d;
+}
+
 # ---- iterate priced items ---------------------------------------------------
 my @sidecars = sort glob "$ITEMS/*.json";
 my ($made, $skipped, $errors) = (0, 0, 0);
@@ -81,14 +105,33 @@ for my $path (@sidecars) {
     my $item = decode_json(slurp($path));
     my $slug = $item->{slug} or next;
 
+    # off-market: sale.json may keep the record (price + note) but flag for_sale:false
+    if (exists $sale->{$slug} && defined $sale->{$slug}{for_sale} && !$sale->{$slug}{for_sale}) {
+        next;
+    }
+
     my $price = (exists $sale->{$slug} && defined $sale->{$slug}{price_jpy})
               ? $sale->{$slug}{price_jpy}
               : $item->{price_jpy};
     next unless defined $price && $price > 0;     # unpriced -> skip silently
 
+    my $pickup = (exists $sale->{$slug} && defined $sale->{$slug}{pickup})
+               ? $sale->{$slug}{pickup} : '';
+    my $desc   = build_desc($item, $pickup);
+
     if ($links->{$slug} && $links->{$slug}{buy_url}) {
-        print "= $slug  already linked ($links->{$slug}{buy_url})\n";
-        $skipped++;
+        if ($SYNC_DESC && $links->{$slug}{product_id}) {
+            print "~ $slug  ", ($GO ? "updating description" : "would update description"), "\n";
+            if ($GO) {
+                my $up = stripe_api("https://api.stripe.com/v1/products/$links->{$slug}{product_id}",
+                    "description=$desc");
+                if ($up->{id}) { print "  ok\n"; $made++; }
+                else { print "  ! ", ($up->{error}{message} // 'failed'), "\n"; $errors++; }
+            }
+        } else {
+            print "= $slug  already linked ($links->{$slug}{buy_url})\n";
+            $skipped++;
+        }
         next;
     }
 
@@ -106,7 +149,7 @@ for my $path (@sidecars) {
     }
 
     my $prod = stripe_api('https://api.stripe.com/v1/products',
-        "name=$name", ($img ? ("images[]=$img") : ()));
+        "name=$name", "description=$desc", ($img ? ("images[]=$img") : ()));
     unless ($prod->{id}) {
         print "  ! product failed: ", ($prod->{error}{message} // 'unknown'), "\n";
         $errors++; next;
