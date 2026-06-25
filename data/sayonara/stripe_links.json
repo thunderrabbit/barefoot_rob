@@ -23,6 +23,15 @@
       "price_id" : "price_0TmAW82pYT1oPdidtdfShxbK",
       "product_id" : "prod_UlhvOMBkImpnes"
    },
+   "black-decker-corded-drill-driver-kr112" : {
+      "amount_jpy" : 2500,
+      "buy_url" : "https://buy.stripe.com/aFa5kkfoV7WD6gEc3v2sM0w",
+      "mode" : "live",
+      "payment_link" : "plink_0TmE0J2pYT1oPdidk8kaYqhy",
+      "price_id" : "price_0TmE0I2pYT1oPdidkNSxCxWc",
+      "product_id" : "prod_UllXmOiF77ubUJ",
+      "quantity" : 1
+   },
    "casio-iq-1070j-7jf-radio-clock-with-original-sticker" : {
       "amount_jpy" : 1000,
       "buy_url" : "https://buy.stripe.com/28E9AA0u11yf6gE8Rj2sM0d",
