@@ -1,8 +1,10 @@
 {
   "sentrysafe-digital-lock-safe": { "price_jpy": 20000, "pickup": "yurigaoka" },
   "hanayama-cast-hourglass-puzzle": { "price_jpy": 500, "name": "Hanayama Cast Hourglass puzzle with original box" },
-  "ono-signets-silicone-magnets-blue-sealed-box": { "price_jpy": 1500 },
-  "ono-signets-silicone-magnets-mint-green-sealed-box": { "price_jpy": 1500 },
+  "ono-signets-silicone-magnets-blue-sealed-box": { "price_jpy": 1500, "sold": true },
+  "ono-signets-silicone-magnets-mint-green-sealed-box": { "price_jpy": 1500, "sold": true },
+  "poor-yorick": { "sold": true },
+  "the-life-you-were-born-to-live": { "sold": true },
   "casio-iq-1070j-7jf-radio-clock-with-original-sticker": { "price_jpy": 1000 },
   "casio-iq-1070j-7jf-radio-clock": {
     "price_jpy": 1000,
@@ -13,7 +15,7 @@
   "high-fidelity": { "price_jpy": 500 },
   "im-fine": { "price_jpy": 2000, "quantity": 20 },
   "biolite-weatherproof-camp-light-and-charger": { "price_jpy": 4000 },
-  "to-be-or-not-to-be": { "price_jpy": 2000 },
+  "to-be-or-not-to-be": { "price_jpy": 2000, "sold": true },
   "shoulder-fixation-plate": { "price_jpy": 2000, "description_append": "**See also:** [Touring Mapple 3 Kanto-Koshinetsu](/en/sayonara/items/touring-mapple-3-kanto-koshinetsu/)" },
   "touring-mapple-3-kanto-koshinetsu": { "price_jpy": 2000, "description_append": "**See also:** [Titanium Shoulder Fixation Plate](/en/sayonara/items/shoulder-fixation-plate/)" }
 }

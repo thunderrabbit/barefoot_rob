@@ -15,7 +15,7 @@ stripe_price_id: ""
 stripe_buy_url: ""
 price_jpy:
 quantity: 1
-sold: false
+sold: true
 draft: false
 date: 2026-06-23
 ---

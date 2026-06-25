@@ -62,7 +62,8 @@
       "mode" : "live",
       "payment_link" : "plink_0Tm8Gy2pYT1oPdidD8wO1sG9",
       "price_id" : "price_0Tm8Gx2pYT1oPdidTSCGWfLq",
-      "product_id" : "prod_UlfctF8ZGewsvt"
+      "product_id" : "prod_UlfctF8ZGewsvt",
+      "sold" : true
    },
    "ono-signets-silicone-magnets-mint-green-sealed-box" : {
       "amount_jpy" : 1500,
@@ -70,7 +71,8 @@
       "mode" : "live",
       "payment_link" : "plink_0Tm8Gz2pYT1oPdidk3AwTLco",
       "price_id" : "price_0Tm8Gz2pYT1oPdidyF1E8Jig",
-      "product_id" : "prod_UlfcTBuMPVC0hi"
+      "product_id" : "prod_UlfcTBuMPVC0hi",
+      "sold" : true
    },
    "sentrysafe-digital-lock-safe" : {
       "amount_jpy" : 20000,
@@ -104,7 +106,8 @@
       "mode" : "live",
       "payment_link" : "plink_0TmAWG2pYT1oPdidiNVK02z2",
       "price_id" : "price_0TmAWG2pYT1oPdidFfbtY0wA",
-      "product_id" : "prod_UlhwozBO7DYFLy"
+      "product_id" : "prod_UlhwozBO7DYFLy",
+      "sold" : true
    },
    "touring-mapple-3-kanto-koshinetsu" : {
       "amount_jpy" : 2000,
