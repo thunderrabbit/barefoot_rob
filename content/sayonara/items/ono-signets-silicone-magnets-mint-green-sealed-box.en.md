@@ -14,10 +14,10 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/magnets/ono_signets_silicone_magnets_mint_green_sealed_box/2026-jun-25-ono-signets-silicone-magnets-mint-green-sealed-box-assembled_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/magnets/ono_signets_silicone_magnets_mint_green_sealed_box/2026-jun-25-ono-signets-silicone-magnets-mint-green-sealed-box-detail_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/magnets/ono_signets_silicone_magnets_mint_green_sealed_box/thumbs/2026-jun-25-ono-signets-silicone-magnets-mint-green-sealed-box-front.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
-price_jpy:
+stripe_product_id: "prod_UlfcTBuMPVC0hi"
+stripe_price_id: "price_0Tm8Gz2pYT1oPdidyF1E8Jig"
+stripe_buy_url: "https://buy.stripe.com/fZucMM0u10ubgVi4B32sM0g"
+price_jpy: 1500
 quantity: 1
 sold: false
 draft: false
