@@ -75,7 +75,7 @@ for my $f (@files) {
 
     # Boss-set sale fields override the sidecar (price/event/sold/tier/mechanism/quantity)
     if (my $ov = $sale{$slug}) {
-        for my $k (qw(price_jpy event sold tier mechanism quantity pickup)) {
+        for my $k (qw(name price_jpy event sold tier mechanism quantity pickup)) {
             $item->{$k} = $ov->{$k} if exists $ov->{$k};
         }
     }

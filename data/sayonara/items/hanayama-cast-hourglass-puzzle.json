@@ -1,6 +1,6 @@
 {
     "slug": "hanayama-cast-hourglass-puzzle",
-    "name": "Hanayama Cast Hourglass puzzle with original box",
+    "name": "Hanayama Cast Hourglass puzzle",
     "category": "hanayama",
     "tier": "",
     "mechanism": "",
@@ -14,7 +14,7 @@
         "https://b.robnugen.com/home/tokyo/2026/p1/items/hanayama/hanayama_cast_hourglass_puzzle/2026-jun-25-hanayama-cast-hourglass-puzzle-stacked_1000.jpg"
     ],
     "thumb": "https://b.robnugen.com/home/tokyo/2026/p1/items/hanayama/hanayama_cast_hourglass_puzzle/thumbs/2026-jun-25-hanayama-cast-hourglass-puzzle-boxed.jpg",
-    "price_jpy": 500,
+    "price_jpy": null,
     "quantity": 1,
     "sold": false,
     "captured": "2026-06-25T17:51:57+09:00",

@@ -1,5 +1,5 @@
 ---
-title: "Hanayama Cast Hourglass puzzle"
+title: "Hanayama Cast Hourglass puzzle with original box"
 slug: "hanayama-cast-hourglass-puzzle"
 mg_issue_id: ""
 category: "hanayama"
@@ -18,7 +18,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/hanayama/hanayama_cast_h
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy:
+price_jpy: 500
 quantity: 1
 sold: false
 draft: false
