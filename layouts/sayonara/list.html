@@ -16,19 +16,19 @@
                 </section>
             </div>
 
-            {{ $items := where .Site.RegularPages "Section" "sayonara" }}
-            {{ $assigned := where $items "Params.event" "ne" "" }}
-            {{ $unassigned := where $items "Params.event" "eq" "" }}
+            {{/* Order: for sale (has a price, not sold) by price high->low,
+                 then coming soon (no price yet), then sold at the bottom.
+                 Event grouping returns in the events phase. */}}
+            {{ $all := where .Site.RegularPages "Section" "sayonara" }}
+            {{ $sold := where $all "Params.sold" true }}
+            {{ $forsale := sort (where (where $all "Params.sold" "ne" true) "Params.price_jpy" "gt" 0) "Params.price_jpy" "desc" }}
+            {{ $coming := sort (complement $sold $forsale $all) "Title" }}
 
-            {{ range $assigned.GroupByParam "event" }}
-                <h1 class="content-subhead sayonara-group-head">{{ .Key | replaceRE "-" " " | title }}</h1>
-                {{ partial "sayonara-item-grid.html" .Pages }}
-            {{ end }}
-
-            {{ with $unassigned }}
-                <h1 class="content-subhead sayonara-group-head">Not yet scheduled</h1>
-                {{ partial "sayonara-item-grid.html" . }}
-            {{ end }}
+            <div class="pure-g sayonara-grid">
+                {{ partial "sayonara-item-grid.html" $forsale }}
+                {{ partial "sayonara-item-grid.html" $coming }}
+                {{ partial "sayonara-item-grid.html" (sort $sold "Title") }}
+            </div>
 
             {{ partial "footer.html" . }}
         </div>

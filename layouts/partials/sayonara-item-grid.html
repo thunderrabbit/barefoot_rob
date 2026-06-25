@@ -1,6 +1,7 @@
-{{/* Receives a Pages collection; renders a thumbnail grid of sayonara items. */}}
-<div class="pure-g sayonara-grid">
-    {{ range .ByTitle }}
+{{/* Receives a Pages collection ALREADY in display order; renders item cards.
+     The caller wraps these in <div class="pure-g sayonara-grid"> so multiple
+     calls flow into one grid. Order is preserved (no .ByTitle here). */}}
+    {{ range . }}
     {{ $title := .Title }}
     <div class="pure-u-1-2 pure-u-md-1-3">
         <a class="sayonara-card{{ if .Params.sold }} sayonara-sold{{ end }}" href="{{ .Permalink }}">
@@ -18,4 +19,3 @@
         </a>
     </div>
     {{ end }}
-</div>
