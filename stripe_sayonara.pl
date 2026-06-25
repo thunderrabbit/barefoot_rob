@@ -119,7 +119,45 @@ for my $path (@sidecars) {
                ? $sale->{$slug}{pickup} : '';
     my $desc   = build_desc($item, $pickup);
 
+    # quantity: sale.json overlay wins, else sidecar, else 1
+    my $qty = (exists $sale->{$slug} && defined $sale->{$slug}{quantity} && $sale->{$slug}{quantity} > 0)
+            ? $sale->{$slug}{quantity}
+            : ($item->{quantity} && $item->{quantity} > 0 ? $item->{quantity} : 1);
+
     if ($links->{$slug} && $links->{$slug}{buy_url}) {
+        my $old_amt = $links->{$slug}{amount_jpy} // 0;
+        my $old_qty = $links->{$slug}{quantity}   // 1;
+        if ($old_amt != $price || $old_qty != $qty) {
+            # Stripe prices are immutable: make a NEW price + payment link on the
+            # same product and retire the old link. Keeps prices in sync with sale.json.
+            print "~ $slug  \x{a5}$old_amt/x$old_qty -> \x{a5}$price/x$qty; ",
+                  ($GO ? "re-pricing" : "would re-price"), "\n";
+            if ($GO) {
+                if (my $oldpl = $links->{$slug}{payment_link}) {
+                    stripe_api("https://api.stripe.com/v1/payment_links/$oldpl", "active=false");
+                }
+                my $prod = $links->{$slug}{product_id};
+                my $pr = stripe_api('https://api.stripe.com/v1/prices',
+                    "product=$prod", "unit_amount=$price", "currency=jpy");
+                my $pl = stripe_api('https://api.stripe.com/v1/payment_links',
+                    "line_items[0][price]=$pr->{id}", "line_items[0][quantity]=1",
+                    "restrictions[completed_sessions][limit]=$qty",
+                    "phone_number_collection[enabled]=true");
+                if ($pr->{id} && $pl->{url}) {
+                    $links->{$slug}{price_id}     = $pr->{id};
+                    $links->{$slug}{payment_link} = $pl->{id};
+                    $links->{$slug}{buy_url}      = $pl->{url};
+                    $links->{$slug}{amount_jpy}   = $price + 0;
+                    $links->{$slug}{quantity}     = $qty + 0;
+                    open my $w, '>:raw', $LINKS or die "write $LINKS: $!"; print $w $J->encode($links); close $w;
+                    print "  -> $pl->{url}\n"; $made++;
+                } else {
+                    print "  ! re-price failed: ", ($pr->{error}{message} // $pl->{error}{message} // 'unknown'), "\n";
+                    $errors++;
+                }
+            } else { $made++; }
+            next;
+        }
         if ($SYNC_DESC && $links->{$slug}{product_id}) {
             print "~ $slug  ", ($GO ? "updating description" : "would update description"), "\n";
             if ($GO) {
@@ -128,16 +166,15 @@ for my $path (@sidecars) {
                 if ($up->{id}) { print "  ok\n"; $made++; }
                 else { print "  ! ", ($up->{error}{message} // 'failed'), "\n"; $errors++; }
             }
-        } else {
-            print "= $slug  already linked ($links->{$slug}{buy_url})\n";
-            $skipped++;
+            next;
         }
+        print "= $slug  already linked ($links->{$slug}{buy_url})\n";
+        $skipped++;
         next;
     }
 
     my $name  = $item->{name} // $slug;
     my $img   = ($item->{images} && @{$item->{images}}) ? $item->{images}[0] : '';
-    my $qty   = $item->{quantity} && $item->{quantity} > 0 ? $item->{quantity} : 1;
 
     printf "+ %-50s ¥%s%s\n", $slug, $price, $img ? '' : '  (no image!)';
 
@@ -178,6 +215,7 @@ for my $path (@sidecars) {
         product_id   => $prod->{id},
         price_id     => $pr->{id},
         amount_jpy   => $price + 0,
+        quantity     => $qty + 0,
         mode         => $LIVE ? 'live' : 'test',
     };
     print "  -> $pl->{url}\n";

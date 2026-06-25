@@ -13,8 +13,8 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/2026-jun-24-shoulder-fixation-plate-3_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/titanium/shoulder_fixation_plate/thumbs/2026-jun-24-shoulder-fixation-plate-1.jpg"
 stripe_product_id: "prod_UlhwjH2IdV24Jf"
-stripe_price_id: "price_0TmAWE2pYT1oPdidVT5SAAsa"
-stripe_buy_url: "https://buy.stripe.com/7sYcMM4Kh0ubdJ6d7z2sM0o"
+stripe_price_id: "price_0TmAdW2pYT1oPdidn6ioZ3tS"
+stripe_buy_url: "https://buy.stripe.com/eVq9AA6Spa4LeNa3wZ2sM0s"
 price_jpy: 2000
 quantity: 1
 sold: false

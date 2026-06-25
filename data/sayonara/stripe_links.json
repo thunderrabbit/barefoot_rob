@@ -49,11 +49,12 @@
    },
    "im-fine" : {
       "amount_jpy" : 2000,
-      "buy_url" : "https://buy.stripe.com/28EaEE0u15OvdJ66Jb2sM0n",
+      "buy_url" : "https://buy.stripe.com/dRm1441y590H8oMaZr2sM0r",
       "mode" : "live",
-      "payment_link" : "plink_0TmAWC2pYT1oPdidWokkVBZ5",
-      "price_id" : "price_0TmAWC2pYT1oPdid44h8e0FD",
-      "product_id" : "prod_Ulhw1ObuiCJsQr"
+      "payment_link" : "plink_0TmAdW2pYT1oPdidOFkCMzit",
+      "price_id" : "price_0TmAdV2pYT1oPdid6VI9QBpg",
+      "product_id" : "prod_Ulhw1ObuiCJsQr",
+      "quantity" : 20
    },
    "ono-signets-silicone-magnets-blue-sealed-box" : {
       "amount_jpy" : 1500,
@@ -80,12 +81,13 @@
       "product_id" : "prod_Ulfchnx84VBLo9"
    },
    "shoulder-fixation-plate" : {
-      "amount_jpy" : 500,
-      "buy_url" : "https://buy.stripe.com/7sYcMM4Kh0ubdJ6d7z2sM0o",
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/eVq9AA6Spa4LeNa3wZ2sM0s",
       "mode" : "live",
-      "payment_link" : "plink_0TmAWE2pYT1oPdidcl3K6jFs",
-      "price_id" : "price_0TmAWE2pYT1oPdidVT5SAAsa",
-      "product_id" : "prod_UlhwjH2IdV24Jf"
+      "payment_link" : "plink_0TmAdX2pYT1oPdid2oEDHE8t",
+      "price_id" : "price_0TmAdW2pYT1oPdidn6ioZ3tS",
+      "product_id" : "prod_UlhwjH2IdV24Jf",
+      "quantity" : 1
    },
    "to-be-or-not-to-be" : {
       "amount_jpy" : 2000,
@@ -96,11 +98,12 @@
       "product_id" : "prod_UlhwozBO7DYFLy"
    },
    "touring-mapple-3-kanto-koshinetsu" : {
-      "amount_jpy" : 500,
-      "buy_url" : "https://buy.stripe.com/aFa5kkccJa4LfReffH2sM0q",
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/fZu000a4Ba4L34sd7z2sM0t",
       "mode" : "live",
-      "payment_link" : "plink_0TmAWI2pYT1oPdid1gySCf8n",
-      "price_id" : "price_0TmAWH2pYT1oPdidQDqEQ1ge",
-      "product_id" : "prod_UlhwIkpePX8mQq"
+      "payment_link" : "plink_0TmAdY2pYT1oPdidqOJnAVmv",
+      "price_id" : "price_0TmAdY2pYT1oPdidBoNlZ7bR",
+      "product_id" : "prod_UlhwIkpePX8mQq",
+      "quantity" : 1
    }
 }
