@@ -8,7 +8,7 @@ aliases: [
   "/inbox-overflow",
   "/en/inbox-overflow",
 ]
-_build:
+build:
   list: never
 ---
 

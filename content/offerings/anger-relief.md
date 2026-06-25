@@ -8,7 +8,7 @@ aliases: [
   "/anger-relief",
   "/en/anger-relief",
 ]
-_build:
+build:
   list: never
 ---
 
