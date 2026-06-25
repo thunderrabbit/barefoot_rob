@@ -2,7 +2,7 @@
 title: "The Secret Fire of Alchemy by Kevin B. Turner"
 slug: "the-secret-fire-of-alchemy-by-kevin-b-turner"
 mg_issue_id: ""
-category: "books"
+category: "book"
 tier: ""
 mechanism: ""
 event: ""
