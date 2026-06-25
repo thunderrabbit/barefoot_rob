@@ -67,11 +67,11 @@ people around them. This is even more important as we work with AI:
 ## Work with me
 
 If you or your team want to put AI to work without losing the humans in the
-process, I'd love to hear what you're building.
+process, I'd love to help with what you're building.
 
 <div class="nav-item" style="text-align:center">
-<a class="pure-button" style="background-color: darkgoldenrod; font-size:1.5em" href="/en/contact/">
-    GET IN TOUCH
+<a class="pure-button" style="background-color: darkgoldenrod; font-size:1.5em" href="https://www.cal.eu/robnugen/tech-support-with-rob-nugen">
+    WORK WITH ME
 </a>
 </div>
 <br>
