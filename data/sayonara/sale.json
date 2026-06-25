@@ -6,6 +6,6 @@
   "casio-iq-1070j-7jf-radio-clock": {
     "price_jpy": 1000,
     "for_sale": false,
-    "note": "Off-market 25 Jun 2026 — Rob keeps this (no-sticker) clock for his own use while the with-sticker one sells. Stripe payment link was deactivated. To re-list: set for_sale true, then run `perl stripe_sayonara.pl --go --yes-live` (mints a fresh link) and `perl sayonara_generate.pl`."
+    "note": "Off-market 25 Jun 2026 — Rob keeps this (no-sticker) clock to use for now; it WILL sell before he leaves Japan (by June 2027), so the page's 'coming soon' state is intentional, not a bug. Stripe payment link was deactivated. To re-list: set for_sale true, then run `perl stripe_sayonara.pl --go --yes-live` (mints a fresh link) and `perl sayonara_generate.pl`."
   }
 }
