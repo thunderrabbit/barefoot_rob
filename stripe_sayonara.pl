@@ -1,0 +1,155 @@
+#!/usr/bin/perl
+# stripe_sayonara.pl — create one Stripe Payment Link per priced sayonara item.
+#
+# Per item (3-call chain):  product -> price -> payment_link
+# Writes the buy URL (+ ids) into data/sayonara/stripe_links.json keyed by slug.
+#
+# Source of truth:
+#   data/sayonara/items/<slug>.json   — name, images[], quantity   (badmin sidecar)
+#   data/sayonara/sale.json           — price_jpy overlay          (Boss-set)
+# Effective price = sale.json price, else sidecar price_jpy. null/0 -> skipped.
+#
+# Idempotent: a slug already present in stripe_links.json is skipped.
+# JPY is ZERO-DECIMAL: unit_amount = yen exactly (1500 -> ¥1,500, no x100).
+#
+# Secret key: ~/.stripe/sayonara.conf (any line containing rk_/sk_..). Read onto
+# curl's stdin via -K - so it never lands in argv (ps) or stdout/logs.
+#
+#   perl stripe_sayonara.pl            # DRY RUN — show what would be created
+#   perl stripe_sayonara.pl --go       # actually call Stripe (test key)
+#   perl stripe_sayonara.pl --go --yes-live   # required if key is sk_live/rk_live
+
+use strict;
+use warnings;
+use JSON::PP;
+use IPC::Open2;
+use FindBin qw($RealBin);
+
+my $GO       = grep { $_ eq '--go' }       @ARGV;
+my $YES_LIVE = grep { $_ eq '--yes-live' } @ARGV;
+
+my $DATA  = "$RealBin/data/sayonara";
+my $ITEMS = "$DATA/items";
+my $SALE  = "$DATA/sale.json";
+my $LINKS = "$DATA/stripe_links.json";
+my $CONF  = "$ENV{HOME}/.stripe/sayonara.conf";
+
+# ---- secret key -------------------------------------------------------------
+open my $cf, '<', $CONF or die "cannot read $CONF: $!\n";
+my $conf = do { local $/; <$cf> }; close $cf;
+my ($KEY) = $conf =~ /((?:rk|sk)_(?:test|live)_[A-Za-z0-9]+)/
+    or die "no rk_/sk_ key found in $CONF\n";
+my $LIVE = $KEY =~ /_live_/;
+if ($LIVE && !$YES_LIVE) {
+    die "REFUSING: $CONF holds a LIVE key. Re-run with --yes-live to use it.\n";
+}
+printf "Stripe mode: %s\n", $LIVE ? "*** LIVE ***" : "test (sandbox)";
+
+# ---- load data --------------------------------------------------------------
+sub slurp { open my $fh, '<:raw', $_[0] or die "open $_[0]: $!"; local $/; <$fh> }
+my $J = JSON::PP->new->utf8->canonical->pretty;
+
+my $sale  = -e $SALE  ? decode_json(slurp($SALE))  : {};
+my $links = -e $LINKS ? decode_json(slurp($LINKS)) : {};
+
+# ---- curl helper: key on stdin (-K -), never on argv ------------------------
+sub stripe_api {
+    my ($url, @form) = @_;
+    my @cmd = ('curl', '-s', '-K', '-', $url);
+    push @cmd, ('-d', $_) for @form;
+    my ($out, $in);
+    my $pid = open2($out, $in, @cmd);
+    print $in qq{user = "$KEY:"\n};
+    close $in;
+    local $/; my $resp = <$out>; close $out;
+    waitpid $pid, 0;
+    my $data = eval { decode_json($resp) } // {};
+    return $data;
+}
+
+sub head_ok {
+    my ($u) = @_;
+    my $code = `curl -s -o /dev/null -I -w '%{http_code}' \Q$u\E`;
+    return $code =~ /^(2|3)\d\d$/;
+}
+
+# ---- iterate priced items ---------------------------------------------------
+my @sidecars = sort glob "$ITEMS/*.json";
+my ($made, $skipped, $errors) = (0, 0, 0);
+
+for my $path (@sidecars) {
+    my $item = decode_json(slurp($path));
+    my $slug = $item->{slug} or next;
+
+    my $price = (exists $sale->{$slug} && defined $sale->{$slug}{price_jpy})
+              ? $sale->{$slug}{price_jpy}
+              : $item->{price_jpy};
+    next unless defined $price && $price > 0;     # unpriced -> skip silently
+
+    if ($links->{$slug} && $links->{$slug}{buy_url}) {
+        print "= $slug  already linked ($links->{$slug}{buy_url})\n";
+        $skipped++;
+        next;
+    }
+
+    my $name  = $item->{name} // $slug;
+    my $img   = ($item->{images} && @{$item->{images}}) ? $item->{images}[0] : '';
+    my $qty   = $item->{quantity} && $item->{quantity} > 0 ? $item->{quantity} : 1;
+
+    printf "+ %-50s ¥%s%s\n", $slug, $price, $img ? '' : '  (no image!)';
+
+    if (!$GO) { $made++; next; }   # dry run
+
+    if ($img && !head_ok($img)) {
+        print "  ! image not reachable, skipping: $img\n";
+        $errors++; next;
+    }
+
+    my $prod = stripe_api('https://api.stripe.com/v1/products',
+        "name=$name", ($img ? ("images[]=$img") : ()));
+    unless ($prod->{id}) {
+        print "  ! product failed: ", ($prod->{error}{message} // 'unknown'), "\n";
+        $errors++; next;
+    }
+
+    my $pr = stripe_api('https://api.stripe.com/v1/prices',
+        "product=$prod->{id}", "unit_amount=$price", "currency=jpy");
+    unless ($pr->{id}) {
+        print "  ! price failed: ", ($pr->{error}{message} // 'unknown'), "\n";
+        $errors++; next;
+    }
+
+    my $pl = stripe_api('https://api.stripe.com/v1/payment_links',
+        "line_items[0][price]=$pr->{id}",
+        "line_items[0][quantity]=1",
+        "restrictions[completed_sessions][limit]=$qty",
+        "phone_number_collection[enabled]=true");
+    unless ($pl->{url}) {
+        print "  ! payment_link failed: ", ($pl->{error}{message} // 'unknown'), "\n";
+        $errors++; next;
+    }
+
+    $links->{$slug} = {
+        buy_url      => $pl->{url},      # field names match sayonara_generate.pl
+        payment_link => $pl->{id},
+        product_id   => $prod->{id},
+        price_id     => $pr->{id},
+        amount_jpy   => $price + 0,
+        mode         => $LIVE ? 'live' : 'test',
+    };
+    print "  -> $pl->{url}\n";
+    $made++;
+
+    # persist after each success so a mid-run failure never loses links
+    open my $w, '>:raw', $LINKS or die "write $LINKS: $!";
+    print $w $J->encode($links);
+    close $w;
+}
+
+print "\n";
+if (!$GO) {
+    print "DRY RUN — $made would be created, $skipped already linked. Re-run with --go.\n";
+} else {
+    print "Done: $made created, $skipped already linked, $errors errors.\n";
+    print "Links: $LINKS\n";
+}
