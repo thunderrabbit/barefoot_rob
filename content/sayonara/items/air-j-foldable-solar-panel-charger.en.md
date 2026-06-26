@@ -22,4 +22,10 @@ draft: false
 date: 2026-06-25
 ---
 
-A portable foldable solar charger with four black solar panels in an orange fabric case, like new. featuring a built-in solar voltage controller with dual USB outputs.
+A four-panel foldable solar charger with built-in voltage controller and dual USB outputs, in an orange fabric case. Like new — purchased before Rob’s [243 km barefoot walk from Yokohama to Niigata in 2021](/en/quests/walk-to-niigata/), with the plan to stay off-grid, but booking hotels every evening meant it never left the bag. No box, no cable.
+
+**Why a new owner would be happy**
+
+- Essentially unused: zero charge cycles in the field, panels have no wear.
+- Solar + dual USB covers phones, headlamps, and small power banks simultaneously.
+- Folds flat for a pack — ideal for hiking, bike touring, or any trip where wall outlets are uncertain.

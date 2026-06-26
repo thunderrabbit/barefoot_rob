@@ -22,6 +22,12 @@ draft: false
 date: 2026-06-25
 ---
 
-A BLACK+DECKER KR112 corded compact drill driver with orange and black housing, variable speed control, and integrated bit storage.
+A BLACK+DECKER KR112 corded drill driver with variable speed, keyless chuck, and integrated bit storage. Bought for an art project that involved using the drill to twist wire straight — but the project stalled when the soldering didn’t cooperate. Very lightly used; the bits are all clean. Comes with the original box (worn, with tape and writing on it).
+
+**Why a new owner would be happy**
+
+- Barely used — motor and chuck are in excellent shape.
+- Corded means no dead batteries mid-project.
+- Handles household drilling and driving.
 
 **Works well with** [Drill bit and driver set with case](/en/sayonara/items/drill-bit-and-driver-set-with-case/)
