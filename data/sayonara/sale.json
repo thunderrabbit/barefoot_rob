@@ -5,10 +5,11 @@
   "ono-signets-silicone-magnets-mint-green-sealed-box": { "price_jpy": 1500, "sold": true },
   "poor-yorick": { "sold": true },
   "the-life-you-were-born-to-live": { "sold": true },
-  "casio-iq-1070j-7jf-radio-clock-with-original-sticker": { "price_jpy": 1000 },
+  "casio-iq-1070j-7jf-radio-clock-with-original-sticker": { "price_jpy": 1000, "description_append": "**See also** [Casio IQ-1070J-7JF Radio Clock](/en/sayonara/items/casio-iq-1070j-7jf-radio-clock/) — same model, no sticker." },
   "casio-iq-1070j-7jf-radio-clock": {
     "price_jpy": 1000,
     "for_sale": false,
+    "description_append": "**See also** [Casio IQ-1070J-7JF Radio Clock with original sticker](/en/sayonara/items/casio-iq-1070j-7jf-radio-clock-with-original-sticker/) — same model, includes the original ¥3,000+tax retail sticker.",
     "note": "Off-market 25 Jun 2026 — Rob keeps this (no-sticker) clock to use for now; it WILL sell before he leaves Japan (by June 2027), so the page's 'coming soon' state is intentional, not a bug. Stripe payment link was deactivated. To re-list: set for_sale true, then run `perl stripe_sayonara.pl --go --yes-live` (mints a fresh link) and `perl sayonara_generate.pl`."
   },
   "8-mile": { "price_jpy": 500 },
