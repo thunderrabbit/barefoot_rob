@@ -23,6 +23,6 @@ draft: false
 date: 2026-06-25
 ---
 
-Like new 29-piece drill bit set with twist drill bits and screwdriver bits organized in a red and black plastic storage case with clear cover.
+Like new 23-piece drill bit set with twist drill bits and screwdriver bits organized in a red and black plastic storage case with clear cover.
 
 **Works well with** [BLACK+DECKER corded drill driver KR112](/en/sayonara/items/black-decker-corded-drill-driver-kr112/)
