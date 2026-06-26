@@ -24,7 +24,7 @@ date: 2026-06-25
 
 A white Casio WaveCeptor wall clock (IQ-1070J-7JF) that syncs automatically to Japan's radio time signal — always accurate, no manual setting ever needed. The second hand stops when the room goes dark to avoid ticking noise at night.
 
-Rob loved this model so much he bought three to keep in different rooms. He gave one to a friend when he moved apartments, and now the remaining two are heading to new homes.
+Rob loved this model so much he bought three to keep in different rooms. He gave one to a friend when he moved apartments, and now the remaining two are heading to new homes. This one is still on Rob's wall until he leaves Japan — buy it now and receive it before July 15, 2027.
 
 **Why a new owner would be happy**
 
