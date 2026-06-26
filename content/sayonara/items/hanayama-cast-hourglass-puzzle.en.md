@@ -25,10 +25,4 @@ draft: false
 date: 2026-06-25
 ---
 
-A Hanayama Cast Hourglass metal puzzle — two interlocking cast pieces that must be separated and reassembled. Comes with the original box. Rob loves puzzles and has both taken it apart and solved it, but it spent years in an unsolved state on the shelf until the pressure of an upcoming move finally motivated a proper sit-down.
-
-**Why a new owner would be happy**
-
-- Genuinely challenging: Hanayama rates this one difficult.
-- Compact and satisfying — only 4 pieces (2 sets of 2 nearly-identical castings), so nothing small to lose.
-- Comes solved, so you can experience the "how does this even work?" moment fresh.
+A Cast Hourglass Huzzle metal puzzle by Hanayama, a Japanese brain teaser with interlocking cast metal pieces that must be separated and reassembled.
