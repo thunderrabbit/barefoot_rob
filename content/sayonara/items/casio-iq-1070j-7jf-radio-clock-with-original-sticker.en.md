@@ -22,14 +22,6 @@ draft: false
 date: 2026-06-25
 ---
 
-A white Casio WaveCeptor wall clock (IQ-1070J-7JF) that syncs automatically to Japan’s radio time signal — always accurate, no manual setting ever needed. The second hand stops when the room goes dark to avoid ticking noise at night. Original retail sticker on the back shows the original price: ¥3,000+tax.
-
-Rob loved this model so much he bought three to keep in different rooms. He gave one to a friend when he moved apartments, and now the remaining two are heading to new homes.
-
-**Why a new owner would be happy**
-
-- Set it and forget it: radio sync keeps it accurate indefinitely.
-- Silent at night — second hand stops in the dark.
-- Clean minimalist face; looks at home in any room.
+A white Casio WaveCeptor atomic wall clock with radio synchronization capability, model IQ-1070J-7JF, featuring analog display and automatic timekeeping adjustment.
 
 **See also** [Casio IQ-1070J-7JF Radio Clock](/en/sayonara/items/casio-iq-1070j-7jf-radio-clock/) — same model, no sticker.
