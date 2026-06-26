@@ -20,5 +20,12 @@ draft: false
 date: 2026-06-24
 ---
 
-A black SentrySafe brand security safe with electronic digital keypad lock and manual handle, designed for home storage of valuables.
+A SentrySafe with electronic digital keypad, manual override handle, and physical key lock. Interior fits A4 documents laying flat — passports, contracts, cash, whatever you want locked away. Digital keypad and battery work; physical keys included (Rob is 99% sure). Too heavy to ship — Yurigaoka pickup only.
+
 Banana for scale.
+
+**Why a new owner would be happy**
+
+- Three layers of security: keypad code, manual handle, and physical key.
+- A4-sized interior handles the documents that actually matter.
+- Heavy enough that a casual thief won't walk off with it.
