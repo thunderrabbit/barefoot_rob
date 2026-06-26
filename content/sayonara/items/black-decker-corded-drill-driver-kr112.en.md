@@ -28,6 +28,6 @@ A BLACK+DECKER KR112 corded drill driver with variable speed, keyless chuck, and
 
 - Barely used — motor and chuck are in excellent shape.
 - Corded means no dead batteries mid-project.
-- Compact size handles household drilling and driving without the bulk of a full-size drill.
+- Handles household drilling and driving.
 
 **Works well with** [Drill bit and driver set with case](/en/sayonara/items/drill-bit-and-driver-set-with-case/)
