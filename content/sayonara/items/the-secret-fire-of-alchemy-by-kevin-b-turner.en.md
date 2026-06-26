@@ -2,7 +2,7 @@
 title: "The Secret Fire of Alchemy by Kevin B. Turner"
 slug: "the-secret-fire-of-alchemy-by-kevin-b-turner"
 mg_issue_id: ""
-category: "books"
+category: "book"
 tier: ""
 mechanism: ""
 event: ""
@@ -21,4 +21,12 @@ draft: false
 date: 2026-06-25
 ---
 
-Hardcover book about Kriya Yoga, Kundalini, and Shamanism by Kevin B. Turner, published by Inner Traditions.
+Paperback. Kevin B. Turner's memoir covering Kriya Yoga, Kundalini, and Shamanism, published by Inner Traditions. Rob gave it five stars on Amazon and titled his review *"Inspired me more than Autobiography of a Yogi"* — here's what he wrote:
+
+> The Secret Fire of Alchemy reads like a newer, more vibrant version of Autobiography of a Yogi. Kevin's stories are more scandalous while not revealing, more vulnerable in showing his repeated successes and failures. This inspired me to be more wholly myself, accepting of my failures of the past and *keep trying anyway*.
+>
+> Kevin's book and travels cover myriad esoteric topics and even spans lifetimes. It's by far the largest book I've read in over a year; I usually just doom-scroll looking for dopamine. Kevin's book provided such a rich portrayal of his life that I quickly devoured the book to follow the tales of the flawed protagonist for whom I was rooting the entire time!
+>
+> Kevin's book inspired me to meditate, find my courage to trust life, and do the scary thing anyway. It's been three weeks since I finished The Secret Fire of Alchemy. I still meditate daily, and I still focus on doing what only I can do, even as I feel the fear. Thank you Kevin for helping me find my compassion for self and bravery to live.
+
+Clean inside.

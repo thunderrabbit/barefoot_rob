@@ -5,7 +5,8 @@
 <p class="sayonara-buy"><a class="pure-button pure-button-primary sayonara-btn-buy" href="{{ .Params.stripe_buy_url }}">Buy{{ with .Params.price_jpy }} ¥{{ lang.FormatNumber 0 . }}{{ end }}</a></p>
 {{- else -}}
 <p class="sayonara-buy"><span class="pure-button sayonara-btn-disabled">Buy — coming soon</span></p>
+<p class="sayonara-interest"><a href="mailto:rob.i_want_your.{{ .Slug }}@robnugen.com?subject=I%20want%20your%20{{ .Title | urlquery }}">I'm interested — let Rob know</a></p>
 {{- end -}}
-{{- if not .Params.sold -}}
+{{- if and (not .Params.sold) .Params.stripe_buy_url -}}
 <p class="sayonara-pickup"><em>Price does not include shipping.</em> Buyer coordinates pickup from Rob {{ if eq .Params.pickup "yurigaoka" }}at Yurigaoka during the week{{ else }}at Yurigaoka during the week, or Yoyogi Park on Sundays{{ end }}.</p>
 {{- end -}}

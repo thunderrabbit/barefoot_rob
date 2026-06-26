@@ -6,17 +6,20 @@
     <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
 
     <script src="/ai-cookie-snippet.js"></script>
-    <meta name="description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
+    {{- $desc := cond .IsNode ($.Site.Params.description | default "") (.Description | default .Summary) -}}
+    <meta name="description" content="{{ $desc }}">
 
     {{hugo.Generator}}
     <meta name="twitter:card" content="summary">
     {{ with .Site.Params.twitter }}<meta name="twitter:site" content="{{ . }}" />{{ end }}
     <meta name="twitter:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
-    <meta name="twitter:description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
+    <meta name="twitter:description" content="{{ $desc }}">
+    {{ with (index .Params.images 0) }}<meta name="twitter:image" content="{{ . }}">{{ end }}
 
     <meta property="og:type" content="article">
     <meta property="og:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
-    <meta property="og:description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
+    <meta property="og:description" content="{{ $desc }}">
+    {{ with (index .Params.images 0) }}<meta property="og:image" content="{{ . }}">{{ end }}
 
     <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
