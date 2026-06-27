@@ -10,9 +10,9 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/2026-jun-24-town-johnsons-motorcar_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/thumbs/2026-jun-24-town-johnsons-motorcar.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UmUrOmbiz70RyA"
+stripe_price_id: "price_0Tmvrc2pYT1oPdidxoAHEj9X"
+stripe_buy_url: "https://buy.stripe.com/7sYcMMdgN3Gn0WkgjL2sM0I"
 price_jpy: 500
 quantity: 1
 sold: false

@@ -11,9 +11,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/2026-jun-24-the-art-of-traditional-thai-massage-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/2026-jun-24-the-art-of-traditional-thai-massage-2_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditional_thai_massage/thumbs/2026-jun-24-the-art-of-traditional-thai-massage-1.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UmUr0EWbgeWnnt"
+stripe_price_id: "price_0TmvrM2pYT1oPdidKLhgA9il"
+stripe_buy_url: "https://buy.stripe.com/5kQ5kkb8F6SzdJ61oR2sM0D"
 price_jpy: 2000
 quantity: 1
 sold: false

@@ -11,9 +11,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/2026-jun-24-karma-for-todays-traveler-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/2026-jun-24-karma-for-todays-traveler-2_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/karma_for_todays_traveler/thumbs/2026-jun-24-karma-for-todays-traveler-1.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UmUq9aZy2nxnDm"
+stripe_price_id: "price_0Tmvqu2pYT1oPdidsmpSXPjQ"
+stripe_buy_url: "https://buy.stripe.com/6oUfYY6Spel10WkffH2sM0y"
 price_jpy: 800
 quantity: 1
 sold: false

@@ -74,6 +74,42 @@
       "product_id" : "prod_Ulhw1ObuiCJsQr",
       "quantity" : 20
    },
+   "karma-for-todays-traveler" : {
+      "amount_jpy" : 800,
+      "buy_url" : "https://buy.stripe.com/6oUfYY6Spel10WkffH2sM0y",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvqv2pYT1oPdidUNY8YFw6",
+      "price_id" : "price_0Tmvqu2pYT1oPdidsmpSXPjQ",
+      "product_id" : "prod_UmUq9aZy2nxnDm",
+      "quantity" : 1
+   },
+   "keguribap-philip-gayle" : {
+      "amount_jpy" : 1000,
+      "buy_url" : "https://buy.stripe.com/fZu7ssekR2Cj9sQgjL2sM0z",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvqy2pYT1oPdidrZcIvUI7",
+      "price_id" : "price_0Tmvqx2pYT1oPdid2owqKfK6",
+      "product_id" : "prod_UmUqKmbyxL2tXL",
+      "quantity" : 1
+   },
+   "melinda-ortner" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/eVqbII5Olel1eNad7z2sM0A",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvr62pYT1oPdid4q3BcVJn",
+      "price_id" : "price_0Tmvr52pYT1oPdidR4Fagjh3",
+      "product_id" : "prod_UmUq31DU1TLnXJ",
+      "quantity" : 1
+   },
+   "no-exhaust-johnsons-motorcar" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/5kQ0002C9gt90Wk9Vn2sM0B",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvr82pYT1oPdidVEjKKGIO",
+      "price_id" : "price_0Tmvr72pYT1oPdidnhbPnod1",
+      "product_id" : "prod_UmUqgWDfoF4NqJ",
+      "quantity" : 2
+   },
    "ono-signets-silicone-magnets-blue-sealed-box" : {
       "amount_jpy" : 1500,
       "buy_url" : "https://buy.stripe.com/00w3cc5Olgt97kI9Vn2sM0f",
@@ -92,6 +128,15 @@
       "product_id" : "prod_UlfcTBuMPVC0hi",
       "sold" : true
    },
+   "round-wooden-cutting-board" : {
+      "amount_jpy" : 1000,
+      "buy_url" : "https://buy.stripe.com/00w9AA1y50ub5cA7Nf2sM0C",
+      "mode" : "live",
+      "payment_link" : "plink_0TmvrK2pYT1oPdidhiskRS3G",
+      "price_id" : "price_0TmvrK2pYT1oPdidlFcwxc7n",
+      "product_id" : "prod_UmUq9BdjUStgau",
+      "quantity" : 1
+   },
    "sentrysafe-digital-lock-safe" : {
       "amount_jpy" : 20000,
       "buy_url" : "https://buy.stripe.com/dRm6oo90x0ub8oMgjL2sM0h",
@@ -107,6 +152,51 @@
       "payment_link" : "plink_0TmAdX2pYT1oPdid2oEDHE8t",
       "price_id" : "price_0TmAdW2pYT1oPdidn6ioZ3tS",
       "product_id" : "prod_UlhwjH2IdV24Jf",
+      "quantity" : 1
+   },
+   "the-art-of-traditional-thai-massage" : {
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/5kQ5kkb8F6SzdJ61oR2sM0D",
+      "mode" : "live",
+      "payment_link" : "plink_0TmvrN2pYT1oPdidGi9McIKj",
+      "price_id" : "price_0TmvrM2pYT1oPdidKLhgA9il",
+      "product_id" : "prod_UmUr0EWbgeWnnt",
+      "quantity" : 1
+   },
+   "the-cosmic-war" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/5kQ2886Spgt948wgjL2sM0E",
+      "mode" : "live",
+      "payment_link" : "plink_0TmvrQ2pYT1oPdidQvu9HUF1",
+      "price_id" : "price_0TmvrQ2pYT1oPdidoNy1Vrg8",
+      "product_id" : "prod_UmUrhwkrMjSrIO",
+      "quantity" : 1
+   },
+   "the-eminem-show" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/5kQ7ss7Wta4LfRe7Nf2sM0F",
+      "mode" : "live",
+      "payment_link" : "plink_0TmvrT2pYT1oPdid4vtGvxsI",
+      "price_id" : "price_0TmvrT2pYT1oPdid1HT9nygS",
+      "product_id" : "prod_UmUr9ScrOUnHOi",
+      "quantity" : 1
+   },
+   "the-little-metoo-book-for-men" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/14A2885Olb8PfReebD2sM0G",
+      "mode" : "live",
+      "payment_link" : "plink_0TmvrX2pYT1oPdidfcngEdaa",
+      "price_id" : "price_0TmvrW2pYT1oPdidoESSt4Qz",
+      "product_id" : "prod_UmUrbKZirAD5DV",
+      "quantity" : 1
+   },
+   "the-sculptor-in-the-sky" : {
+      "amount_jpy" : 1000,
+      "buy_url" : "https://buy.stripe.com/aFa4gg2C9ccT9sQaZr2sM0H",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvra2pYT1oPdidvbkn7hRW",
+      "price_id" : "price_0TmvrZ2pYT1oPdidZFfPuUQU",
+      "product_id" : "prod_UmUr7bdSQsvnmZ",
       "quantity" : 1
    },
    "the-secret-fire-of-alchemy-by-kevin-b-turner" : {
@@ -134,6 +224,24 @@
       "payment_link" : "plink_0TmAdY2pYT1oPdidqOJnAVmv",
       "price_id" : "price_0TmAdY2pYT1oPdidBoNlZ7bR",
       "product_id" : "prod_UlhwIkpePX8mQq",
+      "quantity" : 1
+   },
+   "town-johnsons-motorcar" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/7sYcMMdgN3Gn0WkgjL2sM0I",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvrd2pYT1oPdidd6WuMyYu",
+      "price_id" : "price_0Tmvrc2pYT1oPdidxoAHEj9X",
+      "product_id" : "prod_UmUrOmbiz70RyA",
+      "quantity" : 1
+   },
+   "universal-vision" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/5kQeUU0u1ccTbAY8Rj2sM0J",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmvrl2pYT1oPdidsQWBKciY",
+      "price_id" : "price_0Tmvrk2pYT1oPdidPfnAnojS",
+      "product_id" : "prod_UmUrGD3CccVolK",
       "quantity" : 1
    },
    "world-banknote-lot" : {

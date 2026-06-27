@@ -12,9 +12,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_cosmic_war/2026-jun-24-the-cosmic-war-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_cosmic_war/2026-jun-24-the-cosmic-war-2_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/books/thumbs/2026-jun-17-the-cosmic-war-paperback-book.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UmUrhwkrMjSrIO"
+stripe_price_id: "price_0TmvrQ2pYT1oPdidoNy1Vrg8"
+stripe_buy_url: "https://buy.stripe.com/5kQ2886Spgt948wgjL2sM0E"
 price_jpy: 1500
 quantity: 1
 sold: false

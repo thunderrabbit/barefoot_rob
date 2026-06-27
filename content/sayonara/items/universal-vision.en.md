@@ -11,9 +11,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/2026-jun-24-universal-vision-1_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/2026-jun-24-universal-vision-2_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/thumbs/2026-jun-24-universal-vision-1.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UmUrGD3CccVolK"
+stripe_price_id: "price_0Tmvrk2pYT1oPdidPfnAnojS"
+stripe_buy_url: "https://buy.stripe.com/5kQeUU0u1ccTbAY8Rj2sM0J"
 price_jpy: 1500
 quantity: 1
 sold: false
