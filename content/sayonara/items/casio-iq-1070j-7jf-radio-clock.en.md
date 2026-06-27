@@ -15,7 +15,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/office/casio_iq_1070j_7j
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy: 1000
+price_jpy:
 quantity: 1
 sold: false
 draft: false

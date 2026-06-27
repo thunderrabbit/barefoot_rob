@@ -14,7 +14,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/universal_vision/th
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy: 1500
+price_jpy:
 quantity: 1
 sold: false
 draft: false
