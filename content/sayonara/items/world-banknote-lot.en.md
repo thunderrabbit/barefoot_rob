@@ -24,9 +24,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/collectible/world_banknote_lot/2026-jun-27-world-banknote-lot-idr-20000_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/collectible/world_banknote_lot/2026-jun-27-world-banknote-lot-idr-2000_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/collectible/world_banknote_lot/thumbs/2026-jun-27-world-banknote-lot-nzd-5.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_UmU2gfrrz0Z4G9"
+stripe_price_id: "price_0Tmv452pYT1oPdidtwR4LoCh"
+stripe_buy_url: "https://buy.stripe.com/bJe7ss3Gd4KrfRed7z2sM0x"
 price_jpy: 5555
 quantity: 1
 sold: false

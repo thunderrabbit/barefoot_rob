@@ -135,5 +135,14 @@
       "price_id" : "price_0TmAdY2pYT1oPdidBoNlZ7bR",
       "product_id" : "prod_UlhwIkpePX8mQq",
       "quantity" : 1
+   },
+   "world-banknote-lot" : {
+      "amount_jpy" : 5555,
+      "buy_url" : "https://buy.stripe.com/bJe7ss3Gd4KrfRed7z2sM0x",
+      "mode" : "live",
+      "payment_link" : "plink_0Tmv462pYT1oPdidZWoACnKO",
+      "price_id" : "price_0Tmv452pYT1oPdidtwR4LoCh",
+      "product_id" : "prod_UmU2gfrrz0Z4G9",
+      "quantity" : 1
    }
 }
