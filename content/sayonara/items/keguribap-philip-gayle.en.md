@@ -13,7 +13,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/thumbs/2026-jun-24-ke
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy:
+price_jpy: 1000
 quantity: 1
 sold: false
 draft: false

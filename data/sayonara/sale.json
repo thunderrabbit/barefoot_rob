@@ -20,5 +20,17 @@
   "shoulder-fixation-plate": { "price_jpy": 2000, "description_append": "**See also:** [Touring Mapple 3 Kanto-Koshinetsu](/en/sayonara/items/touring-mapple-3-kanto-koshinetsu/)" },
   "touring-mapple-3-kanto-koshinetsu": { "price_jpy": 2000, "description_append": "**See also:** [Titanium Shoulder Fixation Plate](/en/sayonara/items/shoulder-fixation-plate/)" },
   "black-decker-corded-drill-driver-kr112": { "description_append": "**Works well with** [Drill bit and driver set with case](/en/sayonara/items/drill-bit-and-driver-set-with-case/)" },
-  "drill-bit-and-driver-set-with-case": { "description_append": "**Works well with** [BLACK+DECKER corded drill driver KR112](/en/sayonara/items/black-decker-corded-drill-driver-kr112/)" }
+  "drill-bit-and-driver-set-with-case": { "description_append": "**Works well with** [BLACK+DECKER corded drill driver KR112](/en/sayonara/items/black-decker-corded-drill-driver-kr112/)" },
+  "keguribap-philip-gayle": { "price_jpy": 1000 },
+  "melinda-ortner": { "price_jpy": 1500 },
+  "no-exhaust-johnsons-motorcar": { "price_jpy": 500 },
+  "town-johnsons-motorcar": { "price_jpy": 500 },
+  "the-eminem-show": { "price_jpy": 500 },
+  "karma-for-todays-traveler": { "price_jpy": 800 },
+  "the-art-of-traditional-thai-massage": { "price_jpy": 2000 },
+  "the-cosmic-war": { "price_jpy": 1500 },
+  "the-little-metoo-book-for-men": { "price_jpy": 500 },
+  "the-sculptor-in-the-sky": { "price_jpy": 1000 },
+  "universal-vision": { "price_jpy": 1500 },
+  "round-wooden-cutting-board": { "price_jpy": 1000 }
 }
