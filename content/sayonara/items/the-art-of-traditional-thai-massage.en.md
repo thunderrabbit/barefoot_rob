@@ -14,7 +14,7 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_art_of_traditio
 stripe_product_id: ""
 stripe_price_id: ""
 stripe_buy_url: ""
-price_jpy:
+price_jpy: 2000
 quantity: 1
 sold: false
 draft: false
