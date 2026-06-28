@@ -10,10 +10,10 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/2026-jun-24-melinda-ortner_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/thumbs/2026-jun-24-melinda-ortner.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
-price_jpy:
+stripe_product_id: "prod_UmUq31DU1TLnXJ"
+stripe_price_id: "price_0Tmvr52pYT1oPdidR4Fagjh3"
+stripe_buy_url: "https://buy.stripe.com/eVqbII5Olel1eNad7z2sM0A"
+price_jpy: 1500
 quantity: 1
 sold: false
 draft: false

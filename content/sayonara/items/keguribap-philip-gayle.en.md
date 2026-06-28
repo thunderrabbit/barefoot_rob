@@ -10,10 +10,10 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/2026-jun-24-keguribap-philip-gayle_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/cd/thumbs/2026-jun-24-keguribap-philip-gayle.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
-price_jpy:
+stripe_product_id: "prod_UmUqKmbyxL2tXL"
+stripe_price_id: "price_0Tmvqx2pYT1oPdid2owqKfK6"
+stripe_buy_url: "https://buy.stripe.com/fZu7ssekR2Cj9sQgjL2sM0z"
+price_jpy: 1000
 quantity: 1
 sold: false
 draft: false

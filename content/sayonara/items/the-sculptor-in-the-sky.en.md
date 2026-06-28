@@ -10,10 +10,10 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-the-sculptor-in-the-sky_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/book/thumbs/2026-jun-24-the-sculptor-in-the-sky.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
-price_jpy:
+stripe_product_id: "prod_UmUr7bdSQsvnmZ"
+stripe_price_id: "price_0TmvrZ2pYT1oPdidZFfPuUQU"
+stripe_buy_url: "https://buy.stripe.com/aFa4gg2C9ccT9sQaZr2sM0H"
+price_jpy: 1000
 quantity: 1
 sold: false
 draft: false
