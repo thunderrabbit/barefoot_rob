@@ -34,7 +34,7 @@ I just put all the content below based on entries visible here
     content/quests/walk-to-niigata/2021/04/29omg-i-did-not-know-the-ways-this-trip-would-be-difficult.md
     content/quests/walk-to-niigata/2021/04/29past-trail-arriving-at-akashiya-house.md
 
-BUT it seems the post date for some might not match the order in which photos were taken.  
+BUT it seems the post date for some might not match the order in which photos were taken.
 
 The order below is my best guess, but the bestest way would be to check the exif data on the photos, not necessarily including the ones Jason took of me (with his camera, I think), which we can pretty easily establish were taken while on the red bridge.
 
@@ -47,7 +47,7 @@ The order below is my best guess, but the bestest way would be to check the exif
 
 Getting started today on day 13 walking toward the trailhead of my entry point over the hills past the tunnel that I can't go through..
 
-[![2021 apr 27 route to the trailhead to go around tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_route_to_the_trailhead_to_go_around_tunnel.png)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_route_to_the_trailhead_to_go_around_tunnel.png)          
+[![2021 apr 27 route to the trailhead to go around tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_route_to_the_trailhead_to_go_around_tunnel.png)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_route_to_the_trailhead_to_go_around_tunnel.png)
 
 #### date: '2021-04-28T09:08:19+09:00'
 
@@ -56,7 +56,7 @@ Getting started today on day 13 walking toward the trailhead of my entry point o
 
 Oh my gosh there's a ladder right there across the highway from us but there's a bunch of cars going by and I don't think they would understand why I'm climbing this ladder...
 
-[![2021 apr 27 i want to climb this ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_i_want_to_climb_this_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_i_want_to_climb_this_ladder.jpeg)          
+[![2021 apr 27 i want to climb this ladder](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_i_want_to_climb_this_ladder.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_i_want_to_climb_this_ladder.jpeg)
 
 Later I decided these ladders are for the monkeys in the area because the concrete walls are hard to climb.
 
@@ -103,7 +103,7 @@ I did a few test bounces on the trampoline but it wasn't strong enough for me to
 
 I wonder what caused the sheet to be lifted up strongly enough to pull these things out of the ground you usually stab it in
 
-[![2021 apr 28 what has caused these to be pulled up](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_what_has_caused_these_to_be_pulled_up.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_what_has_caused_these_to_be_pulled_up.jpeg)          
+[![2021 apr 28 what has caused these to be pulled up](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_what_has_caused_these_to_be_pulled_up.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_what_has_caused_these_to_be_pulled_up.jpeg)
 #### date: '2021-04-28T09:32:13+09:00'
 
     title: 'François!  get down from there!'
@@ -140,7 +140,7 @@ Does walking count as slow?
 
 The numbers keep getting higher.   Remember, add like 30km to count from Yokohama.
 
-[![2021 apr 27 François at 172 km](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_francois_at_172_km.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_francois_at_172_km.jpeg)          
+[![2021 apr 27 François at 172 km](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_francois_at_172_km.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_francois_at_172_km.jpeg)
 
 ((( Oh and for the record, we still had 2km to walk before getting to the trail we needed to take. )))
 
@@ -152,7 +152,7 @@ The numbers keep getting higher.   Remember, add like 30km to count from Yokoham
 
 Mountains are getting closer and closer...  I guess maybe they're just tall hills and not really mountains
 
-[![2021 apr 27 more of a big hill not a mountain](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_more_of_a_big_hill_not_a_mountain.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_more_of_a_big_hill_not_a_mountain.jpeg)          
+[![2021 apr 27 more of a big hill not a mountain](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_more_of_a_big_hill_not_a_mountain.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_more_of_a_big_hill_not_a_mountain.jpeg)
 
 
 #### date: '2021-04-28T10:23:52+09:00'
@@ -162,11 +162,11 @@ Mountains are getting closer and closer...  I guess maybe they're just tall hill
 
 This concrete block is keeping the road on the mountain
 
-[![2021 apr 28 concrete block](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_concrete_block.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_concrete_block.jpeg)     
+[![2021 apr 28 concrete block](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_concrete_block.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_concrete_block.jpeg)
 
 [![2021 apr 28 feet over concrete block](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_feet_over_concrete_block.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_feet_over_concrete_block.jpeg)
 
-[![2021 apr 28 concrete block is keeping the road on the mountain](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_concrete_block_is_keeping_the_road_on_the_mountain.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_concrete_block_is_keeping_the_road_on_the_mountain.jpeg)          
+[![2021 apr 28 concrete block is keeping the road on the mountain](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_concrete_block_is_keeping_the_road_on_the_mountain.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_concrete_block_is_keeping_the_road_on_the_mountain.jpeg)
 
 
 #### date: '2021-04-28T09:31:39+09:00'
@@ -196,7 +196,7 @@ Somehow, there's a little patch of snow un melted on the trail when we haven't s
 
 And between the trees we can just barely make out the tunnel that we're walking around
 
-[![2021 apr 27 tunnel visible between the trees](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_tunnel_visible_between_the_trees.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_tunnel_visible_between_the_trees.jpeg)          
+[![2021 apr 27 tunnel visible between the trees](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_tunnel_visible_between_the_trees.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_tunnel_visible_between_the_trees.jpeg)
 
 
 Me at Obansanja Shrine
@@ -207,7 +207,7 @@ Standing on the frame near the tunnel entrance
 
 [![2021 apr 28 rob on mitsukuni tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_on_mitsukuni_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_on_mitsukuni_tunnel.jpeg)
 
-[![2021 apr 28 rob walking along windowed tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_walking_along_windowed_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_walking_along_windowed_tunnel.jpeg)     
+[![2021 apr 28 rob walking along windowed tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_rob_walking_along_windowed_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_rob_walking_along_windowed_tunnel.jpeg)
 
 
 #### post date: '2021-04-29T06:27:50+09:00'
@@ -223,7 +223,7 @@ Standing on the frame near the tunnel entrance
 [![2021 apr 28 the next windowed tunnel](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_the_next_windowed_tunnel.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_the_next_windowed_tunnel.jpeg)
 [![2021 apr 28 corona safety sign over highway](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_corona_safety_sign_over_highway.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_corona_safety_sign_over_highway.jpeg)
 [![2021 apr 28 ski slope sans snow](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_ski_slope_sans_snow.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_ski_slope_sans_snow.jpeg)
-[![2021 apr 28 akashiya house entrance](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_akashiya_house_entrance.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_akashiya_house_entrance.jpeg)          
+[![2021 apr 28 akashiya house entrance](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_akashiya_house_entrance.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_akashiya_house_entrance.jpeg)
 
 #### Plan for Day 13:
 

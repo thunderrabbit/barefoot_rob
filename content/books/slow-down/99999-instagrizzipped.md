@@ -2468,7 +2468,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Walking through a tunnel, we found some windows, and then a giant set of doors leading to a beautiful area outside the windows where we could probably camp for a while without anybody noticing..<br><br>I found a ladder and climbed up near the top of the tunnel to take some pics as well.<br><br>The windowed section is a connector between what used to be two separate tunnels!</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178873848_3960011544078508_6378587213711072259_n_17912439172677878.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178873848_3960011544078508_6378587213711072259_n_17912439172677878.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-15-secret-door-to-a-magical-wonderland-outside-a-tunnel/2021_apr_30_walking_through_a_tunnel_we_found_some_windows_and.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-15-secret-door-to-a-magical-wonderland-outside-a-tunnel/2021_apr_30_walking_through_a_tunnel_we_found_some_windows_and.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180269479_927271874717827_2644831498659299080_n_17948334253455334.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180269479_927271874717827_2644831498659299080_n_17948334253455334.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178701685_820839235480674_5252628606382425262_n_17885288549191946.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178701685_820839235480674_5252628606382425262_n_17885288549191946.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178906979_277546490715022_3049660824564544534_n_17875709258292262.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178906979_277546490715022_3049660824564544534_n_17875709258292262.jpg" class="_2yuc _3-96" /></a></div>
@@ -2587,7 +2587,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Wow! so that&#039;s how snow blowers work.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178915921_1217856271967222_192919218248027759_n_18218183188008617.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178915921_1217856271967222_192919218248027759_n_18218183188008617.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-14-climbed-a-ladder-to-tire-heaven/2021_apr_29_wow_so_that_s_how_snow_blowers_work.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-14-climbed-a-ladder-to-tire-heaven/2021_apr_29_wow_so_that_s_how_snow_blowers_work.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178958710_1679799948875040_7773254842622482451_n_17881824821168814.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178958710_1679799948875040_7773254842622482451_n_17881824821168814.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178983755_492445098858987_967632060682109921_n_17882906690291239.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178983755_492445098858987_967632060682109921_n_17882906690291239.jpg" class="_2yuc _3-96" /></a></div>
     </div>
@@ -2596,7 +2596,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">There was a ladder that allowed me to climb up onto the top of the snow cover on the highway. I&#039;m so glad I did because it was covered in a array of carefully placed tires.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178335197_3501810533257065_8597139114075077527_n_17900552167932194.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178335197_3501810533257065_8597139114075077527_n_17900552167932194.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-14-climbed-a-ladder-to-tire-heaven/2021_apr_29_there_was_a_ladder_that_allowed_me_to_climb_up_ont.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-14-climbed-a-ladder-to-tire-heaven/2021_apr_29_there_was_a_ladder_that_allowed_me_to_climb_up_ont.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174040495_370699120934664_3872791199480637655_n_17880944987190331.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174040495_370699120934664_3872791199480637655_n_17880944987190331.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/177756117_1119760918489782_3793147601100371142_n_17900688820851824.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/177756117_1119760918489782_3793147601100371142_n_17900688820851824.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179950350_475398747219679_910990040396938306_n_17926082449572775.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179950350_475398747219679_910990040396938306_n_17926082449572775.jpg" class="_2yuc _3-96" /></a></div>
@@ -2606,7 +2606,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">There&#039;s chalk marks and numbers and such on the columns of this snow cover over the highway.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179087443_973448820059886_8416511146603465403_n_18129803674171027.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179087443_973448820059886_8416511146603465403_n_18129803674171027.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-14-climbed-a-ladder-to-tire-heaven/2021_apr_29_there_s_chalk_marks_and_numbers_and_such_on_the_co.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-14-climbed-a-ladder-to-tire-heaven/2021_apr_29_there_s_chalk_marks_and_numbers_and_such_on_the_co.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178776390_217659809725917_7297490060631118127_n_17860406111519290.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/178776390_217659809725917_7297490060631118127_n_17860406111519290.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Apr 28, 2021, 6:54 PM</div>
@@ -2650,7 +2650,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Construction outside SPAMu</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176190640_503396344036345_8714849127037648523_n_17848673792538838.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176190640_503396344036345_8714849127037648523_n_17848673792538838.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-07-from-spamu-to-post-splinter-removal-agony/2021_apr_22_construction_outside_spamu.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-07-from-spamu-to-post-splinter-removal-agony/2021_apr_22_construction_outside_spamu.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175768975_152278983409456_4224287061560673473_n_17929321681535672.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175768975_152278983409456_4224287061560673473_n_17929321681535672.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176349562_461221775125755_5427106231762167073_n_17882440868211872.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176349562_461221775125755_5427106231762167073_n_17882440868211872.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175870591_173955364578365_6391228875668351572_n_17899876768851420.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175870591_173955364578365_6391228875668351572_n_17899876768851420.jpg" class="_2yuc _3-96" /></a></div>
@@ -2666,7 +2666,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I&#039;ve always wanted to climb one of these arch things</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175833888_199821695055389_8550571631150196755_n_17884460384183549.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175833888_199821695055389_8550571631150196755_n_17884460384183549.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-05-tokyo-gunma-saitama-21.9km/2021_apr_20_i_ve_always_wanted_to_climb_one_of_these_arch_thin.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-05-tokyo-gunma-saitama-21.9km/2021_apr_20_i_ve_always_wanted_to_climb_one_of_these_arch_thin.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175592975_943292233146862_7701541051126433704_n_17898956563933340.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175592975_943292233146862_7701541051126433704_n_17898956563933340.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175141343_169911575003264_6507391723168917700_n_18205598611078131.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175141343_169911575003264_6507391723168917700_n_18205598611078131.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175137695_192559682529644_709995892832645893_n_17906696236740364.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175137695_192559682529644_709995892832645893_n_17906696236740364.jpg" class="_2yuc _3-96" /></a></div>
@@ -2676,7 +2676,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I met a fellow traveler<br><br>http://ogasho.at.webry.info</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175114699_951771822247600_5528931165577155739_n_17910020689693755.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175114699_951771822247600_5528931165577155739_n_17910020689693755.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-05-tokyo-gunma-saitama-21.9km/2021_apr_20_i_met_a_fellow_traveler_http_ogasho_at_webry_info.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-05-tokyo-gunma-saitama-21.9km/2021_apr_20_i_met_a_fellow_traveler_http_ogasho_at_webry_info.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2728,7 +2728,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Firetruck manhole cover</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175578640_458951835437012_7253196666514962631_n_17920234489578001.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175578640_458951835437012_7253196666514962631_n_17920234489578001.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_firetruck_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_firetruck_manhole_cover.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2754,7 +2754,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Francois signed up</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173874460_3736646893120240_1550047191287301070_n_17873946248365797.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173874460_3736646893120240_1550047191287301070_n_17873946248365797.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_francois_signed_up.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_francois_signed_up.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2780,7 +2780,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Sight injury<br><br>That little red dot by my pinky toe is a little puncture wound that I got.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174350163_296623671836199_2074216614074639882_n_17869754558419510.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174350163_296623671836199_2074216614074639882_n_17869754558419510.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021_apr_18_sight_injury_that_little_red_dot_by_my_pinky_toe_i.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021_apr_18_sight_injury_that_little_red_dot_by_my_pinky_toe_i.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2806,7 +2806,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cute white flowers</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172977266_3964493333635362_8729490115839242120_n_17906935561733231.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172977266_3964493333635362_8729490115839242120_n_17906935561733231.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_apr_14_cute_white_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_apr_14_cute_white_flowers.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2856,7 +2856,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Wow purple flowers</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172672546_962015617873381_1062513711261054785_n_17889629240101835.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/172672546_962015617873381_1062513711261054785_n_17889629240101835.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_apr_13_wow_purple_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_apr_13_wow_purple_flowers.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2906,7 +2906,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Hello yellow flowers</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/167093789_4447427848620605_2932814439672477895_n_18146483176088660.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/167093789_4447427848620605_2932814439672477895_n_18146483176088660.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_apr_03_hello_yellow_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_apr_03_hello_yellow_flowers.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3075,7 +3075,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">campaign for recycling bottle caps</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162195775_296465158618984_3591368555158124889_n_17862948527402669.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162195775_296465158618984_3591368555158124889_n_17862948527402669.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_mar_21_campaign_for_recycling_bottle_caps.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_mar_21_campaign_for_recycling_bottle_caps.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162653759_440605877003895_7947299802368215730_n_17865288665405216.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162653759_440605877003895_7947299802368215730_n_17865288665405216.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162485773_3973881659299685_2752306412038354172_n_17879561285136515.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162485773_3973881659299685_2752306412038354172_n_17879561285136515.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162611884_443709040242575_9052702176794150864_n_17890412926958485.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/162611884_443709040242575_9052702176794150864_n_17890412926958485.jpg" class="_2yuc _3-96" /></a></div>
@@ -3086,7 +3086,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Spring is springing! Less than a month before I start my walk across Japan!<br><br>https://www.robnugen.com/</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/160941782_258413599113206_3815450640340246437_n_18203156098005897.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/160941782_258413599113206_3815450640340246437_n_18203156098005897.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_mar_18_spring_is_springing_less_than_a_month_before_i_sta.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_mar_18_spring_is_springing_less_than_a_month_before_i_sta.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3137,7 +3137,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Campfire</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/156985822_918160222267095_168579441191311276_n_17958895726393887.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/156985822_918160222267095_168579441191311276_n_17958895726393887.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_mar_05_campfire.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_mar_05_campfire.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/157033872_277965920652423_1184487047982454726_n_17911065808649768.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/157033872_277965920652423_1184487047982454726_n_17911065808649768.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/156260801_424529492103734_3115049748071054255_n_17927131309519656.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202103/156260801_424529492103734_3115049748071054255_n_17927131309519656.jpg" class="_2yuc _3-96" /></a></div>
     </div>
@@ -3146,14 +3146,14 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Neat! I just found a neodymium magnet in the street. It was lodged in one of these circles in the concrete. I cleaned out the dirt and placed it on this street pole.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202102/148364193_3355881161183200_3864349915674907586_n_17859561500440453.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202102/148364193_3355881161183200_3864349915674907586_n_17859561500440453.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_feb_12_neat_i_just_found_a_neodymium_magnet_in_the_street.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_feb_12_neat_i_just_found_a_neodymium_magnet_in_the_street.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202102/148899015_278331313633659_7612207675875170728_n_17891384164924612.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202102/148899015_278331313633659_7612207675875170728_n_17891384164924612.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Feb 11, 2021, 3:11 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cool tree!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202102/148603703_432538571201359_780045039241471284_n_17955616741403259.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202102/148603703_432538571201359_780045039241471284_n_17955616741403259.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_feb_12_cool_tree.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_feb_12_cool_tree.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3195,7 +3195,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Where the escalator ends</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202101/144214253_732834590701998_6597832406254098129_n_18104282011201629.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202101/144214253_732834590701998_6597832406254098129_n_18104282011201629.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jan_31_where_the_escalator_ends.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jan_31_where_the_escalator_ends.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3237,7 +3237,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Excited about walking meditation today!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202101/141866646_449552579560059_989298326637485657_n_17883939871966864.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202101/141866646_449552579560059_989298326637485657_n_17883939871966864.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jan_23_excited_about_walking_meditation_today.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jan_23_excited_about_walking_meditation_today.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3263,7 +3263,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">grass is still green</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202101/135259847_6082609481809890_1729560475141178796_n_17854724969416141.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202101/135259847_6082609481809890_1729560475141178796_n_17854724969416141.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jan_06_grass_is_still_green.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jan_06_grass_is_still_green.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jan 5, 2021, 3:38 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -3561,7 +3561,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Gold 🎏 carp</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202112/264133270_329177355695213_5411022188290588712_n_18018621775344180.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202112/264133270_329177355695213_5411022188290588712_n_18018621775344180.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_dec_04_gold_carp.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_dec_04_gold_carp.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3587,7 +3587,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Thank you uta-san for nice songs!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202112/263454906_1081047706064703_2518872939041796275_n_17894648741365989.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202112/263454906_1081047706064703_2518872939041796275_n_17894648741365989.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_dec_04_thank_you_uta_san_for_nice_songs.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_dec_04_thank_you_uta_san_for_nice_songs.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3625,7 +3625,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Hello, Hello Kitty!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202112/264042861_608686533782323_6835278982008063682_n_17937400258751679.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202112/264042861_608686533782323_6835278982008063682_n_17937400258751679.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_dec_04_hello_hello_kitty.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_dec_04_hello_hello_kitty.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3677,7 +3677,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Green floor on the roof</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/260598970_321886676165498_4313727279423415534_n_17936973532741677.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/260598970_321886676165498_4313727279423415534_n_17936973532741677.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_27_green_floor_on_the_roof.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_27_green_floor_on_the_roof.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3727,7 +3727,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Found a bunch of lock tumblers for sale (?)</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/261956076_385227310062555_4433667746261837476_n_17908570277144255.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/261956076_385227310062555_4433667746261837476_n_17908570277144255.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_27_found_a_bunch_of_lock_tumblers_for_sale.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_27_found_a_bunch_of_lock_tumblers_for_sale.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3777,7 +3777,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">&#064;missy_just_another_girl<br><br>https://i.pinimg.com/originals/11/4a/8e/114a8e3ace2aca7fbec6f630e7191e7f.jpg</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/260059895_316683790048416_7908695307668350624_n_17945399392579192.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/260059895_316683790048416_7908695307668350624_n_17945399392579192.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_25_missy_just_another_girl_https_i_pinimg_com_origina.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_25_missy_just_another_girl_https_i_pinimg_com_origina.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3803,7 +3803,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Wow! Steamed peanuts 🥜 are great!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/259852379_1037288980462318_4166826506859222013_n_18114278734257144.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/259852379_1037288980462318_4166826506859222013_n_18114278734257144.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_23_wow_steamed_peanuts_are_great.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_23_wow_steamed_peanuts_are_great.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3860,7 +3860,7 @@ draft: false
       🇺🇸 Honolulu 00AM | 🇬🇧 London 10AM | 🇯🇵 Tokyo 7PM | 🇦🇺 Sydney 9PM<br><br>Option 2: Wednesday, December 8th, 2021: 10am - 11:30am JST
       🇺🇸 Dec 7th: Honolulu 15PM | Los Angeles 17PM | Houston 19PM
       Dec 8th: 🇬🇧 London 01AM | 🇯🇵 Tokyo 10AM | 🇦🇺 Sydney 12PM<br><br>Can’t join us live? Lifetime replay access of the general content is included in your ticket.<br><br>HOW TO SAVE YOUR SEAT<br><br>Early bird price $27 until November 27th. Register here https://docs.google.com/document/d/1tgTHvBj6mlM3Gi-jh2Az6B0kIy-iEur1DoBIQS6O9Es/edit</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/257835907_478608856834738_6161170962454611590_n_17876346875597908.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/257835907_478608856834738_6161170962454611590_n_17876346875597908.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_18_enjoy_successful_communication_join_us_for_90_minu.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_18_enjoy_successful_communication_join_us_for_90_minu.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -3903,7 +3903,7 @@ draft: false
           </tbody>
         </table>
       </div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/247979872_139821048392912_1970227933556805075_n_17978686360436495.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/247979872_139821048392912_1970227933556805075_n_17978686360436495.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_15_i_ll_put_my_footprints_into_the_mud_it_ll_be_fun_b.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_15_i_ll_put_my_footprints_into_the_mud_it_ll_be_fun_b.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Nov 14, 2021, 2:43 PM</div>
   </div>
@@ -3985,7 +3985,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Oh, grate!<br><br>#roppongimidtown</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/255398605_3024279667840327_4059502366571996873_n_17891841206374088.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/255398605_3024279667840327_4059502366571996873_n_17891841206374088.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_12_oh_grate_roppongimidtown.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_12_oh_grate_roppongimidtown.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4036,14 +4036,14 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cutest little ユンボ!</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/256017578_579755766438645_5595326640640555530_n_17922302068956801.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/256017578_579755766438645_5595326640640555530_n_17922302068956801.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_12_cutest_little.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_12_cutest_little.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/255126976_615159842844043_4512044259542087191_n_17914835138117292.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/255126976_615159842844043_4512044259542087191_n_17914835138117292.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Nov 11, 2021, 8:45 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">François and a bowl of sea glass &#064;tama_lava helped me clean up by the river</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253843199_1826887190828353_5648029898966576021_n_17917787099028553.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253843199_1826887190828353_5648029898966576021_n_17917787099028553.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_09_francois_and_a_bowl_of_sea_glass_tama_lava_helped.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_09_francois_and_a_bowl_of_sea_glass_tama_lava_helped.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4105,7 +4105,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Do you want to feel heard in your relationships?<br><br>I&#039;m thinking about running a 60-minute workshop on how to have one clear and safe conversation to feel heard and get what you need, without drama.<br><br>It&#039;s $27. Are you in? Comment or DM</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253154362_6310839485655023_957679246136172624_n_18185158399181064.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253154362_6310839485655023_957679246136172624_n_18185158399181064.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_06_do_you_want_to_feel_heard_in_your_relationships_i.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_06_do_you_want_to_feel_heard_in_your_relationships_i.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4139,7 +4139,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I&#039;m thinking about running a 60-minute workshop on relieving your individual stress in your cross-cultural relationship. It&#039;s $37. Message or 💓 if you are interested.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/251680168_581222476467808_8393206682389675192_n_17899421711486526.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/251680168_581222476467808_8393206682389675192_n_17899421711486526.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_04_i_m_thinking_about_running_a_60_minute_workshop_on.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_04_i_m_thinking_about_running_a_60_minute_workshop_on.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4167,7 +4167,7 @@ draft: false
     <div class="title_text">Enjoying exploration while barefoot<br><br>Join us in Barefoot exploration on Saturday in Yoyogi Park!
       https://www.robnugen.com/en/events/</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253063138_941652503107577_4252421212642498535_n_17895390170419427.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/253063138_941652503107577_4252421212642498535_n_17895390170419427.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_04_enjoying_exploration_while_barefoot_join_us_in_bar.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_nov_04_enjoying_exploration_while_barefoot_join_us_in_bar.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/251783874_1480065772373798_3892291641106906684_n_17856962981647577.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/251783874_1480065772373798_3892291641106906684_n_17856962981647577.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/251551594_1253138851861137_788938023479179194_n_17928920446848035.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202111/251551594_1253138851861137_788938023479179194_n_17928920446848035.jpg" class="_2yuc _3-96" /></a></div>
     </div>
@@ -4175,7 +4175,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Fujiyama</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249892304_440737974142800_832017236284411464_n_17969403460457716.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249892304_440737974142800_832017236284411464_n_17969403460457716.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_fujiyama.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_fujiyama.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4201,7 +4201,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Glass bottomed top of Fujiyama Tower</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249488418_592227868741240_8565655416780675230_n_18265017901028380.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249488418_592227868741240_8565655416780675230_n_18265017901028380.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_glass_bottomed_top_of_fujiyama_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_glass_bottomed_top_of_fujiyama_tower.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4251,7 +4251,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Lovely view</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249813518_2962271450754118_180456122903515313_n_17910631421172843.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249813518_2962271450754118_180456122903515313_n_17910631421172843.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_lovely_view.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_lovely_view.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4351,7 +4351,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Top of Fujiyama Tower</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/250167916_4468844783207806_2029823534242317950_n_17899462799348845.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/250167916_4468844783207806_2029823534242317950_n_17899462799348845.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_top_of_fujiyama_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_top_of_fujiyama_tower.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4401,7 +4401,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Fujiyama Tower</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249788251_703928151009933_3124263084577497955_n_17912647010009948.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249788251_703928151009933_3124263084577497955_n_17912647010009948.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_fujiyama_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_fujiyama_tower.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4451,7 +4451,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Fujiyama Tower elevator</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/250367806_217427257161620_6453986267508462352_n_17868637607561321.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/250367806_217427257161620_6453986267508462352_n_17868637607561321.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_fujiyama_tower_elevator.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_fujiyama_tower_elevator.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4502,7 +4502,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Crushed colorful cotton candy</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249767383_164614249220087_6296567839244173324_n_18099725164273725.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/249767383_164614249220087_6296567839244173324_n_18099725164273725.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_crushed_colorful_cotton_candy.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_30_crushed_colorful_cotton_candy.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/250351527_595286835138571_4161260792617095435_n_17917518371013404.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/250351527_595286835138571_4161260792617095435_n_17917518371013404.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Oct 29, 2021, 8:29 PM</div>
@@ -4560,7 +4560,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Fun river cleanup with &#064;bluetamagawa</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247713585_617201746322670_3814106850947375074_n_17906966558195026.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247713585_617201746322670_3814106850947375074_n_17906966558195026.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_25_fun_river_cleanup_with_bluetamagawa.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_25_fun_river_cleanup_with_bluetamagawa.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/248340814_270947594943567_3858362543112746768_n_17921639089940352.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/248340814_270947594943567_3858362543112746768_n_17921639089940352.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/248406514_126346129765120_5353568256501908181_n_18176944849196329.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/248406514_126346129765120_5353568256501908181_n_18176944849196329.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247727158_1495707697457563_6189036540324885981_n_18138411922237052.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247727158_1495707697457563_6189036540324885981_n_18138411922237052.jpg" class="_2yuc _3-96" /></a></div>
@@ -4604,7 +4604,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Intergenerational barefooting at Shinyuri Art Park next event 11/11 https://www.robnugen.com #barefootwalkandtalk #shinyurigaoka</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247426261_126179886443487_3149056873509688381_n_17926530202878495.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247426261_126179886443487_3149056873509688381_n_17926530202878495.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_22_intergenerational_barefooting_at_shinyuri_art_park.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_22_intergenerational_barefooting_at_shinyuri_art_park.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246834869_611987493156388_2567644346049478882_n_18099834343278197.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246834869_611987493156388_2567644346049478882_n_18099834343278197.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246900464_378925937238306_7482816841332409931_n_17951677171549305.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246900464_378925937238306_7482816841332409931_n_17951677171549305.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247369218_463028728367445_6517098001717095010_n_17914947980064088.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247369218_463028728367445_6517098001717095010_n_17914947980064088.jpg" class="_2yuc _3-96" /></a></div>
@@ -4635,7 +4635,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Great full moon barefoot experience last night! #fullmoon #barefooting</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247140373_1023712638171700_3041618739780516088_n_17889207827512417.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247140373_1023712638171700_3041618739780516088_n_17889207827512417.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_21_great_full_moon_barefoot_experience_last_night_ful.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_21_great_full_moon_barefoot_experience_last_night_ful.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247113788_1784037218450027_575580133602920929_n_17982527977417339.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247113788_1784037218450027_575580133602920929_n_17982527977417339.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246854678_962911447622516_6169660312036209597_n_17897227085500655.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246854678_962911447622516_6169660312036209597_n_17897227085500655.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247132637_392231712455924_8871442136255611978_n_17926639555845691.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247132637_392231712455924_8871442136255611978_n_17926639555845691.jpg" class="_2yuc _3-96" /></a></div>
@@ -4645,7 +4645,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Ready for full moon event near Izumi Tamagawa Station</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246709294_420012796316241_2573500311347605579_n_18180779950145483.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/246709294_420012796316241_2573500311347605579_n_18180779950145483.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_20_ready_for_full_moon_event_near_izumi_tamagawa_stat.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_20_ready_for_full_moon_event_near_izumi_tamagawa_stat.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4679,7 +4679,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Headed to work 😀 #barefooting</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247000970_580701116712292_5162877774642429045_n_17919645463894004.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/247000970_580701116712292_5162877774642429045_n_17919645463894004.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_20_headed_to_work_barefooting.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_20_headed_to_work_barefooting.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4779,7 +4779,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Enjoyed great time barefoot today near Izumi Tamagawa!<br><br>#walklifebalance #barefootwalkandtalk #barefooting</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244614340_419932869732908_6865030322966577883_n_17919533260854324.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244614340_419932869732908_6865030322966577883_n_17919533260854324.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_09_enjoyed_great_time_barefoot_today_near_izumi_tamag.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_09_enjoyed_great_time_barefoot_today_near_izumi_tamag.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4880,7 +4880,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Enjoy Walking Barefoot<br><br>This Saturday from noon
       near Izumi Tamagawa Station<br><br>Barefoot walking and relaxing on soft grass.<br><br>https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa<br><br>#barefooting #walkandtalk #walklifebalance</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244419594_853524258865861_9179291739078332895_nwebp_17883629942455234.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244419594_853524258865861_9179291739078332895_nwebp_17883629942455234.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_06_enjoy_walking_barefoot_this_saturday_from_noon_nea.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_06_enjoy_walking_barefoot_this_saturday_from_noon_nea.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4906,7 +4906,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Enjoy Walking Barefoot<br><br>Saturday 09 October 2021<br><br>Enjoy walking and relaxing on soft grass.<br><br>https://www.robnugen.com/en/events/2021/10/09barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa<br><br>#barefooting #walkandtalk #walklifebalance</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244416416_827041547968574_9208504784096401740_nwebp_17923978312873632.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244416416_827041547968574_9208504784096401740_nwebp_17923978312873632.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_04_enjoy_walking_barefoot_saturday_09_october_2021_en.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_04_enjoy_walking_barefoot_saturday_09_october_2021_en.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -4983,7 +4983,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Great time in Yoyogi Park today! #barefooting #walkandtalk https://www.robnugen.com</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244346225_1934897126674219_2619253423149128526_nwebp_18110135539252596.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202110/244346225_1934897126674219_2619253423149128526_nwebp_18110135539252596.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_03_great_time_in_yoyogi_park_today_barefooting_walkan.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_oct_03_great_time_in_yoyogi_park_today_barefooting_walkan.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5084,7 +5084,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Thank you Robert for a beautiful eco-friendly sign! #tedxogikubo</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243586238_389700426028098_3088147443213616267_nwebp_17985230728397107.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243586238_389700426028098_3088147443213616267_nwebp_17985230728397107.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_30_thank_you_robert_for_a_beautiful_eco_friendly_sign.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_30_thank_you_robert_for_a_beautiful_eco_friendly_sign.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243388101_402227791485756_3351724120174649962_nwebp_18177682735144933.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243388101_402227791485756_3351724120174649962_nwebp_18177682735144933.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243510929_264612728876203_2004560151041537748_nwebp_17911974217970698.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243510929_264612728876203_2004560151041537748_nwebp_17911974217970698.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243556083_547446756545851_3856872863353397887_nwebp_17861932991586818.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243556083_547446756545851_3856872863353397887_nwebp_17861932991586818.jpg" class="_2yuc _3-96" /></a></div>
@@ -5096,7 +5096,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Thank you for all your support!</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/244090680_373369894482287_3069680018540602248_nwebp_17916997315970600.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/244090680_373369894482287_3069680018540602248_nwebp_17916997315970600.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_30_thank_you_for_all_your_support.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_30_thank_you_for_all_your_support.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243263852_404597551063917_5807078372486102707_nwebp_17935657459721558.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/243263852_404597551063917_5807078372486102707_nwebp_17935657459721558.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Sep 30, 2021, 1:36 AM</div>
@@ -5155,7 +5155,7 @@ draft: false
     <div class="title_text">Great green grass in Shin Yurigaoka
       #barefootwalkandtalk</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241888716_4328971247195446_1971359305820702207_n_18191134045142027.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241888716_4328971247195446_1971359305820702207_n_18191134045142027.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_15_great_green_grass_in_shin_yurigaoka_barefootwalkan.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_15_great_green_grass_in_shin_yurigaoka_barefootwalkan.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241994706_1081864165911150_3143417790583830336_n_17973726055427586.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241994706_1081864165911150_3143417790583830336_n_17973726055427586.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241823557_4924426724251865_1900613847919914016_n_17863882082561032.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241823557_4924426724251865_1900613847919914016_n_17863882082561032.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/242199847_901704690438173_7850454721485134372_n_17927811094744191.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/242199847_901704690438173_7850454721485134372_n_17927811094744191.jpg" class="_2yuc _3-96" /></a></div>
@@ -5164,7 +5164,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Fun barefoot walk tonight</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241536720_2081807738662036_4657033713505735109_n_17926521727786306.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202109/241536720_2081807738662036_4657033713505735109_n_17926521727786306.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_11_fun_barefoot_walk_tonight.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_sep_11_fun_barefoot_walk_tonight.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5191,14 +5191,14 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Trying not to put footprints on concrete 😂</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240721381_859588218034070_5387745285315418144_n_17876173946525503.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240721381_859588218034070_5387745285315418144_n_17876173946525503.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_30_trying_not_to_put_footprints_on_concrete.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_30_trying_not_to_put_footprints_on_concrete.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240731888_177061924498614_6003607252393743197_n_17934798115621557.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240731888_177061924498614_6003607252393743197_n_17934798115621557.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Aug 29, 2021, 4:47 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Barefoot on train</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240607019_1287255811717203_7994729008014695597_n_18256830628027096.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240607019_1287255811717203_7994729008014695597_n_18256830628027096.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_28_barefoot_on_train.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_28_barefoot_on_train.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5248,7 +5248,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Concrete frame</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240566560_436460487627162_1963277809378471720_n_17936722057612048.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240566560_436460487627162_1963277809378471720_n_17936722057612048.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_27_concrete_frame.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_27_concrete_frame.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5298,7 +5298,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">How was the last time you walked barefoot in nature?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240451448_1290614154727207_658240490829156120_n_17946731308499512.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240451448_1290614154727207_658240490829156120_n_17946731308499512.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_26_how_was_the_last_time_you_walked_barefoot_in_natur.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_26_how_was_the_last_time_you_walked_barefoot_in_natur.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5349,14 +5349,14 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Temporary ramp</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240385294_5037293959619604_5998800917327046589_n_17985583144382400.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240385294_5037293959619604_5998800917327046589_n_17985583144382400.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_25_temporary_ramp.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_25_temporary_ramp.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240411530_1240108926436756_2355090124370728148_n_17889967277346722.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/240411530_1240108926436756_2355090124370728148_n_17889967277346722.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Aug 24, 2021, 9:53 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">After 👣 barefoot meditation in the rain 🌧️</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/236599407_568893960800784_1011860368040570714_n_17923065613769292.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/236599407_568893960800784_1011860368040570714_n_17923065613769292.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_14_after_barefoot_meditation_in_the_rain.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_14_after_barefoot_meditation_in_the_rain.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5391,14 +5391,14 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I&#039;m with &#064;missy_just_another_girl at the haunted house and apparently they want people to wear shoes so I bought some shoes across the street.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/234757752_1003021573792429_4842564076183693043_n_17888732894349043.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/234757752_1003021573792429_4842564076183693043_n_17888732894349043.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_11_i_m_with_missy_just_another_girl_at_the_haunted_ho.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_aug_11_i_m_with_missy_just_another_girl_at_the_haunted_ho.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/234667420_363728515304839_2903871125690603584_n_17925651514736803.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202108/234667420_363728515304839_2903871125690603584_n_17925651514736803.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Aug 10, 2021, 11:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">We enjoyed walking in the summer rain today!<br><br>#walkingmeditation</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/227582353_117689117257087_6212221770305795245_n_17885352524484191.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/227582353_117689117257087_6212221770305795245_n_17885352524484191.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jul_30_we_enjoyed_walking_in_the_summer_rain_today_walkin.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jul_30_we_enjoyed_walking_in_the_summer_rain_today_walkin.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5456,7 +5456,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Manhole cover cover</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/221192802_349229283533760_8035112029185420042_n_17919982615749479.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/221192802_349229283533760_8035112029185420042_n_17919982615749479.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jul_23_manhole_cover_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jul_23_manhole_cover_cover.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5490,7 +5490,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Installed new frames for Lin&#039;s garden</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/210271209_143960641140034_7281156017793146141_n_17885766188247097.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202107/210271209_143960641140034_7281156017793146141_n_17885766188247097.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jul_04_installed_new_frames_for_lin_s_garden.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jul_04_installed_new_frames_for_lin_s_garden.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5590,7 +5590,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">SV<br><br>Wait a minute, Japanese language doesn&#039;t really include V...</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/197838601_4816130291735937_6837020251924937088_n_17909973703850507.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/197838601_4816130291735937_6837020251924937088_n_17909973703850507.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jun_09_sv_wait_a_minute_japanese_language_doesn_t_really.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jun_09_sv_wait_a_minute_japanese_language_doesn_t_really.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5641,7 +5641,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Flowers and bees</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/198166699_122756899966521_8731139363387859782_n_17908448026823933.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/198166699_122756899966521_8731139363387859782_n_17908448026823933.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jun_09_flowers_and_bees.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jun_09_flowers_and_bees.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/199306321_221198833161101_7650920618741149726_n_17856431942567187.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/199306321_221198833161101_7650920618741149726_n_17856431942567187.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/198500560_318543066318107_8167749565589623779_n_18232114933033343.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/198500560_318543066318107_8167749565589623779_n_18232114933033343.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/198209176_476109513685159_3026114398148551904_n_17897302385087326.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/198209176_476109513685159_3026114398148551904_n_17897302385087326.jpg" class="_2yuc _3-96" /></a></div>
@@ -5654,7 +5654,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Try eye gazing with me in Shibuya this Saturday<br><br>any time between 3pm and 6pm...<br><br>Between Hachiko and the police box<br><br>I look forward to seeing you!</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/193367795_320937052742895_1170691336601640150_n_17994727204346492.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/193367795_320937052742895_1170691336601640150_n_17994727204346492.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_jun_02_try_eye_gazing_with_me_in_shibuya_this_saturday_an.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_jun_02_try_eye_gazing_with_me_in_shibuya_this_saturday_an.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/194953166_985281045555259_5049326099010597882_n_17887724000296639.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202106/194953166_985281045555259_5049326099010597882_n_17887724000296639.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Jun 1, 2021, 9:26 PM</div>
@@ -5671,7 +5671,7 @@ draft: false
       日常の中でのコミュニケーション能力が上がり、
       相手をより受け入れたり　尊重し合えたりする力が増してきます。
       この世の中がより身近になり　もっとあなたの味方になっていくでしょう。<br><br>日時: 6月5日(土) 15時00分 から18時00分<br><br>場所: 渋谷スクランブル交差点　交番前辺り</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191630052_739802260021179_179489537852245984_n_17909196133861393.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191630052_739802260021179_179489537852245984_n_17909196133861393.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_27_eye_65_1500_1800.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_27_eye_65_1500_1800.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5721,7 +5721,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Eye gazing is one of the most powerful practices on this planet, allowing us to experience a deeper connection to ourself and others. Many people, including myself, have had indescribable experiences while eye gazing, such as seeing auras, past lives, and other images. By simply looking into another person’s eyes, you can discover more about yourself, humanity as a collective, and our roles as spiritual beings.<br><br>https://www.collective-evolution.com/2016/12/03/eye-gazing-science-reveals-how-it-affects-our-communication/<br><br>Shibuya 3pm June 5th Hachiko Square</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191368413_162816599126302_2534581133430463370_n_17913736543776254.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191368413_162816599126302_2534581133430463370_n_17913736543776254.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_26_eye_gazing_is_one_of_the_most_powerful_practices_o.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_26_eye_gazing_is_one_of_the_most_powerful_practices_o.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5772,7 +5772,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Free Eye Contact in Shibuya
       3pm - 6pm Saturday June 5th</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191204328_116146503965013_509999503857779291_n_17923192876627634.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/191204328_116146503965013_509999503857779291_n_17923192876627634.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_25_free_eye_contact_in_shibuya_3pm_6pm_saturday_june.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_25_free_eye_contact_in_shibuya_3pm_6pm_saturday_june.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5822,7 +5822,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Sit face to face with a loved one, looking gently into their eyes.<br><br>What happens for you?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189584928_2299725353495527_3536328954507827865_n_17845503098599951.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189584928_2299725353495527_3536328954507827865_n_17845503098599951.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_23_sit_face_to_face_with_a_loved_one_looking_gently_i.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_23_sit_face_to_face_with_a_loved_one_looking_gently_i.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5872,7 +5872,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Eye contact allows you to be authentic with others.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189788310_143149711176212_6415881733357339764_n_17957048590437636.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189788310_143149711176212_6415881733357339764_n_17957048590437636.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_21_eye_contact_allows_you_to_be_authentic_with_others.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_21_eye_contact_allows_you_to_be_authentic_with_others.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5922,7 +5922,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Eye contact<br><br>Eye contact allows both physical distance and social connection<br><br>I will offer Free Eye Contact in Shibuya some days in June.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189432233_995478671259367_6222627502536314432_n_17885002661153205.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/189432233_995478671259367_6222627502536314432_n_17885002661153205.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_20_eye_contact_eye_contact_allows_both_physical_dista.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_20_eye_contact_eye_contact_allows_both_physical_dista.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -5972,7 +5972,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Free Eye Contact<br><br>Coming soon</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/187341119_493697855392309_5776973316998154865_n_17882692397326041.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/187341119_493697855392309_5776973316998154865_n_17882692397326041.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_19_free_eye_contact_coming_soon.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_19_free_eye_contact_coming_soon.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6072,7 +6072,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Safely home<br><br>Thank you everyone for lIving your life to the fullest!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183911376_154941736575837_3777836203078281563_n_17858748509527339.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183911376_154941736575837_3777836203078281563_n_17858748509527339.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_11_safely_home_thank_you_everyone_for_living_your_lif.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/daily/2021_may_11_safely_home_thank_you_everyone_for_living_your_lif.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6122,7 +6122,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Just about almost there</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183696112_848829905743087_7464598014296738879_n_17905852417799119.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183696112_848829905743087_7464598014296738879_n_17905852417799119.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_just_about_almost_there.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_just_about_almost_there.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6248,7 +6248,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Out of business for a while..</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183234179_902021440641914_7768377169797490311_n_17909321752829017.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183234179_902021440641914_7768377169797490311_n_17909321752829017.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_out_of_business_for_a_while.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_out_of_business_for_a_while.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6299,7 +6299,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Collapsible wind wall</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182875413_926685408115165_9158808116409076232_n_18204674401079212.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182875413_926685408115165_9158808116409076232_n_18204674401079212.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_collapsible_wind_wall.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_collapsible_wind_wall.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183089572_117909693743083_1376115447345000286_n_17884804523224766.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183089572_117909693743083_1376115447345000286_n_17884804523224766.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183507058_127453736015401_590700087669015481_n_17939601169501082.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183507058_127453736015401_590700087669015481_n_17939601169501082.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183236089_459653145127996_8757689189849907936_n_18110039593219377.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/183236089_459653145127996_8757689189849907936_n_18110039593219377.jpg" class="_2yuc _3-96" /></a></div>
@@ -6359,7 +6359,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Google Maps recommended a shortcut..</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182643584_891033114809207_3018918456291386503_n_17889362774151199.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182643584_891033114809207_3018918456291386503_n_17889362774151199.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_google_maps_recommended_a_shortcut.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-24-wow-wow-i-made-it/2021_may_09_google_maps_recommended_a_shortcut.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6459,7 +6459,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Bicycle wheel themed bicycle parking.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182050055_745671756110591_2965040451038265062_n_17914927759725065.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182050055_745671756110591_2965040451038265062_n_17914927759725065.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_bicycle_wheel_themed_bicycle_parking.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_bicycle_wheel_themed_bicycle_parking.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6509,7 +6509,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Make sure these don&#039;t blow away.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182987587_291548349248392_8207531676767670572_n_17866588427425370.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182987587_291548349248392_8207531676767670572_n_17866588427425370.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_make_sure_these_don_t_blow_away.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_make_sure_these_don_t_blow_away.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6559,7 +6559,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Why orange, you floating in the river?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182539830_539772827021593_1781346210915358444_n_17884044479215626.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182539830_539772827021593_1781346210915358444_n_17884044479215626.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_why_orange_you_floating_in_the_river.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_why_orange_you_floating_in_the_river.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6609,7 +6609,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">No birds on these wires</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182805869_313941110216529_6611020456307334127_n_17899106575951428.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182805869_313941110216529_6611020456307334127_n_17899106575951428.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_no_birds_on_these_wires.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-21-ugh-so-tired-and-saw-a-rat-snake/2021_may_06_no_birds_on_these_wires.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6668,7 +6668,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Two nearly adjacent manhole covers</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181773365_579014539672159_3636771860338644385_n_17870201693499276.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181773365_579014539672159_3636771860338644385_n_17870201693499276.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-20-saw-very-cool-myokan-weir.-also-feeling-sad./2021_may_05_two_nearly_adjacent_manhole_covers.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-20-saw-very-cool-myokan-weir.-also-feeling-sad./2021_may_05_two_nearly_adjacent_manhole_covers.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181161223_517595169373653_2275509629334839663_n_17875762886346385.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181161223_517595169373653_2275509629334839663_n_17875762886346385.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">May 4, 2021, 7:31 PM</div>
@@ -6676,7 +6676,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Thank you Pizza Canak for cheese all the way to the edge.<br><br>https://m.facebook.com/PIZZACANAK/</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181276461_826556727975177_4008038520845552118_n_17895088592055916.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181276461_826556727975177_4008038520845552118_n_17895088592055916.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_thank_you_pizza_canak_for_cheese_all_the_way_to_th.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_thank_you_pizza_canak_for_cheese_all_the_way_to_th.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181298064_271142111385453_745580162846594629_n_17904520150888373.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181298064_271142111385453_745580162846594629_n_17904520150888373.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181219538_316997973252886_7254675784412675111_n_17992132960342838.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181219538_316997973252886_7254675784412675111_n_17992132960342838.jpg" class="_2yuc _3-96" /></a></div>
     </div>
@@ -6685,14 +6685,14 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I received two blessing/sacred cards from the local shrine from a sweet man who spent time telling me about the area and answering my questions about the rivers and such.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181223512_317251896728323_2527647641263681019_n_17875811744349703.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181223512_317251896728323_2527647641263681019_n_17875811744349703.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_i_received_two_blessing_sacred_cards_from_the_loca.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_i_received_two_blessing_sacred_cards_from_the_loca.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/173072307_677442626357519_2194573754558213953_n_18111831139237249.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/173072307_677442626357519_2194573754558213953_n_18111831139237249.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">May 3, 2021, 11:05 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Ojiya</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182400736_457042948692105_7158650820738011803_n_17864123360468050.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/182400736_457042948692105_7158650820738011803_n_17864123360468050.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_ojiya.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_ojiya.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6742,7 +6742,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">What is this? A manhole cover for fish?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181574799_839896190216799_8455944538541862513_n_18109487752223859.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181574799_839896190216799_8455944538541862513_n_18109487752223859.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_what_is_this_a_manhole_cover_for_fish.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_what_is_this_a_manhole_cover_for_fish.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6892,7 +6892,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Good morning spider webs<br><br>&#064;missy_just_another_girl</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181246342_803306540590285_4975231905170542756_n_17875018442308895.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/181246342_803306540590285_4975231905170542756_n_17875018442308895.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_good_morning_spider_webs_missy_just_another_girl.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-19-lovely-rivers-and-canak-s-pizza/2021_may_04_good_morning_spider_webs_missy_just_another_girl.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -6992,7 +6992,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Snow covered Japanese Alps in the background while I&#039;m walking along highway 17.<br><br>This morning I left Day Six City, walked through Day Ten City, and am headed another 18km from here.<br><br>As &#064;eddie_jp_ predicted, I received a nice gift of two cans of coffee from two people who stopped after driving by me on the small road next to the highway.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/180829351_447167523049739_2623709687451799984_n_17936878387476930.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/180829351_447167523049739_2623709687451799984_n_17936878387476930.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-18-met-kousei-mountains/2021_may_03_snow_covered_japanese_alps_in_the_background_while.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-18-met-kousei-mountains/2021_may_03_snow_covered_japanese_alps_in_the_background_while.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -7042,7 +7042,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Highway of the past&#039;s future</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/180904183_168741098490093_325967579045148529_n_18163093942130021.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202105/180904183_168741098490093_325967579045148529_n_18163093942130021.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-18-met-kousei-mountains/2021_may_03_highway_of_the_past_s_future.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-18-met-kousei-mountains/2021_may_03_highway_of_the_past_s_future.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -7093,7 +7093,7 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Back to barefoot in Yuzawa</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180584209_304398041253900_8705085510961272945_n_18167315761186531.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180584209_304398041253900_8705085510961272945_n_18167315761186531.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-16-short-windy-day-by-naspa-camp-garden/2021_may_01_back_to_barefoot_in_yuzawa.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-16-short-windy-day-by-naspa-camp-garden/2021_may_01_back_to_barefoot_in_yuzawa.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179508473_3917446078337853_5189077596947675750_n_18087325600253525.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179508473_3917446078337853_5189077596947675750_n_18087325600253525.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179703388_4030377923722327_1328821282861704405_n_17866771505409774.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179703388_4030377923722327_1328821282861704405_n_17866771505409774.jpg" class="_2yuc _3-96" /></a></div>
       <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179961603_315318676674065_4938173668626832460_n_18074532709273136.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179961603_315318676674065_4938173668626832460_n_18074532709273136.jpg" class="_2yuc _3-96" /></a></div>
@@ -7104,7 +7104,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Welcome to Yuzawa</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179483448_303725357801119_2280108979437420724_n_17844726188582110.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/179483448_303725357801119_2280108979437420724_n_17844726188582110.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-16-short-windy-day-by-naspa-camp-garden/2021_may_01_welcome_to_yuzawa.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-16-short-windy-day-by-naspa-camp-garden/2021_may_01_welcome_to_yuzawa.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -7154,7 +7154,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Seeing a little bit of snow on the side of the road here between Kagura and Sazawa</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180028108_806675136917863_2981860357891103321_n_18149861707084256.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/180028108_806675136917863_2981860357891103321_n_18149861707084256.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-16-short-windy-day-by-naspa-camp-garden/2021_may_01_seeing_a_little_bit_of_snow_on_the_side_of_the_roa.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-16-short-windy-day-by-naspa-camp-garden/2021_may_01_seeing_a_little_bit_of_snow_on_the_side_of_the_roa.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">

@@ -11,7 +11,7 @@ Somehow, there's a little patch of snow un melted on the trail when we haven't s
 
 And between the trees we can just barely make out the tunnel that we're walking around
 
-[![2021 apr 27 tunnel visible between the trees](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_27_tunnel_visible_between_the_trees.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_27_tunnel_visible_between_the_trees.jpeg)          
+[![2021 apr 27 tunnel visible between the trees](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/thumbs/2021_apr_28_tunnel_visible_between_the_trees.jpeg)](//b.robnugen.com/quests/walk-to-niigata/2021/en_route/day-13/2021_apr_28_tunnel_visible_between_the_trees.jpeg)          
 
 
 Me at Obansanja Shrine
