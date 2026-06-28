@@ -79,7 +79,7 @@ First bag upgrade; proof of concept but crushed the box lid.
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François and flowers near Yokohama Stadium</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-16-francois-and-flowers-near-yokohama-stadium.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-16-francois-and-flowers-near-yokohama-stadium.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-01-yokohama-to-home/2021-apr-16-francois-and-flowers-near-yokohama-stadium.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-01-yokohama-to-home/2021-apr-16-francois-and-flowers-near-yokohama-stadium.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 16 15:01:25</div>
 </div>
@@ -126,7 +126,7 @@ Stopped at 11 of 21km at convenience store
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Lin and I at 11 of 21 kilometers</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-16-lin-and-i-at-11-of-21-kilometers.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-16-lin-and-i-at-11-of-21-kilometers.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-01-yokohama-to-home/2021-apr-16-lin-and-i-at-11-of-21-kilometers.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-01-yokohama-to-home/2021-apr-16-lin-and-i-at-11-of-21-kilometers.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 16 17:20:47</div>
 </div>

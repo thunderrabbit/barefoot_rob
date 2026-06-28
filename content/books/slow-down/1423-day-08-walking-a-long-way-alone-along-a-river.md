@@ -67,14 +67,14 @@ all the way across their field
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Mountains coming soon</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-23-mountains-coming-soon.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-23-mountains-coming-soon.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-08-walking-a-long-way-alone-along-a-river/2021-apr-23-mountains-coming-soon.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-08-walking-a-long-way-alone-along-a-river/2021-apr-23-mountains-coming-soon.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 23 13:29:21</div>
 </div>
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Interesting to see how this highway just cuts through all these smaller roads that were lined up in a grid.<br><br>I imagine there was a lot of discussion and consternation when this highway was planned to come through.</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-23-interesting-to-see-how-this-highway-just-cuts-through-all-th.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-23-interesting-to-see-how-this-highway-just-cuts-through-all-th.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-08-walking-a-long-way-alone-along-a-river/2021-apr-23-interesting-to-see-how-this-highway-just-cuts-through-all-th.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-08-walking-a-long-way-alone-along-a-river/2021-apr-23-interesting-to-see-how-this-highway-just-cuts-through-all-th.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 23 13:52:21</div>
 </div>

@@ -32,18 +32,18 @@ while I explored the museum.
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Manhole covers in sewerage museum</div>
   <div class="_3-95 _2let">
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-fish-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-fish-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-sewer-mascot-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-sewer-mascot-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-animals-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-animals-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-azalea-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-azalea-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-town-scenery-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-town-scenery-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-fish-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-fish-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-sewer-mascot-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-sewer-mascot-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-animals-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-animals-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-azalea-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-azalea-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-town-scenery-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kodaira-town-scenery-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
   </div>
   <div class="date_taken_local">2021 apr 18 08:00:00</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Four tree design manhole cover
     #manholecover</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-four-tree-design-manhole-cover-manholecover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-four-tree-design-manhole-cover-manholecover.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-four-tree-design-manhole-cover-manholecover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-four-tree-design-manhole-cover-manholecover.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 09:01:29</div>
 </div>
@@ -55,7 +55,7 @@ but they were set up for delivery only, so I headed back back along my way.
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Neat flowers</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-neat-flowers.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-neat-flowers.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-neat-flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-neat-flowers.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 10:20:03</div>
 </div>
@@ -63,14 +63,14 @@ but they were set up for delivery only, so I headed back back along my way.
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">We can meet and buy meat at the meat shop called meet shop.
   I also really like the font for this sign.</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-we-can-meet-and-buy-meat-at-the-meat-shop-called-meet-shop-i.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-we-can-meet-and-buy-meat-at-the-meat-shop-called-meet-shop-i.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-we-can-meet-and-buy-meat-at-the-meat-shop-called-meet-shop-i.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-we-can-meet-and-buy-meat-at-the-meat-shop-called-meet-shop-i.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 11:28:56</div>
 </div>
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Kids these days littering their beer cans around.... Hang on.. milk tea cans!?</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kids-these-days-littering-their-beer-cans-around-hang-on-mil.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kids-these-days-littering-their-beer-cans-around-hang-on-mil.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kids-these-days-littering-their-beer-cans-around-hang-on-mil.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-03-underway-and-sewerage-museum/2021-apr-18-kids-these-days-littering-their-beer-cans-around-hang-on-mil.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 12:24:09</div>
 </div>

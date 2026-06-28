@@ -143,39 +143,39 @@ cool. That was a walk from Yomiuri land to the hotel in Chuo
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Water feature</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-water-feature.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-water-feature.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-water-feature.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-water-feature.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 17 22:36:36</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">WASH STA</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-wash-sta.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-wash-sta.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-wash-sta.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-wash-sta.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 17 22:31:16</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Pink azaleas maybe</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-pink-azaleas-maybe.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-pink-azaleas-maybe.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-pink-azaleas-maybe.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-pink-azaleas-maybe.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 17 22:27:40</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Splish splash waterproof feet</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-splish-splash-waterproof-feet.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-splish-splash-waterproof-feet.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-splish-splash-waterproof-feet.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-splish-splash-waterproof-feet.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 17 22:22:25</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Too tired to read this but this is where I am right now, #rainy #walk</div>
   <div class="_3-95 _2let">
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-too-tired-rainy-night-selfie-by-temple-stone.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-too-tired-rainy-night-selfie-by-temple-stone.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-temple-name-stone-at-night.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-temple-name-stone-at-night.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-too-tired-rainy-night-selfie-by-temple-stone.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-too-tired-rainy-night-selfie-by-temple-stone.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-temple-name-stone-at-night.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-temple-name-stone-at-night.jpg" class="_2yuc _3-96" /></a></div>
   </div>
   <div class="post_date_usa">Apr 17, 2021, 5:20 AM</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Cool design on a manhole cover</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-cool-design-on-a-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-17-cool-design-on-a-manhole-cover.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-cool-design-on-a-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-02-home-to-chuo-via-yomiuriland/2021-apr-17-cool-design-on-a-manhole-cover.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 17 20:48:09</div>
 </div>
