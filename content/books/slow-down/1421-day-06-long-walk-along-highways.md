@@ -45,7 +45,7 @@ Four stages of adaptation to new challenge (as offered by Jason when he gave me 
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François on a pedestal</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175752595_186285363213363_4194981438832548253_n_18150514570157322.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175752595_186285363213363_4194981438832548253_n_18150514570157322.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-francois-on-a-pedestal.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-francois-on-a-pedestal.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 08:45:46</div>
 </div>
@@ -160,33 +160,33 @@ I felt bad that I assumed no one here would know I had said otherwise.
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François on the rocks</div>
   <div class="_3-95 _2let">
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176528590_461940085041252_8152499888249501745_n_18220852123022870.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176528590_461940085041252_8152499888249501745_n_18220852123022870.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175921989_539377217048275_5266278342285433158_n_17986919254354463.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175921989_539377217048275_5266278342285433158_n_17986919254354463.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-francois-on-the-osawa-unso-rocks.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-francois-on-the-osawa-unso-rocks.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-francois-on-the-rocks.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-francois-on-the-rocks.jpg" class="_2yuc _3-96" /></a></div>
   </div>
   <div class="date_taken_local">2021 apr 21 08:50:46</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">I was able to recognize the last two kanji</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175631362_1343868489347004_7440772673519538941_n_18001671472321381.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175631362_1343868489347004_7440772673519538941_n_18001671472321381.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-i-was-able-to-recognize-the-last-two-kanji.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-i-was-able-to-recognize-the-last-two-kanji.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 09:07:37</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">I wonder if it&#039;s one of these guys&#039; thorns that I stepped on..</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176127527_163548935666380_5020389242857243650_n_17912417152697231.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176127527_163548935666380_5020389242857243650_n_17912417152697231.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-i-wonder-if-it-s-one-of-these-guys-thorns-that-i-stepped-on.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-i-wonder-if-it-s-one-of-these-guys-thorns-that-i-stepped-on.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 09:17:16</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Yet another cute manhole cover
     滑川</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176128702_2350690568408026_4678425950771088535_n_17933102320492786.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176128702_2350690568408026_4678425950771088535_n_17933102320492786.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-yet-another-cute-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-yet-another-cute-manhole-cover.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 09:41:10</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Poetry, Maybe</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176080364_211630570368623_5204279167162131194_n_18109159303228319.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/176080364_211630570368623_5204279167162131194_n_18109159303228319.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-poetry-maybe.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-21-poetry-maybe.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 11:36:46</div>
 </div>

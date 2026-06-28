@@ -32,18 +32,18 @@ while I explored the museum.
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Manhole covers in sewerage museum</div>
   <div class="_3-95 _2let">
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174287218_282754503479485_8716192286087079438_n_18128805151171189.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174287218_282754503479485_8716192286087079438_n_18128805151171189.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173178228_286350549811987_8137984552060720817_n_17892479711036651.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173178228_286350549811987_8137984552060720817_n_17892479711036651.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175479610_908233823074074_8254180430365983766_n_17878805333328674.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/175479610_908233823074074_8254180430365983766_n_17878805333328674.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174267829_289206766080790_2765668499957677188_n_17891247190989537.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174267829_289206766080790_2765668499957677188_n_17891247190989537.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174338925_210204533837330_8318965743209712050_n_17846625014573094.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174338925_210204533837330_8318965743209712050_n_17846625014573094.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-fish-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-fish-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-sewer-mascot-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-sewer-mascot-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-animals-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-animals-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-azalea-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-azalea-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-town-scenery-manhole-cover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kodaira-town-scenery-manhole-cover.jpg" class="_2yuc _3-96" /></a></div>
   </div>
   <div class="date_taken_local">2021 apr 18 08:00:00</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Four tree design manhole cover
     #manholecover</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174020283_515438729626694_1064734977632434620_n_18128377420172469.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174020283_515438729626694_1064734977632434620_n_18128377420172469.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-four-tree-design-manhole-cover-manholecover.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-four-tree-design-manhole-cover-manholecover.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 09:01:29</div>
 </div>
@@ -55,7 +55,7 @@ but they were set up for delivery only, so I headed back back along my way.
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Neat flowers</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173133190_750468222334002_4172147875880494064_n_17877286343331871.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173133190_750468222334002_4172147875880494064_n_17877286343331871.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-neat-flowers.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-neat-flowers.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 10:20:03</div>
 </div>
@@ -63,14 +63,14 @@ but they were set up for delivery only, so I headed back back along my way.
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">We can meet and buy meat at the meat shop called meet shop.
   I also really like the font for this sign.</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174287217_299277668491108_4975529678424527119_n_17895124162926813.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/174287217_299277668491108_4975529678424527119_n_17895124162926813.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-we-can-meet-and-buy-meat-at-the-meat-shop-called-meet-shop-i.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-we-can-meet-and-buy-meat-at-the-meat-shop-called-meet-shop-i.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 11:28:56</div>
 </div>
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Kids these days littering their beer cans around.... Hang on.. milk tea cans!?</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173597176_162390905785180_1148212190783136403_n_17868070241356416.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/173597176_162390905785180_1148212190783136403_n_17868070241356416.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kids-these-days-littering-their-beer-cans-around-hang-on-mil.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202104/2021-apr-18-kids-these-days-littering-their-beer-cans-around-hang-on-mil.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 18 12:24:09</div>
 </div>
