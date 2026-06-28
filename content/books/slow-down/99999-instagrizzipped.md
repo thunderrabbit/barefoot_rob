@@ -1320,79 +1320,79 @@ draft: false
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I dig holes!</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105979058_1153098311709501_4793143138407906464_n_17871836104805811.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105979058_1153098311709501_4793143138407906464_n_17871836104805811.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105501607_585734272336081_6358985235426612406_n_17848184828181899.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105501607_585734272336081_6358985235426612406_n_17848184828181899.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106100868_181133496694763_5335269208045268863_n_17866456156882597.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106100868_181133496694763_5335269208045268863_n_17866456156882597.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105967814_198707878083830_5667537932308180823_n_18098767357167100.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105967814_198707878083830_5667537932308180823_n_18098767357167100.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105946269_1595437417284319_1087281300571054069_n_17850581867137761.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105946269_1595437417284319_1087281300571054069_n_17850581867137761.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105960554_590760275158526_7114921028484042977_n_17861991004916956.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105960554_590760275158526_7114921028484042977_n_17861991004916956.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104808713_2642383619416515_7256280220837126333_n_18093999172196607.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104808713_2642383619416515_7256280220837126333_n_18093999172196607.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104890367_275975063520802_7389058976059181331_n_17872354339774018.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104890367_275975063520802_7389058976059181331_n_17872354339774018.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_i_dig_holes_utility_pipe_pit.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_i_dig_holes_utility_pipe_pit.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_i_dig_holes.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_i_dig_holes.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_feet_by_construction_pipe.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_feet_by_construction_pipe.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pipe_trench_pressure_recorders.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pipe_trench_pressure_recorders.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_construction_slab_over_hole.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_construction_slab_over_hole.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pipe_trench_with_shovel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pipe_trench_with_shovel.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_leaning_bamboo_grove.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_leaning_bamboo_grove.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pipe_construction_trench.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pipe_construction_trench.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Jun 24, 2020, 8:36 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I took a flat rock from the rubble for soldering wire marble tracks &#064;marbletrack3</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105044348_339802953677968_6924079943880080425_n_17850748604128359.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105044348_339802953677968_6924079943880080425_n_17850748604128359.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_24_flat_rock_for_soldering_marble_track_wire.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_24_flat_rock_for_soldering_marble_track_wire.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 23, 2020, 2:16 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">It seems to use a woven mesh to hold concrete together</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105967817_781812382355484_3258721750914477063_n_18109555045085279.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105967817_781812382355484_3258721750914477063_n_18109555045085279.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_24_woven_mesh_inside_broken_concrete.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_24_woven_mesh_inside_broken_concrete.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 23, 2020, 2:02 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Is this like sheetrock?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105929468_268108901107736_4370881339006399309_n_17911856527453276.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105929468_268108901107736_4370881339006399309_n_17911856527453276.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_24_is_this_like_sheetrock.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_24_is_this_like_sheetrock.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 23, 2020, 2:01 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">The giving tree #shelsilverstein</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104432936_280262266719924_2732230516710901784_n_18073458127204665.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104432936_280262266719924_2732230516710901784_n_18073458127204665.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_the_giving_tree_stump.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_the_giving_tree_stump.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 22, 2020, 1:36 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Nice view from the corner</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104455732_401711610719713_8927229382994012433_n_17920236511423139.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104455732_401711610719713_8927229382994012433_n_17920236511423139.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_nice_view_from_the_corner.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_nice_view_from_the_corner.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 22, 2020, 1:25 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Denser foliage at the next corner outside the perimeter</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104546915_2610520092598663_4996494848945213915_n_17879680264663964.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104546915_2610520092598663_4996494848945213915_n_17879680264663964.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_denser_foliage_at_the_next_corner.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_denser_foliage_at_the_next_corner.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 22, 2020, 1:24 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105294023_275959540419214_2925754721023977248_n_17916964747434571.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105294023_275959540419214_2925754721023977248_n_17916964747434571.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_silhouette_selfie_under_steel_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_silhouette_selfie_under_steel_tower.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 22, 2020, 1:21 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I walked along this narrow row of cinder blocks along this fence to this point at the backside of high power transmission line tower.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/84089355_636529143601737_1271437904514446099_n_17907561985462192.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/84089355_636529143601737_1271437904514446099_n_17907561985462192.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104452262_174772424061380_7461176514759052428_n_18060014161227178.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104452262_174772424061380_7461176514759052428_n_18060014161227178.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106276062_1367152133471811_8427002840160749162_n_17853095180098847.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106276062_1367152133471811_8427002840160749162_n_17853095180098847.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_walked_along_cinder_blocks_by_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_walked_along_cinder_blocks_by_fence.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_i_walked_along_this_narrow_row_of_cinder_blocks_along_this_f.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_i_walked_along_this_narrow_row_of_cinder_blocks_along_this_f.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pressure_chart_recorder.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_25_pressure_chart_recorder.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Jun 22, 2020, 1:18 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Mini steps</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105993851_311737113562238_7845069419366586527_n_17863269811922652.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105993851_311737113562238_7845069419366586527_n_17863269811922652.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_mini_steps.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_mini_steps.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 22, 2020, 1:04 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Where the sidewalk ends #shelsilverstein</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104285691_1719970181487752_8669551628773256948_n_17872181935786272.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104285691_1719970181487752_8669551628773256948_n_17872181935786272.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_where_the_sidewalk_ends_shelsilverstein.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_23_where_the_sidewalk_ends_shelsilverstein.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 22, 2020, 1:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Found a hidden staircase</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104433655_109393854040335_4509167407007055863_n_18148077709040274.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104433655_109393854040335_4509167407007055863_n_18148077709040274.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_22_found_a_hidden_staircase.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_22_found_a_hidden_staircase.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 21, 2020, 2:17 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">SOGO Bootcamp workout was cancelled today.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104155645_254737012422508_7536190597435405480_n_17884545418611461.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104155645_254737012422508_7536190597435405480_n_17884545418611461.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_21_sogo_bootcamp_workout_was_cancelled_today.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_21_sogo_bootcamp_workout_was_cancelled_today.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -1418,24 +1418,24 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I was on this bridge #berrypark 王禅寺</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103711673_654888068572693_9206001292852457824_n_17842327595260837.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103711673_654888068572693_9206001292852457824_n_17842327595260837.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_i_was_on_this_bridge_berrypark.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_i_was_on_this_bridge_berrypark.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 3:35 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">The bamboo lined trail gave way to a regular trail which is now crossing the entrance of the area that I&#039;ve been circumnavigating.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104423252_563917637826429_142757040060441088_n_18147766942001912.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104423252_563917637826429_142757040060441088_n_18147766942001912.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_the_bamboo_lined_trail_gave_way_to_a_regular_trail_which_is.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_the_bamboo_lined_trail_gave_way_to_a_regular_trail_which_is.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 3:20 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">#treeseatingthings</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104115180_106287064395958_501567325240542496_n_17916283909432045.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104115180_106287064395958_501567325240542496_n_17916283909432045.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_treeseatingthings.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_treeseatingthings.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 3:09 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Stay out
       Don&#039;t smoke
       Don&#039;t litter</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104235484_2655657614691008_4374832059224935083_n_18146132317032206.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104235484_2655657614691008_4374832059224935083_n_18146132317032206.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_stay_out_don_t_smoke_don_t_litter.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_stay_out_don_t_smoke_don_t_litter.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 3:02 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -1447,172 +1447,172 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I was going to climb, but there&#039;s an active spider web spanning the entrance right at the bottom of the steps.<br>The spider is visible here, out of focus, right in the middle of the red gate.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103768842_672253416655450_1840295287838225350_n_17927138164400329.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103768842_672253416655450_1840295287838225350_n_17927138164400329.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_i_was_going_to_climb_but_there_s_an_active_spider_web_spanni.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_i_was_going_to_climb_but_there_s_an_active_spider_web_spanni.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 2:54 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Small torii</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104289118_563579710996606_5325354727971134754_n_17856066344037810.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104289118_563579710996606_5325354727971134754_n_17856066344037810.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_small_torii.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_small_torii.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 2:52 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103598429_169760961224773_4383122823727465156_n_17868275023825289.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103598429_169760961224773_4383122823727465156_n_17868275023825289.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_ozenji_hiyoshidani_detention_pond_sign.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_ozenji_hiyoshidani_detention_pond_sign.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 2:38 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Floodwater tank</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103983290_2697261113713821_224533148138249362_n_18040083241252106.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103983290_2697261113713821_224533148138249362_n_18040083241252106.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_floodwater_tank.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_18_floodwater_tank.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 17, 2020, 2:37 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">New concrete wall (top)</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103536244_703662300449738_2227102123575627403_n_17860046083980466.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103536244_703662300449738_2227102123575627403_n_17860046083980466.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_17_new_concrete_wall_top.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_17_new_concrete_wall_top.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 16, 2020, 2:55 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Back yard greenery</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103534491_164978641696113_2678179546238600614_n_18106304680131878.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103534491_164978641696113_2678179546238600614_n_18106304680131878.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_16_back_yard_greenery.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_16_back_yard_greenery.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 15, 2020, 3:01 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cute pale greenery</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104028452_578965289350569_3802225228749456135_n_18148862494016333.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104028452_578965289350569_3802225228749456135_n_18148862494016333.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_16_cute_pale_greenery.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_16_cute_pale_greenery.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 15, 2020, 2:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cute greenery</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104057437_293274952041043_1400827308195956403_n_17931058318388647.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/104057437_293274952041043_1400827308195956403_n_17931058318388647.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_16_cute_greenery.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_16_cute_greenery.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 15, 2020, 2:48 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Grave marker facing an intersection</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103856656_184992919590217_2285733741252043005_n_18058306138225642.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103856656_184992919590217_2285733741252043005_n_18058306138225642.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_15_grave_marker_facing_an_intersection.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_15_grave_marker_facing_an_intersection.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 14, 2020, 2:12 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Washing feet in outdoor sink</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103283015_157457112487716_4748692635738833820_n_17876362975697103.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103283015_157457112487716_4748692635738833820_n_17876362975697103.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_14_washing_feet_in_outdoor_sink.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_14_washing_feet_in_outdoor_sink.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 13, 2020, 2:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Good morning Nagano</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103476838_592943931350597_745925801112431016_n_17876930779715634.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103476838_592943931350597_745925801112431016_n_17876930779715634.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_14_good_morning_nagano.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_14_good_morning_nagano.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 13, 2020, 1:05 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103383561_328453118144733_3171787980235516903_n_17845483169180963.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103383561_328453118144733_3171787980235516903_n_17845483169180963.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_large_moth_beside_bare_feet.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_large_moth_beside_bare_feet.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 11:26 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102647566_2943015172464068_5194368500064928020_n_17857971460977404.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102647566_2943015172464068_5194368500064928020_n_17857971460977404.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_bare_feet_among_fallen_leaves.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_bare_feet_among_fallen_leaves.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 1:55 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Neat! I can step from this wall onto this tree.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103121685_331047714546717_6167970077614088373_n_17907866419457665.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103121685_331047714546717_6167970077614088373_n_17907866419457665.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_neat_i_can_step_from_this_wall_onto_this_tree.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_neat_i_can_step_from_this_wall_onto_this_tree.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 1:53 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102909729_269163357625692_2535326822560612255_n_17855281637038641.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102909729_269163357625692_2535326822560612255_n_17855281637038641.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_feet_on_beam_over_water_channel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_feet_on_beam_over_water_channel.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 1:50 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103745214_618583765425689_9072510354884178449_n_17849251694131343.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103745214_618583765425689_9072510354884178449_n_17849251694131343.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_feet_over_concrete_water_channel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_feet_over_concrete_water_channel.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 1:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103474021_1383945235124506_2660616938773640312_n_18109717876190344.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103474021_1383945235124506_2660616938773640312_n_18109717876190344.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_feet_on_grate_over_drainage.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_feet_on_grate_over_drainage.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 1:48 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Leaves show how high the water level has been at times</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102685205_2629212407406288_8694094078709583273_n_17849271017128055.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102685205_2629212407406288_8694094078709583273_n_17849271017128055.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_leaves_show_how_high_the_water_level_has_been_at_times.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_11_leaves_show_how_high_the_water_level_has_been_at_times.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 10, 2020, 1:43 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Different textures</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103090726_181737396577753_1942794900026497100_n_17847519992158761.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/103090726_181737396577753_1942794900026497100_n_17847519992158761.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_09_different_textures.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_09_different_textures.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 8, 2020, 1:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Purple flowers</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101505743_2606361796358520_269219210205473963_n_17900285332488547.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101505743_2606361796358520_269219210205473963_n_17900285332488547.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_05_purple_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_05_purple_flowers.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 4, 2020, 2:39 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Azaleas?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101631380_3213637302000506_8346423012041923957_n_17846455706148513.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101631380_3213637302000506_8346423012041923957_n_17846455706148513.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_05_azaleas.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_05_azaleas.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 4, 2020, 2:12 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">One of the workers let me take a picture</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101407859_117584379703638_6304306171847046599_n_17864548780868872.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101407859_117584379703638_6304306171847046599_n_17864548780868872.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_one_of_the_workers_let_me_take_a_picture.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_one_of_the_workers_let_me_take_a_picture.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 2, 2020, 4:50 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Freshly washed</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101473867_622393045152585_203050940385047905_n_17929202491388358.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101473867_622393045152585_203050940385047905_n_17929202491388358.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_freshly_washed.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_freshly_washed.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 2, 2020, 4:43 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">What does this arrow indicate?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102559326_280167736440085_5872453822300673977_n_17843332874210117.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/102559326_280167736440085_5872453822300673977_n_17843332874210117.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_what_does_this_arrow_indicate.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_what_does_this_arrow_indicate.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 2, 2020, 12:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Painted shells</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/82916961_145784170403110_36518400222658674_n_18144639349029790.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/82916961_145784170403110_36518400222658674_n_18144639349029790.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_painted_shells.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_03_painted_shells.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 2, 2020, 12:33 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Overlooking a stream</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101695626_292225585499395_4832052726803719468_n_17896400341504354.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/101695626_292225585499395_4832052726803719468_n_17896400341504354.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_02_overlooking_a_stream.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_02_overlooking_a_stream.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 1, 2020, 1:50 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Rebar manhole cover</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101024833_301954054146848_3714975307660243808_n_17852712929063259.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101024833_301954054146848_3714975307660243808_n_17852712929063259.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_30_rebar_grate_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_30_rebar_grate_manhole_cover.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 29, 2020, 8:12 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Colorized version</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101061027_254126848981919_8011945998078257962_n_17867848375823447.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101061027_254126848981919_8011945998078257962_n_17867848375823447.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_30_colorful_camellia_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_30_colorful_camellia_manhole_cover.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 29, 2020, 7:39 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">During my walk today, I found a tree eating a chain.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101853085_263355668055092_9021700327048466891_n_18070011697207436.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101853085_263355668055092_9021700327048466891_n_18070011697207436.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_tree_eating_a_yellow_chain.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_tree_eating_a_yellow_chain.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 28, 2020, 2:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">A woman said it is かもん. I didn&#039;t ask what kanji to use.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101025694_372733907020590_1665570217817122483_n_17914857550430025.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101025694_372733907020590_1665570217817122483_n_17914857550430025.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_old_gate_kamon_crest.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_old_gate_kamon_crest.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 28, 2020, 2:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Is this a sheet or a net and why is it hanging in the trees?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101527936_1099206770452362_3823739016906322771_n_17846231402159337.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101527936_1099206770452362_3823739016906322771_n_17846231402159337.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_net_hanging_in_the_trees.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_net_hanging_in_the_trees.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 28, 2020, 2:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Old gate</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101181733_2567602463494526_2785591426677480160_n_17901281614479749.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101181733_2567602463494526_2785591426677480160_n_17901281614479749.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_old_gate_closeup.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_old_gate_closeup.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 28, 2020, 2:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Old gate is now a decorative fence next to its driveway.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101121217_387293278839036_7363199726648216163_n_18131609278077851.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/101121217_387293278839036_7363199726648216163_n_18131609278077851.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_old_gate_now_decorative_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_29_old_gate_now_decorative_fence.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 28, 2020, 2:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Hmm I could take a series of photos of manhole covers during my walk to Niigata</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/100949722_299023537766775_2280680188325005933_n_17919870988416880.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202005/100949722_299023537766775_2280680188325005933_n_17919870988416880.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_28_camellia_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_may_28_camellia_manhole_cover.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">May 27, 2020, 8:30 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -1624,22 +1624,22 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Testing the foot bath for Feb 1st ice barefoot challenge&quot; https://www.meetup.com/Tokyo-Sol-barefoot-more/events/268007806/</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/84356399_121606462690283_3043915439190547127_n_17854403362755081.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/84356399_121606462690283_3043915439190547127_n_17854403362755081.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_21_testing_foot_bath_for_ice_barefoot_challenge.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_21_testing_foot_bath_for_ice_barefoot_challenge.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jan 20, 2020, 4:24 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/79867646_281800319447272_7567156046547764202_n_17905374352406332.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/79867646_281800319447272_7567156046547764202_n_17905374352406332.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_11_barefoot_circle_of_feet.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_11_barefoot_circle_of_feet.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jan 10, 2020, 8:55 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Before barefoot walkshop</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/82170313_174558676958949_6568063966316345816_n_18039600250237074.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/82170313_174558676958949_6568063966316345816_n_18039600250237074.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_11_before_barefoot_walkshop.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_11_before_barefoot_walkshop.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jan 10, 2020, 8:44 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Great to meet you today!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/80518215_468065010800213_2090630613084617161_n_18003441091275342.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202001/80518215_468065010800213_2090630613084617161_n_18003441091275342.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_08_great_to_meet_you_today.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jan_08_great_to_meet_you_today.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -1880,42 +1880,42 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Veiled radio tower base</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121962546_401527614585097_6103851486178900237_n_17851196048337795.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121962546_401527614585097_6103851486178900237_n_17851196048337795.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_veiled_radio_tower_base.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_veiled_radio_tower_base.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 12:54 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Steep step</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121725116_699546564315292_880008011810125598_n_17862960080113043.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121725116_699546564315292_880008011810125598_n_17862960080113043.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_19_steep_step.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_19_steep_step.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 18, 2020, 2:08 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Now that&#039;s a sharp looking wall!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121339803_2700936720130174_2008242887549774654_n_17940954700394876.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121339803_2700936720130174_2008242887549774654_n_17940954700394876.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_15_now_that_s_a_sharp_looking_wall.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_15_now_that_s_a_sharp_looking_wall.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 14, 2020, 1:28 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121165601_386459872520706_7620607165419568943_n_17855696219275134.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121165601_386459872520706_7620607165419568943_n_17855696219275134.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_12_barefoot_by_pink_vinca_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_12_barefoot_by_pink_vinca_flowers.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 11, 2020, 2:24 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Plants in the back of a pickup truck<br>This stuff has apparently been here for a minute because the plants are beginning to take over.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120938951_625215518157051_7476065240373921710_n_17877604684896242.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120938951_625215518157051_7476065240373921710_n_17877604684896242.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_07_plants_in_the_back_of_a_pickup_truck_this_stuff_has_apparent.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_07_plants_in_the_back_of_a_pickup_truck_this_stuff_has_apparent.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 6, 2020, 1:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Leather glove</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120832005_158873652542443_5974109515299440982_n_17892058171655761.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120832005_158873652542443_5974109515299440982_n_17892058171655761.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_07_leather_glove.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_07_leather_glove.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 6, 2020, 1:05 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Grate angle</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120770212_2067318490065095_6694467889730643578_n_18121718338091183.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120770212_2067318490065095_6694467889730643578_n_18121718338091183.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_05_grate_angle.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_05_grate_angle.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 4, 2020, 2:21 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">short wall</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120460971_368400441099409_2490384145590263117_n_17958311596358476.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/120460971_368400441099409_2490384145590263117_n_17958311596358476.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_03_short_wall.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_03_short_wall.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 2, 2020, 4:16 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -1927,17 +1927,17 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119993916_712276579668591_1572898994421619402_n_17967489793331698.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119993916_712276579668591_1572898994421619402_n_17967489793331698.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_24_bicycle_overtaken_by_weeds.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_24_bicycle_overtaken_by_weeds.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 23, 2020, 1:29 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Barefoot on rebar</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119994273_754277298460867_8037783396912619406_n_17860838585142699.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119994273_754277298460867_8037783396912619406_n_17860838585142699.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_24_barefoot_on_rebar.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_24_barefoot_on_rebar.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 23, 2020, 1:16 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">89 steps to the top</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119978898_708544623083156_5735999052663638027_n_17897589367598971.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119978898_708544623083156_5735999052663638027_n_17897589367598971.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_22_89_steps_to_the_top.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_22_89_steps_to_the_top.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 21, 2020, 1:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -1949,17 +1949,17 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">a road for patience</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119159328_178263427091808_5696389947013630452_n_17878790107836738.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119159328_178263427091808_5696389947013630452_n_17878790107836738.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_14_a_road_for_patience.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_14_a_road_for_patience.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 13, 2020, 1:08 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119164802_323370028746140_7134776646794204057_n_17918530225457184.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119164802_323370028746140_7134776646794204057_n_17918530225457184.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_12_barefoot_on_plywood_at_construction.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_12_barefoot_on_plywood_at_construction.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 11, 2020, 1:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Bandit at 5am</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119123319_366084537757102_8073445531988858477_n_17874848176862899.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/119123319_366084537757102_8073445531988858477_n_17874848176862899.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_09_bandit_at_5am.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_09_bandit_at_5am.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -1985,7 +1985,7 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Birds on Yomiuriland ferris wheel</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/118882324_319711545976869_2552925426130161635_n_17907294832505856.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/118882324_319711545976869_2552925426130161635_n_17907294832505856.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_09_birds_on_yomiuriland_ferris_wheel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_09_birds_on_yomiuriland_ferris_wheel.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2011,88 +2011,88 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Yesterday&#039;s footprint after rain</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/118860118_341409220317321_784418470550639232_n_17870289967914970.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/118860118_341409220317321_784418470550639232_n_17870289967914970.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_08_yesterday_s_footprint_after_rain.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_08_yesterday_s_footprint_after_rain.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 7, 2020, 2:10 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Ooey gooey wet mud</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/118806131_626389148063657_7931532495956849857_n_17925993487421547.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202009/118806131_626389148063657_7931532495956849857_n_17925993487421547.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_07_ooey_gooey_wet_mud.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_sep_07_ooey_gooey_wet_mud.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Sep 6, 2020, 2:05 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">🍑 peachy decorations</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/118570863_396637677986349_5609745674299059756_n_17859728840094246.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/118570863_396637677986349_5609745674299059756_n_17859728840094246.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_31_peachy_decorations.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_31_peachy_decorations.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 30, 2020, 1:25 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">This sign shows what the plan had been.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117824402_337580470708890_7000694058665231088_n_18116122900093653.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117824402_337580470708890_7000694058665231088_n_18116122900093653.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_18_this_sign_shows_what_the_plan_had_been.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_18_this_sign_shows_what_the_plan_had_been.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 17, 2020, 1:04 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Construction on these lots has been paused for a few months.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117699508_192869638854102_6635461500501287890_n_17853556724170160.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117699508_192869638854102_6635461500501287890_n_17853556724170160.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_18_construction_on_these_lots_has_been_paused_for_a_few_months.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_18_construction_on_these_lots_has_been_paused_for_a_few_months.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 17, 2020, 1:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I walked carefully across this slippery muddy tile.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117721924_770326510446550_2590383484372241098_n_17962986442330529.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117721924_770326510446550_2590383484372241098_n_17962986442330529.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_17_i_walked_carefully_across_this_slippery_muddy_tile.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_17_i_walked_carefully_across_this_slippery_muddy_tile.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 16, 2020, 1:31 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I had walked past this house many times without ever actually noticing there&#039;s a house here.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117731030_315033269643913_3923744138407764895_n_17863716437005235.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117731030_315033269643913_3923744138407764895_n_17863716437005235.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_17_i_had_walked_past_this_house_many_times_without_ever_actuall.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_17_i_had_walked_past_this_house_many_times_without_ever_actuall.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 16, 2020, 12:40 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">What are these?<br>&#064;da_ma_da_ma</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117508867_711552663033751_5203263902004898731_n_17872358851881387.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117508867_711552663033751_5203263902004898731_n_17872358851881387.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_16_what_are_these_da_ma_da_ma.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_16_what_are_these_da_ma_da_ma.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 15, 2020, 1:19 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117531314_319569765904226_8758941253344117682_n_18149940529067768.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117531314_319569765904226_8758941253344117682_n_18149940529067768.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_16_yellow_bollard_in_the_grass.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_16_yellow_bollard_in_the_grass.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 15, 2020, 1:16 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Right angles</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117797294_2852594734984713_3255978587671315178_n_17868109792947579.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117797294_2852594734984713_3255978587671315178_n_17868109792947579.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_16_right_angles.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_16_right_angles.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 15, 2020, 1:15 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117195081_607874610122966_1735244578756095807_n_17862490439053014.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117195081_607874610122966_1735244578756095807_n_17862490439053014.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_09_wild_monkey_beside_my_feet.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_09_wild_monkey_beside_my_feet.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 8, 2020, 11:28 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117070597_112243500449559_4940128667801267987_n_17891667187581153.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117070597_112243500449559_4940128667801267987_n_17891667187581153.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_selfie_under_yomiuriland_ferris_wheel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_selfie_under_yomiuriland_ferris_wheel.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 7, 2020, 1:20 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117301065_760978984735479_4291950074819260330_n_17927742094404645.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117301065_760978984735479_4291950074819260330_n_17927742094404645.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_yomiuriland_283_steps_mascot.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_yomiuriland_283_steps_mascot.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 7, 2020, 1:13 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116794894_705474566670792_8516288235621491400_n_17850608948216300.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116794894_705474566670792_8516288235621491400_n_17850608948216300.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_selfie_at_keio_yomiuriland_station.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_selfie_at_keio_yomiuriland_station.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 7, 2020, 1:07 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Vines explore their world</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117230031_592122061496442_6411833046898633993_n_18040112230270719.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117230031_592122061496442_6411833046898633993_n_18040112230270719.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117330946_605338733504605_868796470510166455_n_17861506568057170.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117330946_605338733504605_868796470510166455_n_17861506568057170.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116692461_217497152917247_2016961243418801977_n_18154588891063393.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116692461_217497152917247_2016961243418801977_n_18154588891063393.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117111652_303520694326352_4033219242843202913_n_17847029339294245.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/117111652_303520694326352_4033219242843202913_n_17847029339294245.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116871599_894301144426758_8930276225567208025_n_17856690524085114.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116871599_894301144426758_8930276225567208025_n_17856690524085114.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_05_vines_explore_their_world.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_05_vines_explore_their_world.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_vines_exploring_the_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_vines_exploring_the_fence.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_big_tree_behind_the_teal_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_big_tree_behind_the_teal_fence.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_vine_tendril_through_the_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_vine_tendril_through_the_fence.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_tree_with_a_reaching_vine_tendril.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_tree_with_a_reaching_vine_tendril.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Aug 4, 2020, 2:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Short fence</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116805872_306375810710647_3669773061783883379_n_18121760497124841.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116805872_306375810710647_3669773061783883379_n_18121760497124841.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_05_short_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_05_short_fence.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 4, 2020, 1:13 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -2104,107 +2104,107 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116540168_1641560666007167_5838930603998995040_n_17900858434506286.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116540168_1641560666007167_5838930603998995040_n_17900858434506286.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_02_bright_red_hibiscus_flower.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_02_bright_red_hibiscus_flower.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 1, 2020, 1:31 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116877593_186524976199566_3979695250583514993_n_17897027785552910.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116877593_186524976199566_3979695250583514993_n_17897027785552910.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_02_yomiuriland_ferris_wheel_from_below.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_02_yomiuriland_ferris_wheel_from_below.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 1, 2020, 12:35 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116672156_323231185496433_6945458767134924595_n_17853956414155120.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202008/116672156_323231185496433_6945458767134924595_n_17853956414155120.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_02_winding_road_below_yomiuriland_wheel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_02_winding_road_below_yomiuriland_wheel.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Aug 1, 2020, 12:11 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Antenna</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/116042571_392733071692163_6773578654004624139_n_17942161933372227.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/116042571_392733071692163_6773578654004624139_n_17942161933372227.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_29_antenna.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_29_antenna.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 28, 2020, 1:18 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/115822583_160251972253115_685664215461492453_n_17847428555268620.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/115822583_160251972253115_685664215461492453_n_17847428555268620.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_28_stone_marker_behind_mesh_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_28_stone_marker_behind_mesh_fence.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 27, 2020, 1:11 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Stairs</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/116577203_1006593559773979_3079445632262479081_n_17883596791667995.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/116577203_1006593559773979_3079445632262479081_n_17883596791667995.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_28_stairs.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_28_stairs.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 27, 2020, 12:24 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Black and white spotted insect</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/111968909_965452227249326_1465369665234905861_n_17845669976259292.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/111968909_965452227249326_1465369665234905861_n_17845669976259292.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_20_black_and_white_spotted_insect.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_20_black_and_white_spotted_insect.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 19, 2020, 1:37 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I counted 112 rings</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/114150268_285190342733476_5191377339836793003_n_18061775764238574.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/114150268_285190342733476_5191377339836793003_n_18061775764238574.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_19_i_counted_112_rings.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_19_i_counted_112_rings.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 18, 2020, 2:09 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Bye-bye beautiful trres</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/109352986_319467549189198_7545752862774079037_n_17896054045533420.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/109352986_319467549189198_7545752862774079037_n_17896054045533420.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_17_bye_bye_beautiful_trres.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_17_bye_bye_beautiful_trres.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 17, 2020, 1:00 AM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108122342_116624569911828_2386117564578218462_n_18061870756235782.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108122342_116624569911828_2386117564578218462_n_18061870756235782.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_cloudy_view_over_the_neighborhood.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_cloudy_view_over_the_neighborhood.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 15, 2020, 1:53 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Perspective</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108078175_158878899066427_5767766718826783659_n_18152844616017687.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108078175_158878899066427_5767766718826783659_n_18152844616017687.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_perspective.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_perspective.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 15, 2020, 1:41 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Train under foot bridge</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107933106_956704408178495_8004757910317857616_n_17891974504566288.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107933106_956704408178495_8004757910317857616_n_17891974504566288.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_train_under_foot_bridge.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_train_under_foot_bridge.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 15, 2020, 1:24 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Interesting decor</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/110042697_300671067982571_6234134274469043447_n_17845401971270459.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/110042697_300671067982571_6234134274469043447_n_17845401971270459.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_interesting_decor.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_interesting_decor.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 15, 2020, 1:19 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">This man said they were going to cut down these trees as well.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/109258913_1652453528241937_61423189541160961_n_18150657511054507.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/109258913_1652453528241937_61423189541160961_n_18150657511054507.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108212289_2697109597225425_5931598851574659419_n_17880107215694949.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108212289_2697109597225425_5931598851574659419_n_17880107215694949.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108284216_1091698241340033_1873959230847936322_n_17873084404782097.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108284216_1091698241340033_1873959230847936322_n_17873084404782097.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108283126_713542525936442_4694539937379827259_n_18153375667054570.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108283126_713542525936442_4694539937379827259_n_18153375667054570.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_this_man_said_they_were_going_to_cut_down_these_trees_as_wel.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_this_man_said_they_were_going_to_cut_down_these_trees_as_wel.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_rob_at_the_great_sacred_tree.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_rob_at_the_great_sacred_tree.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_standing_against_a_big_tree_trunk.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_aug_08_standing_against_a_big_tree_trunk.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_komatsu_excavator_clearing_trees.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_komatsu_excavator_clearing_trees.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Jul 15, 2020, 1:06 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I still have high hopes for these trees.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108186985_609837799656755_74019113474687490_n_17854382717114815.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/108186985_609837799656755_74019113474687490_n_17854382717114815.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_i_still_have_high_hopes_for_these_trees.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_i_still_have_high_hopes_for_these_trees.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 15, 2020, 12:51 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Well I guess they didn&#039;t plan to keep the surrounding greenery.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/109999344_633003234241270_8600044315238376820_n_17880095158696003.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/109999344_633003234241270_8600044315238376820_n_17880095158696003.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_well_i_guess_they_didn_t_plan_to_keep_the_surrounding_greene.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_16_well_i_guess_they_didn_t_plan_to_keep_the_surrounding_greene.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 15, 2020, 12:50 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Shinjuku Gyoen green grass</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106580412_651602625703845_769398558594926221_n_17860073510015325.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106580412_651602625703845_769398558594926221_n_17860073510015325.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_shinjuku_gyoen_green_grass.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_shinjuku_gyoen_green_grass.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 8:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107892969_1679860945510604_8597790023978026822_n_17862642985978949.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107892969_1679860945510604_8597790023978026822_n_17862642985978949.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_docomo_tower_over_the_trees.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_docomo_tower_over_the_trees.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 7:46 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106719910_1648731761968898_2910433149941053932_n_18098809468198132.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106719910_1648731761968898_2910433149941053932_n_18098809468198132.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_docomo_tower_framed_by_trees.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_docomo_tower_framed_by_trees.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 7:42 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">This is where my phone says I walked.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107424737_754269611994323_7845587983427789870_n_17858788010042295.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107424737_754269611994323_7845587983427789870_n_17858788010042295.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_this_is_where_my_phone_says_i_walked.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_this_is_where_my_phone_says_i_walked.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 6:35 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -2216,170 +2216,170 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Any guesses as to what was the purpose of this concrete slab?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106711966_558868404809428_6610632537137353351_n_17889455566597786.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106711966_558868404809428_6610632537137353351_n_17889455566597786.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_any_guesses_as_to_what_was_the_purpose_of_this_concrete_slab.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_any_guesses_as_to_what_was_the_purpose_of_this_concrete_slab.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 5:45 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106369204_308267686979618_1384106378343416008_n_17899255954515332.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106369204_308267686979618_1384106378343416008_n_17899255954515332.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_barefoot_by_red_pentas_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_barefoot_by_red_pentas_flowers.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 5:34 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I guess they don&#039;t drive this car very often.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107229021_725985551569253_9055038193543048602_n_17850467783151499.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107229021_725985551569253_9055038193543048602_n_17850467783151499.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_i_guess_they_don_t_drive_this_car_very_often.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_i_guess_they_don_t_drive_this_car_very_often.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 5:14 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I&#039;m headed thataway</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106916735_894989734333935_8175155270181229772_n_17911313581459269.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106916735_894989734333935_8175155270181229772_n_17911313581459269.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_i_m_headed_thataway.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_11_i_m_headed_thataway.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 10, 2020, 4:57 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">They locked the &quot;secret&quot; back entrance I had had been using to see this construction site.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106560433_320864515977813_8525439967976316006_n_17863720162949245.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106560433_320864515977813_8525439967976316006_n_17863720162949245.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_08_they_locked_the_secret_back_entrance_i_had_had_been_using_to.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_08_they_locked_the_secret_back_entrance_i_had_had_been_using_to.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 7, 2020, 2:00 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cool building</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/101847622_323018329094269_1279700243555885199_n_17863076419954428.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/101847622_323018329094269_1279700243555885199_n_17863076419954428.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_cool_building.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_cool_building.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 6, 2020, 11:39 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cool! I walked to Yokohama!<br><br>Not downtown but still Yokohama</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106486833_1654196191412328_8491817069521102676_n_17872965616794189.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106486833_1654196191412328_8491817069521102676_n_17872965616794189.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_cool_i_walked_to_yokohama_not_downtown_but_still_yokohama.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_cool_i_walked_to_yokohama_not_downtown_but_still_yokohama.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 6, 2020, 11:31 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Tree</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106496683_2533505040313555_2278594537747923726_n_17877907123710003.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106496683_2533505040313555_2278594537747923726_n_17877907123710003.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_tree.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_tree.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 6, 2020, 12:48 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">This is the longest one of these 蛭 I have seen so far.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/97963276_1024566427958723_2001905889833468936_n_17851676462113015.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/97963276_1024566427958723_2001905889833468936_n_17851676462113015.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_this_is_the_longest_one_of_these_i_have_seen_so_far.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_this_is_the_longest_one_of_these_i_have_seen_so_far.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 6, 2020, 12:31 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I did not climb this tempting ladder.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106498335_1342621239257192_1861229148692289151_n_17851760108123683.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106498335_1342621239257192_1861229148692289151_n_17851760108123683.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_i_did_not_climb_this_tempting_ladder.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_07_i_did_not_climb_this_tempting_ladder.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 6, 2020, 11:37 AM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Thank you for helping me stop to enjoy the flowers</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106707236_908907482924546_2909882843802996519_n_17894500882543289.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106707236_908907482924546_2909882843802996519_n_17894500882543289.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_thank_you_for_helping_me_stop_to_enjoy_the_flowers.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_thank_you_for_helping_me_stop_to_enjoy_the_flowers.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 3, 2020, 1:00 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Standing in playground puddle</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107042431_706237340219931_2207903283619293460_n_17892637054538320.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/107042431_706237340219931_2207903283619293460_n_17892637054538320.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_standing_in_playground_puddle.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_standing_in_playground_puddle.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 3, 2020, 12:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Standing on playground monkey bars</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106186280_171921597665941_1505880824141894996_n_17850513623129536.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106186280_171921597665941_1505880824141894996_n_17850513623129536.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_standing_on_playground_monkey_bars.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_standing_on_playground_monkey_bars.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 3, 2020, 12:46 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Snail with stripes 🐌</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106489433_127186512369272_6778235150064420552_n_18121988035112390.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106489433_127186512369272_6778235150064420552_n_18121988035112390.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_snail_with_stripes.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_snail_with_stripes.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 3, 2020, 12:43 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Three triple insulators</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106218952_625650784707399_8952598255087183479_n_17870983246796988.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106218952_625650784707399_8952598255087183479_n_17870983246796988.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_three_triple_insulators.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_three_triple_insulators.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 3, 2020, 12:41 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">The top of this wall is right at ground level on the side.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106224790_584466142489577_7784281731030913100_n_17868233665874679.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106224790_584466142489577_7784281731030913100_n_17868233665874679.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_the_top_of_this_wall_is_right_at_ground_level_on_the_side.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_04_the_top_of_this_wall_is_right_at_ground_level_on_the_side.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 3, 2020, 12:37 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I counted a total of 102 steps</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106346741_319309635761838_3345410786705367415_n_18140514289066474.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106346741_319309635761838_3345410786705367415_n_18140514289066474.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_i_counted_a_total_of_102_steps.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_i_counted_a_total_of_102_steps.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 1:15 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Firefighting stairs</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106700443_108013320884639_5065591379830582749_n_18124947724103840.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106700443_108013320884639_5065591379830582749_n_18124947724103840.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106414553_606576639974160_7368861531260001377_n_17880173314679234.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106414553_606576639974160_7368861531260001377_n_17880173314679234.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_firefighting_stairs.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_firefighting_stairs.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_firefighting_river_water_mural.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_firefighting_river_water_mural.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Jul 2, 2020, 1:02 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Water feature</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106236350_964029704018441_8507214570451582885_n_18106910989183786.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106236350_964029704018441_8507214570451582885_n_18106910989183786.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_water_feature.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_water_feature.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 12:56 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">sacred botanical geometry</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106496801_1171165643239512_5737108380402055931_n_17867186215866099.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106496801_1171165643239512_5737108380402055931_n_17867186215866099.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_sacred_botanical_geometry.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_sacred_botanical_geometry.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 12:42 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Romance Car coming soon to a crossing near me</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106462845_274528523818507_6742392955177697653_n_17852184545104818.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106462845_274528523818507_6742392955177697653_n_17852184545104818.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_romance_car_coming_soon_to_a_crossing_near_me.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_romance_car_coming_soon_to_a_crossing_near_me.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 12:39 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Tokyo</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106210196_365560081081523_6183782610190408976_n_17926307812405089.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106210196_365560081081523_6183782610190408976_n_17926307812405089.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_tokyo.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_tokyo.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 12:23 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Random scaffolding</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106043546_594161911233465_6379074204788491365_n_17870645806838523.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106043546_594161911233465_6379074204788491365_n_17870645806838523.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_random_scaffolding.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_random_scaffolding.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 12:21 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Where the sidewalk recently got cracked by heavy equipment.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106501250_265379071420631_6076585581579872443_n_18120999034113330.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106501250_265379071420631_6076585581579872443_n_18120999034113330.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_where_the_sidewalk_recently_got_cracked_by_heavy_equipment.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_03_where_the_sidewalk_recently_got_cracked_by_heavy_equipment.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 2, 2020, 12:07 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Where the staircase ends</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/73527661_269508684129510_1447463877168404310_n_17850650693149882.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/73527661_269508684129510_1447463877168404310_n_17850650693149882.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_where_the_staircase_ends.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_where_the_staircase_ends.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 1, 2020, 2:06 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Is that a No Entry sign in the left? The lane looks fine to me, even around the corner.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106053795_3053599521420334_1675846548205324477_n_18042091855252571.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106053795_3053599521420334_1675846548205324477_n_18042091855252571.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_is_that_a_no_entry_sign_in_the_left_the_lane_looks_fine_to_m.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_is_that_a_no_entry_sign_in_the_left_the_lane_looks_fine_to_m.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 1, 2020, 2:00 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Hello random house, it looks like you have met your match. Thank you for your service while you were here.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106129627_167870258045806_7362027045897396380_n_17847771554181310.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106129627_167870258045806_7362027045897396380_n_17847771554181310.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_hello_random_house_it_looks_like_you_have_met_your_match_tha.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_hello_random_house_it_looks_like_you_have_met_your_match_tha.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 1, 2020, 1:56 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">What&#039;s this? I&#039;ve never seen flags like that on a shrine / temple.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106036949_2919865434907177_8994952462429841185_n_17843662190253556.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202007/106036949_2919865434907177_8994952462429841185_n_17843662190253556.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_what_s_this_i_ve_never_seen_flags_like_that_on_a_shrine_temp.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_02_what_s_this_i_ve_never_seen_flags_like_that_on_a_shrine_temp.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jul 1, 2020, 1:53 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Someone was here!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/77374653_765184194220395_746142631370503423_n_17862578521925941.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/77374653_765184194220395_746142631370503423_n_17862578521925941.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_someone_was_here.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_someone_was_here.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 30, 2020, 2:12 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Coming soon: mud</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106264880_599045544149629_4761870801724584812_n_17856353735069030.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106264880_599045544149629_4761870801724584812_n_17856353735069030.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_coming_soon_mud.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_coming_soon_mud.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 30, 2020, 2:09 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106023757_110406203934104_9095539032320376191_n_17906440468475415.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106023757_110406203934104_9095539032320376191_n_17906440468475415.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_leaf_covered_forest_path.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_leaf_covered_forest_path.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 30, 2020, 1:35 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">How does the driver get out?</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106139426_1474830842688310_3240582708645716769_n_17847773093193023.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106139426_1474830842688310_3240582708645716769_n_17847773093193023.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_how_does_the_driver_get_out.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jul_01_how_does_the_driver_get_out.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 30, 2020, 1:31 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Today is the first day that I have walked to Yomiuriland.<br><br>I plan to walk here on the afternoon of April 13th 2021 as my first stop on the way to Niigata.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106004244_632789017586481_1210905842661148879_n_17942493256365592.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106004244_632789017586481_1210905842661148879_n_17942493256365592.jpg" class="_2yuc _3-96" /></a>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_30_today_is_the_first_day_that_i_have_walked_to_yomiuriland_i_p.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_30_today_is_the_first_day_that_i_have_walked_to_yomiuriland_i_p.jpg" class="_2yuc _3-96" /></a>
       <table class="uiGrid _51mz _21op" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <tbody>
           <tr class="_51mx">
@@ -2405,12 +2405,12 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I hope this wall means the trees will be protected... They&#039;re doing construction nearby.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106067981_397858124503989_1345965114827863597_n_17844003575261499.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106067981_397858124503989_1345965114827863597_n_17844003575261499.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_30_i_hope_this_wall_means_the_trees_will_be_protected_they_re_d.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_30_i_hope_this_wall_means_the_trees_will_be_protected_they_re_d.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 29, 2020, 12:28 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I think the guy said this is a ひる</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/82906862_631659697699920_8394324569507521067_n_17880999796661293.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/82906862_631659697699920_8394324569507521067_n_17880999796661293.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_30_i_think_the_guy_said_this_is_a.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_30_i_think_the_guy_said_this_is_a.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 29, 2020, 12:26 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -2422,47 +2422,47 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Wow long worm</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106473040_178761116934563_218302789828965878_n_17876781445722070.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106473040_178761116934563_218302789828965878_n_17876781445722070.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_29_wow_long_worm.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_29_wow_long_worm.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 28, 2020, 2:05 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">They poured the concrete</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105967815_681207059096664_5371685108687791410_n_17890057519565112.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105967815_681207059096664_5371685108687791410_n_17890057519565112.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_28_they_poured_the_concrete.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_28_they_poured_the_concrete.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 27, 2020, 8:39 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Water and slug</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/83458398_716225009205696_3299152709660374853_n_17868609130856354.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/83458398_716225009205696_3299152709660374853_n_17868609130856354.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_28_water_and_slug.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_28_water_and_slug.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 27, 2020, 8:28 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Curiously, there is no rebar in the concrete mold for the outer wall of this house.. I don&#039;t think rebar is something they would forget to add so I wonder why it was designed that way.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106478930_266271774458812_6336483611687127989_n_18149446771049316.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106478930_266271774458812_6336483611687127989_n_18149446771049316.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_curiously_there_is_no_rebar_in_the_concrete_mold_for_the_out.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_curiously_there_is_no_rebar_in_the_concrete_mold_for_the_out.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 26, 2020, 2:35 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Water flowing... Either a natural spring or a water leak! 🤔</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105402327_168381341368277_7332848488169060746_n_18060245248230491.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105402327_168381341368277_7332848488169060746_n_18060245248230491.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_water_flowing_either_a_natural_spring_or_a_water_leak.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_water_flowing_either_a_natural_spring_or_a_water_leak.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 26, 2020, 2:10 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Soft squishy bamboo leafy mud</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105964759_643819766207512_8721599480532644636_n_17889873610559927.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105964759_643819766207512_8721599480532644636_n_17889873610559927.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_soft_squishy_bamboo_leafy_mud.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_soft_squishy_bamboo_leafy_mud.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 26, 2020, 2:04 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106271222_311207866707444_6516478169599794665_n_18113133838141002.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106271222_311207866707444_6516478169599794665_n_18113133838141002.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_tall_bamboo_grove.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_tall_bamboo_grove.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 26, 2020, 2:00 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105938744_142814467397665_7594894378023044051_n_17849097710166326.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/105938744_142814467397665_7594894378023044051_n_17849097710166326.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_seedling_trays_on_hillside.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_seedling_trays_on_hillside.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 26, 2020, 1:59 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106244575_323293918663145_1998118109144915131_n_18104547031156330.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202006/106244575_323293918663145_1998118109144915131_n_18104547031156330.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_plastic_trays_on_hillside.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_jun_27_plastic_trays_on_hillside.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Jun 26, 2020, 1:58 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -3268,167 +3268,167 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Good Night, Moon</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/133695675_147310476956446_8218021371686123970_n_18180567547035489.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/133695675_147310476956446_8218021371686123970_n_18180567547035489.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_29_good_night_moon.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_29_good_night_moon.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 28, 2020, 12:22 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Yomiuriland</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/132677230_217459129917782_4986645163257287252_n_17887644385882190.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/132677230_217459129917782_4986645163257287252_n_17887644385882190.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_26_yomiuriland.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_26_yomiuriland.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 26, 2020, 2:21 AM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/133541151_404089800840212_2868759717334282311_n_17865467240248858.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/133541151_404089800840212_2868759717334282311_n_17865467240248858.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_26_machida_kingfisher_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_26_machida_kingfisher_manhole_cover.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 25, 2020, 7:01 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">After workout in Yoyogi Park!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/132207640_1455200648204605_7129306097589524517_n_18089331121219317.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/132207640_1455200648204605_7129306097589524517_n_18089331121219317.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_23_after_workout_in_yoyogi_park.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_23_after_workout_in_yoyogi_park.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 22, 2020, 4:04 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">The weather&#039;s freezing but at least it&#039;s clear.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/132004973_188323709687621_2652088100719128579_n_18082104238243094.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/132004973_188323709687621_2652088100719128579_n_18082104238243094.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_20_the_weather_s_freezing_but_at_least_it_s_clear.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_20_the_weather_s_freezing_but_at_least_it_s_clear.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 19, 2020, 1:55 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Chilly dew on the stairs</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/131334995_210462563951001_344219369544433177_n_18116806612196468.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/131334995_210462563951001_344219369544433177_n_18116806612196468.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_14_chilly_dew_on_the_stairs.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_14_chilly_dew_on_the_stairs.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 13, 2020, 1:26 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I made it to Yomiuriland before dawn #thankswinter</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/130109209_683005615744597_2211358105496002853_n_18175176442050918.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/130109209_683005615744597_2211358105496002853_n_18175176442050918.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_09_i_made_it_to_yomiuriland_before_dawn_thankswinter.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_09_i_made_it_to_yomiuriland_before_dawn_thankswinter.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 8, 2020, 1:13 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">The official best sock if you can&#039;t be barefoot. (Thanks &#064;remy.ni.kikeba !!)</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/129497587_864517860986498_4417041067574543839_n_17875528232028383.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202012/129497587_864517860986498_4417041067574543839_n_17875528232028383.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_06_the_official_best_sock_if_you_can_t_be_barefoot_thanks_remy.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_dec_06_the_official_best_sock_if_you_can_t_be_barefoot_thanks_remy.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Dec 5, 2020, 7:32 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">watching the installation of new sidewalk in Kawasaki</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/127333849_370109000979758_1742898131956820372_n_17910119479546331.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/127333849_370109000979758_1742898131956820372_n_17910119479546331.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_25_watching_the_installation_of_new_sidewalk_in_kawasaki.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_25_watching_the_installation_of_new_sidewalk_in_kawasaki.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 25, 2020, 4:55 AM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Climbing temptation</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/124295201_216519096558477_3421558781199859414_n_17865460262159042.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/124295201_216519096558477_3421558781199859414_n_17865460262159042.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_11_climbing_temptation.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_11_climbing_temptation.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 10, 2020, 7:49 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Nice color palette</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/124125495_385156066161312_4671815351485271452_n_17846875859404531.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/124125495_385156066161312_4671815351485271452_n_17846875859404531.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_10_nice_color_palette.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_10_nice_color_palette.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 9, 2020, 2:05 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">edge of road is sagging</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/124417252_364485068153145_1190555064304552304_n_18092232658206355.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/124417252_364485068153145_1190555064304552304_n_18092232658206355.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_10_edge_of_road_is_sagging.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_10_edge_of_road_is_sagging.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 9, 2020, 1:56 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Success!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123324181_361317405188750_3029971772132528973_n_18142013062102938.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123324181_361317405188750_3029971772132528973_n_18142013062102938.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_success.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_success.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 11:25 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Nearby is an abandoned staircase.</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123606939_1794958274000853_295586819120429162_n_18042591844273610.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123606939_1794958274000853_295586819120429162_n_18042591844273610.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123546092_982250402282416_7597692630170176328_n_17856437855318240.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123546092_982250402282416_7597692630170176328_n_17856437855318240.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123585401_2752601558335534_3288635578433038369_n_17884502728830050.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123585401_2752601558335534_3288635578433038369_n_17884502728830050.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_nearby_is_an_abandoned_staircase.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_nearby_is_an_abandoned_staircase.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_abandoned_staircase_louvered_view.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_abandoned_staircase_louvered_view.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_louvered_pedestrian_bridge.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_louvered_pedestrian_bridge.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Nov 3, 2020, 9:09 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">I guess this is a training tower.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123380082_363645821559909_4410971154270936960_n_18076549594224436.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123380082_363645821559909_4410971154270936960_n_18076549594224436.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_i_guess_this_is_a_training_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_i_guess_this_is_a_training_tower.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 8:56 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Cool! I&#039;ve been here before. I made it to the Tokyu Toyoko Line train parking area between Hiyoshi and Motosumiyoshi.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123611392_217950292996499_8336576838480447182_n_17872151843051989.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123611392_217950292996499_8336576838480447182_n_17872151843051989.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_cool_i_ve_been_here_before_i_made_it_to_the_tokyu_toyoko_lin.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_cool_i_ve_been_here_before_i_made_it_to_the_tokyu_toyoko_lin.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 8:11 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Scrap metal jackpot!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123634623_2837427629818378_8828851123060225324_n_17942158045397521.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123634623_2837427629818378_8828851123060225324_n_17942158045397521.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_scrap_metal_jackpot.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_scrap_metal_jackpot.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 7:18 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Leg Magic apparently wasn&#039;t magic.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123497653_148134257004394_6370888177626863289_n_17875803610966941.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123497653_148134257004394_6370888177626863289_n_17875803610966941.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_leg_magic_apparently_wasn_t_magic.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_leg_magic_apparently_wasn_t_magic.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 7:04 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">These look like thin coin slots for rainwater.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123599939_194039565616825_24503473917639154_n_17894400256642287.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123599939_194039565616825_24503473917639154_n_17894400256642287.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_these_look_like_thin_coin_slots_for_rainwater.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_these_look_like_thin_coin_slots_for_rainwater.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 6:47 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123488024_1242257156131644_971412152401483143_n_18170214613025813.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123488024_1242257156131644_971412152401483143_n_18170214613025813.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_tokyo_shoes_retailing_center.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_tokyo_shoes_retailing_center.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 6:47 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123392777_1285584435133740_9154877118718070666_n_17881821304878891.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123392777_1285584435133740_9154877118718070666_n_17881821304878891.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_bracket_fungus_on_a_stump.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_bracket_fungus_on_a_stump.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 6:22 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Nine seats along the sidewalk</div>
     <div class="_3-95 _2let">
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123138842_695082314752543_3977518466650233116_n_17908188520534927.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123138842_695082314752543_3977518466650233116_n_17908188520534927.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123483959_3799891880056017_9172069385430747249_n_18123077533180214.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123483959_3799891880056017_9172069385430747249_n_18123077533180214.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123279321_382972879521225_1941944997320673191_n_17899556116614879.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123279321_382972879521225_1941944997320673191_n_17899556116614879.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123331328_684199415866018_530089071181043799_n_17844489674470275.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123331328_684199415866018_530089071181043799_n_17844489674470275.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123385868_1210532609347343_2352844325526331837_n_17847907805420597.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123385868_1210532609347343_2352844325526331837_n_17847907805420597.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123329970_350812652680216_7656700909101344347_n_17902925206583481.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123329970_350812652680216_7656700909101344347_n_17902925206583481.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123568312_698021660845610_4559750642809705919_n_18051492607271927.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123568312_698021660845610_4559750642809705919_n_18051492607271927.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123410734_662895321254503_5591120647900135373_n_17878983289886230.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123410734_662895321254503_5591120647900135373_n_17878983289886230.jpg" class="_2yuc _3-96" /></a></div>
-      <div><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123516128_818487222327776_7393206429786537119_n_17876025445897340.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123516128_818487222327776_7393206429786537119_n_17876025445897340.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_nine_seats_along_the_sidewalk.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_nine_seats_along_the_sidewalk.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_chatsumi_tea_picking_song_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_chatsumi_tea_picking_song_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_ocharaka_clapping_game_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_ocharaka_clapping_game_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_nabenabe_game_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_nabenabe_game_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_genkotsuyama_tanuki_song_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_genkotsuyama_tanuki_song_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_antagata_dokosa_song_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_antagata_dokosa_song_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_agarime_sagarime_song_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_agarime_sagarime_song_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_osara_janaiyo_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_osara_janaiyo_plaque.jpg" class="_2yuc _3-96" /></a></div>
+      <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_shima_oshikura_game_plaque.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_shima_oshikura_game_plaque.jpg" class="_2yuc _3-96" /></a></div>
     </div>
     <div class="post_date_usa">Nov 3, 2020, 5:35 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123295356_1653897024808478_2686686220988634775_n_17901557662604459.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123295356_1653897024808478_2686686220988634775_n_17901557662604459.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_barefoot_outside_the_shoe_store.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_barefoot_outside_the_shoe_store.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 5:03 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Broken plastic from brake lights</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123257122_3488618901203495_3760896544340424394_n_17856086372278381.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123257122_3488618901203495_3760896544340424394_n_17856086372278381.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_broken_plastic_from_brake_lights.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_broken_plastic_from_brake_lights.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 4:50 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">がんばります！</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123523321_2731327037140926_6594380324352429760_n_17894467456663930.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123523321_2731327037140926_6594380324352429760_n_17894467456663930.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_walking_to_work_21km_barefoot.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_04_walking_to_work_21km_barefoot.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 3, 2020, 4:19 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Welcome!</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123299883_660841771458794_3001374616004876104_n_17881822777873486.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123299883_660841771458794_3001374616004876104_n_17881822777873486.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_03_welcome.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_03_welcome.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 2, 2020, 1:53 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123178812_412738149717733_2357153785131508933_n_17888520157754743.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202011/123178812_412738149717733_2357153785131508933_n_17888520157754743.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_02_barefoot_in_blooming_abelia.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_nov_02_barefoot_in_blooming_abelia.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Nov 1, 2020, 2:21 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">This is the first time I&#039;ve seen a s
       machine like this. It looks like a cross between a walking lawn mower and a concrete mixer.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/123368731_389512428847529_9129316647871139010_n_18057439111248436.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/123368731_389512428847529_9129316647871139010_n_18057439111248436.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_31_this_is_the_first_time_i_ve_seen_a_s_machine_like_this_it_lo.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_31_this_is_the_first_time_i_ve_seen_a_s_machine_like_this_it_lo.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 30, 2020, 2:08 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Temporary barrier is temporary</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/123139599_128425005406261_425098900781296565_n_17893030759689921.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/123139599_128425005406261_425098900781296565_n_17893030759689921.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_30_temporary_barrier_is_temporary.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_30_temporary_barrier_is_temporary.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 29, 2020, 10:22 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Four surfaces</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/123030002_112073887361613_1413570735687246194_n_17901054079603833.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/123030002_112073887361613_1413570735687246194_n_17901054079603833.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_30_four_surfaces.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_30_four_surfaces.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 29, 2020, 9:59 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
@@ -3440,37 +3440,37 @@ draft: false
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text"></div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122075593_809283936488039_8340434698476329969_n_17941509298396629.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122075593_809283936488039_8340434698476329969_n_17941509298396629.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_22_feet_over_the_leafy_stream.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_22_feet_over_the_leafy_stream.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 21, 2020, 11:11 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Photobombed by Mount Fuji</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121725113_341979667110473_3517442304178854731_n_17899863826605944.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121725113_341979667110473_3517442304178854731_n_17899863826605944.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_photobombed_by_mount_fuji.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_photobombed_by_mount_fuji.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 1:38 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">#treeseatingthings</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122226410_351509932772618_9053818872006221320_n_17866856102099477.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122226410_351509932772618_9053818872006221320_n_17866856102099477.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_treeseatingthings.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_treeseatingthings.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 1:11 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">We need a taller fence.</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121582820_374741760313445_3282804271216998873_n_17854935854271032.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/121582820_374741760313445_3282804271216998873_n_17854935854271032.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_we_need_a_taller_fence.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_we_need_a_taller_fence.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 1:09 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Veiled radio tower</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122012251_120102806538972_2083004662085264558_n_17860436381196271.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122012251_120102806538972_2083004662085264558_n_17860436381196271.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_veiled_radio_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_veiled_radio_tower.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 1:01 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">Tree dressed like a ghost for Halloween</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122021654_387090362698263_4334131963207487717_n_17891704255687898.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122021654_387090362698263_4334131963207487717_n_17891704255687898.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_tree_dressed_like_a_ghost_for_halloween.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_tree_dressed_like_a_ghost_for_halloween.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 1:00 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">
     <div class="title_text">New V</div>
-    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122084204_344454156617575_8785206217800637609_n_18130879453120581.jpg"><img src="https://b.robnugen.com/adaptive-images/ig_cache_2022_jan_17/posts/202010/122084204_344454156617575_8785206217800637609_n_18130879453120581.jpg" class="_2yuc _3-96" /></a></div>
+    <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_new_v.jpg"><img src="https://b.robnugen.com/books/slow-down/2020/daily/2020_oct_20_new_v.jpg" class="_2yuc _3-96" /></a></div>
     <div class="post_date_usa">Oct 19, 2020, 12:56 PM</div>
   </div>
   <div class="image_start uiBoxWhite noborder">

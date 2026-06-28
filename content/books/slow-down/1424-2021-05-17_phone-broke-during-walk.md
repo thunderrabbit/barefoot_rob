@@ -15,33 +15,33 @@ draft: false
 ---
 
 <img
-src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-pinoy-filipino-pub-street-corner.jpg"
+src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_pinoy_filipino_pub_street_corner.jpg"
 alt=""
 class="title" />
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Tunnel under a small power tower</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-tunnel-under-a-small-power-tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-tunnel-under-a-small-power-tower.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_tunnel_under_a_small_power_tower.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_tunnel_under_a_small_power_tower.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 24 12:02:34</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Texas T-bone</div>
   <div class="_3-95 _2let">
-    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-pinoy-filipino-pub-street-corner.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-pinoy-filipino-pub-street-corner.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-texas-t-bone-steak-restaurant.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-texas-t-bone-steak-restaurant.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_pinoy_filipino_pub_street_corner.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_pinoy_filipino_pub_street_corner.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_texas_t_bone_steak_restaurant.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_texas_t_bone_steak_restaurant.jpg" class="_2yuc _3-96" /></a></div>
   </div>
   <div class="date_taken_local">2021 apr 24 09:34:02</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text"></div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-open-manhole-with-cover-lifted.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-open-manhole-with-cover-lifted.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_open_manhole_with_cover_lifted.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_open_manhole_with_cover_lifted.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 24 09:11:11</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text"></div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-rose-design-osui-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021-apr-24-rose-design-osui-manhole-cover.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_rose_design_osui_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-09-phone-broke-during-walk/2021_apr_24_rose_design_osui_manhole_cover.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 24 09:08:30</div>
 </div>

@@ -45,7 +45,7 @@ Four stages of adaptation to new challenge (as offered by Jason when he gave me 
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François on a pedestal</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-francois-on-a-pedestal.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-francois-on-a-pedestal.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_francois_on_a_pedestal.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_francois_on_a_pedestal.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 08:45:46</div>
 </div>
@@ -160,33 +160,33 @@ I felt bad that I assumed no one here would know I had said otherwise.
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François on the rocks</div>
   <div class="_3-95 _2let">
-    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-francois-on-the-osawa-unso-rocks.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-francois-on-the-osawa-unso-rocks.jpg" class="_2yuc _3-96" /></a></div>
-    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-francois-on-the-rocks.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-francois-on-the-rocks.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_francois_on_the_osawa_unso_rocks.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_francois_on_the_osawa_unso_rocks.jpg" class="_2yuc _3-96" /></a></div>
+    <div><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_francois_on_the_rocks.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_francois_on_the_rocks.jpg" class="_2yuc _3-96" /></a></div>
   </div>
   <div class="date_taken_local">2021 apr 21 08:50:46</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">I was able to recognize the last two kanji</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-i-was-able-to-recognize-the-last-two-kanji.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-i-was-able-to-recognize-the-last-two-kanji.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_i_was_able_to_recognize_the_last_two_kanji.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_i_was_able_to_recognize_the_last_two_kanji.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 09:07:37</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">I wonder if it&#039;s one of these guys&#039; thorns that I stepped on..</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-i-wonder-if-it-s-one-of-these-guys-thorns-that-i-stepped-on.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-i-wonder-if-it-s-one-of-these-guys-thorns-that-i-stepped-on.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_i_wonder_if_it_s_one_of_these_guys_thorns_that_i_stepped_on.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_i_wonder_if_it_s_one_of_these_guys_thorns_that_i_stepped_on.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 09:17:16</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Yet another cute manhole cover
     滑川</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-yet-another-cute-manhole-cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-yet-another-cute-manhole-cover.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_yet_another_cute_manhole_cover.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_yet_another_cute_manhole_cover.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 09:41:10</div>
 </div>
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Poetry, Maybe</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-poetry-maybe.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021-apr-21-poetry-maybe.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_poetry_maybe.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-06-long-walk-along-highways/2021_apr_21_poetry_maybe.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 21 11:36:46</div>
 </div>

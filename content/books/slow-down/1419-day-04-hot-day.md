@@ -75,7 +75,7 @@ highway on their way home from school.
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">With two courageous kids</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021-apr-19-with-two-courageous-kids.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021-apr-19-with-two-courageous-kids.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_with_two_courageous_kids.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_with_two_courageous_kids.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 19 15:14:06</div>
 </div>
@@ -124,7 +124,7 @@ Thank you for the lovey support!
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">François at a tunnel</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021-apr-19-francois-at-a-tunnel.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021-apr-19-francois-at-a-tunnel.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_francois_at_a_tunnel.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_francois_at_a_tunnel.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 19 14:30:13</div>
 </div>
@@ -137,7 +137,7 @@ That led me to where I saw a crane under a bridge
 
 <div class="image_start uiBoxWhite noborder">
   <div class="title_text">Crane</div>
-  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021-apr-19-heron-under-the-steel-bridge.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021-apr-19-heron-under-the-steel-bridge.jpg" class="_2yuc _3-96" /></a>
+  <div class="_3-95 _2let"><a target="_blank" href="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_heron_under_the_steel_bridge.jpg"><img src="https://b.robnugen.com/books/slow-down/2021/day-04-hot-day/2021_apr_19_heron_under_the_steel_bridge.jpg" class="_2yuc _3-96" /></a>
   </div>
   <div class="date_taken_local">2021 apr 19 14:49:50</div>
 </div>
