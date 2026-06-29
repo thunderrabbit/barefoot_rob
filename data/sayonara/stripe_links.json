@@ -101,6 +101,15 @@
       "product_id" : "prod_UmUq31DU1TLnXJ",
       "quantity" : 1
    },
+   "nin-ghosts-i-iv-multi-format-collection" : {
+      "amount_jpy" : 15500,
+      "buy_url" : "https://buy.stripe.com/28E1442C9a4L7kIaZr2sM0K",
+      "mode" : "live",
+      "payment_link" : "plink_0TnYsv2pYT1oPdidpvOwCguN",
+      "price_id" : "price_0TnYsv2pYT1oPdid97rpSLDJ",
+      "product_id" : "prod_Un9BvJqEBMKto9",
+      "quantity" : 1
+   },
    "no-exhaust-johnsons-motorcar" : {
       "amount_jpy" : 500,
       "buy_url" : "https://buy.stripe.com/5kQ0002C9gt90Wk9Vn2sM0B",
@@ -242,6 +251,15 @@
       "payment_link" : "plink_0Tmvrl2pYT1oPdidsQWBKciY",
       "price_id" : "price_0Tmvrk2pYT1oPdidPfnAnojS",
       "product_id" : "prod_UmUrGD3CccVolK",
+      "quantity" : 1
+   },
+   "wire-cutters-and-pliers-set" : {
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/7sYeUU5Ola4L6gEd7z2sM0L",
+      "mode" : "live",
+      "payment_link" : "plink_0TnYsy2pYT1oPdidXrJ6yDE8",
+      "price_id" : "price_0TnYsx2pYT1oPdidvJux8KLQ",
+      "product_id" : "prod_Un9BXSqEwLD6hK",
       "quantity" : 1
    },
    "world-banknote-lot" : {
