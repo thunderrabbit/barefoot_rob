@@ -15,6 +15,15 @@
       "price_id" : "price_0TmA452pYT1oPdidfQQ89tlT",
       "product_id" : "prod_UlhTnorXLb9qVH"
    },
+   "asus-external-dvd-drive" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/bJe3cc7Wta4LeNa4B32sM0M",
+      "mode" : "live",
+      "payment_link" : "plink_0TndCO2pYT1oPdidEK2XL2Am",
+      "price_id" : "price_0TndCO2pYT1oPdidEDIKgpRa",
+      "product_id" : "prod_UnDdl7RlakE2sw",
+      "quantity" : 1
+   },
    "biolite-weatherproof-camp-light-and-charger" : {
       "amount_jpy" : 4000,
       "buy_url" : "https://buy.stripe.com/8x2144a4Ba4LdJ6c3v2sM0l",

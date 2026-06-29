@@ -1,0 +1,20 @@
+{
+    "slug": "asus-external-dvd-drive",
+    "name": "ASUS external DVD drive",
+    "category": "computer",
+    "tier": "",
+    "mechanism": "",
+    "event": "",
+    "images": [
+        "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-front_1000.jpg",
+        "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-cables_1000.jpg",
+        "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-label_1000.jpg",
+        "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-detail_1000.jpg"
+    ],
+    "thumb": "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/thumbs/2026-jun-29-asus-external-dvd-drive-front.jpg",
+    "price_jpy": 1500,
+    "quantity": 1,
+    "sold": false,
+    "captured": "2026-06-29T20:17:03+09:00",
+    "description": "Black ASUS external DVD-RW drive (model SDRW-08D2S-U) manufactured October 2020 with USB cable connection."
+}
