@@ -9,7 +9,6 @@ event: ""
 pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-front_1000.jpg"
-  - "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-cables_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-label_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/2026-jun-29-asus-external-dvd-drive-detail_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/computer/asus_external_dvd_drive/thumbs/2026-jun-29-asus-external-dvd-drive-front.jpg"

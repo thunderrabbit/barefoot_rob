@@ -119,6 +119,24 @@
       "product_id" : "prod_Un9BvJqEBMKto9",
       "quantity" : 1
    },
+   "nine-inch-nails-halo-fourteen-deluxe-cd" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/5kQ1446Sp90H34sgjL2sM0N",
+      "mode" : "live",
+      "payment_link" : "plink_0Tnh7P2pYT1oPdidIur91k55",
+      "price_id" : "price_0Tnh7O2pYT1oPdidzldkLBOx",
+      "product_id" : "prod_UnHgb2fEC88CMu",
+      "quantity" : 1
+   },
+   "nine-inch-nails-self-destruction-men-cd" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/7sYcMMfoVel148w5F72sM0O",
+      "mode" : "live",
+      "payment_link" : "plink_0Tnh7Q2pYT1oPdid35MFP7kB",
+      "price_id" : "price_0Tnh7Q2pYT1oPdidKNBiuXDP",
+      "product_id" : "prod_UnHg4APXwIewrA",
+      "quantity" : 1
+   },
    "no-exhaust-johnsons-motorcar" : {
       "amount_jpy" : 500,
       "buy_url" : "https://buy.stripe.com/5kQ0002C9gt90Wk9Vn2sM0B",
