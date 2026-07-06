@@ -26,3 +26,6 @@ You can connect with me on
     BOOK A DISCOVERY CALL
 </a>
 </li>
+
+<!-- No Lead Lost widget -->
+<script src="https://noleadlost.com/widget/widget.js" data-nll-id="42e513be-9f84-44a0-8ab2-99a0827f9426" defer></script>
