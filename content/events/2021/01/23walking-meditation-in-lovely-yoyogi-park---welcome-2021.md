@@ -41,7 +41,7 @@ Thank you chilly sprinkle for staying above freezing so no one slipped!
 ## NEW LOCATION: YOYOGI PARK
 
 <img
-src="//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg"
+src="//b.robnugen.com/journal/2021/2021_jan_23_walking_meditation/2021_jan_23_walking_meditation_barefoot_adrien_rob_ayako_max_jon_honorary.jpg"
 alt="barefoot: Adrien, Rob, Ayako, Max.  Honorary barefoot: Jon.  photo by Amaru"
 class="title" />
 
