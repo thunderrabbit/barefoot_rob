@@ -25,7 +25,7 @@ space holding and circle work.
 </p>
 
 <p>
-I am a TedX speaker, barefoot walker for over 20 years,
+I am a <a href="https://www.youtube.com/watch?v=LJzb5n9ldP8">TedX speaker</a>, barefoot walker for over 20 years,
 trained and run men circles with ManKind Project since 2015.
 I made a powerful decision to release myself from a 12 year
 marriage that had become untenable.  Now I'm with my dream woman
