@@ -13,9 +13,7 @@ my first interview about walking to Niigata!
 
 https://www.instagram.com/tv/CI5slpohlYL/
 
-<video width="270" height="480" controls>
-<source src="//b.robnugen.com/blog/2020/2020_dec_17_jason_interviewed_me.mp4" type="video/mp4">
-</video>
+{{< youtube KapwxgGJWFk >}}
 
 Starting April 13th 2021, I plan to walk from my house in [Kawasaki to
 Niigata station, 300 kilometers away](https://www.google.com/maps/d/viewer?mid=1ccCdmHbV1RTwKH9qKbBe531jRQ3Bsf2F&usp=sharing)!
