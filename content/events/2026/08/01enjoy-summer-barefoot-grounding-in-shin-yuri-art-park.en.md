@@ -2,7 +2,7 @@
 title: "Enjoy summer barefoot grounding in Shin Yuri Art Park!"
 tags: [ "2026", "Barefoot Rob", "art_park", "august", "barefoot", "event", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-07-10T19:57:59+09:00
+date: 2026-07-09T19:57:59+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "16:00"
 TimeDescription: "gather at 15:30; enter Shin Yuri Art Park at 16:00"

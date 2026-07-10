@@ -2,7 +2,7 @@
 title: "16時から新ゆりアートパークスで裸足でウォーキング"
 tags: [ "2026", "Barefoot Rob", "art_park", "august", "barefoot", "event", "walk", "はだし", "新百合ヶ丘駅", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-07-10T19:57:59+09:00
+date: 2026-07-09T19:57:59+09:00
 EventLocation: "Shin Yuri Art Park (near Shinyurigaoka)"
 EventTime: "16:00"
 TimeDescription: "新百合ヶ丘駅で15:30に集合、16:00に新ゆりアートパークス"
