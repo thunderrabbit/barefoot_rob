@@ -193,6 +193,9 @@ our %event_template_files = (
     "bold_life_tribe" => [
       "$event_templates/bold-life-tribe/weekly-online-events.en.md",
     ],
+    "mindful_sayonara" => [
+      "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.en.md",
+    ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
 
@@ -213,6 +216,7 @@ our %event_day_of_week = (
     "hikarie_to_foot_bath" => 6,
     "quest_update" => 3,
     "bold_life_tribe" => 1,
+    "mindful_sayonara" => 6,
 );
 
 our %event_primary_time = (
@@ -226,6 +230,7 @@ our %event_primary_time = (
     "shin_yuri_manpukuji_park" => "13:00",
     "hossawa_falls" => "13:00",
     "hikarie_to_foot_bath" => "13:00",
+    "mindful_sayonara" => "14:00",
 );
 
 our %gather_minutes_before_event = (
@@ -240,6 +245,7 @@ our %gather_minutes_before_event = (
     "hossawa_falls" => "30",
     "hikarie_to_foot_bath" => "15",
     "mindful_impact" => "5",
+    "mindful_sayonara" => "30",
 );
 
 our %event_locations = (
@@ -257,7 +263,8 @@ our %event_locations = (
     "mindful_impact" => "Mindful Impact (Crafers)",
     "yoga_study_center" => "Yoga Study Center (Yokohama)",
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
-    "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko"
+    "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko",
+    "mindful_sayonara" => "Impact HUB Tokyo (Meguro)",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -289,6 +296,7 @@ our %event_tag_hashes = (
     "yoyogi_park" => {%walk_and_talk_tags, ("yoyogi" => 1, "代々木公園" => 1)},
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
+    "mindful_sayonara" => {"sayonara" => 1, "letting go" => 1, "mottainai" => 1, "もったいない" => 1, "mathom" => 1, "workshop" => 1, "tea" => 1, "meguro" => 1, "impact-hub-tokyo" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
 );
 
 our %event_title_prefixes = (
