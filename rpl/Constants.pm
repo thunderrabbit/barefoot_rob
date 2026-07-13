@@ -3,6 +3,8 @@ package rpl::Constants;
 use strict;
 use DateTime;
 
+our $VERSION = "1.0.0";
+
 our $home = $ENV{HOME};    # https://stackoverflow.com/a/1451420/194309
 
 my $dt = DateTime->now();
