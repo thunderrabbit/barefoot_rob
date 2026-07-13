@@ -38,7 +38,7 @@ This is also an experimental workshop, drawing inspiration from Japanese もっ�
 
 Come with an open mind, an open backpack, and maybe take home something with a story attached.
 
-There's no obligation to take an item.  :-)  Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
+There's no obligation to take an item. 😉 Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
 
  *    *    *    *    *    *    *    *    *    *    *    *    *    *
 
