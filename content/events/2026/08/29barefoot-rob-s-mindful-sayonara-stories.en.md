@@ -1,20 +1,20 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Barefoot Rob's Mindful Sayonara Stories"
+tags: [ "2026", "Barefoot Rob", "august", "event", "impact-hub-tokyo", "letting go", "mathom", "meguro", "mottainai", "sayonara", "tea", "workshop", "もったいない", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION"
-EventTime: "EVENT_TIME"
-TimeDescription: "doors open at FIRST_GATHERING_TIME; meditation begins at EVENT_TIME"
-EventDate: "%sTEVENT_TIME:00+09:00"
+date: 2026-07-14T00:16:56+09:00
+EventLocation: "Impact HUB Tokyo (Meguro)"
+EventTime: "14:00"
+TimeDescription: "doors open at 13:30; meditation begins at 14:00"
+EventDate: "2026-08-29T14:00:00+09:00"
 EventType: "Mindful Sayonara"
 # aliases: [
-#     "/enalias_path",
+#     "/en/events/2026/08/29barefoot-rob-s-mindful-sayonara-stories",
 # ]
 
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-im-fine_1000.jpg" "2026-jun-24-im-fine 1000" %}}
 
 Enjoy afternoon tea in a heartful community, discussing things we hold dear and the practice of letting go.
 
@@ -24,7 +24,7 @@ This event will be an opportunity to reflect on the journeys we all take in life
 
  *    *    *    *    *    *    *    *    *    *    *    *    *    *
 
-The event will start at EVENT_TIME with a meditation to slow down into the present moment.
+The event will start at 14:00 with a meditation to slow down into the present moment.
 
 After the meditation, we'll explore how possessions become meaningful and why letting go may feel difficult. In small groups we'll reflect on beloved items and meanings they hold in our lives, and how letting go can open doors to new possibilities in life.
 
@@ -44,15 +44,15 @@ There's no obligation to take an item.  :-)  Whether or not you take something p
 
 #### The Afternoon
 
-* FIRST_GATHERING_TIME: Doors open - Arrive, welcome, order a drink, and settle in
-* EVENT_TIME: Meditation - A few minutes to feel grounded and present
+* 13:30: Doors open - Arrive, welcome, order a drink, and settle in
+* 14:00: Meditation - A few minutes to feel grounded and present
 * 14:05: Musings & small shares - On the things we hold, and how they hold us
 * 14:45: Rob's stories - Tales of some of the items
 * 15:35: Freestyle browse & farewell - Find new homes for beloved things
 
  *    *    *    *    *    *    *    *    *    *    *    *    *    *
 
-📅 HUMANDATE · FIRST_GATHERING_TIME–16:00
+📅 Saturday 29 August 2026 · 13:30–16:00
 
 #### Location
 
