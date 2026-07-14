@@ -2,7 +2,7 @@
 title: "Barefoot Rob's Mindful Sayonara Stories"
 tags: [ "2026", "Barefoot Rob", "august", "event", "impact-hub-tokyo", "letting go", "mathom", "meguro", "mottainai", "sayonara", "tea", "workshop", "もったいない", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-07-14T00:16:56+09:00
+date: 2026-07-14T12:51:58+09:00
 EventLocation: "Impact HUB Tokyo (Meguro)"
 EventTime: "14:00"
 TimeDescription: "doors open at 13:30; meditation begins at 14:00"
@@ -14,7 +14,7 @@ EventType: "Mindful Sayonara"
 
 ---
 
-{{% img-responsive "https://b.robnugen.com/home/tokyo/2026/p1/items/book/2026-jun-24-im-fine_1000.jpg" "2026-jun-24-im-fine 1000" %}}
+{{% img-responsive "https://b.robnugen.com/journal/2026/2026_jul_14_blue_cup_blue_whale_thai_lock_snoopy_glass_bali_box_clockerchief_nin_cds_1000.jpeg" "2026 jul 14 blue cup blue whale thai lock snoopy glass bali box clockerchief nin cds 1000" %}}
 
 Enjoy afternoon tea in a heartful community, discussing things we hold dear and the practice of letting go.
 
@@ -38,7 +38,7 @@ This is also an experimental workshop, drawing inspiration from Japanese もっ�
 
 Come with an open mind, an open backpack, and maybe take home something with a story attached.
 
-There's no obligation to take an item.  :-)  Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
+There's no obligation to take an item. 😉 Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
 
  *    *    *    *    *    *    *    *    *    *    *    *    *    *
 
