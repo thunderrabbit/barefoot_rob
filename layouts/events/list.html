@@ -15,8 +15,13 @@
               {{ end }}
           </ul>
           {{ end }}
+{{/* Build the ONLY paginator for this page — over past events. .Paginator and .Paginate
+     share one cached paginator, so this must run before any .Paginator access (guards below
+     and the pagination partials) or the past-events filter is silently ignored. */}}
+{{ $past_events := where .Pages ".Params.eventdate" "lt" (now.Format "2006-01-02T15:04:05-07:00") }}
+{{ $paginator := .Paginate (sort $past_events ".Params.eventdate" "desc") }}
 <!--  BEGIN mini list of upcoming events -->
-{{ if eq .Paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
+{{ if eq $paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
   <!-- A wrapper for all the future blog posts -->
   <h1>Upcoming Events</h1>
     {{ $future_events := where .Pages ".Params.eventdate" "ge" (now.Format "2006-01-02T15:04:05-07:00") }}
@@ -43,7 +48,7 @@
     </div>
 {{ end }} {{/* End only show upcoming events on page 1 of /events/ */}}
 <!--  END mini list of upcoming events -->
-          {{ if eq .Paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
+          {{ if eq $paginator.PageNumber 1 }} {{/* Only show upcoming events on page 1 of /events/ */}}
             <!-- A wrapper for all the future blog posts -->
             <h1>Upcoming Event Details</h1>
             <div class="posts">
@@ -80,10 +85,6 @@
           <h1>Past Events <div class="note">{{ partial "mini_pagination.html" . }}</div></h1>
 
           <div class="posts">
-              {{ $past_events := where .Pages ".Params.eventdate" "le" (now.Format "2006-01-02") }}
-
-              {{ $paginator := .Paginate $past_events }}
-
               {{ range sort $paginator.Pages ".Params.eventdate" "desc" }}
               <section class="post">
                   <header class="post-header">
