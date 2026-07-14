@@ -164,6 +164,15 @@
       "product_id" : "prod_UlfcTBuMPVC0hi",
       "sold" : true
    },
+   "peanuts-snoopy-glass-and-plate-set" : {
+      "amount_jpy" : 1000,
+      "buy_url" : "https://buy.stripe.com/28E000foVgt934s1oR2sM0P",
+      "mode" : "live",
+      "payment_link" : "plink_0Tsz8N2pYT1oPdidGjdfYtWb",
+      "price_id" : "price_0Tsz8N2pYT1oPdidX5VuvJRP",
+      "product_id" : "prod_Uskdw7OSLbFsSC",
+      "quantity" : 1
+   },
    "round-wooden-cutting-board" : {
       "amount_jpy" : 1000,
       "buy_url" : "https://buy.stripe.com/00w9AA1y50ub5cA7Nf2sM0C",
