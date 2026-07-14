@@ -1,0 +1,4 @@
+{{- /* Sayonara pickup event line. Renders nothing if params.sayonara_event is unset (retired). */ -}}
+{{- with site.Params.sayonara_event -}}
+<p class="sayonara-event">Or pick it up after <a href="{{ .url | relURL }}">{{ .title }}</a>, a mindful afternoon of tea and stories on {{ .date_label }} at {{ .venue }}. Buy it here first, then hear its story in {{ .area }} before taking it home.</p>
+{{- end -}}

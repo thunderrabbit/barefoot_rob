@@ -9,4 +9,5 @@
 {{- end -}}
 {{- if and (not .Params.sold) .Params.stripe_buy_url -}}
 <p class="sayonara-pickup"><em>Price does not include shipping.</em> Buyer coordinates pickup from Rob {{ if eq .Params.pickup "yurigaoka" }}at Yurigaoka during the week{{ else }}at Yurigaoka during the week, or Yoyogi Park on Sundays{{ end }}.</p>
+{{- if ne .Params.pickup "yurigaoka" }}{{ partial "sayonara-event.html" . }}{{ end -}}
 {{- end -}}
