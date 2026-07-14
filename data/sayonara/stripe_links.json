@@ -24,6 +24,15 @@
       "product_id" : "prod_UnDdl7RlakE2sw",
       "quantity" : 1
    },
+   "beaded-blue-whale-brooch" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/5kQ5kkccJfp58oMc3v2sM0Q",
+      "mode" : "live",
+      "payment_link" : "plink_0TszQ92pYT1oPdid24liWO4q",
+      "price_id" : "price_0TszQ92pYT1oPdidH8kZ0G5k",
+      "product_id" : "prod_UskwSOnrDtphxX",
+      "quantity" : 1
+   },
    "biolite-weatherproof-camp-light-and-charger" : {
       "amount_jpy" : 4000,
       "buy_url" : "https://buy.stripe.com/8x2144a4Ba4LdJ6c3v2sM0l",
@@ -108,6 +117,15 @@
       "payment_link" : "plink_0Tmvr62pYT1oPdid4q3BcVJn",
       "price_id" : "price_0Tmvr52pYT1oPdidR4Fagjh3",
       "product_id" : "prod_UmUq31DU1TLnXJ",
+      "quantity" : 1
+   },
+   "metal-padlock-with-keys" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/9B60006Spel1cF24B32sM0R",
+      "mode" : "live",
+      "payment_link" : "plink_0TszQB2pYT1oPdid13xSXore",
+      "price_id" : "price_0TszQB2pYT1oPdid4psdhk62",
+      "product_id" : "prod_UskwbEFqioEuO0",
       "quantity" : 1
    },
    "nin-ghosts-i-iv-multi-format-collection" : {
@@ -278,6 +296,15 @@
       "payment_link" : "plink_0Tmvrd2pYT1oPdidd6WuMyYu",
       "price_id" : "price_0Tmvrc2pYT1oPdidxoAHEj9X",
       "product_id" : "prod_UmUrOmbiz70RyA",
+      "quantity" : 1
+   },
+   "under-the-sea-dot-artwork" : {
+      "amount_jpy" : 2000,
+      "buy_url" : "https://buy.stripe.com/5kQ3cc0u13GngVi7Nf2sM0S",
+      "mode" : "live",
+      "payment_link" : "plink_0TszQD2pYT1oPdid2KRdFFh8",
+      "price_id" : "price_0TszQD2pYT1oPdidaYeEppxk",
+      "product_id" : "prod_UskwrtvBWR729w",
       "quantity" : 1
    },
    "universal-vision" : {
