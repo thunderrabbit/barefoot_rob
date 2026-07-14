@@ -22,7 +22,7 @@ After 23+ years in Kanagawa, Barefoot Rob will be leaving Japan by June 2027 (ye
 
 This event will be an opportunity to reflect on the journeys we all take in life, a chance to share personal stories, and a chance for Rob to find new loving homes for some beloved items with unique stories!
 
- *    *    *    *    *    *    *    *    *    *    *    *    *    *
+  ＊
 
 The event will start at EVENT_TIME with a meditation to slow down into the present moment.
 
@@ -30,7 +30,7 @@ After the meditation, we'll explore how possessions become meaningful and why le
 
 After the discussion, Rob will share some stories behind his well-loved items that are looking for a new caretaker.
 
- *    *    *    *    *    *    *    *    *    *    *    *    *    *
+  ＊    ＊
 
 This isn't a garage sale pretending to be a workshop, it's a workshop with a garage sale in the back. Moving homes after 23 years involves practical decisions as well as emotional ones; I'm interested in exploring both.
 
@@ -40,9 +40,11 @@ Come with an open mind, an open backpack, and maybe take home something with a s
 
 There's no obligation to take an item. 😉 Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
 
- *    *    *    *    *    *    *    *    *    *    *    *    *    *
+  ＊    ＊    ＊
 
 #### The Afternoon
+
+📅 HUMANDATE · FIRST_GATHERING_TIME–16:00
 
 * FIRST_GATHERING_TIME: Doors open - Arrive, welcome, order a drink, and settle in
 * EVENT_TIME: Meditation - A few minutes to feel grounded and present
@@ -50,11 +52,9 @@ There's no obligation to take an item. 😉 Whether or not you take something ph
 * 14:45: Rob's stories - Tales of some of the items
 * 15:35: Freestyle browse & farewell - Find new homes for beloved things
 
- *    *    *    *    *    *    *    *    *    *    *    *    *    *
+＊    ＊    ＊    ＊
 
-📅 HUMANDATE · FIRST_GATHERING_TIME–16:00
-
-#### Location
+#### The Location
 
 [Impact HUB Tokyo](https://hubtokyo.com/)
 
