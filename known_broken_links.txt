@@ -1,0 +1,50 @@
+# Broken internal link targets grandfathered in by check_links.pl.
+# Regenerate with: ./check_links.pl --update-baseline
+# (Run that on a machine with the journal submodule for the authoritative list.)
+# Fix a link for real, then delete its line here.
+/art
+/blog/2020/11/02/healing-inner-child-free-online-workshop/
+/blog/2020/11/12/finding-your-life-purpose-video-replay/
+/blog/2020/11/19/livestream-replay-regain-control-of-your-life/
+/blog/2020/11/26/weekly-alignment-discovering-our-deepest-desire/
+/blog/2020/12/10/weekly-alignment-who-are-we-outside-of-time/
+/blog/2020/12/17/weekly-alignment-listening-to-our-self-in-realtime/
+/blog/2020/12/24/weekly-alignment-releasing-old-energy/
+/blog/2021/01/07/weekly-alignment-receive-insight-from-your-future-self/
+/blog/2021/01/07/weekly-alignment-receiving-insight-from-our-future-self/
+/blog/2021/01/14/weekly-alignment-you-are-enough/
+/blog/2021/01/28/weekly-alignment-healing-your-body-and-expand-heart-vision/
+/blog/2021/02/04/weekly-alignment-digging-in/
+/blog/2021/02/11/weekly-alignment-letting-go/
+/blog/2021/08/14/walking-meditation-enjoy-summer-in-ikuta-ryokuchi-park/
+/bold-life-brotherhood/
+/books/slow-down/
+/en/blog/2021/09/01barefoot-walking-on-the-edge-of-tokyo-izumi-tamagawa
+/en/blog/2021/12/27/why-walk-barefoot-unshod.org/Image1.gif
+/en/blog/2021/12/27/why-walk-barefoot-unshod.org/firststeps.jpg
+/en/blog/2023/02/25/are-you-getting-your-rda-of-vitamin-t/episode_image
+/en/blog/2026/02/24agent-timed-activity-ledger/
+/en/blog/2026/03/12how-we-built-help-me-progress/
+/en/blog/2026/03/13how-rob-gave-his-ai-a-job/
+/en/blog/page/2/episode_image
+/en/blog/page/4/Image1.gif
+/en/blog/page/4/firststeps.jpg
+/en/categories/blog/Image1.gif
+/en/categories/blog/episode_image
+/en/categories/blog/firststeps.jpg
+/en/events/2022/07/30/en/events/2022/07/30eight-kilometer-barefoot-walk-8km-to-the-beach-for-sunset
+/en/quests/walk-to-niigata/
+/en/tags/barefoot/page/13/Image1.gif
+/en/tags/barefoot/page/13/firststeps.jpg
+/en/tags/cuddle/episode_image
+/en/tags/shoes/Image1.gif
+/en/tags/shoes/firststeps.jpg
+/en/tags/touch/episode_image
+/en/tags/why/Image1.gif
+/en/tags/why/firststeps.jpg
+/events/2021/04/16coast-to-coast-kickoff-walking-to-niigata/
+/quests/
+/quests/walk-to-niigata/2020/07/02day_by_day_plans_coming_together/
+/quests/walk-to-niigata/2021/04/08walking-update-third-interview-by-michael-shell/
+/weekly-alignments/
+/weekly-alignments/agreements/

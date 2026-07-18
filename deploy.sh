@@ -32,6 +32,7 @@ perl sayonara_generate.pl
 
 echo "==> 4/6 local Hugo build (verify before pushing)"
 hugo --cleanDestinationDir >/dev/null
+perl check_links.pl public
 
 echo "==> 5/6 commit catalog changes"
 git add data/sayonara content/sayonara
