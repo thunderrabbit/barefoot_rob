@@ -1,16 +1,18 @@
 ---
-title: "Barefoot Rob's Mindful Sayonara Stories"
+title: "Barefoot Rob's Mindful Sayonara Stories: Letting Go"
 tags: [ "2026", "Barefoot Rob", "august", "event", "impact-hub-tokyo", "letting go", "mathom", "meguro", "mottainai", "sayonara", "tea", "workshop", "もったいない", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-07-14T13:03:08+09:00
+date: 2026-07-18T23:34:41+09:00
 EventLocation: "Impact HUB Tokyo (Meguro)"
 EventTime: "14:00"
 TimeDescription: "doors open at 13:30; meditation begins at 14:00"
 EventDate: "2026-08-29T14:00:00+09:00"
 EventType: "Mindful Sayonara"
-# aliases: [
-#     "/en/events/2026/08/29barefoot-rob-s-mindful-sayonara-stories",
-# ]
+aliases: [
+#    "/en/events/2026/08/29barefoot-robs-mindful-sayonara-stories-letting-go",
+    "/en/events/2026/08/29barefoot-robs-mindful-sayonara-stories",
+    "/en/events/2026/08/29barefoot-rob-s-mindful-sayonara-stories",
+]
 
 ---
 

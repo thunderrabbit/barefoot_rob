@@ -32,8 +32,8 @@ unsafe= true
 	hideShareOptions = true
   # Sayonara pickup event — delete this table after the event to retire the line site-wide
   [params.sayonara_event]
-    url = "en/events/2026/08/29barefoot-robs-mindful-sayonara-stories/"
-    title = "Barefoot Rob's Mindful Sayonara Stories"
+    url = "en/events/2026/08/29barefoot-robs-mindful-sayonara-stories-letting-go/"
+    title = "Barefoot Rob's Mindful Sayonara Stories: Letting Go"
     date_label = "Sat 29 Aug 2026"
     venue = "Impact HUB Tokyo"
     area = "Meguro"
