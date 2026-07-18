@@ -374,6 +374,7 @@ sub ordinate($) {
 sub kebab_case($) {
   my ($title) = @_;
       $title = lc($title);    # make title lowercase
+      $title =~ s/'//g;       # drop apostrophes entirely (Rob's -> robs, not rob-s)
       $title =~ s/[,\/\`\!\@\#\$\%\^\&\*\(\)\[\]\\\{\}\|\;\'\:\"\<\>\?\s]/-/g;
                               # replace special shell characters with hyphens (thanks to nooj)
       $title =~ s/-+/-/g;     # replace multiple hyphens with one (to match Hugo URLs)
