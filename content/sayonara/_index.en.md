@@ -7,4 +7,4 @@ After ~23 years in Japan, I'm beginning to release a lot of items; to say goodby
 
 Browse what's available below. Each item links to its own page, where you can read its story and claim it.
 
-[Join me August 29th to explore mindfulness with possessions.](https://www.robnugen.com/en/events/2026/08/29barefoot-robs-mindful-sayonara-stories/)
+[Join me August 29th to explore mindfulness with possessions.](/en/events/2026/08/29barefoot-robs-mindful-sayonara-stories-letting-go)
