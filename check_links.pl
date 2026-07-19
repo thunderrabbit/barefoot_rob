@@ -83,20 +83,7 @@ for my $f (@html) {
     (my $src_url = $src) =~ s{index\.html$}{};
     next if $alias_to{$src_url};                  # don't lint the stubs themselves
     my $c = slurp($f) // next;
-    while ($c =~ /(?:href|src)="([^"]+)"/g) {
-        my $url = decode_entities($1);
-        $url =~ s/[#?].*$//;
-        next unless length $url;
-        if ($url =~ m{^https?://(?:www\.)?robnugen\.com(/.*)?$}) { $url = $1 // '/'; }
-        elsif ($url =~ m{^(?:https?:)?//}) { next; }              # external
-        elsif ($url =~ m{^(?:mailto|tel|javascript|data):}) { next; }
-        elsif ($url !~ m{^/}) {                                   # relative link
-            (my $base = $src_url) =~ s{[^/]*$}{};
-            $url = normalize("$base$url");
-        }
-        $url =~ s/%([0-9A-Fa-f]{2})/chr(hex($1))/ge;              # match on-disk names
-        next if $url eq '/';           # site root is the language-redirect alias
-        next if !$have_journal && $url =~ m{^/journal/};
+    for my $url (internal_links($c, $src_url)) {
         $checked++;
         if ($alias_to{$url} || ($url !~ m{/$} && $alias_to{"$url/"})) {
             push @{ $via_alias{$src} }, $url;
@@ -158,6 +145,28 @@ if ($new_breaks) {
 }
 print "OK: no broken internal links beyond baseline\n";
 exit 0;
+
+sub internal_links {   # normalized internal link targets in one rendered page
+    my ($c, $src_url) = @_;
+    my @links;
+    while ($c =~ /(?:href|src)="([^"]+)"/g) {
+        my $url = decode_entities($1);
+        $url =~ s/[#?].*$//;
+        next unless length $url;
+        if ($url =~ m{^https?://(?:www\.)?robnugen\.com(/.*)?$}) { $url = $1 // '/'; }
+        elsif ($url =~ m{^(?:https?:)?//}) { next; }              # external
+        elsif ($url =~ m{^(?:mailto|tel|javascript|data):}) { next; }
+        elsif ($url !~ m{^/}) {                                   # relative link
+            (my $base = $src_url) =~ s{[^/]*$}{};
+            $url = normalize("$base$url");
+        }
+        $url =~ s/%([0-9A-Fa-f]{2})/chr(hex($1))/ge;              # match on-disk names
+        next if $url eq '/';           # site root is the language-redirect alias
+        next if !$have_journal && $url =~ m{^/journal/};
+        push @links, $url;
+    }
+    return @links;
+}
 
 sub slurp {
     my ($f) = @_;
