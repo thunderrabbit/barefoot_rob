@@ -1,2 +1,15 @@
 RewriteEngine On
 RewriteRule ^journal\.pl$ /journal/journal.pl [L,QSA]
+
+# Since 2021-09-20 every page lives under /en/ or /ja/, but years of links in
+# the wild (and URLs printed on physical things) use the pre-2021 bare form.
+# Hugo used to render root-level alias redirect stubs for those; a Hugo
+# upgrade stopped that (bare URLs 404'd from ~May 2026), so the server owns
+# the redirect now: any request that is not language-prefixed and does not
+# exist on disk gets one hop to /en/. Real files and directories always win,
+# and the Perl journal app and ACME challenges are left alone.
+RewriteCond %{REQUEST_URI} !^/(en|ja|journal)(/|$)
+RewriteCond %{REQUEST_URI} !^/\.well-known/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /en/$1 [R=301,L]
