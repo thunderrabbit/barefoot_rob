@@ -15,7 +15,7 @@ EventDate: "2021-02-08"
 
 #### Where
 
-**Zoom** ([register](https://www.robnugen.com/bold-life-brotherhood/))
+**Zoom** ([register](https://www.robnugen.com/en/bold-life-tribe/))
 
 #### Details
 

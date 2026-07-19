@@ -22,7 +22,7 @@ schedule offered by the Covid Powered Pause.  My goal was to lead
 
 *Now*, as of May, nine+ per month!
 
-* Every Monday: [Bold Life Brotherhood](/bold-life-brotherhood/)
+* Every Monday: [Bold Life Brotherhood](/en/bold-life-tribe/)
 * Every Friday: [Life Changing Life Adventures](https://www.facebook.com/events/233890734704408/)
   (co-lead with Rin)
 * mid-month: [Your Art Matters](https://www.meetup.com/Tokyo-Sol-barefoot-more/events/270213405/) (co-lead with Shinobu)

@@ -18,5 +18,5 @@ In order to create a powerful legacy with your life, you need to decide what con
 
 What legacy do you want to leave with your life?
 
-Join us in [Bold Life Brotherhood](/bold-life-brotherhood/) to create
+Join us in [Bold Life Brotherhood](/en/bold-life-tribe/) to create
 your legacy.
