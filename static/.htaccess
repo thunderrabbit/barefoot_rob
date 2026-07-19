@@ -6,10 +6,15 @@ RewriteRule ^journal\.pl$ /journal/journal.pl [L,QSA]
 # Hugo used to render root-level alias redirect stubs for those; a Hugo
 # upgrade stopped that (bare URLs 404'd from ~May 2026), so the server owns
 # the redirect now: any request that is not language-prefixed and does not
-# exist on disk gets one hop to /en/. Real files and directories always win,
-# and the Perl journal app and ACME challenges are left alone.
+# resolve to a real file or a directory with an index gets one hop to /en/.
+# (Index-less root dirs like /art/ and /blog/ exist only to hold url-pinned
+# pages — redirecting beats serving an Apache directory listing.)
+# /missing.html is DreamHost's ErrorDocument 404 target: rewriting it turns
+# every 404 into a redirect loop, so it is excluded, as are the Perl journal
+# app and ACME challenges.
 RewriteCond %{REQUEST_URI} !^/(en|ja|journal)(/|$)
 RewriteCond %{REQUEST_URI} !^/\.well-known/
+RewriteCond %{REQUEST_URI} !^/missing\.html$
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}/index.html !-f
 RewriteRule ^(.*)$ /en/$1 [R=301,L]
