@@ -6,6 +6,9 @@
 # Alias redirect stubs are real files in the output, so front matter aliases
 # are validated automatically — and links that only work *via* an alias are
 # reported as warnings with the canonical URL to point at instead.
+# Bare (un-language-prefixed) links are accepted when /en/<path> exists,
+# mirroring the bare-URL 301 in static/.htaccess — reported as a note, since
+# years of pre-2021 content and links in the wild rely on that redirect.
 #
 # Usage:
 #   ./check_links.pl                     build to a temp dir, then check
@@ -87,7 +90,7 @@ if ($find) {
     exit 0;                    # diagnostic only, never a gate
 }
 
-my (%broken, %via_alias);   # source page -> [targets]
+my (%broken, %via_alias, %via_htaccess);   # source page -> [targets]
 my %broken_targets;
 my $checked = 0;
 
@@ -101,8 +104,12 @@ for my $f (@html) {
         if ($alias_to{$url} || ($url !~ m{/$} && $alias_to{"$url/"})) {
             push @{ $via_alias{$src} }, $url;
         } elsif (!$valid{$url}) {
-            push @{ $broken{$src} }, $url;
-            $broken_targets{$url} = 1;
+            if (htaccess_rescue($url)) {
+                push @{ $via_htaccess{$src} }, $url;
+            } else {
+                push @{ $broken{$src} }, $url;
+                $broken_targets{$url} = 1;
+            }
         }
     }
 }
@@ -156,6 +163,20 @@ for my $u (sort keys %alias_hits) {
     print "      linked from $srcs[0]$more\n";
 }
 
+my %ht_hits;   # target -> { sources }
+for my $src (keys %via_htaccess) {
+    $ht_hits{$_}{$src} = 1 for @{ $via_htaccess{$src} };
+}
+if (%ht_hits) {
+    print "note: " . scalar(keys %ht_hits) . " bare URL target(s) rescued by the "
+        . ".htaccess redirect (fine for old content; use /en/... in new content):\n";
+    for my $u (sort keys %ht_hits) {
+        my @srcs = sort keys %{ $ht_hits{$u} };
+        my $more = @srcs > 1 ? " (+" . (@srcs - 1) . " more pages)" : "";
+        print "    $u -> /en$u  linked from $srcs[0]$more\n";
+    }
+}
+
 if ($new_breaks) {
     print "FAIL: $new_breaks newly broken internal link(s)\n";
     exit 1;
@@ -171,6 +192,7 @@ sub find_link_sources {
     if    ($valid{$t} || $valid{"$t/"})       { print "note: $target is a valid page\n"; }
     elsif (my $canon = $alias_to{$t} || $alias_to{"$t/"})
                                               { print "note: $target resolves via alias to $canon\n"; }
+    elsif (my $en = htaccess_rescue($t))      { print "note: $target does not render, but the .htaccess bare-URL redirect sends it to $en\n"; }
     else                                      { print "note: $target does NOT exist in the rendered site\n"; }
 
     my @sources;
@@ -219,6 +241,19 @@ sub find_link_sources {
         print "no direct match under content/ or layouts/ — the link may be\n";
         print "relative or template-generated; check the rendered pages above\n";
     }
+}
+
+sub htaccess_rescue {
+    # Mirrors the bare-URL rule in static/.htaccess: a request that is not
+    # language-prefixed (and not the Perl journal app) and does not exist on
+    # disk is 301'd to /en/<path>. Returns the rescue target, or undef.
+    my ($url) = @_;
+    return undef if $url =~ m{^/(en|ja|journal)(/|$)};
+    my $en = "/en$url";
+    return $en     if $valid{$en} || $valid{"$en/"};
+    return "$en/"  if $alias_to{"$en/"};
+    return $en     if $alias_to{$en};
+    return undef;
 }
 
 sub internal_links {   # normalized internal link targets in one rendered page

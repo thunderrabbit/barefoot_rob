@@ -7,7 +7,7 @@ draft: false
 date: 2020-07-06T21:31:44+09:00
 ---
 
-Tonight in [Bold Life Brotherhood](https://www.robnugen.com/bold-life-brotherhood/), we described our realtime felt
+Tonight in [Bold Life Brotherhood](https://www.robnugen.com/en/bold-life-tribe/), we described our realtime felt
 experience in our bodies.  e.g. "I feel the slight pressure in my
 fingertips as I push these plastic shapes on the keyboard. I feel the
 intake of air filling my lungs and stomach stretching as I breathe."

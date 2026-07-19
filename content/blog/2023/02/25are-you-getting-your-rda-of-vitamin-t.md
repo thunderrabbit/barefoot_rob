@@ -10,10 +10,7 @@ aliases: [
 ]
 ---
 
-<img
-src="episode_image"
-alt=""
-class="title" />
+<!-- no episode image was chosen for this post -->
 
 <!-- div class="note">(image credit: )</div -->
 
