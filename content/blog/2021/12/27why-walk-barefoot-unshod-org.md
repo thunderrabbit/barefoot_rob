@@ -73,7 +73,7 @@ Hale, Jr., M.D. Director, Albany Hospital Albany, N.Y.</p>
   that habitually barefooted people do not acquire our foot troubles . . .</p>
   <p>. . . Besides having sturdy toes and muscular feet, the people who were constantly
   barefooted did not have fallen arches . . .<br>
-  <img src="Image1.gif" alt="Image1.gif (5849 bytes)" WIDTH="499" HEIGHT="292"></p>
+  <img src="http://unshod.org/pfbc/Image1.gif" alt="Image1.gif (5849 bytes)" WIDTH="499" HEIGHT="292"></p>
 </blockquote>
 
 <ul>
@@ -285,7 +285,7 @@ Hale, Jr., M.D. Director, Albany Hospital Albany, N.Y.</p>
       <br>
       . . . For toddlers, shoes should be worn outdoors only during inclement weather and
       indoors only for infrequent dress-up occasions . . .</strong></td>
-      <td><img src="firststeps.jpg" alt="firststeps.jpg (11065 bytes)" WIDTH="221" HEIGHT="282"></td>
+      <td><img src="http://unshod.org/pfbc/firststeps.jpg" alt="firststeps.jpg (11065 bytes)" WIDTH="221" HEIGHT="282"></td>
     </tr>
   </table>
 </blockquote>
