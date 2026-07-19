@@ -114,8 +114,12 @@ if ($update_baseline) {
     open my $fh, '>', $baseline_file or die "cannot write $baseline_file: $!\n";
     print $fh "# Broken internal link targets grandfathered in by check_links.pl.\n";
     print $fh "# Regenerate with: ./check_links.pl --update-baseline\n";
-    print $fh "# (Run that on a machine with the journal submodule for the authoritative list.)\n";
-    print $fh "# Fix a link for real, then delete its line here.\n";
+    print $fh "# Run that ON THE MACHINE THAT RUNS deploy.sh AND THE PRE-PUSH HOOK:\n";
+    print $fh "# Hugo versions differ in where alias redirect stubs render, so a\n";
+    print $fh "# baseline from another machine reports phantom breaks here.\n";
+    print $fh "# (A machine with the journal submodule gives the most complete list.)\n";
+    print $fh "# Fix a link for real (./check_links.pl --find <url> shows where),\n";
+    print $fh "# then delete its line here.\n";
     print $fh "$_\n" for sort keys %broken_targets;
     close $fh;
     print "baseline written: $baseline_file (" . scalar(keys %broken_targets) . " known-broken targets)\n";
