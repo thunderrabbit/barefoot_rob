@@ -69,7 +69,7 @@ so if it's too hot or wet for you, no pressure to join this time.
 I look forward to seeing you at a future event!
 
 That said, updates will be posted on this URL until the morning of the event:
-https://www.robnugen.com/en/events/2022/07/30/en/events/2022/07/30eight-kilometer-barefoot-walk-8km-to-the-beach-for-sunset
+https://www.robnugen.com/en/events/2022/07/30eight-kilometer-barefoot-walk-8km-to-the-beach-for-sunset/
 
 # RSVP on LINE
 
