@@ -11,6 +11,11 @@
 #   ./check_links.pl                     build to a temp dir, then check
 #   ./check_links.pl public              check an already-built directory
 #   ./check_links.pl --update-baseline   rewrite known_broken_links.txt
+#   ./check_links.pl --find /art         show WHERE /art is linked from: every
+#                                        rendered page, plus the content/layout
+#                                        file:line to actually edit (works for
+#                                        baselined targets too; add a built dir
+#                                        to skip the rebuild)
 #
 # Exit 0: no broken links beyond the committed baseline (known_broken_links.txt).
 # Exit 1: hugo build failed, or a link broke that is not in the baseline.
@@ -25,10 +30,13 @@ my $repo = dirname(abs_path($0));
 my $baseline_file = "$repo/known_broken_links.txt";
 
 my $update_baseline = 0;
-my $public;
-for my $arg (@ARGV) {
-    if ($arg eq '--update-baseline') { $update_baseline = 1; }
-    elsif (-d $arg)                  { $public = abs_path($arg); }
+my ($find, $public);
+while (@ARGV) {
+    my $arg = shift @ARGV;
+    if    ($arg eq '--update-baseline') { $update_baseline = 1; }
+    elsif ($arg eq '--find') { $find = shift @ARGV
+                                   // die "--find needs a URL, e.g. --find /art\n"; }
+    elsif (-d $arg)          { $public = abs_path($arg); }
     else { die "unknown argument or missing directory: $arg\n"; }
 }
 
@@ -74,6 +82,11 @@ for my $f (@html) {
     $alias_to{$url} = $canon;
 }
 
+if ($find) {
+    find_link_sources($find);
+    exit 0;                    # diagnostic only, never a gate
+}
+
 my (%broken, %via_alias);   # source page -> [targets]
 my %broken_targets;
 my $checked = 0;
@@ -83,20 +96,7 @@ for my $f (@html) {
     (my $src_url = $src) =~ s{index\.html$}{};
     next if $alias_to{$src_url};                  # don't lint the stubs themselves
     my $c = slurp($f) // next;
-    while ($c =~ /(?:href|src)="([^"]+)"/g) {
-        my $url = decode_entities($1);
-        $url =~ s/[#?].*$//;
-        next unless length $url;
-        if ($url =~ m{^https?://(?:www\.)?robnugen\.com(/.*)?$}) { $url = $1 // '/'; }
-        elsif ($url =~ m{^(?:https?:)?//}) { next; }              # external
-        elsif ($url =~ m{^(?:mailto|tel|javascript|data):}) { next; }
-        elsif ($url !~ m{^/}) {                                   # relative link
-            (my $base = $src_url) =~ s{[^/]*$}{};
-            $url = normalize("$base$url");
-        }
-        $url =~ s/%([0-9A-Fa-f]{2})/chr(hex($1))/ge;              # match on-disk names
-        next if $url eq '/';           # site root is the language-redirect alias
-        next if !$have_journal && $url =~ m{^/journal/};
+    for my $url (internal_links($c, $src_url)) {
         $checked++;
         if ($alias_to{$url} || ($url !~ m{/$} && $alias_to{"$url/"})) {
             push @{ $via_alias{$src} }, $url;
@@ -114,8 +114,12 @@ if ($update_baseline) {
     open my $fh, '>', $baseline_file or die "cannot write $baseline_file: $!\n";
     print $fh "# Broken internal link targets grandfathered in by check_links.pl.\n";
     print $fh "# Regenerate with: ./check_links.pl --update-baseline\n";
-    print $fh "# (Run that on a machine with the journal submodule for the authoritative list.)\n";
-    print $fh "# Fix a link for real, then delete its line here.\n";
+    print $fh "# Run that ON THE MACHINE THAT RUNS deploy.sh AND THE PRE-PUSH HOOK:\n";
+    print $fh "# Hugo versions differ in where alias redirect stubs render, so a\n";
+    print $fh "# baseline from another machine reports phantom breaks here.\n";
+    print $fh "# (A machine with the journal submodule gives the most complete list.)\n";
+    print $fh "# Fix a link for real (./check_links.pl --find <url> shows where),\n";
+    print $fh "# then delete its line here.\n";
     print $fh "$_\n" for sort keys %broken_targets;
     close $fh;
     print "baseline written: $baseline_file (" . scalar(keys %broken_targets) . " known-broken targets)\n";
@@ -158,6 +162,86 @@ if ($new_breaks) {
 }
 print "OK: no broken internal links beyond baseline\n";
 exit 0;
+
+sub find_link_sources {
+    my ($target) = @_;
+    (my $t = $target) =~ s{/$}{};
+    my %want = map { $_ => 1 } ($t, "$t/");
+
+    if    ($valid{$t} || $valid{"$t/"})       { print "note: $target is a valid page\n"; }
+    elsif (my $canon = $alias_to{$t} || $alias_to{"$t/"})
+                                              { print "note: $target resolves via alias to $canon\n"; }
+    else                                      { print "note: $target does NOT exist in the rendered site\n"; }
+
+    my @sources;
+    for my $f (@html) {
+        (my $src = $f) =~ s/^\Q$public\E//;
+        (my $src_url = $src) =~ s{index\.html$}{};
+        next if $alias_to{$src_url};
+        my $c = slurp($f) // next;
+        push @sources, $src if grep { $want{$_} } internal_links($c, $src_url);
+    }
+    if (@sources) {
+        print "rendered pages linking to $target (" . scalar(@sources) . "):\n";
+        print "    $_\n" for sort @sources;
+    } else {
+        print "no rendered pages link to $target\n";
+        return;
+    }
+
+    # List and taxonomy pages above merely re-render a post's summary; the line
+    # to edit lives in the repo. Match the path site-absolute (after a quote,
+    # bracket, or =) or absolute on (www.)robnugen.com — but not on other
+    # subdomains like art.robnugen.com, and not as a longer path's prefix.
+    my $pat = qr{(?:(?:https?:)?//(?:www\.)?robnugen\.com|["'(\[=\s]|^)\Q$t\E/?(?![\w/-])};
+    my @hits;
+    my @roots = grep { -e "$repo/$_" }
+                ('content', 'layouts', 'themes/purehugo/layouts', 'config.toml');
+    find(sub {
+        return unless -f && /\.(md|html|toml|xml)$/;
+        my $path = $File::Find::name;
+        open my $fh, '<', $path or return;
+        while (my $line = <$fh>) {
+            next unless $line =~ $pat;
+            chomp $line;
+            $line =~ s/^\s+//;
+            $line = substr($line, 0, 120) . '...' if length $line > 120;
+            (my $rel = $path) =~ s{^\Q$repo\E/}{};
+            push @hits, "$rel:$.: $line";
+        }
+        close $fh;
+    }, map { "$repo/$_" } @roots);
+
+    if (@hits) {
+        print "edit these to fix it:\n";
+        print "    $_\n" for @hits;
+    } else {
+        print "no direct match under content/ or layouts/ — the link may be\n";
+        print "relative or template-generated; check the rendered pages above\n";
+    }
+}
+
+sub internal_links {   # normalized internal link targets in one rendered page
+    my ($c, $src_url) = @_;
+    my @links;
+    while ($c =~ /(?:href|src)="([^"]+)"/g) {
+        my $url = decode_entities($1);
+        $url =~ s/[#?].*$//;
+        next unless length $url;
+        if ($url =~ m{^https?://(?:www\.)?robnugen\.com(/.*)?$}) { $url = $1 // '/'; }
+        elsif ($url =~ m{^(?:https?:)?//}) { next; }              # external
+        elsif ($url =~ m{^(?:mailto|tel|javascript|data):}) { next; }
+        elsif ($url !~ m{^/}) {                                   # relative link
+            (my $base = $src_url) =~ s{[^/]*$}{};
+            $url = normalize("$base$url");
+        }
+        $url =~ s/%([0-9A-Fa-f]{2})/chr(hex($1))/ge;              # match on-disk names
+        next if $url eq '/';           # site root is the language-redirect alias
+        next if !$have_journal && $url =~ m{^/journal/};
+        push @links, $url;
+    }
+    return @links;
+}
 
 sub slurp {
     my ($f) = @_;
