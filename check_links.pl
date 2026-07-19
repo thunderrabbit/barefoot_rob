@@ -139,15 +139,29 @@ if (open my $fh, '<', $baseline_file) {
     close $fh;
 }
 
-my $new_breaks = 0;
-for my $src (sort keys %broken) {
-    my %seen;
-    my @new = grep { !$baseline{$_} && !$seen{$_}++ } @{ $broken{$src} };
-    next unless @new;
-    $new_breaks += @new;
-    print "BROKEN: $src\n";
-    print "    -> $_\n" for @new;
+# One broken href in a post's first paragraph is stamped into every list page
+# that renders the post's summary, so group by TARGET: one broken link is one
+# broken link, however many rendered pages carry a copy of it.
+my %broken_hits;   # target -> { rendered pages }
+for my $src (keys %broken) {
+    $broken_hits{$_}{$src} = 1 for @{ $broken{$src} };
 }
+my @new_targets = grep { !$baseline{$_} } sort keys %broken_hits;
+my $broken_pages = 0;
+for my $u (@new_targets) {
+    my @srcs = sort keys %{ $broken_hits{$u} };
+    $broken_pages += @srcs;
+    my $more = @srcs > 1 ? " (+" . (@srcs - 1) . " more pages)" : "";
+    print "BROKEN: $u\n";
+    print "    seen on $srcs[0]$more\n";
+    my @where = content_sources_for($u);
+    splice @where, 3 if @where > 3;
+    for (@where) {
+        my ($loc) = /^([^:]+:\d+)/;
+        print "    fix in $loc\n";
+    }
+}
+my $new_breaks = scalar @new_targets;
 my $baselined = grep { $baseline{$_} } keys %broken_targets;
 print "($baselined known-broken targets covered by baseline)\n" if $baselined;
 
@@ -178,7 +192,9 @@ if (%ht_hits) {
 }
 
 if ($new_breaks) {
-    print "FAIL: $new_breaks newly broken internal link(s)\n";
+    printf "FAIL: %d newly broken link target%s (%d rendered page%s)\n",
+        $new_breaks, $new_breaks == 1 ? "" : "s",
+        $broken_pages, $broken_pages == 1 ? "" : "s";
     exit 1;
 }
 print "OK: no broken internal links beyond baseline\n";
@@ -211,10 +227,23 @@ sub find_link_sources {
         return;
     }
 
-    # List and taxonomy pages above merely re-render a post's summary; the line
-    # to edit lives in the repo. Match the path site-absolute (after a quote,
+    my @hits = content_sources_for($target);
+    if (@hits) {
+        print "edit these to fix it:\n";
+        print "    $_\n" for @hits;
+    } else {
+        print "no direct match under content/ or layouts/ — the link may be\n";
+        print "relative or template-generated; check the rendered pages above\n";
+    }
+}
+
+sub content_sources_for {
+    # List and taxonomy pages merely re-render a post's summary; the line to
+    # edit lives in the repo. Match the path site-absolute (after a quote,
     # bracket, or =) or absolute on (www.)robnugen.com — but not on other
     # subdomains like art.robnugen.com, and not as a longer path's prefix.
+    my ($target) = @_;
+    (my $t = $target) =~ s{/$}{};
     my $pat = qr{(?:(?:https?:)?//(?:www\.)?robnugen\.com|["'(\[=\s]|^)\Q$t\E/?(?![\w/-])};
     my @hits;
     my @roots = grep { -e "$repo/$_" }
@@ -233,14 +262,7 @@ sub find_link_sources {
         }
         close $fh;
     }, map { "$repo/$_" } @roots);
-
-    if (@hits) {
-        print "edit these to fix it:\n";
-        print "    $_\n" for @hits;
-    } else {
-        print "no direct match under content/ or layouts/ — the link may be\n";
-        print "relative or template-generated; check the rendered pages above\n";
-    }
+    return @hits;
 }
 
 sub htaccess_rescue {
