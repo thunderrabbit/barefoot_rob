@@ -103,7 +103,8 @@ Published URLs are forever. Renaming a content file (or changing how its URL slu
   links that work only via alias redirects (with the canonical URL to point at instead).
 - Never delete a published URL without an alias. If `check_links.pl` fails after your change, fix
   the links or add the missing alias — do not add entries to the baseline to silence it.
-- One-time per machine: `git config core.hooksPath .githooks` enables the pre-push link check.
+- One-time per machine: `git config core.hooksPath .githooks` enables the pre-commit link check
+  (it runs only when staged files touch content/layouts/static/themes/config.toml).
 
 ## Key Conventions
 
