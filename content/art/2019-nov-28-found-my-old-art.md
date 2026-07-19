@@ -15,7 +15,7 @@ These are colorized versions of 10,000x zoom electron microscope scans of a spac
 
 This is my first "set" of pieces, drawn for my second art show (14,15 March 2009) at ELF in Tachikawa. Each piece is 12cm by 13.6cm. (4.7 x 5.3 inches)
 
-These are the first to have [http://robnugen.com/art](/en/art/) written on the back, which has a link to the art section of my wiki.
+These are the first to have [http://robnugen.com/art](https://art.robnugen.com/art) written on the back, which has a link to the art section of my wiki.
 
 ## background
 
