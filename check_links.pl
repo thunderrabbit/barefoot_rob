@@ -14,6 +14,8 @@
 #   ./check_links.pl                     build to a temp dir, then check
 #   ./check_links.pl public              check an already-built directory
 #   ./check_links.pl --update-baseline   rewrite known_broken_links.txt
+#   ./check_links.pl --verbose           also list every bare URL the .htaccess
+#                                        redirect rescues (collapsed by default)
 #   ./check_links.pl --find /art         show WHERE /art is linked from: every
 #                                        rendered page, plus the content/layout
 #                                        file:line to actually edit (works for
@@ -32,11 +34,12 @@ use Cwd qw(abs_path);
 my $repo = dirname(abs_path($0));
 my $baseline_file = "$repo/known_broken_links.txt";
 
-my $update_baseline = 0;
+my ($update_baseline, $verbose) = (0, 0);
 my ($find, $public);
 while (@ARGV) {
     my $arg = shift @ARGV;
     if    ($arg eq '--update-baseline') { $update_baseline = 1; }
+    elsif ($arg eq '--verbose') { $verbose = 1; }
     elsif ($arg eq '--find') { $find = shift @ARGV
                                    // die "--find needs a URL, e.g. --find /art\n"; }
     elsif (-d $arg)          { $public = abs_path($arg); }
@@ -183,11 +186,14 @@ for my $src (keys %via_htaccess) {
 }
 if (%ht_hits) {
     print "note: " . scalar(keys %ht_hits) . " bare URL target(s) rescued by the "
-        . ".htaccess redirect (fine for old content; use /en/... in new content):\n";
-    for my $u (sort keys %ht_hits) {
-        my @srcs = sort keys %{ $ht_hits{$u} };
-        my $more = @srcs > 1 ? " (+" . (@srcs - 1) . " more pages)" : "";
-        print "    $u -> /en$u  linked from $srcs[0]$more\n";
+        . ".htaccess redirect (fine for old content; use /en/... in new content"
+        . ($verbose ? "):\n" : "; --verbose to list)\n");
+    if ($verbose) {
+        for my $u (sort keys %ht_hits) {
+            my @srcs = sort keys %{ $ht_hits{$u} };
+            my $more = @srcs > 1 ? " (+" . (@srcs - 1) . " more pages)" : "";
+            print "    $u -> /en$u  linked from $srcs[0]$more\n";
+        }
     }
 }
 
