@@ -197,6 +197,7 @@ our %event_template_files = (
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.en.md",
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.facebook.txt",
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.meetup.txt",
+      "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.linkedin.txt",
     ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///

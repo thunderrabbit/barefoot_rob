@@ -1,0 +1,92 @@
+Events > Create an Event
+
+Add cover image (16:9, min 1280x720)
+episode_image
+
+Alt text (for screen readers)
+episode_image_alt
+
+Organizer
+Rob Nugen (personal profile)
+
+Event Type
+In person
+
+Event Format
+External event link
+
+Event name
+%s
+
+Timezone
+Asia/Tokyo (GMT+9)
+
+Start date and time
+HUMANDATE   FIRST_GATHERING_TIME
+
++ Add end date and time
+HUMANDATE   16:00
+
+Location
+Impact HUB Tokyo (Meguro)
+〒153-0063 Tokyo, Meguro City, Meguro, 2 Chome−11−3 印刷工場 １階
+
+External event link
+https://www.robnugen.com/enalias_path
+
+UNSELECT Use a LinkedIn registration form
+
+Description
+
+Enjoy afternoon tea in a heartful community, discussing things we hold dear and the practice of letting go.
+
+After 23+ years in Kanagawa, Barefoot Rob will be leaving Japan by June 2027 (yes, a year away, but time flies… plus he'll be in Adelaide for 3 to 6 of those months!)
+
+This event will be an opportunity to reflect on the journeys we all take in life, a chance to share personal stories, and a chance for Rob to find new loving homes for some beloved items with unique stories!
+
+The event will start at EVENT_TIME with a meditation to slow down into the present moment.
+
+After the meditation, we'll explore how possessions become meaningful and why letting go may feel difficult. In small groups we'll reflect on beloved items and meanings they hold in our lives, and how letting go can open doors to new possibilities in life. If you'd like, bring a sacred object of your own to share with the group, show-n-tell style.
+
+After the discussion, Rob will share some stories behind his well-loved items that are looking for a new caretaker.
+
+This isn't a garage sale pretending to be a workshop, it's a workshop with a garage sale in the back. Moving homes after 23 years involves practical decisions as well as emotional ones; I'm interested in exploring both.
+
+This is also an experimental workshop, drawing inspiration from Japanese もったいない, and the Hobbit tradition of `mathoms`: well-loved objects that outlive their original purpose but are too meaningful to simply throw away.
+
+Come with an open mind, an optional sacred object to introduce. Bring a backpack if you'd like to take home something from Rob's collection.
+
+There's no obligation to take an item. Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
+
+The Afternoon
+📅 HUMANDATE · FIRST_GATHERING_TIME–16:00
+• FIRST_GATHERING_TIME: Doors open - Arrive, welcome, order a drink, and settle in
+• EVENT_TIME: Meditation - A few minutes to feel grounded and present
+• 14:05: Musings & small shares - On the things we hold, and how they hold us
+• 14:25: Show-n-tell - Attendees share a sacred object of their own
+• 14:45: Rob's stories - Tales of some of the items
+• 15:35: Freestyle browse & farewell - Find new homes for beloved things
+
+The Location
+Impact HUB Tokyo (https://hubtokyo.com/)
+〒153-0063 Tokyo, Meguro City, Meguro, 2 Chome−11−3 印刷工場 １階
+Google Maps: https://maps.app.goo.gl/HHRWw7rxuSD1Hprz9
+
+See some of the items that are available so far: Barefoot Rob's Mindful Sayonara Sale
+https://www.robnugen.com/en/sayonara/
+
+Latest info: https://www.robnugen.com/enalias_path
+
+Speakers
+(none — leave blank)
+
+CLICK Next
+-------------------------------------
+
+Share your thoughts... (promotion post)
+
+Excited to host "%s" — afternoon tea, mindful conversation, and a chance to find new homes for some beloved things as I prepare to leave Japan after 23+ years. Come with an open mind, and bring a sacred object of your own to share, show-n-tell style!
+
+Audience: Anyone ▾   Posting as: Rob Nugen
+
+CLICK Post
