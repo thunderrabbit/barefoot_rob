@@ -28,7 +28,7 @@ This event will be an opportunity to reflect on the journeys we all take in life
 
 The event will start at 14:00 with a meditation to slow down into the present moment.
 
-After the meditation, we'll explore how possessions become meaningful and why letting go may feel difficult. In small groups we'll reflect on beloved items and meanings they hold in our lives, and how letting go can open doors to new possibilities in life.
+After the meditation, we'll explore how possessions become meaningful and why letting go may feel difficult. In small groups we'll reflect on beloved items and meanings they hold in our lives, and how letting go can open doors to new possibilities in life. If you'd like, bring a sacred object of your own to share with the group, show-n-tell style.
 
 After the discussion, Rob will share some stories behind his well-loved items that are looking for a new caretaker.
 
@@ -38,7 +38,7 @@ This isn't a garage sale pretending to be a workshop, it's a workshop with a gar
 
 This is also an experimental workshop, drawing inspiration from Japanese もったいない, and the Hobbit tradition of `mathoms`: well-loved objects that outlive their original purpose but are too meaningful to simply throw away.
 
-Come with an open mind, an open backpack, and maybe take home something with a story attached.
+Come with an open mind, an optional sacred object to introduce. Bring a backpack if you'd like to take home something from Rob's collection.
 
 There's no obligation to take an item. 😉 Whether or not you take something physical, I hope you'll arrive home with a new relationship to some of your own possessions.
 
@@ -51,6 +51,7 @@ There's no obligation to take an item. 😉 Whether or not you take something ph
 * 13:30: Doors open - Arrive, welcome, order a drink, and settle in
 * 14:00: Meditation - A few minutes to feel grounded and present
 * 14:05: Musings & small shares - On the things we hold, and how they hold us
+* 14:25: Show-n-tell - Attendees share a sacred object of their own
 * 14:45: Rob's stories - Tales of some of the items
 * 15:35: Freestyle browse & farewell - Find new homes for beloved things
 
