@@ -8,7 +8,7 @@ draft: false
 
 ![22 Jul 2026 Justin Martin interviews Rob Nugen podcast](https://b.robnugen.com/blog/2026/22_Jul_2026_Justin_Martin_interviews_rob_nugen_podcast_20_May_2026_1000.png)
 
-**Conversations & Meditations Podcast – Episode 22 with Rob Nugen**
+[**Conversations & Meditations Podcast – Episode 22 with Rob Nugen**](https://conversationsandmeditations.podbean.com/e/episode-22-with-rob-nugen/)
 
 > What does it really mean to live with emotional intelligence, purpose, and an open heart?
 >
