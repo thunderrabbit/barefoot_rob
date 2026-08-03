@@ -28,7 +28,7 @@ EventType: "裸足のアーシング"
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
-新百合ヶ丘 [KFC、MUFG、ディーンアンドデルーカの間](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
+新百合ヶ丘の[KFCとミスドの前](https://goo.gl/maps/aoY2j7WxkNjSC2u98): 35°36'13.3 "N 139°30'29.5 "E https://w3w.co/locator.juggler.nail
 
 #### 第ニ集合場所は新ゆりアートパークスになります
 

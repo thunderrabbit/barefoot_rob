@@ -31,7 +31,7 @@ Barefoot walking, breathing, enjoying fresh air and a lovely grassy field.
 
 HUMANDATE, FIRST_GATHERING_TIME
 
-Shin Yurigaoka between KFC, MUFG, and Dean and Deluca:  https://w3w.co/locator.juggler.nail
+Shin Yurigaoka in front of KFC and Mister Donut:  https://w3w.co/locator.juggler.nail
 
 ==== Second Meeting Point ====
 
@@ -78,7 +78,7 @@ Self care is important, so wear shoes whenever you need to!
 
 EVENT_YYYY年EVENT_M月EVENT_D日　FIRST_GATHERING_TIME
 
-新百合ヶ丘 KFC、MUFG、ディーンアンドデルーカの間: https://w3w.co/locator.juggler.nail
+新百合ヶ丘のKFCとミスドの前: https://w3w.co/locator.juggler.nail
 
 ==== 第ニ集合場所は新ゆりアートパークスになります ====
 
