@@ -1,0 +1,25 @@
+---
+title: "Nine Inch Nails Further Down the Spiral CD"
+slug: "nine-inch-nails-further-down-the-spiral-cd"
+mg_issue_id: ""
+category: "music"
+tier: ""
+mechanism: ""
+event: ""
+pickup: ""
+images:
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_further_down_the_spiral_cd/2026-aug-04-nine-inch-nails-further-down-the-spiral-cd-front_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_further_down_the_spiral_cd/2026-aug-04-nine-inch-nails-further-down-the-spiral-cd-back_1000.jpg"
+  - "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_further_down_the_spiral_cd/2026-aug-04-nine-inch-nails-further-down-the-spiral-cd-open_1000.jpg"
+thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_further_down_the_spiral_cd/thumbs/2026-aug-04-nine-inch-nails-further-down-the-spiral-cd-front.jpg"
+stripe_product_id: ""
+stripe_price_id: ""
+stripe_buy_url: ""
+price_jpy: 800
+quantity: 1
+sold: false
+draft: false
+date: 2026-08-04
+---
+
+A Nine Inch Nails "Further Down the Spiral" compact disc (Halo Ten) featuring the iconic spiral artwork on the case.

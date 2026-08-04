@@ -23,10 +23,10 @@
    "mechanism" : "",
    "mg_issue_id" : "",
    "name" : "World banknote lot — 15 notes from 11 countries",
-   "price_jpy" : 5555,
+   "price_jpy" : 8000,
    "quantity" : 1,
    "slug" : "world-banknote-lot",
-   "sold" : false,
+   "sold" : true,
    "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/collectible/world_banknote_lot/thumbs/2026-jun-27-world-banknote-lot-nzd-5.jpg",
    "tier" : ""
 }

@@ -27,9 +27,9 @@ thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/collectible/world_bankno
 stripe_product_id: "prod_UmU2gfrrz0Z4G9"
 stripe_price_id: "price_0Tmv452pYT1oPdidtwR4LoCh"
 stripe_buy_url: "https://buy.stripe.com/bJe7ss3Gd4KrfRed7z2sM0x"
-price_jpy: 5555
+price_jpy: 8000
 quantity: 1
-sold: false
+sold: true
 draft: false
 date: 2026-06-27
 ---
