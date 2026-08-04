@@ -28,4 +28,4 @@ This still works, although I haven't determined *how* to use it well. I can easi
 
 Pictured: A Wacom Bamboo Pen CTL-470 graphics drawing tablet in lime yellow with a pressure-sensitive stylus included.
 
-Requires micro USB cable
+Requires a micro USB cable, such as my [white magnetic charging cable](/en/sayonara/items/white-magnetic-charging-cable-usb-a-to-micro-usb/)?

@@ -29,4 +29,4 @@ I bought a few of these awesome magnetic micro USB cables on Kickstarter. At thi
 
 A white silicone USB-A to micro-USB charging and data cable with embedded magnets along its length that allow it to coil and hold its shape neatly.
 
-Works well with the bamboo tablet
+Works well with [Bamboo Tablet](/en/sayonara/items/wacom-bamboo-pen-ctl-470/)
