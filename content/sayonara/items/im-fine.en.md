@@ -7,6 +7,7 @@ item_tags:
   - "books"
   - "mens-work"
   - "by-rob"
+  - "signed"
 tier: "anchor"
 mechanism: ""
 event: ""
