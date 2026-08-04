@@ -3,6 +3,8 @@ title: "The Spirit Phone softcover"
 slug: "the-spirit-phone-softcover"
 mg_issue_id: ""
 category: "books"
+item_tags:
+  - "books"
 tier: ""
 mechanism: ""
 event: ""

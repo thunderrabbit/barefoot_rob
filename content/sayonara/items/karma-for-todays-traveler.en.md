@@ -3,6 +3,9 @@ title: "Karma for Today's Traveler"
 slug: "karma-for-todays-traveler"
 mg_issue_id: 289
 category: "book"
+item_tags:
+  - "books"
+  - "spiritual"
 tier: "B"
 mechanism: ""
 event: ""

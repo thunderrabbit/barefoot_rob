@@ -3,6 +3,9 @@ title: "Worldwide Prayer Circle"
 slug: "worldwide-prayer-circle"
 mg_issue_id: 292
 category: "book"
+item_tags:
+  - "books"
+  - "spiritual"
 tier: "C"
 mechanism: ""
 event: ""

@@ -3,6 +3,9 @@ title: "High Fidelity"
 slug: "high-fidelity"
 mg_issue_id: 299
 category: "dvd"
+item_tags:
+  - "movies"
+  - "dvd"
 tier: "C"
 mechanism: ""
 event: ""

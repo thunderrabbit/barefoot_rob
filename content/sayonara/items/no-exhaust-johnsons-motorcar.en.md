@@ -3,6 +3,8 @@ title: "No Exhaust — Johnsons Motorcar"
 slug: "no-exhaust-johnsons-motorcar"
 mg_issue_id: 302
 category: "cd"
+item_tags:
+  - "music"
 tier: "B"
 mechanism: ""
 event: ""

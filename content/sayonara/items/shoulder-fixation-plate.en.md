@@ -3,6 +3,8 @@ title: "Titanium Shoulder Fixation Plate"
 slug: "shoulder-fixation-plate"
 mg_issue_id: 295
 category: "titanium"
+item_tags:
+  - "oddity"
 tier: "finale"
 mechanism: ""
 event: ""

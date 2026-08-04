@@ -3,6 +3,9 @@ title: "The Life You Were Born to Live"
 slug: "the-life-you-were-born-to-live"
 mg_issue_id: 288
 category: "book"
+item_tags:
+  - "books"
+  - "spiritual"
 tier: "A-/B+"
 mechanism: ""
 event: ""

@@ -91,6 +91,18 @@ for my $f (@files) {
     push @fm, "slug: " . yq($slug);
     push @fm, "mg_issue_id: " . ($item->{mg_issue_id} ? $item->{mg_issue_id} + 0 : '""');
     push @fm, "category: " . yq($item->{category} // "");
+
+    # item_tags, not tags: `tags` is the site-wide Hugo taxonomy that 600+ blog and
+    # event pages already populate, and sale items have no business in those term
+    # listings. The catalog filter reads this as a plain page param.
+    my @tags = @{ $item->{tags} // [] };
+    if (@tags) {
+        push @fm, "item_tags:";
+        push @fm, "  - " . yq($_) for @tags;
+    } else {
+        push @fm, "item_tags: []";
+    }
+
     push @fm, "tier: " . yq($item->{tier} // "");
     push @fm, "mechanism: " . yq($item->{mechanism} // "");
     push @fm, "event: " . yq($item->{event} // "");

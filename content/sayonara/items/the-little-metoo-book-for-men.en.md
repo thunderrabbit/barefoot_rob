@@ -3,6 +3,9 @@ title: "The Little #MeToo Book for Men"
 slug: "the-little-metoo-book-for-men"
 mg_issue_id: 287
 category: "book"
+item_tags:
+  - "books"
+  - "mens-work"
 tier: "B+"
 mechanism: ""
 event: ""

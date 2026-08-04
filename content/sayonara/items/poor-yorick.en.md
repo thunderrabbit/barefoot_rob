@@ -3,6 +3,9 @@ title: "Poor Yorick"
 slug: "poor-yorick"
 mg_issue_id: 283
 category: "book"
+item_tags:
+  - "books"
+  - "comics"
 tier: "C"
 mechanism: ""
 event: ""

@@ -3,6 +3,8 @@ title: "ASUS external DVD drive"
 slug: "asus-external-dvd-drive"
 mg_issue_id: ""
 category: "computer"
+item_tags:
+  - "electronics"
 tier: ""
 mechanism: ""
 event: ""

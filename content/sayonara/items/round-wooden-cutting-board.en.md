@@ -3,6 +3,9 @@ title: "Round Wooden Cutting Board"
 slug: "round-wooden-cutting-board"
 mg_issue_id: 296
 category: "kitchen"
+item_tags:
+  - "kitchen"
+  - "japan"
 tier: "B/C"
 mechanism: ""
 event: ""

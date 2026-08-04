@@ -3,6 +3,9 @@ title: "The Cosmic War"
 slug: "the-cosmic-war"
 mg_issue_id: 286
 category: "book"
+item_tags:
+  - "books"
+  - "spiritual"
 tier: "B"
 mechanism: ""
 event: ""
