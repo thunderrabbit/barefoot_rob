@@ -10,9 +10,9 @@ pickup: ""
 images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/books/2026-aug-03-atlantean-secrets-book-series_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/books/thumbs/2026-aug-03-atlantean-secrets-book-series.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_V0XVkKh0rrUfa5"
+stripe_price_id: "price_0U0WQg2pYT1oPdid2hXH9JYR"
+stripe_buy_url: "https://buy.stripe.com/28E6oo0u13Gn8oM8Rj2sM0T"
 price_jpy: 5000
 quantity: 1
 sold: false

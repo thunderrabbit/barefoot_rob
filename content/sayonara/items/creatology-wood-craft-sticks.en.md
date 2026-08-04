@@ -12,9 +12,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/art-supplies/creatology_wood_craft_sticks/2026-aug-04-creatology-wood-craft-sticks-detail_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/art-supplies/creatology_wood_craft_sticks/2026-aug-04-creatology-wood-craft-sticks-back_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/art-supplies/creatology_wood_craft_sticks/thumbs/2026-aug-04-creatology-wood-craft-sticks-front.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_V0XV44tnWnS3wP"
+stripe_price_id: "price_0U0WQi2pYT1oPdidRJnTIA2k"
+stripe_buy_url: "https://buy.stripe.com/cNi5kkb8Fgt9fRe2sV2sM0U"
 price_jpy: 500
 quantity: 1
 sold: false

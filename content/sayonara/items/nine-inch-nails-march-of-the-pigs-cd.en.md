@@ -13,9 +13,9 @@ images:
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_march_of_the_pigs_cd/2026-aug-04-nine-inch-nails-march-of-the-pigs-cd-disc_1000.jpg"
   - "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_march_of_the_pigs_cd/2026-aug-04-nine-inch-nails-march-of-the-pigs-cd-interior_1000.jpg"
 thumb: "https://b.robnugen.com/home/tokyo/2026/p1/items/music/nine_inch_nails_march_of_the_pigs_cd/thumbs/2026-aug-04-nine-inch-nails-march-of-the-pigs-cd-front.jpg"
-stripe_product_id: ""
-stripe_price_id: ""
-stripe_buy_url: ""
+stripe_product_id: "prod_V0XVaUyOPL1EpF"
+stripe_price_id: "price_0U0WQp2pYT1oPdidVl9CPuWm"
+stripe_buy_url: "https://buy.stripe.com/dRm288foVdgX48w5F72sM0Y"
 price_jpy: 800
 quantity: 1
 sold: false

@@ -24,6 +24,15 @@
       "product_id" : "prod_UnDdl7RlakE2sw",
       "quantity" : 1
    },
+   "atlantean-secrets-book-series" : {
+      "amount_jpy" : 5000,
+      "buy_url" : "https://buy.stripe.com/28E6oo0u13Gn8oM8Rj2sM0T",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQg2pYT1oPdidC09vN5BC",
+      "price_id" : "price_0U0WQg2pYT1oPdid2hXH9JYR",
+      "product_id" : "prod_V0XVkKh0rrUfa5",
+      "quantity" : 1
+   },
    "beaded-blue-whale-brooch" : {
       "amount_jpy" : 500,
       "buy_url" : "https://buy.stripe.com/5kQ5kkccJfp58oMc3v2sM0Q",
@@ -57,6 +66,15 @@
       "payment_link" : "plink_0Tm8Gu2pYT1oPdidHHSY2XjF",
       "price_id" : "price_0Tm8Gu2pYT1oPdidex6jqd3r",
       "product_id" : "prod_UlfcY3AMyrstJS"
+   },
+   "creatology-wood-craft-sticks" : {
+      "amount_jpy" : 500,
+      "buy_url" : "https://buy.stripe.com/cNi5kkb8Fgt9fRe2sV2sM0U",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQi2pYT1oPdidPIMzGF4C",
+      "price_id" : "price_0U0WQi2pYT1oPdidRJnTIA2k",
+      "product_id" : "prod_V0XV44tnWnS3wP",
+      "quantity" : 1
    },
    "drill-bit-and-driver-set-with-case" : {
       "amount_jpy" : 2000,
@@ -137,6 +155,33 @@
       "product_id" : "prod_Un9BvJqEBMKto9",
       "quantity" : 1
    },
+   "nine-inch-nails-closer-to-god-cd" : {
+      "amount_jpy" : 800,
+      "buy_url" : "https://buy.stripe.com/fZu00090xgt9bAY7Nf2sM0V",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQk2pYT1oPdidvZHGRuoE",
+      "price_id" : "price_0U0WQj2pYT1oPdidejanOU6F",
+      "product_id" : "prod_V0XV06GW1sJG8S",
+      "quantity" : 1
+   },
+   "nine-inch-nails-fixed-cd" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/6oU9AA7Wt4KrgVi6Jb2sM0W",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQm2pYT1oPdidyNUwxbq1",
+      "price_id" : "price_0U0WQl2pYT1oPdidYlO8HCZO",
+      "product_id" : "prod_V0XVSqTaCLw6LT",
+      "quantity" : 1
+   },
+   "nine-inch-nails-further-down-the-spiral-cd" : {
+      "amount_jpy" : 800,
+      "buy_url" : "https://buy.stripe.com/4gM000gsZel15cA9Vn2sM0X",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQo2pYT1oPdidHj8k6OV3",
+      "price_id" : "price_0U0WQn2pYT1oPdidusYfr2WN",
+      "product_id" : "prod_V0XVAXYUAWUiCQ",
+      "quantity" : 1
+   },
    "nine-inch-nails-halo-fourteen-deluxe-cd" : {
       "amount_jpy" : 1500,
       "buy_url" : "https://buy.stripe.com/5kQ1446Sp90H34sgjL2sM0N",
@@ -146,6 +191,15 @@
       "product_id" : "prod_UnHgb2fEC88CMu",
       "quantity" : 1
    },
+   "nine-inch-nails-march-of-the-pigs-cd" : {
+      "amount_jpy" : 800,
+      "buy_url" : "https://buy.stripe.com/dRm288foVdgX48w5F72sM0Y",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQp2pYT1oPdidxz3rzP8u",
+      "price_id" : "price_0U0WQp2pYT1oPdidVl9CPuWm",
+      "product_id" : "prod_V0XVaUyOPL1EpF",
+      "quantity" : 1
+   },
    "nine-inch-nails-self-destruction-men-cd" : {
       "amount_jpy" : 1500,
       "buy_url" : "https://buy.stripe.com/7sYcMMfoVel148w5F72sM0O",
@@ -153,6 +207,15 @@
       "payment_link" : "plink_0Tnh7Q2pYT1oPdid35MFP7kB",
       "price_id" : "price_0Tnh7Q2pYT1oPdidKNBiuXDP",
       "product_id" : "prod_UnHg4APXwIewrA",
+      "quantity" : 1
+   },
+   "nine-inch-nails-woodstock-1994-cd" : {
+      "amount_jpy" : 1500,
+      "buy_url" : "https://buy.stripe.com/bJe1447Wt6Sz34s7Nf2sM0Z",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQr2pYT1oPdidVUkh8o9g",
+      "price_id" : "price_0U0WQq2pYT1oPdidC0Jacejd",
+      "product_id" : "prod_V0XVjHJuTLuWqP",
       "quantity" : 1
    },
    "no-exhaust-johnsons-motorcar" : {
@@ -271,6 +334,15 @@
       "product_id" : "prod_UliDMayeIhgatu",
       "quantity" : 1
    },
+   "the-spirit-phone-softcover" : {
+      "amount_jpy" : 1000,
+      "buy_url" : "https://buy.stripe.com/fZu3cc1y5ccT5cAffH2sM10",
+      "mode" : "live",
+      "payment_link" : "plink_0U0WQt2pYT1oPdidBVp9j31d",
+      "price_id" : "price_0U0WQs2pYT1oPdidpAazvLTJ",
+      "product_id" : "prod_V0XVnf07D7Sx9m",
+      "quantity" : 1
+   },
    "to-be-or-not-to-be" : {
       "amount_jpy" : 2000,
       "buy_url" : "https://buy.stripe.com/00w3ccdgNb8PdJ63wZ2sM0p",
@@ -332,6 +404,7 @@
       "payment_link" : "plink_0Tmv462pYT1oPdidZWoACnKO",
       "price_id" : "price_0Tmv452pYT1oPdidtwR4LoCh",
       "product_id" : "prod_UmU2gfrrz0Z4G9",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    }
 }
