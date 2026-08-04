@@ -24,6 +24,32 @@
             {{ $forsale := sort (where (where $all "Params.sold" "ne" true) "Params.price_jpy" "gt" 0) "Params.price_jpy" "desc" }}
             {{ $coming := sort (complement $sold $forsale $all) "Title" }}
 
+            {{/* Tag vocabulary for the filter chips, biggest first. item_tags is a plain
+                 page param, not a taxonomy — see the note in sayonara_generate.pl. */}}
+            {{ $tags := slice }}
+            {{ range $all }}{{ $tags = $tags | append .Params.item_tags }}{{ end }}
+            {{ $vocab := slice }}
+            {{ range $t := sort (uniq $tags) }}
+                {{ $vocab = $vocab | append (dict "tag" $t "n" (len (where $all "Params.item_tags" "intersect" (slice $t)))) }}
+            {{ end }}
+
+            {{/* hidden until the script reveals it, so a no-JS visitor sees the plain grid
+                 instead of a dead control */}}
+            <div class="sayonara-filter" id="sayonara-filter" hidden>
+                <div class="sayonara-chips">
+                    <button type="button" class="sayonara-chip is-active" data-tag="">all <span class="sayonara-chip-n">{{ len $all }}</span></button>
+                    {{ range sort $vocab "n" "desc" }}
+                    <button type="button" class="sayonara-chip" data-tag="{{ .tag }}">{{ .tag }} <span class="sayonara-chip-n">{{ .n }}</span></button>
+                    {{ end }}
+                </div>
+                <p class="sayonara-filter-row">
+                    <label for="sayonara-q">Filter</label>
+                    <input type="search" id="sayonara-q" placeholder="tag or item name…" autocomplete="off">
+                    <button type="button" id="sayonara-clear" class="sayonara-clear" title="Clear filter" aria-label="Clear filter">&#10005;</button>
+                    <span class="sayonara-count" id="sayonara-count" aria-live="polite"></span>
+                </p>
+            </div>
+
             <div class="pure-g sayonara-grid">
                 {{ partial "sayonara-item-grid.html" $forsale }}
                 {{ partial "sayonara-item-grid.html" $coming }}
@@ -34,5 +60,6 @@
         </div>
     </div>
 </div>
+<script src='{{ "js/sayonara-filter.js?v=1" | absURL }}'></script>
 </body>
 </html>
