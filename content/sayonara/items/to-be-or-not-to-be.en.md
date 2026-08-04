@@ -3,6 +3,9 @@ title: "To Be or Not To Be: A Chooseable-Path Adventure"
 slug: "to-be-or-not-to-be"
 mg_issue_id: 282
 category: "book"
+item_tags:
+  - "books"
+  - "comics"
 tier: "A"
 mechanism: ""
 event: ""

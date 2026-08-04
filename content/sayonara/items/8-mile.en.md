@@ -3,6 +3,9 @@ title: "8 Mile"
 slug: "8-mile"
 mg_issue_id: 298
 category: "dvd"
+item_tags:
+  - "movies"
+  - "dvd"
 tier: "C"
 mechanism: ""
 event: ""

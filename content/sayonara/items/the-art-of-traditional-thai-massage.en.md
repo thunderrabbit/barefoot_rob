@@ -3,6 +3,8 @@ title: "The Art of Traditional Thai Massage"
 slug: "the-art-of-traditional-thai-massage"
 mg_issue_id: 284
 category: "book"
+item_tags:
+  - "books"
 tier: "B+"
 mechanism: ""
 event: ""

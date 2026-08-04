@@ -3,6 +3,8 @@ title: "TOWN — Johnsons Motorcar"
 slug: "town-johnsons-motorcar"
 mg_issue_id: 303
 category: "cd"
+item_tags:
+  - "music"
 tier: "B"
 mechanism: ""
 event: ""

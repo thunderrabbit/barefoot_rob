@@ -3,6 +3,8 @@ title: "Creatology wood craft sticks"
 slug: "creatology-wood-craft-sticks"
 mg_issue_id: ""
 category: "art-supplies"
+item_tags:
+  - "art"
 tier: ""
 mechanism: ""
 event: ""

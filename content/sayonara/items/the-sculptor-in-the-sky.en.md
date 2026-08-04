@@ -3,6 +3,9 @@ title: "The Sculptor in the Sky"
 slug: "the-sculptor-in-the-sky"
 mg_issue_id: 285
 category: "book"
+item_tags:
+  - "books"
+  - "spiritual"
 tier: "B"
 mechanism: ""
 event: ""

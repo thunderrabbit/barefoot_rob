@@ -3,6 +3,9 @@ title: "The Human Male"
 slug: "the-human-male"
 mg_issue_id: 291
 category: "book"
+item_tags:
+  - "books"
+  - "mens-work"
 tier: "B"
 mechanism: ""
 event: ""

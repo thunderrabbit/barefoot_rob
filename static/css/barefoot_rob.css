@@ -125,6 +125,54 @@ div.thermometer {
 .sayonara-grid { margin: 0 0 2em; }
 .sayonara-group-head { margin-top: 1.5em; }
 
+/* --- catalog tag filter (see static/js/sayonara-filter.js) --- */
+.sayonara-filter { margin: 0 0 1.5em; }
+.sayonara-chips { margin-bottom: 0.75em; }
+.sayonara-chip {
+  display: inline-block;
+  margin: 0 0.4em 0.4em 0;
+  padding: 0.25em 0.7em;
+  border: 1px solid #ccc;
+  border-radius: 999px;
+  background: #fff;
+  color: #444;
+  font: inherit;
+  font-size: 0.85em;
+  line-height: 1.6;
+  cursor: pointer;
+}
+.sayonara-chip:hover { border-color: #00b2ca; color: #00b2ca; }
+.sayonara-chip.is-active {
+  background: #00b2ca;
+  border-color: #00b2ca;
+  color: #fff;
+}
+.sayonara-chip-n { opacity: 0.6; margin-left: 0.35em; }
+
+.sayonara-filter-row { margin: 0; }
+.sayonara-filter-row label { margin-right: 0.5em; font-size: 0.9em; color: #555; }
+.sayonara-filter-row input {
+  padding: 0.3em 0.6em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font: inherit;
+  font-size: 0.9em;
+  max-width: 100%;
+}
+.sayonara-clear {
+  border: 0;
+  background: none;
+  color: #888;
+  font-size: 1em;
+  line-height: 1;
+  padding: 0.3em 0.4em;
+  cursor: pointer;
+}
+.sayonara-clear:hover { color: #f3474f; }
+.sayonara-count { margin-left: 0.5em; font-size: 0.85em; color: #777; }
+
+.sayonara-hidden { display: none !important; }
+
 .sayonara-card {
   display: block;
   padding: 0.5em;

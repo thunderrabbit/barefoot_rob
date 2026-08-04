@@ -3,6 +3,8 @@ title: "The Eminem Show"
 slug: "the-eminem-show"
 mg_issue_id: 297
 category: "cd"
+item_tags:
+  - "music"
 tier: "B"
 mechanism: ""
 event: ""

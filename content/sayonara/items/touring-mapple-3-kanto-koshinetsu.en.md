@@ -3,6 +3,10 @@ title: "Touring Mapple 3 Kanto-Koshinetsu"
 slug: "touring-mapple-3-kanto-koshinetsu"
 mg_issue_id: 294
 category: "book"
+item_tags:
+  - "books"
+  - "japan"
+  - "travel"
 tier: "story-B"
 mechanism: ""
 event: ""

@@ -3,6 +3,8 @@ title: "Keguribap — Philip Gayle"
 slug: "keguribap-philip-gayle"
 mg_issue_id: 301
 category: "cd"
+item_tags:
+  - "music"
 tier: "B"
 mechanism: ""
 event: ""

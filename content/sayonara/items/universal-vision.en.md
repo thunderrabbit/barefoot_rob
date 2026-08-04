@@ -3,6 +3,9 @@ title: "Universal Vision"
 slug: "universal-vision"
 mg_issue_id: 290
 category: "book"
+item_tags:
+  - "books"
+  - "spiritual"
 tier: "B-"
 mechanism: ""
 event: ""

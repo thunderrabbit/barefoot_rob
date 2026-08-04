@@ -3,6 +3,9 @@ title: "Melinda Ortner (signed)"
 slug: "melinda-ortner"
 mg_issue_id: 300
 category: "cd"
+item_tags:
+  - "music"
+  - "signed"
 tier: "B"
 mechanism: ""
 event: ""

@@ -3,6 +3,8 @@ title: "Metal padlock with keys"
 slug: "metal-padlock-with-keys"
 mg_issue_id: ""
 category: "dense"
+item_tags:
+  - "hardware"
 tier: ""
 mechanism: ""
 event: ""

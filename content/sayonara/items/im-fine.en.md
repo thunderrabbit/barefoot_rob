@@ -3,6 +3,10 @@ title: "I'M FINE!"
 slug: "im-fine"
 mg_issue_id: 293
 category: "book"
+item_tags:
+  - "books"
+  - "mens-work"
+  - "by-rob"
 tier: "anchor"
 mechanism: ""
 event: ""
