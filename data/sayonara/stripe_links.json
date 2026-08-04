@@ -263,6 +263,15 @@
       "product_id" : "prod_UmUq9BdjUStgau",
       "quantity" : 1
    },
+   "scratch-n-sketch-circuit-board" : {
+      "amount_jpy" : 2500,
+      "buy_url" : "https://buy.stripe.com/7sY4ggfoVccTbAYgjL2sM11",
+      "mode" : "live",
+      "payment_link" : "plink_0U0aBo2pYT1oPdidTvvYNlQ2",
+      "price_id" : "price_0U0aBo2pYT1oPdidIOa5u2UZ",
+      "product_id" : "prod_V0bOvaeO3Mkz3H",
+      "quantity" : 1
+   },
    "sentrysafe-digital-lock-safe" : {
       "amount_jpy" : 20000,
       "buy_url" : "https://buy.stripe.com/dRm6oo90x0ub8oMgjL2sM0h",
@@ -386,6 +395,24 @@
       "payment_link" : "plink_0Tmvrl2pYT1oPdidsQWBKciY",
       "price_id" : "price_0Tmvrk2pYT1oPdidPfnAnojS",
       "product_id" : "prod_UmUrGD3CccVolK",
+      "quantity" : 1
+   },
+   "wacom-bamboo-pen-ctl-470" : {
+      "amount_jpy" : 2500,
+      "buy_url" : "https://buy.stripe.com/eVqaEEa4B7WDeNa9Vn2sM12",
+      "mode" : "live",
+      "payment_link" : "plink_0U0aBq2pYT1oPdidIhQIB3MK",
+      "price_id" : "price_0U0aBp2pYT1oPdidN2LyUSfC",
+      "product_id" : "prod_V0bO9WVZYdMw8p",
+      "quantity" : 1
+   },
+   "white-magnetic-charging-cable-usb-a-to-micro-usb" : {
+      "amount_jpy" : 300,
+      "buy_url" : "https://buy.stripe.com/bJebIIgsZdgX7kI5F72sM13",
+      "mode" : "live",
+      "payment_link" : "plink_0U0aBs2pYT1oPdidIGAO4OaD",
+      "price_id" : "price_0U0aBs2pYT1oPdidn0fypDWV",
+      "product_id" : "prod_V0bOU7ydCZ01c8",
       "quantity" : 1
    },
    "wire-cutters-and-pliers-set" : {
