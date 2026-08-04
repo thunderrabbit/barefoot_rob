@@ -73,9 +73,9 @@ for my $f (@files) {
     my $slug = $item->{slug};
     unless ($slug) { warn "skip $f: no slug\n"; next; }
 
-    # Boss-set sale fields override the sidecar (price/event/sold/tier/mechanism/quantity)
+    # Boss-set sale fields override the sidecar (price/event/sold/tier/mechanism/quantity/tags)
     if (my $ov = $sale{$slug}) {
-        for my $k (qw(name price_jpy event sold tier mechanism quantity pickup)) {
+        for my $k (qw(name price_jpy event sold tier mechanism quantity pickup tags)) {
             $item->{$k} = $ov->{$k} if exists $ov->{$k};
         }
     }
