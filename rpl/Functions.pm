@@ -228,10 +228,21 @@ sub get_title($)
     print "Enter title that comes after '" . $prefix . "'\n\n";
     $title = std_in_logger();
     $title =~ s/\s+/ /g;       # two spaces => one space
-    $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace
-    $title =~ s/^"(.*)"$/$1/;  # strip surrounding "s
-    $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace  }
+    $title =~ s/\s+$//;        # drop the trailing newline, keep any leading space
+    $title =~ s/^(\s*)"(.*)"$/$1$2/;  # strip surrounding "s, keep the leading space
+
+    # A LEADING space is kept, because it is the only way to say "Ring Ring! ...
+    # Answer?" + " (afternoon session)" -- the prefix ends in punctuation, so
+    # gluing the two together gives "Answer?(afternoon session)".  Rob used to
+    # have to add that space to the .md by hand, which meant replaying the
+    # generator no longer reproduced its own page.
     $title = $prefix.$title;
+
+    # Whatever the two halves were, the finished title never has whitespace on
+    # either end: kebab_case turns that into a leading or trailing hyphen in the
+    # filename, which is how "...sans trailing hyphens---" happened.  This also
+    # makes a leading space harmless when $prefix is empty.
+    $title =~ s/^\s+|\s+$//g;
     $confirmed = ask_confirm_string($title);
   }
   return $title;
