@@ -31,12 +31,13 @@ aliases: [
 #### Synchronicities
 
 On Monday 10th of August 2026 I attended a webinar by Carla Barbery and
-learned a lot!
+learned a lot about *Burnout*.
 
 With her permission, I
 [posted my favorite slide from Carla's talk](https://www.linkedin.com/posts/robnugen_thank-you-carla-berbary-for-your-brilliant-share-7492549720322539520-fQpj/).
 
-I had been online all day, so I went for a walk in nature while listening to a podcast.
+After reflecting on Burnout,
+I realized I had been online all day, so I went for a walk in nature while listening to a podcast.
 
 In the podcast, David Parker described how his two children had been killed in a
 tragic car accident; he became a shut-in for one year, even
@@ -61,36 +62,38 @@ the title and concept of my new workshop came through.
 
 #### The ninety minutes
 
-* **The first 25 minutes**: Talking about "spiritual stuff":
-  synchronicities, near-death experiences, past lives.. *This part will be recorded.*
+* **The first 25 minutes**: Talking about "spiritual stuff" including consciousness, synchronicities, near-death experiences, past lives.. (*This part will be recorded.*)
 * **After the discourse, the recording stops.**
-* **The middle** you write. Guided prompts, some silence, optional music.
-  You will list anything that is blocking your progress, so you can get some support on it.
+* **The middle** you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
 * **Sharing**: in small groups.
-* **Take Aways and Taking Action**: one easy thing you will do within 48 hours, and one thing you will ask for help with. in the group, if you are willing.
+* **Take Aways and Taking Action**: one easy thing you will do within 48 hours, and one thing you may ask for help with, if you are willing.
 
 #### What you will leave with
 
 Two lists on paper: one list of actions you can do.  One list of requests for which you need help.
 
-#### Come as you are
+#### What do you mean, "Spiritual Stuff?"
 
 I am going to talk about "God" or "Universe" or "The Great Blah Blah Blah."
 You don't need to believe in something spiritual.
 The exercise works exactly the same either way; we're just sorting our own troubles
-into two piles and ask for a hand with some of them.
+into two piles and asking for a hand with some of them.
 
 #### When:
 
-**HUMANDATE, Zoom doors open at FIRST_GATHERING_TIME; starts promptly at EVENT_TIME** (Japan time)
+**HUMANDATE**
+
+Zoom doors open at **FIRST_GATHERING_TIME**
+
+We'll start promptly at **EVENT_TIME** (Japan time)
 
 CALENDAR_LINKS
 
 #### All three sessions:
 
-* [Wednesday 19 August, 14:00 JST](/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer-afternoon-session/) — a friendly hour for Australia and Asia
-* [Wednesday 19 August, 19:00 JST](/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/)
-* [Monday 31 August, 19:00 JST](/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer/) — the last one before I leave for Australia 🦘🦘🦘 for 3 months with Jess
+* [Wednesday 19 August, 14:00 JST](/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer-afternoon-session/), for anyone busy in the evenings
+* [Wednesday 19 August, 19:00 JST](/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/), for anyone busy during the day
+* [Monday 31 August, 19:00 JST](/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer/), the last one before I leave for Australia 🦘🦘🦘 for 3 months with Jess
 
 #### How to join:
 
