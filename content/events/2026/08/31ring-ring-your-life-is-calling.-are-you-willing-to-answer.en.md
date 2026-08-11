@@ -1,18 +1,18 @@
 ---
 title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer?"
-tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "webinar", "裸足のロブ" ]
+tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-11T21:22:46+09:00
+date: 2026-08-11T21:36:58+09:00
 EventLocation: "Zoom"
 EventTime: "19:00"
 TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
-EventDate: "2026-08-19T19:00:00+09:00"
-EventEndDate: "2026-08-19T20:30:00+09:00"
-EventLocationURL: "https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg"
+EventDate: "2026-08-31T19:00:00+09:00"
+EventEndDate: "2026-08-31T20:30:00+09:00"
+EventLocationURL: "https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw"
 EventType: "Productivity Experiment"
 outputs: ["HTML", "Calendar"]
 aliases: [
-    "/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer",
+    "/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer",
 ]
 ---
 
@@ -81,7 +81,7 @@ into two piles and asking for a hand with some of them.
 
 #### When:
 
-**Wednesday 19 August 2026**
+**Monday 31 August 2026**
 
 Zoom doors open at **18:45**
 
@@ -97,7 +97,7 @@ We'll start promptly at **19:00** (Japan time)
 
 #### How to join:
 
-Register here: https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg
+Register here: https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw
 
 Zoom will email you your own link to join.
 

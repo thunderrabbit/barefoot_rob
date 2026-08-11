@@ -1,18 +1,18 @@
 ---
-title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer?"
-tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "webinar", "裸足のロブ" ]
+title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer? (afternoon session)"
+tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-11T21:22:46+09:00
+date: 2026-08-11T21:41:37+09:00
 EventLocation: "Zoom"
-EventTime: "19:00"
-TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
-EventDate: "2026-08-19T19:00:00+09:00"
-EventEndDate: "2026-08-19T20:30:00+09:00"
-EventLocationURL: "https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg"
+EventTime: "14:00"
+TimeDescription: "Zoom doors open at 13:45; start promptly at 14:00"
+EventDate: "2026-08-19T14:00:00+09:00"
+EventEndDate: "2026-08-19T15:30:00+09:00"
+EventLocationURL: "https://us02web.zoom.us/meeting/register/8xEoKf3qQZqE2W-2vnfm4A"
 EventType: "Productivity Experiment"
 outputs: ["HTML", "Calendar"]
 aliases: [
-    "/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer",
+    "/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer-afternoon-session",
 ]
 ---
 
@@ -83,9 +83,9 @@ into two piles and asking for a hand with some of them.
 
 **Wednesday 19 August 2026**
 
-Zoom doors open at **18:45**
+Zoom doors open at **13:45**
 
-We'll start promptly at **19:00** (Japan time)
+We'll start promptly at **14:00** (Japan time)
 
 {{< calendar-links >}}
 
@@ -97,7 +97,7 @@ We'll start promptly at **19:00** (Japan time)
 
 #### How to join:
 
-Register here: https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg
+Register here: https://us02web.zoom.us/meeting/register/8xEoKf3qQZqE2W-2vnfm4A
 
 Zoom will email you your own link to join.
 
