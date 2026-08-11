@@ -1,20 +1,14 @@
 ring_ring
 2026-08-19
-STARTING_ANEW
-ring_ring
-2026-08-19
 19:00
 y
-18:45
-STARTING_ANEW
-ring_ring
-2026-08-19
-19:00
-y
+90
+https://us02web.zoom.us/j/89290292465?pwd=fGDIpjrFBT9JZ0JzjG1FxPYJMfxAoQ.1
 18:45
 
 yes
 
 yes
 https://b.robnugen.com/rob/portraits/2024_jan_book_a_free_discovery_call_1000.jpg
-y
+
+yes
