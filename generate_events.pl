@@ -111,6 +111,10 @@ if(exists $rpl::Constants::event_duration_minutes{$what_kinda_event}) {
   $event_end_datetime = $event_date_time->clone->add( minutes => $duration_minutes )->strftime("%Y-%m-%dT%H:%M:%S") . $rpl::Functions::zoffset;
 }
 if(exists $rpl::Constants::event_location_urls{$what_kinda_event}) {
+  ## Some event types need a URL made per event, so explain how before asking.
+  if(my $help = $rpl::Constants::event_location_url_help{$what_kinda_event}) {
+    print "\n$help\n";
+  }
   $event_location_url = rpl::Functions::input_string_with_default("event location URL (Zoom / Meet / Maps)", $rpl::Constants::event_location_urls{$what_kinda_event});
 }
 #-- end calendar links
@@ -259,11 +263,13 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
   ## Calendar tokens only fill when this event type is configured for them.
   ## Anything left unfilled is caught below, before the file is written.
-  ## EVENT_LOCATION_URL must go before EVENT_LOCATION, or it is left as "Zoom_URL".
+  ## The location tokens are EVENT_LOCATION_NAME and EVENT_LOCATION_URL: neither
+  ## is a prefix of the other, so no substitution can eat the front of the other
+  ## one and these three lines can be in any order.
   $mt3_episode_output =~ s/EVENT_END_DATETIME/$event_end_datetime/g if $event_end_datetime;
   $mt3_episode_output =~ s/EVENT_LOCATION_URL/$event_location_url/g if $event_location_url;
   $mt3_episode_output =~ s/CALENDAR_LINKS/{{< calendar-links >}}/g if $event_end_datetime;
-  $mt3_episode_output =~ s/EVENT_LOCATION/$event_location/g;
+  $mt3_episode_output =~ s/EVENT_LOCATION_NAME/$event_location/g;
   $mt3_episode_output =~ s/SHORTDATE/$short_date/g;
   $mt3_episode_output =~ s/DATEMONTH/$date_month/g;
   $mt3_episode_output =~ s/HUMANDATE/$human_date/g;
@@ -335,9 +341,13 @@ foreach my $extension (keys %event_templates) {
   ## broken page, so refuse to write it.  Add the event type to the matching
   ## Constants hash, or take the token out of the template.
   if($mt3_episode_output =~ /(CALENDAR_LINKS|EVENT_END_DATETIME|EVENT_LOCATION_URL)/) {
-    die "The $what_kinda_event template for '$extension' asks for $1, but nothing filled it.\n"
+    my $token = $1;
+    my $help = ($token eq "EVENT_LOCATION_URL")
+      ? ($rpl::Constants::event_location_url_help{$what_kinda_event} || "") : "";
+    die "The $what_kinda_event template for '$extension' asks for $token, but nothing filled it.\n"
       . "  CALENDAR_LINKS and EVENT_END_DATETIME need \$rpl::Constants::event_duration_minutes{$what_kinda_event}\n"
-      . "  EVENT_LOCATION_URL needs \$rpl::Constants::event_location_urls{$what_kinda_event}\n";
+      . "  EVENT_LOCATION_URL needs \$rpl::Constants::event_location_urls{$what_kinda_event}\n"
+      . ($help ? "\n$help" : "");
   }
 
   open(OUT, ">", $outfile_and_title_path) or die "Could not open file '$outfile_and_title_path'";

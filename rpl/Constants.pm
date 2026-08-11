@@ -234,8 +234,39 @@ our %event_duration_minutes = (
 
 ## Zoom / Meet / Maps link for the event.  EventLocation stays the human label;
 ## this is the URL behind it.  Only event types listed here are offered the prompt.
+##
+## An empty default is deliberate for event types whose URL is made per event
+## rather than reused.  Leaving the prompt blank then stops generate_events.pl
+## before it writes a page with a dead link -- see %event_location_url_help.
 our %event_location_urls = (
-    "ring_ring" => "https://us02web.zoom.us/j/89290292465?pwd=fGDIpjrFBT9JZ0JzjG1FxPYJMfxAoQ.1",
+    "ring_ring" => "",
+);
+
+## Printed above the location URL prompt, for the day you have forgotten how
+## this works.  Keyed by event type; only shown for the types listed here.
+our %event_location_url_help = (
+    "ring_ring" => <<'END_HELP',
+  This wants a Zoom REGISTRATION URL, not a /j/ join link, and the Zoom
+  meeting has to exist before a page can be written.
+
+  FIRST run for this event: there is no generator file yet -- the generator is
+  smurfed out of the log of this very run -- so there is nothing to hand to
+  zoom_schedule.pl yet.  Leave this blank.  Generation will stop just before
+  writing the page, which is what you want: every answer you typed is already
+  in event_generators/YYYY_MM_DD_log.txt.  Save the generator from that log as
+  usual, then:
+
+      ./zoom_schedule.pl event_generators/YYYY/<that_generator>.txt
+
+  It creates the meeting with registration switched on and writes the
+  registration URL onto line 6 of the generator.  Replay that generator and
+  the page comes out with the right link.
+
+  REPLAYING a generator whose line 6 is filled: you never see this message.
+
+  Registrants each get their own join link by email.  That link is personal
+  and never goes on the website.
+END_HELP
 );
 
 our %event_primary_time = (
