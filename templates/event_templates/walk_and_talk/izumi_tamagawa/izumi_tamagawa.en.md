@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventLocation: "EVENT_LOCATION"
+EventLocation: "EVENT_LOCATION_NAME"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME; walk to Blue Cafe at IZUMI_DEPARTURE_TIME; walk to Tama River around EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"

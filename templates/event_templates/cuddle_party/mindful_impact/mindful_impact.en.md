@@ -3,9 +3,9 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventLocation: "EVENT_LOCATION"
+EventLocation: "EVENT_LOCATION_NAME"
 EventTime: "EVENT_TIME"
-TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION"
+TimeDescription: "gather by ARRIVE_BY_TIME at EVENT_LOCATION_NAME"
 EventDate: "%sTEVENT_TIME:00+10:30"
 EventType: "Cuddle Party"
 aliases: [
