@@ -316,6 +316,17 @@ sub ask_confirm_string($) {
   return $confirmed;
 }
 
+## Prompt for a value, offering $default when the user just presses enter.
+## Same shape as input_date so saved generators can answer with a blank line.
+sub input_string_with_default(@) {
+  my ($description, $default) = @_;
+  print "Input $description: ($default)\n";
+  my $user_string = std_in_logger();
+  chomp($user_string);
+  $user_string =~ s/^\s+|\s+$//g;
+  return length($user_string) ? $user_string : $default;
+}
+
 sub input_date($) {
   my ($dt) = @_;
   my $thedate = $dt->ymd;  # year-month-date (numeric).
