@@ -1,0 +1,30 @@
+{{- /* The values every calendar target needs, derived once from front matter.
+       Takes a Page, returns a dict.  Callers must check EventDate is set first. */ -}}
+{{- $page := . -}}
+{{- $start := time.AsTime $page.Params.EventDate -}}
+
+{{- /* An event with no end would be zero-length or all-day depending on the
+       calendar app, so fall back to an hour. */ -}}
+{{- $end := $start.Add (time.ParseDuration "1h") -}}
+{{- with $page.Params.EventEndDate -}}
+  {{- $end = time.AsTime . -}}
+{{- end -}}
+
+{{- /* EventLocation is the human label, EventLocationURL the Zoom/Meet/Maps
+       link behind it.  Phone calendars linkify the URL in the WHERE field. */ -}}
+{{- $location := printf "%v" ($page.Params.EventLocation | default "") -}}
+{{- with $page.Params.EventLocationURL -}}
+  {{- if eq $location "" -}}
+    {{- $location = printf "%v" . -}}
+  {{- else -}}
+    {{- $location = printf "%s — %v" $location . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Send people back to the site for official details. */ -}}
+{{- $details := $page.Permalink -}}
+{{- with $page.Params.TimeDescription -}}
+  {{- $details = printf "%v\n\n%s" . $page.Permalink -}}
+{{- end -}}
+
+{{- return dict "start" $start "end" $end "location" $location "details" $details -}}
