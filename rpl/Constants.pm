@@ -226,6 +226,18 @@ our %event_day_of_week = (
     "ring_ring" => 3,
 );
 
+## How long the event runs, in minutes.  Only event types listed here are
+## offered a duration prompt, and only they can fill EVENT_END_DATETIME.
+our %event_duration_minutes = (
+    "ring_ring" => 90,
+);
+
+## Zoom / Meet / Maps link for the event.  EventLocation stays the human label;
+## this is the URL behind it.  Only event types listed here are offered the prompt.
+our %event_location_urls = (
+    "ring_ring" => "https://us02web.zoom.us/j/89290292465?pwd=fGDIpjrFBT9JZ0JzjG1FxPYJMfxAoQ.1",
+);
+
 our %event_primary_time = (
     "yoyogi_park" => "12:00",
     "rinko_park" => "13:00",
