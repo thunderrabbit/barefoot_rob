@@ -257,6 +257,12 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/BLURB_BLOCK/$blurb/;
   $mt3_episode_output =~ s/CHAPTER_BLOCK/$chapter_contents/;
   $mt3_episode_output =~ s/EVENT_TITLE/$title/g;
+  ## Calendar tokens only fill when this event type is configured for them.
+  ## Anything left unfilled is caught below, before the file is written.
+  ## EVENT_LOCATION_URL must go before EVENT_LOCATION, or it is left as "Zoom_URL".
+  $mt3_episode_output =~ s/EVENT_END_DATETIME/$event_end_datetime/g if $event_end_datetime;
+  $mt3_episode_output =~ s/EVENT_LOCATION_URL/$event_location_url/g if $event_location_url;
+  $mt3_episode_output =~ s/CALENDAR_LINKS/{{< calendar-links >}}/g if $event_end_datetime;
   $mt3_episode_output =~ s/EVENT_LOCATION/$event_location/g;
   $mt3_episode_output =~ s/SHORTDATE/$short_date/g;
   $mt3_episode_output =~ s/DATEMONTH/$date_month/g;
@@ -286,11 +292,6 @@ foreach my $extension (keys %event_templates) {
   $mt3_episode_output =~ s/TICKET_LINK/$suggested_ticket_link/g;
   $mt3_episode_output =~ s/TICKET_PRICE/$single_price/g;
   $mt3_episode_output =~ s/BUNDLE_PRICE/$bundle_price/g;
-  ## Calendar tokens only fill when this event type is configured for them.
-  ## Anything left unfilled is caught below, before the file is written.
-  $mt3_episode_output =~ s/EVENT_END_DATETIME/$event_end_datetime/g if $event_end_datetime;
-  $mt3_episode_output =~ s/EVENT_LOCATION_URL/$event_location_url/g if $event_location_url;
-  $mt3_episode_output =~ s/CALENDAR_LINKS/{{< calendar-links >}}/g if $event_end_datetime;
 
   # do the rest algorithmically
   foreach my $key (keys %{ $new_entry }) {
