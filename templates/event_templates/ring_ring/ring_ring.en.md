@@ -9,7 +9,7 @@ TimeDescription: "Zoom doors open at FIRST_GATHERING_TIME; start promptly at EVE
 EventDate: "%sTEVENT_TIME:00+09:00"
 EventEndDate: "EVENT_END_DATETIME"
 EventLocationURL: "EVENT_LOCATION_URL"
-EventType: "Webinar"
+EventType: "Productivity Experiment"
 outputs: ["HTML", "Calendar"]
 aliases: [
     "/enalias_path",
@@ -46,7 +46,7 @@ painted over all his windows so he couldn't see the world outside his house.
 His deceased children came to him in a vision and chewed him out.
 "What do you think you are doing? We have so much work to do! ..."
 No living human had been willing to say that to him.
-So his dead children had to do it.
+So his dead children came to do it.
 
 🎧 [Hear that story yourself](https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s)
 
@@ -60,9 +60,9 @@ the title and concept of my new workshop came through.
 
 *Ring Ring!  Your Life is Calling.  Are You Willing to Answer?*
 
-#### The ninety minutes
+#### What will we do?
 
-* **The first 25 minutes**: Talking about "spiritual stuff" including consciousness, synchronicities, near-death experiences, past lives.. (*This part will be recorded.*)
+* **The first 25 minutes**: Rob sharing about "spiritual stuff" including consciousness, synchronicities, near-death experiences, and past lives.. (*This part will be recorded.*)
 * **After the discourse, the recording stops.**
 * **The middle** you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
 * **Sharing**: in small groups.

@@ -349,7 +349,7 @@ our %event_tag_hashes = (
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
     "mindful_sayonara" => {"sayonara" => 1, "letting go" => 1, "mottainai" => 1, "もったいない" => 1, "mathom" => 1, "workshop" => 1, "tea" => 1, "meguro" => 1, "impact-hub-tokyo" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
-    "ring_ring" => {"webinar" => 1, "life-purpose" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
+    "ring_ring" => {"online" => 1, "productivity" => 1, "life-purpose" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
 );
 
 our %event_title_prefixes = (
