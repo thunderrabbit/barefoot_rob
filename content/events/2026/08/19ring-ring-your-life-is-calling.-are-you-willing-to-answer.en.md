@@ -2,12 +2,15 @@
 title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer?"
 tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "webinar", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-11T09:55:17+09:00
+date: 2026-08-11T11:40:05+09:00
 EventLocation: "Zoom"
 EventTime: "19:00"
 TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
 EventDate: "2026-08-19T19:00:00+09:00"
+EventEndDate: "2026-08-19T20:30:00+09:00"
+EventLocationURL: "https://us02web.zoom.us/j/89290292465?pwd=fGDIpjrFBT9JZ0JzjG1FxPYJMfxAoQ.1"
 EventType: "Webinar"
+outputs: ["HTML", "Calendar"]
 aliases: [
     "/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer",
 ]
@@ -35,6 +38,13 @@ Was that podcast my perfect wake up call??  I don't know, but I'm going to run a
 
 **Wednesday 19 August 2026, Zoom doors open at 18:45; starts promptly at 19:00**
 
+{{< calendar-links >}}
+
 #### Where:
 
 https://us02web.zoom.us/j/89290292465?pwd=fGDIpjrFBT9JZ0JzjG1FxPYJMfxAoQ.1
+
+#### Bring:
+
+* Notebook
+* Curiosity
