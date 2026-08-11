@@ -13,7 +13,7 @@ my $zone = DateTime::TimeZone->new(name => 'local')->name;
 my $dt = DateTime->now(time_zone => 'local');
 
 # Get the timezone offset in "+hh:mm" format
-my $zoffset = $dt->strftime('%z');
+our $zoffset = $dt->strftime('%z');
 $zoffset =~ s/(\d{2})(\d{2})$/$1:$2/;  # Convert "+hhmm" to "+hh:mm"
 
 print "Detected Time Zone: $zone\n";   # Works in Adelaide
