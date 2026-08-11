@@ -232,6 +232,17 @@ our %event_duration_minutes = (
     "ring_ring" => 90,
 );
 
+## What registrants read as the Zoom meeting description.  Only event types listed
+## here get one; zoom_schedule.pl refuses to schedule a listed type without it.
+##
+## It lives beside the page template rather than inside zoom_schedule.pl because
+## that is where it drifts: rewrite ring_ring.en.md and the Zoom blurb is sitting
+## in the same directory asking to be rewritten too.  Zoom caps this at 2000
+## characters, so it is a condensed version of the page, never a copy of it.
+our %event_zoom_agenda_files = (
+    "ring_ring" => "$event_templates/ring_ring/zoom_agenda.txt",
+);
+
 ## Zoom / Meet / Maps link for the event.  EventLocation stays the human label;
 ## this is the URL behind it.  Only event types listed here are offered the prompt.
 ##
