@@ -101,7 +101,13 @@ sub read_generator {
   my $date       = $answer[1] // "";
   my $time       = $answer[2] // "";
   my $duration   = $answer[4] // "";
-  my $title      = $answer[7] // "";
+
+  ## Line 8 is a title SUFFIX, not a title: Functions::get_title prompts with
+  ## "Enter title that comes after '<prefix>'" and returns prefix + answer.
+  ## Reading it as the whole title drops the prefix, which is how the afternoon
+  ## session came to be called " (afternoon session)" on Zoom while its page
+  ## says "Ring Ring! ... Are You Willing to Answer? (afternoon session)".
+  my $suffix     = $answer[7] // "";
 
   die "$path: only " . scalar(@answer) . " answers; this does not look like a "
     . "complete event generator\n"
@@ -118,8 +124,12 @@ sub read_generator {
   $duration ||= $rpl::Constants::event_duration_minutes{$event_type}
     or die "$path: no duration on line 5 and no "
          . "Constants::event_duration_minutes{$event_type}\n";
-  $title = $rpl::Constants::event_title_prefixes{$event_type}
-    unless length $title;
+  my $prefix = $rpl::Constants::event_title_prefixes{$event_type} // "";
+  $suffix =~ s/\s+/ /g;
+  $suffix =~ s/^\s+|\s+$//g;
+  my $title = length $suffix ? "$prefix $suffix" : $prefix;
+  $title =~ s/^\s+|\s+$//g;
+
   die "$path: no title on line 8 and no "
      . "Constants::event_title_prefixes{$event_type}\n"
     unless length $title;
