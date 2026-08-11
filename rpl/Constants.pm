@@ -199,6 +199,9 @@ our %event_template_files = (
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.meetup.txt",
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.linkedin.txt",
     ],
+    "ring_ring" => [
+      "$event_templates/ring_ring/ring_ring.en.md",
+    ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
 
@@ -220,6 +223,7 @@ our %event_day_of_week = (
     "quest_update" => 3,
     "bold_life_tribe" => 1,
     "mindful_sayonara" => 6,
+    "ring_ring" => 6,
 );
 
 our %event_primary_time = (
@@ -234,6 +238,7 @@ our %event_primary_time = (
     "hossawa_falls" => "13:00",
     "hikarie_to_foot_bath" => "13:00",
     "mindful_sayonara" => "14:00",
+    "ring_ring" => "20:00",
 );
 
 our %gather_minutes_before_event = (
@@ -268,6 +273,7 @@ our %event_locations = (
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko",
     "mindful_sayonara" => "Impact HUB Tokyo (Meguro)",
+    "ring_ring" => "Zoom",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -300,6 +306,7 @@ our %event_tag_hashes = (
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
     "mindful_sayonara" => {"sayonara" => 1, "letting go" => 1, "mottainai" => 1, "もったいない" => 1, "mathom" => 1, "workshop" => 1, "tea" => 1, "meguro" => 1, "impact-hub-tokyo" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
+    "ring_ring" => {"webinar" => 1, "life-purpose" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
 );
 
 our %event_title_prefixes = (
