@@ -239,6 +239,10 @@ our %event_duration_minutes = (
 ## that is where it drifts: rewrite ring_ring.en.md and the Zoom blurb is sitting
 ## in the same directory asking to be rewritten too.  Zoom caps this at 2000
 ## characters, so it is a condensed version of the page, never a copy of it.
+##
+## Write each paragraph as ONE long line, separated by blank lines.  Zoom keeps
+## your newlines AND wraps to its own width on top of them, so a file wrapped at
+## 80 columns comes out ragged, every hard break leaving a short orphan line.
 our %event_zoom_agenda_files = (
     "ring_ring" => "$event_templates/ring_ring/zoom_agenda.txt",
 );
