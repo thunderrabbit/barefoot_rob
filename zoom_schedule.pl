@@ -48,15 +48,38 @@ for my $arg (@ARGV) {
 
 my $json = JSON::PP->new->utf8->canonical->pretty;
 
-## What registrants see as the meeting description.  Keyed by event type so a
-## second kind of webinar can be added without touching anything else.
-my %agenda_for = (
-  ring_ring => "A free 90 minute experiment.  Near-death reports, why hundreds "
-    . "of strangers keep describing the same thing, and a writing exercise that "
-    . "ends with one thing you will do and one thing you will ask for help with.  "
-    . "Men and women welcome.  The first 25 minutes are recorded; the recording "
-    . "stops before the writing.",
-);
+## What registrants see as the meeting description, read from the file that sits
+## beside the page template -- see %event_zoom_agenda_files in Constants.pm for
+## why it lives there rather than here.
+##
+## Every failure is fatal.  A blank agenda is not a small cosmetic problem: it
+## goes out on a live registration page and in the confirmation email, and the
+## only way to notice is to look.  Zoom's own limit is 2000 characters, and it
+## truncates silently rather than complaining, so check that here too.
+my $ZOOM_AGENDA_MAX = 2000;
+
+sub agenda_for {
+  my ($event_type) = @_;
+  my $path = $rpl::Constants::event_zoom_agenda_files{$event_type}
+    or die "no Constants::event_zoom_agenda_files{$event_type} -- add one "
+         . "before scheduling a '$event_type' meeting\n";
+
+  open my $fh, "<:encoding(UTF-8)", $path
+    or die "cannot read the Zoom agenda at $path: $!\n"
+         . "This file is deliberately untracked, so a fresh clone will not have "
+         . "it.  Write it before scheduling, or Zoom gets a blank description.\n";
+  my $agenda = do { local $/; <$fh> };
+  close $fh;
+
+  $agenda =~ s/\s+\z//;
+  length $agenda
+    or die "the Zoom agenda at $path is empty\n";
+  length($agenda) <= $ZOOM_AGENDA_MAX
+    or die "the Zoom agenda at $path is " . length($agenda) . " characters; "
+         . "Zoom allows $ZOOM_AGENDA_MAX and truncates the rest without saying so\n";
+
+  return $agenda;
+}
 
 ## ------------------------------------------------------------- generator file
 
@@ -171,7 +194,7 @@ sub meeting_payload {
     start_time => $session->{start},       # local time; timezone below
     duration   => $session->{duration},
     timezone   => "Asia/Tokyo",
-    agenda     => $agenda_for{ $session->{event_type} } // "",
+    agenda     => agenda_for($session->{event_type}),
     settings   => {
       approval_type                  => 0,
       registrants_confirmation_email => JSON::PP::true,  # carries the join link
