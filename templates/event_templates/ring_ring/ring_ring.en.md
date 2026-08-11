@@ -7,7 +7,10 @@ EventLocation: "EVENT_LOCATION"
 EventTime: "EVENT_TIME"
 TimeDescription: "Zoom doors open at FIRST_GATHERING_TIME; start promptly at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
+EventEndDate: "EVENT_END_DATETIME"
+EventLocationURL: "EVENT_LOCATION_URL"
 EventType: "Webinar"
+outputs: ["HTML", "Calendar"]
 aliases: [
     "/enalias_path",
 ]
@@ -35,9 +38,11 @@ Was that podcast my perfect wake up call??  I don't know, but I'm going to run a
 
 **HUMANDATE, Zoom doors open at FIRST_GATHERING_TIME; starts promptly at EVENT_TIME**
 
+CALENDAR_LINKS
+
 #### Where:
 
-https://us02web.zoom.us/j/89290292465?pwd=fGDIpjrFBT9JZ0JzjG1FxPYJMfxAoQ.1
+EVENT_LOCATION_URL
 
 #### Bring:
 
