@@ -2,7 +2,7 @@
 title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer? (afternoon session)"
 tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-11T21:41:37+09:00
+date: 2026-08-11T21:50:56+09:00
 EventLocation: "Zoom"
 EventTime: "14:00"
 TimeDescription: "Zoom doors open at 13:45; start promptly at 14:00"
@@ -64,7 +64,7 @@ the title and concept of my new workshop came through.
 
 * **The first 25 minutes**: Rob sharing about "spiritual stuff" including consciousness, synchronicities, near-death experiences, and past lives.. (*This part will be recorded.*)
 * **After the discourse, the recording stops.**
-* **The middle** you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
+* **The middle**: you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
 * **Sharing**: in small groups.
 * **Take Aways and Taking Action**: one easy thing you will do within 48 hours, and one thing you may ask for help with, if you are willing.
 
