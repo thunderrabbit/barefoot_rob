@@ -34,17 +34,22 @@ use JSON::PP;
 use LWP::UserAgent;
 use HTTP::Request::Common qw(POST PATCH);
 use MIME::Base64 qw(encode_base64);
+use DateTime;
+use Encode qw(encode_utf8);
 
-my $dry_run   = 0;
-my $ask_phone = 0;
+my $dry_run     = 0;
+my $ask_phone   = 0;
+my $update_zoom = 0;
 my @generator_files;
 for my $arg (@ARGV) {
-  if    ($arg eq "--dry-run")   { $dry_run   = 1 }
-  elsif ($arg eq "--ask-phone") { $ask_phone = 1 }
-  else                          { push @generator_files, $arg }
+  if    ($arg eq "--dry-run")     { $dry_run     = 1 }
+  elsif ($arg eq "--ask-phone")   { $ask_phone   = 1 }
+  elsif ($arg eq "--update-zoom") { $update_zoom = 1 }
+  else                            { push @generator_files, $arg }
 }
 @generator_files
-  or die "usage: $0 [--dry-run] [--ask-phone] <generator.txt> [...]\n";
+  or die "usage: $0 [--dry-run] [--ask-phone] <generator.txt> [...]\n"
+       . "       $0 --update-zoom [--dry-run] <generator.txt> [...]\n";
 
 my $json = JSON::PP->new->utf8->canonical->pretty;
 
@@ -228,11 +233,104 @@ sub questions_payload {
   };
 }
 
+## -------------------------------------------------------------- finding again
+
+## The meeting id is never written down -- only the registration URL is, on line
+## 6 -- so an update has to go looking.  Zoom's List Meetings response does not
+## carry registration_url, so this narrows on start time first (cheap, and
+## normally leaves one candidate) and then confirms on registration_url, which
+## is the only field that ties a meeting to a generator beyond doubt.
+##
+## Topic is deliberately NOT used for matching: it is the field most likely to
+## have been edited in the Zoom UI, and it is already wrong on at least one
+## meeting -- see the note about title suffixes in read_generator.
+
+sub get_json {
+  my ($ua, $token, $url) = @_;
+  my $res = $ua->get($url, Authorization => "Bearer $token");
+  die "GET $url failed: " . $res->status_line . "\n" . $res->decoded_content . "\n"
+    unless $res->is_success;
+  return decode_json($res->decoded_content);
+}
+
+## Zoom stores the meeting in Asia/Tokyo but lists it back in UTC.
+sub utc_start {
+  my ($session) = @_;
+  my ($y, $mo, $d, $h, $mi, $s) = $session->{start}
+    =~ /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})$/
+    or die "cannot parse start time '$session->{start}'\n";
+  my $dt = DateTime->new(
+    year => $y, month => $mo, day => $d,
+    hour => $h, minute => $mi, second => $s,
+    time_zone => "Asia/Tokyo",
+  );
+  $dt->set_time_zone("UTC");
+  return $dt->strftime("%Y-%m-%dT%H:%M:%SZ");
+}
+
+sub scheduled_meetings {
+  my ($ua, $token) = @_;
+  my @meetings;
+  my $next = "";
+  while (1) {
+    my $url = "https://api.zoom.us/v2/users/me/meetings"
+            . "?type=scheduled&page_size=300";
+    $url .= "&next_page_token=$next" if length $next;
+    my $page = get_json($ua, $token, $url);
+    push @meetings, @{ $page->{meetings} || [] };
+    $next = $page->{next_page_token} // "";
+    last unless length $next;
+  }
+  return @meetings;
+}
+
+sub find_meeting {
+  my ($ua, $token, $session, $all) = @_;
+  my $want_start = utc_start($session);
+  my $want_url   = $session->{location_url};
+
+  my @at_that_time = grep { ($_->{start_time} // "") eq $want_start } @$all;
+  @at_that_time
+    or die "$session->{path}: no scheduled meeting starts at $want_start "
+         . "($session->{start} Asia/Tokyo).\nIt may have already happened -- "
+         . "Zoom lists past meetings separately.\n";
+
+  my @matched;
+  for my $meeting (@at_that_time) {
+    my $detail = get_json($ua, $token,
+      "https://api.zoom.us/v2/meetings/$meeting->{id}");
+    push @matched, $detail
+      if ($detail->{registration_url} // "") eq $want_url;
+  }
+
+  @matched == 1
+    or die "$session->{path}: " . scalar(@matched) . " of the "
+         . scalar(@at_that_time) . " meetings at $want_start have registration "
+         . "URL\n  $want_url\nExpected exactly one.\n";
+
+  return $matched[0];
+}
+
 ## ----------------------------------------------------------------------- main
 
 my @sessions = map { read_generator($_) } @generator_files;
 
-if ($dry_run) {
+## Everything that can be known without asking Zoom is checked before asking
+## Zoom, so a typo costs a second rather than a half-finished run across three
+## meetings.  agenda_for is called for the die, and its result thrown away.
+if ($update_zoom) {
+  for my $session (@sessions) {
+    length $session->{location_url}
+      or die "$session->{path}: line 6 is blank, so no meeting was ever made "
+           . "from this generator and there is nothing to update.\n";
+    agenda_for($session->{event_type});
+  }
+}
+
+## A creation dry run needs no credentials -- it only prints what it would send.
+## An update dry run does need them: saying what would change means reading what
+## is there now.
+if ($dry_run && !$update_zoom) {
   print "DRY RUN -- nothing will be created\n\n";
   for my $session (@sessions) {
     print "$session->{path}\n";
@@ -250,6 +348,65 @@ if ($dry_run) {
 my $ua    = LWP::UserAgent->new(timeout => 30);
 my $cred  = read_credentials();
 my $token = access_token($cred, $ua);
+
+## ------------------------------------------------------- update existing only
+
+## The two fields that are words, and are supposed to say what the website says:
+## topic and agenda.  Date, time and duration are deliberately NOT touched --
+## moving those under someone who has already registered is a different kind of
+## mistake from a stale sentence, and Zoom emails registrants about it.
+##
+## Only what actually differs is sent, so a re-run is a no-op and says so.
+if ($update_zoom) {
+  print "DRY RUN -- nothing will be changed\n\n" if $dry_run;
+
+  my @all = scheduled_meetings($ua, $token);
+  my $changed = 0;
+
+  for my $session (@sessions) {
+    my $meeting = find_meeting($ua, $token, $session, \@all);
+
+    printf "%s\n  meeting %s  %s\n", $session->{path}, $meeting->{id},
+      $session->{start};
+
+    my %want = (
+      topic  => $session->{title},
+      agenda => agenda_for($session->{event_type}),
+    );
+
+    my %change;
+    for my $field (sort keys %want) {
+      my $old = $meeting->{$field} // "";
+      next if $old eq $want{$field};
+      $change{$field} = $want{$field};
+      print encode_utf8("  $field\n    - $old\n    + $want{$field}\n");
+    }
+
+    unless (%change) {
+      print "  already current\n\n";
+      next;
+    }
+
+    print "\n";
+    next if $dry_run;
+
+    my $res = $ua->request(PATCH
+      "https://api.zoom.us/v2/meetings/$meeting->{id}",
+      Authorization  => "Bearer $token",
+      "Content-Type" => "application/json",
+      Content        => encode_json(\%change),
+    );
+    die "updating " . join(" and ", sort keys %change)
+      . " on meeting $meeting->{id} failed: "
+      . $res->status_line . "\n" . $res->decoded_content . "\n"
+      unless $res->is_success;
+    print "  updated " . join(" and ", sort keys %change) . "\n\n";
+    $changed++;
+  }
+
+  print $dry_run ? "nothing sent\n" : "$changed meeting(s) updated\n";
+  exit 0;
+}
 
 my @created;
 for my $session (@sessions) {
