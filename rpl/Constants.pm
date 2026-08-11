@@ -223,7 +223,7 @@ our %event_day_of_week = (
     "quest_update" => 3,
     "bold_life_tribe" => 1,
     "mindful_sayonara" => 6,
-    "ring_ring" => 6,
+    "ring_ring" => 3,
 );
 
 our %event_primary_time = (
@@ -238,7 +238,7 @@ our %event_primary_time = (
     "hossawa_falls" => "13:00",
     "hikarie_to_foot_bath" => "13:00",
     "mindful_sayonara" => "14:00",
-    "ring_ring" => "20:00",
+    "ring_ring" => "19:00",
 );
 
 our %gather_minutes_before_event = (
@@ -312,4 +312,5 @@ our %event_tag_hashes = (
 our %event_title_prefixes = (
     "weekly_alignment" => "Weekly Alignment - ",
     "bold_life_tribe" => "Bold Life Tribe",
+    "ring_ring" => "Ring Ring! Your Life is Calling.  Are You Willing to Answer?",
 );
