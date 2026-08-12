@@ -51,7 +51,8 @@ So his dead children came to do it.
 🎧 [Hear that story yourself](https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s)
 
 I burst into tears and bawled crying;
-this story is talking to *me*! "I'm so sorry; I'm so sorry I've been so scared to be seen.
+this story is talking to *me*!
+I cried, "I'm so sorry; I'm so sorry I've been so scared to be seen.
 Please help me.  Please help me serve."
 
 I cried all the way home, cried in the shower, then had a good sleep,
