@@ -201,6 +201,7 @@ our %event_template_files = (
     ],
     "ring_ring" => [
       "$event_templates/ring_ring/ring_ring.en.md",
+      "$event_templates/ring_ring/ring_ring.linkedin.txt",
     ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
