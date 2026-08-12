@@ -1,0 +1,111 @@
+https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
+https://www.meetup.com/all-things-emotion/schedule/
+
+This is ONE Meetup event for ONE session.  Unlike the LinkedIn post, which
+covers all three sessions at once, this file carries only HUMANDATE and only
+that session's registration link -- so run each session's generator and post
+the copy it makes.
+
+title:       %s
+date HUMANDATE   EVENT_TIME
+
+Click duration --> 1 hour 30 minutes
+
+(HUMANDATE  EVENT_END_TIME)
+
+Meetup shows EVENT_TIME, the promptly-start time, same as every other channel
+-- not the FIRST_GATHERING_TIME doors-open time.  The walk templates list the
+gather time because the group walks off without you; this is a room with a hard
+start, so it follows the cuddle party templates instead.
+
+episode_image
+
+Alt text
+episode_image_alt
+
+A free 90 minute productivity experiment on Zoom. Men and women welcome.
+
+You have lived many lives. But right now you have just one life to live. Synchronicities abound!
+
+  ＊
+
+On Monday 10th of August 2026 I attended a webinar by Carla Berbary and learned a lot about Burnout. Afterwards I realized I had been online all day, so I went for a walk in nature while listening to a podcast.
+
+In the podcast, David Parker described how his two children had been killed in a tragic car accident; he became a shut-in for one year, even painted over all his windows so he couldn't see the world outside his house.
+
+His deceased children came to him in a vision and chewed him out. "What do you think you are doing? We have so much work to do! ..." No living human had been willing to say that to him. So his dead children came to do it.
+
+🎧 Hear that story yourself: https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s
+
+I burst into tears and bawled crying; this story is talking to me! I cried, "I'm so sorry; I'm so sorry I've been so scared to be seen. Please help me. Please help me serve."
+
+I cried all the way home, cried in the shower, then had a good sleep, woke up at 06:47 and meditated for an hour during which the title and concept of this workshop came through.
+
+Ring Ring! Your Life is Calling. Are You Willing to Answer?
+
+  ＊    ＊
+
+# What will we do?
+
+* The first 25 minutes: Rob shares about "spiritual stuff" including consciousness, synchronicities, near-death experiences, and past lives. (This part will be recorded.)
+* After the discourse, the recording stops.
+* The middle: you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
+* Sharing: in small groups.
+* Take Aways and Taking Action: one easy thing you will do within 48 hours, and one thing you may ask for help with, if you are willing.
+
+# What you will leave with
+
+Two lists on paper: one list of actions you can do. One list of requests for which you need help.
+
+# What do you mean, "Spiritual Stuff?"
+
+I am going to talk about "God" or "Universe" or "The Great Blah Blah Blah." You don't need to believe in something spiritual. The exercise works exactly the same either way; we're just sorting our own troubles into two piles and asking for a hand with some of them.
+
+# When
+
+HUMANDATE
+
+Zoom doors open at FIRST_GATHERING_TIME. Please join by ARRIVE_BY_TIME so we can start promptly at EVENT_TIME (Japan time). We finish by EVENT_END_TIME.
+
+# How to join
+
+Register here: EVENT_LOCATION_URL
+
+Zoom will email you your own link to join. That link is yours alone, so please don't pass it on -- send your friends this page instead.
+
+# Cost
+
+Free.
+
+# Please bring
+
+Notebook and pen to write your lists.
+
+# Other sessions this month
+
+I am running this workshop three times in August. Dates, times, and each session's registration link are here:
+
+https://www.robnugen.com/enalias_path
+
+----------------------------------------
+TOPICS  FEEL FREE TO CHANGE:
+* Personal Development
+* Productivity
+* Life Purpose
+* Meditation
+* Spirituality
+
+
+SELECT Make this an online event
+
+Online event link:
+EVENT_LOCATION_URL
+
+
+Optional settings
+
+RSVP close time:  1 hour before
+
+Publish
+
+Announce it now
