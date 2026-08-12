@@ -1,132 +1,81 @@
-Events > Create an Event
+LinkedIn > Start a post
 
-Add cover image (16:9, min 1280x720)
+This is a POST, not a LinkedIn Event.  One post covers all three sessions, so
+post it once -- generating this file from all three generators gives you three
+near-identical copies, and only one of them wants posting.
+
+Add photo
 episode_image
 
 Alt text (for screen readers)
 episode_image_alt
 
-Organizer
-Rob Nugen (personal profile)
-
-Event Type
-Online
-
-Event Format
-External event link
-
-Event name
 title: %s
+(the workshop title, for your reference -- LinkedIn posts have no title field)
 
-Timezone
-Asia/Tokyo (GMT+9)
+Audience: Anyone
+Posting as: Rob Nugen
 
-Start date and time
-HUMANDATE   FIRST_GATHERING_TIME
 
-+ Add end date and time
-HUMANDATE   EVENT_END_TIME
-
-External event link
-EVENT_LOCATION_URL
-
-UNSELECT Use a LinkedIn registration form
-(Zoom does the registering; it is Zoom that emails each person their own join link)
-
-Description
+=========================================================================
+POST BODY   (LinkedIn cuts posts off at 3000 characters.  Only the first
+             ~200 show before the "...see more" fold, so the first two
+             lines are doing all the work.)
+=========================================================================
 
 Ring Ring! Your Life is Calling. Are You Willing to Answer?
 
-Enjoy a free 90 minute productivity experiment on Zoom. Men and women welcome.
+I woke at 06:47, meditated for an hour, and the title of my new workshop came through. Here is what happened the night before.
 
-• You have lived many lives
-• But right now you have just one life to live
-• Synchronicities abound!
+On Monday 10th of August I attended a webinar by Carla Barbery and learned a lot about Burnout. With her permission, I posted my favorite slide from her talk.
 
-Synchronicities
-
-On Monday 10th of August 2026 I attended a webinar by Carla Barbery and learned a lot about Burnout.
-
-With her permission, I posted my favorite slide from Carla's talk:
-https://www.linkedin.com/posts/robnugen_thank-you-carla-berbary-for-your-brilliant-share-7492549720322539520-fQpj/
-
-After reflecting on Burnout, I realized I had been online all day, so I went for a walk in nature while listening to a podcast.
+Afterwards I realized I had been online all day, so I went for a walk in nature while listening to a podcast.
 
 In the podcast, David Parker described how his two children had been killed in a tragic car accident; he became a shut-in for one year, even painted over all his windows so he couldn't see the world outside his house.
 
 His deceased children came to him in a vision and chewed him out. "What do you think you are doing? We have so much work to do! ..." No living human had been willing to say that to him. So his dead children came to do it.
 
-🎧 Hear that story yourself:
-https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s
-
 I burst into tears and bawled crying; this story is talking to me! "I'm so sorry; I'm so sorry I've been so scared to be seen. Please help me. Please help me serve."
 
-I cried all the way home, cried in the shower, then had a good sleep, woke up at 06:47 and meditated for an hour during which the title and concept of my new workshop came through.
+I cried all the way home, cried in the shower, then had a good sleep. And woke up with this:
 
 Ring Ring! Your Life is Calling. Are You Willing to Answer?
 
-What will we do?
+A free 90 minute productivity experiment on Zoom. Men and women welcome.
 
-• The first 25 minutes: Rob sharing about "spiritual stuff" including consciousness, synchronicities, near-death experiences, and past lives. (This part will be recorded.)
-• After the discourse, the recording stops.
-• The middle: you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
-• Sharing: in small groups.
-• Take Aways and Taking Action: one easy thing you will do within 48 hours, and one thing you may ask for help with, if you are willing.
+• The first 25 minutes: I share about "spiritual stuff" -- consciousness, synchronicities, near-death experiences, past lives. (This part is recorded; the recording stops before the writing.)
+• The middle: you write. Guided prompts, some silence, optional music. You list whatever is blocking your progress.
+• Then we share in small groups.
 
-What you will leave with
+You leave with two lists on paper: one list of actions you can do, and one list of requests for which you need help.
 
-Two lists on paper: one list of actions you can do. One list of requests for which you need help.
+You don't need to believe in anything spiritual. The exercise works exactly the same either way; we're just sorting our own troubles into two piles and asking for a hand with some of them.
 
-What do you mean, "Spiritual Stuff?"
+Bring a notebook and pen.
 
-I am going to talk about "God" or "Universe" or "The Great Blah Blah Blah." You don't need to believe in something spiritual. The exercise works exactly the same either way; we're just sorting our own troubles into two piles and asking for a hand with some of them.
+Three sessions this month. Free.
 
-When
+Registration links in the first comment 👇
 
-HUMANDATE
 
-Zoom doors open at FIRST_GATHERING_TIME
-We'll start promptly at EVENT_TIME (Japan time) and finish by EVENT_END_TIME
+=========================================================================
+FIRST COMMENT   (paste immediately after posting -- the post body stays
+                 link-free, so this comment is the only way in)
+=========================================================================
 
-All three sessions
+Three sessions -- register for the one you want. Zoom emails you your own link to join.
 
 • Wednesday 19 August, 14:00 JST, for anyone busy in the evenings
-https://www.robnugen.com/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer-afternoon-session/
+https://us02web.zoom.us/meeting/register/8xEoKf3qQZqE2W-2vnfm4A
+
 • Wednesday 19 August, 19:00 JST, for anyone busy during the day
-https://www.robnugen.com/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/
+https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg
+
 • Monday 31 August, 19:00 JST, the last one before I leave for Australia 🦘🦘🦘 for 3 months with Jess
-https://www.robnugen.com/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer/
+https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw
 
-How to join
+Full details: https://www.robnugen.com/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/
 
-Register here: EVENT_LOCATION_URL
+Carla's slide: https://www.linkedin.com/posts/robnugen_thank-you-carla-berbary-for-your-brilliant-share-7492549720322539520-fQpj/
 
-Zoom will email you your own link to join.
-
-Cost
-
-Free.
-
-Bring
-
-• Notebook and pen to write your lists
-
-Speakers
-(none — leave blank)
-
-CLICK Next
--------------------------------------
-
-Share your thoughts... (promotion post)
-
-Ring Ring! Your Life is Calling. Are You Willing to Answer?
-
-A free 90 minute productivity experiment on Zoom. I share about "spiritual stuff" — consciousness, synchronicities, near-death experiences, past lives — and then you write. You leave with two lists on paper: one easy thing you will do within 48 hours, and one thing you are willing to ask for help with. You don't need to believe in anything spiritual; the exercise works the same either way. Men and women welcome.
-
-HUMANDATE — doors open FIRST_GATHERING_TIME, we start promptly at EVENT_TIME JST.
-
-Register: EVENT_LOCATION_URL
-
-Audience: Anyone ▾   Posting as: Rob Nugen
-
-CLICK Post
+🎧 David Parker's story: https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s
