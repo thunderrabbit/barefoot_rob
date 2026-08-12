@@ -3,7 +3,7 @@ package rpl::Constants;
 use strict;
 use DateTime;
 
-our $VERSION = "1.2.0";
+our $VERSION = "1.3.0";
 
 our $home = $ENV{HOME};    # https://stackoverflow.com/a/1451420/194309
 
