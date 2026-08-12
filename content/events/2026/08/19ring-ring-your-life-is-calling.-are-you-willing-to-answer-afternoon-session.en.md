@@ -2,7 +2,7 @@
 title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer? (afternoon session)"
 tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-11T21:50:56+09:00
+date: 2026-08-12T10:41:54+09:00
 EventLocation: "Zoom"
 EventTime: "14:00"
 TimeDescription: "Zoom doors open at 13:45; start promptly at 14:00"
@@ -30,7 +30,7 @@ aliases: [
 
 #### Synchronicities
 
-On Monday 10th of August 2026 I attended a webinar by Carla Barbery and
+On Monday 10th of August 2026 I attended a webinar by Carla Berbary and
 learned a lot about *Burnout*.
 
 With her permission, I

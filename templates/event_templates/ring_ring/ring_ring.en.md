@@ -30,7 +30,7 @@ aliases: [
 
 #### Synchronicities
 
-On Monday 10th of August 2026 I attended a webinar by Carla Barbery and
+On Monday 10th of August 2026 I attended a webinar by Carla Berbary and
 learned a lot about *Burnout*.
 
 With her permission, I
