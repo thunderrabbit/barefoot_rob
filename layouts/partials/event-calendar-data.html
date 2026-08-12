@@ -27,4 +27,21 @@
   {{- $details = printf "%v\n\n%s" . $page.Permalink -}}
 {{- end -}}
 
-{{- return dict "start" $start "end" $end "location" $location "details" $details -}}
+{{- /* The name the .ics lands under in a Downloads folder.  Hugo's baseName is
+       per output format, not per page, so every event's calendar file is served
+       as index.ics; only an <a download="..."> can give it a useful name.
+
+       Dated from EventDate, not .Date, because .Date is when the file was
+       written -- and because two Ring Ring sessions share a title, so without
+       the date the second one saves as "... (1).ics".
+
+       anchorize rather than urlize: urlize keeps the period in "Calling." and
+       percent-encodes a Japanese title into a filename nobody can read. */ -}}
+{{- /* Trim is NOT piped: a pipeline appends the value as the LAST argument, so
+       `| strings.Trim "-"` trims the slug's characters out of "-" and hands
+       back an empty string. */ -}}
+{{- $slug := $page.Title | anchorize | replaceRE `-{2,}` "-" -}}
+{{- $slug = strings.Trim $slug "-" -}}
+{{- $filename := printf "%s-%s.ics" ($start.Format "2006-01-02") $slug -}}
+
+{{- return dict "start" $start "end" $end "location" $location "details" $details "filename" $filename -}}
