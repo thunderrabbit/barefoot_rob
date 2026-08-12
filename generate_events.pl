@@ -105,10 +105,15 @@ if($original_what_kinda_event eq "cuddle_party") {
 
 #-- begin calendar links.  Only event types listed in the Constants hashes are asked.
 my $event_end_datetime = "";
+my $event_end_time = "";
 my $event_location_url = "";
 if(exists $rpl::Constants::event_duration_minutes{$what_kinda_event}) {
   my $duration_minutes = rpl::Functions::input_string_with_default("event duration in minutes", $rpl::Constants::event_duration_minutes{$what_kinda_event});
-  $event_end_datetime = $event_date_time->clone->add( minutes => $duration_minutes )->strftime("%Y-%m-%dT%H:%M:%S") . $rpl::Functions::zoffset;
+  my $event_end_dt = $event_date_time->clone->add( minutes => $duration_minutes );
+  $event_end_datetime = $event_end_dt->strftime("%Y-%m-%dT%H:%M:%S") . $rpl::Functions::zoffset;
+  ## Same moment as EVENT_END_DATETIME, but as a wall clock.  Front matter wants
+  ## the full timestamp; an event site's "ends at" field wants only 20:30.
+  $event_end_time = $event_end_dt->strftime("%H:%M");
 }
 if(exists $rpl::Constants::event_location_urls{$what_kinda_event}) {
   ## Some event types need a URL made per event, so explain how before asking.
@@ -265,8 +270,10 @@ foreach my $extension (keys %event_templates) {
   ## Anything left unfilled is caught below, before the file is written.
   ## The location tokens are EVENT_LOCATION_NAME and EVENT_LOCATION_URL: neither
   ## is a prefix of the other, so no substitution can eat the front of the other
-  ## one and these three lines can be in any order.
+  ## one and these lines can be in any order.  Same for EVENT_END_DATETIME and
+  ## EVENT_END_TIME, and neither of those contains EVENT_TIME as a substring.
   $mt3_episode_output =~ s/EVENT_END_DATETIME/$event_end_datetime/g if $event_end_datetime;
+  $mt3_episode_output =~ s/EVENT_END_TIME/$event_end_time/g if $event_end_time;
   $mt3_episode_output =~ s/EVENT_LOCATION_URL/$event_location_url/g if $event_location_url;
   $mt3_episode_output =~ s/CALENDAR_LINKS/{{< calendar-links >}}/g if $event_end_datetime;
   $mt3_episode_output =~ s/EVENT_LOCATION_NAME/$event_location/g;
@@ -340,12 +347,12 @@ foreach my $extension (keys %event_templates) {
   ## A template asking for a calendar token that never got a value would ship a
   ## broken page, so refuse to write it.  Add the event type to the matching
   ## Constants hash, or take the token out of the template.
-  if($mt3_episode_output =~ /(CALENDAR_LINKS|EVENT_END_DATETIME|EVENT_LOCATION_URL)/) {
+  if($mt3_episode_output =~ /(CALENDAR_LINKS|EVENT_END_DATETIME|EVENT_END_TIME|EVENT_LOCATION_URL)/) {
     my $token = $1;
     my $help = ($token eq "EVENT_LOCATION_URL")
       ? ($rpl::Constants::event_location_url_help{$what_kinda_event} || "") : "";
     die "The $what_kinda_event template for '$extension' asks for $token, but nothing filled it.\n"
-      . "  CALENDAR_LINKS and EVENT_END_DATETIME need \$rpl::Constants::event_duration_minutes{$what_kinda_event}\n"
+      . "  CALENDAR_LINKS, EVENT_END_DATETIME and EVENT_END_TIME need \$rpl::Constants::event_duration_minutes{$what_kinda_event}\n"
       . "  EVENT_LOCATION_URL needs \$rpl::Constants::event_location_urls{$what_kinda_event}\n"
       . ($help ? "\n$help" : "");
   }
