@@ -20,5 +20,5 @@
       "body" $cal.details
       "location" $cal.location) -}}
 
-<p class="calendar-links">Add to calendar: <a href="{{ $google }}">Google</a> &middot; <a href="{{ $outlook }}">Outlook</a>{{ with $page.OutputFormats.Get "calendar" }} &middot; <a href="{{ .RelPermalink }}">.ics</a>{{ end }}</p>
+<p class="calendar-links">Add to calendar: <a href="{{ $google }}">Google</a> &middot; <a href="{{ $outlook }}">Outlook</a>{{ with $page.OutputFormats.Get "calendar" }} &middot; <a href="{{ .RelPermalink }}" download="{{ $cal.filename }}">.ics</a>{{ end }}</p>
 {{- end -}}
