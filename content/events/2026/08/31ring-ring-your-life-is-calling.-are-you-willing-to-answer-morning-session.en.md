@@ -1,18 +1,18 @@
 ---
-title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer?"
+title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer? (morning session)"
 tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-12T10:41:53+09:00
+date: 2026-08-20T10:48:24+09:00
 EventLocation: "Zoom"
-EventTime: "19:00"
-TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
-EventDate: "2026-08-31T19:00:00+09:00"
-EventEndDate: "2026-08-31T20:30:00+09:00"
-EventLocationURL: "https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw"
+EventTime: "09:00"
+TimeDescription: "Zoom doors open at 08:45; start promptly at 09:00"
+EventDate: "2026-08-31T09:00:00+09:00"
+EventEndDate: "2026-08-31T10:30:00+09:00"
+EventLocationURL: "https://us02web.zoom.us/meeting/register/5LP-ulOmSY-AIboA8W6ZCw"
 EventType: "Productivity Experiment"
 outputs: ["HTML", "Calendar"]
 aliases: [
-    "/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer",
+    "/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer-morning-session",
 ]
 ---
 
@@ -84,9 +84,9 @@ into two piles and asking for a hand with some of them.
 
 **Monday 31 August 2026**
 
-Zoom doors open at **18:45**
+Zoom doors open at **08:45**
 
-We'll start promptly at **19:00** (Japan time)
+We'll start promptly at **09:00** (Japan time)
 
 {{< calendar-links >}}
 
@@ -97,7 +97,7 @@ We'll start promptly at **19:00** (Japan time)
 
 #### How to join:
 
-Register here: https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw
+Register here: https://us02web.zoom.us/meeting/register/5LP-ulOmSY-AIboA8W6ZCw
 
 Zoom will email you your own link to join.
 

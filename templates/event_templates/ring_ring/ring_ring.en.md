@@ -90,10 +90,9 @@ We'll start promptly at **EVENT_TIME** (Japan time)
 
 CALENDAR_LINKS
 
-#### All three sessions:
+#### Both sessions:
 
-* [Wednesday 19 August, 14:00 JST](/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer-afternoon-session/), for anyone busy in the evenings
-* [Wednesday 19 August, 19:00 JST](/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/), for anyone busy during the day
+* [Monday 31 August, 09:00 JST](/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer-morning-session/), for my peeps in USA
 * [Monday 31 August, 19:00 JST](/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer/), the last one before I leave for Australia 🦘🦘🦘 for 3 months with Jess
 
 #### How to join:

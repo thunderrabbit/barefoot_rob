@@ -1,27 +1,43 @@
-https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
-https://www.meetup.com/all-things-emotion/schedule/
+MEETUP EVENT -- one session, posted separately to each group below.
 
-This is ONE Meetup event for ONE session.  Unlike the LinkedIn post, which
-covers all three sessions at once, this file carries only HUMANDATE and only
-that session's registration link -- so run each session's generator and post
-the copy it makes.
+Post to:
+  https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
+  https://www.meetup.com/all-things-emotion/schedule/
+  https://www.meetup.com/live-your-best-life/schedule/
 
 title:       %s
-date HUMANDATE   EVENT_TIME
+When:        HUMANDATE
+Start:       EVENT_TIME
+End:         EVENT_END_TIME
+Timezone:    Asia/Tokyo
+Duration:    1 hour 30 minutes
+Online:      yes
+Online link: EVENT_LOCATION_URL
+RSVP closes: 15 minutes before
+Image:       episode_image
+Image alt:   episode_image_alt
+Topics:      Personal Development, Productivity, Life Purpose, Meditation, Spiritual Growth
 
-Click duration --> 1 hour 30 minutes
+Notes -- not posted:
+  This is ONE Meetup event for ONE session.  Unlike the LinkedIn post, which
+  covers all three sessions at once, this file carries only HUMANDATE and only
+  that session's registration link -- so run each session's generator and post
+  the copy it makes.
 
-(HUMANDATE  EVENT_END_TIME)
+  Meetup shows EVENT_TIME, the promptly-start time, same as every other channel
+  -- not the FIRST_GATHERING_TIME doors-open time.  The walk templates list the
+  gather time because the group walks off without you; this is a room with a hard
+  start, so it follows the cuddle party templates instead.
 
-Meetup shows EVENT_TIME, the promptly-start time, same as every other channel
--- not the FIRST_GATHERING_TIME doors-open time.  The walk templates list the
-gather time because the group walks off without you; this is a room with a hard
-start, so it follows the cuddle party templates instead.
+  Topics above are a suggestion.  Change them freely.
 
-episode_image
+By hand -- if posting without the script:
+  Select "Make this an online event" and paste the Online link.
+  Click duration and set it to the Duration above.
+  Under Optional settings, set the RSVP close time.
+  Publish, then Announce it now.
 
-Alt text
-episode_image_alt
+--- DESCRIPTION BEGINS (everything below goes in Meetup's description box) ---
 
 A free 90 minute productivity experiment on Zoom. Men and women welcome.
 
@@ -87,25 +103,4 @@ I am running this workshop three times in August. Dates, times, and each session
 
 https://www.robnugen.com/enalias_path
 
-----------------------------------------
-TOPICS  FEEL FREE TO CHANGE:
-* Personal Development
-* Productivity
-* Life Purpose
-* Meditation
-* Spirituality
-
-
-SELECT Make this an online event
-
-Online event link:
-EVENT_LOCATION_URL
-
-
-Optional settings
-
-RSVP close time:  1 hour before
-
-Publish
-
-Announce it now
+--- DESCRIPTION ENDS ---
