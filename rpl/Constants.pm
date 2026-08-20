@@ -3,7 +3,7 @@ package rpl::Constants;
 use strict;
 use DateTime;
 
-our $VERSION = "1.2.0";
+our $VERSION = "1.3.0";
 
 our $home = $ENV{HOME};    # https://stackoverflow.com/a/1451420/194309
 
@@ -199,6 +199,12 @@ our %event_template_files = (
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.meetup.txt",
       "$event_templates/mindful_sayonara/impact_hub_tokyo/impact_hub_tokyo.linkedin.txt",
     ],
+    "ring_ring" => [
+      "$event_templates/ring_ring/ring_ring.en.md",
+      "$event_templates/ring_ring/ring_ring.eventbrite.txt",
+      "$event_templates/ring_ring/ring_ring.linkedin.txt",
+      "$event_templates/ring_ring/ring_ring.meetup.txt",
+    ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
 
@@ -220,6 +226,65 @@ our %event_day_of_week = (
     "quest_update" => 3,
     "bold_life_tribe" => 1,
     "mindful_sayonara" => 6,
+    "ring_ring" => 3,
+);
+
+## How long the event runs, in minutes.  Only event types listed here are
+## offered a duration prompt, and only they can fill EVENT_END_DATETIME.
+our %event_duration_minutes = (
+    "ring_ring" => 90,
+);
+
+## What registrants read as the Zoom meeting description.  Only event types listed
+## here get one; zoom_schedule.pl refuses to schedule a listed type without it.
+##
+## It lives beside the page template rather than inside zoom_schedule.pl because
+## that is where it drifts: rewrite ring_ring.en.md and the Zoom blurb is sitting
+## in the same directory asking to be rewritten too.  Zoom caps this at 2000
+## characters, so it is a condensed version of the page, never a copy of it.
+##
+## Write each paragraph as ONE long line, separated by blank lines.  Zoom keeps
+## your newlines AND wraps to its own width on top of them, so a file wrapped at
+## 80 columns comes out ragged, every hard break leaving a short orphan line.
+our %event_zoom_agenda_files = (
+    "ring_ring" => "$event_templates/ring_ring/zoom_agenda.txt",
+);
+
+## Zoom / Meet / Maps link for the event.  EventLocation stays the human label;
+## this is the URL behind it.  Only event types listed here are offered the prompt.
+##
+## An empty default is deliberate for event types whose URL is made per event
+## rather than reused.  Leaving the prompt blank then stops generate_events.pl
+## before it writes a page with a dead link -- see %event_location_url_help.
+our %event_location_urls = (
+    "ring_ring" => "",
+);
+
+## Printed above the location URL prompt, for the day you have forgotten how
+## this works.  Keyed by event type; only shown for the types listed here.
+our %event_location_url_help = (
+    "ring_ring" => <<'END_HELP',
+  This wants a Zoom REGISTRATION URL, not a /j/ join link, and the Zoom
+  meeting has to exist before a page can be written.
+
+  FIRST run for this event: there is no generator file yet -- the generator is
+  smurfed out of the log of this very run -- so there is nothing to hand to
+  zoom_schedule.pl yet.  Leave this blank.  Generation will stop just before
+  writing the page, which is what you want: every answer you typed is already
+  in event_generators/YYYY_MM_DD_log.txt.  Save the generator from that log as
+  usual, then:
+
+      ./zoom_schedule.pl event_generators/YYYY/<that_generator>.txt
+
+  It creates the meeting with registration switched on and writes the
+  registration URL onto line 6 of the generator.  Replay that generator and
+  the page comes out with the right link.
+
+  REPLAYING a generator whose line 6 is filled: you never see this message.
+
+  Registrants each get their own join link by email.  That link is personal
+  and never goes on the website.
+END_HELP
 );
 
 our %event_primary_time = (
@@ -234,6 +299,7 @@ our %event_primary_time = (
     "hossawa_falls" => "13:00",
     "hikarie_to_foot_bath" => "13:00",
     "mindful_sayonara" => "14:00",
+    "ring_ring" => "19:00",
 );
 
 our %gather_minutes_before_event = (
@@ -268,6 +334,7 @@ our %event_locations = (
     "hossawa_falls" => "Nishitama District: Hossawa Falls, Mt Bonbori, and Seoto foot bath",
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko",
     "mindful_sayonara" => "Impact HUB Tokyo (Meguro)",
+    "ring_ring" => "Zoom",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -300,9 +367,11 @@ our %event_tag_hashes = (
     "quest_update" => {"walk" => 1, "update" => 1, "quest" => 1},
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
     "mindful_sayonara" => {"sayonara" => 1, "letting go" => 1, "mottainai" => 1, "もったいない" => 1, "mathom" => 1, "workshop" => 1, "tea" => 1, "meguro" => 1, "impact-hub-tokyo" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
+    "ring_ring" => {"online" => 1, "productivity" => 1, "life-purpose" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
 );
 
 our %event_title_prefixes = (
     "weekly_alignment" => "Weekly Alignment - ",
     "bold_life_tribe" => "Bold Life Tribe",
+    "ring_ring" => "Ring Ring! Your Life is Calling.  Are You Willing to Answer?",
 );

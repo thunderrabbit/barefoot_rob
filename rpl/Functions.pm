@@ -13,7 +13,7 @@ my $zone = DateTime::TimeZone->new(name => 'local')->name;
 my $dt = DateTime->now(time_zone => 'local');
 
 # Get the timezone offset in "+hh:mm" format
-my $zoffset = $dt->strftime('%z');
+our $zoffset = $dt->strftime('%z');
 $zoffset =~ s/(\d{2})(\d{2})$/$1:$2/;  # Convert "+hhmm" to "+hh:mm"
 
 print "Detected Time Zone: $zone\n";   # Works in Adelaide
@@ -228,10 +228,21 @@ sub get_title($)
     print "Enter title that comes after '" . $prefix . "'\n\n";
     $title = std_in_logger();
     $title =~ s/\s+/ /g;       # two spaces => one space
-    $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace
-    $title =~ s/^"(.*)"$/$1/;  # strip surrounding "s
-    $title =~ s/^\s+|\s+$//g;  # strip surrounding whitespace  }
+    $title =~ s/\s+$//;        # drop the trailing newline, keep any leading space
+    $title =~ s/^(\s*)"(.*)"$/$1$2/;  # strip surrounding "s, keep the leading space
+
+    # A LEADING space is kept, because it is the only way to say "Ring Ring! ...
+    # Answer?" + " (afternoon session)" -- the prefix ends in punctuation, so
+    # gluing the two together gives "Answer?(afternoon session)".  Rob used to
+    # have to add that space to the .md by hand, which meant replaying the
+    # generator no longer reproduced its own page.
     $title = $prefix.$title;
+
+    # Whatever the two halves were, the finished title never has whitespace on
+    # either end: kebab_case turns that into a leading or trailing hyphen in the
+    # filename, which is how "...sans trailing hyphens---" happened.  This also
+    # makes a leading space harmless when $prefix is empty.
+    $title =~ s/^\s+|\s+$//g;
     $confirmed = ask_confirm_string($title);
   }
   return $title;
@@ -314,6 +325,17 @@ sub ask_confirm_string($) {
     }
   }
   return $confirmed;
+}
+
+## Prompt for a value, offering $default when the user just presses enter.
+## Same shape as input_date so saved generators can answer with a blank line.
+sub input_string_with_default(@) {
+  my ($description, $default) = @_;
+  print "Input $description: ($default)\n";
+  my $user_string = std_in_logger();
+  chomp($user_string);
+  $user_string =~ s/^\s+|\s+$//g;
+  return length($user_string) ? $user_string : $default;
 }
 
 sub input_date($) {

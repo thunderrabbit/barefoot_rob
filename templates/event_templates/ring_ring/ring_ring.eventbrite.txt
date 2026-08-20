@@ -1,0 +1,171 @@
+https://www.eventbrite.com/organizations/events
+
+This is ONE Eventbrite listing covering ALL THREE sessions -- a single
+"Recurring event" with three time slots.  Generating this file from all three
+generators gives you three near-identical copies, and only one of them wants
+using.  Same deal as the LinkedIn template.
+
+Eventbrite is an ANNOUNCEMENT here, not the registration.  Zoom is still the
+only real gate: an RSVP on Eventbrite gets nobody into the room.  That is why
+the description below carries all three Zoom links with a date on each, instead
+of one link -- see WHY THREE LINKS at the bottom before you edit any of it.
+
+
+=========================================================================
+SETUP   (Create event > choose "Recurring event" when it asks for the date)
+=========================================================================
+
+Manage dates and times:
+
+  Wednesday 19 August 2026    two time slots     14:00  and  19:00
+  Monday    31 August 2026    one time slot      19:00
+
+  Each slot: 1 hour 30 minutes.
+
+Location:  SELECT "Online event"
+
+Online event link:  leave blank, or use the website page --
+https://www.robnugen.com/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/
+
+  Do NOT put a Zoom registration URL in this field.  Whatever goes here is
+  shown to everyone who RSVPs to ANY date, so a single Zoom link there sends
+  the 31 August people to the 19 August meeting.
+
+Tickets:  Free, one ticket type, applies to every slot.
+
+
+=========================================================================
+TITLE
+=========================================================================
+
+title: %s
+
+
+=========================================================================
+IMAGE
+=========================================================================
+
+episode_image
+
+Alt text
+episode_image_alt
+
+
+=========================================================================
+SUMMARY   (the short line under the title.  Eventbrite HARD LIMIT: 140
+           characters.  The line below is 127, leaving room to fiddle.
+           The ruler is exactly 140 wide -- keep the text inside it.)
+=========================================================================
+|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789
+A free 90 minute productivity experiment on Zoom. Men and women welcome. Three August sessions; register on Zoom for your date.
+
+
+=========================================================================
+DESCRIPTION   (shared by all three dates -- keep it date-neutral)
+=========================================================================
+
+You have lived many lives. But right now you have just one life to live. Synchronicities abound!
+
+  ＊
+
+Nathan informed me that our mutual friend Maxence would be at the Practical Philosophy Meetup event starting at 7:00 p.m. that day. I wanted to meet them both, but this meant I would have to skip my online men's group meeting.
+
+When I got to the location, the building was completely closed!! I contacted Nathan and it turned out I was at the wrong building 🫨. Feeling frustrated, I asked a guard where the nearest train station was so I could head home.
+
+I walked toward the train station she pointed me to, and... there was Maxence!
+
+We had a full 25 minutes to talk on the train while heading to the correct location together. It was great to catch up!
+
+After Practical Philosophy, we hung out for an impromptu men's group meeting because a couple other of my men's group friends were there.
+
+So, by following my curiosity and apparently incorrect instructions, I got to meet Maxence and attend a men's group meeting, all on the same night! Woke up the next morning meditating on the title and concept of this workshop.
+
+Ring Ring! Your Life is Calling. Are You Willing to Answer?
+
+  ＊    ＊
+
+# What will we do?
+
+* The first 25 minutes: Rob shares about "spiritual stuff" including consciousness, synchronicities, near-death experiences, and past lives. (This part will be recorded.)
+* After the discourse, the recording stops.
+* The middle: you write. Guided prompts, some silence, optional music. You will list anything that is blocking your progress, so you can get some support on it.
+* Sharing: in small groups.
+* Take Aways and Taking Action: one easy thing you will do within 48 hours, and one thing you may ask for help with, if you are willing.
+
+# What you will leave with
+
+Two lists on paper: one list of actions you can do. One list of requests for which you need help.
+
+# What do you mean, "Spiritual Stuff?"
+
+I am going to talk about "God" or "Universe" or "The Great Blah Blah Blah." You don't need to believe in something spiritual. The exercise works exactly the same either way; we're just sorting our own troubles into two piles and asking for a hand with some of them.
+
+# Registering here is only half of it
+
+Getting a ticket on Eventbrite tells me you are coming. It does NOT get you into the room.
+
+Zoom needs you to register separately, and each date is a separate Zoom meeting with its own link. Pick your date below and register on Zoom for THAT date. Zoom then emails you your own personal join link. That link is yours alone, so please don't pass it on -- send your friends this page instead.
+
+# Register on Zoom for your date
+
+Each session is the same workshop. Come to as many as you like; register once per date.
+
+• Wednesday 19 August, 14:00 JST
+https://us02web.zoom.us/meeting/register/8xEoKf3qQZqE2W-2vnfm4A
+
+• Wednesday 19 August, 19:00 JST
+https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg
+
+• Monday 31 August, 19:00 JST, the last one before I leave for Australia 🦘🦘🦘 for 3 months with Jess
+https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw
+
+Zoom doors open 15 minutes before each session starts. Please join by five minutes before so we can start promptly. We finish 90 minutes later.
+
+# Cost
+
+Free.
+
+# Please bring
+
+Notebook and pen to write your lists.
+
+# Full details
+
+https://www.robnugen.com/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/
+
+
+=========================================================================
+THIS SESSION'S SLOT   (the only per-session part of this file -- the numbers
+                       to type into Manage dates and times for the generator
+                       you just ran)
+=========================================================================
+
+HUMANDATE
+
+  Start        EVENT_TIME
+  End          EVENT_END_TIME
+  Doors open   FIRST_GATHERING_TIME
+
+  Doors open is mentioned in the description, not a field Eventbrite has.
+
+  This session's Zoom registration link, for your reference only.  Do not
+  paste it anywhere in the Eventbrite listing on its own:
+  EVENT_LOCATION_URL
+
+
+=========================================================================
+WHY THREE LINKS
+=========================================================================
+
+A recurring Eventbrite event has ONE description shared by every date.  There
+is no per-date description to hide the right Zoom link in.  So every Zoom URL
+in this listing has its date on the line directly above it, and all three are
+present -- someone who booked the 31st can still find the 31st.
+
+A single naked Zoom link anywhere in this listing is the bug: whoever booked
+the other date follows it, registers for the wrong meeting, and shows up on the
+wrong day.  If you shorten this copy, keep every link paired with its date.
+
+If you ever split this into three separate Eventbrite events (one per session),
+that constraint disappears -- each listing can then carry only its own link,
+and the one under THIS SESSION'S SLOT above is the one to use.

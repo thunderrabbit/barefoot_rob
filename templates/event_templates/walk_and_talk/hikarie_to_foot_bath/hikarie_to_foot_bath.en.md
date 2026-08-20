@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventLocation: "EVENT_LOCATION"
+EventLocation: "EVENT_LOCATION_NAME"
 EventTime: "EVENT_TIME"
 TimeDescription: "Meet at 2F of Hikarie, facing Shibuya Scramble Square."
 EventDate: "%sTEVENT_TIME:00+09:00"

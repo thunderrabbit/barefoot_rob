@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～海のとなり臨港パーク"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventLocation: "EVENT_LOCATION"
+EventLocation: "EVENT_LOCATION_NAME"
 EventTime: "EVENT_TIME"
 TimeDescription: "横浜駅：Portaの「Pronto」の前でFIRST_GATHERING_TIMEに集合、FIRST_DEPARTURE_TIME出発で臨港パークに向かいます"
 EventDate: "%sTEVENT_TIME:00+09:00"

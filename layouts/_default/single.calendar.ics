@@ -1,0 +1,23 @@
+{{- /* Only pages that list "Calendar" in their front matter `outputs` render
+       this, so it never fires for the events that predate calendar links. */ -}}
+{{- $cal := partial "event-calendar-data.html" . -}}
+{{- $lines := slice
+      "BEGIN:VCALENDAR"
+      "VERSION:2.0"
+      "PRODID:-//robnugen.com//events//EN"
+      "CALSCALE:GREGORIAN"
+      "METHOD:PUBLISH"
+      "BEGIN:VEVENT"
+      (printf "UID:%s" .Permalink)
+      (printf "DTSTAMP:%s" (now.UTC.Format "20060102T150405Z"))
+      (printf "DTSTART:%s" ($cal.start.UTC.Format "20060102T150405Z"))
+      (printf "DTEND:%s" ($cal.end.UTC.Format "20060102T150405Z"))
+      (printf "SUMMARY:%s" (partial "ics-escape.html" .Title))
+      (printf "LOCATION:%s" (partial "ics-escape.html" $cal.location))
+      (printf "DESCRIPTION:%s" (partial "ics-escape.html" $cal.details))
+      (printf "URL:%s" .Permalink)
+      "END:VEVENT"
+      "END:VCALENDAR"
+-}}
+{{- /* RFC 5545 wants CRLF between content lines. */ -}}
+{{- delimit $lines "\r\n" -}}{{- print "\r\n" -}}

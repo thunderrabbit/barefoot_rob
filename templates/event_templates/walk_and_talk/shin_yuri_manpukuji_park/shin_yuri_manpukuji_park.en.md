@@ -3,7 +3,7 @@ title: "%s"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventLocation: "EVENT_LOCATION"
+EventLocation: "EVENT_LOCATION_NAME"
 EventTime: "EVENT_TIME"
 TimeDescription: "gather at FIRST_GATHERING_TIME; walk toward Manpukuji Hiyama Park at FIRST_DEPARTURE_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"
@@ -24,7 +24,7 @@ Barefoot walking, breathing, enjoying fresh air and a hilly park.
 
 HUMANDATE, FIRST_GATHERING_TIME
 
-Shin Yurigaoka [between KFC, MUFG, and Dean and Deluca](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
+Shin Yurigaoka [in front of KFC and Mister Donut](https://goo.gl/maps/aoY2j7WxkNjSC2u98):  35°36'13.3"N 139°30'29.5"E  https://w3w.co/locator.juggler.nail
 
 #### Second Meeting Point is Manpukuji Hiyama Park
 

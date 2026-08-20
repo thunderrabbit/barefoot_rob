@@ -3,7 +3,7 @@ title: "裸足でウォーク＆トーク～払沢の滝と秋川渓谷"
 tags: [ %s ]
 author: Rob Nugen
 date: %s
-EventLocation: "EVENT_LOCATION"
+EventLocation: "EVENT_LOCATION_NAME"
 EventTime: "EVENT_TIME"
 TimeDescription: "武蔵五日市駅、南口 at EVENT_TIME"
 EventDate: "%sTEVENT_TIME:00+09:00"

@@ -1,0 +1,9 @@
+{{- /* Escape a string for use as an RFC 5545 TEXT value.  Backslash first, or
+       it would escape the backslashes the later rules add. */ -}}
+{{- $v := . | default "" -}}
+{{- $v = replace $v "\\" "\\\\" -}}
+{{- $v = replace $v ";" "\\;" -}}
+{{- $v = replace $v "," "\\," -}}
+{{- $v = replace $v "\r" "" -}}
+{{- $v = replace $v "\n" "\\n" -}}
+{{- return $v -}}

@@ -1,0 +1,24 @@
+{{- /* One line of "add to calendar" links, built from the page's front matter.
+       Renders nothing at all when the page has no EventDate. */ -}}
+{{- $page := .Page -}}
+{{- with $page.Params.EventDate -}}
+{{- $cal := partial "event-calendar-data.html" $page -}}
+
+{{- $google := printf "https://calendar.google.com/calendar/render?%s" (querify
+      "action" "TEMPLATE"
+      "text" $page.Title
+      "dates" (printf "%s/%s" ($cal.start.UTC.Format "20060102T150405Z") ($cal.end.UTC.Format "20060102T150405Z"))
+      "details" $cal.details
+      "location" $cal.location) -}}
+
+{{- $outlook := printf "https://outlook.live.com/calendar/0/deeplink/compose?%s" (querify
+      "path" "/calendar/action/compose"
+      "rru" "addevent"
+      "subject" $page.Title
+      "startdt" ($cal.start.Format "2006-01-02T15:04:05Z07:00")
+      "enddt" ($cal.end.Format "2006-01-02T15:04:05Z07:00")
+      "body" $cal.details
+      "location" $cal.location) -}}
+
+<p class="calendar-links">Add to calendar: <a href="{{ $google }}">Google</a> &middot; <a href="{{ $outlook }}">Outlook</a>{{ with $page.OutputFormats.Get "calendar" }} &middot; <a href="{{ .RelPermalink }}" download="{{ $cal.filename }}">.ics</a>{{ end }}</p>
+{{- end -}}
