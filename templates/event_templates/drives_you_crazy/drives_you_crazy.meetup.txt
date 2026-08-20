@@ -1,0 +1,54 @@
+MEETUP EVENT -- one session, posted separately to each group below.
+
+Post to:
+  https://www.meetup.com/tokyo-sol-barefoot-more/schedule/
+  https://www.meetup.com/all-things-emotion/schedule/
+  https://www.meetup.com/live-your-best-life/schedule/
+
+title:       %s
+When:        HUMANDATE
+Start:       EVENT_TIME
+End:         EVENT_END_TIME
+Timezone:    Asia/Tokyo
+Duration:    1 hour 30 minutes
+Online:      yes
+Online link: EVENT_LOCATION_URL
+RSVP closes: 15 minutes before
+Image:       episode_image
+Image alt:   episode_image_alt
+Topics:      Personal Development, Relationships, Coaching, Men's Issues
+
+Notes -- not posted:
+  This is ONE Meetup event for ONE session.  Run each session's generator and
+  post the copy it makes.
+
+  Meetup shows EVENT_TIME, the promptly-start time -- not the
+  FIRST_GATHERING_TIME doors-open time.
+
+  Topics above are a suggestion.  Change them freely.
+
+By hand -- if posting without the script:
+  Select "Make this an online event" and paste the Online link.
+  Click duration and set it to the Duration above.
+  Under Optional settings, set the RSVP close time.
+  Publish, then Announce it now.
+
+--- DESCRIPTION BEGINS (everything below goes in Meetup's description box) ---
+
+A free 90 minute live coaching session on Zoom. For men only.
+
+You think you're angry at her. You're not sure that's actually true. Somewhere along the way, you stopped doing your own things to keep the peace.
+
+The bumper sticker answer: hold space for her. Four words. Everything else is how.
+
+What we'll do:
+
+  * Framing (short): why the anger you're carrying is probably not only about her.
+  * Live coaching: I'll coach one or two men live, right there on the call. You watch. You notice what lands for you.
+  * Reflection: what did you see in yourself, watching?
+
+What you'll leave with: no script -- there isn't one for this. What you leave with is whatever showed up for you watching another man look honestly at his own anger: maybe a boundary you've been avoiding, maybe just relief that you're not the only one. And a felt sense of whether working through this 1:1 is something you want.
+
+Who this is for: men in relationships with women they love -- and who "drive them crazy." If you've noticed yourself shrinking, managing her moods instead of relating to her, or wondering whether leaving is the only way out, this is for you.
+
+Bring a notebook and pen if you want to catch what comes up, and a willingness to actually look at it if it's your turn in the hot seat.

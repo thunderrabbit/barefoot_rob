@@ -205,6 +205,14 @@ our %event_template_files = (
       "$event_templates/ring_ring/ring_ring.linkedin.txt",
       "$event_templates/ring_ring/ring_ring.meetup.txt",
     ],
+    "drives_you_crazy" => [
+      "$event_templates/drives_you_crazy/drives_you_crazy.en.md",
+      "$event_templates/drives_you_crazy/drives_you_crazy.eventbrite.txt",
+      "$event_templates/drives_you_crazy/drives_you_crazy.facebook.txt",
+      "$event_templates/drives_you_crazy/drives_you_crazy.linkedin.txt",
+      "$event_templates/drives_you_crazy/drives_you_crazy.luma.txt",
+      "$event_templates/drives_you_crazy/drives_you_crazy.meetup.txt",
+    ],
 );
 #  ///   MUST ALSO DO %event_output_directories   ///
 
@@ -227,12 +235,14 @@ our %event_day_of_week = (
     "bold_life_tribe" => 1,
     "mindful_sayonara" => 6,
     "ring_ring" => 3,
+    "drives_you_crazy" => 3,
 );
 
 ## How long the event runs, in minutes.  Only event types listed here are
 ## offered a duration prompt, and only they can fill EVENT_END_DATETIME.
 our %event_duration_minutes = (
     "ring_ring" => 90,
+    "drives_you_crazy" => 90,
 );
 
 ## What registrants read as the Zoom meeting description.  Only event types listed
@@ -248,6 +258,7 @@ our %event_duration_minutes = (
 ## 80 columns comes out ragged, every hard break leaving a short orphan line.
 our %event_zoom_agenda_files = (
     "ring_ring" => "$event_templates/ring_ring/zoom_agenda.txt",
+    "drives_you_crazy" => "$event_templates/drives_you_crazy/zoom_agenda.txt",
 );
 
 ## Zoom / Meet / Maps link for the event.  EventLocation stays the human label;
@@ -258,12 +269,35 @@ our %event_zoom_agenda_files = (
 ## before it writes a page with a dead link -- see %event_location_url_help.
 our %event_location_urls = (
     "ring_ring" => "",
+    "drives_you_crazy" => "",
 );
 
 ## Printed above the location URL prompt, for the day you have forgotten how
 ## this works.  Keyed by event type; only shown for the types listed here.
 our %event_location_url_help = (
     "ring_ring" => <<'END_HELP',
+  This wants a Zoom REGISTRATION URL, not a /j/ join link, and the Zoom
+  meeting has to exist before a page can be written.
+
+  FIRST run for this event: there is no generator file yet -- the generator is
+  smurfed out of the log of this very run -- so there is nothing to hand to
+  zoom_schedule.pl yet.  Leave this blank.  Generation will stop just before
+  writing the page, which is what you want: every answer you typed is already
+  in event_generators/YYYY_MM_DD_log.txt.  Save the generator from that log as
+  usual, then:
+
+      ./zoom_schedule.pl event_generators/YYYY/<that_generator>.txt
+
+  It creates the meeting with registration switched on and writes the
+  registration URL onto line 6 of the generator.  Replay that generator and
+  the page comes out with the right link.
+
+  REPLAYING a generator whose line 6 is filled: you never see this message.
+
+  Registrants each get their own join link by email.  That link is personal
+  and never goes on the website.
+END_HELP
+    "drives_you_crazy" => <<'END_HELP',
   This wants a Zoom REGISTRATION URL, not a /j/ join link, and the Zoom
   meeting has to exist before a page can be written.
 
@@ -300,6 +334,7 @@ our %event_primary_time = (
     "hikarie_to_foot_bath" => "13:00",
     "mindful_sayonara" => "14:00",
     "ring_ring" => "19:00",
+    "drives_you_crazy" => "19:00",
 );
 
 our %gather_minutes_before_event = (
@@ -335,6 +370,7 @@ our %event_locations = (
     "hikarie_to_foot_bath" => "Shibuya District: from Hikarie looping around to foot bath and Hachiko",
     "mindful_sayonara" => "Impact HUB Tokyo (Meguro)",
     "ring_ring" => "Zoom",
+    "drives_you_crazy" => "Zoom",
 );
 
 # https://stackoverflow.com/questions/350018/how-can-i-combine-hashes-in-perl
@@ -368,10 +404,12 @@ our %event_tag_hashes = (
     "bold_life_tribe" => {"bold-life-tribe" => 1, "blt" => 1, "event" => 1, "online" => 1},
     "mindful_sayonara" => {"sayonara" => 1, "letting go" => 1, "mottainai" => 1, "もったいない" => 1, "mathom" => 1, "workshop" => 1, "tea" => 1, "meguro" => 1, "impact-hub-tokyo" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
     "ring_ring" => {"online" => 1, "productivity" => 1, "life-purpose" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
+    "drives_you_crazy" => {"men" => 1, "relationships" => 1, "coaching" => 1, "online" => 1, "event" => 1, "Barefoot Rob" => 1, "裸足のロブ" => 1},
 );
 
 our %event_title_prefixes = (
     "weekly_alignment" => "Weekly Alignment - ",
     "bold_life_tribe" => "Bold Life Tribe",
     "ring_ring" => "Ring Ring! Your Life is Calling.  Are You Willing to Answer?",
+    "drives_you_crazy" => "How to Stay With the Woman Who Drives You Crazy Though You Love Her So Much",
 );
