@@ -2,7 +2,7 @@
 title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer? (morning session)"
 tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-20T10:48:24+09:00
+date: 2026-08-20T11:21:16+09:00
 EventLocation: "Zoom"
 EventTime: "09:00"
 TimeDescription: "Zoom doors open at 08:45; start promptly at 09:00"
@@ -30,36 +30,33 @@ aliases: [
 
 #### Synchronicities
 
-On Monday 10th of August 2026 I attended a webinar by Carla Berbary and
-learned a lot about *Burnout*.
+Nathan informed me that our mutual friend Maxence would be at the Practical
+Philosophy Meetup event starting at 7:00 p.m. that day.
 
-With her permission, I
-[posted my favorite slide from Carla's talk](https://www.linkedin.com/posts/robnugen_thank-you-carla-berbary-for-your-brilliant-share-7492549720322539520-fQpj/).
+I wanted to meet them both, but this meant I would have to skip my
+[online men's group meeting](https://www.mkpjapan.org/).
 
-After reflecting on Burnout,
-I realized I had been online all day, so I went for a walk in nature while listening to a podcast.
+When I got to the location, the building was completely closed!! I
+contacted Nathan and it turned out I was at the wrong building 🫨. Feeling
+frustrated, I asked a guard where the nearest train station was so I could
+head home.
 
-In the podcast, David Parker described how his two children had been killed in a
-tragic car accident; he became a shut-in for one year, even
-painted over all his windows so he couldn't see the world outside his house.
+I walked toward the train station she pointed me to, and... there was
+Maxence!
 
-His deceased children came to him in a vision and chewed him out.
-"What do you think you are doing? We have so much work to do! ..."
-No living human had been willing to say that to him.
-So his dead children came to do it.
+![met maxence in shinjuku](https://b.robnugen.com/journal/2026/2026_aug_18_met_maxence_in_shinjuku_1000.jpeg)
 
-🎧 [Hear that story yourself](https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s)
+We had a full 25 minutes to talk on the train while heading to the correct
+location together. It was great to catch up!
 
-I burst into tears and bawled crying;
-this story is talking to *me*!
-I cried, "I'm so sorry; I'm so sorry I've been so scared to be seen.
-Please help me.  Please help me serve."
+After Practical Philosophy, we hung out for an impromptu men's group
+meeting because a couple of my other men's group friends were there.
 
-I cried all the way home, cried in the shower, then had a good sleep,
-woke up at 06:47 and meditated for an hour during which
-the title and concept of my new workshop came through.
+So, by following my curiosity and apparently incorrect instructions, I got
+to meet Maxence *and* attend a men's group meeting — all on the same
+night!
 
-*Ring Ring!  Your Life is Calling.  Are You Willing to Answer?*
+![nathan rob adam maxence](https://b.robnugen.com/journal/2026/2026_aug_19_nathan_rob_adam_maxence_1000.jpeg)
 
 #### What will we do?
 
