@@ -1,22 +1,22 @@
 ---
-title: "%s"
-tags: [ %s ]
+title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer? (morning session)"
+tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: %s
-EventLocation: "EVENT_LOCATION_NAME"
-EventTime: "EVENT_TIME"
-TimeDescription: "Zoom doors open at FIRST_GATHERING_TIME; start promptly at EVENT_TIME"
-EventDate: "%sTEVENT_TIME:00+09:00"
-EventEndDate: "EVENT_END_DATETIME"
-EventLocationURL: "EVENT_LOCATION_URL"
+date: 2026-08-20T11:21:16+09:00
+EventLocation: "Zoom"
+EventTime: "09:00"
+TimeDescription: "Zoom doors open at 08:45; start promptly at 09:00"
+EventDate: "2026-08-31T09:00:00+09:00"
+EventEndDate: "2026-08-31T10:30:00+09:00"
+EventLocationURL: "https://us02web.zoom.us/meeting/register/5LP-ulOmSY-AIboA8W6ZCw"
 EventType: "Productivity Experiment"
 outputs: ["HTML", "Calendar"]
 aliases: [
-    "/enalias_path",
+    "/en/events/2026/08/31ring-ring-your-life-is-calling.-are-you-willing-to-answer-morning-session",
 ]
 ---
 
-{{% img-responsive "episode_image" "episode_image_alt" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2026/life_is_calling_1000.png" "life is calling 1000" %}}
 
 # Ring Ring!
 ## Your Life is Calling.
@@ -79,13 +79,13 @@ into two piles and asking for a hand with some of them.
 
 #### When:
 
-**HUMANDATE**
+**Monday 31 August 2026**
 
-Zoom doors open at **FIRST_GATHERING_TIME**
+Zoom doors open at **08:45**
 
-We'll start promptly at **EVENT_TIME** (Japan time)
+We'll start promptly at **09:00** (Japan time)
 
-CALENDAR_LINKS
+{{< calendar-links >}}
 
 #### Both sessions:
 
@@ -94,7 +94,7 @@ CALENDAR_LINKS
 
 #### How to join:
 
-Register here: EVENT_LOCATION_URL
+Register here: https://us02web.zoom.us/meeting/register/5LP-ulOmSY-AIboA8W6ZCw
 
 Zoom will email you your own link to join.
 

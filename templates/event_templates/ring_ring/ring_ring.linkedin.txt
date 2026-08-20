@@ -1,0 +1,79 @@
+LinkedIn > Start a post
+
+This is a POST, not a LinkedIn Event.  One post covers all three sessions, so
+post it once -- generating this file from all three generators gives you three
+near-identical copies, and only one of them wants posting.
+
+Add photo
+episode_image
+
+Alt text (for screen readers)
+episode_image_alt
+
+title: %s
+(the workshop title, for your reference -- LinkedIn posts have no title field)
+
+Audience: Anyone
+Posting as: Rob Nugen
+
+
+=========================================================================
+POST BODY   (LinkedIn cuts posts off at 3000 characters.  Only the first
+             ~200 show before the "...see more" fold, so the first two
+             lines are doing all the work.)
+=========================================================================
+
+After going to bed crying, I woke refreshed, and meditated for an hour during which I 'heard' the title of my new workshop:
+
+"Ring Ring! Your Life is Calling. Are You Willing to Answer?"
+
+Nathan told me our mutual friend Maxence would be at the Practical Philosophy Meetup starting at 7:00 p.m. I wanted to meet them both, but that meant skipping my online men's group meeting.
+
+When I got to the location, the building was completely closed! I contacted Nathan and it turned out I was at the wrong building 🫨. Feeling frustrated, I asked a guard where the nearest train station was so I could head home.
+
+I walked toward the station she pointed me to, and... there was Maxence!
+
+We had a full 25 minutes to talk on the train while heading to the correct location together. After Practical Philosophy, we hung out for an impromptu men's group meeting because a couple other of my men's group friends were there.
+
+By following my curiosity and apparently incorrect instructions, I got to meet Maxence *and* attend a men's group meeting, all on the same night. Woke up the next morning with this:
+
+Ring Ring! Your Life is Calling. Are You Willing to Answer?
+
+A free 90 minute productivity experiment on Zoom. Men and women welcome.
+
+• The first 25 minutes: I share about "spiritual stuff": consciousness, synchronicities, near-death experiences, past lives. (This part is recorded; the recording stops before the writing.)
+• The middle: you write. Guided prompts, some silence, optional music. You list whatever is blocking your progress.
+• Then we share in small groups.
+
+You leave with two lists on paper: one list of actions you can do, and one list of requests for which you need help.
+
+You don't need to believe in anything spiritual. The exercise works exactly the same either way; we're just sorting our own troubles into two piles and asking for a hand with some of them.
+
+Bring a notebook and pen.
+
+I will run three free sessions this month.
+
+Please find dates and registration links in the first comment 👇
+
+
+=========================================================================
+FIRST COMMENT   (paste immediately after posting -- the post body stays
+                 link-free, so this comment is the only way in)
+=========================================================================
+
+I will run three sessions. Register for as many as you want. Zoom emails you your own link to join.
+
+• Wednesday 19 August, 14:00 JST, for anyone busy in the evenings
+https://us02web.zoom.us/meeting/register/8xEoKf3qQZqE2W-2vnfm4A
+
+• Wednesday 19 August, 19:00 JST, for anyone busy during the day
+https://us02web.zoom.us/meeting/register/sncHt-PJQfS_bLmpzf5JWg
+
+• Monday 31 August, 19:00 JST, the last one before I leave for Australia 🦘🦘🦘 for 3 months with Jess
+https://us02web.zoom.us/meeting/register/sizsdtuEQe2DVo3XnRHJcw
+
+Full details: https://www.robnugen.com/en/events/2026/08/19ring-ring-your-life-is-calling.-are-you-willing-to-answer/
+
+Carla's slide: https://www.linkedin.com/posts/robnugen_thank-you-carla-berbary-for-your-brilliant-share-7492549720322539520-fQpj/
+
+🎧 David Parker's story: https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s

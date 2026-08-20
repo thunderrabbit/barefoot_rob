@@ -2,7 +2,7 @@
 title: "Ring Ring! Your Life is Calling.  Are You Willing to Answer?"
 tags: [ "2026", "Barefoot Rob", "august", "event", "life-purpose", "online", "productivity", "裸足のロブ" ]
 author: Rob Nugen
-date: 2026-08-11T21:51:02+09:00
+date: 2026-08-12T10:41:51+09:00
 EventLocation: "Zoom"
 EventTime: "19:00"
 TimeDescription: "Zoom doors open at 18:45; start promptly at 19:00"
@@ -16,7 +16,7 @@ aliases: [
 ]
 ---
 
-{{% img-responsive "https://b.robnugen.com/rob/portraits/2024_jan_book_a_free_discovery_call_1000.jpg" "2024 jan book a free discovery call 1000" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2026/life_is_calling_1000.png" "life is calling 1000" %}}
 
 # Ring Ring!
 ## Your Life is Calling.
@@ -30,7 +30,7 @@ aliases: [
 
 #### Synchronicities
 
-On Monday 10th of August 2026 I attended a webinar by Carla Barbery and
+On Monday 10th of August 2026 I attended a webinar by Carla Berbary and
 learned a lot about *Burnout*.
 
 With her permission, I
@@ -51,7 +51,8 @@ So his dead children came to do it.
 🎧 [Hear that story yourself](https://www.youtube.com/watch?v=MlD3102w8Rw&t=4397s)
 
 I burst into tears and bawled crying;
-this story is talking to *me*! "I'm so sorry; I'm so sorry I've been so scared to be seen.
+this story is talking to *me*!
+I cried, "I'm so sorry; I'm so sorry I've been so scared to be seen.
 Please help me.  Please help me serve."
 
 I cried all the way home, cried in the shower, then had a good sleep,
