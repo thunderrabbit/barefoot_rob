@@ -7,47 +7,17 @@
 // Never clicks Publish.  See docs/superpowers/specs/2026-08-13-meetup-poster-design.md
 
 import { chromium } from 'playwright';
-import { createInterface } from 'node:readline/promises';
-import { readdirSync, existsSync, mkdirSync } from 'node:fs';
+import { existsSync, mkdirSync } from 'node:fs';
 import { join, relative } from 'node:path';
-import { parseMeetupFile, ALLOWED_GROUPS } from './parse.mjs';
+import { parseMeetupFile, findMeetupFiles, ALLOWED_GROUPS } from './parse.mjs';
 import { fillEvent } from './fill.mjs';
+import { createAsk, pickFrom } from './ask.mjs';
 
 const HERE = new URL('.', import.meta.url).pathname.replace(/\/$/, '');
 const REPO = join(HERE, '..');
 const STATE = join(HERE, '.auth', 'state.json');
 
-function findMeetupFiles(dir, out = []) {
-  for (const e of readdirSync(dir, { withFileTypes: true })) {
-    const full = join(dir, e.name);
-    if (e.isDirectory()) findMeetupFiles(full, out);
-    else if (e.name.endsWith('.meetup.txt')) out.push(full);
-  }
-  return out;
-}
-
-// Interactive at a terminal; also drivable from a pipe or a here-doc, which
-// readline alone cannot do — its line events fire before question() registers,
-// so the answers vanish.  When stdin is not a TTY, slurp it first and serve the
-// answers from a queue.
-let rl = null;
-let queued = null;
-if (process.stdin.isTTY) {
-  rl = createInterface({ input: process.stdin, output: process.stdout });
-} else {
-  const chunks = [];
-  for await (const c of process.stdin) chunks.push(c);
-  queued = Buffer.concat(chunks).toString('utf8').split('\n');
-  if (queued.length && queued[queued.length - 1] === '') queued.pop();
-}
-const ask = async (q) => {
-  if (rl) return rl.question(q);
-  if (!queued.length) { console.error(`\n${q}\n  (no more piped input — stopping)`); process.exit(1); }
-  const a = queued.shift();
-  console.log(`${q}${a}`);
-  return a;
-};
-const closeAsk = () => rl?.close();
+const { ask, close: closeAsk } = await createAsk();
 
 // Only files in the new fenced format parse; older ones are listed as skipped.
 const parsed = [];
@@ -68,15 +38,13 @@ console.log('\nSessions found:\n');
 parsed.forEach((p, i) => console.log(`  ${String(i + 1).padStart(2)}. ${p.humanDate}  ${p.startTime}  ${p.title}`));
 
 const pick = await ask('\nWhich to post? (numbers separated by spaces, e.g. "1 2"): ');
-const chosen = pick.trim().split(/\s+/).map((n) => parsed[+n - 1]).filter(Boolean);
+const chosen = pickFrom(parsed, pick);
 if (!chosen.length) { console.error('Nothing selected.'); closeAsk(); process.exit(1); }
 
 console.log('\nGroups:');
 ALLOWED_GROUPS.forEach((g, i) => console.log(`  ${i + 1}. ${g}`));
 const gpick = await ask('Which groups? (numbers, or Enter for all three): ');
-const groups = gpick.trim()
-  ? gpick.trim().split(/\s+/).map((n) => ALLOWED_GROUPS[+n - 1]).filter(Boolean)
-  : [...ALLOWED_GROUPS];
+const groups = pickFrom(ALLOWED_GROUPS, gpick, { emptyMeansAll: true });
 if (!groups.length) { console.error('No valid groups.'); closeAsk(); process.exit(1); }
 
 const mode = await ask('\n[f]ill one and stop so you can look, or [s]ave drafts for real? (f/s): ');

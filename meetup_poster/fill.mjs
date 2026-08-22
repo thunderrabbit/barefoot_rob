@@ -22,6 +22,78 @@ export async function centerAndClick(page, locator, what) {
   if (what) console.log(`      clicked ${what}`);
 }
 
+/**
+ * Dismiss the "Event chat is here" beta popup (new as of ~2026-08-20).
+ * It covers the title field on the create form and the description on the edit
+ * form, so an unfilled read-back upstream of here is usually this.  The dialog
+ * has no aria-label on its close icon, so pick the small (<=24px) icon button
+ * nearest the dialog's top-right corner.
+ */
+export async function dismissChatPopup(page, log = () => {}) {
+  const dlg = page.locator('[role=dialog]').filter({ hasText: 'Event chat is here' });
+  if (!(await dlg.count())) return false;
+
+  const dlgBox = await dlg.first().boundingBox();
+  const icons = dlg.locator('button');
+  const n = await icons.count();
+  let closeBtn = null;
+  let bestX = -Infinity;
+  for (let i = 0; i < n; i++) {
+    const b = icons.nth(i);
+    const box = await b.boundingBox().catch(() => null);
+    if (!box || box.width > 24 || box.height > 24) continue;
+    if (dlgBox && box.y - dlgBox.y > 80) continue;
+    if (box.x > bestX) { bestX = box.x; closeBtn = b; }
+  }
+  if (closeBtn) await closeBtn.click();
+  else await page.keyboard.press('Escape');
+  await page.waitForTimeout(600);
+  log('dismissed "Event chat is here" popup');
+  return true;
+}
+
+/** The visible rich-text editor.  Must be :visible -- there is a hidden
+ *  contenteditable that .first() otherwise wins. */
+export const descriptionEditor = (page) => page.locator('[contenteditable="true"]:visible').first();
+
+/** The description as flat text, for comparing against what the editor shows. */
+export const descriptionText = (description) => description.map((l) => l.text).join('\n');
+
+/** Collapse the differences that do not matter when comparing two renderings
+ *  of the same body: non-breaking spaces, trailing spaces, blank-line runs. */
+export const normalizeBody = (s) => s
+  .replace(/\u00a0/g, ' ')
+  .split('\n')
+  .map((l) => l.replace(/\s+/g, ' ').trim())
+  .filter(Boolean)
+  .join('\n');
+
+/**
+ * Type a parsed description into an editor that is already focused and empty,
+ * bolding the heading lines.  Returns the character count it ended up with.
+ * Throws if the result looks truncated.
+ */
+export async function typeDescription(page, editor, description) {
+  const bold = page.getByRole('button', { name: 'Bold', exact: true }).first();
+  for (let i = 0; i < description.length; i++) {
+    const line = description[i];
+    if (line.heading && line.text) {
+      await bold.click();
+      await page.keyboard.type(line.text);
+      await bold.click();
+    } else if (line.text) {
+      await page.keyboard.type(line.text);
+    }
+    if (i < description.length - 1) await page.keyboard.press('Enter');
+  }
+  const wroteChars = (await editor.innerText()).replace(/\s+/g, ' ').trim().length;
+  const wantChars = descriptionText(description).replace(/\s+/g, ' ').trim().length;
+  if (wroteChars < wantChars * 0.9) {
+    throw new Error(`description looks truncated: ${wroteChars} chars in editor vs ${wantChars} expected`);
+  }
+  return wroteChars;
+}
+
 const ORD = (d) => {
   if (d % 10 === 1 && d !== 11) return `${d}st`;
   if (d % 10 === 2 && d !== 12) return `${d}nd`;
@@ -51,29 +123,7 @@ export async function fillEvent(page, ev, group, { save = false, runDir } = {}) 
     log('started from scratch');
   }
 
-  // --- dismiss "Event chat is here" beta popup (new as of ~2026-08-20) ---
-  // It covers the title field, so an unfilled title read-back mismatch upstream
-  // of here is usually this. The dialog has no aria-label on its close icon, so
-  // pick the small (<=24px) icon button nearest the dialog's top-right corner.
-  const chatDlg = page.locator('[role=dialog]').filter({ hasText: 'Event chat is here' });
-  if (await chatDlg.count()) {
-    const dlgBox = await chatDlg.first().boundingBox();
-    const icons = chatDlg.locator('button');
-    const n = await icons.count();
-    let closeBtn = null;
-    let bestX = -Infinity;
-    for (let i = 0; i < n; i++) {
-      const b = icons.nth(i);
-      const box = await b.boundingBox().catch(() => null);
-      if (!box || box.width > 24 || box.height > 24) continue;
-      if (dlgBox && box.y - dlgBox.y > 80) continue;
-      if (box.x > bestX) { bestX = box.x; closeBtn = b; }
-    }
-    if (closeBtn) await closeBtn.click();
-    else await page.keyboard.press('Escape');
-    await page.waitForTimeout(600);
-    log('dismissed "Event chat is here" popup');
-  }
+  await dismissChatPopup(page, log);
 
   // --- title ---
   const title = page.locator('#title');
@@ -125,27 +175,10 @@ export async function fillEvent(page, ev, group, { save = false, runDir } = {}) 
   log(`duration set: ${label}`);
 
   // --- description, bolding the heading lines ---
-  // Must be :visible — there is a hidden contenteditable that .first() otherwise wins.
-  const editor = page.locator('[contenteditable="true"]:visible').first();
+  const editor = descriptionEditor(page);
   await centerAndClick(page, editor);
   await page.waitForTimeout(400);
-  const bold = page.getByRole('button', { name: 'Bold', exact: true }).first();
-  for (let i = 0; i < ev.description.length; i++) {
-    const line = ev.description[i];
-    if (line.heading && line.text) {
-      await bold.click();
-      await page.keyboard.type(line.text);
-      await bold.click();
-    } else if (line.text) {
-      await page.keyboard.type(line.text);
-    }
-    if (i < ev.description.length - 1) await page.keyboard.press('Enter');
-  }
-  const wroteChars = (await editor.innerText()).replace(/\s+/g, ' ').trim().length;
-  const wantChars = ev.description.map((l) => l.text).join(' ').replace(/\s+/g, ' ').trim().length;
-  if (wroteChars < wantChars * 0.9) {
-    throw new Error(`description looks truncated: ${wroteChars} chars in editor vs ${wantChars} expected`);
-  }
+  const wroteChars = await typeDescription(page, editor, ev.description);
   log(`description written (${wroteChars} chars, ${ev.description.filter((l) => l.heading).length} bold headings)`);
 
   // --- online tab + link ---

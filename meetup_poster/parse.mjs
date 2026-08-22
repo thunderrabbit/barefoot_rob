@@ -3,7 +3,18 @@
 // No browser, no network.  Run it directly to inspect what it extracted:
 //   node meetup_poster/parse.mjs content/events/2026/08/19ring-ring*.meetup.txt
 
-import { readFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
+import { join } from 'node:path';
+
+/** Every .meetup.txt under `dir`, recursively. */
+export function findMeetupFiles(dir, out = []) {
+  for (const e of readdirSync(dir, { withFileTypes: true })) {
+    const full = join(dir, e.name);
+    if (e.isDirectory()) findMeetupFiles(full, out);
+    else if (e.name.endsWith('.meetup.txt')) out.push(full);
+  }
+  return out;
+}
 
 const DESC_BEGIN = /^---\s*DESCRIPTION BEGINS\b/;
 const DESC_END = /^---\s*DESCRIPTION ENDS\b/;
