@@ -30,8 +30,8 @@ aliases: [
 
 #### Synchronicities
 
-Nathan informed me that our mutual friend Maxence would be at the Practical
-Philosophy Meetup event starting at 7:00 p.m. that day.
+Last week, Nathan informed me that our mutual friend Maxence would be at the
+Practical Philosophy Meetup event starting at 7:00 p.m. that day.
 
 I wanted to meet them both, but this meant I would have to skip my
 [online men's group meeting](https://www.mkpjapan.org/).
