@@ -1,0 +1,10 @@
+{
+  "name": "meetup_poster",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Fills Meetup's create-event wizard from a generated .meetup.txt and saves a draft.",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
