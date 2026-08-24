@@ -1,0 +1,10 @@
+# Meetup session cookies — treat as a password.
+.auth/
+
+# Downloaded / hand-placed event photos.
+.cache/
+
+# Per-run screenshots and DOM dumps.
+runs/
+
+node_modules/
