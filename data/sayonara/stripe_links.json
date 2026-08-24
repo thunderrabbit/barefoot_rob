@@ -1,4 +1,13 @@
 {
+   "30-in-1-extensible-precision-screwdriver" : {
+      "amount_jpy" : 800,
+      "buy_url" : "https://buy.stripe.com/eVq8ww2C92Cj34s6Jb2sM14",
+      "mode" : "live",
+      "payment_link" : "plink_0U7mKT2pYT1oPdidxbSltbCn",
+      "price_id" : "price_0U7mKS2pYT1oPdidsgSkAdDn",
+      "product_id" : "prod_V82Pmdh3UbgUIL",
+      "quantity" : 1
+   },
    "8-mile" : {
       "amount_jpy" : 500,
       "buy_url" : "https://buy.stripe.com/fZufYY6Sp3Gn5cAd7z2sM0k",
