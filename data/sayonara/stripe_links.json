@@ -94,6 +94,15 @@
       "product_id" : "prod_UllTcDXQSXMZNf",
       "quantity" : 1
    },
+   "flexible-tape-measure-10m" : {
+      "amount_jpy" : 800,
+      "buy_url" : "https://buy.stripe.com/9B63cc6SpccTgVi0kN2sM15",
+      "mode" : "live",
+      "payment_link" : "plink_0U7qSE2pYT1oPdidZ3YxPIpX",
+      "price_id" : "price_0U7qSE2pYT1oPdidj1QVIk1C",
+      "product_id" : "prod_V86fRHsgbOY4Nu",
+      "quantity" : 1
+   },
    "hanayama-cast-hourglass-puzzle" : {
       "amount_jpy" : 500,
       "buy_url" : "https://buy.stripe.com/14A5kkekR6SzfRed7z2sM0j",
