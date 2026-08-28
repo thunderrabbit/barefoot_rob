@@ -49,7 +49,8 @@
       "payment_link" : "plink_0TszQ92pYT1oPdid24liWO4q",
       "price_id" : "price_0TszQ92pYT1oPdidH8kZ0G5k",
       "product_id" : "prod_UskwSOnrDtphxX",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "biolite-weatherproof-camp-light-and-charger" : {
       "amount_jpy" : 4000,
