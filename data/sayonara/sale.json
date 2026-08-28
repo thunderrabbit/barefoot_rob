@@ -32,5 +32,6 @@
   "the-little-metoo-book-for-men": { "price_jpy": 500 },
   "the-sculptor-in-the-sky": { "price_jpy": 1000 },
   "universal-vision": { "price_jpy": 1500 },
-  "round-wooden-cutting-board": { "price_jpy": 1000 }
+  "round-wooden-cutting-board": { "price_jpy": 1000 },
+  "beaded-blue-whale-brooch": { "sold": true }
 }
