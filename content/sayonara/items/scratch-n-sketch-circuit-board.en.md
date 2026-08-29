@@ -27,7 +27,7 @@ draft: false
 date: 2026-08-04
 ---
 
-Soness saw this crowd-funded circuit board and wanted to support the creator.  She gave it to me in about 2009, I think! Still unused, in original well-worn packaging.
+Soness saw this crowd-funded circuit board and wanted to support the creator.  She gave it to me in about <del title="I thought it was while I lived in Chigasaki">2009</del> 2016, I think! Still unused, in original well-worn packaging.
 
 An educational microcontroller circuit board kit labeled 'Scratch n Sketch' with integrated components, motor, and wiring for learning basic electronics and programming.
 
