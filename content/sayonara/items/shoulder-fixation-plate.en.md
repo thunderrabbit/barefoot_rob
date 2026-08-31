@@ -5,6 +5,7 @@ mg_issue_id: 295
 category: "titanium"
 item_tags:
   - "oddity"
+  - "available"
 tier: "finale"
 mechanism: ""
 event: ""

@@ -1,7 +1,6 @@
 {
    "captured" : "2026-06-23",
    "category" : "book",
-   "tags" : ["books", "mens-work"],
    "description" : "The Little #MeToo Book for Men — Mark Greene. ThinkPlay Partners (NYC). ISBN 978-1-7294-7389-4.\n\nA concise (~75 pages), no-holds-barred call to action examining how “man box culture” harms men and women, inviting men out of silence and isolation. Greene is a Good Men Project senior editor who writes on men's issues for Salon, Yes! Magazine, the BBC and the New York Times, and is the author of Remaking Manhood.\n\n**Why a new owner would be happy**\n\n- Short, punchy, read-in-one-sitting.\n- Endorsements from Tony Porter (A Call to Men), Lisa Hickey (Good Men Project), and others.\n- Excellent condition (looks unread).",
    "event" : "",
    "images" : [
@@ -15,6 +14,11 @@
    "quantity" : 1,
    "slug" : "the-little-metoo-book-for-men",
    "sold" : false,
+   "tags" : [
+      "books",
+      "mens-work",
+      "available"
+   ],
    "thumb" : "https://b.robnugen.com/home/tokyo/2026/p1/items/book/the_little_metoo_book_for_men/thumbs/2026-jun-24-the-little-metoo-book-for-men-1.jpg",
    "tier" : "B+"
 }

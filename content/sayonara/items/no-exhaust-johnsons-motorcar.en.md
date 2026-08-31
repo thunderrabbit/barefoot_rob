@@ -5,6 +5,7 @@ mg_issue_id: 302
 category: "cd"
 item_tags:
   - "music"
+  - "available"
 tier: "B"
 mechanism: ""
 event: ""

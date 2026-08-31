@@ -6,6 +6,7 @@ category: "book"
 item_tags:
   - "books"
   - "spiritual"
+  - "available"
 tier: "B-"
 mechanism: ""
 event: ""

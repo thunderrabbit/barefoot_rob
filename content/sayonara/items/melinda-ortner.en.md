@@ -6,6 +6,7 @@ category: "cd"
 item_tags:
   - "music"
   - "signed"
+  - "available"
 tier: "B"
 mechanism: ""
 event: ""
