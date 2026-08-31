@@ -22,7 +22,8 @@
       "mode" : "live",
       "payment_link" : "plink_0TmA462pYT1oPdid39n8EgMz",
       "price_id" : "price_0TmA452pYT1oPdidfQQ89tlT",
-      "product_id" : "prod_UlhTnorXLb9qVH"
+      "product_id" : "prod_UlhTnorXLb9qVH",
+      "sold" : true
    },
    "asus-external-dvd-drive" : {
       "amount_jpy" : 1500,
@@ -58,7 +59,8 @@
       "mode" : "live",
       "payment_link" : "plink_0TmAW82pYT1oPdidLRaiMhkV",
       "price_id" : "price_0TmAW82pYT1oPdidtdfShxbK",
-      "product_id" : "prod_UlhvOMBkImpnes"
+      "product_id" : "prod_UlhvOMBkImpnes",
+      "sold" : true
    },
    "black-decker-corded-drill-driver-kr112" : {
       "amount_jpy" : 2500,
@@ -67,7 +69,8 @@
       "payment_link" : "plink_0TmE0J2pYT1oPdidk8kaYqhy",
       "price_id" : "price_0TmE0I2pYT1oPdidkNSxCxWc",
       "product_id" : "prod_UllXmOiF77ubUJ",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "casio-iq-1070j-7jf-radio-clock-with-original-sticker" : {
       "amount_jpy" : 1000,
@@ -84,7 +87,8 @@
       "payment_link" : "plink_0U0WQi2pYT1oPdidPIMzGF4C",
       "price_id" : "price_0U0WQi2pYT1oPdidRJnTIA2k",
       "product_id" : "prod_V0XV44tnWnS3wP",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "drill-bit-and-driver-set-with-case" : {
       "amount_jpy" : 2000,
@@ -93,7 +97,8 @@
       "payment_link" : "plink_0TmDwB2pYT1oPdid8ustz9P1",
       "price_id" : "price_0TmDwB2pYT1oPdidEXKJSSJ2",
       "product_id" : "prod_UllTcDXQSXMZNf",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "flexible-tape-measure-10m" : {
       "amount_jpy" : 800,
@@ -110,7 +115,8 @@
       "mode" : "live",
       "payment_link" : "plink_0TmA482pYT1oPdid28ATrSMw",
       "price_id" : "price_0TmA482pYT1oPdidp548mnR5",
-      "product_id" : "prod_UlhTBd33v0XINh"
+      "product_id" : "prod_UlhTBd33v0XINh",
+      "sold" : true
    },
    "high-fidelity" : {
       "amount_jpy" : 500,
@@ -271,7 +277,8 @@
       "payment_link" : "plink_0Tsz8N2pYT1oPdidGjdfYtWb",
       "price_id" : "price_0Tsz8N2pYT1oPdidX5VuvJRP",
       "product_id" : "prod_Uskdw7OSLbFsSC",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "round-wooden-cutting-board" : {
       "amount_jpy" : 1000,
@@ -280,7 +287,8 @@
       "payment_link" : "plink_0TmvrK2pYT1oPdidhiskRS3G",
       "price_id" : "price_0TmvrK2pYT1oPdidlFcwxc7n",
       "product_id" : "prod_UmUq9BdjUStgau",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "scratch-n-sketch-circuit-board" : {
       "amount_jpy" : 2500,
@@ -369,7 +377,8 @@
       "payment_link" : "plink_0U0WQt2pYT1oPdidBVp9j31d",
       "price_id" : "price_0U0WQs2pYT1oPdidpAazvLTJ",
       "product_id" : "prod_V0XVnf07D7Sx9m",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "to-be-or-not-to-be" : {
       "amount_jpy" : 2000,
@@ -405,7 +414,8 @@
       "payment_link" : "plink_0TszQD2pYT1oPdid2KRdFFh8",
       "price_id" : "price_0TszQD2pYT1oPdidaYeEppxk",
       "product_id" : "prod_UskwrtvBWR729w",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "universal-vision" : {
       "amount_jpy" : 1500,
@@ -423,7 +433,8 @@
       "payment_link" : "plink_0U0aBq2pYT1oPdidIhQIB3MK",
       "price_id" : "price_0U0aBp2pYT1oPdidN2LyUSfC",
       "product_id" : "prod_V0bO9WVZYdMw8p",
-      "quantity" : 1
+      "quantity" : 1,
+      "sold" : true
    },
    "white-magnetic-charging-cable-usb-a-to-micro-usb" : {
       "amount_jpy" : 300,
