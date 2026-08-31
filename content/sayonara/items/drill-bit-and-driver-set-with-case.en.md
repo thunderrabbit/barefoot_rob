@@ -21,7 +21,7 @@ stripe_price_id: "price_0TmDwB2pYT1oPdidEXKJSSJ2"
 stripe_buy_url: "https://buy.stripe.com/9B66ooekR3GngVigjL2sM0v"
 price_jpy: 2000
 quantity: 1
-sold: false
+sold: true
 draft: false
 date: 2026-06-25
 ---
