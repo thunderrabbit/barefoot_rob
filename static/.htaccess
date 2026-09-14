@@ -1,6 +1,13 @@
 RewriteEngine On
 RewriteRule ^journal\.pl$ /journal/journal.pl [L,QSA]
 
+# Short links printed on physical things (typed by hand, so case-insensitive
+# with an optional trailing slash). One hop straight to the page instead of
+# the /en/ + trailing-slash + alias-stub chain. 302 so a target can change
+# later without browsers caching the old one; QSD drops any query string.
+RewriteRule ^fine/?$ https://www.robnugen.com/en/books/im-fine/ [NC,QSD,R=302,L]
+RewriteRule ^ibo/?$ https://www.robnugen.com/en/offerings/inbox-overflow/ [NC,QSD,R=302,L]
+
 # Since 2021-09-20 every page lives under /en/ or /ja/, but years of links in
 # the wild (and URLs printed on physical things) use the pre-2021 bare form.
 # Hugo used to render root-level alias redirect stubs for those; a Hugo
