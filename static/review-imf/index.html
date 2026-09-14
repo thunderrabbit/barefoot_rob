@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Review I'M FINE! on Amazon · Rob Nugen</title>
+<script>
+// Printed as a QR code in I'M FINE!, so this address must keep working.
+// Sends the reader to their most likely Amazon store, guessed from the
+// device's time zone (set automatically by the phone network, and unaffected
+// by VPNs). Nothing is sent anywhere or stored. Unknown zones get amazon.com.
+(function (Intl, location) {
+  var ASIN = "B0FYQ3RHCV";
+  var US = "www.amazon.com";
+
+  var canada = ["Toronto", "Montreal", "Vancouver", "Edmonton", "Winnipeg",
+    "Halifax", "St_Johns", "Regina", "Swift_Current", "Moncton", "Glace_Bay",
+    "Goose_Bay", "Whitehorse", "Dawson", "Dawson_Creek", "Fort_Nelson",
+    "Creston", "Iqaluit", "Rankin_Inlet", "Resolute", "Cambridge_Bay",
+    "Inuvik", "Yellowknife", "Atikokan", "Blanc-Sablon", "Nipigon",
+    "Thunder_Bay", "Rainy_River", "Pangnirtung"];
+
+  var zones = {
+    "Asia/Tokyo": "www.amazon.co.jp", "Japan": "www.amazon.co.jp",
+    "Europe/London": "www.amazon.co.uk", "Europe/Belfast": "www.amazon.co.uk",
+    "Europe/Guernsey": "www.amazon.co.uk", "Europe/Jersey": "www.amazon.co.uk",
+    "Europe/Isle_of_Man": "www.amazon.co.uk", "GB": "www.amazon.co.uk",
+    "Europe/Dublin": "www.amazon.ie", "Eire": "www.amazon.ie",
+    "Europe/Berlin": "www.amazon.de", "Europe/Busingen": "www.amazon.de",
+    "Europe/Vienna": "www.amazon.de", "Europe/Zurich": "www.amazon.de",
+    "Europe/Luxembourg": "www.amazon.de",
+    "Europe/Paris": "www.amazon.fr", "Europe/Monaco": "www.amazon.fr",
+    "Europe/Madrid": "www.amazon.es", "Atlantic/Canary": "www.amazon.es",
+    "Africa/Ceuta": "www.amazon.es",
+    "Europe/Rome": "www.amazon.it", "Europe/Vatican": "www.amazon.it",
+    "Europe/San_Marino": "www.amazon.it",
+    "Europe/Amsterdam": "www.amazon.nl",
+    "Europe/Brussels": "www.amazon.com.be",
+    "Europe/Warsaw": "www.amazon.pl", "Poland": "www.amazon.pl",
+    "Europe/Stockholm": "www.amazon.se",
+    "Pacific/Auckland": "www.amazon.com.au", "Pacific/Chatham": "www.amazon.com.au",
+    "NZ": "www.amazon.com.au"
+  };
+  for (var i = 0; i < canada.length; i++) zones["America/" + canada[i]] = "www.amazon.ca";
+
+  function storeFor(tz) {
+    if (!tz) return US;
+    if (zones[tz]) return zones[tz];
+    if (/^Australia\//.test(tz)) return "www.amazon.com.au";
+    if (/^Canada\//.test(tz)) return "www.amazon.ca";
+    return US;
+  }
+
+  var tz = "";
+  try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) {}
+  location.replace("https://" + storeFor(tz) + "/dp/" + ASIN);
+})(typeof Intl !== "undefined" ? Intl : undefined, location);
+</script>
+<style>
+  body { font-family: Georgia, "DejaVu Serif", serif; max-width: 34em; margin: 3em auto; padding: 0 1.2em; line-height: 1.6; color: #222; background: #fdfaf4; }
+  h1 { font-size: 1.4em; }
+  ul { padding-left: 1.2em; }
+  a { color: #8b6508; }
+</style>
+</head>
+<body>
+<h1>Taking you to <em>I'M FINE!</em> on Amazon…</h1>
+<p>If nothing happens, choose your Amazon store. Thank you for leaving an honest review; it helps the next man find this book.</p>
+<ul>
+  <li><a href="https://www.amazon.com/dp/B0FYQ3RHCV">United States</a></li>
+  <li><a href="https://www.amazon.com.au/dp/B0FYQ3RHCV">Australia &amp; New Zealand</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B0FYQ3RHCV">Japan</a></li>
+  <li><a href="https://www.amazon.co.uk/dp/B0FYQ3RHCV">United Kingdom</a></li>
+  <li><a href="https://www.amazon.ca/dp/B0FYQ3RHCV">Canada</a></li>
+  <li><a href="https://www.amazon.ie/dp/B0FYQ3RHCV">Ireland</a></li>
+  <li><a href="https://www.amazon.de/dp/B0FYQ3RHCV">Germany, Austria &amp; Switzerland</a></li>
+  <li><a href="https://www.amazon.fr/dp/B0FYQ3RHCV">France</a></li>
+  <li><a href="https://www.amazon.es/dp/B0FYQ3RHCV">Spain</a></li>
+  <li><a href="https://www.amazon.it/dp/B0FYQ3RHCV">Italy</a></li>
+  <li><a href="https://www.amazon.nl/dp/B0FYQ3RHCV">Netherlands</a></li>
+  <li><a href="https://www.amazon.com.be/dp/B0FYQ3RHCV">Belgium</a></li>
+  <li><a href="https://www.amazon.pl/dp/B0FYQ3RHCV">Poland</a></li>
+  <li><a href="https://www.amazon.se/dp/B0FYQ3RHCV">Sweden</a></li>
+</ul>
+<p><a href="https://www.robnugen.com/en/books/im-fine/">About the book</a></p>
+</body>
+</html>
