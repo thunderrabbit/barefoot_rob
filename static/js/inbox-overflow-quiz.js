@@ -315,6 +315,20 @@
     html += '<p style="margin-top:25px; color:darkgoldenrod; font-weight:bold; font-size:1.05em;">These are your results. No email required. They\'re yours.</p>';
     html += '</div>';
 
+    // === Crisis lines — only for the most severe result ===
+    if (result === results[results.length - 1]) {
+      html += '<div style="background:white; padding:25px 30px; border-radius:8px; margin:15px 0; text-align:left; border:2px solid #555; line-height:1.7;">';
+      html += '<p style="font-weight:bold; margin:0 0 12px 0;">If it feels like too much right now, or you\'re thinking about hurting yourself, please talk to someone today. It\'s free and confidential.</p>';
+      html += '<ul style="margin:0; padding-left:20px;">';
+      html += '<li><strong>Australia:</strong> Lifeline <a href="tel:131114">13 11 14</a>, or MensLine <a href="tel:1300789978">1300 78 99 78</a> (24/7, for men)</li>';
+      html += '<li><strong>Japan:</strong> TELL Lifeline (English) <a href="tel:0357740992">03-5774-0992</a>, or free <a href="tel:08003008355">0800-300-8355</a></li>';
+      html += '<li><strong>UK:</strong> Samaritans <a href="tel:116123">116 123</a> (24/7), or CALM <a href="tel:0800585858">0800 58 58 58</a> (5pm&ndash;midnight)</li>';
+      html += '<li><strong>US:</strong> call or text <a href="tel:988">988</a></li>';
+      html += '<li><strong>Anywhere else:</strong> <a href="https://findahelpline.com/">findahelpline.com</a></li>';
+      html += '</ul>';
+      html += '</div>';
+    }
+
     // === OPTIONAL next steps — visually quieter ===
     html += '<div style="background:white; padding:25px 30px; border-radius:8px; margin:15px 0; text-align:center; border:1px solid #e0e0e0;">';
     html += '<p style="font-weight:bold; margin:0 0 8px 0; color:#555;">Want to keep exploring?</p>';
