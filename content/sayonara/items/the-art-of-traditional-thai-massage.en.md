@@ -5,6 +5,7 @@ mg_issue_id: 284
 category: "book"
 item_tags:
   - "books"
+  - "available"
 tier: "B+"
 mechanism: ""
 event: ""

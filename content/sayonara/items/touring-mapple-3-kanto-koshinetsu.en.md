@@ -7,6 +7,7 @@ item_tags:
   - "books"
   - "japan"
   - "travel"
+  - "available"
 tier: "story-B"
 mechanism: ""
 event: ""

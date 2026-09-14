@@ -6,6 +6,7 @@ category: "dvd"
 item_tags:
   - "movies"
   - "dvd"
+  - "available"
 tier: "C"
 mechanism: ""
 event: ""

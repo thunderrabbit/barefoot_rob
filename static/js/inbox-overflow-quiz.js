@@ -3,9 +3,9 @@
     {
       q: "When someone asks how you're doing, what's your gut reaction?",
       opts: [
-        { text: "I answer truthfully if I trust the person", score: 0 },
+        { text: "I answer truthfully if I trust the person", score: 1 },
         { text: "I know I'm not fine but say it anyway", score: 1 },
-        { text: "I say what I actually feel", score: 1 },
+        { text: "I say what I actually feel", score: 0 },
         { text: "I say 'good' or 'fine' without thinking", score: 2 },
         { text: "I genuinely don't know how I feel", score: 3 }
       ]
@@ -107,7 +107,7 @@
       max: 14,
       title: "Inbox: Getting Full",
       emoji: "📬",
-      body: "You're functional, maybe even high-performing.. but there's a growing pile of unprocessed stuff underneath. You know how to get through the day, but some emotions are getting deferred, not dealt with. The tension is building quietly. They could accumulate quickly if not processed. This is the stage where small changes make the biggest difference, before your inbox inbox starts sending error messages."
+      body: "You're functional, maybe even high-performing... but there's a growing pile of unprocessed stuff underneath. You know how to get through the day, but some emotions are getting deferred, not dealt with. The tension is building quietly. It could accumulate quickly if not processed. This is the stage where small changes make the biggest difference, before your inbox starts sending error messages."
     },
     {
       max: 21,

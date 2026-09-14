@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daymark — the day you're on, and the ones worth marking</title>
+<meta name="description" content="Count the days since you were born, and see the calendar dates when your day number turns prime, palindromic, or otherwise notable.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="mast">
+    <h1>Daymark</h1>
+    <p>every day has a number</p>
+  </header>
+
+  <section class="picker" id="picker">
+    <nav class="crumbs" id="crumbs" hidden></nav>
+
+    <div id="step-year">
+      <p class="prompt" id="yearPrompt">Which year were you born?</p>
+      <div class="grid years" id="years"></div>
+    </div>
+
+    <div id="step-month" hidden>
+      <p class="prompt" id="monthPrompt">Which month?</p>
+      <div class="grid months" id="months"></div>
+    </div>
+
+    <div id="step-day" hidden>
+      <p class="prompt" id="dayPrompt">Which day?</p>
+      <div class="grid cal" id="cal"></div>
+    </div>
+
+    <p class="note" id="note"></p>
+    <div class="actions">
+      <button class="ghost" id="share" hidden>Copy link</button>
+      <button class="ghost" id="reset" hidden>Start over</button>
+    </div>
+  </section>
+
+  <section class="count" id="count" aria-live="polite">
+    <p class="n"><span id="bignum">0</span><small>days</small></p>
+    <p class="today" id="todayline"></p>
+    <p class="sub" id="ageline"></p>
+  </section>
+
+  <div class="kinds" id="kinds" role="group" aria-label="Which milestones to show">
+    <label class="chip" style="--k:var(--prime)"><input type="checkbox" value="prime" checked><span>prime</span></label>
+    <label class="chip" style="--k:var(--palindrome)"><input type="checkbox" value="palindrome" checked><span>palindrome</span></label>
+    <label class="chip" style="--k:var(--thousand)"><input type="checkbox" value="thousand" checked><span>round thousand</span></label>
+    <label class="chip" style="--k:var(--repdigit)"><input type="checkbox" value="repdigit" checked><span>all one digit</span></label>
+    <label class="chip" style="--k:var(--run)"><input type="checkbox" value="run" checked><span>digits in a run</span></label>
+  </div>
+
+  <ul class="list" id="list"></ul>
+
+  <footer>
+    Day numbers count whole days since your birthdate, in your own calendar. Each milestone date is the day you wake up on that number.
+  </footer>
+</div>
+
+<script src="script.js" defer></script>
+</body>
+</html>

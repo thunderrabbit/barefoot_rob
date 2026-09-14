@@ -6,6 +6,7 @@ category: "book"
 item_tags:
   - "books"
   - "mens-work"
+  - "available"
 tier: "B+"
 mechanism: ""
 event: ""

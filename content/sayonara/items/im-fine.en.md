@@ -8,6 +8,7 @@ item_tags:
   - "mens-work"
   - "by-rob"
   - "signed"
+  - "available"
 tier: "anchor"
 mechanism: ""
 event: ""
