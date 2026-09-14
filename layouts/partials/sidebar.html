@@ -40,30 +40,30 @@
                 </li>
                 <li class="nav-item">
                     <a class="pure-button" href='{{ "blog" | relLangURL }}'>
-                        <i class="fa fa-book"></i>
+                        <i class="fa-solid fa-book"></i>
                     </a>
                 </li>
                 {{ if .Site.Params.twitterName }}
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://twitter.com/{{ .Site.Params.twitterName }}">
-                        <i class="fa fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
+                        <i class="fa-brands fa-twitter"></i>{{ if not .Site.Params.hideSidebarIconText }} Twitter{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/{{ .Site.Params.facebook }}">
-                        <i class="fa fa-facebook"></i>
+                        <i class="fa-brands fa-facebook"></i>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/{{ .Site.Params.youtube }}">
-                        <i class="fa fa-youtube"></i>
+                        <i class="fa-brands fa-youtube"></i>
                     </a>
                 </li>
                 {{ with .Site.Params.instagram }}
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/{{ . }}/">
-                        <i class="fa fa-instagram"></i>
+                        <i class="fa-brands fa-instagram"></i>
                     </a>
                 </li>
                 {{ end }}
@@ -76,21 +76,21 @@
                 {{ if .Site.Params.githubName }}
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://github.com/{{ .Site.Params.githubName }}">
-                        <i class="fa fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
+                        <i class="fa-brands fa-github-alt"></i>{{ if not .Site.Params.hideSidebarIconText }} Github{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.stackOverflowId }}
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/u/{{ .Site.Params.stackOverflowId }}">
-                        <i class="fa fa-stack-overflow"></i>{{ if not .Site.Params.hideSidebarIconText }}Stack Overflow{{ end }}
+                        <i class="fa-brands fa-stack-overflow"></i>{{ if not .Site.Params.hideSidebarIconText }}Stack Overflow{{ end }}
                     </a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.linkedinName }}
                 <li class="nav-item">
                     <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
-                        <i class="fa fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
+                        <i class="fa-brands fa-linkedin"></i>{{ if not .Site.Params.hideSidebarIconText }} LinkedIn{{ end }}
                     </a>
                 </li>
                 {{ end }}

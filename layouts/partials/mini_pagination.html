@@ -2,13 +2,13 @@
 {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
       {{ if .Paginator.HasPrev }}
       <a href="{{.Paginator.Prev.URL}}">
-        <i class="fa fa-angle-double-left"></i>&nbsp;Newer
+        <i class="fa-solid fa-angles-left"></i>&nbsp;Newer
       </a>
       {{ end }}
     Page {{.Paginator.PageNumber}} of {{.Paginator.TotalPages}}
     {{ if .Paginator.HasNext }}
       <a href="{{.Paginator.Next.URL}}">
-        Older&nbsp;<i class="fa fa-angle-double-right"></i>
+        Older&nbsp;<i class="fa-solid fa-angles-right"></i>
       </a>
     {{ end }}
 {{ end }}
