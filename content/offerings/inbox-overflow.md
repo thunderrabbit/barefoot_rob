@@ -164,7 +164,7 @@ No one sees your answers. Nothing is stored.
 
 </div>
 
-<script src="/js/inbox-overflow-quiz.js?v=3"></script>
+<script src="/js/inbox-overflow-quiz.js?v=4"></script>
 
 ---
 
