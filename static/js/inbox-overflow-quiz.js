@@ -3,9 +3,9 @@
     {
       q: "When someone asks how you're doing, what's your gut reaction?",
       opts: [
-        { text: "I answer truthfully if I trust the person", score: 0 },
+        { text: "I answer truthfully if I trust the person", score: 1 },
         { text: "I know I'm not fine but say it anyway", score: 1 },
-        { text: "I say what I actually feel", score: 1 },
+        { text: "I say what I actually feel", score: 0 },
         { text: "I say 'good' or 'fine' without thinking", score: 2 },
         { text: "I genuinely don't know how I feel", score: 3 }
       ]
