@@ -60,6 +60,13 @@
                         <i class="fa fa-youtube"></i>
                     </a>
                 </li>
+                {{ with .Site.Params.instagram }}
+                <li class="nav-item">
+                    <a class="pure-button" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/{{ . }}/">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                </li>
+                {{ end }}
 
                 {{ if .Site.Params.mastodonName }}
                 <li class="nav-item">
