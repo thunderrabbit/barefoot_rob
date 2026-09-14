@@ -311,13 +311,9 @@
     html += '<p style="font-size:4em; margin:0;">' + result.emoji + '</p>';
     html += '<h2 style="margin:15px 0 5px 0; font-size:2em;">' + result.title + '</h2>';
     html += '<p style="color:#888; margin:0 0 30px 0; font-size:1.1em;">Score: ' + total + ' / ' + (questions.length * 3) + '</p>';
-    html += '<p style="text-align:left; font-size:1.15em; line-height:1.7; max-width:600px; margin:0 auto;">' + result.body + '</p>';
-    html += '<p style="margin-top:25px; color:darkgoldenrod; font-weight:bold; font-size:1.05em;">These are your results. No email required. They\'re yours.</p>';
-    html += '</div>';
-
-    // === Crisis lines — only for the most severe result ===
+    // === Crisis lines — only for the most severe result, before its body text ===
     if (result === results[results.length - 1]) {
-      html += '<div style="background:white; padding:25px 30px; border-radius:8px; margin:15px 0; text-align:left; border:2px solid #555; line-height:1.7;">';
+      html += '<div style="background:white; padding:25px 30px; border-radius:8px; max-width:600px; margin:0 auto 30px; text-align:left; border:2px solid #555; line-height:1.7;">';
       html += '<p style="font-weight:bold; margin:0 0 12px 0;">If it feels like too much right now, or you\'re thinking about hurting yourself, please talk to someone today. It\'s free and confidential.</p>';
       html += '<ul style="margin:0; padding-left:20px;">';
       html += '<li><strong>Australia:</strong> Lifeline <a href="tel:131114">13 11 14</a>, or MensLine <a href="tel:1300789978">1300 78 99 78</a> (24/7, for men)</li>';
@@ -328,6 +324,10 @@
       html += '</ul>';
       html += '</div>';
     }
+
+    html += '<p style="text-align:left; font-size:1.15em; line-height:1.7; max-width:600px; margin:0 auto;">' + result.body + '</p>';
+    html += '<p style="margin-top:25px; color:darkgoldenrod; font-weight:bold; font-size:1.05em;">These are your results. No email required. They\'re yours.</p>';
+    html += '</div>';
 
     // === OPTIONAL next steps — visually quieter ===
     html += '<div style="background:white; padding:25px 30px; border-radius:8px; margin:15px 0; text-align:center; border:1px solid #e0e0e0;">';
