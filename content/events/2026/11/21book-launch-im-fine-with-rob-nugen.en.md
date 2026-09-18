@@ -21,7 +21,7 @@ EventType: "Book launch"
 **An immersive experience to manage your emotions and your inner critic, to
 strengthen your relationships with your loved ones and yourself.**
 
-[Get tickets on Eventbrite](https://www.eventbrite.com.au/e/book-launch-im-fine-with-rob-nugen-tickets-2001523818621)
+[Buy a ticket (A$25)](https://buy.stripe.com/eVqdQQa4B7WDbAYaZr2sM16) &middot; or [get tickets on Eventbrite](https://www.eventbrite.com.au/e/book-launch-im-fine-with-rob-nugen-tickets-2001523818621)
 
 {{< calendar-links >}}
 
@@ -92,7 +92,8 @@ that are well worth the visit!
 
 #### Tickets
 
-A$27.78 on [Eventbrite](https://www.eventbrite.com.au/e/book-launch-im-fine-with-rob-nugen-tickets-2001523818621),
+[A$25 by card](https://buy.stripe.com/eVqdQQa4B7WDbAYaZr2sM16), A$27.78 on
+[Eventbrite](https://www.eventbrite.com.au/e/book-launch-im-fine-with-rob-nugen-tickets-2001523818621),
 or $25 by bank transfer (contact jessxgoh@lifeinconfidence.com). Capped
 at 20 participants to keep things personable, intimate and safe. Ages
 18+. No refunds.
