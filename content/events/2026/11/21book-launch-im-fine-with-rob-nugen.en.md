@@ -16,7 +16,7 @@ EventType: "Book launch"
 
 ---
 
-{{% img-responsive "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193825247%2F140402074644%2F1%2Foriginal.20260918-100657?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512&fp-y=0.617&s=0b3c8b20dc19bcc659bf9d4f842332c2" "Book Launch: I'M FINE! with Rob Nugen" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2026/2026_nov_21_im_fine_book_launch_adelaide_three_of_cups_1000.png" "I'M FINE! book launch with Rob Nugen at Three of Cups Teahouse, Adelaide" %}}
 
 **An immersive experience to manage your emotions and your inner critic, to
 strengthen your relationships with your loved ones and yourself.**
