@@ -129,7 +129,7 @@ cash register and your items will be brought over to you.
 
 #### About the event organiser
 
-Jess X Goh is the founder of Life In Confidence, an international
+Jess X Goh is the founder of [Life In Confidence](https://www.lifeinconfidence.com/home), an international
 holistic trauma recovery business, for over 10 years. Jess is
 passionate about empowering burned out high achievers to make peace
 with their traumatic past (drug-free). She is a spiritual speaker at
