@@ -214,6 +214,7 @@ sub std_in_logger() {
 }
 sub logthis($) {
   my ($log_line) = @_;
+  return unless -t STDIN;   # input came from a generator file or pipe; nothing to recover
   my $log = $rpl::Constants::event_generator_log;
   open(OUT, ">>", $log) or die "Could not open file '$log'";
   print OUT $log_line;
