@@ -1,4 +1,10 @@
 RewriteEngine On
+
+# The journal is deployed as two git working copies (engine + entries), so
+# their .git/ dirs and other dotfiles sit inside the web root. 404 any path
+# segment starting with a dot, except ACME's /.well-known/.
+RewriteRule (^|/)\.(?!well-known(/|$)) - [R=404,L]
+
 RewriteRule ^journal\.pl$ /journal/journal.pl [L,QSA]
 
 # Short links printed on physical things (typed by hand, so case-insensitive
