@@ -1,6 +1,7 @@
 #!/usr/bin/perl
-# dots.pl — the write side of internet DOTS. For now it only creates games.
+# dots.pl — internet DOTS. For now it creates games and reads them back.
 #   POST /dots/dots.pl?do=create  ->  {"id":"<12 hex>"}
+#   GET  /dots/dots.pl?id=<id>    ->  the game's JSON
 # Game files live outside the web root, so nothing here is served directly.
 use strict;
 use warnings;
@@ -14,13 +15,28 @@ sub reply {
     exit;
 }
 
-my ($do) = ($ENV{QUERY_STRING} // '') =~ /(?:^|&)do=([a-z]+)/;
-reply('405 Method Not Allowed', '{"error":"POST only"}')
-  unless ($ENV{REQUEST_METHOD} // '') eq 'POST';
+my $games = "$BACKEND/games";
+my $query = $ENV{QUERY_STRING} // '';
+my $method = $ENV{REQUEST_METHOD} // '';
+
+if ($method eq 'GET') {
+    my ($id) = $query =~ /(?:^|&)id=([^&]*)/;
+    # The id becomes a filename, so it must be exactly 12 hex digits first.
+    reply('400 Bad Request', '{"error":"bad id"}')
+      unless defined $id && $id =~ /\A[a-f0-9]{12}\z/;
+    open my $in, '<', "$games/$id.json" or reply('404 Not Found', '{"error":"no such game"}');
+    local $/;
+    my $json = <$in>;
+    chomp $json;
+    reply('200 OK', $json);
+}
+
+my ($do) = $query =~ /(?:^|&)do=([a-z]+)/;
+reply('405 Method Not Allowed', '{"error":"GET or POST only"}')
+  unless $method eq 'POST';
 reply('400 Bad Request', '{"error":"unknown do"}')
   unless defined $do && $do eq 'create';
 
-my $games = "$BACKEND/games";
 mkdir $games unless -d $games;
 
 open my $rand, '<:raw', '/dev/urandom' or reply('500 Internal Server Error', '{"error":"no random"}');
