@@ -1,9 +1,11 @@
 #!/usr/bin/perl
-# dots.pl — internet DOTS. For now it creates games, reads them back, and
-# appends moves. No players or turns yet: anyone with the id may move.
-#   POST /dots/dots.pl?do=create                 ->  {"id":"<12 hex>"}
-#   GET  /dots/dots.pl?id=<id>                   ->  the game's JSON
-#   POST /dots/dots.pl?do=move&id=<id>&edge=h,1,2 ->  {"n":<move count>}
+# dots.pl — internet DOTS. For now it creates and joins games, reads them
+# back, and appends moves. Each seat has a secret token; a move needs one,
+# but there are no turns yet: either player may move at any time.
+#   POST do=create                           ->  {"id":"<12 hex>","token":"<32 hex>"}
+#   POST do=join&id=<id>                     ->  {"token":"<32 hex>"}
+#   GET  id=<id>                             ->  the game's JSON
+#   POST do=move&id=<id>&token=<t>&edge=h,1,2 ->  {"n":<move count>}
 # Game files live outside the web root, so nothing here is served directly.
 use strict;
 use warnings;
@@ -50,13 +52,42 @@ sub read_game {
 }
 
 # Write beside the target, then rename: a reader never sees half a file.
-sub write_game {
-    my ($id, $json) = @_;
-    my $tmp = "$games/.$id.tmp";
+sub write_file {
+    my ($name, $content) = @_;
+    my $tmp = "$games/.$name.tmp";
     open my $fh, '>', $tmp or reply('500 Internal Server Error', '{"error":"cannot write"}');
-    print $fh "$json\n";
+    print $fh $content;
     close $fh or reply('500 Internal Server Error', '{"error":"cannot write"}');
-    rename $tmp, "$games/$id.json" or reply('500 Internal Server Error', '{"error":"cannot write"}');
+    rename $tmp, "$games/$name" or reply('500 Internal Server Error', '{"error":"cannot write"}');
+}
+
+sub write_game { my ($id, $json) = @_; write_file("$id.json", "$json\n") }
+
+# Seat tokens sit in their own file, one per line in seat order, so the
+# game JSON that GET hands out never contains them.
+sub read_tokens {
+    my ($id) = @_;
+    open my $in, '<', "$games/$id.tok" or return ();
+    chomp(my @tokens = <$in>);
+    return @tokens;
+}
+
+sub write_tokens { my ($id, @tokens) = @_; write_file("$id.tok", join('', map {"$_\n"} @tokens)) }
+
+sub random_hex {
+    my ($bytes) = @_;
+    open my $rand, '<:raw', '/dev/urandom' or reply('500 Internal Server Error', '{"error":"no random"}');
+    my $buf = q();
+    read($rand, $buf, $bytes) == $bytes or reply('500 Internal Server Error', '{"error":"no random"}');
+    return unpack 'H*', $buf;
+}
+
+# One writer at a time, so two requests at once cannot overwrite each other.
+# The lock is released when the returned handle goes away at exit.
+sub lock_games {
+    open my $lock, '>>', "$games/.lock" or reply('500 Internal Server Error', '{"error":"no lock"}');
+    flock $lock, LOCK_EX or reply('500 Internal Server Error', '{"error":"no lock"}');
+    return $lock;
 }
 
 reply('200 OK', read_game(game_id())) if $method eq 'GET';
@@ -67,12 +98,24 @@ reply('405 Method Not Allowed', '{"error":"GET or POST only"}')
 
 mkdir $games unless -d $games;
 
+if ($do eq 'join') {
+    my $id = game_id();
+    my $lock = lock_games();
+    read_game($id);                           # 404 if there is no such game
+    my @tokens = read_tokens($id);
+    reply('409 Conflict', '{"error":"someone already joined"}') if @tokens != 1;
+    my $token = random_hex(16);
+    write_tokens($id, @tokens, $token);
+    reply('200 OK', qq({"token":"$token"}));
+}
+
 if ($do eq 'move') {
     my $id = game_id();
-    # One writer at a time, so two moves at once cannot overwrite each other.
-    open my $lock, '>>', "$games/.lock" or reply('500 Internal Server Error', '{"error":"no lock"}');
-    flock $lock, LOCK_EX or reply('500 Internal Server Error', '{"error":"no lock"}');
+    my $lock = lock_games();
     my $game = decode_json(read_game($id));
+    my $token = param('token') // '';
+    reply('403 Forbidden', '{"error":"not your game"}')
+      unless length $token && grep { $_ eq $token } read_tokens($id);
 
     # Canonical keys from game.js: 'h,x,y' is the line under box (x,y),
     # 'v,x,y' the line left of it. No leading zeros, so each edge has one name.
@@ -92,10 +135,9 @@ if ($do eq 'move') {
 
 reply('400 Bad Request', '{"error":"unknown do"}') unless $do eq 'create';
 
-open my $rand, '<:raw', '/dev/urandom' or reply('500 Internal Server Error', '{"error":"no random"}');
-read $rand, my $bytes, 6;
-close $rand;
-my $id = unpack 'H*', $bytes;
+my $id = random_hex(6);
+my $token = random_hex(16);
+write_tokens($id, $token);                    # tokens first: no game without seats
 write_game($id, '{"h":5,"moves":[],"w":5}');
 
-reply('200 OK', qq({"id":"$id"}));
+reply('200 OK', qq({"id":"$id","token":"$token"}));
