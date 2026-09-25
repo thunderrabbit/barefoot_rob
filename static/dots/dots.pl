@@ -1,11 +1,11 @@
 #!/usr/bin/perl
-# dots.pl — internet DOTS. For now it creates and joins games, reads them
-# back, and appends moves. Each seat has a secret token; a move needs one,
-# but there are no turns yet: either player may move at any time.
+# dots.pl — internet DOTS. It creates and joins games, reads them back, and
+# appends moves. Each seat has a secret token, and a move needs the token of
+# the seat whose turn it is. Player one (seat 0) moves first.
 #   POST do=create                           ->  {"id":"<12 hex>","token":"<32 hex>"}
 #   POST do=join&id=<id>                     ->  {"token":"<32 hex>"}
 #   GET  id=<id>                             ->  the game's JSON
-#   POST do=move&id=<id>&token=<t>&edge=h,1,2 ->  {"n":<move count>}
+#   POST do=move&id=<id>&token=<t>&edge=h,1,2 ->  {"n":<move count>,"turn":0|1}
 # Game files live outside the web root, so nothing here is served directly.
 use strict;
 use warnings;
@@ -90,6 +90,32 @@ sub lock_games {
     return $lock;
 }
 
+# Count one more side on each box this edge borders ('h,x,y' lies between
+# boxes (x,y-1) and (x,y); 'v,x,y' between (x-1,y) and (x,y)). Returns true
+# when it finishes a box, which in DOTS means the same player goes again.
+sub add_edge {
+    my ($sides, $edge, $w, $h) = @_;
+    my ($hv, $x, $y) = split /,/, $edge;
+    my $boxed = 0;
+    for my $box ($hv eq 'h' ? ([$x, $y - 1], [$x, $y]) : ([$x - 1, $y], [$x, $y])) {
+        my ($bx, $by) = @$box;
+        next if $bx < 1 || $bx > $w || $by < 1 || $by > $h;
+        $boxed = 1 if ++$sides->{"$bx,$by"} == 4;
+    }
+    return $boxed;
+}
+
+# Whose turn it is after every move so far, by replaying them from the start.
+sub turn_after {
+    my ($game) = @_;
+    my (%sides, $turn);
+    $turn = 0;
+    for my $edge (@{ $game->{moves} }) {
+        $turn = 1 - $turn unless add_edge(\%sides, $edge, $game->{w}, $game->{h});
+    }
+    return $turn;
+}
+
 reply('200 OK', read_game(game_id())) if $method eq 'GET';
 
 my $do = param('do') // '';
@@ -114,8 +140,12 @@ if ($do eq 'move') {
     my $lock = lock_games();
     my $game = decode_json(read_game($id));
     my $token = param('token') // '';
+    my @tokens = read_tokens($id);
+    my ($seat) = grep { $tokens[$_] eq $token } 0 .. $#tokens;
     reply('403 Forbidden', '{"error":"not your game"}')
-      unless length $token && grep { $_ eq $token } read_tokens($id);
+      unless length $token && defined $seat;
+    reply('409 Conflict', '{"error":"waiting for someone to join"}') if @tokens < 2;
+    reply('403 Forbidden', '{"error":"not your turn"}') if $seat != turn_after($game);
 
     # Canonical keys from game.js: 'h,x,y' is the line under box (x,y),
     # 'v,x,y' the line left of it. No leading zeros, so each edge has one name.
@@ -130,7 +160,7 @@ if ($do eq 'move') {
 
     push @{ $game->{moves} }, $edge;
     write_game($id, JSON::PP->new->canonical->encode($game));
-    reply('200 OK', '{"n":' . scalar(@{ $game->{moves} }) . '}');
+    reply('200 OK', '{"n":' . scalar(@{ $game->{moves} }) . ',"turn":' . turn_after($game) . '}');
 }
 
 reply('400 Bad Request', '{"error":"unknown do"}') unless $do eq 'create';
