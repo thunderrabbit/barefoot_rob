@@ -24,6 +24,16 @@
     try { window.localStorage.setItem('dots-seat-' + id, JSON.stringify(seat)); } catch (err) { /* no storage */ }
   }
 
+  function seat(id) {
+    try { return JSON.parse(window.localStorage.getItem('dots-seat-' + id)); } catch (err) { return null; }
+  }
+
+  /* The game id a share link carries: /dots/#g=<id>. */
+  function linkedGame() {
+    var m = /^#g=([a-f0-9]{12})$/.exec(location.hash);
+    return m ? m[1] : null;
+  }
+
   function shareLink(id) {
     return location.origin + location.pathname + '#g=' + id;
   }
@@ -37,5 +47,25 @@
       });
   }
 
-  window.DotsNet = { create: create };
+  /* done(error, game) with the game as dots.pl stores it. */
+  function load(id, done) {
+    var failed = function () { done('The server did not answer. Try again.'); };
+    fetch(ENDPOINT + '?id=' + id, { cache: 'no-store' })
+      .then(function (res) {
+        return res.json().then(function (body) {
+          if (res.status === 404) done('That game is gone. Games are cleared out after a while.');
+          else done(res.ok ? null : (body.error || 'The server said no.'), body);
+        }, failed);
+      }, failed);
+  }
+
+  function join(id, opts, done) {
+    post({ 'do': 'join', id: id, name: opts.name, color: opts.color }, function (err, body) {
+      if (err) { done(err); return; }
+      saveSeat(id, { token: body.token, side: 1 });
+      done(null);
+    });
+  }
+
+  window.DotsNet = { create: create, load: load, join: join, seat: seat, linkedGame: linkedGame };
 }());
