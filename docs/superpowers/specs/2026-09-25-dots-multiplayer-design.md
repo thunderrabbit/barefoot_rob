@@ -54,19 +54,29 @@ long-lived, and a broken game must not break a build or deploy.
   ETag/304 and no Perl process.
 - `/dots/` stays pure static. Hugo output never contains game state.
 - Source of truth is this repo: `server/dots/dots.pl` and `server/dots/htaccess`,
-  outside `static/`, so Hugo never publishes them. `server/dots/install.sh`
-  copies them to bfr with `scp` and sets modes. Hugo builds never run it.
+  outside `static/`, so Hugo never publishes them. There is no separate deploy
+  path: `update_robnugen.com.sh` already pulls this repo on bfr, so after a
+  successful Hugo build it copies both files into the data dir. `bbfr`,
+  `./deploy.sh` and the nightly cron therefore all deploy the CGI.
 
 ### Deploy-script edit (show Rob before applying on bfr)
 
-One variable and one line, after the journal symlink:
+One variable, plus three lines after the journal symlink:
 
 ```bash
 DOTS_DIR=/home/barefoot_rob/dots_backend_since_2026_sep_25_tranmere   # stable, never deleted
 ...
     ln -s $JOURNAL_DIR $ROBNUGENCOM_OUT_DIR/journal
     ln -s $DOTS_DIR $ROBNUGENCOM_OUT_DIR/dots-play
+    install -m 755 $ROBNUGENCOM_SOURCE_DIR/server/dots/dots.pl $DOTS_DIR/dots.pl \
+      && install -m 644 $ROBNUGENCOM_SOURCE_DIR/server/dots/htaccess $DOTS_DIR/.htaccess \
+      || echo "DOTS CGI install failed; site deployed anyway"
 ```
+
+These run only after Hugo succeeds, and a failure only logs a message; it never
+blocks the site flip. `install` writes to a temp file and renames it, so a request
+arriving mid-copy never sees a half-written `dots.pl`. Game data (`games/`,
+`open.json`, etc.) is never touched by a deploy.
 
 The live build dir also needs this symlink once, by hand, so the game works
 before the next nightly build.
