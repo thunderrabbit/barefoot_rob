@@ -2,8 +2,8 @@
 # dots.pl — internet DOTS. It creates and joins games, reads them back, and
 # appends moves. Each seat has a secret token, and a move needs the token of
 # the seat whose turn it is. Player one (seat 0) moves first.
-#   POST do=create[&w=5&h=5]                 ->  {"id":"<12 hex>","token":"<32 hex>"}
-#   POST do=join&id=<id>                     ->  {"token":"<32 hex>"}
+#   POST do=create[&w=5&h=5][&name=One][&color=12] ->  {"id":"<12 hex>","token":"<32 hex>"}
+#   POST do=join&id=<id>[&name=Two][&color=9]        ->  {"token":"<32 hex>"}
 #   GET  id=<id>                             ->  the game's JSON
 #   POST do=move&id=<id>&token=<t>&edge=h,1,2 ->  {"n":<move count>,"turn":0|1}
 # Game files live outside the web root, so nothing here is served directly.
@@ -11,6 +11,10 @@ use strict;
 use warnings;
 use Fcntl qw(:flock);
 use JSON::PP;
+use Encode qw(decode);
+
+# Game files are UTF-8 bytes; names may be any language.
+my $JSON = JSON::PP->new->utf8->canonical;
 
 my $BACKEND = $ENV{DOTS_BACKEND}
   || '/home/barefoot_rob/dots_backend_since_2026_sep_25_tranmere';
@@ -31,8 +35,10 @@ my $method = $ENV{REQUEST_METHOD} // '';
 sub param {
     my ($name) = @_;
     my ($value) = $query =~ /(?:^|&)\Q$name\E=([^&]*)/;
-    $value =~ s/%2C/,/gi if defined $value;
-    return $value;
+    return undef unless defined $value;
+    $value =~ tr/+/ /;
+    $value =~ s/%([0-9A-Fa-f]{2})/chr hex $1/ge;
+    return decode('UTF-8', $value);     # bad bytes become U+FFFD, never die
 }
 
 # The id becomes a filename, so it must be exactly 12 hex digits first.
@@ -116,6 +122,24 @@ sub turn_after {
     return $turn;
 }
 
+# A player as the game file stores it. The name is shown with textContent in
+# the browser, but still: no control or invisible formatting characters, and
+# the same 15-character limit the setup screen's name box has.
+sub player {
+    my ($default_name, $default_color) = @_;
+    my $name = param('name') // $default_name;
+    $name =~ s/[\p{Cc}\p{Cf}]//g;
+    $name =~ s/\s+/ /g;
+    $name =~ s/\A | \z//g;
+    reply('400 Bad Request', '{"error":"name must be 1 to 15 characters"}')
+      unless length $name && length $name <= 15;
+    # EGA colours 1..15; 0 is black, the board itself.
+    my $color = param('color') // $default_color;
+    reply('400 Bad Request', '{"error":"color must be 1 to 15"}')
+      unless $color =~ /\A[1-9][0-9]?\z/ && $color <= 15;
+    return { name => $name, color => 0 + $color };
+}
+
 reply('200 OK', read_game(game_id())) if $method eq 'GET';
 
 my $do = param('do') // '';
@@ -127,18 +151,24 @@ mkdir $games unless -d $games;
 if ($do eq 'join') {
     my $id = game_id();
     my $lock = lock_games();
-    read_game($id);                           # 404 if there is no such game
+    my $game = $JSON->decode(read_game($id));   # 404 if there is no such game
     my @tokens = read_tokens($id);
     reply('409 Conflict', '{"error":"someone already joined"}') if @tokens != 1;
+    # The join screen never offers player one's colour; this is the backstop.
+    my $me = player('Two', 9);
+    reply('400 Bad Request', '{"error":"Be original."}')
+      if $me->{color} == ($game->{players}[0]{color} // 0);
     my $token = random_hex(16);
     write_tokens($id, @tokens, $token);
+    push @{ $game->{players} }, $me;
+    write_game($id, $JSON->encode($game));
     reply('200 OK', qq({"token":"$token"}));
 }
 
 if ($do eq 'move') {
     my $id = game_id();
     my $lock = lock_games();
-    my $game = decode_json(read_game($id));
+    my $game = $JSON->decode(read_game($id));
     my $token = param('token') // '';
     my @tokens = read_tokens($id);
     my ($seat) = grep { $tokens[$_] eq $token } 0 .. $#tokens;
@@ -159,7 +189,7 @@ if ($do eq 'move') {
       if grep { $_ eq $edge } @{ $game->{moves} };
 
     push @{ $game->{moves} }, $edge;
-    write_game($id, JSON::PP->new->canonical->encode($game));
+    write_game($id, $JSON->encode($game));
     reply('200 OK', '{"n":' . scalar(@{ $game->{moves} }) . ',"turn":' . turn_after($game) . '}');
 }
 
@@ -171,12 +201,13 @@ for my $dim ('w', 'h') {
     my $n = param($dim) // 5;
     reply('400 Bad Request', qq({"error":"$dim must be 1 to 30"}))
       unless $n =~ /\A[1-9][0-9]?\z/ && $n <= 30;
-    $size{$dim} = $n;
+    $size{$dim} = 0 + $n;
 }
 
+my $me = player('One', 12);
 my $id = random_hex(6);
 my $token = random_hex(16);
 write_tokens($id, $token);                    # tokens first: no game without seats
-write_game($id, qq({"h":$size{h},"moves":[],"w":$size{w}}));
+write_game($id, $JSON->encode({ %size, moves => [], players => [$me] }));
 
 reply('200 OK', qq({"id":"$id","token":"$token"}));
