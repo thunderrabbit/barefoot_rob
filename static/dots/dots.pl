@@ -228,6 +228,23 @@ if ($do eq 'move') {
 
 reply('400 Bad Request', '{"error":"unknown do"}') unless $do eq 'create';
 
+# Games nobody has touched for a week go, so abandoned ones don't pile up in
+# the lobby or on disk. A game's .json changes with every move; its .tok only
+# on create and join, so the .json's age decides for both.
+sub sweep {
+    my $lock = lock_games();
+    my $cutoff = time - 7 * 24 * 60 * 60;
+    opendir my $dir, $games or return;
+    for my $file (readdir $dir) {
+        my ($id, $ext) = $file =~ /\A([a-f0-9]{12})\.(json|tok)\z/ or next;
+        my $json = "$games/$id.json";
+        next if -e $json && (stat $json)[9] >= $cutoff;
+        next if !-e $json && (stat "$games/$file")[9] >= $cutoff;   # orphan .tok
+        unlink "$games/$file";
+    }
+}
+sweep();
+
 # Board size in boxes; 1..30 is the limit the setup screen already enforces.
 my %size;
 for my $dim ('w', 'h') {
