@@ -388,6 +388,14 @@
     });
   }
 
+  /* The other way round: the edge a side of the marker's box is. */
+  function edgeKey(x, y, side) {
+    if (side === SIDE.left) return 'v,' + x + ',' + y;
+    if (side === SIDE.right) return 'v,' + (x + 1) + ',' + y;
+    if (side === SIDE.down) return 'h,' + x + ',' + y;
+    return 'h,' + x + ',' + (y + 1);
+  }
+
   /* Which box the marker has to stand in, and which of its sides to draw. */
   function edgeToMove(key, w, h) {
     var p = key.split(','), x = +p[1], y = +p[2];
