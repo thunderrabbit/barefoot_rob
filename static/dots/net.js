@@ -67,5 +67,10 @@
     });
   }
 
-  window.DotsNet = { create: create, load: load, join: join, seat: seat, linkedGame: linkedGame };
+  function move(id, token, edge, done) {
+    post({ 'do': 'move', id: id, token: token, edge: edge }, function (err) { done(err); });
+  }
+
+  window.DotsNet = { create: create, load: load, join: join, move: move, seat: seat,
+                     linkedGame: linkedGame, shareLink: shareLink };
 }());
