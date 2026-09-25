@@ -189,8 +189,11 @@ if ($do eq 'join') {
     reply('409 Conflict', '{"error":"someone already joined"}') if @tokens != 1;
     # The join screen never offers player one's colour; this is the backstop.
     my $me = player('Two', 9);
-    reply('400 Bad Request', '{"error":"Be original."}')
-      if $me->{color} == ($game->{players}[0]{color} // 0);
+    # Games from before names have no player one to sit opposite. Refuse
+    # them, rather than reading through the gap and conjuring up an empty one.
+    my $first = $game->{players} && $game->{players}[0];
+    reply('409 Conflict', '{"error":"that game is from an older DOTS"}') unless $first;
+    reply('400 Bad Request', '{"error":"Be original."}') if $me->{color} == $first->{color};
     my $token = random_hex(16);
     write_tokens($id, @tokens, $token);
     push @{ $game->{players} }, $me;
