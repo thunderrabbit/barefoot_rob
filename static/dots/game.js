@@ -527,11 +527,16 @@
   }
 
   function message(text) {
-    el.gameMsg.textContent = text || '';
+    el.gameMsg.textContent = text || restingMessage();
     if (msgTimer) window.clearTimeout(msgTimer);
     if (text) {
-      msgTimer = window.setTimeout(function () { el.gameMsg.textContent = ''; }, 4000);
+      msgTimer = window.setTimeout(function () { el.gameMsg.textContent = restingMessage(); }, 4000);
     }
+  }
+
+  /* What the message line settles back to: blank, except for a spectator. */
+  function restingMessage() {
+    return game && game.net && game.net.side < 0 && !game.done ? 'Watching.' : '';
   }
 
   /* DisplayWinner */
@@ -555,6 +560,11 @@
   /* One move, from either player, with everything the panel has to say. */
   function commit(g, side) {
     var key = g.net && edgeKey(g.marker.x, g.marker.y, side);
+    if (g.net && g.net.side < 0) {
+      message('You are watching.');
+      buzz(g);
+      return false;
+    }
     if (g.net && (g.net.sending || g.turn !== g.net.side)) {
       message('Wait for ' + g.players[g.turn].name + '. .');
       buzz(g);
@@ -963,7 +973,7 @@
           + '  Waiting for someone to join. .';
         waitForJoin(id, seat);
       } else if (g.players.length > 1) {
-        el.joinMsg.textContent = 'This game already has two players.';
+        showNetGame(netGame(g, { id: id, token: null, side: -1 }));   /* a spectator */
       } else {
         el.joinMsg.textContent = '';
         buildJoinSwatches(g.players[0].color);
@@ -1006,12 +1016,16 @@
 
   var poll = { timer: null, fn: null, since: 0 };
 
-  function startPoll(fn) {
+  /* Players ask every 2s, easing to every 10s after five quiet minutes.
+     Spectators ask every 5s, easing to every 15s after a quiet minute. */
+  var PACE = { play: [2000, 10000, 5 * 60 * 1000], watch: [5000, 15000, 60 * 1000] };
+
+  function startPoll(fn, pace) {
     stopPoll();
+    pace = pace || PACE.play;
     poll.fn = fn;
     poll.since = poll.since || Date.now();
-    /* Every 2s, easing to every 10s after five quiet minutes. */
-    var wait = Date.now() - poll.since > 5 * 60 * 1000 ? 10000 : 2000;
+    var wait = Date.now() - poll.since > pace[2] ? pace[1] : pace[0];
     poll.timer = window.setTimeout(function () {
       poll.timer = null;
       if (!document.hidden) fn();            /* a hidden tab waits for visibilitychange */
@@ -1049,8 +1063,8 @@
     stopDemo();
     el.verdict.hidden = true;
     el.again.hidden = true;
-    message('');
     game = g;
+    message('');
     layout(g, true);
     updateScores(g);
     draw(g);
@@ -1058,7 +1072,8 @@
     else awaitTurn(g);
   }
 
-  /* While it is the other player's turn, keep asking for their move. */
+  /* While it is the other player's turn, keep asking for their move. A
+     spectator's turn never comes, so they keep asking until the end. */
   function awaitTurn(g) {
     if (g.done || g.turn === g.net.side) { stopPoll(); poll.since = 0; return; }
     startPoll(function () {
@@ -1068,7 +1083,7 @@
         poll.since = 0;
         showNetGame(netGame(state, g.net));
       });
-    });
+    }, g.net.side < 0 ? PACE.watch : PACE.play);
   }
 
   function sendMove(g, key) {
