@@ -11,7 +11,10 @@ my $BACKEND = $ENV{DOTS_BACKEND}
 
 sub reply {
     my ($status, $json) = @_;
-    print "Status: $status\nContent-Type: application/json\n\n$json\n";
+    # DreamHost adds a two-day max-age to JSON; games change every move.
+    # mod_expires leaves alone a response that already carries Expires.
+    print "Status: $status\nContent-Type: application/json\n"
+        . "Cache-Control: no-store\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\n\n$json\n";
     exit;
 }
 
