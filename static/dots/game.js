@@ -554,6 +554,12 @@
 
   /* One move, from either player, with everything the panel has to say. */
   function commit(g, side) {
+    var key = g.net && edgeKey(g.marker.x, g.marker.y, side);
+    if (g.net && (g.net.sending || g.turn !== g.net.side)) {
+      message('Wait for ' + g.players[g.turn].name + '. .');
+      buzz(g);
+      return false;
+    }
     if (!play(g, side)) {
       message('There is already a line there.');
       return false;
@@ -562,6 +568,7 @@
     message('');
     updateScores(g);
     draw(g);
+    if (g.net) sendMove(g, key);
     if (g.done) { finish(g); return true; }
     think(g);
     return true;
@@ -766,6 +773,11 @@
 
   function askSwitch() {
     var g = game;
+    if (g.net) {
+      message('Players cannot trade places across the internet.');
+      buzz(g);
+      return;
+    }
     if (g.players[1].kind === 'computer') {
       message('The computer will not trade places with you.');
       buzz(g);
@@ -861,8 +873,9 @@
     window.DotsNet.create({ w: w, h: h, name: playerName(0), color: colors[0] }, function (err, made) {
       el.play.disabled = false;
       if (err) { el.setupMsg.textContent = err; buzz(null); return; }
-      el.setupMsg.textContent = 'Send this link to your opponent: ' + made.link
-        + '  Waiting for someone to join. .';
+      el.setupMsg.textContent = '';
+      history.replaceState(null, '', '#g=' + made.id);
+      openJoin(made.id);
     });
   }
 
@@ -929,6 +942,8 @@
   }
 
   function openJoin(id) {
+    stopPoll();
+    game = null;                                /* a new link replaces any game */
     show('join');
     stopDemo();
     joining.id = id;
@@ -939,9 +954,14 @@
     window.DotsNet.load(id, function (err, g) {
       if (joining.id !== id) return;            /* another link came in meanwhile */
       if (err) { el.joinMsg.textContent = err; return; }
+      var seat = window.DotsNet.seat(id);
       showWho(g);
-      if (window.DotsNet.seat(id)) {
-        el.joinMsg.textContent = 'You already have a seat in this game.';
+      if (seat && g.players.length > 1) {
+        showNetGame(netGame(g, { id: id, token: seat.token, side: seat.side }));
+      } else if (seat) {
+        el.joinMsg.textContent = 'Send this link to your opponent: ' + window.DotsNet.shareLink(id)
+          + '  Waiting for someone to join. .';
+        waitForJoin(id, seat);
       } else if (g.players.length > 1) {
         el.joinMsg.textContent = 'This game already has two players.';
       } else {
@@ -953,6 +973,20 @@
     });
   }
 
+  /* Player one, holding the link open until player two arrives. */
+  function waitForJoin(id, seat) {
+    startPoll(function () {
+      window.DotsNet.load(id, function (err, g) {
+        if (joining.id !== id || el.stages.join.hidden) return;
+        if (!err && g.players.length > 1) {
+          showNetGame(netGame(g, { id: id, token: seat.token, side: seat.side }));
+        } else {
+          waitForJoin(id, seat);
+        }
+      });
+    });
+  }
+
   function onJoin(e) {
     e.preventDefault();
     var id = joining.id, name = el.joinName.value.trim().slice(0, 15) || 'Two';
@@ -961,10 +995,108 @@
     window.DotsNet.join(id, { name: name, color: joining.color }, function (err) {
       el.joinBtn.disabled = false;
       if (err) { el.joinMsg.textContent = err; buzz(null); return; }
-      el.joinSeat.hidden = true;
-      el.joinBtn.hidden = true;
-      el.joinMsg.textContent = 'You are in. Playing across the internet comes next.';
+      openJoin(id);                             /* now with a seat: into the game */
     });
+  }
+
+  /* ---------- playing across the internet ----------
+     The server's list of moves is the game. Each browser replays it from
+     scratch to get the board, the scores and whose turn it is, and asks for
+     the list again every couple of seconds while the other player moves. */
+
+  var poll = { timer: null, fn: null, since: 0 };
+
+  function startPoll(fn) {
+    stopPoll();
+    poll.fn = fn;
+    poll.since = poll.since || Date.now();
+    /* Every 2s, easing to every 10s after five quiet minutes. */
+    var wait = Date.now() - poll.since > 5 * 60 * 1000 ? 10000 : 2000;
+    poll.timer = window.setTimeout(function () {
+      poll.timer = null;
+      if (!document.hidden) fn();            /* a hidden tab waits for visibilitychange */
+    }, wait);
+  }
+
+  function stopPoll() {
+    if (poll.timer) window.clearTimeout(poll.timer);
+    poll.timer = null;
+    poll.fn = null;
+  }
+
+  function onVisibility() {
+    if (!document.hidden && poll.fn && !poll.timer) poll.fn();
+  }
+
+  function netGame(state, net) {
+    var i, m, players = [];
+    for (i = 0; i < 2; i++) {
+      players.push({ name: state.players[i].name, color: state.players[i].color,
+                     kind: i === net.side ? 'human' : 'net' });
+    }
+    var g = makeGame(el.board, state.w, state.h, players);
+    for (i = 0; i < state.moves.length; i++) {
+      m = edgeToMove(state.moves[i], g.w, g.h);
+      g.marker = { x: m.x, y: m.y };          /* ends on the latest line drawn */
+      place(g, m.side);
+    }
+    g.net = { id: net.id, token: net.token, side: net.side, n: state.moves.length, sending: false };
+    return g;
+  }
+
+  function showNetGame(g) {
+    show('game');
+    stopDemo();
+    el.verdict.hidden = true;
+    el.again.hidden = true;
+    message('');
+    game = g;
+    layout(g, true);
+    updateScores(g);
+    draw(g);
+    if (g.done) finish(g);
+    else awaitTurn(g);
+  }
+
+  /* While it is the other player's turn, keep asking for their move. */
+  function awaitTurn(g) {
+    if (g.done || g.turn === g.net.side) { stopPoll(); poll.since = 0; return; }
+    startPoll(function () {
+      window.DotsNet.load(g.net.id, function (err, state) {
+        if (game !== g) return;               /* quit or replaced meanwhile */
+        if (err || state.moves.length <= g.net.n) { awaitTurn(g); return; }
+        poll.since = 0;
+        showNetGame(netGame(state, g.net));
+      });
+    });
+  }
+
+  function sendMove(g, key) {
+    g.net.sending = true;
+    window.DotsNet.move(g.net.id, g.net.token, key, function (err) {
+      g.net.sending = false;
+      if (game !== g) return;
+      if (err) { message(err); resync(g); return; }
+      g.net.n++;
+      awaitTurn(g);
+    });
+  }
+
+  /* The server disagreed: take its word for the board. */
+  function resync(g) {
+    window.DotsNet.load(g.net.id, function (err, state) {
+      if (game !== g) return;
+      if (err) { message(err); awaitTurn(g); return; }
+      showNetGame(netGame(state, g.net));
+    });
+  }
+
+  /* Leaving a game over the internet: stop asking about it, and drop its link
+     from the address bar so a reload starts afresh (the seat is kept). */
+  function leaveNet() {
+    stopPoll();
+    poll.since = 0;
+    if (location.hash) history.replaceState(null, '', location.pathname);
   }
 
   function onHash() {
@@ -980,12 +1112,14 @@
   }
 
   function showTitle() {
+    leaveNet();
     show('title');
     game = null;
     startDemo();
   }
 
   function showSetup() {
+    leaveNet();
     show('setup');
     stopDemo();
     el.setupMsg.textContent = '';
@@ -1070,9 +1204,9 @@
   });
   document.getElementById('btn-join-own').addEventListener('click', function () {
     joining.id = null;
-    history.replaceState(null, '', location.pathname);
     showSetup();
   });
+  document.addEventListener('visibilitychange', onVisibility);
   window.addEventListener('hashchange', onHash);
   onKindChange();                     /* a reload may restore 'internet' */
   document.getElementById('btn-setup-help').addEventListener('click', openHelp);
@@ -1094,6 +1228,6 @@
   document.addEventListener('keydown', onKeyDown);
   window.addEventListener('resize', onResize);
 
-  showTitle();
-  onHash();
+  if (window.DotsNet.linkedGame()) onHash();
+  else showTitle();
 }());
