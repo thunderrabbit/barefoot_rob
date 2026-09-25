@@ -58,7 +58,8 @@
     width: document.getElementById('width'),
     height: document.getElementById('height'),
     help: document.getElementById('help'),
-    helpPages: [document.getElementById('help-1'), document.getElementById('help-2')],
+    helpPages: [document.getElementById('help-1'), document.getElementById('help-2'),
+                document.getElementById('help-3')],
     ask: document.getElementById('ask'),
     askQ: document.getElementById('ask-q'),
     sound: document.getElementById('btn-sound'),
@@ -69,6 +70,7 @@
   var demo = null;       /* the title screen playing with itself */
   var colors = [12, 9];  /* Light Red and Light Blue, the Auto defaults */
   var overlay = null;    /* 'help' or 'ask' while one is open */
+  var helpPage = 0;      /* rules, then the two credits screens */
   var askAnswer = null;  /* what to run when a Y/N box is answered */
   var msgTimer = null;
 
@@ -686,18 +688,26 @@
 
   /* ---------- overlays ---------- */
 
+  /* The Pascal showed its rules screen, then Enter turned to the credits.
+     Here the credits run to two pages, marked 1/2 and 2/2. */
   function openHelp() {
     overlay = 'help';
-    el.helpPages[0].hidden = false;
-    el.helpPages[1].hidden = true;
+    helpPage = 0;
     el.help.hidden = false;
-    document.getElementById('btn-help-next').focus();
+    showHelpPage();
+  }
+
+  function showHelpPage() {
+    var i, btn;
+    for (i = 0; i < el.helpPages.length; i++) el.helpPages[i].hidden = i !== helpPage;
+    btn = el.helpPages[helpPage].querySelector('.more button');
+    if (btn) btn.focus();
   }
 
   function helpNext() {
-    el.helpPages[0].hidden = true;
-    el.helpPages[1].hidden = false;
-    document.getElementById('btn-help-close').focus();
+    if (helpPage >= el.helpPages.length - 1) { closeHelp(); return; }
+    helpPage++;
+    showHelpPage();
   }
 
   function closeHelp() {
@@ -923,6 +933,7 @@
   document.getElementById('btn-setup-help').addEventListener('click', openHelp);
   document.getElementById('btn-help').addEventListener('click', openHelp);
   document.getElementById('btn-help-next').addEventListener('click', helpNext);
+  document.getElementById('btn-help-next-2').addEventListener('click', helpNext);
   document.getElementById('btn-help-close').addEventListener('click', closeHelp);
   document.getElementById('btn-quit').addEventListener('click', askQuit);
   document.getElementById('btn-yes').addEventListener('click', function () { answerAsk(true); });

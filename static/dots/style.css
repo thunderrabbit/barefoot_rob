@@ -131,6 +131,9 @@ input[type=number]{width:5rem}
 .keys td:last-child{white-space:normal}
 .box b{color:var(--c15);font-weight:400}
 .credit{text-align:center;line-height:1.6}
+.page-num{margin:0 0 .6rem;text-align:right;font-size:.8rem;color:var(--c15);opacity:.8}
+.box a{color:var(--c15);text-underline-offset:3px}
+.box a:hover{color:var(--c14)}
 .more{margin:1rem 0 0;text-align:center}
 .ask{max-width:22rem;text-align:center}
 .ask .actions{justify-content:center}
