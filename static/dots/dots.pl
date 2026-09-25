@@ -158,14 +158,19 @@ sub lobby {
         open my $in, '<', "$games/$id.json" or next;
         my $game = eval { $JSON->decode(do { local $/; <$in> }) } or next;
         next if defined $game->{listed} && !$game->{listed};  # older games are listed
+        # Games from before names, or damaged by hand, would only break the
+        # lobby's rows; each player needs a name and a colour 1..15.
+        my $players = $game->{players};
+        next unless ref $players eq 'ARRAY' && @$players && @$players <= 2
+          && !grep { ref ne 'HASH' || !defined $_->{name} || ($_->{color} // 0) !~ /\A(?:[1-9]|1[0-5])\z/ } @$players;
         my $edges = $game->{w} * ($game->{h} + 1) + ($game->{w} + 1) * $game->{h};
         my $moves = @{ $game->{moves} };
-        my $kind = @{ $game->{players} || [] } < 2 ? 'waiting'
-                 : $moves >= $edges                ? 'done'
-                 :                                   'playing';
+        my $kind = @$players < 2    ? 'waiting'
+                 : $moves >= $edges ? 'done'
+                 :                    'playing';
         next if @{ $group{$kind} } >= $cap{$kind};
         push @{ $group{$kind} }, { id => $id, w => $game->{w}, h => $game->{h},
-            players => $game->{players} || [], moves => $moves, updated => $mtime };
+            players => $players, moves => $moves, updated => $mtime };
     }
     return $JSON->encode(\%group);
 }
