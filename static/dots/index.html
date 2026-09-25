@@ -8,7 +8,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Cg fill='%23fff'%3E%3Crect x='3' y='3' width='2' height='2'/%3E%3Crect x='11' y='3' width='2' height='2'/%3E%3Crect x='3' y='11' width='2' height='2'/%3E%3Crect x='11' y='11' width='2' height='2'/%3E%3C/g%3E%3C/svg%3E">
 <!-- DreamHost caches .css/.js for 30 days: bump ?v= (yyyymmddhhmm) on
      all three assets whenever any of them changes. -->
-<link rel="stylesheet" href="style.css?v=202609252053">
+<link rel="stylesheet" href="style.css?v=202609252124">
 </head>
 <body>
 
@@ -45,6 +45,9 @@
           <option value="computer">the computer</option>
           <option value="internet">a human, across the internet</option>
         </select>
+      </label>
+      <label class="field net-only" hidden>
+        <input type="checkbox" id="listed" checked> List it in the lobby, so anyone can join
       </label>
       <p class="prompt here-only">Player two color : <span class="chosen" id="p2chosen"></span></p>
       <div class="swatches here-only" id="p2colors" role="radiogroup" aria-label="Player two color"></div>
@@ -186,7 +189,7 @@
   </div>
 </div>
 
-<script src="net.js?v=202609252053"></script>
-<script src="game.js?v=202609252053"></script>
+<script src="net.js?v=202609252124"></script>
+<script src="game.js?v=202609252124"></script>
 </body>
 </html>

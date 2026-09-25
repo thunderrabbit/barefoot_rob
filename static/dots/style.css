@@ -76,6 +76,7 @@ input,select{
   color:var(--c15);background:var(--c0);border:1px solid var(--c3);border-radius:2px;
 }
 input[type=number]{width:5rem}
+input[type=checkbox]{width:1.1rem;height:1.1rem;padding:0;accent-color:var(--c14)}
 .sizes{display:flex;gap:1.5rem;flex-wrap:wrap}
 .prompt{margin:.5rem 0 .45rem}
 .chosen{color:var(--c15)}

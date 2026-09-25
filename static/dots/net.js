@@ -39,7 +39,8 @@
   }
 
   function create(opts, done) {
-    post({ 'do': 'create', w: opts.w, h: opts.h, name: opts.name, color: opts.color },
+    post({ 'do': 'create', w: opts.w, h: opts.h, name: opts.name, color: opts.color,
+           listed: opts.listed ? 1 : 0 },
       function (err, body) {
         if (err) { done(err); return; }
         saveSeat(body.id, { token: body.token, side: 0 });

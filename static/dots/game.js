@@ -58,6 +58,8 @@
     swatches: [document.getElementById('p1colors'), document.getElementById('p2colors')],
     kind: document.getElementById('p2kind'),
     hereOnly: document.querySelectorAll('.here-only'),
+    netOnly: document.querySelectorAll('.net-only'),
+    listed: document.getElementById('listed'),
     play: document.querySelector('#setup button[type=submit]'),
     joinForm: document.getElementById('join'),
     joinWho: document.getElementById('join-who'),
@@ -874,13 +876,15 @@
   function onKindChange() {
     var i, away = el.kind.value === 'internet';
     for (i = 0; i < el.hereOnly.length; i++) el.hereOnly[i].hidden = away;
+    for (i = 0; i < el.netOnly.length; i++) el.netOnly[i].hidden = !away;
     el.setupMsg.textContent = '';
   }
 
   function createNetGame(w, h) {
     el.play.disabled = true;
     el.setupMsg.textContent = 'Setting up the game. .';
-    window.DotsNet.create({ w: w, h: h, name: playerName(0), color: colors[0] }, function (err, made) {
+    var opts = { w: w, h: h, name: playerName(0), color: colors[0], listed: el.listed.checked };
+    window.DotsNet.create(opts, function (err, made) {
       el.play.disabled = false;
       if (err) { el.setupMsg.textContent = err; buzz(null); return; }
       el.setupMsg.textContent = '';
