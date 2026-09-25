@@ -34,17 +34,18 @@
 
     <fieldset>
       <legend>Player two</legend>
-      <label class="field">Name
+      <label class="field here-only">Name
         <input type="text" id="p2name" maxlength="15" value="Two" autocomplete="off" spellcheck="false">
       </label>
       <label class="field">Played by
         <select id="p2kind">
           <option value="human">a human, here</option>
           <option value="computer">the computer</option>
+          <option value="internet">a human, across the internet</option>
         </select>
       </label>
-      <p class="prompt">Player two color : <span class="chosen" id="p2chosen"></span></p>
-      <div class="swatches" id="p2colors" role="radiogroup" aria-label="Player two color"></div>
+      <p class="prompt here-only">Player two color : <span class="chosen" id="p2chosen"></span></p>
+      <div class="swatches here-only" id="p2colors" role="radiogroup" aria-label="Player two color"></div>
     </fieldset>
 
     <fieldset>
@@ -161,6 +162,7 @@
   </div>
 </div>
 
+<script src="net.js"></script>
 <script src="game.js"></script>
 </body>
 </html>

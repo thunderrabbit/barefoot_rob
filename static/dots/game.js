@@ -56,6 +56,8 @@
     chosen: [document.getElementById('p1chosen'), document.getElementById('p2chosen')],
     swatches: [document.getElementById('p1colors'), document.getElementById('p2colors')],
     kind: document.getElementById('p2kind'),
+    hereOnly: document.querySelectorAll('.here-only'),
+    play: document.querySelector('#setup button[type=submit]'),
     width: document.getElementById('width'),
     height: document.getElementById('height'),
     help: document.getElementById('help'),
@@ -822,6 +824,24 @@
     return n;
   }
 
+  /* An internet opponent picks their own name and colour when they join. */
+  function onKindChange() {
+    var i, away = el.kind.value === 'internet';
+    for (i = 0; i < el.hereOnly.length; i++) el.hereOnly[i].hidden = away;
+    el.setupMsg.textContent = '';
+  }
+
+  function createNetGame(w, h) {
+    el.play.disabled = true;
+    el.setupMsg.textContent = 'Setting up the game. .';
+    window.DotsNet.create({ w: w, h: h, name: playerName(0), color: colors[0] }, function (err, made) {
+      el.play.disabled = false;
+      if (err) { el.setupMsg.textContent = err; buzz(null); return; }
+      el.setupMsg.textContent = 'Send this link to your opponent: ' + made.link
+        + '  Waiting for someone to join. .';
+    });
+  }
+
   function onSubmit(e) {
     e.preventDefault();
     var w = readSize(el.width), h = readSize(el.height);
@@ -830,6 +850,7 @@
       buzz(null);
       return;
     }
+    if (el.kind.value === 'internet') { createNetGame(w, h); return; }
     if (colors[0] === colors[1]) {
       el.setupMsg.textContent = 'Be original. ' + playerName(0) + ' already got '
         + COLORSET[colors[0]][0] + '.';
@@ -931,6 +952,8 @@
   buildSwatches();
   el.begin.addEventListener('click', showSetup);
   el.setupForm.addEventListener('submit', onSubmit);
+  el.kind.addEventListener('change', onKindChange);
+  onKindChange();                     /* a reload may restore 'internet' */
   document.getElementById('btn-setup-help').addEventListener('click', openHelp);
   document.getElementById('btn-help').addEventListener('click', openHelp);
   document.getElementById('btn-help-next').addEventListener('click', helpNext);
