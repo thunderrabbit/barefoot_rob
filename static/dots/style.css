@@ -1,0 +1,140 @@
+/* DOTS — EGA colours on a black screen, the way DOTS7.PAS looked in 1990. */
+
+:root{
+  /* The 16 EGA colours, in the order COLORSET listed them in DOTS7.PAS. */
+  --c0:#000000;  --c1:#0000AA;  --c2:#00AA00;  --c3:#00AAAA;
+  --c4:#AA0000;  --c5:#AA00AA;  --c6:#AA5500;  --c7:#AAAAAA;
+  --c8:#555555;  --c9:#5555FF;  --c10:#55FF55; --c11:#55FFFF;
+  --c12:#FF5555; --c13:#FF55FF; --c14:#FFFF55; --c15:#FFFFFF;
+
+  --ink:var(--c7);
+  --mono:'DejaVu Sans Mono',ui-monospace,Menlo,Consolas,'Courier New',monospace;
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--c0);color:var(--ink);
+  font-family:var(--mono);font-size:16px;line-height:1.45;
+  min-height:100vh;
+}
+
+.stage{max-width:52rem;margin:0 auto;padding:1.25rem 1rem 3rem}
+[hidden]{display:none !important}
+
+/* ---------- buttons ---------- */
+
+.key{
+  font:inherit;font-size:.95rem;
+  padding:.4rem .9rem;cursor:pointer;
+  color:var(--c0);background:var(--c14);
+  border:0;border-bottom:3px solid var(--c6);border-radius:2px;
+}
+.key:hover{background:var(--c15)}
+.key.ghost{color:var(--c11);background:var(--c0);border:1px solid var(--c3);border-bottom-width:1px}
+.key.ghost:hover{color:var(--c0);background:var(--c11)}
+.key:focus-visible,input:focus-visible,select:focus-visible,
+.swatch:focus-visible{outline:2px solid var(--c14);outline-offset:2px}
+.actions{display:flex;flex-wrap:wrap;gap:.6rem;margin:1rem 0 0}
+
+/* ---------- title screen ---------- */
+
+.title-stage{
+  /* The original filled the screen light gray and stippled it with dots. */
+  background:
+    radial-gradient(var(--c15) 1px,transparent 1.2px) 0 0/35px 28px,
+    var(--c7);
+  color:var(--c0);max-width:none;
+  min-height:100vh;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:1.25rem;
+}
+.big-title{
+  margin:0;font-size:clamp(2.75rem,13vw,6rem);letter-spacing:.06em;
+  color:var(--c14);text-shadow:.06em .06em 0 var(--c0);
+}
+.title-body{
+  display:flex;flex-wrap:wrap;align-items:center;justify-content:center;
+  gap:1.5rem 2.5rem;
+}
+/* Explicit CSS size: the script resizes the canvas buffer for the display
+   density, and must not feed that back into the layout. */
+#demo{width:min(320px,82vw);aspect-ratio:32/22;background:var(--c0);
+  border:8px solid var(--c0);border-radius:2px}
+.byline{
+  margin:0;font-size:clamp(1.1rem,4vw,1.6rem);text-align:center;
+  color:var(--c10);text-shadow:.05em .05em 0 var(--c0);
+}
+.byline strong{white-space:nowrap}
+
+/* ---------- setup ---------- */
+
+fieldset{margin:0 0 1.1rem;padding:.8rem 1rem 1rem;border:1px solid var(--c8)}
+legend{padding:0 .4rem;color:var(--c14)}
+.field{display:flex;align-items:center;gap:.6rem;margin:0 0 .6rem;flex-wrap:wrap}
+input,select{
+  font:inherit;padding:.3rem .45rem;
+  color:var(--c15);background:var(--c0);border:1px solid var(--c3);border-radius:2px;
+}
+input[type=number]{width:5rem}
+.sizes{display:flex;gap:1.5rem;flex-wrap:wrap}
+.prompt{margin:.5rem 0 .45rem}
+.chosen{color:var(--c15)}
+
+.swatches{display:flex;flex-wrap:wrap;gap:.3rem}
+.swatch{
+  width:2.4rem;height:1.5rem;padding:0;cursor:pointer;
+  border:2px solid var(--c8);border-radius:2px;
+}
+.swatch[aria-checked=true]{border-color:var(--c15);box-shadow:0 0 0 2px var(--c0),0 0 0 3px var(--c14)}
+
+.msg{min-height:1.45em;margin:.8rem 0 0;color:var(--c12)}
+
+/* ---------- the game ---------- */
+
+.game-stage{display:flex;flex-wrap:wrap;gap:1.25rem;align-items:flex-start}
+.board-wrap{flex:1 1 22rem;min-width:min(100%,18rem)}
+/* The script replaces the height with exactly what the grid needs. */
+#board{display:block;width:100%;height:min(72vh,34rem);touch-action:manipulation}
+.panel{flex:0 1 15rem;min-width:min(100%,13rem)}
+
+.score{display:flex;align-items:center;gap:.5rem;margin:0 0 .9rem;font-size:1.05rem}
+.score .turn{
+  flex:0 0 auto;font-size:.8rem;line-height:1;visibility:hidden;
+  color:currentColor;
+}
+.score.up .turn{visibility:visible}
+.score .who{display:flex;flex-direction:column;line-height:1.25}
+.score .num{font-size:1.5rem}
+
+.verdict{margin:0 0 .6rem;font-size:1.2rem}
+.hint{margin:1.1rem 0 0;font-size:.8rem;color:var(--c8);line-height:1.5}
+.hint b{color:var(--c11);font-weight:400}
+
+/* ---------- overlays ---------- */
+
+.overlay{
+  position:fixed;inset:0;z-index:5;
+  display:flex;align-items:center;justify-content:center;
+  padding:1rem;background:rgba(0,0,0,.72);
+}
+.box{
+  /* WriteFirstHelpScreen: a light blue box inside a light red outline. */
+  max-width:34rem;max-height:90vh;overflow:auto;
+  padding:1rem 1.1rem;
+  color:var(--c14);background:var(--c9);border:4px solid var(--c12);
+}
+.box h2{margin:0 0 .7rem;font-size:1.15rem;text-align:center}
+.box p{margin:0 0 .8rem}
+.keys{margin:0 0 .8rem;border-collapse:collapse;font-size:.95rem}
+.keys th{padding:0 0 .35rem;text-align:left}
+.keys td{padding:.05rem .9rem .05rem 0;vertical-align:top;white-space:nowrap}
+.keys td:last-child{white-space:normal}
+.box b{color:var(--c15);font-weight:400}
+.credit{text-align:center;line-height:1.6}
+.more{margin:1rem 0 0;text-align:center}
+.ask{max-width:22rem;text-align:center}
+.ask .actions{justify-content:center}
+
+@media (prefers-reduced-motion:reduce){
+  *{animation:none !important;transition:none !important}
+}

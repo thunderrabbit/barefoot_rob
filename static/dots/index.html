@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DOTS — draw lines, make boxes</title>
+<meta name="description" content="The Game of DOTS: draw lines between the points, complete a box to score a point and go again. A browser port of a Turbo Pascal game from 1990.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Cg fill='%23fff'%3E%3Crect x='3' y='3' width='2' height='2'/%3E%3Crect x='11' y='3' width='2' height='2'/%3E%3Crect x='3' y='11' width='2' height='2'/%3E%3Crect x='11' y='11' width='2' height='2'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ---------- title screen ---------- -->
+<section class="stage title-stage" id="stage-title">
+  <h1 class="big-title">D O T S</h1>
+  <div class="title-body">
+    <canvas id="demo" width="320" height="220" aria-label="A two by two game of DOTS playing itself"></canvas>
+    <p class="byline">Written by<br><strong>Robert Nugen</strong></p>
+  </div>
+  <button type="button" class="key" id="btn-begin">Press any key to continue . .</button>
+</section>
+
+<!-- ---------- setup ---------- -->
+<section class="stage setup-stage" id="stage-setup" hidden>
+  <form id="setup" novalidate>
+    <fieldset>
+      <legend>Player one</legend>
+      <label class="field">Name
+        <input type="text" id="p1name" maxlength="15" value="One" autocomplete="off" spellcheck="false">
+      </label>
+      <p class="prompt">Player one color : <span class="chosen" id="p1chosen"></span></p>
+      <div class="swatches" id="p1colors" role="radiogroup" aria-label="Player one color"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Player two</legend>
+      <label class="field">Name
+        <input type="text" id="p2name" maxlength="15" value="Two" autocomplete="off" spellcheck="false">
+      </label>
+      <label class="field">Played by
+        <select id="p2kind">
+          <option value="human">a human, here</option>
+          <option value="computer">the computer</option>
+        </select>
+      </label>
+      <p class="prompt">Player two color : <span class="chosen" id="p2chosen"></span></p>
+      <div class="swatches" id="p2colors" role="radiogroup" aria-label="Player two color"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>How big do you want the array of dots?</legend>
+      <div class="sizes">
+        <label class="field">Width
+          <input type="number" id="width" min="1" max="30" value="5" inputmode="numeric">
+        </label>
+        <label class="field">Height
+          <input type="number" id="height" min="1" max="30" value="5" inputmode="numeric">
+        </label>
+      </div>
+    </fieldset>
+
+    <p class="msg" id="setup-msg" role="status"></p>
+    <div class="actions">
+      <button type="submit" class="key">Play DOTS</button>
+      <button type="button" class="key ghost" id="btn-setup-help">Help</button>
+    </div>
+  </form>
+</section>
+
+<!-- ---------- the game ---------- -->
+<section class="stage game-stage" id="stage-game" hidden>
+  <div class="board-wrap">
+    <canvas id="board" aria-label="The DOTS grid"></canvas>
+  </div>
+
+  <aside class="panel">
+    <div class="score" id="score1">
+      <span class="turn" aria-hidden="true">┌►<br>└►</span>
+      <span class="who"><span class="name"></span><span class="num">0</span></span>
+    </div>
+    <div class="score" id="score2">
+      <span class="turn" aria-hidden="true">┌►<br>└►</span>
+      <span class="who"><span class="name"></span><span class="num">0</span></span>
+    </div>
+
+    <p class="verdict" id="verdict" hidden></p>
+    <p class="msg" id="game-msg" role="status"></p>
+
+    <div class="actions">
+      <button type="button" class="key ghost" id="btn-help">Help</button>
+      <button type="button" class="key ghost" id="btn-sound" aria-pressed="true">Sound on</button>
+      <button type="button" class="key ghost" id="btn-quit">Quit</button>
+      <button type="button" class="key" id="btn-again" hidden>Play again</button>
+    </div>
+
+    <p class="hint">
+      Arrow keys move the marker. Press <b>Enter</b>, then an arrow, to draw
+      that side. Or tap the gap between two dots.
+    </p>
+  </aside>
+</section>
+
+<!-- ---------- help ---------- -->
+<div class="overlay" id="help" hidden>
+  <div class="box" role="dialog" aria-modal="true" aria-labelledby="help-h">
+    <div class="help-page" id="help-1">
+      <h2 id="help-h">The Game of DOTS</h2>
+      <p>The object of DOTS is to create boxes by drawing lines between the
+      points. If you complete a box you receive a point and you get to go
+      again.</p>
+      <table class="keys">
+        <tr><th colspan="2">Key : Function</th></tr>
+        <tr><td>H</td><td>Pulls up Help Screen.</td></tr>
+        <tr><td>Esc</td><td>Ends game.</td></tr>
+        <tr><td>Enter</td><td>Ready to draw line.</td></tr>
+        <tr><td>S</td><td>Switch players.</td></tr>
+      </table>
+      <p>Arrow keys move marker until you press Enter. After pressing Enter,
+      press an arrow key to draw a line on corresponding side of marker. You
+      may also use `Diagonal' keys to move marker — <b>Q</b> <b>E</b>
+      <b>Z</b> <b>C</b>, or 7 9 1 3 on the number pad.</p>
+      <p>On a touch screen, tap the gap between two dots to draw that line,
+      or tap a box to move the marker there.</p>
+      <p class="more"><button type="button" class="key" id="btn-help-next">Press Enter. . .</button></p>
+    </div>
+
+    <div class="help-page" id="help-2" hidden>
+      <p class="credit">DOTS was written in the Spring of 1990<br>
+      for those who like to play but hate to<br>
+      draw all those dots. . .</p>
+      <p class="credit">Originally written in Pascal in 1990<br>
+      by Robert in Magnolia, Texas.</p>
+      <p class="credit">Please give free copies of DOTS to all<br>
+      your friends and family.</p>
+      <p class="more"><button type="button" class="key" id="btn-help-close">Back to the game</button></p>
+    </div>
+  </div>
+</div>
+
+<!-- ---------- Y/N box ---------- -->
+<div class="overlay" id="ask" hidden>
+  <div class="box ask" role="dialog" aria-modal="true" aria-labelledby="ask-q">
+    <p id="ask-q"></p>
+    <div class="actions">
+      <button type="button" class="key" id="btn-yes">Y</button>
+      <button type="button" class="key ghost" id="btn-no">N</button>
+    </div>
+  </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>
