@@ -324,15 +324,22 @@
   /* SeeIfAddSideOK. Returns false — and buzzes — when the line is already
      drawn, which is what AddOk staying false meant. */
   function play(g, side) {
+    if (!place(g, side)) { buzz(g); return false; }
+    draw(g);
+    return true;
+  }
+
+  /* The rules of one line, with no sound or drawing, so a game sent by the
+     server can be replayed from its list of moves. */
+  function place(g, side) {
     var x = g.marker.x, y = g.marker.y, b = g.boxes[x][y];
-    if (!side || b.line[side]) { buzz(g); return false; }
+    if (!side || b.line[side]) return false;
     addSide(g, x, y, side);
     if (side === SIDE.left) addSide(g, x - 1, y, SIDE.right);
     if (side === SIDE.up) addSide(g, x, y + 1, SIDE.down);
     if (side === SIDE.right) addSide(g, x + 1, y, SIDE.left);
     if (side === SIDE.down) addSide(g, x, y - 1, SIDE.up);
     if (!checkForBox(g)) switchPlayers(g);
-    draw(g);
     return true;
   }
 
