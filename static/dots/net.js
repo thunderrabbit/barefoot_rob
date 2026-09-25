@@ -60,6 +60,17 @@
       }, failed);
   }
 
+  /* done(error, {waiting: [...], playing: [...], done: [...]}) */
+  function lobby(done) {
+    var failed = function () { done('The lobby did not answer.'); };
+    fetch(ENDPOINT + '?do=list', { cache: 'no-store' })
+      .then(function (res) {
+        return res.json().then(function (body) {
+          done(res.ok ? null : (body.error || 'The lobby said no.'), body);
+        }, failed);
+      }, failed);
+  }
+
   function join(id, opts, done) {
     post({ 'do': 'join', id: id, name: opts.name, color: opts.color }, function (err, body) {
       if (err) { done(err); return; }
@@ -72,6 +83,6 @@
     post({ 'do': 'move', id: id, token: token, edge: edge }, function (err) { done(err); });
   }
 
-  window.DotsNet = { create: create, load: load, join: join, move: move, seat: seat,
+  window.DotsNet = { create: create, load: load, lobby: lobby, join: join, move: move, seat: seat,
                      linkedGame: linkedGame, shareLink: shareLink };
 }());

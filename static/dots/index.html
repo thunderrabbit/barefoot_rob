@@ -8,7 +8,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Cg fill='%23fff'%3E%3Crect x='3' y='3' width='2' height='2'/%3E%3Crect x='11' y='3' width='2' height='2'/%3E%3Crect x='3' y='11' width='2' height='2'/%3E%3Crect x='11' y='11' width='2' height='2'/%3E%3C/g%3E%3C/svg%3E">
 <!-- DreamHost caches .css/.js for 30 days: bump ?v= (yyyymmddhhmm) on
      all three assets whenever any of them changes. -->
-<link rel="stylesheet" href="style.css?v=202609252124">
+<link rel="stylesheet" href="style.css?v=202609252126">
 </head>
 <body>
 
@@ -71,6 +71,17 @@
       <button type="button" class="key ghost" id="btn-setup-help">Help</button>
     </div>
   </form>
+
+  <fieldset class="lobby" id="lobby">
+    <legend>Games across the internet</legend>
+    <h3>Looking for a player</h3>
+    <ul id="lobby-waiting"></ul>
+    <h3>In progress</h3>
+    <ul id="lobby-playing"></ul>
+    <h3>Finished</h3>
+    <ul id="lobby-done"></ul>
+    <p class="msg" id="lobby-msg" role="status"></p>
+  </fieldset>
 </section>
 
 <!-- ---------- joining a game someone sent a link to ---------- -->
@@ -189,7 +200,7 @@
   </div>
 </div>
 
-<script src="net.js?v=202609252124"></script>
-<script src="game.js?v=202609252124"></script>
+<script src="net.js?v=202609252126"></script>
+<script src="game.js?v=202609252126"></script>
 </body>
 </html>

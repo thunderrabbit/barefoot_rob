@@ -60,6 +60,10 @@
     hereOnly: document.querySelectorAll('.here-only'),
     netOnly: document.querySelectorAll('.net-only'),
     listed: document.getElementById('listed'),
+    lobby: { waiting: document.getElementById('lobby-waiting'),
+             playing: document.getElementById('lobby-playing'),
+             done: document.getElementById('lobby-done') },
+    lobbyMsg: document.getElementById('lobby-msg'),
     play: document.querySelector('#setup button[type=submit]'),
     joinForm: document.getElementById('join'),
     joinWho: document.getElementById('join-who'),
@@ -1044,6 +1048,7 @@
 
   function onVisibility() {
     if (!document.hidden && poll.fn && !poll.timer) poll.fn();
+    if (!document.hidden && !el.stages.setup.hidden) refreshLobby();
   }
 
   function netGame(state, net) {
@@ -1123,6 +1128,82 @@
     if (id) openJoin(id);
   }
 
+  /* ---------- the lobby ----------
+     Listed games, read while the setup screen is showing. Every button just
+     opens the game's link, which already knows how to join, watch, resume a
+     seat or show a finished board. */
+
+  var lobbyTimer = null;
+
+  function ago(t) {
+    var s = Math.max(0, Date.now() / 1000 - t);
+    if (s < 60) return 'just now';
+    if (s < 3600) return Math.floor(s / 60) + ' min ago';
+    if (s < 86400) return Math.floor(s / 3600) + ' h ago';
+    return Math.floor(s / 86400) + ' d ago';
+  }
+
+  function lobbyName(p) {
+    var span = document.createElement('span');
+    span.textContent = p.name;
+    span.style.color = hex(p.color);
+    return span;
+  }
+
+  function lobbyRow(kind, e) {
+    var li = document.createElement('li'), btn = document.createElement('button');
+    var who = document.createElement('span'), when = document.createElement('span');
+    var mine = kind !== 'done' && window.DotsNet.seat(e.id);
+    who.appendChild(lobbyName(e.players[0]));
+    if (e.players[1]) {
+      who.appendChild(document.createTextNode(' vs '));
+      who.appendChild(lobbyName(e.players[1]));
+    }
+    who.appendChild(document.createTextNode('  ' + e.w + ' x ' + e.h
+      + (kind === 'playing' ? ', ' + e.moves + (e.moves === 1 ? ' move' : ' moves') : '')));
+    when.className = 'when';
+    when.textContent = ago(e.updated);
+    btn.type = 'button';
+    btn.className = 'key ghost';
+    btn.textContent = mine ? 'Play' : { waiting: 'Join', playing: 'Watch', done: 'See' }[kind];
+    btn.addEventListener('click', function () { location.hash = '#g=' + e.id; });
+    li.appendChild(btn);
+    li.appendChild(who);
+    li.appendChild(when);
+    return li;
+  }
+
+  function showLobby(groups) {
+    var kind, list, i, none;
+    for (kind in el.lobby) {
+      if (!el.lobby.hasOwnProperty(kind)) continue;
+      list = el.lobby[kind];
+      list.textContent = '';
+      for (i = 0; i < (groups[kind] || []).length; i++) list.appendChild(lobbyRow(kind, groups[kind][i]));
+      if (!list.children.length) {
+        none = document.createElement('li');
+        none.className = 'none';
+        none.textContent = 'None right now.';
+        list.appendChild(none);
+      }
+    }
+  }
+
+  /* Every 15s while the setup screen shows; a hidden tab skips the asking. */
+  function refreshLobby() {
+    if (lobbyTimer) window.clearTimeout(lobbyTimer);
+    lobbyTimer = null;
+    if (el.stages.setup.hidden) return;
+    if (!document.hidden) {
+      window.DotsNet.lobby(function (err, groups) {
+        if (el.stages.setup.hidden) return;
+        el.lobbyMsg.textContent = err || '';
+        if (!err) showLobby(groups);
+      });
+    }
+    lobbyTimer = window.setTimeout(refreshLobby, 15000);
+  }
+
   /* ---------- stages ---------- */
 
   function show(name) {
@@ -1142,6 +1223,7 @@
     show('setup');
     stopDemo();
     el.setupMsg.textContent = '';
+    refreshLobby();
     if (window.matchMedia && window.matchMedia('(min-width: 48em)').matches) el.names[0].focus();
   }
 
