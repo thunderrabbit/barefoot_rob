@@ -42,6 +42,7 @@
     stages: {
       title: document.getElementById('stage-title'),
       setup: document.getElementById('stage-setup'),
+      join: document.getElementById('stage-join'),
       game: document.getElementById('stage-game')
     },
     demo: document.getElementById('demo'),
@@ -58,6 +59,14 @@
     kind: document.getElementById('p2kind'),
     hereOnly: document.querySelectorAll('.here-only'),
     play: document.querySelector('#setup button[type=submit]'),
+    joinForm: document.getElementById('join'),
+    joinWho: document.getElementById('join-who'),
+    joinSeat: document.getElementById('join-seat'),
+    joinName: document.getElementById('jname'),
+    joinChosen: document.getElementById('jchosen'),
+    joinColors: document.getElementById('jcolors'),
+    joinMsg: document.getElementById('join-msg'),
+    joinBtn: document.getElementById('btn-join'),
     width: document.getElementById('width'),
     height: document.getElementById('height'),
     help: document.getElementById('help'),
@@ -603,7 +612,7 @@
       showSetup();
       return;
     }
-    if (!el.stages.setup.hidden) {
+    if (!el.stages.setup.hidden || !el.stages.join.hidden) {
       if (e.key === 'F1') { e.preventDefault(); openHelp(); }
       return;
     }
@@ -775,7 +784,7 @@
     }
     document.addEventListener('click', function (e) {
       var t = e.target;
-      if (!t.classList || !t.classList.contains('swatch')) return;
+      if (!t.classList || !t.classList.contains('swatch') || !t.dataset.player) return;
       pickColor(+t.dataset.player, +t.dataset.color);
     });
     showColors();
@@ -859,6 +868,93 @@
     }
     el.setupMsg.textContent = '';
     startGame(w, h);
+  }
+
+  /* ---------- joining a game from a link ---------- */
+
+  var joining = { id: null, color: 9 };
+
+  /* Player one's colour is simply not offered, so "Be original." never
+     comes up here. */
+  function buildJoinSwatches(taken) {
+    var i, btn;
+    el.joinColors.innerHTML = '';
+    for (i = 1; i <= MAXCOLOR; i++) {
+      if (i === taken) continue;
+      btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'swatch';
+      btn.style.background = hex(i);
+      btn.setAttribute('role', 'radio');
+      btn.setAttribute('aria-label', COLORSET[i][0]);
+      btn.dataset.color = i;
+      el.joinColors.appendChild(btn);
+    }
+    pickJoinColor(taken === 9 ? 12 : 9);
+  }
+
+  function pickJoinColor(color) {
+    var i, kids = el.joinColors.children;
+    joining.color = color;
+    el.joinChosen.textContent = COLORSET[color][0];
+    el.joinChosen.style.color = hex(color);
+    for (i = 0; i < kids.length; i++) {
+      kids[i].setAttribute('aria-checked', +kids[i].dataset.color === color ? 'true' : 'false');
+    }
+  }
+
+  /* "Rob's 5 x 5 game", with Rob in Rob's colour. */
+  function showWho(g) {
+    var who = document.createElement('span');
+    who.textContent = g.players[0].name;
+    who.style.color = hex(g.players[0].color);
+    el.joinWho.textContent = '';
+    el.joinWho.appendChild(who);
+    el.joinWho.appendChild(document.createTextNode("'s " + g.w + ' x ' + g.h + ' game'));
+  }
+
+  function openJoin(id) {
+    show('join');
+    stopDemo();
+    joining.id = id;
+    el.joinWho.textContent = '';
+    el.joinSeat.hidden = true;
+    el.joinBtn.hidden = true;
+    el.joinMsg.textContent = 'Looking for the game. .';
+    window.DotsNet.load(id, function (err, g) {
+      if (joining.id !== id) return;            /* another link came in meanwhile */
+      if (err) { el.joinMsg.textContent = err; return; }
+      showWho(g);
+      if (window.DotsNet.seat(id)) {
+        el.joinMsg.textContent = 'You already have a seat in this game.';
+      } else if (g.players.length > 1) {
+        el.joinMsg.textContent = 'This game already has two players.';
+      } else {
+        el.joinMsg.textContent = '';
+        buildJoinSwatches(g.players[0].color);
+        el.joinSeat.hidden = false;
+        el.joinBtn.hidden = false;
+      }
+    });
+  }
+
+  function onJoin(e) {
+    e.preventDefault();
+    var id = joining.id, name = el.joinName.value.trim().slice(0, 15) || 'Two';
+    el.joinBtn.disabled = true;
+    el.joinMsg.textContent = 'Joining. .';
+    window.DotsNet.join(id, { name: name, color: joining.color }, function (err) {
+      el.joinBtn.disabled = false;
+      if (err) { el.joinMsg.textContent = err; buzz(null); return; }
+      el.joinSeat.hidden = true;
+      el.joinBtn.hidden = true;
+      el.joinMsg.textContent = 'You are in. Playing across the internet comes next.';
+    });
+  }
+
+  function onHash() {
+    var id = window.DotsNet.linkedGame();
+    if (id) openJoin(id);
   }
 
   /* ---------- stages ---------- */
@@ -953,6 +1049,16 @@
   el.begin.addEventListener('click', showSetup);
   el.setupForm.addEventListener('submit', onSubmit);
   el.kind.addEventListener('change', onKindChange);
+  el.joinForm.addEventListener('submit', onJoin);
+  el.joinColors.addEventListener('click', function (e) {
+    if (e.target.dataset && e.target.dataset.color) pickJoinColor(+e.target.dataset.color);
+  });
+  document.getElementById('btn-join-own').addEventListener('click', function () {
+    joining.id = null;
+    history.replaceState(null, '', location.pathname);
+    showSetup();
+  });
+  window.addEventListener('hashchange', onHash);
   onKindChange();                     /* a reload may restore 'internet' */
   document.getElementById('btn-setup-help').addEventListener('click', openHelp);
   document.getElementById('btn-help').addEventListener('click', openHelp);
@@ -974,4 +1080,5 @@
   window.addEventListener('resize', onResize);
 
   showTitle();
+  onHash();
 }());

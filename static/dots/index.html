@@ -68,6 +68,28 @@
   </form>
 </section>
 
+<!-- ---------- joining a game someone sent a link to ---------- -->
+<section class="stage setup-stage" id="stage-join" hidden>
+  <form id="join" novalidate>
+    <fieldset>
+      <legend>Join a game of DOTS</legend>
+      <p class="prompt" id="join-who"></p>
+      <div id="join-seat" hidden>
+        <label class="field">Your name
+          <input type="text" id="jname" maxlength="15" value="Two" autocomplete="off" spellcheck="false">
+        </label>
+        <p class="prompt">Your color : <span class="chosen" id="jchosen"></span></p>
+        <div class="swatches" id="jcolors" role="radiogroup" aria-label="Your color"></div>
+      </div>
+    </fieldset>
+    <p class="msg" id="join-msg" role="status"></p>
+    <div class="actions">
+      <button type="submit" class="key" id="btn-join" hidden>Join</button>
+      <button type="button" class="key ghost" id="btn-join-own">Start my own game</button>
+    </div>
+  </form>
+</section>
+
 <!-- ---------- the game ---------- -->
 <section class="stage game-stage" id="stage-game" hidden>
   <div class="board-wrap">
