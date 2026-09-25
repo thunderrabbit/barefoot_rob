@@ -2,7 +2,7 @@
 # dots.pl — internet DOTS. It creates and joins games, reads them back, and
 # appends moves. Each seat has a secret token, and a move needs the token of
 # the seat whose turn it is. Player one (seat 0) moves first.
-#   POST do=create                           ->  {"id":"<12 hex>","token":"<32 hex>"}
+#   POST do=create[&w=5&h=5]                 ->  {"id":"<12 hex>","token":"<32 hex>"}
 #   POST do=join&id=<id>                     ->  {"token":"<32 hex>"}
 #   GET  id=<id>                             ->  the game's JSON
 #   POST do=move&id=<id>&token=<t>&edge=h,1,2 ->  {"n":<move count>,"turn":0|1}
@@ -165,9 +165,18 @@ if ($do eq 'move') {
 
 reply('400 Bad Request', '{"error":"unknown do"}') unless $do eq 'create';
 
+# Board size in boxes; 1..30 is the limit the setup screen already enforces.
+my %size;
+for my $dim ('w', 'h') {
+    my $n = param($dim) // 5;
+    reply('400 Bad Request', qq({"error":"$dim must be 1 to 30"}))
+      unless $n =~ /\A[1-9][0-9]?\z/ && $n <= 30;
+    $size{$dim} = $n;
+}
+
 my $id = random_hex(6);
 my $token = random_hex(16);
 write_tokens($id, $token);                    # tokens first: no game without seats
-write_game($id, '{"h":5,"moves":[],"w":5}');
+write_game($id, qq({"h":$size{h},"moves":[],"w":$size{w}}));
 
 reply('200 OK', qq({"id":"$id","token":"$token"}));
