@@ -2,9 +2,10 @@
 # dots.pl — internet DOTS. It creates and joins games, reads them back, and
 # appends moves. Each seat has a secret token, and a move needs the token of
 # the seat whose turn it is. Player one (seat 0) moves first.
-#   POST do=create[&w=5&h=5][&name=One][&color=12] ->  {"id":"<12 hex>","token":"<32 hex>"}
+#   POST do=create[&w=5&h=5][&name=One][&color=12][&listed=1] ->  {"id":"<12 hex>","token":"<32 hex>"}
 #   POST do=join&id=<id>[&name=Two][&color=9]        ->  {"token":"<32 hex>"}
 #   GET  id=<id>                             ->  the game's JSON
+#   GET  do=list                             ->  {"waiting":[…],"playing":[…],"done":[…]}
 #   POST do=move&id=<id>&token=<t>&edge=h,1,2 ->  {"n":<move count>,"turn":0|1}
 # Game files live outside the web root, so nothing here is served directly.
 use strict;
@@ -140,7 +141,39 @@ sub player {
     return { name => $name, color => 0 + $color };
 }
 
-reply('200 OK', read_game(game_id())) if $method eq 'GET';
+# The lobby: listed games, newest first, in three groups. Each entry is a
+# summary, so the lobby never needs every move of every game.
+sub lobby {
+    my %cap = (waiting => 20, playing => 20, done => 10);
+    my %group = map { $_ => [] } keys %cap;
+    opendir my $dir, $games or return $JSON->encode(\%group);
+    my @found;
+    for my $file (readdir $dir) {
+        my ($id) = $file =~ /\A([a-f0-9]{12})\.json\z/ or next;
+        my $mtime = (stat "$games/$file")[9] or next;
+        push @found, [$id, $mtime];
+    }
+    for my $f (sort { $b->[1] <=> $a->[1] } @found) {
+        my ($id, $mtime) = @$f;
+        open my $in, '<', "$games/$id.json" or next;
+        my $game = eval { $JSON->decode(do { local $/; <$in> }) } or next;
+        next if defined $game->{listed} && !$game->{listed};  # older games are listed
+        my $edges = $game->{w} * ($game->{h} + 1) + ($game->{w} + 1) * $game->{h};
+        my $moves = @{ $game->{moves} };
+        my $kind = @{ $game->{players} || [] } < 2 ? 'waiting'
+                 : $moves >= $edges                ? 'done'
+                 :                                   'playing';
+        next if @{ $group{$kind} } >= $cap{$kind};
+        push @{ $group{$kind} }, { id => $id, w => $game->{w}, h => $game->{h},
+            players => $game->{players} || [], moves => $moves, updated => $mtime };
+    }
+    return $JSON->encode(\%group);
+}
+
+if ($method eq 'GET') {
+    reply('200 OK', lobby()) if (param('do') // '') eq 'list';
+    reply('200 OK', read_game(game_id()));
+}
 
 my $do = param('do') // '';
 reply('405 Method Not Allowed', '{"error":"GET or POST only"}')
@@ -205,9 +238,12 @@ for my $dim ('w', 'h') {
 }
 
 my $me = player('One', 12);
+# Listed games show in the lobby; unlisted ones only reach people sent the link.
+my $listed = param('listed') // 1;
+reply('400 Bad Request', '{"error":"listed must be 0 or 1"}') unless $listed =~ /\A[01]\z/;
 my $id = random_hex(6);
 my $token = random_hex(16);
 write_tokens($id, $token);                    # tokens first: no game without seats
-write_game($id, $JSON->encode({ %size, moves => [], players => [$me] }));
+write_game($id, $JSON->encode({ %size, listed => 0 + $listed, moves => [], players => [$me] }));
 
 reply('200 OK', qq({"id":"$id","token":"$token"}));
