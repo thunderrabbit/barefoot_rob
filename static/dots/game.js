@@ -1,7 +1,8 @@
 /* DOTS — a browser port of DOTS7.PAS, written by Robert Nugen in Feb 1990.
    The rules, the keys, the EGA colours, the marker squashing itself flat
    against the wall and grunting about it: all of that is the Pascal. What is
-   new is tap-to-draw, a computer opponent, and a grid that resizes. */
+   new is tap-to-draw, a computer opponent, and a grid that resizes.
+   Version 1.1 */
 
 (function () {
   "use strict";
