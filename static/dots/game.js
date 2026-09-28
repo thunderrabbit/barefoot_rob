@@ -42,6 +42,7 @@
     stages: {
       title: document.getElementById('stage-title'),
       setup: document.getElementById('stage-setup'),
+      join: document.getElementById('stage-join'),
       game: document.getElementById('stage-game')
     },
     demo: document.getElementById('demo'),
@@ -56,6 +57,22 @@
     chosen: [document.getElementById('p1chosen'), document.getElementById('p2chosen')],
     swatches: [document.getElementById('p1colors'), document.getElementById('p2colors')],
     kind: document.getElementById('p2kind'),
+    hereOnly: document.querySelectorAll('.here-only'),
+    netOnly: document.querySelectorAll('.net-only'),
+    listed: document.getElementById('listed'),
+    lobby: { waiting: document.getElementById('lobby-waiting'),
+             playing: document.getElementById('lobby-playing'),
+             done: document.getElementById('lobby-done') },
+    lobbyMsg: document.getElementById('lobby-msg'),
+    play: document.querySelector('#setup button[type=submit]'),
+    joinForm: document.getElementById('join'),
+    joinWho: document.getElementById('join-who'),
+    joinSeat: document.getElementById('join-seat'),
+    joinName: document.getElementById('jname'),
+    joinChosen: document.getElementById('jchosen'),
+    joinColors: document.getElementById('jcolors'),
+    joinMsg: document.getElementById('join-msg'),
+    joinBtn: document.getElementById('btn-join'),
     width: document.getElementById('width'),
     height: document.getElementById('height'),
     help: document.getElementById('help'),
@@ -313,15 +330,22 @@
   /* SeeIfAddSideOK. Returns false — and buzzes — when the line is already
      drawn, which is what AddOk staying false meant. */
   function play(g, side) {
+    if (!place(g, side)) { buzz(g); return false; }
+    draw(g);
+    return true;
+  }
+
+  /* The rules of one line, with no sound or drawing, so a game sent by the
+     server can be replayed from its list of moves. */
+  function place(g, side) {
     var x = g.marker.x, y = g.marker.y, b = g.boxes[x][y];
-    if (!side || b.line[side]) { buzz(g); return false; }
+    if (!side || b.line[side]) return false;
     addSide(g, x, y, side);
     if (side === SIDE.left) addSide(g, x - 1, y, SIDE.right);
     if (side === SIDE.up) addSide(g, x, y + 1, SIDE.down);
     if (side === SIDE.right) addSide(g, x + 1, y, SIDE.left);
     if (side === SIDE.down) addSide(g, x, y - 1, SIDE.up);
     if (!checkForBox(g)) switchPlayers(g);
-    draw(g);
     return true;
   }
 
@@ -368,6 +392,14 @@
     return pair.filter(function (c) {
       return c[0] >= 1 && c[0] <= w && c[1] >= 1 && c[1] <= h;
     });
+  }
+
+  /* The other way round: the edge a side of the marker's box is. */
+  function edgeKey(x, y, side) {
+    if (side === SIDE.left) return 'v,' + x + ',' + y;
+    if (side === SIDE.right) return 'v,' + (x + 1) + ',' + y;
+    if (side === SIDE.down) return 'h,' + x + ',' + y;
+    return 'h,' + x + ',' + (y + 1);
   }
 
   /* Which box the marker has to stand in, and which of its sides to draw. */
@@ -501,11 +533,16 @@
   }
 
   function message(text) {
-    el.gameMsg.textContent = text || '';
+    el.gameMsg.textContent = text || restingMessage();
     if (msgTimer) window.clearTimeout(msgTimer);
     if (text) {
-      msgTimer = window.setTimeout(function () { el.gameMsg.textContent = ''; }, 4000);
+      msgTimer = window.setTimeout(function () { el.gameMsg.textContent = restingMessage(); }, 4000);
     }
+  }
+
+  /* What the message line settles back to: blank, except for a spectator. */
+  function restingMessage() {
+    return game && game.net && game.net.side < 0 && !game.done ? 'Watching.' : '';
   }
 
   /* DisplayWinner */
@@ -528,6 +565,17 @@
 
   /* One move, from either player, with everything the panel has to say. */
   function commit(g, side) {
+    var key = g.net && edgeKey(g.marker.x, g.marker.y, side);
+    if (g.net && g.net.side < 0) {
+      message('You are watching.');
+      buzz(g);
+      return false;
+    }
+    if (g.net && (g.net.sending || g.turn !== g.net.side)) {
+      message('Wait for ' + g.players[g.turn].name + '. .');
+      buzz(g);
+      return false;
+    }
     if (!play(g, side)) {
       message('There is already a line there.');
       return false;
@@ -536,6 +584,7 @@
     message('');
     updateScores(g);
     draw(g);
+    if (g.net) sendMove(g, key);
     if (g.done) { finish(g); return true; }
     think(g);
     return true;
@@ -601,7 +650,7 @@
       showSetup();
       return;
     }
-    if (!el.stages.setup.hidden) {
+    if (!el.stages.setup.hidden || !el.stages.join.hidden) {
       if (e.key === 'F1') { e.preventDefault(); openHelp(); }
       return;
     }
@@ -740,6 +789,11 @@
 
   function askSwitch() {
     var g = game;
+    if (g.net) {
+      message('Players cannot trade places across the internet.');
+      buzz(g);
+      return;
+    }
     if (g.players[1].kind === 'computer') {
       message('The computer will not trade places with you.');
       buzz(g);
@@ -773,7 +827,7 @@
     }
     document.addEventListener('click', function (e) {
       var t = e.target;
-      if (!t.classList || !t.classList.contains('swatch')) return;
+      if (!t.classList || !t.classList.contains('swatch') || !t.dataset.player) return;
       pickColor(+t.dataset.player, +t.dataset.color);
     });
     showColors();
@@ -822,6 +876,27 @@
     return n;
   }
 
+  /* An internet opponent picks their own name and colour when they join. */
+  function onKindChange() {
+    var i, away = el.kind.value === 'internet';
+    for (i = 0; i < el.hereOnly.length; i++) el.hereOnly[i].hidden = away;
+    for (i = 0; i < el.netOnly.length; i++) el.netOnly[i].hidden = !away;
+    el.setupMsg.textContent = '';
+  }
+
+  function createNetGame(w, h) {
+    el.play.disabled = true;
+    el.setupMsg.textContent = 'Setting up the game. .';
+    var opts = { w: w, h: h, name: playerName(0), color: colors[0], listed: el.listed.checked };
+    window.DotsNet.create(opts, function (err, made) {
+      el.play.disabled = false;
+      if (err) { el.setupMsg.textContent = err; buzz(null); return; }
+      el.setupMsg.textContent = '';
+      history.replaceState(null, '', '#g=' + made.id);
+      openJoin(made.id);
+    });
+  }
+
   function onSubmit(e) {
     e.preventDefault();
     var w = readSize(el.width), h = readSize(el.height);
@@ -830,6 +905,7 @@
       buzz(null);
       return;
     }
+    if (el.kind.value === 'internet') { createNetGame(w, h); return; }
     if (colors[0] === colors[1]) {
       el.setupMsg.textContent = 'Be original. ' + playerName(0) + ' already got '
         + COLORSET[colors[0]][0] + '.';
@@ -840,6 +916,294 @@
     startGame(w, h);
   }
 
+  /* ---------- joining a game from a link ---------- */
+
+  var joining = { id: null, color: 9 };
+
+  /* Player one's colour is simply not offered, so "Be original." never
+     comes up here. */
+  function buildJoinSwatches(taken) {
+    var i, btn;
+    el.joinColors.innerHTML = '';
+    for (i = 1; i <= MAXCOLOR; i++) {
+      if (i === taken) continue;
+      btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'swatch';
+      btn.style.background = hex(i);
+      btn.setAttribute('role', 'radio');
+      btn.setAttribute('aria-label', COLORSET[i][0]);
+      btn.dataset.color = i;
+      el.joinColors.appendChild(btn);
+    }
+    pickJoinColor(taken === 9 ? 12 : 9);
+  }
+
+  function pickJoinColor(color) {
+    var i, kids = el.joinColors.children;
+    joining.color = color;
+    el.joinChosen.textContent = COLORSET[color][0];
+    el.joinChosen.style.color = hex(color);
+    for (i = 0; i < kids.length; i++) {
+      kids[i].setAttribute('aria-checked', +kids[i].dataset.color === color ? 'true' : 'false');
+    }
+  }
+
+  /* "Rob's 5 x 5 game", with Rob in Rob's colour. */
+  function showWho(g) {
+    var who = document.createElement('span');
+    who.textContent = g.players[0].name;
+    who.style.color = hex(g.players[0].color);
+    el.joinWho.textContent = '';
+    el.joinWho.appendChild(who);
+    el.joinWho.appendChild(document.createTextNode("'s " + g.w + ' x ' + g.h + ' game'));
+  }
+
+  function openJoin(id) {
+    stopPoll();
+    game = null;                                /* a new link replaces any game */
+    show('join');
+    stopDemo();
+    joining.id = id;
+    el.joinWho.textContent = '';
+    el.joinSeat.hidden = true;
+    el.joinBtn.hidden = true;
+    el.joinMsg.textContent = 'Looking for the game. .';
+    window.DotsNet.load(id, function (err, g) {
+      if (joining.id !== id) return;            /* another link came in meanwhile */
+      if (err) { el.joinMsg.textContent = err; return; }
+      var seat = window.DotsNet.seat(id);
+      showWho(g);
+      if (seat && g.players.length > 1) {
+        showNetGame(netGame(g, { id: id, token: seat.token, side: seat.side }));
+      } else if (seat) {
+        el.joinMsg.textContent = 'Send this link to your opponent: ' + window.DotsNet.shareLink(id)
+          + '  Waiting for someone to join. .';
+        waitForJoin(id, seat);
+      } else if (g.players.length > 1) {
+        showNetGame(netGame(g, { id: id, token: null, side: -1 }));   /* a spectator */
+      } else {
+        el.joinMsg.textContent = '';
+        buildJoinSwatches(g.players[0].color);
+        el.joinSeat.hidden = false;
+        el.joinBtn.hidden = false;
+      }
+    });
+  }
+
+  /* Player one, holding the link open until player two arrives. */
+  function waitForJoin(id, seat) {
+    startPoll(function () {
+      window.DotsNet.load(id, function (err, g) {
+        if (joining.id !== id || el.stages.join.hidden) return;
+        if (!err && g.players.length > 1) {
+          showNetGame(netGame(g, { id: id, token: seat.token, side: seat.side }));
+        } else {
+          waitForJoin(id, seat);
+        }
+      });
+    });
+  }
+
+  function onJoin(e) {
+    e.preventDefault();
+    var id = joining.id, name = el.joinName.value.trim().slice(0, 15) || 'Two';
+    el.joinBtn.disabled = true;
+    el.joinMsg.textContent = 'Joining. .';
+    window.DotsNet.join(id, { name: name, color: joining.color }, function (err) {
+      el.joinBtn.disabled = false;
+      if (err) { el.joinMsg.textContent = err; buzz(null); return; }
+      openJoin(id);                             /* now with a seat: into the game */
+    });
+  }
+
+  /* ---------- playing across the internet ----------
+     The server's list of moves is the game. Each browser replays it from
+     scratch to get the board, the scores and whose turn it is, and asks for
+     the list again every couple of seconds while the other player moves. */
+
+  var poll = { timer: null, fn: null, since: 0 };
+
+  /* Players ask every 2s, easing to every 10s after five quiet minutes.
+     Spectators ask every 5s, easing to every 15s after a quiet minute. */
+  var PACE = { play: [2000, 10000, 5 * 60 * 1000], watch: [5000, 15000, 60 * 1000] };
+
+  function startPoll(fn, pace) {
+    stopPoll();
+    pace = pace || PACE.play;
+    poll.fn = fn;
+    poll.since = poll.since || Date.now();
+    var wait = Date.now() - poll.since > pace[2] ? pace[1] : pace[0];
+    poll.timer = window.setTimeout(function () {
+      poll.timer = null;
+      if (!document.hidden) fn();            /* a hidden tab waits for visibilitychange */
+    }, wait);
+  }
+
+  function stopPoll() {
+    if (poll.timer) window.clearTimeout(poll.timer);
+    poll.timer = null;
+    poll.fn = null;
+  }
+
+  function onVisibility() {
+    if (!document.hidden && poll.fn && !poll.timer) poll.fn();
+    if (!document.hidden && !el.stages.setup.hidden) refreshLobby();
+  }
+
+  function netGame(state, net) {
+    var i, m, players = [];
+    for (i = 0; i < 2; i++) {
+      players.push({ name: state.players[i].name, color: state.players[i].color,
+                     kind: i === net.side ? 'human' : 'net' });
+    }
+    var g = makeGame(el.board, state.w, state.h, players);
+    for (i = 0; i < state.moves.length; i++) {
+      m = edgeToMove(state.moves[i], g.w, g.h);
+      g.marker = { x: m.x, y: m.y };          /* ends on the latest line drawn */
+      place(g, m.side);
+    }
+    g.net = { id: net.id, token: net.token, side: net.side, n: state.moves.length, sending: false };
+    return g;
+  }
+
+  function showNetGame(g) {
+    show('game');
+    stopDemo();
+    el.verdict.hidden = true;
+    el.again.hidden = true;
+    game = g;
+    message('');
+    layout(g, true);
+    updateScores(g);
+    draw(g);
+    if (g.done) finish(g);
+    else awaitTurn(g);
+  }
+
+  /* While it is the other player's turn, keep asking for their move. A
+     spectator's turn never comes, so they keep asking until the end. */
+  function awaitTurn(g) {
+    if (g.done || g.turn === g.net.side) { stopPoll(); poll.since = 0; return; }
+    startPoll(function () {
+      window.DotsNet.load(g.net.id, function (err, state) {
+        if (game !== g) return;               /* quit or replaced meanwhile */
+        if (err || state.moves.length <= g.net.n) { awaitTurn(g); return; }
+        poll.since = 0;
+        showNetGame(netGame(state, g.net));
+      });
+    }, g.net.side < 0 ? PACE.watch : PACE.play);
+  }
+
+  function sendMove(g, key) {
+    g.net.sending = true;
+    window.DotsNet.move(g.net.id, g.net.token, key, function (err) {
+      g.net.sending = false;
+      if (game !== g) return;
+      if (err) { message(err); resync(g); return; }
+      g.net.n++;
+      awaitTurn(g);
+    });
+  }
+
+  /* The server disagreed: take its word for the board. */
+  function resync(g) {
+    window.DotsNet.load(g.net.id, function (err, state) {
+      if (game !== g) return;
+      if (err) { message(err); awaitTurn(g); return; }
+      showNetGame(netGame(state, g.net));
+    });
+  }
+
+  /* Leaving a game over the internet: stop asking about it, and drop its link
+     from the address bar so a reload starts afresh (the seat is kept). */
+  function leaveNet() {
+    stopPoll();
+    poll.since = 0;
+    if (location.hash) history.replaceState(null, '', location.pathname);
+  }
+
+  function onHash() {
+    var id = window.DotsNet.linkedGame();
+    if (id) openJoin(id);
+  }
+
+  /* ---------- the lobby ----------
+     Listed games, read while the setup screen is showing. Every button just
+     opens the game's link, which already knows how to join, watch, resume a
+     seat or show a finished board. */
+
+  var lobbyTimer = null;
+
+  function ago(t) {
+    var s = Math.max(0, Date.now() / 1000 - t);
+    if (s < 60) return 'just now';
+    if (s < 3600) return Math.floor(s / 60) + ' min ago';
+    if (s < 86400) return Math.floor(s / 3600) + ' h ago';
+    return Math.floor(s / 86400) + ' d ago';
+  }
+
+  function lobbyName(p) {
+    var span = document.createElement('span');
+    span.textContent = p.name;
+    span.style.color = hex(p.color);
+    return span;
+  }
+
+  function lobbyRow(kind, e) {
+    var li = document.createElement('li'), btn = document.createElement('button');
+    var who = document.createElement('span'), when = document.createElement('span');
+    var mine = kind !== 'done' && window.DotsNet.seat(e.id);
+    who.appendChild(lobbyName(e.players[0]));
+    if (e.players[1]) {
+      who.appendChild(document.createTextNode(' vs '));
+      who.appendChild(lobbyName(e.players[1]));
+    }
+    who.appendChild(document.createTextNode('  ' + e.w + ' x ' + e.h
+      + (kind === 'playing' ? ', ' + e.moves + (e.moves === 1 ? ' move' : ' moves') : '')));
+    when.className = 'when';
+    when.textContent = ago(e.updated);
+    btn.type = 'button';
+    btn.className = 'key ghost';
+    btn.textContent = mine ? 'Play' : { waiting: 'Join', playing: 'Watch', done: 'See' }[kind];
+    btn.addEventListener('click', function () { location.hash = '#g=' + e.id; });
+    li.appendChild(btn);
+    li.appendChild(who);
+    li.appendChild(when);
+    return li;
+  }
+
+  function showLobby(groups) {
+    var kind, list, i, none;
+    for (kind in el.lobby) {
+      if (!el.lobby.hasOwnProperty(kind)) continue;
+      list = el.lobby[kind];
+      list.textContent = '';
+      for (i = 0; i < (groups[kind] || []).length; i++) list.appendChild(lobbyRow(kind, groups[kind][i]));
+      if (!list.children.length) {
+        none = document.createElement('li');
+        none.className = 'none';
+        none.textContent = 'None right now.';
+        list.appendChild(none);
+      }
+    }
+  }
+
+  /* Every 15s while the setup screen shows; a hidden tab skips the asking. */
+  function refreshLobby() {
+    if (lobbyTimer) window.clearTimeout(lobbyTimer);
+    lobbyTimer = null;
+    if (el.stages.setup.hidden) return;
+    if (!document.hidden) {
+      window.DotsNet.lobby(function (err, groups) {
+        if (el.stages.setup.hidden) return;
+        el.lobbyMsg.textContent = err || '';
+        if (!err) showLobby(groups);
+      });
+    }
+    lobbyTimer = window.setTimeout(refreshLobby, 15000);
+  }
+
   /* ---------- stages ---------- */
 
   function show(name) {
@@ -848,15 +1212,18 @@
   }
 
   function showTitle() {
+    leaveNet();
     show('title');
     game = null;
     startDemo();
   }
 
   function showSetup() {
+    leaveNet();
     show('setup');
     stopDemo();
     el.setupMsg.textContent = '';
+    refreshLobby();
     if (window.matchMedia && window.matchMedia('(min-width: 48em)').matches) el.names[0].focus();
   }
 
@@ -931,6 +1298,18 @@
   buildSwatches();
   el.begin.addEventListener('click', showSetup);
   el.setupForm.addEventListener('submit', onSubmit);
+  el.kind.addEventListener('change', onKindChange);
+  el.joinForm.addEventListener('submit', onJoin);
+  el.joinColors.addEventListener('click', function (e) {
+    if (e.target.dataset && e.target.dataset.color) pickJoinColor(+e.target.dataset.color);
+  });
+  document.getElementById('btn-join-own').addEventListener('click', function () {
+    joining.id = null;
+    showSetup();
+  });
+  document.addEventListener('visibilitychange', onVisibility);
+  window.addEventListener('hashchange', onHash);
+  onKindChange();                     /* a reload may restore 'internet' */
   document.getElementById('btn-setup-help').addEventListener('click', openHelp);
   document.getElementById('btn-help').addEventListener('click', openHelp);
   document.getElementById('btn-help-next').addEventListener('click', helpNext);
@@ -950,5 +1329,6 @@
   document.addEventListener('keydown', onKeyDown);
   window.addEventListener('resize', onResize);
 
-  showTitle();
+  if (window.DotsNet.linkedGame()) onHash();
+  else showTitle();
 }());

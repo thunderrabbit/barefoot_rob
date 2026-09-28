@@ -6,7 +6,9 @@
 <title>DOTS — draw lines, make boxes</title>
 <meta name="description" content="The Game of DOTS: draw lines between the points, complete a box to score a point and go again. A browser port of a Turbo Pascal game from 1990.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Cg fill='%23fff'%3E%3Crect x='3' y='3' width='2' height='2'/%3E%3Crect x='11' y='3' width='2' height='2'/%3E%3Crect x='3' y='11' width='2' height='2'/%3E%3Crect x='11' y='11' width='2' height='2'/%3E%3C/g%3E%3C/svg%3E">
-<link rel="stylesheet" href="style.css">
+<!-- DreamHost caches .css/.js for 30 days: bump ?v= (yyyymmddhhmm) on
+     all three assets whenever any of them changes. -->
+<link rel="stylesheet" href="style.css?v=202609252126">
 </head>
 <body>
 
@@ -34,17 +36,21 @@
 
     <fieldset>
       <legend>Player two</legend>
-      <label class="field">Name
+      <label class="field here-only">Name
         <input type="text" id="p2name" maxlength="15" value="Two" autocomplete="off" spellcheck="false">
       </label>
       <label class="field">Played by
         <select id="p2kind">
           <option value="human">a human, here</option>
           <option value="computer">the computer</option>
+          <option value="internet">a human, across the internet</option>
         </select>
       </label>
-      <p class="prompt">Player two color : <span class="chosen" id="p2chosen"></span></p>
-      <div class="swatches" id="p2colors" role="radiogroup" aria-label="Player two color"></div>
+      <label class="field net-only" hidden>
+        <input type="checkbox" id="listed" checked> List it in the lobby, so anyone can join
+      </label>
+      <p class="prompt here-only">Player two color : <span class="chosen" id="p2chosen"></span></p>
+      <div class="swatches here-only" id="p2colors" role="radiogroup" aria-label="Player two color"></div>
     </fieldset>
 
     <fieldset>
@@ -63,6 +69,39 @@
     <div class="actions">
       <button type="submit" class="key">Play DOTS</button>
       <button type="button" class="key ghost" id="btn-setup-help">Help</button>
+    </div>
+  </form>
+
+  <fieldset class="lobby" id="lobby">
+    <legend>Games across the internet</legend>
+    <h3>Looking for a player</h3>
+    <ul id="lobby-waiting"></ul>
+    <h3>In progress</h3>
+    <ul id="lobby-playing"></ul>
+    <h3>Finished</h3>
+    <ul id="lobby-done"></ul>
+    <p class="msg" id="lobby-msg" role="status"></p>
+  </fieldset>
+</section>
+
+<!-- ---------- joining a game someone sent a link to ---------- -->
+<section class="stage setup-stage" id="stage-join" hidden>
+  <form id="join" novalidate>
+    <fieldset>
+      <legend>Join a game of DOTS</legend>
+      <p class="prompt" id="join-who"></p>
+      <div id="join-seat" hidden>
+        <label class="field">Your name
+          <input type="text" id="jname" maxlength="15" value="Two" autocomplete="off" spellcheck="false">
+        </label>
+        <p class="prompt">Your color : <span class="chosen" id="jchosen"></span></p>
+        <div class="swatches" id="jcolors" role="radiogroup" aria-label="Your color"></div>
+      </div>
+    </fieldset>
+    <p class="msg" id="join-msg" role="status"></p>
+    <div class="actions">
+      <button type="submit" class="key" id="btn-join" hidden>Join</button>
+      <button type="button" class="key ghost" id="btn-join-own">Start my own game</button>
     </div>
   </form>
 </section>
@@ -161,6 +200,7 @@
   </div>
 </div>
 
-<script src="game.js"></script>
+<script src="net.js?v=202609252126"></script>
+<script src="game.js?v=202609252126"></script>
 </body>
 </html>
