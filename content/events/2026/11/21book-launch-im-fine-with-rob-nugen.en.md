@@ -1,14 +1,14 @@
 ---
 title: "Book Launch: I'M FINE! With Rob Nugen"
-tags: [ "2026", "Barefoot Rob", "adelaide", "book", "book launch", "event", "I'm Fine", "inner critic", "november", "three of cups", "workshop" ]
+tags: [ "2026", "Barefoot Rob", "adelaide", "book", "book launch", "event", "I'm Fine", "inner critic", "november", "workshop" ]
 author: Rob Nugen
 date: 2026-09-18T21:06:45+09:30
-EventLocation: "Three of Cups Teahouse, Level 2, 33 Rundle Mall, Adelaide"
+EventLocation: "Page & Turner Bookshop, Level 2, Myer Centre, 14/38 Rundle Mall, Adelaide"
 EventTime: "13:00"
 TimeDescription: "arrive 13:00-13:15 for meet and greet; session starts promptly at 13:15"
 EventDate: "2026-11-21T13:00:00+10:30"
 EventEndDate: "2026-11-21T15:00:00+10:30"
-EventLocationURL: "https://www.google.com/maps/search/?api=1&query=Three+of+Cups+Teahouse+33+Rundle+Mall+Adelaide"
+EventLocationURL: "https://www.google.com/maps/search/?api=1&query=Page+%26+Turner+Myer+Centre+14%2F38+Rundle+Mall+Adelaide"
 EventType: "Book launch"
 # aliases: [
 #     "/en/events/2026/11/21book-launch-im-fine-with-rob-nugen",
@@ -16,7 +16,7 @@ EventType: "Book launch"
 
 ---
 
-{{% img-responsive "https://b.robnugen.com/blog/2026/2026_nov_21_im_fine_book_launch_adelaide_three_of_cups_1000.png" "I'M FINE! book launch with Rob Nugen at Three of Cups Teahouse, Adelaide" %}}
+{{% img-responsive "https://b.robnugen.com/blog/2026/2026_nov_21_im_fine_book_launch_adelaide_Page_Turner_1000.png" "I'M FINE! book launch with Rob Nugen at Page & Turner Bookshop, Adelaide" %}}
 
 **An immersive experience to manage your emotions and your inner critic, to
 strengthen your relationships with your loved ones and yourself.**
@@ -77,18 +77,16 @@ copy of his book *I'M FINE!*
 
 Saturday 21 November 2026, 13:00 - 15:00
 
-[Three of Cups Teahouse](https://www.google.com/maps/search/?api=1&query=Three+of+Cups+Teahouse+33+Rundle+Mall+Adelaide),
-Level 2, 33 Rundle Mall, Adelaide SA 5000 (inside the Myer Centre)
+[Page & Turner Bookshop](https://www.google.com/maps/search/?api=1&query=Page+%26+Turner+Myer+Centre+14%2F38+Rundle+Mall+Adelaide),
+Level 2, Myer Centre, 14/38 Rundle Mall, Adelaide SA 5000
 
 **Please arrive 13:00-13:15** to have a meet and greet with the author,
-order and pay for your beverage, treat and/or toastie and settle into
+order and pay for your drinks or snacks and settle into
 the space. At 13:15, to keep things to schedule, Rob will start the
 session and won't be waiting for late arrivals.
 
-☕️ Please help us support this incredible venue, Three of Cups, by
-ordering their delicious range of iced and hot herbal teas, vegan and
-gluten free hot chocolate, juices, coconut water, toasties and treats
-that are well worth the visit!
+☕️ Please help us support this lovely venue, Page & Turner, by
+ordering drinks or snacks while you're there!
 
 #### Tickets
 
@@ -101,16 +99,15 @@ at 20 participants to keep things personable, intimate and safe. Ages
 #### FAQ
 
 **How do I get there?**
-The venue is inside the Myer Centre in Rundle Mall, Adelaide. Take the
+The bookshop is inside the Myer Centre in Rundle Mall, Adelaide. Take the
 lift or escalators to level 2. It is an easy commute by tram, train or
 bus, or the closest car park is Secure Parking - Rundle Place, Adelaide
 Car Park.
 
 **Do I need to bring anything?**
 Pen & journal if you wish to write down notes or to help you gain
-clarity. Outside food and drinks are not permitted inside Three of Cups
-Teahouse, so beverages, treats and meals must be ordered at the venue to
-support local business that supports local community.
+clarity. Drinks or snacks are available at Page & Turner; please order
+them there to support local business that supports local community.
 
 **Who is this event for?**
 Anyone who finds themselves comparing their self-worth to others and is
@@ -122,10 +119,6 @@ information presented as well.
 Opening circle yes, to form connection with the group; closing circle,
 discussion and hot seat are optional. Rob will only take 1-2
 participants for the hot seat to manage time.
-
-**Does Three of Cups Teahouse offer gluten free, vegetarian or vegan options?**
-Yes, from beverages, treats and toasties! Please order and pay at the
-cash register and your items will be brought over to you.
 
 #### About the event organiser
 
